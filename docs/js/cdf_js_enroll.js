@@ -68,7 +68,7 @@ new Chart(document.getElementById("line-chart-cdf_enroll"), {
                     45050
                 ],
                 "label": "all_enrolled",
-                "borderColor": "rgb(233, 226, 210)",
+                "borderColor": "rgb(238, 221, 226)",
                 "fill": "false"
             },
             {
@@ -105,7 +105,7 @@ new Chart(document.getElementById("line-chart-cdf_enroll"), {
                     9254
                 ],
                 "label": "allo_enrolled",
-                "borderColor": "rgb(248, 61, 47)",
+                "borderColor": "rgb(237, 90, 15)",
                 "fill": "false"
             },
             {
@@ -142,7 +142,7 @@ new Chart(document.getElementById("line-chart-cdf_enroll"), {
                     4549
                 ],
                 "label": "auto_enrolled",
-                "borderColor": "rgb(42, 25, 74)",
+                "borderColor": "rgb(52, 35, 100)",
                 "fill": "false"
             },
             {
@@ -179,7 +179,7 @@ new Chart(document.getElementById("line-chart-cdf_enroll"), {
                     172
                 ],
                 "label": "both_enrolled",
-                "borderColor": "rgb(21, 179, 217)",
+                "borderColor": "rgb(20, 165, 255)",
                 "fill": "false"
             },
             {
