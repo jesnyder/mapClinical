@@ -11,8 +11,8 @@ def main():
     Map clinical trials
     """
 
-    tasks = []
-    #tasks.append('openmaps')
+    tasks = [0, 1, 2, 3, 4]
+    tasks.append('openmaps')
 
     # list trials
     if 0 in tasks: list_trials()
