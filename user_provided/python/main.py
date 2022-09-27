@@ -4,7 +4,7 @@ from query_openmaps import query_openmaps
 from assign_groups import assign_groups
 from write_geojson import write_geojson
 from year_counts import year_counts
-from summarize_fields import summarize_fields
+#from summarize_fields import summarize_fields
 
 
 def main():
@@ -13,8 +13,8 @@ def main():
     Map clinical trials
     """
 
-    tasks = [0, 1, 2, 3, 4]
-    tasks.append('openmaps')
+    tasks = []
+    #tasks.append('openmaps')
 
     # list trials
     if 0 in tasks: list_trials()
@@ -31,7 +31,7 @@ def main():
     # tally totals
     if 4 in tasks: year_counts()
 
-    #
+    # summarize fields
     if 5 in tasks: summarize_fields()
 
 
