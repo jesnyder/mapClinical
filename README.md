@@ -1,5 +1,5 @@
 # mapClinical
-An interactive map of clinical trials using a mesenchymal stormal cell therapeutic intervention
+An interactive map of clinical trials using a mesenchymal stromal cell (MSC) therapeutic intervention. Group the trials based on the source of the MSCs - allogeneic, autologous, both, or undeclared. All trials are assigned to one group. 
 
 Explore the map here:
 https://jesnyder.github.io/mapClinical/

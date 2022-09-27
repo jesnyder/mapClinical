@@ -4,6 +4,8 @@ from query_openmaps import query_openmaps
 from assign_groups import assign_groups
 from write_geojson import write_geojson
 from year_counts import year_counts
+from summarize_fields import summarize_fields
+
 
 def main():
     """
