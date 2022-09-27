@@ -11,7 +11,7 @@ var streets = L.tileLayer(mbUrl, {id: 'mapbox/streets-v11', tileSize: 512, zoomO
 
 var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		maxZoom: 19,
-		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> |	Data from <a href="https://clinicaltrials.gov/"  target="_blank" rel="noopener"> ClinicalTrials.gov</a>'
+		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> |	Trial Data from <a href="https://clinicaltrials.gov/"  target="_blank" rel="noopener"> ClinicalTrials.gov</a>'
 	});
 
 var map = L.map('map', {

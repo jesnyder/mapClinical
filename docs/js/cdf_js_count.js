@@ -68,7 +68,7 @@ new Chart(document.getElementById("line-chart-cdf_count"), {
                     889
                 ],
                 "label": "all_count",
-                "borderColor": "rgb(255, 200, 235)",
+                "borderColor": "rgb(217, 207, 201)",
                 "fill": "false"
             },
             {
@@ -99,13 +99,13 @@ new Chart(document.getElementById("line-chart-cdf_count"), {
                     80,
                     93,
                     113,
-                    140,
-                    166,
-                    184,
-                    185
+                    142,
+                    168,
+                    186,
+                    187
                 ],
                 "label": "allo_count",
-                "borderColor": "rgb(215, 99, 39)",
+                "borderColor": "rgb(214, 101, 27)",
                 "fill": "false"
             },
             {
@@ -142,7 +142,7 @@ new Chart(document.getElementById("line-chart-cdf_count"), {
                     115
                 ],
                 "label": "auto_count",
-                "borderColor": "rgb(55, 33, 85)",
+                "borderColor": "rgb(30, 1, 81)",
                 "fill": "false"
             },
             {
@@ -179,7 +179,7 @@ new Chart(document.getElementById("line-chart-cdf_count"), {
                     3
                 ],
                 "label": "both_count",
-                "borderColor": "rgb(12, 191, 240)",
+                "borderColor": "rgb(0, 175, 206)",
                 "fill": "false"
             },
             {
@@ -210,10 +210,10 @@ new Chart(document.getElementById("line-chart-cdf_count"), {
                     259,
                     293,
                     335,
-                    420,
-                    494,
-                    579,
-                    586
+                    418,
+                    492,
+                    577,
+                    584
                 ],
                 "label": "undeclared_count",
                 "borderColor": "rgb(232, 224, 222)",

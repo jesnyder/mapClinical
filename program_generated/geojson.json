@@ -1,5 +1,5 @@
 {
-      "feature_count": 1158,
+      "feature_count": 1157,
       "type": [
             "FeatureCollection"
       ],
@@ -3451,6 +3451,31 @@
                         "coordinates": [
                               10.8986971,
                               48.3668041
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                        "aff": "Fachklinik Bad Bentheim, Dermatologische Ambulanz, Bad Bentheim, Germany",
+                        "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                        "enrolled": 200,
+                        "radius": 24,
+                        "color": "rgb(100, 100, 100)",
+                        "fillColor": "rgb(232, 224, 222)",
+                        "opacity": 0.8,
+                        "fillOpacity": 0.8,
+                        "zindex": 10976,
+                        "paneLabel": "pane10976",
+                        "start": "2021-01-18",
+                        "end": "2023-09-30"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              7.1605921,
+                              52.3024786
                         ]
                   }
             },
@@ -15732,31 +15757,6 @@
             {
                   "type": "Feature",
                   "properties": {
-                        "name": "Mesenchymal Stem Cells for the Treatment of COVID-19",
-                        "aff": "Southern California Hospital at Culver City / Southern California Hospital at Hollywood, Culver City, California, United States",
-                        "url": "https://ClinicalTrials.gov/show/NCT04573270",
-                        "enrolled": 40,
-                        "radius": 16,
-                        "color": "rgb(100, 100, 100)",
-                        "fillColor": "rgb(232, 224, 222)",
-                        "opacity": 0.8,
-                        "fillOpacity": 0.8,
-                        "zindex": 10984,
-                        "paneLabel": "pane10984",
-                        "start": "2020-04-24",
-                        "end": "2023-09-30"
-                  },
-                  "geometry": {
-                        "type": "Point",
-                        "coordinates": [
-                              -118.396466,
-                              34.0211224
-                        ]
-                  }
-            },
-            {
-                  "type": "Feature",
-                  "properties": {
                         "name": "Progenitor Potential of Mesenchymal Stem Cells in Palatal Tissue Harvested From Molar and Premolar Sites",
                         "aff": "UAB School of Dentistry Department of Periodontology, Birmingham, Alabama, United States",
                         "url": "https://ClinicalTrials.gov/show/NCT03570333",
@@ -19476,31 +19476,6 @@
                         "coordinates": [
                               -0.4881708,
                               38.3436365
-                        ]
-                  }
-            },
-            {
-                  "type": "Feature",
-                  "properties": {
-                        "name": "Mesenchymal Stem Cells for the Treatment of Various Chronic and Acute Conditions",
-                        "aff": "Southern California Hospital at Culver City / Southern California Hospital at Hollywood / Multiple US-based Sub-Investigator Sites, Culver City, California, United States",
-                        "url": "https://ClinicalTrials.gov/show/NCT04684602",
-                        "enrolled": 5000,
-                        "radius": 80,
-                        "color": "rgb(100, 100, 100)",
-                        "fillColor": "rgb(232, 224, 222)",
-                        "opacity": 0.8,
-                        "fillOpacity": 0.8,
-                        "zindex": 10920,
-                        "paneLabel": "pane10920",
-                        "start": "2020-07-09",
-                        "end": "2023-09-30"
-                  },
-                  "geometry": {
-                        "type": "Point",
-                        "coordinates": [
-                              -118.396466,
-                              34.0211224
                         ]
                   }
             },

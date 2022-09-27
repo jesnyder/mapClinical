@@ -68,7 +68,7 @@ new Chart(document.getElementById("line-chart-cdf_enroll"), {
                     45050
                 ],
                 "label": "all_enrolled",
-                "borderColor": "rgb(238, 221, 226)",
+                "borderColor": "rgb(241, 203, 198)",
                 "fill": "false"
             },
             {
@@ -99,13 +99,13 @@ new Chart(document.getElementById("line-chart-cdf_enroll"), {
                     3801,
                     4387,
                     6070,
-                    7198,
-                    8631,
-                    9215,
-                    9254
+                    12238,
+                    13671,
+                    14255,
+                    14294
                 ],
                 "label": "allo_enrolled",
-                "borderColor": "rgb(237, 90, 15)",
+                "borderColor": "rgb(255, 70, 25)",
                 "fill": "false"
             },
             {
@@ -142,7 +142,7 @@ new Chart(document.getElementById("line-chart-cdf_enroll"), {
                     4549
                 ],
                 "label": "auto_enrolled",
-                "borderColor": "rgb(52, 35, 100)",
+                "borderColor": "rgb(45, 34, 115)",
                 "fill": "false"
             },
             {
@@ -179,7 +179,7 @@ new Chart(document.getElementById("line-chart-cdf_enroll"), {
                     172
                 ],
                 "label": "both_enrolled",
-                "borderColor": "rgb(20, 165, 255)",
+                "borderColor": "rgb(0, 197, 239)",
                 "fill": "false"
             },
             {
@@ -210,10 +210,10 @@ new Chart(document.getElementById("line-chart-cdf_enroll"), {
                     11167,
                     12278,
                     13997,
-                    23575,
-                    27226,
-                    30835,
-                    31075
+                    18535,
+                    22186,
+                    25795,
+                    26035
                 ],
                 "label": "undeclared_enrolled",
                 "borderColor": "rgb(232, 224, 222)",

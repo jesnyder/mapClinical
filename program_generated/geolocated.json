@@ -1426,7 +1426,7 @@
                   ],
                   "lat": "51.522169000000005",
                   "lon": "-0.09928996923376796",
-                  "display_name": "Barts and The London School of Medicine and Dentistry, Rutland Place, Farringdon, Clerkenwell, London Borough of Islington, London, Greater London, England, EC1M 6BQ, United Kingdom",
+                  "display_name": "Barts and The London School of Medicine and Dentistry, Clerkenwell Road, Farringdon, Clerkenwell, London Borough of Islington, London, Greater London, England, EC1M 5QA, United Kingdom",
                   "class": "amenity",
                   "type": "university",
                   "importance": 0.9300999999999999,
@@ -5485,7 +5485,7 @@
                   ],
                   "lat": "49.4848949",
                   "lon": "8.4379807",
-                  "display_name": "Gemeinschaftspraxis, 23-25, Gr\u00e4fenaustra\u00dfe, Ludwigshafen-Hemshof, Ludwigshafen-N\u00f6rdliche Innenstadt, Ludwigshafen am Rhein, Rheinland-Pfalz, 67063, Deutschland",
+                  "display_name": "Gemeinschaftspraxis, Gr\u00e4fenaustra\u00dfe, Ludwigshafen-Hemshof, Ludwigshafen-N\u00f6rdliche Innenstadt, Ludwigshafen am Rhein, Rheinland-Pfalz, 67063, Deutschland",
                   "class": "amenity",
                   "type": "clinic",
                   "importance": 0.2101
@@ -5503,7 +5503,7 @@
                   ],
                   "lat": "49.484834",
                   "lon": "8.4452781",
-                  "display_name": "Die Praxis am Ludwigsplatz, 10, Ludwigsplatz, Mitte, Ludwigshafen-Mitte, Ludwigshafen-S\u00fcdliche-Innenstadt, Ludwigshafen am Rhein, Rheinland-Pfalz, 67059, Deutschland",
+                  "display_name": "Die Praxis am Ludwigsplatz, Ludwigsplatz, Mitte, Ludwigshafen-Mitte, Ludwigshafen-S\u00fcdliche-Innenstadt, Ludwigshafen am Rhein, Rheinland-Pfalz, 67059, Deutschland",
                   "class": "amenity",
                   "type": "doctors",
                   "importance": 0.5101,
@@ -6166,7 +6166,25 @@
                   "importance": 0.6851374456657505,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
-            0,
+            {
+                  "place_id": 298246108,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 1272230,
+                  "boundingbox": [
+                        "52.2412333",
+                        "52.3728568",
+                        "7.0262393",
+                        "7.2078774"
+                  ],
+                  "lat": "52.3024786",
+                  "lon": "7.1605921",
+                  "display_name": "Bad Bentheim, Landkreis Grafschaft Bentheim, Niedersachsen, 48455, Deutschland",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.6446925519374085,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
             {
                   "place_id": 213637937,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -7083,7 +7101,7 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
             },
             {
-                  "place_id": 339284976,
+                  "place_id": 344211958,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "relation",
                   "osm_id": 65606,
@@ -7096,10 +7114,10 @@
                   "lat": "51.5073219",
                   "lon": "-0.1276474",
                   "display_name": "London, Greater London, England, United Kingdom",
-                  "class": "boundary",
-                  "type": "administrative",
+                  "class": "place",
+                  "type": "city",
                   "importance": 1.1407827616237296,
-                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
             },
             {
                   "place_id": 100365,
@@ -11109,7 +11127,7 @@
                   "importance": 0.4
             },
             {
-                  "place_id": 339284976,
+                  "place_id": 344211958,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "relation",
                   "osm_id": 65606,
@@ -11122,10 +11140,10 @@
                   "lat": "51.5073219",
                   "lon": "-0.1276474",
                   "display_name": "London, Greater London, England, United Kingdom",
-                  "class": "boundary",
-                  "type": "administrative",
+                  "class": "place",
+                  "type": "city",
                   "importance": 1.1407827616237296,
-                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
             },
             {
                   "place_id": 297994331,
@@ -11496,7 +11514,7 @@
                   ],
                   "lat": "39.981333500000005",
                   "lon": "116.35380866994866",
-                  "display_name": "\u5317\u4eac\u5927\u5b66\u7b2c\u4e09\u533b\u9662, \u82b1\u56ed\u5317\u8def, hu\u0101yu\u00e1nl\u00f9 ji\u0113d\u00e0o, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100191, \u4e2d\u56fd",
+                  "display_name": "\u5317\u4eac\u5927\u5b66\u7b2c\u4e09\u533b\u9662, \u82b1\u56ed\u5317\u8def, \u82b1\u56ed\u8def\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100191, \u4e2d\u56fd",
                   "class": "amenity",
                   "type": "hospital",
                   "importance": 0.2780150946188139,
@@ -12485,7 +12503,7 @@
                   "importance": 0.0001
             },
             {
-                  "place_id": 339284976,
+                  "place_id": 344211958,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "relation",
                   "osm_id": 65606,
@@ -12498,10 +12516,10 @@
                   "lat": "51.5073219",
                   "lon": "-0.1276474",
                   "display_name": "London, Greater London, England, United Kingdom",
-                  "class": "boundary",
-                  "type": "administrative",
+                  "class": "place",
+                  "type": "city",
                   "importance": 1.1407827616237296,
-                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
             },
             {
                   "place_id": 298006915,
@@ -13756,7 +13774,7 @@
                   ],
                   "lat": "30.076318399999998",
                   "lon": "31.281232101303196",
-                  "display_name": "\u0643\u0644\u064a\u0629 \u0627\u0644\u0637\u0628 \u062c\u0627\u0645\u0639\u0629 \u0639\u064a\u0646 \u0634\u0645\u0633, \u0634\u0627\u0631\u0639 \u0644\u0637\u0641\u064a \u0627\u0644\u0633\u064a\u062f, \u0627\u0644\u062f\u0645\u0631\u062f\u0627\u0634, \u0627\u0644\u0642\u0627\u0647\u0631\u0629, 11657, \u0645\u0635\u0631",
+                  "display_name": "\u0643\u0644\u064a\u0629 \u0627\u0644\u0637\u0628 \u062c\u0627\u0645\u0639\u0629 \u0639\u064a\u0646 \u0634\u0645\u0633, \u0643\u0648\u0628\u0631\u0649 6 \u0623\u0643\u062a\u0648\u0628\u0631, \u0627\u0644\u062f\u0645\u0631\u062f\u0627\u0634, \u0627\u0644\u0642\u0627\u0647\u0631\u0629, 11646, \u0645\u0635\u0631",
                   "class": "building",
                   "type": "university",
                   "importance": 0.24232784765903637
@@ -16101,7 +16119,7 @@
                   ],
                   "lat": "53.516281199999995",
                   "lon": "-2.9091196623970523",
-                  "display_name": "Mersey Care NHS Foundation Trust, Melling, Melling Mount, Sefton, Merseyside, Liverpool City Region, England, United Kingdom",
+                  "display_name": "Mersey Care NHS Foundation Trust, Melling, Melling Mount, Sefton, Liverpool City Region, England, United Kingdom",
                   "class": "landuse",
                   "type": "construction",
                   "importance": 0.8
@@ -24613,7 +24631,7 @@
                   "importance": 0.5
             },
             {
-                  "place_id": 339284976,
+                  "place_id": 344211958,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "relation",
                   "osm_id": 65606,
@@ -24626,13 +24644,13 @@
                   "lat": "51.5073219",
                   "lon": "-0.1276474",
                   "display_name": "London, Greater London, England, United Kingdom",
-                  "class": "boundary",
-                  "type": "administrative",
+                  "class": "place",
+                  "type": "city",
                   "importance": 1.1407827616237296,
-                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
             },
             {
-                  "place_id": 339284976,
+                  "place_id": 344211958,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "relation",
                   "osm_id": 65606,
@@ -24645,10 +24663,10 @@
                   "lat": "51.5073219",
                   "lon": "-0.1276474",
                   "display_name": "London, Greater London, England, United Kingdom",
-                  "class": "boundary",
-                  "type": "administrative",
+                  "class": "place",
+                  "type": "city",
                   "importance": 1.1407827616237296,
-                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
             },
             {
                   "place_id": 297913876,
@@ -24682,7 +24700,7 @@
                   ],
                   "lat": "52.4796992",
                   "lon": "-1.9026911",
-                  "display_name": "Birmingham, West Midlands, West Midlands Combined Authority, England, United Kingdom",
+                  "display_name": "Birmingham, West Midlands Combined Authority, England, United Kingdom",
                   "class": "boundary",
                   "type": "administrative",
                   "importance": 0.9834272656139734,
@@ -25288,7 +25306,7 @@
                   ],
                   "lat": "33.5016153",
                   "lon": "-86.80604756076488",
-                  "display_name": "University of Alabama at Birmingham, 1720, University Boulevard, Cullom Street-Twelfth Street South Historic District, Cullom Place, Birmingham, Jefferson County, Alabama, 35294, United States",
+                  "display_name": "University of Alabama at Birmingham, 1720, University Boulevard, Highland Avenue Historic District, Five Points South, Birmingham, Jefferson County, Alabama, 35294, United States",
                   "class": "amenity",
                   "type": "university",
                   "importance": 1.3836413249804045,
@@ -25307,7 +25325,7 @@
                   ],
                   "lat": "33.5016153",
                   "lon": "-86.80604756076488",
-                  "display_name": "University of Alabama at Birmingham, 1720, University Boulevard, Cullom Street-Twelfth Street South Historic District, Cullom Place, Birmingham, Jefferson County, Alabama, 35294, United States",
+                  "display_name": "University of Alabama at Birmingham, 1720, University Boulevard, Highland Avenue Historic District, Five Points South, Birmingham, Jefferson County, Alabama, 35294, United States",
                   "class": "amenity",
                   "type": "university",
                   "importance": 1.1736413249804045,

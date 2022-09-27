@@ -29,6 +29,9 @@ def main():
     # tally totals
     if 4 in tasks: year_counts()
 
+    #
+    if 5 in tasks: summarize_fields()
+
 
 if __name__ == "__main__":
     main()
