@@ -1,10 +1,11 @@
 
 from list_trials import list_trials
+from list_trials import query_trials
 from query_openmaps import query_openmaps
 from assign_groups import assign_groups
 from write_geojson import write_geojson
 from year_counts import year_counts
-#from summarize_fields import summarize_fields
+from summarize_fields import summarize_fields
 
 
 def main():
@@ -13,14 +14,16 @@ def main():
     Map clinical trials
     """
 
-    tasks = []
+    tasks = [0, 5]
     #tasks.append('openmaps')
 
+    if 0 in tasks: query_trials()
+
     # list trials
-    if 0 in tasks: list_trials()
+    if 1 in tasks: list_trials()
 
     # assign groups
-    if 1 in tasks: assign_groups()
+    if 2 in tasks: assign_groups()
 
     # geolocate locations
     if 'openmaps' in tasks: query_openmaps()

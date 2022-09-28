@@ -1,0 +1,21 @@
+var tableConditions = 
+[
+{'Conditions': 'Knee Osteoarthritis', 'count': 21, 'enrolled': 1160} , 
+{'Conditions': 'Multiple Sclerosis', 'count': 16, 'enrolled': 431} , 
+{'Conditions': 'Osteoarthritis, Knee', 'count': 14, 'enrolled': 837} , 
+{'Conditions': 'Osteoarthritis', 'count': 13, 'enrolled': 831} , 
+{'Conditions': 'Amyotrophic Lateral Sclerosis', 'count': 12, 'enrolled': 314} , 
+{'Conditions': 'Bronchopulmonary Dysplasia', 'count': 11, 'enrolled': 529} , 
+{'Conditions': 'Spinal Cord Injury', 'count': 10, 'enrolled': 398} , 
+{'Conditions': 'Rheumatoid Arthritis', 'count': 9, 'enrolled': 257} , 
+{'Conditions': 'Diabetic Foot Ulcer', 'count': 9, 'enrolled': 457} , 
+{'Conditions': "Crohn's Disease", 'count': 8, 'enrolled': 838} , 
+{'Conditions': 'Myocardial Infarction', 'count': 7, 'enrolled': 510} , 
+{'Conditions': 'Liver Cirrhosis', 'count': 7, 'enrolled': 1086} , 
+{'Conditions': 'COVID-19', 'count': 7, 'enrolled': 419} , 
+{'Conditions': 'Critical Limb Ischemia', 'count': 7, 'enrolled': 173} , 
+{'Conditions': 'Acute Myocardial Infarction', 'count': 6, 'enrolled': 490} , 
+{'Conditions': 'Acute Respiratory Distress Syndrome', 'count': 6, 'enrolled': 391} , 
+{'Conditions': 'Ischemic Stroke', 'count': 6, 'enrolled': 380} , 
+{'Conditions': 'Covid19', 'count': 6, 'enrolled': 328} , 
+]

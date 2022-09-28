@@ -1,0 +1,22 @@
+var tableSponsor_Collaborators = 
+[
+{'Sponsor/Collaborators': 'The Foundation for Orthopaedics and Regenerative Medicine', 'count': 26, 'enrolled': 490} , 
+{'Sponsor/Collaborators': 'Mayo Clinic', 'count': 22, 'enrolled': 515} , 
+{'Sponsor/Collaborators': 'Royan Institute', 'count': 17, 'enrolled': 257} , 
+{'Sponsor/Collaborators': 'Anterogen Co., Ltd.', 'count': 14, 'enrolled': 495} , 
+{'Sponsor/Collaborators': 'Medipost Co Ltd.', 'count': 14, 'enrolled': 587} , 
+{'Sponsor/Collaborators': 'Mesoblast, Inc.|Mesoblast, Ltd.', 'count': 13, 'enrolled': 2020} , 
+{'Sponsor/Collaborators': 'Rigshospitalet, Denmark', 'count': 10, 'enrolled': 302} , 
+{'Sponsor/Collaborators': 'R-Bio', 'count': 10, 'enrolled': 657} , 
+{'Sponsor/Collaborators': 'University of Jordan', 'count': 8, 'enrolled': 144} , 
+{'Sponsor/Collaborators': 'Pharmicell Co., Ltd.', 'count': 8, 'enrolled': 456} , 
+{'Sponsor/Collaborators': 'Direct Biologics, LLC', 'count': 8, 'enrolled': 731} , 
+{'Sponsor/Collaborators': 'Shanghai East Hospital', 'count': 7, 'enrolled': 296} , 
+{'Sponsor/Collaborators': 'Vinmec Research Institute of Stem Cell and Gene Technology', 'count': 7, 'enrolled': 470} , 
+{'Sponsor/Collaborators': 'PT. Prodia Stem Cell Indonesia', 'count': 7, 'enrolled': 162} , 
+{'Sponsor/Collaborators': 'Andalusian Initiative for Advanced Therapies - Fundación Pública Andaluza Progreso y Salud|Iniciativa Andaluza en Terapias Avanzadas|Andalusian Network for Design and Translation of Advanced Therapies', 'count': 7, 'enrolled': 184} , 
+{'Sponsor/Collaborators': 'Meridigen Biotech Co., Ltd.', 'count': 6, 'enrolled': 57} , 
+{'Sponsor/Collaborators': 'Sclnow Biotechnology Co., Ltd.', 'count': 6, 'enrolled': 401} , 
+{'Sponsor/Collaborators': 'Hope Biosciences Stem Cell Research Foundation|Hope Biosciences', 'count': 6, 'enrolled': 299} , 
+{'Sponsor/Collaborators': 'Longeveron Inc.', 'count': 6, 'enrolled': 365} , 
+]

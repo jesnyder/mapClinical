@@ -1,6 +1,7 @@
 <html>
   <head>
     <title>MSC Clinical Trials</title>
+    <link rel="stylesheet" href="styles.css">
     <link
       rel="stylesheet"
       href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
@@ -9,27 +10,8 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.12.0/moment.min.js"></script>
     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
     <script src="js/leaflet.timeline.js"></script>
+    <script src="https://cdn.plot.ly/plotly-2.14.0.min.js"></script>
 
-    <style>
-      html,
-      body {
-        margin: 0;
-        padding: 0;
-      }
-      #map {
-        width: 100vw;
-        height: 95vh;
-      }
-      .leaflet-bottom.leaflet-left {
-        width: 100%;
-      }
-      .leaflet-control-container .leaflet-timeline-controls {
-        box-sizing: border-box;
-        width: 100%;
-        margin: 0;
-        margin-bottom: 15px;
-      }
-    </style>
   </head>
 
 
@@ -59,17 +41,40 @@
     <div id="map"></div>
 		<script src="js/map3.js"></script>
 
+    <canvas id="line-chart-cdf_count"  width="100%" height="40" style="border:1px solid"></canvas>
+    <script src="js/cdf_js_count.js"></script>
+
+    <canvas id="line-chart-cdf_enroll"  width="100" height="40" style="border:1px solid"></canvas>
+    <script src="js/cdf_js_enroll.js"></script>
+
     <canvas id="line-chart" width="100" height="40" style="border:1px solid"></canvas>
     <script src="js/pdf.js"></script>
 
     <canvas id="line-chart-enroll"  width="100" height="40" style="border:1px solid"></canvas>
     <script src="js/pdf_js_enrolled.js"></script>
 
-    <canvas id="line-chart-cdf_count"  width="100" height="40" style="border:1px solid"></canvas>
-    <script src="js/cdf_js_count.js"></script>
 
-    <canvas id="line-chart-cdf_enroll"  width="100" height="40" style="border:1px solid"></canvas>
-    <script src="js/cdf_js_enroll.js"></script>
+
+    <div id="table" style="width:80% ; margin-left: 5%; font-family: Calibri;">
+    <p>Click table head to sort.</p>
+    <table>
+      <thead>
+        <tr>
+          <th class='prop__name' data-prop-name='Conditions'>Conditions</th>
+          <th class='prop__name' data-prop-name='count'>Trial Count</th>
+          <th class='prop__name' data-prop-name='enrolled'>Total Enrolled</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+    </div>
+
+    <script src="js/Conditions.js"></script>
+    <script src="js/table.js"></script>
+
+
+
+
 
   </body>
 </html>

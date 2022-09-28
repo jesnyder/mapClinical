@@ -3,6 +3,12 @@ name,path
 # admin referenced
 ref_variable,user_provided admin ref_variables.csv
 
+# query_trials referenced
+search_terms,user_provided admin search_terms.csv
+
+# query_trials created
+trials_found,program_generated trialsFound
+
 # list_trials referenced
 clinical_src,user_provided clinicalTrialsDownload
 
@@ -39,3 +45,7 @@ enrolled_pdf,docs js enrolled_pdf.js
 pdf_js_enrolled,docs js pdf_js_enrolled.js
 cdf_js_count,docs js cdf_js_count.js
 cdf_js_enroll,docs js cdf_js_enroll.js
+
+# summarize fields created
+summary,program_generated summary
+tableData,docs js
