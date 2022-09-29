@@ -63,10 +63,14 @@ def query_trials():
         print(corona_fields)
 
 
-        df = pd.DataFrame.from_records(corona_fields[1:], columns=corona_fields[0])
-        file_dst = os.path.join(retrieve_path('trials_found'), term + '.csv')
-        df.to_csv(file_dst)
-        print(df)
+
+
+        #df = pd.DataFrame.from_records(corona_fields[1:], columns=corona_fields[0])
+        file_dst = os.path.join(retrieve_path('trials_found'), term + '.json')
+        save_json(corona_fields, file_dst)
+
+        #df.to_csv(file_dst)
+        #print(df)
 
 
 def list_trials():
@@ -81,26 +85,36 @@ def list_trials():
 
 
     trials = []
+    df_all = pd.DataFrame()
 
     src = retrieve_path('clinical_src')
     for file in os.listdir(src):
 
         df = retrieve_df(os.path.join(src, file))
 
-        items = list(df['NCT Number'])
+        df_all = df_all.append(df)
+        df_all = df_all.drop_duplicates(subset = "URL", keep='first')
+        df_all = reset_df(df_all.sort_values(by='Enrollment', ascending=False))
+        df_all.to_csv(retrieve_path('trials_all'))
 
-        for item in items:
 
-            i = items.index(item)
+    items = list(df_all['NCT Number'])
+    for item in items:
 
-            trial = {}
+        i = items.index(item)
 
-            for col in df.columns:
+        trial = {}
 
-                if col == 'Rank': continue
+        for col in df_all.columns:
 
-                value = df.at[i, col]
-                trial[col] = str(value)
+            if col == 'Rank': continue
+
+            value = df_all.at[i, col]
+
+            if 'Condition' in col:
+                value = scrub_interventions(value)
+
+            trial[col] = str(value)
 
             if trial in trials: continue
             trials.append(trial)
@@ -114,6 +128,38 @@ def list_trials():
 
     time_end = datetime.datetime.today()
     print('completed list_trials ' + str(time_end))
+
+
+def scrub_interventions(value):
+    """
+    return value
+    """
+
+    #print('value = ')
+    #print(value)
+
+    value = str(value)
+    if value == 'nan': return(value)
+    if pd.isna(value) == True: return(value)
+
+    if 'Knee Osteoarthritis' == value:
+        #print('value = ')
+        #print(value)
+        value = str('Osteoarthritis, Knee')
+
+    if 'Covid19' == value:
+        #print('value = ')
+        #print(value)
+        value = str('COVID-19')
+
+    if 'Acute Myocardial Infarction' == value:
+        #print('value = ')
+        #print(value)
+        value = str('Myocardial Infarction')
+
+    return(value)
+
+
 
 
 def list_locations():

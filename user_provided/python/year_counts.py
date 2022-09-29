@@ -153,7 +153,6 @@ def js_cdf_enroll():
         f.close()
 
 
-
 def js_cdf_count():
     """
 
@@ -204,7 +203,6 @@ def js_cdf_count():
             json.dump(lines, f, indent = 4)
             f.write(');')
         f.close()
-
 
 
 def js_enrolled():
@@ -311,7 +309,6 @@ def js_count():
         f.close()
 
 
-
 def cdf_counts():
     """
     create year_counts_pdf.csv
@@ -338,6 +335,21 @@ def cdf_counts():
 
         df_cdf = df_cdf.append(df_temp)
         df_cdf.to_csv(retrieve_path('year_counts_cdf'))
+
+
+def enrolled_scatter():
+    """
+
+    """
+
+    for year in np.arange(2004,2024,1):
+
+        for trial in retrieve_json('trials')['trials']:
+
+            year_found, month, day = find_date(trial)
+            if year_found != year: continue
+
+            print('help')
 
 
 def count_percent():

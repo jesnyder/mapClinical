@@ -1,11 +1,11 @@
 body {
-  background-color: powderblue;
+  background-color: white;
 }
 h1 {
-  color: blue;
+  color: black;
 }
 p {
-  color: #222222;
+  color: black;
 }
 
 
@@ -19,6 +19,12 @@ body {
   width: 100vw;
   height: 80vh;
 }
+
+#map2 {
+  width: 100vw;
+  height: 80vh;
+}
+
 .leaflet-bottom.leaflet-left {
   width: 100%;
 }
@@ -27,6 +33,36 @@ body {
   width: 100%;
   margin: 0;
   margin-bottom: 15px;
+}
+
+#line-chart-cdf_count{
+    margin:0;
+    padding:0;
+    background-color: white;
+}
+
+#line-chart-cdf_enroll{
+    margin:0;
+    padding:0;
+    background-color: white;
+}
+
+#line-chart{
+    margin:0;
+    padding:0;
+    background-color: white;
+}
+
+#line-chart-enroll{
+    margin:0;
+    padding:0;
+    background-color: white;
+}
+
+#enrolled_scatter{
+  margin:0;
+  padding:0;
+  background-color: white;  
 }
 
 @import "compass/css3";

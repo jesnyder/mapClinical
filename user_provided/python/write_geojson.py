@@ -30,7 +30,6 @@ def write_geojson():
     time_begin = datetime.datetime.today()
     print('begin write_geojson ' + str(time_begin))
 
-
     df = retrieve_df('groups')
     for col in df.columns:
 
@@ -44,6 +43,7 @@ def write_geojson():
         print(len(urls))
 
         features = []
+        features_recent = []
 
         trials = retrieve_json('trials')['trials']
         for trial in trials:
@@ -87,6 +87,25 @@ def write_geojson():
                     json.dump(features_dict, f, indent = 4)
                 f.close()
                 #print('dst_json = ' + str(dst_json))
+
+                year, month, day = find_date(trial)
+                if year < 2020: continue
+
+                features_recent.append(feature)
+
+                features_dict = {}
+                features_dict['feature_count'] = len(features_recent)
+                features_dict['type'] = ["FeatureCollection"]
+                features_dict['features'] = features_recent
+
+                # save the group as js
+                dst_json = os.path.join(retrieve_path('js'), col + '_recent' + '.js')
+                print('dst_json = ' + str(dst_json))
+                with open(dst_json, "w") as f:
+                    f.write('var ' + ' group' + col + '_recent' + ' = ')
+                    json.dump(features_dict, f, indent = 4)
+                f.close()
+
 
     time_end = datetime.datetime.today()
     print('completed assign_groups ' + str(time_end))
@@ -219,7 +238,6 @@ def find_date(trial):
     if month == 0: month = 1
     if day == 0: day = 1
     return(int(year), int(month), int(day))
-
 
 
 def write_geo(loc):

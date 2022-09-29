@@ -14,8 +14,8 @@ var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> |	Trial Data from <a href="https://clinicaltrials.gov/"  target="_blank" rel="noopener"> ClinicalTrials.gov</a>'
 	});
 
-var map = L.map('map', {
-		center: [0, 5],
+var map = L.map("map2", {
+		center: [10, 0],
 		zoom: 2,
 		layers: [osm]
 	});
@@ -73,8 +73,8 @@ function onEachTrial(feature, layer) {
         }
 
 function trialToLayer(feature, latlng) {
-    //map.createPane("locationMarker");
-    //map.getPane("locationMarker").style.zIndex = 999;
+    map.createPane('labels');
+    map.getPane('labels').style.zIndex = feature.properties.zindex;
     return L.circleMarker(latlng, {
       radius: feature.properties.radius,
       opacity: feature.properties.opacity,
@@ -82,40 +82,31 @@ function trialToLayer(feature, latlng) {
       fillColor: feature.properties.fillColor,
       color: feature.properties.color,
       weight: 1,
-      //pane: feature.properties.zindex ,
+      //pane: feature.properties.zindex,
     });
   }
 
-var slider = L.timelineSliderControl({
-formatOutput: function (date) {
-  return moment(date).format("YYYY-MM-DD");
-},
-});
 
-map.addControl(slider);
+var pointersUndeclared = L.geoJson(groupundeclared_recent, {
+	style: trialStyle,
+	onEachFeature: onEachTrial,
+	pointToLayer: trialToLayer,
+	}).addTo(map).addTo(layerUndeclared);
 
-var pointersUndeclared = L.timeline(groupundeclared, {
-style: trialStyle,
-onEachFeature: onEachTrial,
-pointToLayer: trialToLayer,
-}).addTo(map).addTo(layerUndeclared);
+var pointersAllo = L.geoJson(groupallo_recent, {
+	style: trialStyle,
+	onEachFeature: onEachTrial,
+	pointToLayer: trialToLayer,
+	}).addTo(map).addTo(layerAllo);
 
-var pointersAllo = L.timeline(groupallo, {
-style: trialStyle,
-onEachFeature: onEachTrial,
-pointToLayer: trialToLayer,
-}).addTo(map).addTo(layerAllo);
+var pointersAuto = L.geoJson(groupauto_recent, {
+	style: trialStyle,
+	onEachFeature: onEachTrial,
+	pointToLayer: trialToLayer,
+	}).addTo(map).addTo(layerAuto);
 
-var pointersAuto = L.timeline(groupauto, {
-style: trialStyle,
-onEachFeature: onEachTrial,
-pointToLayer: trialToLayer,
-}).addTo(map).addTo(layerAuto);
-
-var pointersBoth = L.timeline(groupboth, {
-style: trialStyle,
-onEachFeature: onEachTrial,
-pointToLayer: trialToLayer,
-}).addTo(map).addTo(layerBoth);
-
-slider.addTimelines(pointersUndeclared, pointersAllo, pointersAuto, pointersBoth);
+var pointersBoth = L.geoJson(groupboth_recent, {
+	style: trialStyle,
+	onEachFeature: onEachTrial,
+	pointToLayer: trialToLayer,
+	}).addTo(map).addTo(layerBoth);

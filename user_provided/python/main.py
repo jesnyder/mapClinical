@@ -1,3 +1,4 @@
+import numpy as np
 
 from list_trials import list_trials
 from list_trials import query_trials
@@ -14,8 +15,9 @@ def main():
     Map clinical trials
     """
 
-    tasks = [0, 5]
-    #tasks.append('openmaps')
+    tasks = [0,1,2,3,4, 5]
+    #tasks = np.arange(1,6,1)
+    tasks.append('openmaps')
 
     if 0 in tasks: query_trials()
 

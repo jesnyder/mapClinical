@@ -87,23 +87,38 @@ def write_table_data():
 
         filename = file.split('.')[0]
 
+        print('filename = ' + filename)
+
         fil_src = os.path.join(fol_src, file)
         df = retrieve_df(fil_src)
 
-        df = df[df['count'] > 5]
-        if len(list(df['count'])) < 2: continue
+        df = df.dropna()
+
+        df = df[df['count'] > 0]
+        if len(list(df['count'])) < 0: continue
+        df = reset_df(df)
+
+        print('df = ')
+        print(df)
 
         lines = []
         for i in range(len(list(df['count']))):
 
             line = {}
             for col in df.columns:
+
+                #print('col = ' + col)
+                #print('i = ' + str(i))
                 value = df.at[i, col]
+                #print('value = ' + str(value))
                 line[col] = value
 
+            #print('line = ')
+            #print(line)
             lines.append(line)
 
-        print(lines)
+        #print('lines = ')
+        #print(lines)
 
         # save the group as js
         descriptor_line = 'var table' + str(filename) + ' = '
