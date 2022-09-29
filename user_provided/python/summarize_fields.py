@@ -75,6 +75,7 @@ def summarize_fields():
         df.to_csv(file_dst)
 
     write_table_data()
+    #write_products()
 
 
 def write_table_data():
@@ -134,3 +135,22 @@ def write_table_data():
             #f.write(');')
             f.write( ']' + '\n')
         f.close()
+
+
+def write_products():
+    """
+    create .js
+    """
+
+    # open user provided file
+    file_src = retrieve_path('products')
+    f = open(file_src,"r")
+    lines = f.readlines()
+    f.close()
+
+    # open destination file 
+    file_dst = retrieve_path('products_js')
+    f = open(file_src,"w+")
+    for line in lines:
+        f.write(line)
+    f.close()

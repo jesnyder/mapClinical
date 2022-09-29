@@ -47,6 +47,10 @@ pdf_js_enrolled,docs js pdf_js_enrolled.js
 cdf_js_count,docs js cdf_js_count.js
 cdf_js_enroll,docs js cdf_js_enroll.js
 
+# summarize fields referenced
+products,user_provided admin products.json
+
 # summarize fields created
 summary,program_generated summary
 tableData,docs js
+products_js,docs js products.js
