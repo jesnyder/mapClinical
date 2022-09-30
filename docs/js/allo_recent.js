@@ -1,5 +1,5 @@
 var  groupallo_recent = {
-    "feature_count": 175,
+    "feature_count": 245,
     "type": [
         "FeatureCollection"
     ],
@@ -13,7 +13,7 @@ var  groupallo_recent = {
                 "enrolled": 5000,
                 "radius": 80,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(216, 88, 29)",
+                "fillColor": "rgb(226, 66, 16)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12920,
@@ -38,7 +38,7 @@ var  groupallo_recent = {
                 "enrolled": 400,
                 "radius": 30,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(245, 77, 43)",
+                "fillColor": "rgb(239, 95, 33)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12970,
@@ -57,213 +57,13 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "MSCs for Prevention of MI-induced HF",
-                "aff": "Al-Zahra Heart Hospital, Shiraz University of Medical Sciences, Shiraz, Fars, Iran, Islamic Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT05043610",
-                "enrolled": 240,
-                "radius": 25,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(227, 77, 54)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12975,
-                "paneLabel": "pane12975",
-                "start": "2021-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    54.5643516,
-                    32.6475314
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "MSCs for Prevention of MI-induced HF",
-                "aff": "Faghihi Hospital, Shiraz, Fars, Iran, Islamic Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT05043610",
-                "enrolled": 240,
-                "radius": 25,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(227, 77, 54)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12975,
-                "paneLabel": "pane12975",
-                "start": "2021-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    54.5643516,
-                    32.6475314
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "MSCs for Prevention of MI-induced HF",
-                "aff": "Namazee Hospital, Shiraz, Fars, Iran, Islamic Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT05043610",
-                "enrolled": 240,
-                "radius": 25,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(227, 77, 54)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12975,
-                "paneLabel": "pane12975",
-                "start": "2021-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    54.5643516,
-                    32.6475314
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Treatment With Human Umbilical Cord-derived Mesenchymal Stem Cells for Decompensated Cirrhosis",
-                "aff": "The First Hospital of Lanzhou University, Lanzhou, Gansu, China",
-                "url": "https://ClinicalTrials.gov/show/NCT05121870",
-                "enrolled": 240,
-                "radius": 25,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(254, 69, 38)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12975,
-                "paneLabel": "pane12975",
-                "start": "2021-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    103.9179183985219,
-                    36.0417119
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Treatment With Human Umbilical Cord-derived Mesenchymal Stem Cells for Decompensated Cirrhosis",
-                "aff": "Hainan hospital of Chinese PLA General Hospital, Sanya, Hainan, China",
-                "url": "https://ClinicalTrials.gov/show/NCT05121870",
-                "enrolled": 240,
-                "radius": 25,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(254, 69, 38)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12975,
-                "paneLabel": "pane12975",
-                "start": "2021-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    109.5034392,
-                    18.2534658
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Treatment With Human Umbilical Cord-derived Mesenchymal Stem Cells for Decompensated Cirrhosis",
-                "aff": "Renmin Hospital of Wuhan University, Wuhan, Hubei, China",
-                "url": "https://ClinicalTrials.gov/show/NCT05121870",
-                "enrolled": 240,
-                "radius": 25,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(254, 69, 38)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12975,
-                "paneLabel": "pane12975",
-                "start": "2021-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    114.2999353,
-                    30.5951051
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Treatment With Human Umbilical Cord-derived Mesenchymal Stem Cells for Decompensated Cirrhosis",
-                "aff": "Shanghai Changzheng Hospital, Shanghai, Shanghai, China",
-                "url": "https://ClinicalTrials.gov/show/NCT05121870",
-                "enrolled": 240,
-                "radius": 25,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(254, 69, 38)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12975,
-                "paneLabel": "pane12975",
-                "start": "2021-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.46296160350906,
-                    31.23403925
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Treatment With Human Umbilical Cord-derived Mesenchymal Stem Cells for Decompensated Cirrhosis",
-                "aff": "Beijing 302 Hospital, Beijing, China",
-                "url": "https://ClinicalTrials.gov/show/NCT05121870",
-                "enrolled": 240,
-                "radius": 25,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(254, 69, 38)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12975,
-                "paneLabel": "pane12975",
-                "start": "2021-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    116.3912757,
-                    39.906217
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Human Umbilical Cord-derived Mesenchymal Stem Cells for Decompensated Cirrhosis (MSC-DLC-2)",
                 "aff": "The First Hospital of Lanzhou University, Lanzhou, Gansu, China",
                 "url": "https://ClinicalTrials.gov/show/NCT05224960",
                 "enrolled": 240,
                 "radius": 25,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(245, 100, 47)",
+                "fillColor": "rgb(225, 74, 50)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12975,
@@ -288,7 +88,7 @@ var  groupallo_recent = {
                 "enrolled": 240,
                 "radius": 25,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(245, 100, 47)",
+                "fillColor": "rgb(225, 74, 50)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12975,
@@ -313,7 +113,7 @@ var  groupallo_recent = {
                 "enrolled": 240,
                 "radius": 25,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(245, 100, 47)",
+                "fillColor": "rgb(225, 74, 50)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12975,
@@ -338,7 +138,7 @@ var  groupallo_recent = {
                 "enrolled": 240,
                 "radius": 25,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(245, 100, 47)",
+                "fillColor": "rgb(225, 74, 50)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12975,
@@ -363,7 +163,7 @@ var  groupallo_recent = {
                 "enrolled": 240,
                 "radius": 25,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(245, 100, 47)",
+                "fillColor": "rgb(225, 74, 50)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12975,
@@ -388,7 +188,7 @@ var  groupallo_recent = {
                 "enrolled": 240,
                 "radius": 25,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(245, 100, 47)",
+                "fillColor": "rgb(225, 74, 50)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12975,
@@ -407,13 +207,213 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Treatment With Human Umbilical Cord-derived Mesenchymal Stem Cells for Decompensated Cirrhosis",
+                "aff": "The First Hospital of Lanzhou University, Lanzhou, Gansu, China",
+                "url": "https://ClinicalTrials.gov/show/NCT05121870",
+                "enrolled": 240,
+                "radius": 25,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(237, 101, 10)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12975,
+                "paneLabel": "pane12975",
+                "start": "2021-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.9179183985219,
+                    36.0417119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Treatment With Human Umbilical Cord-derived Mesenchymal Stem Cells for Decompensated Cirrhosis",
+                "aff": "Hainan hospital of Chinese PLA General Hospital, Sanya, Hainan, China",
+                "url": "https://ClinicalTrials.gov/show/NCT05121870",
+                "enrolled": 240,
+                "radius": 25,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(237, 101, 10)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12975,
+                "paneLabel": "pane12975",
+                "start": "2021-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.5034392,
+                    18.2534658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Treatment With Human Umbilical Cord-derived Mesenchymal Stem Cells for Decompensated Cirrhosis",
+                "aff": "Renmin Hospital of Wuhan University, Wuhan, Hubei, China",
+                "url": "https://ClinicalTrials.gov/show/NCT05121870",
+                "enrolled": 240,
+                "radius": 25,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(237, 101, 10)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12975,
+                "paneLabel": "pane12975",
+                "start": "2021-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2999353,
+                    30.5951051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Treatment With Human Umbilical Cord-derived Mesenchymal Stem Cells for Decompensated Cirrhosis",
+                "aff": "Shanghai Changzheng Hospital, Shanghai, Shanghai, China",
+                "url": "https://ClinicalTrials.gov/show/NCT05121870",
+                "enrolled": 240,
+                "radius": 25,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(237, 101, 10)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12975,
+                "paneLabel": "pane12975",
+                "start": "2021-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46296160350906,
+                    31.23403925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Treatment With Human Umbilical Cord-derived Mesenchymal Stem Cells for Decompensated Cirrhosis",
+                "aff": "Beijing 302 Hospital, Beijing, China",
+                "url": "https://ClinicalTrials.gov/show/NCT05121870",
+                "enrolled": 240,
+                "radius": 25,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(237, 101, 10)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12975,
+                "paneLabel": "pane12975",
+                "start": "2021-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.3912757,
+                    39.906217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MSCs for Prevention of MI-induced HF",
+                "aff": "Al-Zahra Heart Hospital, Shiraz University of Medical Sciences, Shiraz, Fars, Iran, Islamic Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT05043610",
+                "enrolled": 240,
+                "radius": 25,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 94, 58)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12975,
+                "paneLabel": "pane12975",
+                "start": "2021-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.5643516,
+                    32.6475314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MSCs for Prevention of MI-induced HF",
+                "aff": "Faghihi Hospital, Shiraz, Fars, Iran, Islamic Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT05043610",
+                "enrolled": 240,
+                "radius": 25,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 94, 58)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12975,
+                "paneLabel": "pane12975",
+                "start": "2021-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.5643516,
+                    32.6475314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MSCs for Prevention of MI-induced HF",
+                "aff": "Namazee Hospital, Shiraz, Fars, Iran, Islamic Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT05043610",
+                "enrolled": 240,
+                "radius": 25,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 94, 58)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12975,
+                "paneLabel": "pane12975",
+                "start": "2021-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.5643516,
+                    32.6475314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Umbilical Cord-derived Mesenchymal Stem Cells for Ischemic Stroke",
                 "aff": "Department of Neurology, General Hospital of Northern Theater Command, Shenyang, China",
                 "url": "https://ClinicalTrials.gov/show/NCT04811651",
                 "enrolled": 200,
                 "radius": 24,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 93, 26)",
+                "fillColor": "rgb(247, 107, 31)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12976,
@@ -432,13 +432,1013 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Universit\u00e4tsklinikum Augsburg, Klinik f\u00fcr Dermatologie und Allergologie, Campus S\u00fcd, Augsburg, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8986971,
+                    48.3668041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Fachklinik Bad Bentheim, Dermatologische Ambulanz, Bad Bentheim, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1605921,
+                    52.3024786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Franziskus-Krankenhaus Berlin, Klinik f\u00fcr Innere Medizin, Angiologie und Diabetologie, Berlin, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3888599,
+                    52.5170365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Helios Klinikum Berlin-Buch, Klinik f\u00fcr Plastische und \u00c4sthetische Chirurgie, Berlin, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3888599,
+                    52.5170365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Helios Klinikum Emil von Behring, Klinik f\u00fcr Plastische und \u00c4sthetische Chirurgie, Berlin, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3888599,
+                    52.5170365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Hautarztpraxis Dr. Niesmann & Dr. Othlinghaus, Hautzentrum im Jahrhunderthaus, Bochum, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2196635,
+                    51.4818111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Katholisches Klinikum Bochum gGmbH, Venenzentrum der Kliniken f\u00fcr Dermatologie und Gef\u00e4\u00dfchirurgie der Ruhr-Universit\u00e4t Bochum, Bochum, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2196635,
+                    51.4818111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Haut\u00e4rzte Braunschweig am Altstadtmarkt, Haut\u00e4rztliche Gemeinschaftspraxis, Braunschweig, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5236066,
+                    52.2646577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Klinikum Bremerhaven Reinkenheide gGmbH, Klinik f\u00fcr Dermatologie, Allergologie und Phlebologie, Wundzentrum, Bremerhaven, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5851945,
+                    53.5505392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Klinische Forschung Dresden GmbH, Dresden, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7381437,
+                    51.0493286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Universit\u00e4tsklinikum \"Carl Gustav Carus\" der Technischen Universit\u00e4t Dresden, Medizinische Klinik und Poliklinik III Angiologie und Gef\u00e4\u00dfzentrum, Dresden, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7381437,
+                    51.0493286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Universit\u00e4tsklinikum D\u00fcsseldorf, Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf, Klinik f\u00fcr Dermatologie, D\u00fcsseldorf, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4478313,
+                    51.1638175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Universit\u00e4tsklinikum Erlangen, Hautklinik - Wundzentrum Dermatologie, Erlangen, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0056,
+                    49.5928616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Universit\u00e4tsklinikum Essen, Klinik und Poliklinik f\u00fcr Dermatologie, Venerologie und Allergologie, Essen, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0158171,
+                    51.4582235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Universit\u00e4tsklinikum Freiburg, Klinik f\u00fcr Dermatologie und Venerologie, Freiburg, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8494005,
+                    47.9960901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Marienhospital Gelsenkirchen GmbH, Klinik f\u00fcr Chirurgie (Allgemein-, Viszeral- und Endokrine Chirurgie, Thorax-, Gef\u00e4\u00df- und Endovaskul\u00e4re Chirurgie und Kinderchirurgie), Gelsenkirchen, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0960124,
+                    51.5110321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "SRH Wald-Klinikum Gera GmbH, Zentrum f\u00fcr Klinische Studien, Gera, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0796208,
+                    50.8772301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Praxis Dr. med. Abdou Zarzour, Halle, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9705452,
+                    51.4825041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Universit\u00e4tsklinikum Hamburg- Eppendorf, Institut f\u00fcr Versorgungsforschung in der Dermatologie und bei Pflegeberufen (IVDP), Hamburg, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.000654,
+                    53.550341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "MVZ Prof. Dr. Ockenfels, Haut und Allergie-Praxisklinik GmbH, Hanau, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.918817903264163,
+                    50.1354291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "SRH Klinikum Karlsbad- Langensteinbach GmbH, Interdisziplin\u00e4res Gef\u00e4\u00dfzentrum Innere Medizin, Karlsbad, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5088293,
+                    48.9038411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Medizinisches Versorgungszentrum DermaKiel GmbH, Kiel, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.135555,
+                    54.3227085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Helios Klinikum Krefeld, Klinik f\u00fcr Dermatologie und Venerologie, Krefeld, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5623343,
+                    51.3331205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Hautarztpraxis Langenau, Studienzentrum, Langenau, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1222024,
+                    48.4975016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Universit\u00e4tsklinikum Leipzig A\u00f6R, Klinik und Poliklinik f\u00fcr Dermatologie, Venerologie und Allergologie, Leipzig, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3747329,
+                    51.3406321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Studienambulanz Dr. Schubert Leipzig, Leipzig, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3747329,
+                    51.3406321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Diabetologikum Ludwigshafen, die Praxis am Ludwigsplatz, Ludwigshafen, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4452781,
+                    49.484834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Beldio Research GmbH, Memmingen, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.181319,
+                    47.9867696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Klinikum der Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Klinik und Poliklinik f\u00fcr Dermatologie und Allergologie, M\u00fcnchen, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4478313,
+                    51.1638175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Dermazentrum M\u00fcnchen, Standort Neuhausen, Studienzentrum, M\u00fcnchen, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4478313,
+                    51.1638175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Universit\u00e4tsklinikum M\u00fcnster, Klinik f\u00fcr Hautkrankheiten, Allgemeine Dermatologie und Venerologie, M\u00fcnster, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4478313,
+                    51.1638175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Klinikum N\u00fcrnberg Nord, Klinik f\u00fcr Dermatologie, N\u00fcrnberg, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4478313,
+                    51.1638175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Hautarztpraxis Prof. Dr. med. Khusru Asadullah, Potsdam, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0591397,
+                    52.4009309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Caritas-Krankenhaus St. Josef, Klinik f\u00fcr Plastische und \u00c4sthetische, Hand- und Wiederherstellungschirurgie, Regensburg, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0974869,
+                    49.0195333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Universit\u00e4tsmedizin Rostock, Klinik und Poliklinik f\u00fcr Dermatologie und Venerologie, Rostock, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1286127,
+                    54.0924445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Helios Kliniken Schwerin, Plastische, Rekonstruktive und \u00c4sthetische Chirurgie, Schwerin, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4148038,
+                    53.6288297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Haut\u00e4rztliche Gemeinschaftspraxis Dr. Leitz und Kollegen, Stuttgart, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1800132,
+                    48.7784485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Universit\u00e4tsklinikum T\u00fcbingen, Universit\u00e4ts-Hautklinik T\u00fcbingen, T\u00fcbingen, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9885332,
+                    52.2025617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Helios Universit\u00e4tsklinikum Wuppertal, Zentrums f\u00fcr Dermatologie, Allergologie und Dermatochirurgie, Wuppertal, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1780374,
+                    51.264018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+                "aff": "Universit\u00e4tsklinikum W\u00fcrzburg, Klinik und Poliklinik f\u00fcr Dermatologie, Venerologie und Allergologie, W\u00fcrzburg, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT04971161",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 103, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12976,
+                "paneLabel": "pane12976",
+                "start": "2021-01-18",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4478313,
+                    51.1638175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Umbilical Cord Mesenchymal Stem Cells as First-line Treatment for Patients With Acute Graft Versus Host Disease",
                 "aff": "Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences, Tianjin, Tianjin, China",
                 "url": "https://ClinicalTrials.gov/show/NCT05531266",
                 "enrolled": 182,
                 "radius": 23,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(242, 90, 56)",
+                "fillColor": "rgb(235, 71, 44)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12977,
@@ -463,7 +1463,7 @@ var  groupallo_recent = {
                 "enrolled": 158,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 107, 13)",
+                "fillColor": "rgb(233, 68, 19)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12978,
@@ -488,7 +1488,7 @@ var  groupallo_recent = {
                 "enrolled": 136,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(243, 102, 19)",
+                "fillColor": "rgb(255, 61, 48)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12979,
@@ -513,7 +1513,7 @@ var  groupallo_recent = {
                 "enrolled": 136,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(243, 102, 19)",
+                "fillColor": "rgb(255, 61, 48)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12979,
@@ -538,7 +1538,7 @@ var  groupallo_recent = {
                 "enrolled": 136,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(243, 102, 19)",
+                "fillColor": "rgb(255, 61, 48)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12979,
@@ -563,7 +1563,7 @@ var  groupallo_recent = {
                 "enrolled": 136,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(243, 102, 19)",
+                "fillColor": "rgb(255, 61, 48)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12979,
@@ -582,13 +1582,38 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Efficacy and Safety of UC-MSCs for the Treatment of Steroid-resistant aGVHD Following Allo-HSCT",
+                "aff": "Peking University Insititute of Hematology, Peking University People's Hospital, Beijing, Beijing, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04738981",
+                "enrolled": 130,
+                "radius": 21,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(238, 67, 29)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12979,
+                "paneLabel": "pane12979",
+                "start": "2021-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.3912757,
+                    39.906217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Safety and Efficacy of Umbilical Cord Mesenchymal Stem Cell Local Intramuscular Injection for Treatment of Uterine Scars",
                 "aff": "Maternal and Child Health Hospital of Foshan, Foshan, Guangdong, China",
                 "url": "https://ClinicalTrials.gov/show/NCT02968459",
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 90, 48)",
+                "fillColor": "rgb(255, 66, 46)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12980,
@@ -607,13 +1632,188 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Allogenic Adipose Tissue-Derived Mesenchymal Progenitor Cells for the Treatment of Knee Osteoarthritis",
+                "aff": "China-Japan Friendship Hospital, Beijing, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04208646",
+                "enrolled": 108,
+                "radius": 20,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(240, 100, 55)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12980,
+                "paneLabel": "pane12980",
+                "start": "2020-05-16",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.3912757,
+                    39.906217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogenic Adipose Tissue-Derived Mesenchymal Progenitor Cells for the Treatment of Knee Osteoarthritis",
+                "aff": "The Second Affiliated hospital of Zhejiang University School of Medicine, Hangzhou, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04208646",
+                "enrolled": 108,
+                "radius": 20,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(240, 100, 55)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12980,
+                "paneLabel": "pane12980",
+                "start": "2020-05-16",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2052342,
+                    30.2489634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogenic Adipose Tissue-Derived Mesenchymal Progenitor Cells for the Treatment of Knee Osteoarthritis",
+                "aff": "Huashan Hospital Affiliated to Fudan University, Shanghai, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04208646",
+                "enrolled": 108,
+                "radius": 20,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(240, 100, 55)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12980,
+                "paneLabel": "pane12980",
+                "start": "2020-05-16",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4692071,
+                    31.2322758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogenic Adipose Tissue-Derived Mesenchymal Progenitor Cells for the Treatment of Knee Osteoarthritis",
+                "aff": "Shanghai General Hospital, Shanghai, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04208646",
+                "enrolled": 108,
+                "radius": 20,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(240, 100, 55)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12980,
+                "paneLabel": "pane12980",
+                "start": "2020-05-16",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.22177867067153,
+                    31.0427014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogenic Adipose Tissue-Derived Mesenchymal Progenitor Cells for the Treatment of Knee Osteoarthritis",
+                "aff": "Shanghai Jiaotong University School of Medicine, Renji Hospital, Shanghai, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04208646",
+                "enrolled": 108,
+                "radius": 20,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(240, 100, 55)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12980,
+                "paneLabel": "pane12980",
+                "start": "2020-05-16",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47948814597764,
+                    31.235586150000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogenic Adipose Tissue-Derived Mesenchymal Progenitor Cells for the Treatment of Knee Osteoarthritis",
+                "aff": "Shanghai Sixth People's Hospital, Shanghai, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04208646",
+                "enrolled": 108,
+                "radius": 20,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(240, 100, 55)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12980,
+                "paneLabel": "pane12980",
+                "start": "2020-05-16",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.41788315057596,
+                    31.18040725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogenic Adipose Tissue-Derived Mesenchymal Progenitor Cells for the Treatment of Knee Osteoarthritis",
+                "aff": "Shanghai Ninth People's Hospital, Shanghai JiaoTong University School of Medicine, Shanghai, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04208646",
+                "enrolled": 108,
+                "radius": 20,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(240, 100, 55)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12980,
+                "paneLabel": "pane12980",
+                "start": "2020-05-16",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4653415,
+                    31.213944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Efficacy and Safety of Allogenic Stem Cell Product(CARTISTEM\u00ae) for Osteochondral Lesion of Talus",
                 "aff": "Kyunghee University Medical Center, Seoul, Dongdaemun-gu, Korea, Republic of",
                 "url": "https://ClinicalTrials.gov/show/NCT04310215",
                 "enrolled": 102,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(242, 73, 58)",
+                "fillColor": "rgb(222, 88, 10)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12980,
@@ -638,7 +1838,7 @@ var  groupallo_recent = {
                 "enrolled": 102,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(242, 73, 58)",
+                "fillColor": "rgb(222, 88, 10)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12980,
@@ -663,7 +1863,7 @@ var  groupallo_recent = {
                 "enrolled": 102,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(242, 73, 58)",
+                "fillColor": "rgb(222, 88, 10)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12980,
@@ -688,7 +1888,7 @@ var  groupallo_recent = {
                 "enrolled": 102,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(242, 73, 58)",
+                "fillColor": "rgb(222, 88, 10)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12980,
@@ -713,7 +1913,7 @@ var  groupallo_recent = {
                 "enrolled": 102,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(242, 73, 58)",
+                "fillColor": "rgb(222, 88, 10)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12980,
@@ -738,7 +1938,7 @@ var  groupallo_recent = {
                 "enrolled": 102,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(242, 73, 58)",
+                "fillColor": "rgb(222, 88, 10)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12980,
@@ -763,7 +1963,7 @@ var  groupallo_recent = {
                 "enrolled": 100,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(217, 92, 59)",
+                "fillColor": "rgb(244, 103, 28)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12980,
@@ -788,7 +1988,7 @@ var  groupallo_recent = {
                 "enrolled": 100,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(217, 92, 59)",
+                "fillColor": "rgb(244, 103, 28)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12980,
@@ -813,7 +2013,7 @@ var  groupallo_recent = {
                 "enrolled": 100,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(217, 92, 59)",
+                "fillColor": "rgb(244, 103, 28)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12980,
@@ -838,7 +2038,7 @@ var  groupallo_recent = {
                 "enrolled": 100,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(225, 95, 19)",
+                "fillColor": "rgb(225, 101, 11)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12980,
@@ -863,7 +2063,7 @@ var  groupallo_recent = {
                 "enrolled": 100,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(225, 95, 19)",
+                "fillColor": "rgb(225, 101, 11)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12980,
@@ -888,7 +2088,7 @@ var  groupallo_recent = {
                 "enrolled": 100,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(225, 95, 19)",
+                "fillColor": "rgb(225, 101, 11)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12980,
@@ -913,7 +2113,7 @@ var  groupallo_recent = {
                 "enrolled": 100,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(225, 95, 19)",
+                "fillColor": "rgb(225, 101, 11)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12980,
@@ -938,7 +2138,7 @@ var  groupallo_recent = {
                 "enrolled": 100,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(225, 95, 19)",
+                "fillColor": "rgb(225, 101, 11)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12980,
@@ -963,7 +2163,7 @@ var  groupallo_recent = {
                 "enrolled": 100,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(225, 95, 19)",
+                "fillColor": "rgb(225, 101, 11)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12980,
@@ -982,138 +2182,13 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Clinical Trial to Evaluate Efficacy and Safety of SMUP-IA-01 in Patients With Knee Osteoarthritis",
-                "aff": "Seoul Nation University Bundang Hospital, Gyeonggi-do, Korea, Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT05182034",
-                "enrolled": 90,
-                "radius": 19,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(234, 60, 46)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12981,
-                "paneLabel": "pane12981",
-                "start": "2022-02-24",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.00921616567815,
-                    37.23512285
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clinical Trial to Evaluate Efficacy and Safety of SMUP-IA-01 in Patients With Knee Osteoarthritis",
-                "aff": "Gangnam Severance Hospital, Seoul, Korea, Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT05182034",
-                "enrolled": 90,
-                "radius": 19,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(234, 60, 46)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12981,
-                "paneLabel": "pane12981",
-                "start": "2022-02-24",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.10332700284027,
-                    37.50771705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clinical Trial to Evaluate Efficacy and Safety of SMUP-IA-01 in Patients With Knee Osteoarthritis",
-                "aff": "Korea University Anam Hospita, Seoul, Korea, Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT05182034",
-                "enrolled": 90,
-                "radius": 19,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(234, 60, 46)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12981,
-                "paneLabel": "pane12981",
-                "start": "2022-02-24",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.10332700284027,
-                    37.50771705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clinical Trial to Evaluate Efficacy and Safety of SMUP-IA-01 in Patients With Knee Osteoarthritis",
-                "aff": "Seoul National University Hospital, Seoul, Korea, Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT05182034",
-                "enrolled": 90,
-                "radius": 19,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(234, 60, 46)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12981,
-                "paneLabel": "pane12981",
-                "start": "2022-02-24",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.10332700284027,
-                    37.50771705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clinical Trial to Evaluate Efficacy and Safety of SMUP-IA-01 in Patients With Knee Osteoarthritis",
-                "aff": "Severance Hospital, Seoul, Korea, Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT05182034",
-                "enrolled": 90,
-                "radius": 19,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(234, 60, 46)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12981,
-                "paneLabel": "pane12981",
-                "start": "2022-02-24",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.10332700284027,
-                    37.50771705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Safety and Efficacy of Allogeneic Adipose Tissue Mesenchymal Stem Cells in Diabetic Patients With Critical Limb Ischemia",
                 "aff": "Hospital General de Alicante, Alicante, Spain",
                 "url": "https://ClinicalTrials.gov/show/NCT04466007",
                 "enrolled": 90,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 73, 16)",
+                "fillColor": "rgb(224, 84, 36)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12981,
@@ -1138,7 +2213,7 @@ var  groupallo_recent = {
                 "enrolled": 90,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 73, 16)",
+                "fillColor": "rgb(224, 84, 36)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12981,
@@ -1163,7 +2238,7 @@ var  groupallo_recent = {
                 "enrolled": 90,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 73, 16)",
+                "fillColor": "rgb(224, 84, 36)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12981,
@@ -1188,7 +2263,7 @@ var  groupallo_recent = {
                 "enrolled": 90,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 73, 16)",
+                "fillColor": "rgb(224, 84, 36)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12981,
@@ -1213,7 +2288,7 @@ var  groupallo_recent = {
                 "enrolled": 90,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 73, 16)",
+                "fillColor": "rgb(224, 84, 36)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12981,
@@ -1238,7 +2313,7 @@ var  groupallo_recent = {
                 "enrolled": 90,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 73, 16)",
+                "fillColor": "rgb(224, 84, 36)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12981,
@@ -1263,7 +2338,7 @@ var  groupallo_recent = {
                 "enrolled": 90,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 73, 16)",
+                "fillColor": "rgb(224, 84, 36)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12981,
@@ -1288,7 +2363,7 @@ var  groupallo_recent = {
                 "enrolled": 90,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 73, 16)",
+                "fillColor": "rgb(224, 84, 36)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12981,
@@ -1313,7 +2388,7 @@ var  groupallo_recent = {
                 "enrolled": 90,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 73, 16)",
+                "fillColor": "rgb(224, 84, 36)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12981,
@@ -1338,7 +2413,7 @@ var  groupallo_recent = {
                 "enrolled": 90,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 73, 16)",
+                "fillColor": "rgb(224, 84, 36)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12981,
@@ -1357,25 +2432,150 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Randomized Double-Blind Phase 2 Study of Allogeneic HB-adMSCs for the Treatment of Chronic Post-COVID-19 Syndrome",
-                "aff": "Hope Biosciences Stem Cell Research Foundation, Sugar Land, Texas, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT05126563",
-                "enrolled": 80,
-                "radius": 18,
+                "name": "Clinical Trial to Evaluate Efficacy and Safety of SMUP-IA-01 in Patients With Knee Osteoarthritis",
+                "aff": "Seoul Nation University Bundang Hospital, Gyeonggi-do, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT05182034",
+                "enrolled": 90,
+                "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 74, 50)",
+                "fillColor": "rgb(229, 67, 11)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
-                "zindex": 12982,
-                "paneLabel": "pane12982",
-                "start": "2022-01-06",
+                "zindex": 12981,
+                "paneLabel": "pane12981",
+                "start": "2022-02-24",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.6349463,
-                    29.6196787
+                    127.00921616567815,
+                    37.23512285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trial to Evaluate Efficacy and Safety of SMUP-IA-01 in Patients With Knee Osteoarthritis",
+                "aff": "Gangnam Severance Hospital, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT05182034",
+                "enrolled": 90,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(229, 67, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12981,
+                "paneLabel": "pane12981",
+                "start": "2022-02-24",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trial to Evaluate Efficacy and Safety of SMUP-IA-01 in Patients With Knee Osteoarthritis",
+                "aff": "Korea University Anam Hospita, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT05182034",
+                "enrolled": 90,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(229, 67, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12981,
+                "paneLabel": "pane12981",
+                "start": "2022-02-24",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trial to Evaluate Efficacy and Safety of SMUP-IA-01 in Patients With Knee Osteoarthritis",
+                "aff": "Seoul National University Hospital, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT05182034",
+                "enrolled": 90,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(229, 67, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12981,
+                "paneLabel": "pane12981",
+                "start": "2022-02-24",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trial to Evaluate Efficacy and Safety of SMUP-IA-01 in Patients With Knee Osteoarthritis",
+                "aff": "Severance Hospital, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT05182034",
+                "enrolled": 90,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(229, 67, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12981,
+                "paneLabel": "pane12981",
+                "start": "2022-02-24",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Injection of Placental Mesenchymal Stem Cell Derived Exosomes for Treatment of Resistant Perianal Fistula in Crohn's Patients",
+                "aff": "Division of Colorectal Surgery, Department of Surgery, Tehran University of Medical Sciences, Tehran, Iran, Tehran, Iran, Islamic Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT05499156",
+                "enrolled": 80,
+                "radius": 18,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 100, 30)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12982,
+                "paneLabel": "pane12982",
+                "start": "2022-01-20",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.41666085836621,
+                    35.7447916
                 ]
             }
         },
@@ -1388,7 +2588,7 @@ var  groupallo_recent = {
                 "enrolled": 78,
                 "radius": 18,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 100, 15)",
+                "fillColor": "rgb(221, 86, 45)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12982,
@@ -1407,13 +2607,38 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Phase \u2161 Clinical Study of Human Umbilical Cord Mesenchymal Stem Cells in the Treatment of Venous Leg",
+                "aff": "Southwest Hospital, Army Medical University (Third Military Medical University), Chongqing, Chongqing, China",
+                "url": "https://ClinicalTrials.gov/show/NCT05319106",
+                "enrolled": 76,
+                "radius": 18,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(240, 92, 45)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12982,
+                "paneLabel": "pane12982",
+                "start": "2022-04-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.5478767,
+                    29.5647398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Evaluate the Safety and Efficacy of Allogeneic Umbilical Cord Mesenchymal Stem Cells in Patients With COVID-19",
                 "aff": "China Medical University Hospital, Taichung, Non-US, Taiwan",
                 "url": "https://ClinicalTrials.gov/show/NCT05501418",
                 "enrolled": 75,
                 "radius": 18,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 69, 39)",
+                "fillColor": "rgb(225, 107, 44)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12982,
@@ -1438,7 +2663,7 @@ var  groupallo_recent = {
                 "enrolled": 70,
                 "radius": 18,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(230, 108, 31)",
+                "fillColor": "rgb(233, 78, 18)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12982,
@@ -1463,7 +2688,7 @@ var  groupallo_recent = {
                 "enrolled": 70,
                 "radius": 18,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(230, 108, 31)",
+                "fillColor": "rgb(233, 78, 18)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12982,
@@ -1488,7 +2713,7 @@ var  groupallo_recent = {
                 "enrolled": 70,
                 "radius": 18,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(230, 108, 31)",
+                "fillColor": "rgb(233, 78, 18)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12982,
@@ -1507,13 +2732,38 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Chondrochymal\u00ae for Subjects With Knee Osteoarthritis (Knee OA)",
+                "aff": "Taipei Veterans General Hospital, Taipei, Taiwan",
+                "url": "https://ClinicalTrials.gov/show/NCT05027581",
+                "enrolled": 70,
+                "radius": 18,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(233, 97, 59)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12982,
+                "paneLabel": "pane12982",
+                "start": "2021-08-15",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51972186894156,
+                    25.1210087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Clinical Study of ALLO-ASC-SHEET in Subjects With Diabetic Wagner Grade II Foot Ulcers",
                 "aff": "University of Southern California, Los Angeles, California, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT04497805",
                 "enrolled": 64,
                 "radius": 18,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 62, 36)",
+                "fillColor": "rgb(215, 69, 14)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12982,
@@ -1532,188 +2782,13 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Study of Allogeneic Adipose-Derived Mesenchymal Stem Cells for Treatment of COVID-19 Acute Respiratory Distress",
-                "aff": "Teradan Clinical Trials LLC, Brandon, Florida, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04905836",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(224, 87, 43)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12983,
-                "paneLabel": "pane12983",
-                "start": "2021-10-16",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.2880507720744,
-                    27.928464
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study of Allogeneic Adipose-Derived Mesenchymal Stem Cells for Treatment of COVID-19 Acute Respiratory Distress",
-                "aff": "Sarasota Memorial Health Care System (SMH), Sarasota, Florida, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04905836",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(224, 87, 43)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12983,
-                "paneLabel": "pane12983",
-                "start": "2021-10-16",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.5308545,
-                    27.3365805
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study of Allogeneic Adipose-Derived Mesenchymal Stem Cells for Treatment of COVID-19 Acute Respiratory Distress",
-                "aff": "St Luke's Research, Boise, Idaho, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04905836",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(224, 87, 43)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12983,
-                "paneLabel": "pane12983",
-                "start": "2021-10-16",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -116.200886,
-                    43.6166163
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study of Allogeneic Adipose-Derived Mesenchymal Stem Cells for Treatment of COVID-19 Acute Respiratory Distress",
-                "aff": "St. Luke's Boise, Boise, Idaho, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04905836",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(224, 87, 43)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12983,
-                "paneLabel": "pane12983",
-                "start": "2021-10-16",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -116.200886,
-                    43.6166163
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study of Allogeneic Adipose-Derived Mesenchymal Stem Cells for Treatment of COVID-19 Acute Respiratory Distress",
-                "aff": "Ascension St. John, Tulsa, Oklahoma, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04905836",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(224, 87, 43)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12983,
-                "paneLabel": "pane12983",
-                "start": "2021-10-16",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.9688643231512,
-                    36.1339564
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study of Allogeneic Adipose-Derived Mesenchymal Stem Cells for Treatment of COVID-19 Acute Respiratory Distress",
-                "aff": "PRX Research/Dallas Regional Medical Center, Mesquite, Texas, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04905836",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(224, 87, 43)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12983,
-                "paneLabel": "pane12983",
-                "start": "2021-10-16",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -96.599472,
-                    32.7666103
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clinical Trial for Parkinson's Disease Using Allogeneic HB-adMSCs (Early and Moderate PD).",
-                "aff": "Hope Biosciences Stem Cell Research Foundation, Sugar Land, Texas, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04995081",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(241, 84, 26)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12983,
-                "paneLabel": "pane12983",
-                "start": "2021-07-16",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.6349463,
-                    29.6196787
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Umbilical Cord Lining Stem Cells (ULSC) in Patients With COVID-19 ARDS",
                 "aff": "Miami Baptist Hospital, Miami, Florida, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT04494386",
                 "enrolled": 60,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(219, 86, 14)",
+                "fillColor": "rgb(221, 63, 42)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12983,
@@ -1738,7 +2813,7 @@ var  groupallo_recent = {
                 "enrolled": 60,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(219, 86, 14)",
+                "fillColor": "rgb(221, 63, 42)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12983,
@@ -1757,13 +2832,188 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Allogeneic Mesenchymal Stem Cells for the Survivors of Ischemic Stroke Trial (ASSIST)",
+                "aff": "Beijing Tiantan Hospital, Capital Medical University, Beijing, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04590118",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(240, 71, 30)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12983,
+                "paneLabel": "pane12983",
+                "start": "2021-04-26",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.349177,
+                    39.9124309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Study of Allogeneic Adipose-Derived Mesenchymal Stem Cells for Treatment of COVID-19 Acute Respiratory Distress",
+                "aff": "Teradan Clinical Trials LLC, Brandon, Florida, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04905836",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(222, 69, 54)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12983,
+                "paneLabel": "pane12983",
+                "start": "2021-10-16",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.2880507720744,
+                    27.928464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Study of Allogeneic Adipose-Derived Mesenchymal Stem Cells for Treatment of COVID-19 Acute Respiratory Distress",
+                "aff": "Sarasota Memorial Health Care System (SMH), Sarasota, Florida, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04905836",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(222, 69, 54)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12983,
+                "paneLabel": "pane12983",
+                "start": "2021-10-16",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5308545,
+                    27.3365805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Study of Allogeneic Adipose-Derived Mesenchymal Stem Cells for Treatment of COVID-19 Acute Respiratory Distress",
+                "aff": "St Luke's Research, Boise, Idaho, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04905836",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(222, 69, 54)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12983,
+                "paneLabel": "pane12983",
+                "start": "2021-10-16",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.200886,
+                    43.6166163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Study of Allogeneic Adipose-Derived Mesenchymal Stem Cells for Treatment of COVID-19 Acute Respiratory Distress",
+                "aff": "St. Luke's Boise, Boise, Idaho, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04905836",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(222, 69, 54)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12983,
+                "paneLabel": "pane12983",
+                "start": "2021-10-16",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.200886,
+                    43.6166163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Study of Allogeneic Adipose-Derived Mesenchymal Stem Cells for Treatment of COVID-19 Acute Respiratory Distress",
+                "aff": "Ascension St. John, Tulsa, Oklahoma, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04905836",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(222, 69, 54)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12983,
+                "paneLabel": "pane12983",
+                "start": "2021-10-16",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.9688643231512,
+                    36.1339564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Study of Allogeneic Adipose-Derived Mesenchymal Stem Cells for Treatment of COVID-19 Acute Respiratory Distress",
+                "aff": "PRX Research/Dallas Regional Medical Center, Mesquite, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04905836",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(222, 69, 54)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12983,
+                "paneLabel": "pane12983",
+                "start": "2021-10-16",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.599472,
+                    32.7666103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Cellular Therapy for In Utero Repair of Myelomeningocele - The CuRe Trial",
                 "aff": "UC Davis Health, Sacramento, California, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT04652908",
                 "enrolled": 55,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(217, 88, 37)",
+                "fillColor": "rgb(230, 99, 53)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12983,
@@ -1788,7 +3038,7 @@ var  groupallo_recent = {
                 "enrolled": 50,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(239, 68, 50)",
+                "fillColor": "rgb(243, 81, 59)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12983,
@@ -1813,7 +3063,7 @@ var  groupallo_recent = {
                 "enrolled": 48,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(221, 99, 29)",
+                "fillColor": "rgb(227, 90, 20)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12984,
@@ -1838,7 +3088,7 @@ var  groupallo_recent = {
                 "enrolled": 47,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(223, 108, 14)",
+                "fillColor": "rgb(220, 101, 23)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12984,
@@ -1863,7 +3113,7 @@ var  groupallo_recent = {
                 "enrolled": 47,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(223, 108, 14)",
+                "fillColor": "rgb(220, 101, 23)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12984,
@@ -1882,25 +3132,50 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Treatment With Human Umbilical Cord Mesenchymal Stem Cells for Refractory Diabetic Peripheral Neuropathy",
-                "aff": "The Central Hospital of Wuhan, Wuhan, Hubei, China",
-                "url": "https://ClinicalTrials.gov/show/NCT05507697",
-                "enrolled": 42,
+                "name": "Human Umbilical Cord Mesenchymal Stem Cell(UC-MSC)Delayed Renal Chronic Kidney Disease(CKD3\u30014 )",
+                "aff": "Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, China",
+                "url": "https://ClinicalTrials.gov/show/NCT05512988",
+                "enrolled": 44,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(252, 100, 30)",
+                "fillColor": "rgb(255, 101, 31)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12984,
                 "paneLabel": "pane12984",
-                "start": "2022-05-19",
+                "start": "2021-04-13",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    114.2999353,
-                    30.5951051
+                    114.41184627402748,
+                    30.52021715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Human Placental Mesenchymal Stem Cells Treatment on Diabetic Foot Ulcer",
+                "aff": "National Institute for Drug Clinical Trial, Beijing Tongren Hospital, Capital Medical University, Beijing, Beiijng, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04464213",
+                "enrolled": 43,
+                "radius": 16,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 58, 33)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12984,
+                "paneLabel": "pane12984",
+                "start": "2020-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.999927,
+                    35.000074
                 ]
             }
         },
@@ -1913,7 +3188,7 @@ var  groupallo_recent = {
                 "enrolled": 42,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 82, 43)",
+                "fillColor": "rgb(242, 103, 23)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12984,
@@ -1938,7 +3213,7 @@ var  groupallo_recent = {
                 "enrolled": 42,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 82, 43)",
+                "fillColor": "rgb(242, 103, 23)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12984,
@@ -1963,7 +3238,7 @@ var  groupallo_recent = {
                 "enrolled": 42,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 82, 43)",
+                "fillColor": "rgb(242, 103, 23)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12984,
@@ -1982,13 +3257,38 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Treatment With Human Umbilical Cord Mesenchymal Stem Cells for Refractory Diabetic Peripheral Neuropathy",
+                "aff": "The Central Hospital of Wuhan, Wuhan, Hubei, China",
+                "url": "https://ClinicalTrials.gov/show/NCT05507697",
+                "enrolled": 42,
+                "radius": 16,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(237, 86, 41)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12984,
+                "paneLabel": "pane12984",
+                "start": "2022-05-19",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2999353,
+                    30.5951051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Evaluate the Safety and Efficacy of Allogeneic Umbilical Cord Mesenchymal Stem Cells in Patients With Multiple Sclerosis",
                 "aff": "China Medical University Hospital, Taichung, Non-US, Taiwan",
                 "url": "https://ClinicalTrials.gov/show/NCT05532943",
                 "enrolled": 41,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 101, 32)",
+                "fillColor": "rgb(234, 58, 47)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12984,
@@ -2013,7 +3313,7 @@ var  groupallo_recent = {
                 "enrolled": 40,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(228, 86, 58)",
+                "fillColor": "rgb(230, 62, 44)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12984,
@@ -2038,7 +3338,7 @@ var  groupallo_recent = {
                 "enrolled": 40,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(248, 72, 44)",
+                "fillColor": "rgb(255, 102, 52)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12984,
@@ -2063,7 +3363,7 @@ var  groupallo_recent = {
                 "enrolled": 40,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(215, 60, 28)",
+                "fillColor": "rgb(220, 86, 24)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12984,
@@ -2088,7 +3388,7 @@ var  groupallo_recent = {
                 "enrolled": 40,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(233, 102, 57)",
+                "fillColor": "rgb(230, 58, 40)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12984,
@@ -2107,63 +3407,13 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Safety and Efficacy of Intravenous Wharton's Jelly Derived Mesenchymal Stem Cells in Acute Respiratory Distress Syndrome Due to COVID 19",
-                "aff": "BioXcellerator, Medellin, Antioquia-CO, Colombia",
-                "url": "https://ClinicalTrials.gov/show/NCT04390152",
-                "enrolled": 40,
-                "radius": 16,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(227, 88, 48)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12984,
-                "paneLabel": "pane12984",
-                "start": "2020-01-13",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.573553,
-                    6.2443382
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Efficacy of Intravenous Wharton's Jelly Derived Mesenchymal Stem Cells in Acute Respiratory Distress Syndrome Due to COVID 19",
-                "aff": "Clinical Somer, Rionegro, Antioquia, Colombia",
-                "url": "https://ClinicalTrials.gov/show/NCT04390152",
-                "enrolled": 40,
-                "radius": 16,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(227, 88, 48)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12984,
-                "paneLabel": "pane12984",
-                "start": "2020-01-13",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.3741691,
-                    6.1536166
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Stem Cell Therapy for Chronic Kidney Disease",
                 "aff": "Mayo Clinic Florida, Jacksonville, Florida, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT04869761",
                 "enrolled": 40,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(241, 67, 17)",
+                "fillColor": "rgb(240, 99, 37)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12984,
@@ -2188,7 +3438,7 @@ var  groupallo_recent = {
                 "enrolled": 40,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(241, 67, 17)",
+                "fillColor": "rgb(240, 99, 37)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12984,
@@ -2207,13 +3457,88 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Safety and Efficacy of Intravenous Wharton's Jelly Derived Mesenchymal Stem Cells in Acute Respiratory Distress Syndrome Due to COVID 19",
+                "aff": "BioXcellerator, Medellin, Antioquia-CO, Colombia",
+                "url": "https://ClinicalTrials.gov/show/NCT04390152",
+                "enrolled": 40,
+                "radius": 16,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(230, 96, 33)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12984,
+                "paneLabel": "pane12984",
+                "start": "2020-01-13",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.573553,
+                    6.2443382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety and Efficacy of Intravenous Wharton's Jelly Derived Mesenchymal Stem Cells in Acute Respiratory Distress Syndrome Due to COVID 19",
+                "aff": "Clinical Somer, Rionegro, Antioquia, Colombia",
+                "url": "https://ClinicalTrials.gov/show/NCT04390152",
+                "enrolled": 40,
+                "radius": 16,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(230, 96, 33)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12984,
+                "paneLabel": "pane12984",
+                "start": "2020-01-13",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3741691,
+                    6.1536166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Treatment of Lupus Nephritis With Allogeneic Mesenchymal Stem Cells",
+                "aff": "University Hospital R\u00edo Hortega, Valladolid, Spain",
+                "url": "https://ClinicalTrials.gov/show/NCT03673748",
+                "enrolled": 36,
+                "radius": 16,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(216, 73, 11)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12984,
+                "paneLabel": "pane12984",
+                "start": "2022-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.728562,
+                    41.6521328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Treatment of Covid-19 Associated Pneumonia With Allogenic Pooled Olfactory Mucosa-derived Mesenchymal Stem Cells",
                 "aff": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus, Minsk, Belarus",
                 "url": "https://ClinicalTrials.gov/show/NCT04382547",
                 "enrolled": 32,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(243, 88, 47)",
+                "fillColor": "rgb(227, 69, 19)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12985,
@@ -2232,38 +3557,13 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Efficacy of Infusions of MSC From Wharton Jelly in the SARS-Cov-2 (COVID-19) Related Acute Respiratory Distress Syndrome",
-                "aff": "Nancy University Hospital, Vand\u0153uvre-l\u00e8s-Nancy, France",
-                "url": "https://ClinicalTrials.gov/show/NCT04625738",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(221, 66, 40)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12985,
-                "paneLabel": "pane12985",
-                "start": "2020-10-06",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8883335,
-                    46.603354
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Application of hUC-MSCs in Treating Acute Lung Injury: a Single Center Prospective Clinical Research",
                 "aff": "SAHZU, Hanzhou, Zhejiang, China",
                 "url": "https://ClinicalTrials.gov/show/NCT04951882",
                 "enrolled": 30,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(247, 74, 25)",
+                "fillColor": "rgb(252, 95, 31)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12985,
@@ -2282,25 +3582,75 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Efficacy of WJ-derived Mesenchymal Stem Cells in Combination With Parathyroid Hormone for Vertebral Compression Fracture",
-                "aff": "CHA University, CHA Bundang Medical Center, Seongnam-si, Gyeonggi-do, Korea, Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT05018637",
+                "name": "Clinical Study of Umbilical Cord Mesenchymal Stem Cells Infusion for Aging Frailty",
+                "aff": "Shanghai East Hospital, Shanghai Tongji University, Shanghai, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04314011",
                 "enrolled": 30,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 59, 37)",
+                "fillColor": "rgb(220, 61, 15)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12985,
                 "paneLabel": "pane12985",
-                "start": "2020-08-01",
+                "start": "2020-06-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    127.00921616567815,
-                    37.23512285
+                    121.4692071,
+                    31.2322758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Efficacy of Infusions of MSC From Wharton Jelly in the SARS-Cov-2 (COVID-19) Related Acute Respiratory Distress Syndrome",
+                "aff": "Nancy University Hospital, Vand\u0153uvre-l\u00e8s-Nancy, France",
+                "url": "https://ClinicalTrials.gov/show/NCT04625738",
+                "enrolled": 30,
+                "radius": 15,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 78, 19)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12985,
+                "paneLabel": "pane12985",
+                "start": "2020-10-06",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8883335,
+                    46.603354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Umbilical Cord Mesenchymal Stem Cell Transplantation for Decompensated Hepatitis B Cirrhosis",
+                "aff": "Haikou People's Hospital, Haikou, China",
+                "url": "https://ClinicalTrials.gov/show/NCT05106972",
+                "enrolled": 30,
+                "radius": 15,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(222, 83, 37)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12985,
+                "paneLabel": "pane12985",
+                "start": "2021-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.33717397045623,
+                    20.0626929
                 ]
             }
         },
@@ -2313,7 +3663,7 @@ var  groupallo_recent = {
                 "enrolled": 30,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(238, 77, 42)",
+                "fillColor": "rgb(255, 74, 35)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12985,
@@ -2332,25 +3682,50 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Adjunctive Allogeneic Mesenchymal Stem Cells for Treatment-resistant Bipolar Depression",
-                "aff": "The University of Texas Health Science Center at Houston, Houston, Texas, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT03522545",
+                "name": "Allogeneic Adipose Tissue-derived Mesenchymal Stem Cells in Ischemic Stroke",
+                "aff": "Hospital Universitario La Paz, Madrid, Spain",
+                "url": "https://ClinicalTrials.gov/show/NCT04280003",
                 "enrolled": 30,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 95, 17)",
+                "fillColor": "rgb(252, 70, 50)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12985,
                 "paneLabel": "pane12985",
-                "start": "2021-06-01",
+                "start": "2021-01-20",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.3676974,
-                    29.7589382
+                    -3.6872531870474874,
+                    40.48144225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Efficacy of WJ-derived Mesenchymal Stem Cells in Combination With Parathyroid Hormone for Vertebral Compression Fracture",
+                "aff": "CHA University, CHA Bundang Medical Center, Seongnam-si, Gyeonggi-do, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT05018637",
+                "enrolled": 30,
+                "radius": 15,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 104, 15)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12985,
+                "paneLabel": "pane12985",
+                "start": "2020-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.00921616567815,
+                    37.23512285
                 ]
             }
         },
@@ -2363,7 +3738,7 @@ var  groupallo_recent = {
                 "enrolled": 30,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(242, 63, 31)",
+                "fillColor": "rgb(219, 69, 23)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12985,
@@ -2388,7 +3763,7 @@ var  groupallo_recent = {
                 "enrolled": 30,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(229, 92, 17)",
+                "fillColor": "rgb(253, 67, 50)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12985,
@@ -2407,25 +3782,25 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Clinical Study of Umbilical Cord Mesenchymal Stem Cells Infusion for Aging Frailty",
-                "aff": "Shanghai East Hospital, Shanghai Tongji University, Shanghai, China",
-                "url": "https://ClinicalTrials.gov/show/NCT04314011",
+                "name": "Adjunctive Allogeneic Mesenchymal Stem Cells for Treatment-resistant Bipolar Depression",
+                "aff": "The University of Texas Health Science Center at Houston, Houston, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT03522545",
                 "enrolled": 30,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(225, 61, 51)",
+                "fillColor": "rgb(248, 98, 42)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12985,
                 "paneLabel": "pane12985",
-                "start": "2020-06-01",
+                "start": "2021-06-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.4692071,
-                    31.2322758
+                    -95.3676974,
+                    29.7589382
                 ]
             }
         },
@@ -2438,7 +3813,7 @@ var  groupallo_recent = {
                 "enrolled": 29,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(247, 59, 34)",
+                "fillColor": "rgb(226, 82, 49)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12985,
@@ -2463,7 +3838,7 @@ var  groupallo_recent = {
                 "enrolled": 26,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 81, 23)",
+                "fillColor": "rgb(229, 101, 11)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12985,
@@ -2488,7 +3863,7 @@ var  groupallo_recent = {
                 "enrolled": 26,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 81, 23)",
+                "fillColor": "rgb(229, 101, 11)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12985,
@@ -2513,7 +3888,7 @@ var  groupallo_recent = {
                 "enrolled": 26,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 81, 23)",
+                "fillColor": "rgb(229, 101, 11)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12985,
@@ -2538,7 +3913,7 @@ var  groupallo_recent = {
                 "enrolled": 26,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 81, 23)",
+                "fillColor": "rgb(229, 101, 11)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12985,
@@ -2563,7 +3938,7 @@ var  groupallo_recent = {
                 "enrolled": 26,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 81, 23)",
+                "fillColor": "rgb(229, 101, 11)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12985,
@@ -2588,7 +3963,7 @@ var  groupallo_recent = {
                 "enrolled": 26,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 81, 23)",
+                "fillColor": "rgb(229, 101, 11)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12985,
@@ -2607,18 +3982,18 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Study of Mesenchymal Stem Cells for the Treatment of Medically Refractory Crohn's Colitis",
+                "name": "Study of Mesenchymal Stem Cells for the Treatment of Medically Refractory Ulcerative Colitis (UC)",
                 "aff": "Cleveland Clinic, Cleveland, Ohio, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04548583",
+                "url": "https://ClinicalTrials.gov/show/NCT04543994",
                 "enrolled": 24,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(252, 76, 13)",
+                "fillColor": "rgb(251, 72, 38)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12986,
                 "paneLabel": "pane12986",
-                "start": "2020-10-04",
+                "start": "2020-10-10",
                 "end": "2023-09-30"
             },
             "geometry": {
@@ -2632,43 +4007,18 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "hUC Mesenchymal Stem Cells (19#iSCLife\u00ae-UT) Therapy for Patients With Thin Endometrial Infertility",
-                "aff": "Xiangya Hospital Central South University, Changsha, Hunan, China",
-                "url": "https://ClinicalTrials.gov/show/NCT05495711",
-                "enrolled": 24,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(217, 94, 56)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2020-05-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    113.2384362,
-                    28.1450774
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study of Mesenchymal Stem Cells for the Treatment of Medically Refractory Ulcerative Colitis (UC)",
+                "name": "Study of Mesenchymal Stem Cells for the Treatment of Medically Refractory Crohn's Colitis",
                 "aff": "Cleveland Clinic, Cleveland, Ohio, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04543994",
+                "url": "https://ClinicalTrials.gov/show/NCT04548583",
                 "enrolled": 24,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(238, 103, 36)",
+                "fillColor": "rgb(249, 79, 56)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12986,
                 "paneLabel": "pane12986",
-                "start": "2020-10-10",
+                "start": "2020-10-04",
                 "end": "2023-09-30"
             },
             "geometry": {
@@ -2688,7 +4038,7 @@ var  groupallo_recent = {
                 "enrolled": 24,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(252, 73, 56)",
+                "fillColor": "rgb(247, 91, 53)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12986,
@@ -2707,13 +4057,63 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "hUC Mesenchymal Stem Cells (19#iSCLife\u00ae-UT) Therapy for Patients With Thin Endometrial Infertility",
+                "aff": "Xiangya Hospital Central South University, Changsha, Hunan, China",
+                "url": "https://ClinicalTrials.gov/show/NCT05495711",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 61, 48)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2020-05-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2384362,
+                    28.1450774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Treatment of Severe COVID-19 Pneumonia With Allogeneic Mesenchymal Stromal Cells (COVID_MSV)",
+                "aff": "Hospital Universitario Rio Hortega, Valladolid, Spain",
+                "url": "https://ClinicalTrials.gov/show/NCT04361942",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(216, 78, 15)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2020-05-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.713905228348496,
+                    41.6296811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Phase 1 Study of ULSC in Patients With Polymyositis (PM) and Dermatomyositis (DM)",
                 "aff": "University of Florida, Gainesville, Florida, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT04723303",
                 "enrolled": 22,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(246, 104, 47)",
+                "fillColor": "rgb(255, 66, 12)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12986,
@@ -2732,88 +4132,13 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cells for Heart Disease",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05147766",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(230, 58, 13)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study of Human Umbilical Cord Mesenchymal Stem Cell in Patients With Cirrhosis Due to Hepatitis B (Compensation Stage)",
-                "aff": "Renmin Hospital of Wuhan University, Wuhan, Hubei, China",
-                "url": "https://ClinicalTrials.gov/show/NCT05507762",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 90, 57)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2021-07-20",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    114.2999353,
-                    30.5951051
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study of Ossium Mesenchymal Stem Cells for the Treatment of Pouch Fistulas in the Setting of Crohn's Disease",
-                "aff": "Cleveland Clinic, Cleveland, Ohio, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT05075811",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(221, 76, 12)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.61981946090904,
-                    41.50217195
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Human Umbilical Cord Mesenchymal Stem Cells For the Treatment of Lumbar Disc Degeneration Disease",
                 "aff": "Shanghai General Hospital, Shanghai, Shanghai, China",
                 "url": "https://ClinicalTrials.gov/show/NCT04414592",
                 "enrolled": 20,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(220, 76, 11)",
+                "fillColor": "rgb(255, 71, 43)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12986,
@@ -2838,7 +4163,7 @@ var  groupallo_recent = {
                 "enrolled": 20,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(220, 76, 11)",
+                "fillColor": "rgb(255, 71, 43)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12986,
@@ -2857,663 +4182,13 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell IV Infusion for Systemic Sclerosis",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05016804",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(237, 58, 9)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for CKD",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05018845",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(251, 91, 23)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cells for Ovarian Failure",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05158933",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 102, 31)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intrathecal Injection for ALS",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05003921",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 102, 47)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for Osteoporosis",
                 "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
                 "url": "https://ClinicalTrials.gov/show/NCT05152381",
                 "enrolled": 20,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(222, 81, 57)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clinical Trial to Evaluate if the Laparoscopic Administration of Cells Derived From the Fatty Tissue Can Improve the Inflammatory Stenosis in Patient With Crohn's Disease",
-                "aff": "Hospital Universitario Valle de Hebr\u00f3n, Barcelona, Spain",
-                "url": "https://ClinicalTrials.gov/show/NCT05521672",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(249, 88, 49)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.1774322,
-                    41.3828939
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clinical Trial to Evaluate if the Laparoscopic Administration of Cells Derived From the Fatty Tissue Can Improve the Inflammatory Stenosis in Patient With Crohn's Disease",
-                "aff": "Hospital Universitario Fundaci\u00f3n Jim\u00e9nez Diaz, Madrid, Spain",
-                "url": "https://ClinicalTrials.gov/show/NCT05521672",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(249, 88, 49)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.7035825,
-                    40.4167047
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clinical Trial to Evaluate if the Laparoscopic Administration of Cells Derived From the Fatty Tissue Can Improve the Inflammatory Stenosis in Patient With Crohn's Disease",
-                "aff": "Hospital Universitario y Polit\u00e9cnico La Fe, Valencia, Spain",
-                "url": "https://ClinicalTrials.gov/show/NCT05521672",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(249, 88, 49)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.3763353,
-                    39.4697065
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Efficacy Study of Allogeneic Human Dental Pulp Mesenchymal Stem Cells to Treat Severe COVID-19 Patients",
-                "aff": "Renmin Hospital of Wuhan University (East Campus), Wuhan, Hubei, China",
-                "url": "https://ClinicalTrials.gov/show/NCT04336254",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(228, 100, 24)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2020-05-06",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    114.2999353,
-                    30.5951051
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cells for Parkinson's Disease",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05152394",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(237, 63, 34)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cells for SCI",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05152290",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(252, 88, 42)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cells for Pulmonary Diseases",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05147688",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(217, 87, 50)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2021-11-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Umbilical Cord-derived Mesenchymal Stem Cell Infusion in the Management of Adult Liver Cirrhosis",
-                "aff": "Vinmec Research Institute of Stem Cell and Gene Technology, Hanoi, Vietnam",
-                "url": "https://ClinicalTrials.gov/show/NCT05331872",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(215, 90, 57)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2020-11-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    105.8544441,
-                    21.0294498
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cells for Eye Diseases",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05147701",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 80, 39)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for Aging Frailty",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05018767",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(243, 90, 21)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for RA",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05003934",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(220, 98, 35)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "The Evaluation of the Effect of Mesenchymal Stem Cells on the Immune System of Patients With ALS",
-                "aff": "JST sp. z o.o., Cz\u0119stochowa, Poland",
-                "url": "https://ClinicalTrials.gov/show/NCT04651855",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(242, 101, 45)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2020-11-02",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.134422,
-                    52.215933
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for Diabetes",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05003908",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(237, 106, 19)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stem Cells and Secretomes for Infertility Therapy in Polycystic Ovary Syndrome (PCOS) Patients With Insulin Resistance.",
-                "aff": "PT Prodia StemCell Indonesia, Jakarta, Indonesia",
-                "url": "https://ClinicalTrials.gov/show/NCT05279768",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(219, 77, 14)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-04-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    106.827183,
-                    -6.1753942
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cells for Skin Ulcer",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05158127",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(222, 81, 55)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Bone Marrow-Derived Mesenchymal Stem Cell Therapy for Chronic Kidney Disease",
-                "aff": "Mayo Clinic Florida, Jacksonville, Florida, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT05362786",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(235, 100, 46)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-07-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.44479406045171,
-                    30.2604657
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Bone Marrow-Derived Mesenchymal Stem Cell Therapy for Chronic Kidney Disease",
-                "aff": "Mayo Clinic Rochester, Rochester, Minnesota, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT05362786",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(235, 100, 46)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-07-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -92.466607460917,
-                    44.0225389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cells for OA",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05147675",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(244, 58, 10)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2021-11-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for TBI",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05018832",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(246, 59, 57)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-11-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for IPF",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05016817",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(248, 83, 51)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2022-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Stem Cells for Peyronie's Disease, ED, and Interstitial Cystitis",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05147779",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(231, 83, 11)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12986,
-                "paneLabel": "pane12986",
-                "start": "2021-11-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cells for Testicular Injury and Oligospermia",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05158114",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 87, 43)",
+                "fillColor": "rgb(255, 66, 21)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12986,
@@ -3538,7 +4213,7 @@ var  groupallo_recent = {
                 "enrolled": 20,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(225, 75, 17)",
+                "fillColor": "rgb(253, 81, 28)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12986,
@@ -3557,25 +4232,775 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Mesenchymal Stem Cells for The Treatment of Acute Respiratory Distress Syndrome (ARDS)",
-                "aff": "Taipei Medical University - Shuang Ho Hospital, Ministry of Health and Welfare., New Taipei City, Taiwan",
-                "url": "https://ClinicalTrials.gov/show/NCT04347967",
-                "enrolled": 18,
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for RA",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05003934",
+                "enrolled": 20,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(231, 90, 36)",
+                "fillColor": "rgb(248, 63, 23)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12986,
                 "paneLabel": "pane12986",
-                "start": "2021-08-01",
+                "start": "2022-02-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.67991896754116,
-                    25.07213425
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for CKD",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05018845",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(253, 77, 34)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety and Effectiveness of Placental Derived Exosomes and Umbilical Cord Mesenchymal Stem Cells in Moderate to Severe Acute Respiratory Distress Syndrome (ARDS) Associated With the Novel Corona Virus Infection (COVID-19)",
+                "aff": "Kit Bartalos, Liberty, Missouri, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT05387278",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(230, 71, 51)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-06-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.419079,
+                    39.246479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety and Efficacy Study of Allogeneic Human Dental Pulp Mesenchymal Stem Cells to Treat Severe COVID-19 Patients",
+                "aff": "Renmin Hospital of Wuhan University (East Campus), Wuhan, Hubei, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04336254",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 86, 17)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2020-05-06",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2999353,
+                    30.5951051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for TBI",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05018832",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 58, 19)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cells for Parkinson's Disease",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05152394",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(246, 85, 13)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cells for Heart Disease",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05147766",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(234, 82, 9)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Stem Cells for Peyronie's Disease, ED, and Interstitial Cystitis",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05147779",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(215, 82, 50)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2021-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Study of Human Umbilical Cord Mesenchymal Stem Cell in Patients With Cirrhosis Due to Hepatitis B (Compensation Stage)",
+                "aff": "Renmin Hospital of Wuhan University, Wuhan, Hubei, China",
+                "url": "https://ClinicalTrials.gov/show/NCT05507762",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(253, 106, 22)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2021-07-20",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2999353,
+                    30.5951051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cells for Testicular Injury and Oligospermia",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05158114",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 62, 33)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for IPF",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05016817",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(254, 93, 19)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bone Marrow-Derived Mesenchymal Stem Cell Therapy for Chronic Kidney Disease",
+                "aff": "Mayo Clinic Florida, Jacksonville, Florida, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT05362786",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 64, 23)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-07-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.44479406045171,
+                    30.2604657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bone Marrow-Derived Mesenchymal Stem Cell Therapy for Chronic Kidney Disease",
+                "aff": "Mayo Clinic Rochester, Rochester, Minnesota, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT05362786",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 64, 23)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-07-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.466607460917,
+                    44.0225389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cells for Eye Diseases",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05147701",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 85, 19)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Study of Ossium Mesenchymal Stem Cells for the Treatment of Pouch Fistulas in the Setting of Crohn's Disease",
+                "aff": "Cleveland Clinic, Cleveland, Ohio, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT05075811",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(250, 101, 47)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.61981946090904,
+                    41.50217195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Evaluation of the Effect of Mesenchymal Stem Cells on the Immune System of Patients With ALS",
+                "aff": "JST sp. z o.o., Cz\u0119stochowa, Poland",
+                "url": "https://ClinicalTrials.gov/show/NCT04651855",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(224, 92, 60)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2020-11-02",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.134422,
+                    52.215933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for Diabetes",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05003908",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 66, 36)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intrathecal Injection for ALS",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05003921",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(240, 65, 20)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trial to Evaluate if the Laparoscopic Administration of Cells Derived From the Fatty Tissue Can Improve the Inflammatory Stenosis in Patient With Crohn's Disease",
+                "aff": "Hospital Universitario Valle de Hebr\u00f3n, Barcelona, Spain",
+                "url": "https://ClinicalTrials.gov/show/NCT05521672",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(229, 87, 19)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1774322,
+                    41.3828939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trial to Evaluate if the Laparoscopic Administration of Cells Derived From the Fatty Tissue Can Improve the Inflammatory Stenosis in Patient With Crohn's Disease",
+                "aff": "Hospital Universitario Fundaci\u00f3n Jim\u00e9nez Diaz, Madrid, Spain",
+                "url": "https://ClinicalTrials.gov/show/NCT05521672",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(229, 87, 19)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7035825,
+                    40.4167047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trial to Evaluate if the Laparoscopic Administration of Cells Derived From the Fatty Tissue Can Improve the Inflammatory Stenosis in Patient With Crohn's Disease",
+                "aff": "Hospital Universitario y Polit\u00e9cnico La Fe, Valencia, Spain",
+                "url": "https://ClinicalTrials.gov/show/NCT05521672",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(229, 87, 19)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3763353,
+                    39.4697065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cells for SCI",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05152290",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(234, 63, 39)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Umbilical Cord-derived Mesenchymal Stem Cell Infusion in the Management of Adult Liver Cirrhosis",
+                "aff": "Vinmec Research Institute of Stem Cell and Gene Technology, Hanoi, Vietnam",
+                "url": "https://ClinicalTrials.gov/show/NCT05331872",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(238, 62, 22)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2020-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8544441,
+                    21.0294498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for Aging Frailty",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05018767",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(237, 67, 58)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cells for OA",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05147675",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 105, 41)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2021-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cells for Ovarian Failure",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05158933",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 93, 59)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell IV Infusion for Systemic Sclerosis",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05016804",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(228, 91, 47)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stem Cells and Secretomes for Infertility Therapy in Polycystic Ovary Syndrome (PCOS) Patients With Insulin Resistance.",
+                "aff": "PT Prodia StemCell Indonesia, Jakarta, Indonesia",
+                "url": "https://ClinicalTrials.gov/show/NCT05279768",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(225, 80, 21)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-04-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.827183,
+                    -6.1753942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cells for Pulmonary Diseases",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05147688",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(230, 82, 27)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2021-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cells for Skin Ulcer",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05158127",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(252, 97, 27)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2022-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Locally Delivered Allogeneic Mesenchymal Stromal Cells",
+                "aff": "University of Illinois, Department of Ophthalmology and Visual Sciences, Chicago, Illinois, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04626583",
+                "enrolled": 18,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 66, 41)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2021-03-05",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6244212,
+                    41.8755616
                 ]
             }
         },
@@ -3588,7 +5013,7 @@ var  groupallo_recent = {
                 "enrolled": 18,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(228, 104, 19)",
+                "fillColor": "rgb(220, 104, 23)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12986,
@@ -3613,7 +5038,7 @@ var  groupallo_recent = {
                 "enrolled": 18,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(228, 104, 19)",
+                "fillColor": "rgb(220, 104, 23)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12986,
@@ -3638,7 +5063,7 @@ var  groupallo_recent = {
                 "enrolled": 18,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 104, 51)",
+                "fillColor": "rgb(233, 82, 33)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12986,
@@ -3657,25 +5082,125 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Safety of Locally Delivered Allogeneic Mesenchymal Stromal Cells",
-                "aff": "University of Illinois, Department of Ophthalmology and Visual Sciences, Chicago, Illinois, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04626583",
+                "name": "Allogeneic Mitochondria (PN-101) Transplantation for Refractory Polymyositis or Dermatomyositis",
+                "aff": "Seoul National University Hospital, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04976140",
                 "enrolled": 18,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(241, 76, 24)",
+                "fillColor": "rgb(233, 97, 36)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12986,
                 "paneLabel": "pane12986",
-                "start": "2021-03-05",
+                "start": "2021-11-15",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.6244212,
-                    41.8755616
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic Mitochondria (PN-101) Transplantation for Refractory Polymyositis or Dermatomyositis",
+                "aff": "Soonchunhyang University Seoul Hospital, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04976140",
+                "enrolled": 18,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(233, 97, 36)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2021-11-15",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allogeneic Mitochondria (PN-101) Transplantation for Refractory Polymyositis or Dermatomyositis",
+                "aff": "Hanyang University Seoul Hospital, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04976140",
+                "enrolled": 18,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(233, 97, 36)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2021-11-15",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stem Cells for The Treatment of Acute Respiratory Distress Syndrome (ARDS)",
+                "aff": "Taipei Medical University - Shuang Ho Hospital, Ministry of Health and Welfare., New Taipei City, Taiwan",
+                "url": "https://ClinicalTrials.gov/show/NCT04347967",
+                "enrolled": 18,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(222, 59, 33)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2021-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.67991896754116,
+                    25.07213425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Regeneration of Posterior Cruciate Ligament Injury Using Hypoxic Conditioned Allogenic Adipose Mesenchymal Stem Cell and Condition Medium",
+                "aff": "Sholahuddin Rhatomy, Sleman, Yogyakarta, Indonesia",
+                "url": "https://ClinicalTrials.gov/show/NCT04889963",
+                "enrolled": 16,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 86, 32)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12986,
+                "paneLabel": "pane12986",
+                "start": "2021-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.38129042693124,
+                    -7.6894175
                 ]
             }
         },
@@ -3688,7 +5213,7 @@ var  groupallo_recent = {
                 "enrolled": 16,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(229, 79, 17)",
+                "fillColor": "rgb(222, 78, 33)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12986,
@@ -3713,7 +5238,7 @@ var  groupallo_recent = {
                 "enrolled": 16,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(224, 77, 42)",
+                "fillColor": "rgb(251, 84, 29)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12986,
@@ -3738,7 +5263,7 @@ var  groupallo_recent = {
                 "enrolled": 15,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(220, 72, 51)",
+                "fillColor": "rgb(215, 80, 38)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12987,
@@ -3763,7 +5288,7 @@ var  groupallo_recent = {
                 "enrolled": 15,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(220, 72, 51)",
+                "fillColor": "rgb(215, 80, 38)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12987,
@@ -3788,7 +5313,7 @@ var  groupallo_recent = {
                 "enrolled": 15,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 70, 11)",
+                "fillColor": "rgb(225, 93, 36)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12987,
@@ -3807,50 +5332,75 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for MS",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05003388",
+                "name": "Evaluate Umbilical Cord-derived Allogeneic Mesenchymal Stem Cells for the Treatment of Bradykinesia",
+                "aff": "IMAC Regeneration Center, Paducah, Kentucky, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04385056",
                 "enrolled": 15,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(230, 80, 20)",
+                "fillColor": "rgb(255, 87, 54)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12987,
                 "paneLabel": "pane12987",
-                "start": "2022-02-01",
+                "start": "2020-11-15",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -61.8448509,
-                    17.1184569
+                    -88.6000478,
+                    37.0833893
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for Autism",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05003960",
+                "name": "Evaluate Umbilical Cord-derived Allogeneic Mesenchymal Stem Cells for the Treatment of Bradykinesia",
+                "aff": "Ozzie Smith IMAC Regeneration Center, Chesterfield, Missouri, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04385056",
                 "enrolled": 15,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(219, 94, 11)",
+                "fillColor": "rgb(255, 87, 54)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12987,
                 "paneLabel": "pane12987",
-                "start": "2022-02-01",
+                "start": "2020-11-15",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -61.8448509,
-                    17.1184569
+                    -90.5643258,
+                    38.661953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Evaluate Umbilical Cord-derived Allogeneic Mesenchymal Stem Cells for the Treatment of Bradykinesia",
+                "aff": "David Price IMAC Regeneration Center, Brentwood, Tennessee, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04385056",
+                "enrolled": 15,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 87, 54)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12987,
+                "paneLabel": "pane12987",
+                "start": "2020-11-15",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.7825235,
+                    36.0325687
                 ]
             }
         },
@@ -3863,82 +5413,7 @@ var  groupallo_recent = {
                 "enrolled": 15,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(217, 104, 20)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12987,
-                "paneLabel": "pane12987",
-                "start": "2022-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for IBD",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05003947",
-                "enrolled": 15,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(236, 86, 55)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12987,
-                "paneLabel": "pane12987",
-                "start": "2022-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for CP",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05018819",
-                "enrolled": 15,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(217, 69, 43)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12987,
-                "paneLabel": "pane12987",
-                "start": "2022-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.8448509,
-                    17.1184569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for Stroke",
-                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
-                "url": "https://ClinicalTrials.gov/show/NCT05158101",
-                "enrolled": 15,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(241, 69, 27)",
+                "fillColor": "rgb(240, 78, 42)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12987,
@@ -3963,7 +5438,7 @@ var  groupallo_recent = {
                 "enrolled": 15,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 93, 10)",
+                "fillColor": "rgb(242, 102, 55)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12987,
@@ -3982,13 +5457,188 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for Autism",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05003960",
+                "enrolled": 15,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(251, 93, 56)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12987,
+                "paneLabel": "pane12987",
+                "start": "2022-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for Stroke",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05158101",
+                "enrolled": 15,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(238, 70, 17)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12987,
+                "paneLabel": "pane12987",
+                "start": "2022-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for MS",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05003388",
+                "enrolled": 15,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(244, 84, 34)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12987,
+                "paneLabel": "pane12987",
+                "start": "2022-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for CP",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05018819",
+                "enrolled": 15,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(235, 92, 33)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12987,
+                "paneLabel": "pane12987",
+                "start": "2022-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for IBD",
+                "aff": "Medical Surgical Associates Center, St. John's, Antigua and Barbuda",
+                "url": "https://ClinicalTrials.gov/show/NCT05003947",
+                "enrolled": 15,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(227, 108, 48)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12987,
+                "paneLabel": "pane12987",
+                "start": "2022-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8448509,
+                    17.1184569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Evaluate the Safety and Explore Efficacy of Umbilical Cord Mesenchymal Stem Cells in Acute Ischemic Stroke",
+                "aff": "China Medical University Hospital, Taichung, Non-US, Taiwan",
+                "url": "https://ClinicalTrials.gov/show/NCT04434768",
+                "enrolled": 14,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(215, 60, 24)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12987,
+                "paneLabel": "pane12987",
+                "start": "2020-05-05",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9820179,
+                    23.9739374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Evaluate the Safety and Explore Efficacy of Umbilical Cord Mesenchymal Stem Cells in Acute Ischemic Stroke",
+                "aff": "Tri-Service General Hospital, Taipei City, Taiwan",
+                "url": "https://ClinicalTrials.gov/show/NCT04434768",
+                "enrolled": 14,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(215, 60, 24)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12987,
+                "paneLabel": "pane12987",
+                "start": "2020-05-05",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5078001,
+                    25.0452747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Follow-up Safety and Efficacy Evaluation on Subjects Who Completed Phase I Clinical Trial",
                 "aff": "Seoul national University Hospital, Seoul, Jongno-gu, Korea, Republic of",
                 "url": "https://ClinicalTrials.gov/show/NCT04339504",
                 "enrolled": 12,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(247, 82, 35)",
+                "fillColor": "rgb(214, 96, 20)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12987,
@@ -4013,7 +5663,7 @@ var  groupallo_recent = {
                 "enrolled": 12,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(231, 80, 24)",
+                "fillColor": "rgb(224, 95, 36)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12987,
@@ -4032,50 +5682,25 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Safety of Umbilical Cord Mesenchymal Stem Cell Local Intramuscular Injection for Treatment of Uterine Scars",
-                "aff": "Maternal and Child Health Hospital of Foshan, Foshan, Guangdong, China",
-                "url": "https://ClinicalTrials.gov/show/NCT03181087",
-                "enrolled": 10,
+                "name": "The Outcomes of Intracavernosal Umbilical Cord Mesenchymal Stem Cells Implantation in Patients With Diabetic Erectile Dysfunction",
+                "aff": "Universitas Indonesia, Jakarta Pusat, DKI Jakarta, Indonesia",
+                "url": "https://ClinicalTrials.gov/show/NCT04972890",
+                "enrolled": 12,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(230, 91, 28)",
+                "fillColor": "rgb(221, 80, 14)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12987,
                 "paneLabel": "pane12987",
-                "start": "2021-11-11",
+                "start": "2020-09-27",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    113.1159558,
-                    23.0239788
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Umbilical Cord Mesenchymal Stem Cells in the Treatment of Moderate/Severe Chronic Graft-versus-host Disease",
-                "aff": "Li Yu, Shenzhen, Guangdong, China",
-                "url": "https://ClinicalTrials.gov/show/NCT05152160",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 92, 21)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12987,
-                "paneLabel": "pane12987",
-                "start": "2021-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    114.0545429,
-                    22.5445741
+                    106.84766448412446,
+                    -6.19404975
                 ]
             }
         },
@@ -4088,7 +5713,7 @@ var  groupallo_recent = {
                 "enrolled": 10,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(251, 92, 48)",
+                "fillColor": "rgb(255, 59, 20)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12987,
@@ -4107,13 +5732,63 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Umbilical Cord Mesenchymal Stem Cells in the Treatment of Moderate/Severe Chronic Graft-versus-host Disease",
+                "aff": "Li Yu, Shenzhen, Guangdong, China",
+                "url": "https://ClinicalTrials.gov/show/NCT05152160",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(238, 84, 44)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12987,
+                "paneLabel": "pane12987",
+                "start": "2021-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0545429,
+                    22.5445741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety of Umbilical Cord Mesenchymal Stem Cell Local Intramuscular Injection for Treatment of Uterine Scars",
+                "aff": "Maternal and Child Health Hospital of Foshan, Foshan, Guangdong, China",
+                "url": "https://ClinicalTrials.gov/show/NCT03181087",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(241, 65, 26)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12987,
+                "paneLabel": "pane12987",
+                "start": "2021-11-11",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.1159558,
+                    23.0239788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Mesenchymal Stromal Cells for COVID-19 and Viral Pneumonias",
                 "aff": "Medical University of South Carolina, Charleston, South Carolina, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT05286255",
                 "enrolled": 10,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(255, 88, 28)",
+                "fillColor": "rgb(254, 59, 56)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12987,
@@ -4132,75 +5807,25 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Cellular Therapy for Extreme Preterm Infants at Risk of Developing Bronchopulmonary Dysplasia",
-                "aff": "The Ottawa Hospital - General Campus, Ottawa, Ontario, Canada",
-                "url": "https://ClinicalTrials.gov/show/NCT04255147",
-                "enrolled": 9,
+                "name": "Clinical Trial to Evaluate Safety of Allogeneic Bone Marrow Derived Mesenchymal Stem Cell in Chronic Kidney Disease",
+                "aff": "Asan Medical Center, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT05042206",
+                "enrolled": 10,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(239, 64, 53)",
+                "fillColor": "rgb(255, 86, 47)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12987,
                 "paneLabel": "pane12987",
-                "start": "2022-06-01",
+                "start": "2021-09-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -75.64648499814479,
-                    45.40180795
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mesenchymal Stem Cells for The Treatment of Chronic Obstructive Pulmonary Disease",
-                "aff": "Taipei Medical University - Shuang Ho Hospital, Ministry of Health and Welfare., New Taipei City, Taiwan",
-                "url": "https://ClinicalTrials.gov/show/NCT04206007",
-                "enrolled": 9,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(238, 79, 18)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12987,
-                "paneLabel": "pane12987",
-                "start": "2020-06-11",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.67991896754116,
-                    25.07213425
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Therapeutic Study to Evaluate the Safety and Efficacy of DW-MSC in COVID-19 Patients",
-                "aff": "Site 550: University of Hassanudin/ Dr. Wahidin Sudirohusodo Hospital, Makassar, Indonesia",
-                "url": "https://ClinicalTrials.gov/show/NCT04535856",
-                "enrolled": 9,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(225, 73, 42)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 12987,
-                "paneLabel": "pane12987",
-                "start": "2020-10-14",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.4124282,
-                    -5.1342962
+                    127.10332700284027,
+                    37.50771705
                 ]
             }
         },
@@ -4213,7 +5838,7 @@ var  groupallo_recent = {
                 "enrolled": 9,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(242, 83, 12)",
+                "fillColor": "rgb(215, 105, 14)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12987,
@@ -4232,13 +5857,38 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Safety and Efficacy Study of Human Umbilical Cord-Derived Mesenchymal Stem Cells(BC-U001) for Rheumatoid Arthritis",
+                "aff": "Peking Union Medical College Hospital (Dongdan campus), Beijing, Beijing, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04971980",
+                "enrolled": 9,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 64, 44)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12987,
+                "paneLabel": "pane12987",
+                "start": "2021-04-12",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.3912757,
+                    39.906217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Human Umbilical Cord-derived Mesenchymal Stem Cells for Decompensated Cirrhosis (MSC-DLC-1)",
                 "aff": "Beijing 302 Hospital, Beijing, China",
                 "url": "https://ClinicalTrials.gov/show/NCT05227846",
                 "enrolled": 9,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(218, 72, 25)",
+                "fillColor": "rgb(226, 68, 32)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12987,
@@ -4257,13 +5907,63 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Therapeutic Study to Evaluate the Safety and Efficacy of DW-MSC in COVID-19 Patients",
+                "aff": "Site 550: University of Hassanudin/ Dr. Wahidin Sudirohusodo Hospital, Makassar, Indonesia",
+                "url": "https://ClinicalTrials.gov/show/NCT04535856",
+                "enrolled": 9,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(229, 63, 22)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12987,
+                "paneLabel": "pane12987",
+                "start": "2020-10-14",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.4124282,
+                    -5.1342962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cellular Therapy for Extreme Preterm Infants at Risk of Developing Bronchopulmonary Dysplasia",
+                "aff": "The Ottawa Hospital - General Campus, Ottawa, Ontario, Canada",
+                "url": "https://ClinicalTrials.gov/show/NCT04255147",
+                "enrolled": 9,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(255, 104, 25)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12987,
+                "paneLabel": "pane12987",
+                "start": "2022-06-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.64648499814479,
+                    45.40180795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Exploratory Efficacy Study of NEUROSTEM\u00ae in Subjects Who Control Group of NEUROSTEM\u00ae",
                 "aff": "Samsung Medical Center, Seoul, Korea, Republic of",
                 "url": "https://ClinicalTrials.gov/show/NCT04954534",
                 "enrolled": 9,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(237, 57, 17)",
+                "fillColor": "rgb(218, 60, 34)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12987,
@@ -4282,13 +5982,63 @@ var  groupallo_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Mesenchymal Stem Cells for The Treatment of Chronic Obstructive Pulmonary Disease",
+                "aff": "Taipei Medical University - Shuang Ho Hospital, Ministry of Health and Welfare., New Taipei City, Taiwan",
+                "url": "https://ClinicalTrials.gov/show/NCT04206007",
+                "enrolled": 9,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(226, 79, 35)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12987,
+                "paneLabel": "pane12987",
+                "start": "2020-06-11",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.67991896754116,
+                    25.07213425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Subconjunctival Injection of Allogeneic Mesenchymal Stem Cells in Severe Ocular Chemical Burn",
+                "aff": "Saint Louis Hospital, APHP, Paris, France",
+                "url": "https://ClinicalTrials.gov/show/NCT03967275",
+                "enrolled": 7,
+                "radius": 12,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(240, 70, 13)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 12988,
+                "paneLabel": "pane12988",
+                "start": "2020-08-09",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.38288423439227,
+                    48.8476119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Safety of Allogeneic Human Umbilical Cord Mesenchymal Stem Cells (UC-MSCs) to Treat Perianal Fistulas Patients With Crohn's Disease",
                 "aff": "University of Malaya Medical Centre, Kuala Lumpur, Malaysia",
                 "url": "https://ClinicalTrials.gov/show/NCT05039411",
                 "enrolled": 7,
                 "radius": 12,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(241, 83, 36)",
+                "fillColor": "rgb(250, 76, 45)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12988,
@@ -4313,7 +6063,7 @@ var  groupallo_recent = {
                 "enrolled": 6,
                 "radius": 12,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(251, 66, 44)",
+                "fillColor": "rgb(241, 88, 34)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12988,
@@ -4338,7 +6088,7 @@ var  groupallo_recent = {
                 "enrolled": 6,
                 "radius": 12,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(221, 83, 48)",
+                "fillColor": "rgb(234, 61, 30)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12988,
@@ -4363,7 +6113,7 @@ var  groupallo_recent = {
                 "enrolled": 5,
                 "radius": 12,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(229, 84, 59)",
+                "fillColor": "rgb(222, 67, 56)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 12988,

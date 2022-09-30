@@ -1,9 +1,34 @@
 var  groupauto_recent = {
-    "feature_count": 26,
+    "feature_count": 52,
     "type": [
         "FeatureCollection"
     ],
     "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Autologous Adipose Tissue-Derived Mesenchymal Stem Cells (AdMSCs) for Osteoarthritis",
+                "aff": "Stanley C Jones, Houston, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04448106",
+                "enrolled": 300,
+                "radius": 27,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(50, 25, 83)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11973,
+                "paneLabel": "pane11973",
+                "start": "2022-08-25",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3676974,
+                    29.7589382
+                ]
+            }
+        },
         {
             "type": "Feature",
             "properties": {
@@ -13,7 +38,7 @@ var  groupauto_recent = {
                 "enrolled": 252,
                 "radius": 25,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(37, 28, 108)",
+                "fillColor": "rgb(18, 7, 90)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11975,
@@ -38,7 +63,7 @@ var  groupauto_recent = {
                 "enrolled": 150,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(24, 25, 114)",
+                "fillColor": "rgb(32, 29, 79)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11978,
@@ -63,7 +88,7 @@ var  groupauto_recent = {
                 "enrolled": 150,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(24, 25, 114)",
+                "fillColor": "rgb(32, 29, 79)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11978,
@@ -88,7 +113,7 @@ var  groupauto_recent = {
                 "enrolled": 150,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(24, 25, 114)",
+                "fillColor": "rgb(32, 29, 79)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11978,
@@ -113,7 +138,7 @@ var  groupauto_recent = {
                 "enrolled": 150,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(24, 25, 114)",
+                "fillColor": "rgb(32, 29, 79)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11978,
@@ -138,7 +163,7 @@ var  groupauto_recent = {
                 "enrolled": 150,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(24, 25, 114)",
+                "fillColor": "rgb(32, 29, 79)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11978,
@@ -163,7 +188,7 @@ var  groupauto_recent = {
                 "enrolled": 150,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(24, 25, 114)",
+                "fillColor": "rgb(32, 29, 79)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11978,
@@ -182,13 +207,188 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "A Phase 2b/3a Study to Evaluate the Efficacy and Safety of JointStem in Patients Diagnosed as Knee Osteoarthritis",
+                "aff": "TriWest Research Associates, El Cajon, California, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04368806",
+                "enrolled": 140,
+                "radius": 21,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(18, 47, 116)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11979,
+                "paneLabel": "pane11979",
+                "start": "2021-05-26",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.962526,
+                    32.7947731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Phase 2b/3a Study to Evaluate the Efficacy and Safety of JointStem in Patients Diagnosed as Knee Osteoarthritis",
+                "aff": "BioSolutions Clinical Research Center, La Mesa, California, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04368806",
+                "enrolled": 140,
+                "radius": 21,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(18, 47, 116)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11979,
+                "paneLabel": "pane11979",
+                "start": "2021-05-26",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0230839,
+                    32.7678288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Phase 2b/3a Study to Evaluate the Efficacy and Safety of JointStem in Patients Diagnosed as Knee Osteoarthritis",
+                "aff": "Neurovations Research, Napa, California, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04368806",
+                "enrolled": 140,
+                "radius": 21,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(18, 47, 116)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11979,
+                "paneLabel": "pane11979",
+                "start": "2021-05-26",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2855293,
+                    38.2971367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Phase 2b/3a Study to Evaluate the Efficacy and Safety of JointStem in Patients Diagnosed as Knee Osteoarthritis",
+                "aff": "Source Healthcare, Santa Monica, California, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04368806",
+                "enrolled": 140,
+                "radius": 21,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(18, 47, 116)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11979,
+                "paneLabel": "pane11979",
+                "start": "2021-05-26",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4912273,
+                    34.0194704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Phase 2b/3a Study to Evaluate the Efficacy and Safety of JointStem in Patients Diagnosed as Knee Osteoarthritis",
+                "aff": "International Spine Pain, and Performance Center, Washington, District of Columbia, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04368806",
+                "enrolled": 140,
+                "radius": 21,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(18, 47, 116)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11979,
+                "paneLabel": "pane11979",
+                "start": "2021-05-26",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0365427,
+                    38.8950368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Phase 2b/3a Study to Evaluate the Efficacy and Safety of JointStem in Patients Diagnosed as Knee Osteoarthritis",
+                "aff": "Rothman Orthopaedic Institute, Egg Harbor Township, New Jersey, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04368806",
+                "enrolled": 140,
+                "radius": 21,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(18, 47, 116)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11979,
+                "paneLabel": "pane11979",
+                "start": "2021-05-26",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.6171489,
+                    39.3820672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Phase 2b/3a Study to Evaluate the Efficacy and Safety of JointStem in Patients Diagnosed as Knee Osteoarthritis",
+                "aff": "Hospital for Special Surgery, New York, New York, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04368806",
+                "enrolled": 140,
+                "radius": 21,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(18, 47, 116)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11979,
+                "paneLabel": "pane11979",
+                "start": "2021-05-26",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9526899,
+                    40.765164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Adipose Tissue-derived Mesenchymal Stem Cell (AD-MSC) Therapy for the Treatment of Sexual Function Impairment in Female",
                 "aff": "Vinmec Research Institute of Stem Cell and Gene Technology, Hanoi, Vietnam",
                 "url": "https://ClinicalTrials.gov/show/NCT05329662",
                 "enrolled": 130,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(24, 11, 113)",
+                "fillColor": "rgb(57, 22, 117)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -207,13 +407,113 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Follow-up Study for Participants of Jointstem Phase 3 Clinical Trial",
+                "aff": "Keimyung University Dongsan Medical Center, Daegu, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04427930",
+                "enrolled": 129,
+                "radius": 21,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(10, 17, 90)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11979,
+                "paneLabel": "pane11979",
+                "start": "2020-04-13",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.132971,
+                    55.8215537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Follow-up Study for Participants of Jointstem Phase 3 Clinical Trial",
+                "aff": "KyungHee University Gangdong Hospital, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04427930",
+                "enrolled": 129,
+                "radius": 21,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(10, 17, 90)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11979,
+                "paneLabel": "pane11979",
+                "start": "2020-04-13",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Follow-up Study for Participants of Jointstem Phase 3 Clinical Trial",
+                "aff": "Gangnam Severance Hospital, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04427930",
+                "enrolled": 129,
+                "radius": 21,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(10, 17, 90)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11979,
+                "paneLabel": "pane11979",
+                "start": "2020-04-13",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Follow-up Study for Participants of Jointstem Phase 3 Clinical Trial",
+                "aff": "The Catholic University of Korea, Seoul ST. Mary's Hospital, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04427930",
+                "enrolled": 129,
+                "radius": 21,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(10, 17, 90)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11979,
+                "paneLabel": "pane11979",
+                "start": "2020-04-13",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Randomized Double-Blind Placebo-Controlled Adaptive Design Trial Of Intrathecally Administered Autologous Mesenchymal Stem Cells In Multiple System Atrophy",
                 "aff": "Mayo Clinic, Rochester, Minnesota, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT05167721",
                 "enrolled": 76,
                 "radius": 18,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(45, 13, 79)",
+                "fillColor": "rgb(29, 22, 95)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11982,
@@ -238,7 +538,7 @@ var  groupauto_recent = {
                 "enrolled": 60,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(58, 25, 90)",
+                "fillColor": "rgb(21, 15, 110)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -257,13 +557,38 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "A Clinical Trial to Determine the Safety and Efficacy of Hope Biosciences Autologous Mesenchymal Stem Cell Therapy (HB-adMSCs) to Provide Protection Against COVID-19",
+                "aff": "Hope Biosciences Stem Cell Research Foundation, Sugar Land, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04349631",
+                "enrolled": 56,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(27, 23, 117)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11983,
+                "paneLabel": "pane11983",
+                "start": "2020-04-22",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.6349463,
+                    29.6196787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Clinical Trial to Evaluate Efficacy and Safety of of Autologous Mesenchymal Stem Cells (MSC) Injected Intracavernously",
                 "aff": "Asan medical center, Seoul, Korea, Republic of",
                 "url": "https://ClinicalTrials.gov/show/NCT04594850",
                 "enrolled": 54,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(37, 27, 83)",
+                "fillColor": "rgb(13, 24, 79)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -288,7 +613,7 @@ var  groupauto_recent = {
                 "enrolled": 54,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(37, 27, 83)",
+                "fillColor": "rgb(13, 24, 79)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -313,7 +638,7 @@ var  groupauto_recent = {
                 "enrolled": 54,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(37, 27, 83)",
+                "fillColor": "rgb(13, 24, 79)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -338,7 +663,7 @@ var  groupauto_recent = {
                 "enrolled": 52,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(52, 24, 83)",
+                "fillColor": "rgb(21, 7, 90)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -363,7 +688,7 @@ var  groupauto_recent = {
                 "enrolled": 52,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 32, 119)",
+                "fillColor": "rgb(60, 39, 120)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -388,7 +713,7 @@ var  groupauto_recent = {
                 "enrolled": 43,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(43, 5, 111)",
+                "fillColor": "rgb(15, 41, 109)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11984,
@@ -413,7 +738,7 @@ var  groupauto_recent = {
                 "enrolled": 43,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(43, 5, 111)",
+                "fillColor": "rgb(15, 41, 109)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11984,
@@ -438,7 +763,7 @@ var  groupauto_recent = {
                 "enrolled": 43,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(43, 5, 111)",
+                "fillColor": "rgb(15, 41, 109)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11984,
@@ -457,13 +782,38 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Autologous Mesenchymal Stromal Cells and Islet Co-transplantation in TP-IAT",
+                "aff": "Medical University of South Carolina, Charleston, South Carolina, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT05095532",
+                "enrolled": 42,
+                "radius": 16,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(29, 47, 115)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11984,
+                "paneLabel": "pane11984",
+                "start": "2021-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.94714193501349,
+                    32.7842965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Autologous Adipose Derived Mesenchymal Stem Cells for Spinal Cord Injury Patients",
                 "aff": "Mayo Clinic in Rochester, Rochester, Minnesota, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT04520373",
                 "enrolled": 40,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(37, 9, 87)",
+                "fillColor": "rgb(12, 39, 115)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11984,
@@ -482,13 +832,38 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Treatment of Osteoarthritis of the Hip Joint With Intra-articular Injection of Microfractured Autologous Adipose Tissue Containing Mesenchymal Stromal Cells.",
+                "aff": "Istituto Ortopedico Rizzoli, Bologna, Italy",
+                "url": "https://ClinicalTrials.gov/show/NCT05465096",
+                "enrolled": 30,
+                "radius": 15,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(41, 18, 105)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11985,
+                "paneLabel": "pane11985",
+                "start": "2022-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.34221004298334,
+                    44.4801908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Mesenchymal Stem Cells for Radiation-induced Xerostomia",
                 "aff": "Department of Otolaryngology, University Hospital of Copenhagen, Copenhagen, Denmark",
                 "url": "https://ClinicalTrials.gov/show/NCT03876197",
                 "enrolled": 30,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(32, 18, 120)",
+                "fillColor": "rgb(28, 32, 109)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11985,
@@ -507,13 +882,113 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Randomized, Double-Blind Clinical Trial for Parkinson's Disease (Early and Moderate)",
+                "aff": "Hope Biosciences Stem Cell Research Foundation, Sugar Land, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04928287",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(33, 28, 118)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11986,
+                "paneLabel": "pane11986",
+                "start": "2021-06-28",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.6349463,
+                    29.6196787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Clinical Trial to Determine the Safety and Efficacy of Hope Biosciences Autologous Mesenchymal Stem Cell Therapy for the Treatment of Traumatic Brain Injury and Hypoxic-Ischemic Encephalopathy",
+                "aff": "Memorial Hermann Hospital-Clinical Research Unit (MMH-CRU), Houston, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04063215",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(16, 38, 108)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11986,
+                "paneLabel": "pane11986",
+                "start": "2020-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3676974,
+                    29.7589382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Randomized Double-Blind Phase 2 Efficacy and Safety of Autologous HB-MSCs vs Placebo for Treatment of Multiple Sclerosis",
+                "aff": "Hope Biosciences Stem Cell Research Foundation, Sugar Land, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT05116540",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(45, 47, 76)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11986,
+                "paneLabel": "pane11986",
+                "start": "2021-10-24",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.6349463,
+                    29.6196787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Investigator Initiated Trial to Evaluate Cartilage Regeneration by Arthroscopy After JOINTSTEM Administration",
+                "aff": "Bethesda Hospital, Yangsan, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04821102",
+                "enrolled": 21,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(43, 8, 78)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11986,
+                "paneLabel": "pane11986",
+                "start": "2023-07-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.132971,
+                    55.8215537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Angiographic Delivery of AD-MSC for Ulcerative Colitis",
                 "aff": "Mayo Clinic in Rochester, Rochester, Minnesota, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT04312113",
                 "enrolled": 20,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(49, 25, 76)",
+                "fillColor": "rgb(50, 29, 82)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11986,
@@ -532,13 +1007,188 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "ATCell\u2122 Expanded Autologous, Adipose-Derived Mesenchymal Stem Cells Deployed Via Intravenous Infusion",
+                "aff": "BioSolutions Clinical Research Center, La Mesa, California, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04744051",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(27, 11, 103)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11986,
+                "paneLabel": "pane11986",
+                "start": "2021-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0230839,
+                    32.7678288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Study of Mesenchymal Autologous Stem Cells as Regenerative Treatment for Multiple Sclerosis",
+                "aff": "University hospital of North Norway, Troms\u00f8, Troms Og Finnmark, Norway",
+                "url": "https://ClinicalTrials.gov/show/NCT04749667",
+                "enrolled": 18,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(35, 7, 120)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11986,
+                "paneLabel": "pane11986",
+                "start": "2021-01-09",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.98254539300512,
+                    69.683892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Study of Mesenchymal Autologous Stem Cells as Regenerative Treatment for Multiple Sclerosis",
+                "aff": "St.Olav university hospital, Trondheim, Tr\u00f8ndelag, Norway",
+                "url": "https://ClinicalTrials.gov/show/NCT04749667",
+                "enrolled": 18,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(35, 7, 120)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11986,
+                "paneLabel": "pane11986",
+                "start": "2021-01-09",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0999715,
+                    60.5000209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Study of Mesenchymal Autologous Stem Cells as Regenerative Treatment for Multiple Sclerosis",
+                "aff": "Haukeland University Hospital, Bergen, Vestland, Norway",
+                "url": "https://ClinicalTrials.gov/show/NCT04749667",
+                "enrolled": 18,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(35, 7, 120)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11986,
+                "paneLabel": "pane11986",
+                "start": "2021-01-09",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.359049775587874,
+                    60.37358075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Study of Mesenchymal Autologous Stem Cells as Regenerative Treatment for Multiple Sclerosis",
+                "aff": "Akershus university hospital, L\u00f8renskog, Viken, Norway",
+                "url": "https://ClinicalTrials.gov/show/NCT04749667",
+                "enrolled": 18,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(35, 7, 120)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11986,
+                "paneLabel": "pane11986",
+                "start": "2021-01-09",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.904234519577855,
+                    59.9263265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Study of Local Administration of Autologous Mesenchymal Stromal Cells in Dysphonic Patients With Vocal Fold Scarring",
+                "aff": "Karolinska Trial Alliance, Stockholm, Sweden",
+                "url": "https://ClinicalTrials.gov/show/NCT04290182",
+                "enrolled": 15,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(16, 5, 99)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11987,
+                "paneLabel": "pane11987",
+                "start": "2020-03-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0710935,
+                    59.3251172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Autologous Adipose-Derived Adult Stem Cell Implantation for Corneal Diseases (ADASCs-CT-CD)",
+                "aff": "Jorge L. Alio, Alicante, Spain",
+                "url": "https://ClinicalTrials.gov/show/NCT05279157",
+                "enrolled": 15,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(9, 34, 85)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11987,
+                "paneLabel": "pane11987",
+                "start": "2022-04-19",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4881708,
+                    38.3436365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "MSC in Patients With Xerostomia Post XRT in Head and Neck Cancer",
                 "aff": "University of Wisconsin, Madison, Wisconsin, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT04489732",
                 "enrolled": 12,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(28, 23, 84)",
+                "fillColor": "rgb(26, 2, 116)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11987,
@@ -557,38 +1207,13 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "The Use of Expandeded Mesenchymal Stromal Cells (MSC) in Premature Ovarian Failure (POF) in Adult Humans",
-                "aff": "Cell Therapy Center, University of Jordan, Amman, Jordan",
-                "url": "https://ClinicalTrials.gov/show/NCT04815213",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(47, 5, 93)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 11987,
-                "paneLabel": "pane11987",
-                "start": "2020-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    35.87338209486857,
-                    32.013409249999995
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Treatment of Urinary Incontinence in Men After Prostatectomy With Autologous Adipose-derived Mesenchymal Stem Cells",
                 "aff": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus, Minsk, Belarus",
                 "url": "https://ClinicalTrials.gov/show/NCT04426643",
                 "enrolled": 10,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(51, 28, 94)",
+                "fillColor": "rgb(49, 28, 70)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11987,
@@ -607,13 +1232,38 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "The Use of Expandeded Mesenchymal Stromal Cells (MSC) in Premature Ovarian Failure (POF) in Adult Humans",
+                "aff": "Cell Therapy Center, University of Jordan, Amman, Jordan",
+                "url": "https://ClinicalTrials.gov/show/NCT04815213",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(45, 34, 87)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11987,
+                "paneLabel": "pane11987",
+                "start": "2020-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.87338209486857,
+                    32.013409249999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Fertility Restoration Using Autologous Mesenchymal Stem Cells",
                 "aff": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus, Minsk, Belarus",
                 "url": "https://ClinicalTrials.gov/show/NCT04432467",
                 "enrolled": 10,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(26, 7, 112)",
+                "fillColor": "rgb(10, 16, 117)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11987,
@@ -638,7 +1288,7 @@ var  groupauto_recent = {
                 "enrolled": 4,
                 "radius": 12,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(49, 34, 119)",
+                "fillColor": "rgb(60, 36, 112)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11988,

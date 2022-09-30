@@ -1,8 +1,8 @@
 var tableStatus = 
 [
-{'Status': 'Completed', 'count': 432, 'enrolled': 17442} , 
-{'Status': 'Recruiting', 'count': 280, 'enrolled': 19650} , 
-{'Status': 'Not yet recruiting', 'count': 91, 'enrolled': 4291} , 
-{'Status': 'Active, not recruiting', 'count': 66, 'enrolled': 2750} , 
-{'Status': 'Enrolling by invitation', 'count': 20, 'enrolled': 917} , 
+{'Status': 'Completed', 'count': 434, 'enrolled': 17769} , 
+{'Status': 'Recruiting', 'count': 282, 'enrolled': 19677} , 
+{'Status': 'Not yet recruiting', 'count': 94, 'enrolled': 4663} , 
+{'Status': 'Active, not recruiting', 'count': 69, 'enrolled': 2932} , 
+{'Status': 'Enrolling by invitation', 'count': 19, 'enrolled': 657} , 
 ]

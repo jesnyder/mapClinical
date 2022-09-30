@@ -40,6 +40,8 @@ def assign_groups():
         print(round(trials.index(trial) / len(trials) * 100, 3))
 
         int = trial['Interventions']
+        title = trial['Title']
+        int = (str(int) + ' ' + str(title)).lower()
 
         allo = 0
         allo_terms = list(retrieve_df('allo_terms')['term'])

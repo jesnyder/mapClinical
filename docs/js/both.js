@@ -1,9 +1,34 @@
 var  groupboth = {
-    "feature_count": 14,
+    "feature_count": 17,
     "type": [
         "FeatureCollection"
     ],
     "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Induction Therapy With Autologous Mesenchymal Stem Cells for Kidney Allografts",
+                "aff": "Stem cell therapy center,Fuzhou General Hospital, Fuzhou, Fujian, China",
+                "url": "https://ClinicalTrials.gov/show/NCT00658073",
+                "enrolled": 165,
+                "radius": 22,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(0, 210, 216)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 13978,
+                "paneLabel": "pane13978",
+                "start": "2008-03-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.2918215,
+                    26.0774954
+                ]
+            }
+        },
         {
             "type": "Feature",
             "properties": {
@@ -13,7 +38,7 @@ var  groupboth = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 211, 253)",
+                "fillColor": "rgb(0, 193, 242)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -38,7 +63,7 @@ var  groupboth = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 211, 253)",
+                "fillColor": "rgb(0, 193, 242)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -63,7 +88,7 @@ var  groupboth = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 211, 253)",
+                "fillColor": "rgb(0, 193, 242)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -88,7 +113,7 @@ var  groupboth = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 211, 253)",
+                "fillColor": "rgb(0, 193, 242)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -113,7 +138,7 @@ var  groupboth = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 211, 253)",
+                "fillColor": "rgb(0, 193, 242)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -138,7 +163,7 @@ var  groupboth = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 211, 253)",
+                "fillColor": "rgb(0, 193, 242)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -163,7 +188,7 @@ var  groupboth = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 211, 253)",
+                "fillColor": "rgb(0, 193, 242)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -188,7 +213,7 @@ var  groupboth = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 211, 253)",
+                "fillColor": "rgb(0, 193, 242)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -213,7 +238,7 @@ var  groupboth = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 211, 253)",
+                "fillColor": "rgb(0, 193, 242)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -232,75 +257,100 @@ var  groupboth = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Phase 2, Randomized, Double Blind, Placebo Controlled Multicenter Study of Autologous MSC-NTF Cells in Patients With ALS",
-                "aff": "Massachusetts General Hospital, Boston, Massachusetts, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT02017912",
-                "enrolled": 48,
-                "radius": 16,
+                "name": "Randomized Double-Blind Phase 2 Study of Allogeneic HB-adMSCs for the Treatment of Chronic Post-COVID-19 Syndrome",
+                "aff": "Hope Biosciences Stem Cell Research Foundation, Sugar Land, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT05126563",
+                "enrolled": 80,
+                "radius": 18,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(18, 164, 234)",
+                "fillColor": "rgb(16, 193, 229)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
-                "zindex": 13984,
-                "paneLabel": "pane13984",
-                "start": "2014-05-01",
+                "zindex": 13982,
+                "paneLabel": "pane13982",
+                "start": "2022-01-06",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.06875296664998,
-                    42.36286045
+                    -95.6349463,
+                    29.6196787
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Phase 2, Randomized, Double Blind, Placebo Controlled Multicenter Study of Autologous MSC-NTF Cells in Patients With ALS",
-                "aff": "UMass Medical School, Worcester, Massachusetts, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT02017912",
-                "enrolled": 48,
-                "radius": 16,
+                "name": "Clinical Trial for Parkinson's Disease Using Allogeneic HB-adMSCs (Early and Moderate PD).",
+                "aff": "Hope Biosciences Stem Cell Research Foundation, Sugar Land, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04995081",
+                "enrolled": 60,
+                "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(18, 164, 234)",
+                "fillColor": "rgb(0, 189, 219)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
-                "zindex": 13984,
-                "paneLabel": "pane13984",
-                "start": "2014-05-01",
+                "zindex": 13983,
+                "paneLabel": "pane13983",
+                "start": "2021-07-16",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.76239433186595,
-                    42.27687075
+                    -95.6349463,
+                    29.6196787
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Phase 2, Randomized, Double Blind, Placebo Controlled Multicenter Study of Autologous MSC-NTF Cells in Patients With ALS",
-                "aff": "Mayo Clinic, Rochester, Minnesota, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT02017912",
-                "enrolled": 48,
-                "radius": 16,
+                "name": "A Randomized, Double-Blind, Placebo-Controlled Clinical Trial to Determine the Safety and Efficacy of Hope Biosciences Allogeneic Mesenchymal Stem Cell Therapy (HB-adMSCs) to Provide Protection Against COVID-19",
+                "aff": "Hope Biosciences Stem Cell Research Foundation, Sugar Land, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04348435",
+                "enrolled": 55,
+                "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(18, 164, 234)",
+                "fillColor": "rgb(12, 210, 228)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
-                "zindex": 13984,
-                "paneLabel": "pane13984",
-                "start": "2014-05-01",
+                "zindex": 13983,
+                "paneLabel": "pane13983",
+                "start": "2020-05-14",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -92.466607460917,
-                    44.0225389
+                    -95.6349463,
+                    29.6196787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Autologous Bone Marrow Concentrate in Knee Osteochondral Allograft Transplantation",
+                "aff": "Rush University Medical Center, Chicago, Illinois, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04739930",
+                "enrolled": 40,
+                "radius": 16,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(0, 163, 225)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 13984,
+                "paneLabel": "pane13984",
+                "start": "2018-03-02",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.66910060446992,
+                    41.87352605
                 ]
             }
         },
@@ -313,7 +363,7 @@ var  groupboth = {
                 "enrolled": 37,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(24, 202, 233)",
+                "fillColor": "rgb(0, 206, 246)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13984,
@@ -338,7 +388,7 @@ var  groupboth = {
                 "enrolled": 15,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 210, 213)",
+                "fillColor": "rgb(16, 190, 254)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13987,
@@ -351,6 +401,31 @@ var  groupboth = {
                 "coordinates": [
                     106.84287153600738,
                     -6.18233995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Study of REcycled CartiLage Auto/Allo IMplantation to Treat and Repair Focal Hip Cartilage Defects",
+                "aff": "Mayo Clinic Rochester, Rochester, Minnesota, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT05553132",
+                "enrolled": 15,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(0, 207, 241)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 13987,
+                "paneLabel": "pane13987",
+                "start": "2022-09-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.466607460917,
+                    44.0225389
                 ]
             }
         }

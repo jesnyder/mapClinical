@@ -1,5 +1,5 @@
 {
-      "item_count": 1529,
+      "item_count": 1576,
       "response": [
             {
                   "place_id": 215877118,
@@ -38,6 +38,25 @@
                   "type": "city",
                   "importance": 0.7199038383120139,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
+            },
+            {
+                  "place_id": 297925148,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 44882,
+                  "boundingbox": [
+                        "45.2042549",
+                        "46.3548531",
+                        "9.8362928",
+                        "10.842675"
+                  ],
+                  "lat": "45.77958045",
+                  "lon": "10.4258729694612",
+                  "display_name": "Brescia, Lombardia, Italia",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.7454640205264362,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
                   "place_id": 213069,
@@ -116,6 +135,25 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
+                  "place_id": 297925902,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 44830,
+                  "boundingbox": [
+                        "45.3494402",
+                        "45.5418375",
+                        "10.8768512",
+                        "11.1239"
+                  ],
+                  "lat": "45.4384958",
+                  "lon": "10.9924122",
+                  "display_name": "Verona, Veneto, Italia",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.7561573888828526,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
                   "place_id": 210324958,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "way",
@@ -189,6 +227,25 @@
                   "type": "administrative",
                   "importance": 0.8190605523573009,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
+                  "place_id": 149789025,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "way",
+                  "osm_id": 184453956,
+                  "boundingbox": [
+                        "50.7542703",
+                        "50.7568667",
+                        "3.6003368",
+                        "3.6051655"
+                  ],
+                  "lat": "50.75559305",
+                  "lon": "3.6036543923558635",
+                  "display_name": "AZ Glorieux, Broeke, Prinskouter, Ronse, Oudenaarde, Oost-Vlaanderen, Vlaanderen, 9600, Belgi\u00eb / Belgique / Belgien",
+                  "class": "amenity",
+                  "type": "hospital",
+                  "importance": 0.31010000000000004,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png"
             },
             {
                   "place_id": 205415854,
@@ -1433,6 +1490,44 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png"
             },
             {
+                  "place_id": 298269965,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 1387273,
+                  "boundingbox": [
+                        "32.7540239",
+                        "32.8121535",
+                        "35.4952814",
+                        "35.5629787"
+                  ],
+                  "lat": "32.7938522",
+                  "lon": "35.5328566",
+                  "display_name": "\u05d8\u05d1\u05e8\u05d9\u05d4, \u05e0\u05e4\u05ea \u05db\u05e0\u05e8\u05ea, \u05de\u05d7\u05d5\u05d6 \u05d4\u05e6\u05e4\u05d5\u05df, 1424224, \u05d9\u05e9\u05e8\u05d0\u05dc",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.5806542047224303,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
+                  "place_id": 234071891,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "way",
+                  "osm_id": 637195949,
+                  "boundingbox": [
+                        "31.6446033",
+                        "31.7055897",
+                        "34.5478246",
+                        "34.6065592"
+                  ],
+                  "lat": "31.675145800000003",
+                  "lon": "34.571727379452895",
+                  "display_name": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df, \u05e0\u05e4\u05ea \u05d0\u05e9\u05e7\u05dc\u05d5\u05df, \u05de\u05d7\u05d5\u05d6 \u05d4\u05d3\u05e8\u05d5\u05dd, \u05d9\u05e9\u05e8\u05d0\u05dc",
+                  "class": "place",
+                  "type": "city",
+                  "importance": 0.5780441729402684,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
+            },
+            {
                   "place_id": 201685727,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "way",
@@ -1623,6 +1718,24 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png"
             },
             {
+                  "place_id": 84166550,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "node",
+                  "osm_id": 8343046525,
+                  "boundingbox": [
+                        "55.8215037",
+                        "55.8216037",
+                        "49.132921",
+                        "49.133021"
+                  ],
+                  "lat": "55.8215537",
+                  "lon": "49.132971",
+                  "display_name": "\u041a\u043e\u0440\u0435\u044f, \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0424\u0430\u0442\u044b\u0445\u0430 \u0410\u043c\u0438\u0440\u0445\u0430\u043d\u0430, \u041d\u043e\u0432\u043e-\u0421\u0430\u0432\u0438\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041a\u0430\u0437\u0430\u043d\u044c, \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 420126, \u0420\u043e\u0441\u0441\u0438\u044f",
+                  "class": "shop",
+                  "type": "car_parts",
+                  "importance": 0.0001
+            },
+            {
                   "place_id": 299151102,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "relation",
@@ -1659,6 +1772,25 @@
                   "type": "hospital",
                   "importance": 0.32010000000000005,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png"
+            },
+            {
+                  "place_id": 36646162,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "node",
+                  "osm_id": 3009714390,
+                  "boundingbox": [
+                        "51.9588158",
+                        "51.9988158",
+                        "21.3915258",
+                        "21.4315258"
+                  ],
+                  "lat": "51.9788158",
+                  "lon": "21.4115258",
+                  "display_name": "Kolonia D, Osieck, gmina Osieck, powiat otwocki, wojew\u00f3dztwo mazowieckie, 08-445, Polska",
+                  "class": "place",
+                  "type": "hamlet",
+                  "importance": 0.35,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_village.p.20.png"
             },
             {
                   "place_id": 299002990,
@@ -1773,6 +1905,25 @@
                   "type": "administrative",
                   "importance": 0.9252509484152129,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
+                  "place_id": 129037755,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "way",
+                  "osm_id": 104108240,
+                  "boundingbox": [
+                        "32.8051213",
+                        "32.8072246",
+                        "34.9913948",
+                        "34.9936599"
+                  ],
+                  "lat": "32.806062",
+                  "lon": "34.992423627969686",
+                  "display_name": "\u05de\u05e8\u05db\u05d6 \u05e8\u05e4\u05d5\u05d0\u05d9 \u05d1\u05e0\u05d9 \u05e6\u05d9\u05d5\u05df, \u05d4\u05e1, \u05e8\u05de\u05ea \u05d4\u05d3\u05e8, \u05d7\u05d9\u05e4\u05d4, \u05e0\u05e4\u05ea \u05d7\u05d9\u05e4\u05d4, \u05de\u05d7\u05d5\u05d6 \u05d7\u05d9\u05e4\u05d4, 3463626, \u05d9\u05e9\u05e8\u05d0\u05dc",
+                  "class": "amenity",
+                  "type": "hospital",
+                  "importance": 0.3427181510659863,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png"
             },
             {
                   "place_id": 299509894,
@@ -1945,6 +2096,24 @@
                   "importance": 0.0001
             },
             {
+                  "place_id": 343400457,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "way",
+                  "osm_id": 863358288,
+                  "boundingbox": [
+                        "58.4115322",
+                        "58.4119429",
+                        "15.6322789",
+                        "15.6337529"
+                  ],
+                  "lat": "58.411739850000004",
+                  "lon": "15.633026968900477",
+                  "display_name": "LINK Business Center, 1, Brandmannagatan, Tannefors, Link\u00f6pings Sankt Lars, Link\u00f6ping, Link\u00f6pings kommun, \u00d6sterg\u00f6tlands l\u00e4n, 582 52, Sverige",
+                  "class": "building",
+                  "type": "commercial",
+                  "importance": 0.2001
+            },
+            {
                   "place_id": 298095320,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "relation",
@@ -2112,6 +2281,25 @@
                   "class": "highway",
                   "type": "platform",
                   "importance": 0.6101
+            },
+            {
+                  "place_id": 298416518,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 2268384,
+                  "boundingbox": [
+                        "50.2807831",
+                        "50.3640931",
+                        "4.8537458",
+                        "5.0247884"
+                  ],
+                  "lat": "50.3260425",
+                  "lon": "4.877815",
+                  "display_name": "Yvoir, Dinant, Namur, Wallonie, 5530, Belgi\u00eb / Belgique / Belgien",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.5424504902786093,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
                   "place_id": 118744703,
@@ -2409,6 +2597,25 @@
                   "importance": 0.6201
             },
             {
+                  "place_id": 297954385,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 62422,
+                  "boundingbox": [
+                        "52.3382448",
+                        "52.6755087",
+                        "13.088345",
+                        "13.7611609"
+                  ],
+                  "lat": "52.5170365",
+                  "lon": "13.3888599",
+                  "display_name": "Berlin, Deutschland",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.8975390282491362,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
                   "place_id": 298322318,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "relation",
@@ -2462,6 +2669,25 @@
                   "class": "boundary",
                   "type": "administrative",
                   "importance": 0.9587076439908548,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
+                  "place_id": 298507532,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 2888417,
+                  "boundingbox": [
+                        "45.9396811",
+                        "46.1191527",
+                        "8.8998475",
+                        "9.0895508"
+                  ],
+                  "lat": "46.0050102",
+                  "lon": "8.9520281",
+                  "display_name": "Lugano, Circolo di Lugano ovest, Distretto di Lugano, Ticino, Schweiz/Suisse/Svizzera/Svizra",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.6962564562588157,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
@@ -3013,6 +3239,24 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
+                  "place_id": 121043522,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "way",
+                  "osm_id": 62363304,
+                  "boundingbox": [
+                        "53.6141784",
+                        "53.6144056",
+                        "-2.2080795",
+                        "-2.2069408"
+                  ],
+                  "lat": "53.6143224",
+                  "lon": "-2.20776",
+                  "display_name": "Belgium Street, Bamford, Norden, Rochdale, Greater Manchester, England, OL11 5PR, United Kingdom",
+                  "class": "highway",
+                  "type": "residential",
+                  "importance": 0.19999999999999998
+            },
+            {
                   "place_id": 164896979,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "way",
@@ -3123,6 +3367,25 @@
                   "type": "administrative",
                   "importance": 0.8975390282491362,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
+                  "place_id": 99972281,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "way",
+                  "osm_id": 4750929,
+                  "boundingbox": [
+                        "52.539251",
+                        "52.5450506",
+                        "13.3374599",
+                        "13.3482661"
+                  ],
+                  "lat": "52.5421739",
+                  "lon": "13.34312949318555",
+                  "display_name": "Charit\u00e9 Campus Virchow Klinikum, Seestra\u00dfe, Wedding, Mitte, Berlin, 13353, Deutschland",
+                  "class": "amenity",
+                  "type": "hospital",
+                  "importance": 0.6340320544678042,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png"
             },
             {
                   "place_id": 12603988,
@@ -3740,6 +4003,25 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png"
             },
             {
+                  "place_id": 298698265,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 4283101,
+                  "boundingbox": [
+                        "42.6030861",
+                        "42.786786",
+                        "23.1950853",
+                        "23.432512"
+                  ],
+                  "lat": "42.6977028",
+                  "lon": "23.3217359",
+                  "display_name": "\u0421\u043e\u0444\u0438\u044f, \u0421\u0442\u043e\u043b\u0438\u0447\u043d\u0430, \u0421\u043e\u0444\u0438\u044f-\u0433\u0440\u0430\u0434, \u0411\u044a\u043b\u0433a\u0440\u0438\u044f",
+                  "class": "place",
+                  "type": "city",
+                  "importance": 0.589158597141107,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
+            },
+            {
                   "place_id": 226466765,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "way",
@@ -3835,6 +4117,25 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
+                  "place_id": 298479198,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 2728438,
+                  "boundingbox": [
+                        "44.6880459",
+                        "44.9426876",
+                        "20.2213764",
+                        "20.6232109"
+                  ],
+                  "lat": "44.8178131",
+                  "lon": "20.4568974",
+                  "display_name": "\u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0413\u0440\u0430\u0434 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, 11000, \u0421\u0440\u0431\u0438\u0458\u0430",
+                  "class": "place",
+                  "type": "city",
+                  "importance": 0.7159600763772446,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
+            },
+            {
                   "place_id": 216212696,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "way",
@@ -3892,6 +4193,25 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png"
             },
             {
+                  "place_id": 298930768,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 2870900,
+                  "boundingbox": [
+                        "43.8272346",
+                        "44.1877985",
+                        "20.5504172",
+                        "21.1148448"
+                  ],
+                  "lat": "44.0130251",
+                  "lon": "20.91925",
+                  "display_name": "\u0413\u0440\u0430\u0434 \u041a\u0440\u0430\u0433\u0443\u0458\u0435\u0432\u0430\u0446, \u0428\u0443\u043c\u0430\u0434\u0438\u0458\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, \u0421\u0440\u0431\u0438\u0458\u0430",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.5541945644906128,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
                   "place_id": 339017322,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "relation",
@@ -3909,6 +4229,82 @@
                   "type": "administrative",
                   "importance": 0.6320547624842499,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
+                  "place_id": 298479198,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 2728438,
+                  "boundingbox": [
+                        "44.6880459",
+                        "44.9426876",
+                        "20.2213764",
+                        "20.6232109"
+                  ],
+                  "lat": "44.8178131",
+                  "lon": "20.4568974",
+                  "display_name": "\u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0413\u0440\u0430\u0434 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, 11000, \u0421\u0440\u0431\u0438\u0458\u0430",
+                  "class": "place",
+                  "type": "city",
+                  "importance": 0.7159600763772446,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
+            },
+            {
+                  "place_id": 298479198,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 2728438,
+                  "boundingbox": [
+                        "44.6880459",
+                        "44.9426876",
+                        "20.2213764",
+                        "20.6232109"
+                  ],
+                  "lat": "44.8178131",
+                  "lon": "20.4568974",
+                  "display_name": "\u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0413\u0440\u0430\u0434 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, 11000, \u0421\u0440\u0431\u0438\u0458\u0430",
+                  "class": "place",
+                  "type": "city",
+                  "importance": 0.7159600763772446,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
+            },
+            {
+                  "place_id": 298479198,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 2728438,
+                  "boundingbox": [
+                        "44.6880459",
+                        "44.9426876",
+                        "20.2213764",
+                        "20.6232109"
+                  ],
+                  "lat": "44.8178131",
+                  "lon": "20.4568974",
+                  "display_name": "\u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0413\u0440\u0430\u0434 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, 11000, \u0421\u0440\u0431\u0438\u0458\u0430",
+                  "class": "place",
+                  "type": "city",
+                  "importance": 0.7159600763772446,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
+            },
+            {
+                  "place_id": 298479198,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 2728438,
+                  "boundingbox": [
+                        "44.6880459",
+                        "44.9426876",
+                        "20.2213764",
+                        "20.6232109"
+                  ],
+                  "lat": "44.8178131",
+                  "lon": "20.4568974",
+                  "display_name": "\u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0413\u0440\u0430\u0434 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, 11000, \u0421\u0440\u0431\u0438\u0458\u0430",
+                  "class": "place",
+                  "type": "city",
+                  "importance": 0.7159600763772446,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
             },
             {
                   "place_id": 298343042,
@@ -4605,6 +5001,25 @@
                   "class": "boundary",
                   "type": "administrative",
                   "importance": 0.9368132567757605,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
+                  "place_id": 298280981,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 1444234,
+                  "boundingbox": [
+                        "47.4250466",
+                        "47.6369818",
+                        "21.4365308",
+                        "21.8833085"
+                  ],
+                  "lat": "47.531399",
+                  "lon": "21.6259782",
+                  "display_name": "Debrecen, Debreceni j\u00e1r\u00e1s, Hajd\u00fa-Bihar megye, \u00c9szak-Alf\u00f6ld, Alf\u00f6ld \u00e9s \u00c9szak, Magyarorsz\u00e1g",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.7144749973210908,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
@@ -5485,7 +5900,7 @@
                   ],
                   "lat": "49.4848949",
                   "lon": "8.4379807",
-                  "display_name": "Gemeinschaftspraxis, 23-25, Gr\u00e4fenaustra\u00dfe, Nord-Hemshof, Ludwigshafen-N\u00f6rdliche Innenstadt, Ludwigshafen am Rhein, Rheinland-Pfalz, 67063, Deutschland",
+                  "display_name": "Gemeinschaftspraxis, Gr\u00e4fenaustra\u00dfe, Nord-Hemshof, Ludwigshafen-N\u00f6rdliche Innenstadt, Ludwigshafen am Rhein, Rheinland-Pfalz, 67063, Deutschland",
                   "class": "amenity",
                   "type": "clinic",
                   "importance": 0.2101
@@ -5503,7 +5918,7 @@
                   ],
                   "lat": "49.484834",
                   "lon": "8.4452781",
-                  "display_name": "Die Praxis am Ludwigsplatz, Ludwigsplatz, Mitte, Ludwigshafen-S\u00fcdliche-Innenstadt, Ludwigshafen am Rhein, Rheinland-Pfalz, 67059, Deutschland",
+                  "display_name": "Die Praxis am Ludwigsplatz, 10, Ludwigsplatz, Mitte, Ludwigshafen-S\u00fcdliche-Innenstadt, Ludwigshafen am Rhein, Rheinland-Pfalz, 67059, Deutschland",
                   "class": "amenity",
                   "type": "doctors",
                   "importance": 0.5101,
@@ -5885,6 +6300,25 @@
                   "class": "office",
                   "type": "government",
                   "importance": 0.0001
+            },
+            {
+                  "place_id": 298268089,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 1380226,
+                  "boundingbox": [
+                        "32.5760736",
+                        "32.6418862",
+                        "35.2474199",
+                        "35.3742374"
+                  ],
+                  "lat": "32.6075587",
+                  "lon": "35.2890861",
+                  "display_name": "\u05e2\u05e4\u05d5\u05dc\u05d4, \u05e0\u05e4\u05ea \u05d9\u05d6\u05e8\u05e2\u05d0\u05dc, \u05de\u05d7\u05d5\u05d6 \u05d4\u05e6\u05e4\u05d5\u05df, 1839010, \u05d9\u05e9\u05e8\u05d0\u05dc",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.5535470946106127,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
                   "place_id": 298632775,
@@ -6670,6 +7104,25 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
+                  "place_id": 122771111,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "way",
+                  "osm_id": 73816932,
+                  "boundingbox": [
+                        "33.008673",
+                        "33.0114628",
+                        "35.1146418",
+                        "35.1195119"
+                  ],
+                  "lat": "33.01002235",
+                  "lon": "35.116906251460605",
+                  "display_name": "\u05d4\u05de\u05e8\u05db\u05d6 \u05d4\u05e8\u05e4\u05d5\u05d0\u05d9 \u05dc\u05d2\u05dc\u05d9\u05dc, \u05e9\u05d3\u05e8\u05d5\u05ea \u05d4\u05e0\u05e9\u05d9\u05d0 \u05d1\u05df \u05e6\u05d1\u05d9, \u05e0\u05d5\u05d5\u05d4 \u05d9\u05e6\u05d7\u05e7 \u05e8\u05d1\u05d9\u05df, \u05e0\u05d4\u05e8\u05d9\u05d4, \u05e0\u05e4\u05ea \u05e2\u05db\u05d5, \u05de\u05d7\u05d5\u05d6 \u05d4\u05e6\u05e4\u05d5\u05df, 2220903, \u05d9\u05e9\u05e8\u05d0\u05dc",
+                  "class": "amenity",
+                  "type": "hospital",
+                  "importance": 0.33489332460211035,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png"
+            },
+            {
                   "place_id": 111889575,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "way",
@@ -7101,6 +7554,25 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
             },
             {
+                  "place_id": 297906522,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 37244,
+                  "boundingbox": [
+                        "47.3496899",
+                        "47.6131468",
+                        "18.9251057",
+                        "19.3349258"
+                  ],
+                  "lat": "47.4979937",
+                  "lon": "19.0403594",
+                  "display_name": "Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, Magyarorsz\u00e1g",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.8508438350115745,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
                   "place_id": 344211958,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "relation",
@@ -7230,6 +7702,25 @@
                   "class": "shop",
                   "type": "car_parts",
                   "importance": 0.0001
+            },
+            {
+                  "place_id": 298216443,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 332321,
+                  "boundingbox": [
+                        "50.1300628",
+                        "50.2976909",
+                        "18.8915418",
+                        "19.1244247"
+                  ],
+                  "lat": "50.2598987",
+                  "lon": "19.0215852",
+                  "display_name": "Katowice, G\u00f3rno\u015bl\u0105sko-Zag\u0142\u0119biowska Metropolia, wojew\u00f3dztwo \u015bl\u0105skie, Polska",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.7196846388998592,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
                   "place_id": 298229386,
@@ -7833,6 +8324,25 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png"
             },
             {
+                  "place_id": 227459656,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "way",
+                  "osm_id": 584728447,
+                  "boundingbox": [
+                        "32.4127925",
+                        "32.4616805",
+                        "34.8780212",
+                        "34.9586274"
+                  ],
+                  "lat": "32.43732495",
+                  "lon": "34.91785560662627",
+                  "display_name": "\u05d7\u05d3\u05e8\u05d4, \u05e0\u05e4\u05ea \u05d7\u05d3\u05e8\u05d4, \u05de\u05d7\u05d5\u05d6 \u05d7\u05d9\u05e4\u05d4, \u05d9\u05e9\u05e8\u05d0\u05dc",
+                  "class": "place",
+                  "type": "city",
+                  "importance": 0.5546148478086069,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
+            },
+            {
                   "place_id": 240819755,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "way",
@@ -7867,6 +8377,25 @@
                   "class": "boundary",
                   "type": "administrative",
                   "importance": 1.0430430680752671,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
+                  "place_id": 298577743,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 3411083,
+                  "boundingbox": [
+                        "50.4224925",
+                        "50.440715",
+                        "4.4190843",
+                        "4.4696863"
+                  ],
+                  "lat": "50.431853",
+                  "lon": "4.4489421",
+                  "display_name": "Lodelinsart, Charleroi, Hainaut, Wallonie, 6042, Belgi\u00eb / Belgique / Belgien",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.45999999999999996,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
@@ -8135,6 +8664,25 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png"
             },
             {
+                  "place_id": 298096281,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 340746,
+                  "boundingbox": [
+                        "36.6356619",
+                        "36.8940412",
+                        "-4.5878887",
+                        "-4.2604897"
+                  ],
+                  "lat": "36.7213028",
+                  "lon": "-4.4216366",
+                  "display_name": "M\u00e1laga, M\u00e1laga-Costa del Sol, M\u00e1laga, Andaluc\u00eda, Espa\u00f1a",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.6199546877013291,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
                   "place_id": 299330629,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "relation",
@@ -8399,6 +8947,24 @@
                   "type": "administrative",
                   "importance": 0.7688714022950969,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
+                  "place_id": 207805749,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "way",
+                  "osm_id": 457966399,
+                  "boundingbox": [
+                        "38.1329363",
+                        "38.132991",
+                        "-88.7476692",
+                        "-88.74142"
+                  ],
+                  "lat": "38.1329363",
+                  "lon": "-88.744751",
+                  "display_name": "East Germany Road, Jefferson County, Illinois, United States",
+                  "class": "highway",
+                  "type": "residential",
+                  "importance": 0.19999999999999998
             },
             {
                   "place_id": 139981775,
@@ -8989,6 +9555,25 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png"
             },
             {
+                  "place_id": 298502212,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 1315120,
+                  "boundingbox": [
+                        "5.4186346",
+                        "8.8897973",
+                        "-77.1270869",
+                        "-73.8795916"
+                  ],
+                  "lat": "7.0000085",
+                  "lon": "-75.5000086",
+                  "display_name": "Antioquia, Colombia",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.7756194792952189,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
                   "place_id": 299081164,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "relation",
@@ -9459,6 +10044,25 @@
                   "class": "boundary",
                   "type": "administrative",
                   "importance": 0.8680703794097986,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
+                  "place_id": 298429093,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 347950,
+                  "boundingbox": [
+                        "41.3170353",
+                        "41.4679135",
+                        "2.0524977",
+                        "2.2283555"
+                  ],
+                  "lat": "41.3828939",
+                  "lon": "2.1774322",
+                  "display_name": "Barcelona, Barcelon\u00e8s, Barcelona, Catalunya, 08001, Espa\u00f1a",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.8535649969503182,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
@@ -12989,6 +13593,24 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
+                  "place_id": 203748508,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "way",
+                  "osm_id": 422856367,
+                  "boundingbox": [
+                        "50.0881053",
+                        "50.0884471",
+                        "19.9507867",
+                        "19.9511398"
+                  ],
+                  "lat": "50.0881644",
+                  "lon": "19.9509286",
+                  "display_name": "KRAK-TEST S.C. \u2013 AUTO SERWIS, Pr\u0105dnik Bia\u0142y, Krak\u00f3w, wojew\u00f3dztwo ma\u0142opolskie, 31-217, Polska",
+                  "class": "highway",
+                  "type": "service",
+                  "importance": 0.27499999999999997
+            },
+            {
                   "place_id": 128784636,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "way",
@@ -13134,6 +13756,25 @@
                   "type": "administrative",
                   "importance": 0.8680703794097986,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
+                  "place_id": 39943147,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "node",
+                  "osm_id": 3163748899,
+                  "boundingbox": [
+                        "41.3775133",
+                        "41.3776133",
+                        "2.0854383",
+                        "2.0855383"
+                  ],
+                  "lat": "41.3775633",
+                  "lon": "2.0854883",
+                  "display_name": "Banco Sabadell, Carrer Laure\u00e0 Mir\u00f3, el Centre, Esplugues de Llobregat, Baix Llobregat, Barcelona, Catalunya, 08950, Espa\u00f1a",
+                  "class": "amenity",
+                  "type": "bank",
+                  "importance": 0.5001,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/money_bank2.p.20.png"
             },
             {
                   "place_id": 112192466,
@@ -13589,6 +14230,25 @@
                   "type": "hospital",
                   "importance": 1.1901262496514902,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png"
+            },
+            {
+                  "place_id": 297906522,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 37244,
+                  "boundingbox": [
+                        "47.3496899",
+                        "47.6131468",
+                        "18.9251057",
+                        "19.3349258"
+                  ],
+                  "lat": "47.4979937",
+                  "lon": "19.0403594",
+                  "display_name": "Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, Magyarorsz\u00e1g",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.8508438350115745,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
                   "place_id": 299151102,
@@ -14228,6 +14888,25 @@
                   "type": "administrative",
                   "importance": 0.7366192757766009,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
+                  "place_id": 112192466,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "way",
+                  "osm_id": 28477449,
+                  "boundingbox": [
+                        "52.2057167",
+                        "52.2062488",
+                        "20.9839174",
+                        "20.9848237"
+                  ],
+                  "lat": "52.2059748",
+                  "lon": "20.98440360727661",
+                  "display_name": "Centrum Dydaktyczne, 2A, Ksi\u0119cia Trojdena, Rakowiec, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-109, Polska",
+                  "class": "amenity",
+                  "type": "university",
+                  "importance": 0.0001,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png"
             },
             {
                   "place_id": 164896979,
@@ -16069,6 +16748,25 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/accommodation_hotel2.p.20.png"
             },
             {
+                  "place_id": 298698265,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 4283101,
+                  "boundingbox": [
+                        "42.6030861",
+                        "42.786786",
+                        "23.1950853",
+                        "23.432512"
+                  ],
+                  "lat": "42.6977028",
+                  "lon": "23.3217359",
+                  "display_name": "\u0421\u043e\u0444\u0438\u044f, \u0421\u0442\u043e\u043b\u0438\u0447\u043d\u0430, \u0421\u043e\u0444\u0438\u044f-\u0433\u0440\u0430\u0434, \u0411\u044a\u043b\u0433a\u0440\u0438\u044f",
+                  "class": "place",
+                  "type": "city",
+                  "importance": 0.589158597141107,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
+            },
+            {
                   "place_id": 298404254,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "relation",
@@ -16557,6 +17255,24 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
+                  "place_id": 341107501,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "way",
+                  "osm_id": 610607686,
+                  "boundingbox": [
+                        "32.679946",
+                        "32.7224664",
+                        "35.2733073",
+                        "35.312451"
+                  ],
+                  "lat": "32.7010145",
+                  "lon": "35.296147355359075",
+                  "display_name": "\u0627\u0644\u0646\u0627\u0635\u0631\u0629, \u05e0\u05e4\u05ea \u05d9\u05d6\u05e8\u05e2\u05d0\u05dc, \u05de\u05d7\u05d5\u05d6 \u05d4\u05e6\u05e4\u05d5\u05df, \u05d9\u05e9\u05e8\u05d0\u05dc",
+                  "class": "landuse",
+                  "type": "residential",
+                  "importance": 0.5886477742029698
+            },
+            {
                   "place_id": 299785500,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "relation",
@@ -16592,6 +17308,25 @@
                   "class": "boundary",
                   "type": "administrative",
                   "importance": 0.8618085495723451,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
+                  "place_id": 297977370,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 111735,
+                  "boundingbox": [
+                        "38.221091",
+                        "38.350834",
+                        "-122.357721",
+                        "-122.222196"
+                  ],
+                  "lat": "38.2971367",
+                  "lon": "-122.2855293",
+                  "display_name": "Napa, Napa County, California, United States",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.9238439115982304,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
@@ -16802,6 +17537,24 @@
                   "type": "university",
                   "importance": 0.9735587148673672,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png"
+            },
+            {
+                  "place_id": 282718044,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "way",
+                  "osm_id": 958276038,
+                  "boundingbox": [
+                        "50.8366688",
+                        "50.8372514",
+                        "4.0207761",
+                        "4.0214311"
+                  ],
+                  "lat": "50.83694105",
+                  "lon": "4.0211968571621615",
+                  "display_name": "OLV Ziekenhuis Campus Ninove, 2, Biezenstraat, Ninove, Aalst, Oost-Vlaanderen, Vlaanderen, 9400, Belgi\u00eb / Belgique / Belgien",
+                  "class": "building",
+                  "type": "hospital",
+                  "importance": 0.4200999999999999
             },
             {
                   "place_id": 298122877,
@@ -18238,6 +18991,24 @@
                   "importance": 0.0001
             },
             {
+                  "place_id": 163082933,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "way",
+                  "osm_id": 233511463,
+                  "boundingbox": [
+                        "46.2381109",
+                        "46.2420692",
+                        "20.7195457",
+                        "20.7253405"
+                  ],
+                  "lat": "46.2404262",
+                  "lon": "20.7229447",
+                  "display_name": "Asztalos P. K\u00e1lm\u00e1n utca, Csan\u00e1dpalota, Mak\u00f3i j\u00e1r\u00e1s, Csongr\u00e1d-Csan\u00e1d megye, D\u00e9l-Alf\u00f6ld, Alf\u00f6ld \u00e9s \u00c9szak, 6913, Magyarorsz\u00e1g",
+                  "class": "highway",
+                  "type": "residential",
+                  "importance": 0.3
+            },
+            {
                   "place_id": 298600563,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "relation",
@@ -18480,6 +19251,25 @@
                   "type": "administrative",
                   "importance": 0.5462335794056065,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
+                  "place_id": 124744883,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "way",
+                  "osm_id": 88499084,
+                  "boundingbox": [
+                        "32.8315041",
+                        "32.8348888",
+                        "34.9829708",
+                        "34.9873368"
+                  ],
+                  "lat": "32.833282100000005",
+                  "lon": "34.985659287668064",
+                  "display_name": "\u05e8\u05de\u05d1\"\u05dd - \u05d4\u05e7\u05e8\u05d9\u05d4 \u05d4\u05e8\u05e4\u05d5\u05d0\u05d9\u05ea \u05dc\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05d4\u05d0\u05d3\u05dd, \u05e2\u05e4\u05e8\u05d5\u05df, \u05d1\u05ea \u05d2\u05dc\u05d9\u05dd, \u05d7\u05d9\u05e4\u05d4, \u05e0\u05e4\u05ea \u05d7\u05d9\u05e4\u05d4, \u05de\u05d7\u05d5\u05d6 \u05d7\u05d9\u05e4\u05d4, 3501321, \u05d9\u05e9\u05e8\u05d0\u05dc",
+                  "class": "amenity",
+                  "type": "hospital",
+                  "importance": 0.36529067188377956,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png"
             },
             {
                   "place_id": 298270759,
@@ -19870,6 +20660,25 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
+                  "place_id": 297906522,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 37244,
+                  "boundingbox": [
+                        "47.3496899",
+                        "47.6131468",
+                        "18.9251057",
+                        "19.3349258"
+                  ],
+                  "lat": "47.4979937",
+                  "lon": "19.0403594",
+                  "display_name": "Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, Magyarorsz\u00e1g",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.8508438350115745,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
                   "place_id": 210324958,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "way",
@@ -20856,24 +21665,6 @@
                   "type": "hospital",
                   "importance": 0.6005083629626833,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png"
-            },
-            {
-                  "place_id": 210324958,
-                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-                  "osm_type": "way",
-                  "osm_id": 471124448,
-                  "boundingbox": [
-                        "37.507583",
-                        "37.5078383",
-                        "127.1031292",
-                        "127.1035208"
-                  ],
-                  "lat": "37.50771705",
-                  "lon": "127.10332700284029",
-                  "display_name": "Hyundai Repair Center, \uc11d\ucd0c\ub3d9, \uc1a1\ud30c\uad6c, \uc11c\uc6b8, 05609, \ub300\ud55c\ubbfc\uad6d",
-                  "class": "landuse",
-                  "type": "industrial",
-                  "importance": 0.19999999999999996
             },
             {
                   "place_id": 84166550,
@@ -25086,6 +25877,25 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png"
             },
             {
+                  "place_id": 298698265,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 4283101,
+                  "boundingbox": [
+                        "42.6030861",
+                        "42.786786",
+                        "23.1950853",
+                        "23.432512"
+                  ],
+                  "lat": "42.6977028",
+                  "lon": "23.3217359",
+                  "display_name": "\u0421\u043e\u0444\u0438\u044f, \u0421\u0442\u043e\u043b\u0438\u0447\u043d\u0430, \u0421\u043e\u0444\u0438\u044f-\u0433\u0440\u0430\u0434, \u0411\u044a\u043b\u0433a\u0440\u0438\u044f",
+                  "class": "place",
+                  "type": "city",
+                  "importance": 0.589158597141107,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
+            },
+            {
                   "place_id": 299449022,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "relation",
@@ -27035,6 +27845,25 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png"
             },
             {
+                  "place_id": 297958945,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 62508,
+                  "boundingbox": [
+                        "50.6326909",
+                        "50.7744233",
+                        "7.0225354",
+                        "7.2106794"
+                  ],
+                  "lat": "50.735851",
+                  "lon": "7.10066",
+                  "display_name": "Bonn, Nordrhein-Westfalen, Deutschland",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.7664513432012091,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
                   "place_id": 297923722,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "relation",
@@ -27411,6 +28240,25 @@
                   "class": "boundary",
                   "type": "administrative",
                   "importance": 0.7150017731721231,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
+                  "place_id": 298653756,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 2597485,
+                  "boundingbox": [
+                        "54.2749189",
+                        "54.4664485",
+                        "18.4294955",
+                        "18.9502437"
+                  ],
+                  "lat": "54.3706858",
+                  "lon": "18.61298210330077",
+                  "display_name": "Gda\u0144sk, wojew\u00f3dztwo pomorskie, Polska",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.658692247236834,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
@@ -28151,6 +28999,25 @@
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
+                  "place_id": 122508245,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "way",
+                  "osm_id": 74133258,
+                  "boundingbox": [
+                        "32.9871086",
+                        "33.0434132",
+                        "35.0814597",
+                        "35.1134918"
+                  ],
+                  "lat": "33.01697675",
+                  "lon": "35.101840391055575",
+                  "display_name": "\u05e0\u05d4\u05e8\u05d9\u05d4, \u05e0\u05e4\u05ea \u05e2\u05db\u05d5, \u05de\u05d7\u05d5\u05d6 \u05d4\u05e6\u05e4\u05d5\u05df, \u05d9\u05e9\u05e8\u05d0\u05dc",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.5530179242945414,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            },
+            {
                   "place_id": 92749234,
                   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
                   "osm_type": "node",
@@ -28220,7 +29087,7 @@
                   ],
                   "lat": "-33.8023373",
                   "lon": "150.9874192670545",
-                  "display_name": "Westmead Hospital, Mons Road, Westmead, Sydney, City of Parramatta Council, New South Wales, 2145, Australia",
+                  "display_name": "Westmead Hospital, NorthWest T-Way, Westmead, Sydney, City of Parramatta Council, New South Wales, 2145, Australia",
                   "class": "amenity",
                   "type": "hospital",
                   "importance": 0.9944313097683033,
@@ -28653,6 +29520,25 @@
                   "type": "university",
                   "importance": 0.35961338560950185,
                   "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png"
+            },
+            {
+                  "place_id": 298300841,
+                  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                  "osm_type": "relation",
+                  "osm_id": 1379335,
+                  "boundingbox": [
+                        "32.9275195",
+                        "32.9887915",
+                        "35.4553853",
+                        "35.5379467"
+                  ],
+                  "lat": "32.9646301",
+                  "lon": "35.502451",
+                  "display_name": "\u05e6\u05e4\u05ea, \u05e0\u05e4\u05ea \u05e6\u05e4\u05ea, \u05de\u05d7\u05d5\u05d6 \u05d4\u05e6\u05e4\u05d5\u05df, 1311502, \u05d9\u05e9\u05e8\u05d0\u05dc",
+                  "class": "boundary",
+                  "type": "administrative",
+                  "importance": 0.5335381965451907,
+                  "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
             },
             {
                   "place_id": 297983890,

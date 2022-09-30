@@ -1,10 +1,10 @@
 {
       "FullStudiesResponse": {
             "APIVrs": "1.01.05",
-            "DataVrs": "2022:09:27 23:32:54.675",
+            "DataVrs": "2022:09:28 23:22:14.126",
             "Expression": "allogeneic mesenchymal",
-            "NStudiesAvail": 429059,
-            "NStudiesFound": 464,
+            "NStudiesAvail": 429205,
+            "NStudiesFound": 465,
             "MinRank": 1,
             "MaxRank": 50,
             "NStudiesReturned": 50,
@@ -205,7 +205,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -570,7 +570,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -624,6 +624,12 @@
                                           "ConditionBrowseLeafList": {
                                                 "ConditionBrowseLeaf": [
                                                       {
+                                                            "ConditionBrowseLeafId": "M9434",
+                                                            "ConditionBrowseLeafName": "Infarction",
+                                                            "ConditionBrowseLeafAsFound": "Infarction",
+                                                            "ConditionBrowseLeafRelevance": "high"
+                                                      },
+                                                      {
                                                             "ConditionBrowseLeafId": "M11307",
                                                             "ConditionBrowseLeafName": "Myocardial Infarction",
                                                             "ConditionBrowseLeafAsFound": "Myocardial Infarction",
@@ -633,12 +639,6 @@
                                                             "ConditionBrowseLeafId": "M1072",
                                                             "ConditionBrowseLeafName": "ST Elevation Myocardial Infarction",
                                                             "ConditionBrowseLeafAsFound": "ST-segment Elevation Myocardial Infarction",
-                                                            "ConditionBrowseLeafRelevance": "high"
-                                                      },
-                                                      {
-                                                            "ConditionBrowseLeafId": "M9434",
-                                                            "ConditionBrowseLeafName": "Infarction",
-                                                            "ConditionBrowseLeafAsFound": "Infarction",
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -676,16 +676,16 @@
                                           "ConditionBrowseBranchList": {
                                                 "ConditionBrowseBranch": [
                                                       {
-                                                            "ConditionBrowseBranchAbbrev": "BC14",
-                                                            "ConditionBrowseBranchName": "Heart and Blood Diseases"
-                                                      },
-                                                      {
                                                             "ConditionBrowseBranchAbbrev": "BC23",
                                                             "ConditionBrowseBranchName": "Symptoms and General Pathology"
                                                       },
                                                       {
                                                             "ConditionBrowseBranchAbbrev": "All",
                                                             "ConditionBrowseBranchName": "All Conditions"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseBranchAbbrev": "BC14",
+                                                            "ConditionBrowseBranchName": "Heart and Blood Diseases"
                                                       }
                                                 ]
                                           }
@@ -929,7 +929,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -2679,7 +2679,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -2729,21 +2729,14 @@
                                           "ConditionBrowseLeafList": {
                                                 "ConditionBrowseLeaf": [
                                                       {
-                                                            "ConditionBrowseLeafId": "M8571",
-                                                            "ConditionBrowseLeafName": "Heart Diseases",
-                                                            "ConditionBrowseLeafAsFound": "Heart Disease",
-                                                            "ConditionBrowseLeafRelevance": "high"
+                                                            "ConditionBrowseLeafId": "M9695",
+                                                            "ConditionBrowseLeafName": "Ischemia",
+                                                            "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
                                                             "ConditionBrowseLeafId": "M5698",
                                                             "ConditionBrowseLeafName": "Coronary Artery Disease",
                                                             "ConditionBrowseLeafAsFound": "Ischemic Heart Disease",
-                                                            "ConditionBrowseLeafRelevance": "high"
-                                                      },
-                                                      {
-                                                            "ConditionBrowseLeafId": "M11306",
-                                                            "ConditionBrowseLeafName": "Cardiomyopathies",
-                                                            "ConditionBrowseLeafAsFound": "Cardiomyopathy",
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -2753,9 +2746,16 @@
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M9695",
-                                                            "ConditionBrowseLeafName": "Ischemia",
-                                                            "ConditionBrowseLeafRelevance": "low"
+                                                            "ConditionBrowseLeafId": "M8571",
+                                                            "ConditionBrowseLeafName": "Heart Diseases",
+                                                            "ConditionBrowseLeafAsFound": "Heart Disease",
+                                                            "ConditionBrowseLeafRelevance": "high"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseLeafId": "M11306",
+                                                            "ConditionBrowseLeafName": "Cardiomyopathies",
+                                                            "ConditionBrowseLeafAsFound": "Cardiomyopathy",
+                                                            "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
                                                             "ConditionBrowseLeafId": "M5701",
@@ -2782,16 +2782,16 @@
                                           "ConditionBrowseBranchList": {
                                                 "ConditionBrowseBranch": [
                                                       {
-                                                            "ConditionBrowseBranchAbbrev": "BC14",
-                                                            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+                                                            "ConditionBrowseBranchAbbrev": "BC23",
+                                                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
                                                       },
                                                       {
                                                             "ConditionBrowseBranchAbbrev": "All",
                                                             "ConditionBrowseBranchName": "All Conditions"
                                                       },
                                                       {
-                                                            "ConditionBrowseBranchAbbrev": "BC23",
-                                                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                                                            "ConditionBrowseBranchAbbrev": "BC14",
+                                                            "ConditionBrowseBranchName": "Heart and Blood Diseases"
                                                       }
                                                 ]
                                           }
@@ -3008,7 +3008,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -3512,7 +3512,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -3566,6 +3566,11 @@
                                           "ConditionBrowseLeafList": {
                                                 "ConditionBrowseLeaf": [
                                                       {
+                                                            "ConditionBrowseLeafId": "M9695",
+                                                            "ConditionBrowseLeafName": "Ischemia",
+                                                            "ConditionBrowseLeafRelevance": "low"
+                                                      },
+                                                      {
                                                             "ConditionBrowseLeafId": "M28366",
                                                             "ConditionBrowseLeafName": "Peripheral Arterial Disease",
                                                             "ConditionBrowseLeafAsFound": "Peripheral Arterial Disease",
@@ -3576,11 +3581,6 @@
                                                             "ConditionBrowseLeafName": "Peripheral Vascular Diseases",
                                                             "ConditionBrowseLeafAsFound": "Peripheral Arterial Disease",
                                                             "ConditionBrowseLeafRelevance": "high"
-                                                      },
-                                                      {
-                                                            "ConditionBrowseLeafId": "M9695",
-                                                            "ConditionBrowseLeafName": "Ischemia",
-                                                            "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
                                                             "ConditionBrowseLeafId": "M16552",
@@ -3619,16 +3619,16 @@
                                           "ConditionBrowseBranchList": {
                                                 "ConditionBrowseBranch": [
                                                       {
-                                                            "ConditionBrowseBranchAbbrev": "BC14",
-                                                            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+                                                            "ConditionBrowseBranchAbbrev": "BC23",
+                                                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
                                                       },
                                                       {
                                                             "ConditionBrowseBranchAbbrev": "All",
                                                             "ConditionBrowseBranchName": "All Conditions"
                                                       },
                                                       {
-                                                            "ConditionBrowseBranchAbbrev": "BC23",
-                                                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                                                            "ConditionBrowseBranchAbbrev": "BC14",
+                                                            "ConditionBrowseBranchName": "Heart and Blood Diseases"
                                                       }
                                                 ]
                                           }
@@ -4045,7 +4045,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -4099,9 +4099,9 @@
                                           "ConditionBrowseLeafList": {
                                                 "ConditionBrowseLeaf": [
                                                       {
-                                                            "ConditionBrowseLeafId": "M8571",
-                                                            "ConditionBrowseLeafName": "Heart Diseases",
-                                                            "ConditionBrowseLeafAsFound": "Heart Disease",
+                                                            "ConditionBrowseLeafId": "M9695",
+                                                            "ConditionBrowseLeafName": "Ischemia",
+                                                            "ConditionBrowseLeafAsFound": "Ischemic",
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -4122,9 +4122,9 @@
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M9695",
-                                                            "ConditionBrowseLeafName": "Ischemia",
-                                                            "ConditionBrowseLeafAsFound": "Ischemic",
+                                                            "ConditionBrowseLeafId": "M8571",
+                                                            "ConditionBrowseLeafName": "Heart Diseases",
+                                                            "ConditionBrowseLeafAsFound": "Heart Disease",
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -4152,8 +4152,8 @@
                                           "ConditionBrowseBranchList": {
                                                 "ConditionBrowseBranch": [
                                                       {
-                                                            "ConditionBrowseBranchAbbrev": "BC14",
-                                                            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+                                                            "ConditionBrowseBranchAbbrev": "BC23",
+                                                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
                                                       },
                                                       {
                                                             "ConditionBrowseBranchAbbrev": "All",
@@ -4168,8 +4168,8 @@
                                                             "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
                                                       },
                                                       {
-                                                            "ConditionBrowseBranchAbbrev": "BC23",
-                                                            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+                                                            "ConditionBrowseBranchAbbrev": "BC14",
+                                                            "ConditionBrowseBranchName": "Heart and Blood Diseases"
                                                       }
                                                 ]
                                           }
@@ -4363,7 +4363,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -4910,7 +4910,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -4960,15 +4960,15 @@
                                           "ConditionBrowseLeafList": {
                                                 "ConditionBrowseLeaf": [
                                                       {
-                                                            "ConditionBrowseLeafId": "M11307",
-                                                            "ConditionBrowseLeafName": "Myocardial Infarction",
-                                                            "ConditionBrowseLeafAsFound": "Myocardial Infarction",
-                                                            "ConditionBrowseLeafRelevance": "high"
-                                                      },
-                                                      {
                                                             "ConditionBrowseLeafId": "M9434",
                                                             "ConditionBrowseLeafName": "Infarction",
                                                             "ConditionBrowseLeafAsFound": "Infarction",
+                                                            "ConditionBrowseLeafRelevance": "high"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseLeafId": "M11307",
+                                                            "ConditionBrowseLeafName": "Myocardial Infarction",
+                                                            "ConditionBrowseLeafAsFound": "Myocardial Infarction",
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -5011,16 +5011,16 @@
                                           "ConditionBrowseBranchList": {
                                                 "ConditionBrowseBranch": [
                                                       {
-                                                            "ConditionBrowseBranchAbbrev": "BC14",
-                                                            "ConditionBrowseBranchName": "Heart and Blood Diseases"
-                                                      },
-                                                      {
                                                             "ConditionBrowseBranchAbbrev": "BC23",
                                                             "ConditionBrowseBranchName": "Symptoms and General Pathology"
                                                       },
                                                       {
                                                             "ConditionBrowseBranchAbbrev": "All",
                                                             "ConditionBrowseBranchName": "All Conditions"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseBranchAbbrev": "BC14",
+                                                            "ConditionBrowseBranchName": "Heart and Blood Diseases"
                                                       },
                                                       {
                                                             "ConditionBrowseBranchAbbrev": "Rare",
@@ -5806,7 +5806,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022",
+                                          "VersionHolder": "September 29, 2022",
                                           "RemovedCountryList": {
                                                 "RemovedCountry": [
                                                       "Austria",
@@ -10132,7 +10132,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022",
+                                          "VersionHolder": "September 29, 2022",
                                           "SubmissionTracking": {}
                                     },
                                     "ConditionBrowseModule": {
@@ -10517,7 +10517,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -10922,7 +10922,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -11285,7 +11285,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -11882,7 +11882,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionBrowseLeafList": {
@@ -12278,7 +12278,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -12638,7 +12638,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -12923,7 +12923,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -12959,15 +12959,14 @@
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M5698",
-                                                            "ConditionBrowseLeafName": "Coronary Artery Disease",
+                                                            "ConditionBrowseLeafId": "M9695",
+                                                            "ConditionBrowseLeafName": "Ischemia",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M11306",
-                                                            "ConditionBrowseLeafName": "Cardiomyopathies",
-                                                            "ConditionBrowseLeafAsFound": "Cardiomyopathy",
-                                                            "ConditionBrowseLeafRelevance": "high"
+                                                            "ConditionBrowseLeafId": "M5698",
+                                                            "ConditionBrowseLeafName": "Coronary Artery Disease",
+                                                            "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
                                                             "ConditionBrowseLeafId": "M18658",
@@ -12975,14 +12974,15 @@
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M9695",
-                                                            "ConditionBrowseLeafName": "Ischemia",
-                                                            "ConditionBrowseLeafRelevance": "low"
-                                                      },
-                                                      {
                                                             "ConditionBrowseLeafId": "M5701",
                                                             "ConditionBrowseLeafName": "Coronary Disease",
                                                             "ConditionBrowseLeafRelevance": "low"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseLeafId": "M11306",
+                                                            "ConditionBrowseLeafName": "Cardiomyopathies",
+                                                            "ConditionBrowseLeafAsFound": "Cardiomyopathy",
+                                                            "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
                                                             "ConditionBrowseLeafId": "M8571",
@@ -13273,7 +13273,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -13615,7 +13615,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -13653,15 +13653,15 @@
                                           "ConditionBrowseLeafList": {
                                                 "ConditionBrowseLeaf": [
                                                       {
-                                                            "ConditionBrowseLeafId": "M12078",
-                                                            "ConditionBrowseLeafName": "Osteoarthritis",
-                                                            "ConditionBrowseLeafAsFound": "Osteoarthritis",
-                                                            "ConditionBrowseLeafRelevance": "high"
-                                                      },
-                                                      {
                                                             "ConditionBrowseLeafId": "M21321",
                                                             "ConditionBrowseLeafName": "Osteoarthritis, Knee",
                                                             "ConditionBrowseLeafAsFound": "Osteoarthritis of Knee",
+                                                            "ConditionBrowseLeafRelevance": "high"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseLeafId": "M12078",
+                                                            "ConditionBrowseLeafName": "Osteoarthritis",
+                                                            "ConditionBrowseLeafAsFound": "Osteoarthritis",
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -13739,7 +13739,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M85407",
                                                             "InterventionBrowseLeafName": "Plasma-lyte 148",
-                                                            "InterventionBrowseLeafAsFound": "Porridge",
+                                                            "InterventionBrowseLeafAsFound": "Ringer's lactate",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -15565,7 +15565,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -15978,7 +15978,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022",
+                                          "VersionHolder": "September 29, 2022",
                                           "SubmissionTracking": {
                                                 "SubmissionInfoList": {
                                                       "SubmissionInfo": [
@@ -16376,7 +16376,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -16932,7 +16932,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -16970,15 +16970,15 @@
                                           "ConditionBrowseLeafList": {
                                                 "ConditionBrowseLeaf": [
                                                       {
-                                                            "ConditionBrowseLeafId": "M12078",
-                                                            "ConditionBrowseLeafName": "Osteoarthritis",
-                                                            "ConditionBrowseLeafAsFound": "Osteoarthritis",
-                                                            "ConditionBrowseLeafRelevance": "high"
-                                                      },
-                                                      {
                                                             "ConditionBrowseLeafId": "M21321",
                                                             "ConditionBrowseLeafName": "Osteoarthritis, Knee",
                                                             "ConditionBrowseLeafAsFound": "Knee Osteoarthritis",
+                                                            "ConditionBrowseLeafRelevance": "high"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseLeafId": "M12078",
+                                                            "ConditionBrowseLeafName": "Osteoarthritis",
+                                                            "ConditionBrowseLeafAsFound": "Osteoarthritis",
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -17063,7 +17063,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M9030",
                                                             "InterventionBrowseLeafName": "Hyaluronic Acid",
-                                                            "InterventionBrowseLeafAsFound": "Tacrolimus",
+                                                            "InterventionBrowseLeafAsFound": "Concurrent",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -17298,7 +17298,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -17636,7 +17636,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -17680,13 +17680,13 @@
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M17069",
-                                                            "ConditionBrowseLeafName": "Inflammatory Bowel Diseases",
+                                                            "ConditionBrowseLeafId": "M9596",
+                                                            "ConditionBrowseLeafName": "Intestinal Diseases",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M9596",
-                                                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                                                            "ConditionBrowseLeafId": "M17069",
+                                                            "ConditionBrowseLeafName": "Inflammatory Bowel Diseases",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
@@ -18084,7 +18084,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -18651,7 +18651,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -18726,13 +18726,13 @@
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M13625",
-                                                            "ConditionBrowseLeafName": "Psychotic Disorders",
+                                                            "ConditionBrowseLeafId": "M3967",
+                                                            "ConditionBrowseLeafName": "Mental Disorders",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M3967",
-                                                            "ConditionBrowseLeafName": "Mental Disorders",
+                                                            "ConditionBrowseLeafId": "M13625",
+                                                            "ConditionBrowseLeafName": "Psychotic Disorders",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
@@ -18938,7 +18938,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -19233,7 +19233,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -19584,7 +19584,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -19622,15 +19622,15 @@
                                           "ConditionBrowseLeafList": {
                                                 "ConditionBrowseLeaf": [
                                                       {
-                                                            "ConditionBrowseLeafId": "M12078",
-                                                            "ConditionBrowseLeafName": "Osteoarthritis",
-                                                            "ConditionBrowseLeafAsFound": "Osteoarthritis",
-                                                            "ConditionBrowseLeafRelevance": "high"
-                                                      },
-                                                      {
                                                             "ConditionBrowseLeafId": "M21321",
                                                             "ConditionBrowseLeafName": "Osteoarthritis, Knee",
                                                             "ConditionBrowseLeafAsFound": "Osteoarthritis of Knee",
+                                                            "ConditionBrowseLeafRelevance": "high"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseLeafId": "M12078",
+                                                            "ConditionBrowseLeafName": "Osteoarthritis",
+                                                            "ConditionBrowseLeafAsFound": "Osteoarthritis",
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -19708,7 +19708,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M85407",
                                                             "InterventionBrowseLeafName": "Plasma-lyte 148",
-                                                            "InterventionBrowseLeafAsFound": "Porridge",
+                                                            "InterventionBrowseLeafAsFound": "Ringer's lactate",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -19981,7 +19981,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022",
+                                          "VersionHolder": "September 29, 2022",
                                           "SubmissionTracking": {
                                                 "SubmissionInfoList": {
                                                       "SubmissionInfo": [
@@ -20040,6 +20040,12 @@
                                           "ConditionBrowseLeafList": {
                                                 "ConditionBrowseLeaf": [
                                                       {
+                                                            "ConditionBrowseLeafId": "M9596",
+                                                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                                                            "ConditionBrowseLeafAsFound": "Bowel Disease",
+                                                            "ConditionBrowseLeafRelevance": "high"
+                                                      },
+                                                      {
                                                             "ConditionBrowseLeafId": "M5472",
                                                             "ConditionBrowseLeafName": "Colitis",
                                                             "ConditionBrowseLeafRelevance": "low"
@@ -20064,12 +20070,6 @@
                                                             "ConditionBrowseLeafId": "M5790",
                                                             "ConditionBrowseLeafName": "Crohn Disease",
                                                             "ConditionBrowseLeafRelevance": "low"
-                                                      },
-                                                      {
-                                                            "ConditionBrowseLeafId": "M9596",
-                                                            "ConditionBrowseLeafName": "Intestinal Diseases",
-                                                            "ConditionBrowseLeafAsFound": "Bowel Disease",
-                                                            "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
                                                             "ConditionBrowseLeafId": "M8035",
@@ -20354,7 +20354,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -20446,15 +20446,15 @@
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M9434",
-                                                            "ConditionBrowseLeafName": "Infarction",
-                                                            "ConditionBrowseLeafRelevance": "low"
-                                                      },
-                                                      {
                                                             "ConditionBrowseLeafId": "M4945",
                                                             "ConditionBrowseLeafName": "Cerebral Infarction",
                                                             "ConditionBrowseLeafAsFound": "Ischemic Stroke",
                                                             "ConditionBrowseLeafRelevance": "high"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseLeafId": "M9434",
+                                                            "ConditionBrowseLeafName": "Infarction",
+                                                            "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
                                                             "ConditionBrowseLeafId": "M4962",
@@ -20842,7 +20842,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -20892,13 +20892,13 @@
                                           "ConditionBrowseLeafList": {
                                                 "ConditionBrowseLeaf": [
                                                       {
-                                                            "ConditionBrowseLeafId": "M3781",
-                                                            "ConditionBrowseLeafName": "Autoimmune Diseases",
+                                                            "ConditionBrowseLeafId": "M10329",
+                                                            "ConditionBrowseLeafName": "Lupus Erythematosus, Systemic",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M10329",
-                                                            "ConditionBrowseLeafName": "Lupus Erythematosus, Systemic",
+                                                            "ConditionBrowseLeafId": "M3781",
+                                                            "ConditionBrowseLeafName": "Autoimmune Diseases",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
@@ -20954,16 +20954,16 @@
                                           "ConditionBrowseBranchList": {
                                                 "ConditionBrowseBranch": [
                                                       {
+                                                            "ConditionBrowseBranchAbbrev": "BC17",
+                                                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                                                      },
+                                                      {
                                                             "ConditionBrowseBranchAbbrev": "BC20",
                                                             "ConditionBrowseBranchName": "Immune System Diseases"
                                                       },
                                                       {
                                                             "ConditionBrowseBranchAbbrev": "All",
                                                             "ConditionBrowseBranchName": "All Conditions"
-                                                      },
-                                                      {
-                                                            "ConditionBrowseBranchAbbrev": "BC17",
-                                                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
                                                       },
                                                       {
                                                             "ConditionBrowseBranchAbbrev": "BXS",
@@ -21152,7 +21152,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -21595,7 +21595,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -21866,7 +21866,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -21932,13 +21932,13 @@
                                           "ConditionBrowseLeafList": {
                                                 "ConditionBrowseLeaf": [
                                                       {
-                                                            "ConditionBrowseLeafId": "M16837",
-                                                            "ConditionBrowseLeafName": "Wounds and Injuries",
+                                                            "ConditionBrowseLeafId": "M6267",
+                                                            "ConditionBrowseLeafName": "Diabetes Mellitus",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M6267",
-                                                            "ConditionBrowseLeafName": "Diabetes Mellitus",
+                                                            "ConditionBrowseLeafId": "M16837",
+                                                            "ConditionBrowseLeafName": "Wounds and Injuries",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
@@ -22008,20 +22008,20 @@
                                           "ConditionBrowseBranchList": {
                                                 "ConditionBrowseBranch": [
                                                       {
-                                                            "ConditionBrowseBranchAbbrev": "BC26",
-                                                            "ConditionBrowseBranchName": "Wounds and Injuries"
-                                                      },
-                                                      {
-                                                            "ConditionBrowseBranchAbbrev": "All",
-                                                            "ConditionBrowseBranchName": "All Conditions"
-                                                      },
-                                                      {
                                                             "ConditionBrowseBranchAbbrev": "BC18",
                                                             "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
                                                       },
                                                       {
                                                             "ConditionBrowseBranchAbbrev": "BC19",
                                                             "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseBranchAbbrev": "All",
+                                                            "ConditionBrowseBranchName": "All Conditions"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseBranchAbbrev": "BC26",
+                                                            "ConditionBrowseBranchName": "Wounds and Injuries"
                                                       },
                                                       {
                                                             "ConditionBrowseBranchAbbrev": "BC14",
@@ -22278,7 +22278,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -22589,7 +22589,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -23070,7 +23070,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -23500,7 +23500,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -23866,7 +23866,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -24268,7 +24268,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     }
                               }
                         }
@@ -24565,7 +24565,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -24971,7 +24971,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -31053,7 +31053,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -31079,13 +31079,18 @@
                                           "ConditionBrowseLeafList": {
                                                 "ConditionBrowseLeaf": [
                                                       {
-                                                            "ConditionBrowseLeafId": "M10097",
-                                                            "ConditionBrowseLeafName": "Leukemia",
+                                                            "ConditionBrowseLeafId": "M4372",
+                                                            "ConditionBrowseLeafName": "Breast Neoplasms",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M4372",
-                                                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                                                            "ConditionBrowseLeafId": "M14479",
+                                                            "ConditionBrowseLeafName": "Sarcoma",
+                                                            "ConditionBrowseLeafRelevance": "low"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseLeafId": "M10097",
+                                                            "ConditionBrowseLeafName": "Leukemia",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
@@ -31100,23 +31105,18 @@
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M14479",
-                                                            "ConditionBrowseLeafName": "Sarcoma",
-                                                            "ConditionBrowseLeafRelevance": "low"
-                                                      },
-                                                      {
                                                             "ConditionBrowseLeafId": "M8571",
                                                             "ConditionBrowseLeafName": "Heart Diseases",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "T3543",
-                                                            "ConditionBrowseLeafName": "Lymphosarcoma",
+                                                            "ConditionBrowseLeafId": "T5284",
+                                                            "ConditionBrowseLeafName": "Soft Tissue Sarcoma",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "T5284",
-                                                            "ConditionBrowseLeafName": "Soft Tissue Sarcoma",
+                                                            "ConditionBrowseLeafId": "T3543",
+                                                            "ConditionBrowseLeafName": "Lymphosarcoma",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
@@ -31134,12 +31134,12 @@
                                                             "ConditionBrowseBranchName": "Neoplasms"
                                                       },
                                                       {
-                                                            "ConditionBrowseBranchAbbrev": "All",
-                                                            "ConditionBrowseBranchName": "All Conditions"
-                                                      },
-                                                      {
                                                             "ConditionBrowseBranchAbbrev": "BC17",
                                                             "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseBranchAbbrev": "All",
+                                                            "ConditionBrowseBranchName": "All Conditions"
                                                       },
                                                       {
                                                             "ConditionBrowseBranchAbbrev": "BC15",
@@ -31380,7 +31380,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -31446,9 +31446,26 @@
                                           "ConditionBrowseLeafList": {
                                                 "ConditionBrowseLeaf": [
                                                       {
+                                                            "ConditionBrowseLeafId": "M7637",
+                                                            "ConditionBrowseLeafName": "Fibrosis",
+                                                            "ConditionBrowseLeafRelevance": "low"
+                                                      },
+                                                      {
                                                             "ConditionBrowseLeafId": "M14567",
                                                             "ConditionBrowseLeafName": "Sclerosis",
                                                             "ConditionBrowseLeafAsFound": "Sclerosis",
+                                                            "ConditionBrowseLeafRelevance": "high"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseLeafId": "M14564",
+                                                            "ConditionBrowseLeafName": "Scleroderma, Systemic",
+                                                            "ConditionBrowseLeafAsFound": "Systemic Sclerosis",
+                                                            "ConditionBrowseLeafRelevance": "high"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseLeafId": "M24713",
+                                                            "ConditionBrowseLeafName": "Scleroderma, Diffuse",
+                                                            "ConditionBrowseLeafAsFound": "Systemic Sclerosis",
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -31464,26 +31481,9 @@
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M7637",
-                                                            "ConditionBrowseLeafName": "Fibrosis",
-                                                            "ConditionBrowseLeafRelevance": "low"
-                                                      },
-                                                      {
                                                             "ConditionBrowseLeafId": "M13664",
                                                             "ConditionBrowseLeafName": "Pulmonary Fibrosis",
                                                             "ConditionBrowseLeafAsFound": "Pulmonary Fibrosis",
-                                                            "ConditionBrowseLeafRelevance": "high"
-                                                      },
-                                                      {
-                                                            "ConditionBrowseLeafId": "M14564",
-                                                            "ConditionBrowseLeafName": "Scleroderma, Systemic",
-                                                            "ConditionBrowseLeafAsFound": "Systemic Sclerosis",
-                                                            "ConditionBrowseLeafRelevance": "high"
-                                                      },
-                                                      {
-                                                            "ConditionBrowseLeafId": "M24713",
-                                                            "ConditionBrowseLeafName": "Scleroderma, Diffuse",
-                                                            "ConditionBrowseLeafAsFound": "Systemic Sclerosis",
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -31536,16 +31536,16 @@
                                                             "ConditionBrowseBranchName": "All Conditions"
                                                       },
                                                       {
+                                                            "ConditionBrowseBranchAbbrev": "BC17",
+                                                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                                                      },
+                                                      {
                                                             "ConditionBrowseBranchAbbrev": "BC14",
                                                             "ConditionBrowseBranchName": "Heart and Blood Diseases"
                                                       },
                                                       {
                                                             "ConditionBrowseBranchAbbrev": "BC08",
                                                             "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
-                                                      },
-                                                      {
-                                                            "ConditionBrowseBranchAbbrev": "BC17",
-                                                            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
                                                       },
                                                       {
                                                             "ConditionBrowseBranchAbbrev": "Rare",
@@ -31880,7 +31880,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -32293,7 +32293,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -32363,9 +32363,9 @@
                                           "ConditionBrowseLeafList": {
                                                 "ConditionBrowseLeaf": [
                                                       {
-                                                            "ConditionBrowseLeafId": "M8743",
-                                                            "ConditionBrowseLeafName": "Hepatitis",
-                                                            "ConditionBrowseLeafAsFound": "Hepatitis",
+                                                            "ConditionBrowseLeafId": "M8747",
+                                                            "ConditionBrowseLeafName": "Hepatitis B",
+                                                            "ConditionBrowseLeafAsFound": "Hepatitis B",
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -32375,15 +32375,15 @@
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
+                                                            "ConditionBrowseLeafId": "M8743",
+                                                            "ConditionBrowseLeafName": "Hepatitis",
+                                                            "ConditionBrowseLeafAsFound": "Hepatitis",
+                                                            "ConditionBrowseLeafRelevance": "high"
+                                                      },
+                                                      {
                                                             "ConditionBrowseLeafId": "M8744",
                                                             "ConditionBrowseLeafName": "Hepatitis A",
                                                             "ConditionBrowseLeafRelevance": "low"
-                                                      },
-                                                      {
-                                                            "ConditionBrowseLeafId": "M8747",
-                                                            "ConditionBrowseLeafName": "Hepatitis B",
-                                                            "ConditionBrowseLeafAsFound": "Hepatitis B",
-                                                            "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
                                                             "ConditionBrowseLeafId": "M7637",
@@ -32446,6 +32446,10 @@
                                           "ConditionBrowseBranchList": {
                                                 "ConditionBrowseBranch": [
                                                       {
+                                                            "ConditionBrowseBranchAbbrev": "BC01",
+                                                            "ConditionBrowseBranchName": "Infections"
+                                                      },
+                                                      {
                                                             "ConditionBrowseBranchAbbrev": "BC06",
                                                             "ConditionBrowseBranchName": "Digestive System Diseases"
                                                       },
@@ -32456,10 +32460,6 @@
                                                       {
                                                             "ConditionBrowseBranchAbbrev": "BC23",
                                                             "ConditionBrowseBranchName": "Symptoms and General Pathology"
-                                                      },
-                                                      {
-                                                            "ConditionBrowseBranchAbbrev": "BC01",
-                                                            "ConditionBrowseBranchName": "Infections"
                                                       }
                                                 ]
                                           }
@@ -32852,7 +32852,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {

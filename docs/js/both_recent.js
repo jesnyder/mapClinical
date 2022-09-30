@@ -1,5 +1,5 @@
 var  groupboth_recent = {
-    "feature_count": 10,
+    "feature_count": 14,
     "type": [
         "FeatureCollection"
     ],
@@ -13,7 +13,7 @@ var  groupboth_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 211, 253)",
+                "fillColor": "rgb(0, 193, 242)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -38,7 +38,7 @@ var  groupboth_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 211, 253)",
+                "fillColor": "rgb(0, 193, 242)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -63,7 +63,7 @@ var  groupboth_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 211, 253)",
+                "fillColor": "rgb(0, 193, 242)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -88,7 +88,7 @@ var  groupboth_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 211, 253)",
+                "fillColor": "rgb(0, 193, 242)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -113,7 +113,7 @@ var  groupboth_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 211, 253)",
+                "fillColor": "rgb(0, 193, 242)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -138,7 +138,7 @@ var  groupboth_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 211, 253)",
+                "fillColor": "rgb(0, 193, 242)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -163,7 +163,7 @@ var  groupboth_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 211, 253)",
+                "fillColor": "rgb(0, 193, 242)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -188,7 +188,7 @@ var  groupboth_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 211, 253)",
+                "fillColor": "rgb(0, 193, 242)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -213,7 +213,7 @@ var  groupboth_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(20, 211, 253)",
+                "fillColor": "rgb(0, 193, 242)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -232,13 +232,88 @@ var  groupboth_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Randomized Double-Blind Phase 2 Study of Allogeneic HB-adMSCs for the Treatment of Chronic Post-COVID-19 Syndrome",
+                "aff": "Hope Biosciences Stem Cell Research Foundation, Sugar Land, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT05126563",
+                "enrolled": 80,
+                "radius": 18,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(16, 193, 229)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 13982,
+                "paneLabel": "pane13982",
+                "start": "2022-01-06",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.6349463,
+                    29.6196787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trial for Parkinson's Disease Using Allogeneic HB-adMSCs (Early and Moderate PD).",
+                "aff": "Hope Biosciences Stem Cell Research Foundation, Sugar Land, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04995081",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(0, 189, 219)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 13983,
+                "paneLabel": "pane13983",
+                "start": "2021-07-16",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.6349463,
+                    29.6196787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Randomized, Double-Blind, Placebo-Controlled Clinical Trial to Determine the Safety and Efficacy of Hope Biosciences Allogeneic Mesenchymal Stem Cell Therapy (HB-adMSCs) to Provide Protection Against COVID-19",
+                "aff": "Hope Biosciences Stem Cell Research Foundation, Sugar Land, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04348435",
+                "enrolled": 55,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(12, 210, 228)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 13983,
+                "paneLabel": "pane13983",
+                "start": "2020-05-14",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.6349463,
+                    29.6196787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Potential Use of Autologous and Allogeneic Mesenchymal Stem Cells in Patients With Multiple System Atrophy",
                 "aff": "Cipto Mangunkusumo General Hospital, Jakarta Pusat, DKI Jakarta, Indonesia",
                 "url": "https://ClinicalTrials.gov/show/NCT04876326",
                 "enrolled": 15,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 210, 213)",
+                "fillColor": "rgb(16, 190, 254)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13987,
@@ -251,6 +326,31 @@ var  groupboth_recent = {
                 "coordinates": [
                     106.84287153600738,
                     -6.18233995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Study of REcycled CartiLage Auto/Allo IMplantation to Treat and Repair Focal Hip Cartilage Defects",
+                "aff": "Mayo Clinic Rochester, Rochester, Minnesota, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT05553132",
+                "enrolled": 15,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(0, 207, 241)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 13987,
+                "paneLabel": "pane13987",
+                "start": "2022-09-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.466607460917,
+                    44.0225389
                 ]
             }
         }

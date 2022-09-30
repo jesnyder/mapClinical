@@ -22,12 +22,12 @@ var table = new Tabulator("#condition-table", {
     paginationCounter:"rows", //display count of paginated rows in footer
     movableColumns:true,      //allow column order to be changed
     initialSort:[             //set the initial sort order of the data
-        {column:"name", dir:"asc"},
+        {column:"Condition Name", dir:"asc"},
     ],
     columns:[                 //define the table columns
         {title:"Condition Name", field:"Conditions", editor:"input"},
-        {title:"Trial Count", field:"count", width:150, editor:"input"},
-        {title:"Enrolled", field:"enrolled", width:150, editor:"input"},
+        {title:"Trial Count", field:"count", width:150, editor:"input", bottomCalc:"sum", bottomCalcParams:{precision:3}},
+        {title:"Enrolled", field:"enrolled", width:150, editor:"input", bottomCalc:"sum", bottomCalcParams:{precision:3}},
       //  {title:"Task Progress", field:"progress", hozAlign:"left", formatter:"progress", editor:true},
       //  {title:"Gender", field:"gender", width:95, editor:"select", editorParams:{values:["male", "female"]}},
       //  {title:"Rating", field:"rating", formatter:"star", hozAlign:"center", width:100, editor:true},

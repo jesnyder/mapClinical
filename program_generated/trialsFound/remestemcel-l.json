@@ -1,9 +1,9 @@
 {
       "FullStudiesResponse": {
             "APIVrs": "1.01.05",
-            "DataVrs": "2022:09:27 23:32:54.675",
+            "DataVrs": "2022:09:28 23:22:14.126",
             "Expression": "remestemcel-l",
-            "NStudiesAvail": 429059,
+            "NStudiesAvail": 429205,
             "NStudiesFound": 21,
             "MinRank": 1,
             "MaxRank": 50,
@@ -1177,7 +1177,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -1270,7 +1270,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Methylphenidate Hydrochloride",
+                                                            "InterventionBrowseLeafAsFound": "Pregnant patients",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -4679,7 +4679,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionBrowseLeafList": {
@@ -4749,7 +4749,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Methylphenidate Hydrochloride",
+                                                            "InterventionBrowseLeafAsFound": "Pregnant patients",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -5285,7 +5285,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -5335,15 +5335,15 @@
                                           "ConditionBrowseLeafList": {
                                                 "ConditionBrowseLeaf": [
                                                       {
-                                                            "ConditionBrowseLeafId": "M11307",
-                                                            "ConditionBrowseLeafName": "Myocardial Infarction",
-                                                            "ConditionBrowseLeafAsFound": "Myocardial Infarction",
-                                                            "ConditionBrowseLeafRelevance": "high"
-                                                      },
-                                                      {
                                                             "ConditionBrowseLeafId": "M9434",
                                                             "ConditionBrowseLeafName": "Infarction",
                                                             "ConditionBrowseLeafAsFound": "Infarction",
+                                                            "ConditionBrowseLeafRelevance": "high"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseLeafId": "M11307",
+                                                            "ConditionBrowseLeafName": "Myocardial Infarction",
+                                                            "ConditionBrowseLeafAsFound": "Myocardial Infarction",
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -5386,16 +5386,16 @@
                                           "ConditionBrowseBranchList": {
                                                 "ConditionBrowseBranch": [
                                                       {
-                                                            "ConditionBrowseBranchAbbrev": "BC14",
-                                                            "ConditionBrowseBranchName": "Heart and Blood Diseases"
-                                                      },
-                                                      {
                                                             "ConditionBrowseBranchAbbrev": "BC23",
                                                             "ConditionBrowseBranchName": "Symptoms and General Pathology"
                                                       },
                                                       {
                                                             "ConditionBrowseBranchAbbrev": "All",
                                                             "ConditionBrowseBranchName": "All Conditions"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseBranchAbbrev": "BC14",
+                                                            "ConditionBrowseBranchName": "Heart and Blood Diseases"
                                                       },
                                                       {
                                                             "ConditionBrowseBranchAbbrev": "Rare",
@@ -5434,7 +5434,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Methylphenidate Hydrochloride",
+                                                            "InterventionBrowseLeafAsFound": "Pregnant patients",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -5816,7 +5816,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -5865,13 +5865,13 @@
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M17069",
-                                                            "ConditionBrowseLeafName": "Inflammatory Bowel Diseases",
+                                                            "ConditionBrowseLeafId": "M9596",
+                                                            "ConditionBrowseLeafName": "Intestinal Diseases",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M9596",
-                                                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                                                            "ConditionBrowseLeafId": "M17069",
+                                                            "ConditionBrowseLeafName": "Inflammatory Bowel Diseases",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
@@ -5938,7 +5938,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Methylphenidate Hydrochloride",
+                                                            "InterventionBrowseLeafAsFound": "Pregnant patients",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -6199,7 +6199,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -6291,7 +6291,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Methylphenidate Hydrochloride",
+                                                            "InterventionBrowseLeafAsFound": "Pregnant patients",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -6730,7 +6730,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -6871,7 +6871,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Anti-angiogenic",
+                                                            "InterventionBrowseLeafAsFound": "Intracameral",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -7224,7 +7224,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -7316,7 +7316,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Methylphenidate Hydrochloride",
+                                                            "InterventionBrowseLeafAsFound": "Pregnant patients",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -8019,7 +8019,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -8210,7 +8210,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Methylphenidate Hydrochloride",
+                                                            "InterventionBrowseLeafAsFound": "Pregnant patients",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -8433,7 +8433,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -8477,13 +8477,13 @@
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M17069",
-                                                            "ConditionBrowseLeafName": "Inflammatory Bowel Diseases",
+                                                            "ConditionBrowseLeafId": "M9596",
+                                                            "ConditionBrowseLeafName": "Intestinal Diseases",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M9596",
-                                                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                                                            "ConditionBrowseLeafId": "M17069",
+                                                            "ConditionBrowseLeafName": "Inflammatory Bowel Diseases",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
@@ -8546,7 +8546,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Methylphenidate Hydrochloride",
+                                                            "InterventionBrowseLeafAsFound": "Pregnant patients",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -8956,7 +8956,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -9146,7 +9146,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Anti-angiogenic",
+                                                            "InterventionBrowseLeafAsFound": "Intracameral",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -9814,7 +9814,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -9858,13 +9858,13 @@
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M17069",
-                                                            "ConditionBrowseLeafName": "Inflammatory Bowel Diseases",
+                                                            "ConditionBrowseLeafId": "M9596",
+                                                            "ConditionBrowseLeafName": "Intestinal Diseases",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M9596",
-                                                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                                                            "ConditionBrowseLeafId": "M17069",
+                                                            "ConditionBrowseLeafName": "Inflammatory Bowel Diseases",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
@@ -9927,7 +9927,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Anti-angiogenic",
+                                                            "InterventionBrowseLeafAsFound": "Intracameral",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -10087,7 +10087,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -10389,7 +10389,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Methylphenidate Hydrochloride",
+                                                            "InterventionBrowseLeafAsFound": "Pregnant patients",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -10762,7 +10762,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -10912,7 +10912,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Methylphenidate Hydrochloride",
+                                                            "InterventionBrowseLeafAsFound": "Pregnant patients",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -11234,7 +11234,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -11278,13 +11278,13 @@
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M17069",
-                                                            "ConditionBrowseLeafName": "Inflammatory Bowel Diseases",
+                                                            "ConditionBrowseLeafId": "M9596",
+                                                            "ConditionBrowseLeafName": "Intestinal Diseases",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M9596",
-                                                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                                                            "ConditionBrowseLeafId": "M17069",
+                                                            "ConditionBrowseLeafName": "Inflammatory Bowel Diseases",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
@@ -11362,7 +11362,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Anti-angiogenic",
+                                                            "InterventionBrowseLeafAsFound": "Intracameral",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -11704,7 +11704,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -11836,7 +11836,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Methylphenidate Hydrochloride",
+                                                            "InterventionBrowseLeafAsFound": "Pregnant patients",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -12014,7 +12014,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -12106,7 +12106,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Anti-angiogenic",
+                                                            "InterventionBrowseLeafAsFound": "Intracameral",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -12774,7 +12774,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -12818,13 +12818,13 @@
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M17069",
-                                                            "ConditionBrowseLeafName": "Inflammatory Bowel Diseases",
+                                                            "ConditionBrowseLeafId": "M9596",
+                                                            "ConditionBrowseLeafName": "Intestinal Diseases",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M9596",
-                                                            "ConditionBrowseLeafName": "Intestinal Diseases",
+                                                            "ConditionBrowseLeafId": "M17069",
+                                                            "ConditionBrowseLeafName": "Inflammatory Bowel Diseases",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
@@ -12887,7 +12887,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Anti-angiogenic",
+                                                            "InterventionBrowseLeafAsFound": "Intracameral",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -13514,7 +13514,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -13730,7 +13730,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Methylphenidate Hydrochloride",
+                                                            "InterventionBrowseLeafAsFound": "Pregnant patients",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -14184,7 +14184,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -14437,7 +14437,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M11280",
                                                             "InterventionBrowseLeafName": "Mycophenolic Acid",
-                                                            "InterventionBrowseLeafAsFound": "Tube",
+                                                            "InterventionBrowseLeafAsFound": "Results",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -14485,7 +14485,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Methylphenidate Hydrochloride",
+                                                            "InterventionBrowseLeafAsFound": "Pregnant patients",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -14795,7 +14795,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -15082,7 +15082,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M9064",
                                                             "InterventionBrowseLeafName": "Hydrocortisone",
-                                                            "InterventionBrowseLeafAsFound": "Pump",
+                                                            "InterventionBrowseLeafAsFound": "Eligible",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -15103,19 +15103,19 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M6490",
                                                             "InterventionBrowseLeafName": "Diphenhydramine",
-                                                            "InterventionBrowseLeafAsFound": "Anticoagulation",
+                                                            "InterventionBrowseLeafAsFound": "Hodgkin lymphoma",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
                                                             "InterventionBrowseLeafId": "M13420",
                                                             "InterventionBrowseLeafName": "Promethazine",
-                                                            "InterventionBrowseLeafAsFound": "Anticoagulation",
+                                                            "InterventionBrowseLeafAsFound": "Hodgkin lymphoma",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Methylphenidate Hydrochloride",
+                                                            "InterventionBrowseLeafAsFound": "Pregnant patients",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {
@@ -16012,7 +16012,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -16105,7 +16105,7 @@
                                                       {
                                                             "InterventionBrowseLeafId": "M186752",
                                                             "InterventionBrowseLeafName": "Remestemcel-l",
-                                                            "InterventionBrowseLeafAsFound": "Anti-angiogenic",
+                                                            "InterventionBrowseLeafAsFound": "Intracameral",
                                                             "InterventionBrowseLeafRelevance": "high"
                                                       },
                                                       {

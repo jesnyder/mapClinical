@@ -1,9 +1,9 @@
 {
       "FullStudiesResponse": {
             "APIVrs": "1.01.05",
-            "DataVrs": "2022:09:27 23:32:54.675",
+            "DataVrs": "2022:09:28 23:22:14.126",
             "Expression": "allo-MSCs",
-            "NStudiesAvail": 429059,
+            "NStudiesAvail": 429205,
             "NStudiesFound": 1,
             "MinRank": 1,
             "MaxRank": 50,
@@ -5907,7 +5907,7 @@
                               },
                               "DerivedSection": {
                                     "MiscInfoModule": {
-                                          "VersionHolder": "September 28, 2022"
+                                          "VersionHolder": "September 29, 2022"
                                     },
                                     "ConditionBrowseModule": {
                                           "ConditionMeshList": {
@@ -5933,13 +5933,18 @@
                                           "ConditionBrowseLeafList": {
                                                 "ConditionBrowseLeaf": [
                                                       {
-                                                            "ConditionBrowseLeafId": "M10097",
-                                                            "ConditionBrowseLeafName": "Leukemia",
+                                                            "ConditionBrowseLeafId": "M4372",
+                                                            "ConditionBrowseLeafName": "Breast Neoplasms",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M4372",
-                                                            "ConditionBrowseLeafName": "Breast Neoplasms",
+                                                            "ConditionBrowseLeafId": "M14479",
+                                                            "ConditionBrowseLeafName": "Sarcoma",
+                                                            "ConditionBrowseLeafRelevance": "low"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseLeafId": "M10097",
+                                                            "ConditionBrowseLeafName": "Leukemia",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
@@ -5954,23 +5959,18 @@
                                                             "ConditionBrowseLeafRelevance": "high"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "M14479",
-                                                            "ConditionBrowseLeafName": "Sarcoma",
-                                                            "ConditionBrowseLeafRelevance": "low"
-                                                      },
-                                                      {
                                                             "ConditionBrowseLeafId": "M8571",
                                                             "ConditionBrowseLeafName": "Heart Diseases",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "T3543",
-                                                            "ConditionBrowseLeafName": "Lymphosarcoma",
+                                                            "ConditionBrowseLeafId": "T5284",
+                                                            "ConditionBrowseLeafName": "Soft Tissue Sarcoma",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
-                                                            "ConditionBrowseLeafId": "T5284",
-                                                            "ConditionBrowseLeafName": "Soft Tissue Sarcoma",
+                                                            "ConditionBrowseLeafId": "T3543",
+                                                            "ConditionBrowseLeafName": "Lymphosarcoma",
                                                             "ConditionBrowseLeafRelevance": "low"
                                                       },
                                                       {
@@ -5988,12 +5988,12 @@
                                                             "ConditionBrowseBranchName": "Neoplasms"
                                                       },
                                                       {
-                                                            "ConditionBrowseBranchAbbrev": "All",
-                                                            "ConditionBrowseBranchName": "All Conditions"
-                                                      },
-                                                      {
                                                             "ConditionBrowseBranchAbbrev": "BC17",
                                                             "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+                                                      },
+                                                      {
+                                                            "ConditionBrowseBranchAbbrev": "All",
+                                                            "ConditionBrowseBranchName": "All Conditions"
                                                       },
                                                       {
                                                             "ConditionBrowseBranchAbbrev": "BC15",
