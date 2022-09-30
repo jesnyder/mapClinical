@@ -27,29 +27,57 @@ def query_trials():
     time_begin = datetime.datetime.today()
     print('begin query_trials ' + str(time_begin))
 
-
+    """
+    find fields from
+    https://clinicaltrials.gov/api/info/study_fields_list?fmt=XML
+    """
     fields = ["NCTId", "Condition", "BriefTitle", "InterventionName"]
+    fields.append("OfficialTitle")
+    fields.append("LocationFacility")
+    fields.append("LocationCity")
+    fields.append("LocationState")
+    fields.append("LocationCountry")
+    fields.append("StartDate")
+    fields.append("OverallStatus")
+    fields.append('InterventionName')
+    fields.append('InterventionDescription')
+    fields.append('Gender')
+    fields.append('BriefSummary')
+    fields.append('BriefTitle')
 
     for term in list(retrieve_df('search_terms')['terms']):
 
         print(term)
 
-
         ct = ClinicalTrials()
 
         search_expression = term.replace(' ', '+')
-
 
         # Get the NCTId, Condition and Brief title fields from 500 studies related to Coronavirus and Covid, in csv format.
         corona_fields = ct.get_study_fields(
             search_expr=search_expression,
             fields=fields,
-            max_studies=1000,
+            max_studies=100,
             fmt="csv",
         )
 
+
+        df = pd.DataFrame.from_records(corona_fields[1:], columns=corona_fields[0])
+        file_dst = os.path.join(retrieve_path('trials_found'), term + '.csv')
+        df.to_csv(file_dst)
+
+
+        """
+        # open destination file
+        file_dst = os.path.join(retrieve_path('trials_found'), term + '.csv')
+        f = open(file_dst,"w+")
+        for line in corona_fields:
+            print(line)
+            f.write(str(line) + '\n')
+        f.close()
+
         # Get 50 full studies related to Coronavirus and COVID in json format.
-        corona_fields = ct.get_full_studies(search_expr=search_expression)
+        # corona_fields = ct.get_full_studies(search_expr=search_expression)
 
 
         # Get the count of studies related to Coronavirus and COVID.
@@ -64,13 +92,13 @@ def query_trials():
 
 
 
-
         #df = pd.DataFrame.from_records(corona_fields[1:], columns=corona_fields[0])
         file_dst = os.path.join(retrieve_path('trials_found'), term + '.json')
         save_json(corona_fields, file_dst)
 
         #df.to_csv(file_dst)
         #print(df)
+        """
 
 
 def list_trials():

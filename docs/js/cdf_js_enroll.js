@@ -2,7 +2,6 @@ new Chart(document.getElementById("line-chart-cdf_enroll"), {
     "type": "line",
     "data": {
         "labels": [
-            1994,
             1995,
             1996,
             1997,
@@ -36,7 +35,6 @@ new Chart(document.getElementById("line-chart-cdf_enroll"), {
         "datasets": [
             {
                 "data": [
-                    0,
                     9,
                     9,
                     9,
@@ -68,12 +66,11 @@ new Chart(document.getElementById("line-chart-cdf_enroll"), {
                     45698
                 ],
                 "label": "all_enrolled",
-                "borderColor": "rgb(237, 230, 215)",
+                "borderColor": "rgb(232, 224, 222)",
                 "fill": "false"
             },
             {
                 "data": [
-                    0,
                     9,
                     9,
                     9,
@@ -96,21 +93,20 @@ new Chart(document.getElementById("line-chart-cdf_enroll"), {
                     4362,
                     4740,
                     5034,
-                    5675,
-                    6524,
-                    8464,
-                    15108,
-                    17656,
-                    20344,
-                    20443
+                    5691,
+                    6540,
+                    8480,
+                    15268,
+                    17906,
+                    20732,
+                    20831
                 ],
                 "label": "allo_enrolled",
-                "borderColor": "rgb(240, 69, 54)",
+                "borderColor": "rgb(239, 82, 34)",
                 "fill": "false"
             },
             {
                 "data": [
-                    0,
                     0,
                     0,
                     0,
@@ -132,22 +128,21 @@ new Chart(document.getElementById("line-chart-cdf_enroll"), {
                     2033,
                     2230,
                     2691,
-                    3230,
-                    4071,
-                    5061,
-                    5588,
-                    6251,
-                    7017,
-                    7857,
-                    7878
+                    3254,
+                    4095,
+                    5085,
+                    5636,
+                    6299,
+                    7265,
+                    8234,
+                    8255
                 ],
                 "label": "auto_enrolled",
-                "borderColor": "rgb(48, 47, 82)",
+                "borderColor": "rgb(35, 26, 95)",
                 "fill": "false"
             },
             {
                 "data": [
-                    0,
                     0,
                     0,
                     0,
@@ -179,12 +174,11 @@ new Chart(document.getElementById("line-chart-cdf_enroll"), {
                     667
                 ],
                 "label": "both_enrolled",
-                "borderColor": "rgb(0, 183, 250)",
+                "borderColor": "rgb(0, 187, 230)",
                 "fill": "false"
             },
             {
                 "data": [
-                    0,
                     0,
                     0,
                     0,
@@ -206,14 +200,14 @@ new Chart(document.getElementById("line-chart-cdf_enroll"), {
                     3822,
                     4390,
                     4922,
-                    6580,
-                    7252,
-                    8010,
-                    9177,
-                    12852,
-                    15035,
-                    16430,
-                    16710
+                    6556,
+                    7212,
+                    7970,
+                    9113,
+                    12644,
+                    14537,
+                    15665,
+                    15945
                 ],
                 "label": "undeclared_enrolled",
                 "borderColor": "rgb(232, 224, 222)",

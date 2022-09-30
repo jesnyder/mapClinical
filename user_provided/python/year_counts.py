@@ -33,7 +33,7 @@ def year_counts():
     # retrieve groups.csv
     df = retrieve_df('groups')
 
-    years = np.arange(1994, 2024, 1)
+    years = np.arange(1995, 2024, 1)
 
     df_count = pd.DataFrame()
     df_count['year'] = years
@@ -100,7 +100,6 @@ def year_counts():
     js_cdf_enroll()
 
 
-
 def js_cdf_enroll():
     """
 
@@ -119,7 +118,7 @@ def js_cdf_enroll():
         info = {}
         info['data'] = list(df[col])
         info['label'] = col
-        info['borderColor'] = calculate_color(col)
+        info['borderColor'] = calculate_color(str(col + '_pure'))
         info['fill'] ='false'
 
         datas.append(info)
@@ -378,12 +377,22 @@ def count_percent():
 
         if sum == 0: sum = 1
 
-        df_temp['allo'] = [allo/sum]
-        df_temp['auto'] = [auto/sum]
-        df_temp['both'] = [both/sum]
+        df_temp['allo'] = [round(100*float(allo/sum),1)]
+        df_temp['auto'] = [round(100*float(auto/sum),1)]
+        df_temp['both'] = [round(100*float(both/sum),1)]
 
         df_per = df_per.append(df_temp)
+
         df_per.to_csv(retrieve_path('count_percent'))
+
+    df = df_per[df_per['year'] > 2003]
+    print(df)
+    assert min(list(df['year'])) > 2003
+
+    xtitle = 'Start Year of the Trial'
+    ytitle = '% of Trials Beginning Each Year'
+    axes_titles = [xtitle, ytitle]
+    write_stacked_bar_js(df, 'bar_count_js', axes_titles)
 
 
 def enrolled_percent():
@@ -412,9 +421,110 @@ def enrolled_percent():
 
         if sum == 0: sum = 1
 
-        df_temp['allo'] = [allo/sum]
-        df_temp['auto'] = [auto/sum]
-        df_temp['both'] = [both/sum]
+        df_temp['allo'] = [round(100*float(allo/sum),1)]
+        df_temp['auto'] = [round(100*float(auto/sum),1)]
+        df_temp['both'] = [round(100*float(both/sum),1)]
 
         df_per = df_per.append(df_temp)
         df_per.to_csv(retrieve_path('enrolled_percent'))
+
+
+    df = df_per[df_per['year'] > 2003]
+    print(df)
+    assert min(list(df['year'])) > 2003
+
+    xtitle = 'Start Year of the Trial'
+    ytitle = '% Enrolled in a Clinical Trial Each Year'
+    axes_titles = [xtitle, ytitle]
+    write_stacked_bar_js(df, 'bar_enrolled_js', axes_titles)
+
+
+def write_stacked_bar_js(df, file_dst, axes_titles):
+    """
+    save js
+    """
+
+    chart_name = file_dst
+
+    years = list(df['year'])
+
+    datasets = []
+    for col in df.columns:
+
+        print(col)
+
+        if col == 'year': continue
+
+        backgroundColors = []
+        for i in range(len(years)):
+            backgroundColors.append(calculate_color(col))
+
+        dataset = {}
+        dataset['label'] = col
+        dataset['data'] = list(df[col])
+        dataset['backgroundColor'] = backgroundColors
+        dataset['borderColor'] = backgroundColors
+        dataset['borderWidth'] = 1
+        datasets.append(dataset)
+
+        js_dataset = {}
+        js_dataset['labels'] = list(df['year'])
+        js_dataset['datasets'] = datasets
+
+    print(js_dataset)
+
+    config = {}
+    config['type'] = 'bar'
+    config['data'] = js_dataset
+
+    options = {}
+    plugins = {}
+    title = {}
+    title['display'] = 'true'
+    title['text'] = 'Chart.js Bar Chart - Stacked'
+    plugins['title'] = title
+    options['plugins'] = plugins
+    options['responsive'] = 'true'
+
+    scales = {}
+    true_var = True
+    xtitle = 'Start Year of the Trial'
+    xtitle = axes_titles[0]
+    scales['xAxes'] = [{'stacked': true_var, 'barPercentage': 1.26, 'scaleLabel': {'display': true_var, 'labelString': xtitle}}]
+    ytitle = '% of Trials'
+    ytitle = axes_titles[1]
+    scales['yAxes'] = [{'stacked': true_var, 'barPercentage': 1.26, 'scaleLabel': {'display': true_var, 'labelString': ytitle}, 'ticks' : {'max' : 100,'min' : 0},}]
+    options['scales'] = scales
+
+    config['options'] = options
+
+
+    # save the group as js
+
+    dst_json = os.path.join(retrieve_path(file_dst))
+    print('dst_json = ' + str(dst_json))
+    with open(dst_json, "w") as f:
+
+        descriptor_line = 'const data_' + str(chart_name) + ' = '
+        f.write(descriptor_line)
+        json.dump(js_dataset, f, indent = 4)
+        f.write(';')
+
+        descriptor_line = 'const config_' + str(chart_name) + ' = '
+        f.write('\n' + '\n')
+        f.write(descriptor_line)
+        json.dump(config, f, indent = 4)
+        f.write(';')
+
+        f.write('\n' + '\n')
+        descriptor_line = 'const ctx_' + str(chart_name) + ' = document.getElementById("' + str(chart_name) + '").getContext(\'2d\');'
+        f.write(descriptor_line)
+
+        f.write('\n' + '\n')
+        descriptor_line = 'const myChart_' + str(chart_name) + ' = new Chart(ctx_' + str(chart_name) + ' ,'
+        f.write(descriptor_line)
+        descriptor_line = ' config_' + str(chart_name) + '  );'
+        f.write(descriptor_line)
+        f.write('\n' + '\n')
+
+        f.close()

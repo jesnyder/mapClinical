@@ -2,7 +2,6 @@ new Chart(document.getElementById("line-chart-enroll"), {
     "type": "line",
     "data": {
         "labels": [
-            1994,
             1995,
             1996,
             1997,
@@ -36,7 +35,6 @@ new Chart(document.getElementById("line-chart-enroll"), {
         "datasets": [
             {
                 "data": [
-                    0,
                     9,
                     0,
                     0,
@@ -68,12 +66,11 @@ new Chart(document.getElementById("line-chart-enroll"), {
                     400
                 ],
                 "label": "all_enrolled",
-                "borderColor": "rgb(234, 246, 248)",
+                "borderColor": "rgb(223, 220, 215)",
                 "fill": "false"
             },
             {
                 "data": [
-                    0,
                     9,
                     0,
                     0,
@@ -96,21 +93,20 @@ new Chart(document.getElementById("line-chart-enroll"), {
                     1149,
                     378,
                     294,
-                    641,
+                    657,
                     849,
                     1940,
-                    6644,
-                    2548,
-                    2688,
+                    6788,
+                    2638,
+                    2826,
                     99
                 ],
                 "label": "allo_enrolled",
-                "borderColor": "rgb(247, 71, 56)",
+                "borderColor": "rgb(253, 89, 21)",
                 "fill": "false"
             },
             {
                 "data": [
-                    0,
                     0,
                     0,
                     0,
@@ -132,22 +128,21 @@ new Chart(document.getElementById("line-chart-enroll"), {
                     250,
                     197,
                     461,
-                    539,
+                    563,
                     841,
                     990,
-                    527,
+                    551,
                     663,
-                    766,
-                    840,
+                    966,
+                    969,
                     21
                 ],
                 "label": "auto_enrolled",
-                "borderColor": "rgb(37, 8, 97)",
+                "borderColor": "rgb(40, 33, 111)",
                 "fill": "false"
             },
             {
                 "data": [
-                    0,
                     0,
                     0,
                     0,
@@ -179,12 +174,11 @@ new Chart(document.getElementById("line-chart-enroll"), {
                     0
                 ],
                 "label": "both_enrolled",
-                "borderColor": "rgb(23, 193, 226)",
+                "borderColor": "rgb(13, 200, 218)",
                 "fill": "false"
             },
             {
                 "data": [
-                    0,
                     0,
                     0,
                     0,
@@ -206,13 +200,13 @@ new Chart(document.getElementById("line-chart-enroll"), {
                     739,
                     568,
                     532,
-                    1658,
-                    672,
+                    1634,
+                    656,
                     758,
-                    1167,
-                    3675,
-                    2183,
-                    1395,
+                    1143,
+                    3531,
+                    1893,
+                    1128,
                     280
                 ],
                 "label": "undeclared_enrolled",

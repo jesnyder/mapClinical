@@ -122,23 +122,19 @@ def calculate_color(col):
     elif 'undec' in col: color = retrieve_ref('colorGray')
     else: color = retrieve_ref('colorGray')
 
-    inc = (random.random()*10 - 5)/50
-    if 'undec' in col: inc = 0
-    r = color[0] + inc
+
+    r = color[0] + get_random_increment(col)
     if r > 1: r = 1
     if r < 0: r = 0
     r = int(255*r)
 
-    inc = (random.random()*10 - 5)/50
-    if 'undec' in col: inc = 0
-    g = color[1] + inc
+    g = color[1] + get_random_increment(col)
     if g > 1: g = 1
     if g < 0: g = 0
     g = int(255*g)
 
-    inc = (random.random()*10 - 5)/50
-    if 'undec' in col: inc = 0
-    b = color[2] + inc
+
+    b = color[2] + get_random_increment(col)
     if b > 1: b = 1
     if b < 0: b = 0
     b = int(255*b)
@@ -146,6 +142,24 @@ def calculate_color(col):
     color = 'rgb('  + str(r) + ', ' + str(g) + ', ' + str(b) + ')'
 
     return(color)
+
+
+def get_random_increment(col):
+    """
+    return random increment
+    """
+
+    skip_terms = ['undec', '_pure']
+
+    for term in skip_terms:
+
+        if term in col:
+            return(0)
+
+    inc = (random.random()*10 - 5)/50
+    return(inc)
+
+
 
 
 def write_prop(trial, loc, fillColor, col):

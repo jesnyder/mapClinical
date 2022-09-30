@@ -62,7 +62,7 @@ var tableProducts =
 
     {
       'type': 'allogeneic EV',
-      'name': 'ExoFlo',
+      'name': "ExoFlo / DB-001",
       'maker': 'Direct Biologics',
       'allo': 'true',
       'source': 'BM',
@@ -328,7 +328,7 @@ var tableProducts =
         'desc': 'autologous mesenchymal stromal cells',
         'url': 'https://clinicaltrials.gov/ct2/show/NCT04290182',
         'CA_approved': 'false',
-        'condition': 'Vocal Fold; Scar',
+        'condition': 'Vocal Fold Scar',
     } ,
 
     {
@@ -466,7 +466,7 @@ var tableProducts =
         'desc': "MSCs are derived from the vertebral bodies of organ donors and are phenotypically and functionally equivalent to MSCs obtained from aspirated BM.",
         'url': 'https://ossiuminventa.com/msc-cgmp/',
         'CA_approved': 'false',
-        'condition': "Fistula",
+        'condition': "Crohn's Perianal Fistulas",
     } ,
 
     {
@@ -493,5 +493,135 @@ var tableProducts =
         'CA_approved': 'false',
         'condition': "Various Chronic Diseases",
     } ,
+
+
+
+        {
+            'type': '',
+            'name': 'AdMSC',
+            'maker': "Nature Cell Co. Ltd.",
+            'allo': 'false',
+            'source': 'AD',
+            'desc': "",
+            'url': 'https://clinicaltrials.gov/ct2/show/NCT03117738',
+            'CA_approved': 'false',
+            'condition': "Alzheimer Disease",
+        } ,
+
+
+        {
+            'type': "iMSC",
+            'name': "CYP-001",
+            'maker': "Cynata Therapeutics Limited ",
+            'allo': 'true',
+            'source': "iPSC",
+            'desc': "The active agent in CYP-001 is Cymerus mesenchymal stem cells (MSCs), which are derived through a proprietary induced pluripotent stem cell (iPSC) and mesenchymoangioblast (MCA)-derived production process.",
+            'url': 'https://bioinformant.com/cynatas-cyp-001-safety-efficacy-endpoints/',
+            'CA_approved': 'false',
+            'condition': "Acute Respiratory Distress Syndrome",
+        } ,
+
+        {
+            'type': "iMSC",
+            'name': "CYP-006TK",
+            'maker': "Cynata Therapeutics Limited ",
+            'allo': 'true',
+            'source': "iPSC",
+            'desc': "CYP-006TK is allogenic mesenchymoangioblast-derived mesenchymal stem cells (MCA-derived MSCs) or Cymerus™ MSCs, seeded onto a heptylamine plasma polymer-coated silicone dressing",
+            'url': 'https://clinicaltrials.gov/ct2/show/NCT05165628',
+            'CA_approved': 'false',
+            'condition': "Diabetic Foot Ulcers",
+        } ,
+
+
+        {
+            'type': "MSC",
+            'name': "XSTEM-OA",
+            'maker': "Xindu Pty Ltd",
+            'allo': 'true',
+            'source': "AD",
+            'desc': "XSTEM-OA is an allogeneic, adipose tissue-derived, integrin alpha10beta1-selected and expanded mesenchymal stem cell (MSC) product for the treatment of osteoarthritis.",
+            'url': 'https://clinicaltrials.gov/ct2/show/NCT05344157',
+            'CA_approved': 'false',
+            'condition': "Osteoarthritis",
+        } ,
+
+
+        {
+            'type': "MSC",
+            'name': "PLX-PAD",
+            'maker': "Pluristem Ltd. ",
+            'allo': 'true',
+            'source': "PL",
+            'desc': "PLX-PAD - allogeneic ex-vivo expanded placental mesenchymal-like adherent stromal cells",
+            'url': 'https://clinicaltrials.gov/ct2/show/NCT04614025',
+            'CA_approved': 'false',
+            'condition': "Acute Respiratory Distress Syndrome",
+        } ,
+
+
+        {
+            'type': "EV",
+            'name': "SF-MSC-EX",
+            'maker': "Eskisehir Osmangazi University",
+            'allo': 'false',
+            'source': " ",
+            'desc': "autologous treatment protocol to repair damaged cartilage tissue",
+            'url': 'https://clinicaltrials.gov/ct2/show/NCT05261360',
+            'CA_approved': 'false',
+            'condition': "Injury, Meniscus",
+        } ,
+
+
+        {
+            'type': "EV",
+            'name': "SF-MSC",
+            'maker': "Eskisehir Osmangazi University",
+            'allo': 'false',
+            'source': " ",
+            'desc': "autologous treatment protocol to repair damaged cartilage tissue",
+            'url': 'https://clinicaltrials.gov/ct2/show/NCT05261360',
+            'CA_approved': 'false',
+            'condition': "Injury, Meniscus",
+        } ,
+
+        {
+            'type': "MSC",
+            'name': "IMS001",
+            'maker': "ImStem Biotechnology",
+            'allo': 'true',
+            'source': "EM",
+            'desc': "IMS001 is a human embryonic cell derived (hESC) mesenchymal stem cell (MSC).",
+            'url': "https://clinicaltrials.gov/ct2/show/NCT04956744",
+            'CA_approved': 'false',
+            'condition': "Multiple Sclerosis",
+        } ,
+
+
+        {
+            'type': "MSC",
+            'name': "BRTX-100",
+            'maker': "BioRestorative Therapiesy",
+            'allo': 'false',
+            'source': " ",
+            'desc': "Hypoxic cultured mesenchymal stem cells (MSCs) from autologous bone marrow with autologous platelet lysate.",
+            'url': "https://clinicaltrials.gov/ct2/show/NCT04042844",
+            'CA_approved': 'false',
+            'condition': "Lumbar Disc Disease",
+        } ,
+
+        {
+            'type': "MSC",
+            'name': "Cellgram-LC ",
+            'maker': "Pharmicell Co., Ltd.",
+            'allo': 'false',
+            'source': "BM",
+            'desc': "Within 1 month after extracting bone marrow, directly inject 7X10^7 autologous bone marrow-derived mesenchymal stem cells within liver through the hepatic artery.",
+            'url': "https://clinicaltrials.gov/ct2/show/NCT04689152",
+            'CA_approved': 'false',
+            'condition': "Alcoholic Cirrhosis",
+        } ,
+
+
 
   ]

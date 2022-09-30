@@ -1,5 +1,5 @@
 var  groupauto_recent = {
-    "feature_count": 52,
+    "feature_count": 78,
     "type": [
         "FeatureCollection"
     ],
@@ -13,7 +13,7 @@ var  groupauto_recent = {
                 "enrolled": 300,
                 "radius": 27,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(50, 25, 83)",
+                "fillColor": "rgb(36, 51, 86)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11973,
@@ -38,7 +38,7 @@ var  groupauto_recent = {
                 "enrolled": 252,
                 "radius": 25,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(18, 7, 90)",
+                "fillColor": "rgb(21, 49, 80)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11975,
@@ -57,13 +57,288 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Clinical Trial to Evaluate the Efficacy and Safety of Cellgram-LC Administration in Patients With Alcoholic Cirrhosis",
+                "aff": "Soonchunhyang University Hospital, Bucheon, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04689152",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(27, 39, 108)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11976,
+                "paneLabel": "pane11976",
+                "start": "2021-03-02",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.132971,
+                    55.8215537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trial to Evaluate the Efficacy and Safety of Cellgram-LC Administration in Patients With Alcoholic Cirrhosis",
+                "aff": "Soonchunhyang University Hospital, Cheonan, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04689152",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(27, 39, 108)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11976,
+                "paneLabel": "pane11976",
+                "start": "2021-03-02",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.132971,
+                    55.8215537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trial to Evaluate the Efficacy and Safety of Cellgram-LC Administration in Patients With Alcoholic Cirrhosis",
+                "aff": "Gangwon National University Hospital, ChunCheon, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04689152",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(27, 39, 108)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11976,
+                "paneLabel": "pane11976",
+                "start": "2021-03-02",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.132971,
+                    55.8215537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trial to Evaluate the Efficacy and Safety of Cellgram-LC Administration in Patients With Alcoholic Cirrhosis",
+                "aff": "Hallym Univ. Medical Center, ChunCheon, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04689152",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(27, 39, 108)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11976,
+                "paneLabel": "pane11976",
+                "start": "2021-03-02",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.132971,
+                    55.8215537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trial to Evaluate the Efficacy and Safety of Cellgram-LC Administration in Patients With Alcoholic Cirrhosis",
+                "aff": "Gangneung Asan Hospital, Gangneung-si, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04689152",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(27, 39, 108)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11976,
+                "paneLabel": "pane11976",
+                "start": "2021-03-02",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.95260349662226,
+                    37.75403540000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trial to Evaluate the Efficacy and Safety of Cellgram-LC Administration in Patients With Alcoholic Cirrhosis",
+                "aff": "Eunpyeong St. Mary's Hospital, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04689152",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(27, 39, 108)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11976,
+                "paneLabel": "pane11976",
+                "start": "2021-03-02",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trial to Evaluate the Efficacy and Safety of Cellgram-LC Administration in Patients With Alcoholic Cirrhosis",
+                "aff": "Korea University Anam Hospital, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04689152",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(27, 39, 108)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11976,
+                "paneLabel": "pane11976",
+                "start": "2021-03-02",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trial to Evaluate the Efficacy and Safety of Cellgram-LC Administration in Patients With Alcoholic Cirrhosis",
+                "aff": "Seoul National University Hospital, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04689152",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(27, 39, 108)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11976,
+                "paneLabel": "pane11976",
+                "start": "2021-03-02",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trial to Evaluate the Efficacy and Safety of Cellgram-LC Administration in Patients With Alcoholic Cirrhosis",
+                "aff": "Soonchunhyang University Hospital, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04689152",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(27, 39, 108)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11976,
+                "paneLabel": "pane11976",
+                "start": "2021-03-02",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trial to Evaluate the Efficacy and Safety of Cellgram-LC Administration in Patients With Alcoholic Cirrhosis",
+                "aff": "Wonju Severance Christian Hospital, Wonju, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04689152",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(27, 39, 108)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11976,
+                "paneLabel": "pane11976",
+                "start": "2021-03-02",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.132971,
+                    55.8215537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trial to Evaluate the Efficacy and Safety of Cellgram-LC Administration in Patients With Alcoholic Cirrhosis",
+                "aff": "Yongin Severance Hospital, Yongin, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04689152",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(27, 39, 108)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11976,
+                "paneLabel": "pane11976",
+                "start": "2021-03-02",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.132971,
+                    55.8215537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Efficacy in Alveolar Bone Regeneration With Autologous MSCs and Biomaterial in Comparison to Autologous Bone Grafting",
                 "aff": "Syddansk Universitet SDU (University Hospital of Southern Denmark), Odense, Denmark",
                 "url": "https://ClinicalTrials.gov/show/NCT04297813",
                 "enrolled": 150,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(32, 29, 79)",
+                "fillColor": "rgb(31, 34, 100)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11978,
@@ -88,7 +363,7 @@ var  groupauto_recent = {
                 "enrolled": 150,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(32, 29, 79)",
+                "fillColor": "rgb(31, 34, 100)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11978,
@@ -113,7 +388,7 @@ var  groupauto_recent = {
                 "enrolled": 150,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(32, 29, 79)",
+                "fillColor": "rgb(31, 34, 100)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11978,
@@ -138,7 +413,7 @@ var  groupauto_recent = {
                 "enrolled": 150,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(32, 29, 79)",
+                "fillColor": "rgb(31, 34, 100)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11978,
@@ -163,7 +438,7 @@ var  groupauto_recent = {
                 "enrolled": 150,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(32, 29, 79)",
+                "fillColor": "rgb(31, 34, 100)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11978,
@@ -188,7 +463,7 @@ var  groupauto_recent = {
                 "enrolled": 150,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(32, 29, 79)",
+                "fillColor": "rgb(31, 34, 100)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11978,
@@ -213,7 +488,7 @@ var  groupauto_recent = {
                 "enrolled": 140,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(18, 47, 116)",
+                "fillColor": "rgb(46, 30, 91)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -238,7 +513,7 @@ var  groupauto_recent = {
                 "enrolled": 140,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(18, 47, 116)",
+                "fillColor": "rgb(46, 30, 91)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -263,7 +538,7 @@ var  groupauto_recent = {
                 "enrolled": 140,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(18, 47, 116)",
+                "fillColor": "rgb(46, 30, 91)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -288,7 +563,7 @@ var  groupauto_recent = {
                 "enrolled": 140,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(18, 47, 116)",
+                "fillColor": "rgb(46, 30, 91)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -313,7 +588,7 @@ var  groupauto_recent = {
                 "enrolled": 140,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(18, 47, 116)",
+                "fillColor": "rgb(46, 30, 91)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -338,7 +613,7 @@ var  groupauto_recent = {
                 "enrolled": 140,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(18, 47, 116)",
+                "fillColor": "rgb(46, 30, 91)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -363,7 +638,7 @@ var  groupauto_recent = {
                 "enrolled": 140,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(18, 47, 116)",
+                "fillColor": "rgb(46, 30, 91)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -388,7 +663,7 @@ var  groupauto_recent = {
                 "enrolled": 130,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(57, 22, 117)",
+                "fillColor": "rgb(48, 12, 84)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -413,7 +688,7 @@ var  groupauto_recent = {
                 "enrolled": 129,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(10, 17, 90)",
+                "fillColor": "rgb(53, 29, 100)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -438,7 +713,7 @@ var  groupauto_recent = {
                 "enrolled": 129,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(10, 17, 90)",
+                "fillColor": "rgb(53, 29, 100)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -463,7 +738,7 @@ var  groupauto_recent = {
                 "enrolled": 129,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(10, 17, 90)",
+                "fillColor": "rgb(53, 29, 100)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -488,7 +763,7 @@ var  groupauto_recent = {
                 "enrolled": 129,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(10, 17, 90)",
+                "fillColor": "rgb(53, 29, 100)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -507,13 +782,363 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "A Single Dose of BRTX 100 for Patients With Chronic Lumbar Disc Disease (cLDD)",
+                "aff": "Biosolutions Clinical Research Center, La Mesa, California, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04042844",
+                "enrolled": 99,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(40, 40, 104)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11981,
+                "paneLabel": "pane11981",
+                "start": "2022-06-30",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0230839,
+                    32.7678288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Single Dose of BRTX 100 for Patients With Chronic Lumbar Disc Disease (cLDD)",
+                "aff": "010 : Triwest Research Associates : USA : Levy, Louis J. Levy, Louis J. Principal Investigator llevy@triwestresearch.com 619-589-6888 San Diego, CA, 92108, United States, San Diego, California, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04042844",
+                "enrolled": 99,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(40, 40, 104)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11981,
+                "paneLabel": "pane11981",
+                "start": "2022-06-30",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1652623585792,
+                    32.715053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Single Dose of BRTX 100 for Patients With Chronic Lumbar Disc Disease (cLDD)",
+                "aff": "Denver Back Pain Specialists, LLC, Greenwood Village, Colorado, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04042844",
+                "enrolled": 99,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(40, 40, 104)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11981,
+                "paneLabel": "pane11981",
+                "start": "2022-06-30",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.8973913,
+                    39.6140214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Single Dose of BRTX 100 for Patients With Chronic Lumbar Disc Disease (cLDD)",
+                "aff": "Georgetown Washington University, Washington, District of Columbia, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04042844",
+                "enrolled": 99,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(40, 40, 104)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11981,
+                "paneLabel": "pane11981",
+                "start": "2022-06-30",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0365427,
+                    38.8950368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Single Dose of BRTX 100 for Patients With Chronic Lumbar Disc Disease (cLDD)",
+                "aff": "Pain Relief Centers, Saint Petersburg, Florida, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04042844",
+                "enrolled": 99,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(40, 40, 104)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11981,
+                "paneLabel": "pane11981",
+                "start": "2022-06-30",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.6695085,
+                    27.7703796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Single Dose of BRTX 100 for Patients With Chronic Lumbar Disc Disease (cLDD)",
+                "aff": "Tampa Pain Relief Center, Tampa, Florida, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04042844",
+                "enrolled": 99,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(40, 40, 104)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11981,
+                "paneLabel": "pane11981",
+                "start": "2022-06-30",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.458444,
+                    27.9477595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Single Dose of BRTX 100 for Patients With Chronic Lumbar Disc Disease (cLDD)",
+                "aff": "Long Island Spine Rehabilitation Medicine, East Meadow, New York, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04042844",
+                "enrolled": 99,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(40, 40, 104)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11981,
+                "paneLabel": "pane11981",
+                "start": "2022-06-30",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5595107,
+                    40.7142296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Single Dose of BRTX 100 for Patients With Chronic Lumbar Disc Disease (cLDD)",
+                "aff": "Mount Sinai, New York, New York, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04042844",
+                "enrolled": 99,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(40, 40, 104)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11981,
+                "paneLabel": "pane11981",
+                "start": "2022-06-30",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.0295495,
+                    40.9470432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Single Dose of BRTX 100 for Patients With Chronic Lumbar Disc Disease (cLDD)",
+                "aff": "The Center of Clinical Research, LLC, Winston-Salem, North Carolina, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04042844",
+                "enrolled": 99,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(40, 40, 104)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11981,
+                "paneLabel": "pane11981",
+                "start": "2022-06-30",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.238243,
+                    36.1111391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Single Dose of BRTX 100 for Patients With Chronic Lumbar Disc Disease (cLDD)",
+                "aff": "Cleveland Clinic, Cleveland, Ohio, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04042844",
+                "enrolled": 99,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(40, 40, 104)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11981,
+                "paneLabel": "pane11981",
+                "start": "2022-06-30",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.61981946090904,
+                    41.50217195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Single Dose of BRTX 100 for Patients With Chronic Lumbar Disc Disease (cLDD)",
+                "aff": "Coastal Carolina Research Center, North Charleston, South Carolina, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04042844",
+                "enrolled": 99,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(40, 40, 104)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11981,
+                "paneLabel": "pane11981",
+                "start": "2022-06-30",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9748103,
+                    32.8546197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Single Dose of BRTX 100 for Patients With Chronic Lumbar Disc Disease (cLDD)",
+                "aff": "Premier Pain Centers, Richardson, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04042844",
+                "enrolled": 99,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(40, 40, 104)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11981,
+                "paneLabel": "pane11981",
+                "start": "2022-06-30",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7297206,
+                    32.9481789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Single Dose of BRTX 100 for Patients With Chronic Lumbar Disc Disease (cLDD)",
+                "aff": "Precision Spine Care, Tyler, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04042844",
+                "enrolled": 99,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(40, 40, 104)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11981,
+                "paneLabel": "pane11981",
+                "start": "2022-06-30",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3010624,
+                    32.3512601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Single Dose of BRTX 100 for Patients With Chronic Lumbar Disc Disease (cLDD)",
+                "aff": "Virginia iSpine Physicians, Richmond, Virginia, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04042844",
+                "enrolled": 99,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(40, 40, 104)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11981,
+                "paneLabel": "pane11981",
+                "start": "2022-06-30",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.43428,
+                    37.5385087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Randomized Double-Blind Placebo-Controlled Adaptive Design Trial Of Intrathecally Administered Autologous Mesenchymal Stem Cells In Multiple System Atrophy",
                 "aff": "Mayo Clinic, Rochester, Minnesota, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT05167721",
                 "enrolled": 76,
                 "radius": 18,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(29, 22, 95)",
+                "fillColor": "rgb(38, 41, 109)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11982,
@@ -538,7 +1163,7 @@ var  groupauto_recent = {
                 "enrolled": 60,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(21, 15, 110)",
+                "fillColor": "rgb(56, 5, 119)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -563,7 +1188,7 @@ var  groupauto_recent = {
                 "enrolled": 56,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(27, 23, 117)",
+                "fillColor": "rgb(35, 25, 103)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -588,7 +1213,7 @@ var  groupauto_recent = {
                 "enrolled": 54,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(13, 24, 79)",
+                "fillColor": "rgb(39, 32, 102)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -613,7 +1238,7 @@ var  groupauto_recent = {
                 "enrolled": 54,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(13, 24, 79)",
+                "fillColor": "rgb(39, 32, 102)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -638,7 +1263,7 @@ var  groupauto_recent = {
                 "enrolled": 54,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(13, 24, 79)",
+                "fillColor": "rgb(39, 32, 102)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -663,7 +1288,7 @@ var  groupauto_recent = {
                 "enrolled": 52,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(21, 7, 90)",
+                "fillColor": "rgb(57, 20, 91)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -688,7 +1313,7 @@ var  groupauto_recent = {
                 "enrolled": 52,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(60, 39, 120)",
+                "fillColor": "rgb(15, 15, 87)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -713,7 +1338,7 @@ var  groupauto_recent = {
                 "enrolled": 43,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(15, 41, 109)",
+                "fillColor": "rgb(25, 48, 103)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11984,
@@ -738,7 +1363,7 @@ var  groupauto_recent = {
                 "enrolled": 43,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(15, 41, 109)",
+                "fillColor": "rgb(25, 48, 103)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11984,
@@ -763,7 +1388,7 @@ var  groupauto_recent = {
                 "enrolled": 43,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(15, 41, 109)",
+                "fillColor": "rgb(25, 48, 103)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11984,
@@ -788,7 +1413,7 @@ var  groupauto_recent = {
                 "enrolled": 42,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(29, 47, 115)",
+                "fillColor": "rgb(15, 17, 71)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11984,
@@ -813,7 +1438,7 @@ var  groupauto_recent = {
                 "enrolled": 40,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(12, 39, 115)",
+                "fillColor": "rgb(35, 51, 91)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11984,
@@ -838,7 +1463,7 @@ var  groupauto_recent = {
                 "enrolled": 30,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(41, 18, 105)",
+                "fillColor": "rgb(29, 14, 86)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11985,
@@ -863,7 +1488,7 @@ var  groupauto_recent = {
                 "enrolled": 30,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(28, 32, 109)",
+                "fillColor": "rgb(14, 11, 83)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11985,
@@ -882,13 +1507,38 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Clinical Efficacy of Exosome in Degenerative Meniscal Injury",
+                "aff": "Eskisehir Osmangazi University, Eskisehir, Turkey",
+                "url": "https://ClinicalTrials.gov/show/NCT05261360",
+                "enrolled": 30,
+                "radius": 15,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(50, 48, 82)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11985,
+                "paneLabel": "pane11985",
+                "start": "2022-03-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.476135117423823,
+                    39.7485483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Randomized, Double-Blind Clinical Trial for Parkinson's Disease (Early and Moderate)",
                 "aff": "Hope Biosciences Stem Cell Research Foundation, Sugar Land, Texas, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT04928287",
                 "enrolled": 24,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(33, 28, 118)",
+                "fillColor": "rgb(31, 31, 95)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11986,
@@ -913,7 +1563,7 @@ var  groupauto_recent = {
                 "enrolled": 24,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(16, 38, 108)",
+                "fillColor": "rgb(23, 22, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11986,
@@ -938,7 +1588,7 @@ var  groupauto_recent = {
                 "enrolled": 24,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(45, 47, 76)",
+                "fillColor": "rgb(26, 28, 74)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11986,
@@ -963,7 +1613,7 @@ var  groupauto_recent = {
                 "enrolled": 21,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(43, 8, 78)",
+                "fillColor": "rgb(38, 34, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11986,
@@ -988,7 +1638,7 @@ var  groupauto_recent = {
                 "enrolled": 20,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(50, 29, 82)",
+                "fillColor": "rgb(15, 23, 105)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11986,
@@ -1013,7 +1663,7 @@ var  groupauto_recent = {
                 "enrolled": 20,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(27, 11, 103)",
+                "fillColor": "rgb(21, 31, 113)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11986,
@@ -1038,7 +1688,7 @@ var  groupauto_recent = {
                 "enrolled": 18,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(35, 7, 120)",
+                "fillColor": "rgb(36, 4, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11986,
@@ -1063,7 +1713,7 @@ var  groupauto_recent = {
                 "enrolled": 18,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(35, 7, 120)",
+                "fillColor": "rgb(36, 4, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11986,
@@ -1088,7 +1738,7 @@ var  groupauto_recent = {
                 "enrolled": 18,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(35, 7, 120)",
+                "fillColor": "rgb(36, 4, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11986,
@@ -1113,7 +1763,7 @@ var  groupauto_recent = {
                 "enrolled": 18,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(35, 7, 120)",
+                "fillColor": "rgb(36, 4, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11986,
@@ -1138,7 +1788,7 @@ var  groupauto_recent = {
                 "enrolled": 15,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(16, 5, 99)",
+                "fillColor": "rgb(55, 1, 87)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11987,
@@ -1163,7 +1813,7 @@ var  groupauto_recent = {
                 "enrolled": 15,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(9, 34, 85)",
+                "fillColor": "rgb(56, 27, 111)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11987,
@@ -1188,7 +1838,7 @@ var  groupauto_recent = {
                 "enrolled": 12,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(26, 2, 116)",
+                "fillColor": "rgb(22, 51, 92)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11987,
@@ -1213,7 +1863,7 @@ var  groupauto_recent = {
                 "enrolled": 10,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(49, 28, 70)",
+                "fillColor": "rgb(26, 51, 116)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11987,
@@ -1238,7 +1888,7 @@ var  groupauto_recent = {
                 "enrolled": 10,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(45, 34, 87)",
+                "fillColor": "rgb(35, 21, 120)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11987,
@@ -1263,7 +1913,7 @@ var  groupauto_recent = {
                 "enrolled": 10,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(10, 16, 117)",
+                "fillColor": "rgb(15, 35, 101)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11987,
@@ -1288,7 +1938,7 @@ var  groupauto_recent = {
                 "enrolled": 4,
                 "radius": 12,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(60, 36, 112)",
+                "fillColor": "rgb(32, 5, 88)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11988,

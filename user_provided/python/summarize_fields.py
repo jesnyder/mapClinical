@@ -26,7 +26,40 @@ from write_geojson import find_date
 
 def summarize_fields():
     """
+    summarize each field as a df and js variable
+    """
 
+    count_fields()
+    write_table_data()
+    write_products()
+
+    write_doughnut_js()
+
+
+def write_doughnut_js():
+    """
+
+    """
+
+    true_bool = True
+
+    config = {}
+    config['doughnut'] = "doughnut"
+    config['data'] = data
+
+    plugins = {}
+    plugins['legend'] = {'position': 'top'}
+    plugins['title'] = {'display': true_bool, 'text': 'Chart.js Doughnut Chart'}
+
+    options = {}
+    options['responsive'] = true_bool
+    options['plugins'] =plugins
+
+
+
+def count_fields():
+    """
+    save each field as a count
     """
 
     # retrieve json
@@ -73,9 +106,6 @@ def summarize_fields():
         file_dst = os.path.join(retrieve_path('summary'), key_name + '.csv')
         df = reset_df(df.sort_values(by='count', ascending=False))
         df.to_csv(file_dst)
-
-    write_table_data()
-    #write_products()
 
 
 def write_table_data():
@@ -148,7 +178,7 @@ def write_products():
     lines = f.readlines()
     f.close()
 
-    # open destination file 
+    # open destination file
     file_dst = retrieve_path('products_js')
     f = open(file_src,"w+")
     for line in lines:

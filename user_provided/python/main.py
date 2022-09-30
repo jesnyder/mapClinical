@@ -15,9 +15,9 @@ def main():
     Map clinical trials
     """
 
-    tasks = [0, 1, 2, 3, 4, 5]
+    tasks = []
     #tasks = np.arange(1,6,1)
-    tasks.append('openmaps')
+    #tasks.append('openmaps')
 
     if 0 in tasks: query_trials()
 

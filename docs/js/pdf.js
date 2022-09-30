@@ -2,7 +2,6 @@ new Chart(document.getElementById("line-chart"), {
     "type": "line",
     "data": {
         "labels": [
-            1994,
             1995,
             1996,
             1997,
@@ -36,7 +35,6 @@ new Chart(document.getElementById("line-chart"), {
         "datasets": [
             {
                 "data": [
-                    0,
                     1,
                     0,
                     0,
@@ -68,12 +66,11 @@ new Chart(document.getElementById("line-chart"), {
                     10
                 ],
                 "label": "all_count",
-                "borderColor": "rgb(221, 238, 224)",
+                "borderColor": "rgb(247, 216, 210)",
                 "fill": "false"
             },
             {
                 "data": [
-                    0,
                     1,
                     0,
                     0,
@@ -96,21 +93,20 @@ new Chart(document.getElementById("line-chart"), {
                     23,
                     18,
                     10,
-                    15,
+                    16,
                     19,
                     33,
-                    41,
-                    48,
-                    60,
+                    43,
+                    50,
+                    64,
                     2
                 ],
                 "label": "allo_count",
-                "borderColor": "rgb(234, 79, 42)",
+                "borderColor": "rgb(231, 79, 46)",
                 "fill": "false"
             },
             {
                 "data": [
-                    0,
                     0,
                     0,
                     0,
@@ -132,22 +128,21 @@ new Chart(document.getElementById("line-chart"), {
                     14,
                     12,
                     20,
-                    12,
+                    13,
                     17,
                     11,
-                    11,
-                    15,
                     12,
-                    10,
+                    15,
+                    13,
+                    12,
                     1
                 ],
                 "label": "auto_count",
-                "borderColor": "rgb(57, 22, 73)",
+                "borderColor": "rgb(42, 23, 114)",
                 "fill": "false"
             },
             {
                 "data": [
-                    0,
                     0,
                     0,
                     0,
@@ -179,12 +174,11 @@ new Chart(document.getElementById("line-chart"), {
                     0
                 ],
                 "label": "both_count",
-                "borderColor": "rgb(0, 203, 237)",
+                "borderColor": "rgb(0, 206, 223)",
                 "fill": "false"
             },
             {
                 "data": [
-                    0,
                     0,
                     0,
                     0,
@@ -206,13 +200,13 @@ new Chart(document.getElementById("line-chart"), {
                     18,
                     18,
                     15,
-                    25,
-                    27,
                     24,
+                    26,
                     24,
-                    67,
-                    44,
+                    23,
+                    65,
                     41,
+                    35,
                     7
                 ],
                 "label": "undeclared_count",
