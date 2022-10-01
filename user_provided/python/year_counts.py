@@ -30,6 +30,285 @@ def year_counts():
     create year_counts_cdf.csv
     """
 
+    annual_sum()
+
+    cdf_counts()
+    count_percent()
+    enrolled_percent()
+
+    # make js for plotting
+    # retrieve trials.json
+    js_count()
+    js_enrolled()
+    js_cdf_count()
+    js_cdf_enroll()
+
+
+    count_scatter_enrollment()
+    js_scatter_enrollment()
+    js_scatter_enrollment2()
+
+
+
+def count_scatter_enrollment():
+    """
+
+    """
+
+    datasets = []
+
+    df_group = retrieve_df('groups')
+    groups = df_group.columns
+
+    for group in groups:
+
+        print('group = ' + group)
+
+        if 'url' in group: continue
+        urls = list(df_group[df_group[group] > 0]['url'])
+
+        #years = np.arange(1990, 2025, 1)
+        years, enrolls = [], []
+
+        trials = retrieve_json('trials')['trials']
+        for trial in trials:
+
+            if trial['URL'] not in urls: continue
+
+            year_found, month, day = find_date(trial)
+
+            years.append(year_found)
+            enroll = trial['Enrollment']
+            enrolls.append(enroll)
+
+        df = pd.DataFrame()
+        df['year'] = years
+        df['enroll'] = enrolls
+        fil_dst = os.path.join(retrieve_path('scatters'), group + '.csv')
+        df.to_csv(fil_dst)
+
+
+def js_scatter_enrollment():
+    """
+
+    """
+
+    datasets = []
+
+    fol_src = retrieve_path('scatters')
+    for filename in os.listdir(fol_src):
+
+        print('filename = ' + filename)
+        fil_src = os.path.join(fol_src, filename)
+        print(fil_src)
+        df = retrieve_df(fil_src)
+
+        df = df[df['year'] > 2004]
+
+        x = list(df['year'])
+        y = list(df['enroll'])
+
+        label = filename.split('.')[0]
+
+        if 'all' == label: continue
+
+        datas = []
+        backgroundColors = []
+        for i in range(len(x)):
+            inc = (random.random()*10 - 5)/10
+            data = {}
+            data['x'] = x[i] + inc
+            data['y'] = y[i]
+            data['r'] = 5
+
+            datas.append(data)
+            backgroundColors.append(calculate_color(label))
+
+        dataset = {}
+        dataset['label'] = label
+        dataset['data'] = datas
+        dataset['backgroundColor'] = backgroundColors
+        datasets.append(dataset)
+        continue
+
+    true_var = True
+    js_dataset = {}
+    #js_dataset['labels'] = list(df['year'])
+    js_dataset['datasets'] = datasets
+    print(js_dataset)
+
+    config = {}
+    config['type'] = 'bubble'
+    config['data'] = js_dataset
+
+    options = {}
+    plugins = {}
+    title = {}
+    title['display'] = 'true'
+    title['text'] = 'Chart.js Bar Chart - Stacked'
+    #plugins['title'] = title
+    options['plugins'] = plugins
+    options['responsive'] = true_var
+    options['scales'] = { 'myScale': {'type': 'logarithmic', 'position': 'right' }}
+
+    scales = {}
+    xtitle = 'Start Year of the Trial'
+    #xtitle = axes_titles[0]
+    #scales['xAxes'] = [{'stacked': true_var, 'barPercentage': 1.26, 'scaleLabel': {'display': true_var, 'labelString': xtitle}, 'ticks' : {'max' : 2025,'min' : 1994}]
+    ytitle = '% of Trials'
+    #ytitle = axes_titles[1]
+    scales['yAxes'] = [{'type': 'logarithmic'}]
+    options['scales'] = scales
+    config['options'] = options
+
+    chart_name = 'scatter_enrolled'
+
+    fil_dst = os.path.join(retrieve_path('js'), chart_name + '.js' )
+    with open(fil_dst , "w") as f:
+
+        descriptor_line = 'const data_' + str(chart_name) + ' = '
+        f.write(descriptor_line)
+        json.dump(js_dataset, f, indent = 4)
+        f.write(';')
+
+        descriptor_line = 'const config_' + str(chart_name) + ' = '
+        f.write('\n' + '\n')
+        f.write(descriptor_line)
+        json.dump(config, f, indent = 4)
+        f.write(';')
+
+        f.write('\n' + '\n')
+        descriptor_line = 'const ctx_' + str(chart_name) + ' = document.getElementById("' + str(chart_name) + '").getContext(\'2d\');'
+        f.write(descriptor_line)
+
+        f.write('\n' + '\n')
+        descriptor_line = 'const myChart_' + str(chart_name) + ' = new Chart(ctx_' + str(chart_name) + ' ,'
+        f.write(descriptor_line)
+        descriptor_line = ' config_' + str(chart_name) + '  );'
+        f.write(descriptor_line)
+        f.write('\n' + '\n')
+
+        f.close()
+
+
+def js_scatter_enrollment2():
+    """
+
+    """
+
+    datasets = []
+
+    fol_src = retrieve_path('scatters')
+    folder = os.listdir(fol_src)
+    for filename in folder:
+
+        j = folder.index(filename)
+
+        print('filename = ' + filename)
+        fil_src = os.path.join(fol_src, filename)
+        print(fil_src)
+        df = retrieve_df(fil_src)
+
+        df = df[df['year'] > 2004]
+
+        x = list(df['year'])
+        y = list(df['enroll'])
+
+        label = filename.split('.')[0]
+
+        if 'all' == label: continue
+
+        datas = []
+        backgroundColors = []
+        for i in range(len(x)):
+
+            ymean = y[i]/sum(y)
+            if y[i] >= ymean: ydel = (max(y) - y[i])*0.45/(max(y)-ymean)
+            else: ydel = (y[i] - min(y))*0.45/(ymean - min(y))
+
+            inc = (random.random()*2*ydel - ydel)
+            print('inc = ' + str(inc))
+            assert inc > -0.5 and inc <= 0.5
+            data = {}
+            data['x'] = j + inc
+            data['y'] = y[i]
+            data['r'] = 5
+
+            datas.append(data)
+            backgroundColors.append(calculate_color(label))
+
+        dataset = {}
+        dataset['label'] = label
+        dataset['data'] = datas
+        dataset['backgroundColor'] = backgroundColors
+        datasets.append(dataset)
+        continue
+
+    true_var = True
+    js_dataset = {}
+    #js_dataset['labels'] = list(df['year'])
+    js_dataset['datasets'] = datasets
+    print(js_dataset)
+
+    config = {}
+    config['type'] = 'bubble'
+    config['data'] = js_dataset
+
+    options = {}
+    plugins = {}
+    title = {}
+    title['display'] = 'true'
+    title['text'] = 'Chart.js Bar Chart - Stacked'
+    #plugins['title'] = title
+    options['plugins'] = plugins
+    options['responsive'] = true_var
+    options['scales'] = { 'myScale': {'type': 'logarithmic', 'position': 'right' }}
+
+    scales = {}
+    xtitle = 'Start Year of the Trial'
+    #xtitle = axes_titles[0]
+    #scales['xAxes'] = [{'stacked': true_var, 'barPercentage': 1.26, 'scaleLabel': {'display': true_var, 'labelString': xtitle}, 'ticks' : {'max' : 2025,'min' : 1994}]
+    ytitle = '% of Trials'
+    #ytitle = axes_titles[1]
+    scales['yAxes'] = [{'type': 'logarithmic'}]
+    options['scales'] = scales
+    config['options'] = options
+
+    chart_name = 'scatter_enrolled_grouped'
+
+    fil_dst = os.path.join(retrieve_path('js'), chart_name + '.js' )
+    with open(fil_dst , "w") as f:
+
+        descriptor_line = 'const data_' + str(chart_name) + ' = '
+        f.write(descriptor_line)
+        json.dump(js_dataset, f, indent = 4)
+        f.write(';')
+
+        descriptor_line = 'const config_' + str(chart_name) + ' = '
+        f.write('\n' + '\n')
+        f.write(descriptor_line)
+        json.dump(config, f, indent = 4)
+        f.write(';')
+
+        f.write('\n' + '\n')
+        descriptor_line = 'const ctx_' + str(chart_name) + ' = document.getElementById("' + str(chart_name) + '").getContext(\'2d\');'
+        f.write(descriptor_line)
+
+        f.write('\n' + '\n')
+        descriptor_line = 'const myChart_' + str(chart_name) + ' = new Chart(ctx_' + str(chart_name) + ' ,'
+        f.write(descriptor_line)
+        descriptor_line = ' config_' + str(chart_name) + '  );'
+        f.write(descriptor_line)
+        f.write('\n' + '\n')
+
+        f.close()
+
+
+
+
+
+
+def annual_sum():
     # retrieve groups.csv
     df = retrieve_df('groups')
 
@@ -84,20 +363,6 @@ def year_counts():
         df_count[str(col + '_count')] = counts
         df_count[str(col + '_enrolled')] = enrolleds
         df_count.to_csv(retrieve_path('year_counts_pdf'))
-
-
-
-
-    cdf_counts()
-    count_percent()
-    enrolled_percent()
-
-    # make js for plotting
-    # retrieve trials.json
-    js_count()
-    js_enrolled()
-    js_cdf_count()
-    js_cdf_enroll()
 
 
 def js_cdf_enroll():
