@@ -45,7 +45,7 @@
 
       <p>According to tracking by
       <a href="https://clinicaltrials.gov/"  target="_blank" rel="noopener">ClinicalTrials.gov</a>
-        , mesenchymal stromal cells (MSCs) have been used as a therapeutic intervention in 889 clinical trials since 1995. These trials have enrolled more than 45,000 participants in countries across the globe. The source of these cells has oscillated between patient derived (autologous) and off-the-shelf standards (allogeneic).
+        , mesenchymal stromal cells (MSCs) have been used as a therapeutic intervention in 898 clinical trials since 1995. These trials have enrolled more than 45,000 participants in countries across the globe. The source of these cells has oscillated between patient derived (autologous) and off-the-shelf standards (allogeneic).
       <br> <br>
       Explore the interactive map of trials grouped by MSC source: allogenic (orange), autologous (dark purple), both (light blue), or undeclared (gray). A trial can only belong to one group. If a trial has multiple study sites, it will appear multiple times on the map. Click on the circular marker to see the trial title, location name, number enrolled, and a link to more information. The radius of the circular marker reflects the number enrolled. Larger circles enrolled more particpants. Use the +/- in the upper left hand corner of the map or your mouse scroll wheel to zoom in and out of the map. Use the timeline along the bottom edge to animate the map. Trials appear according to their start date. The button on the top right corner of the map allows you to prescriptively show or hide some of the groups. The code to make the map is open source, free, and available from
 
@@ -145,12 +145,56 @@
     <script src="js/tabularLocations.js"></script>
     </div>
 
+
+
+    <div id="text" style="width:80% ; margin-left: 10%; font-family: Calibri;">
+    <p> <br> </p> </div>
+
+    <div id="container" style="text-align:center; width:70%; margin-left: 20%; font-family: Calibri;">
+    <canvas id="doughnut_Status_grouped"   height="125"   style="border:0px solid"></canvas>
+    <script src="js/doughnut_Status_grouped.js"></script>
+    </div>
+
+
+    <div id="text" style="width:80% ; margin-left: 10%; font-family: Calibri;">
+    <p> <br> </p> </div>
+
+    <div id="container" style="text-align:center; width:70%; margin-left: 20%; font-family: Calibri;">
+    <canvas id="doughnut_Gender_grouped"   height="125"   style="border:0px solid"></canvas>
+    <script src="js/doughnut_Gender_grouped.js"></script>
+    </div>
+
+    <div id="text" style="width:80% ; margin-left: 10%; font-family: Calibri;">
+    <p> <br> </p> </div>
+
+    <div id="container" style="text-align:center; width:70%; margin-left: 20%; font-family: Calibri;">
+    <canvas id="doughnut_Funded_Bys_grouped"   height="125"   style="border:0px solid"></canvas>
+    <script src="js/doughnut_Funded_Bys_grouped.js"></script>
+    </div>
+
+
+    <div id="text" style="width:80% ; margin-left: 10%; font-family: Calibri;">
+    <p>
+    <br>
+    A therapy progress through the phases of a clinical trial. Phase 1 trials emphasize safety. Phase 2 show efficacy. Phase 3 increase the number of people in the trial.
+    <br>
+    </p> </div>
+
+
+
+    <div id="container" style="text-align:center; width:70%; margin-left: 20%; font-family: Calibri;">
+    <canvas id="doughnut_Phases_grouped"   height="125"   style="border:0px solid"></canvas>
+    <script src="js/doughnut_Phases_grouped.js"></script>
+    </div>
+
+
+
+
+
     <div id="text" style="width:80% ; margin-left: 10%; font-family: Calibri;">
     <p>
     <br>
     The product lists therapeutics derived from MSCs. Most therapies use the cells, some use the MSC to derive exosomes, and one uses mitchondria from MSC. The table lists the name of ther therapy, manufactuer, source - as either adipose (AD), bone marrow (BM), and umbilical cord (UC) that include Wharton's Jelly. One studies uses MSC isolated from liver tissue (HE). Another gets even more specific and uses MSC derived from the liver of a first trimeter fetus (FE). If the therapy has recieved approval from national regulatory agency (either Canadian, Korean, Indian, Israeli, European Union, United Kingdom), then the far right column has a green check, otherwise a red X.
-
-
     <br>
     </p> </div>
 

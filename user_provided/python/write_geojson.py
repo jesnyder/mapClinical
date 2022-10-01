@@ -156,7 +156,7 @@ def get_random_increment(col):
         if term in col:
             return(0)
 
-    inc = (random.random()*10 - 5)/50
+    inc = (random.random()*10 - 5)/100
     return(inc)
 
 

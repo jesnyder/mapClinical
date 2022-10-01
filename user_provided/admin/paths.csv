@@ -51,8 +51,10 @@ cdf_js_enroll,docs js cdf_js_enroll.js
 
 # summarize fields referenced
 products,user_provided admin products.json
+backgroundColors,user_provided admin backgroundColors.csv
 
 # summarize fields created
 summary,program_generated summary
+summary_group,program_generated summary_group
 tableData,docs js
 products_js,docs js products.js
