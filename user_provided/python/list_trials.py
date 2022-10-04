@@ -175,7 +175,7 @@ def scrub_interventions(value):
         #print(value)
         value = str('Osteoarthritis, Knee')
 
-    if 'Covid19' == value:
+    if 'Covid19' == value or "Corona Virus Disease 2019(COVID-19)" == value or "COVID" == value or "Covid 19" == value or "Coronavirus Infection" == value or "Coronavirus Disease 2019 (COVID-19) Pneumonia" == value  or 'Corona Virus Infection|Covid19' == value:
         #print('value = ')
         #print(value)
         value = str('COVID-19')
@@ -184,6 +184,16 @@ def scrub_interventions(value):
         #print('value = ')
         #print(value)
         value = str('Myocardial Infarction')
+
+    if 'Crohn Disease' == value:
+        #print('value = ')
+        #print(value)
+        value = str('Crohn\'s Disease')
+
+    if 'Spinal Cord Injuries' == value:
+        #print('value = ')
+        #print(value)
+        value = str('Spinal Cord Injury')
 
     return(value)
 
