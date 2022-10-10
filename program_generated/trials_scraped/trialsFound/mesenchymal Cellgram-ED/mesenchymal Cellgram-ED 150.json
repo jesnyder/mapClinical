@@ -1,0 +1,118 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Cellgram-ED",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Injection group: Cellgram-ED"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M28485"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Phosphodiesterase 5 Inhibitors"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Patients will receive single injection of Cellgram-ED(mesenchymal stem cell) intracavernously."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Cellgram-ED"
+                        ],
+                        "InterventionOtherName": [
+                              "Autologous bone marrow derived mesenchymal stem cell"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04594850"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "Mesenchymal stem cell"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M28485"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Phosphodiesterase 5 Inhibitors"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Patients will receive single injection of Cellgram-ED( 30,000,000 mesenchymal stem cell) intracavernously."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "mesenchymal stem cell"
+                        ],
+                        "InterventionOtherName": [
+                              "Cellgram-ED"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02344849"
+                        ]
+                  }
+            ]
+      }
+}

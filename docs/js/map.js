@@ -15,7 +15,7 @@ var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 	});
 
 var map = L.map('map', {
-		center: [0, 5],
+		center: [0, 0],
 		zoom: 2,
 		layers: [osm]
 	});
@@ -59,6 +59,8 @@ function onEachTrial(feature, layer) {
          + feature.properties.name
          + '</b><br>'
          + feature.properties.aff
+         + '<br>'
+				 + 'Status: ' + feature.properties.status
          + '<br>'
          + 'Enrolled: ' + feature.properties.enrolled
          + '<br>'

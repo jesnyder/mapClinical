@@ -1,0 +1,1762 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Critical Limb Ischemia",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 27,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 27,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00883870"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Sequential Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Phase 1 is conducted to evaluate the tolerability of the IP Subjects receive the IP once and are checked for adverse events. Subjects are evaluated for adverse events after the administration of the IP by registering 3 subjects each at the dosing phase.\n\nIf the maximum tolerated dose (MTD) is determined with the test group 2 (high dose) in the Phase 1, the Phase 2a clinical trial will be conducted. However, if 1 adverse events occur, the test group 2 will be considered as the maximum tolerated dose (MTD), or but only the test group 1 will proceed to Phase 2a.\n\nIf 2 adverse events occur, a dose smaller than test group 1 (low dose) is determined to be the maximum tolerated dose. The Phase 2a clinical trial will not proceed and the clinical trial will end.\n\nIf tolerability and safety are secured, subjects meeting the final inclusion criteria are assigned to Phase 2a, admitted by the same procedure, and administered the IP once. Safety and efficacy assessments are performed."
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04661644"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01456819"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03239535"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02477540"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia",
+                              "Buerger's Disease",
+                              "Buerger's Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M15830",
+                              "M3617",
+                              "M16552",
+                              "M16557",
+                              "T889"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Thromboangiitis Obliterans",
+                              "Arterial Occlusive Diseases",
+                              "Vascular Diseases",
+                              "Vasculitis",
+                              "Buerger Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000013919",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Thromboangiitis Obliterans",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01484574"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03994666"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ConditionBrowseBranchName": [
+                              "Nutritional and Metabolic Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M6267",
+                              "M15507",
+                              "M9695",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetes Mellitus",
+                              "Syndrome",
+                              "Ischemia",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01257776"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01663376"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Skin and Connective Tissue Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "Nutritional and Metabolic Diseases",
+                              "Nervous System Diseases",
+                              "Musculoskeletal Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia",
+                              "Diabetic Foot",
+                              "Foot Ulcers"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M19085",
+                              "M18071",
+                              "M16358",
+                              "M6272",
+                              "M16552",
+                              "M10035",
+                              "M14838",
+                              "M14826",
+                              "M6267",
+                              "M25157",
+                              "M7014",
+                              "M6276",
+                              "M7810"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Diabetic Foot",
+                              "Foot Ulcer",
+                              "Ulcer",
+                              "Diabetic Angiopathies",
+                              "Vascular Diseases",
+                              "Leg Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases",
+                              "Diabetes Mellitus",
+                              "Diabetes Complications",
+                              "Endocrine System Diseases",
+                              "Diabetic Neuropathies",
+                              "Foot Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000017719",
+                              "D000016523",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Diabetic Foot",
+                              "Foot Ulcer",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00955669"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M15507",
+                              "M9695",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Syndrome",
+                              "Ischemia",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01745744"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Skin and Connective Tissue Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "Nutritional and Metabolic Diseases",
+                              "Nervous System Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia",
+                              "Diabetic Foot"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M19085",
+                              "M6272",
+                              "M16552",
+                              "M18071",
+                              "M16358",
+                              "M10035",
+                              "M14838",
+                              "M14826",
+                              "M6267",
+                              "M25157",
+                              "M7014",
+                              "M6276"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Diabetic Foot",
+                              "Diabetic Angiopathies",
+                              "Vascular Diseases",
+                              "Foot Ulcer",
+                              "Ulcer",
+                              "Leg Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases",
+                              "Diabetes Mellitus",
+                              "Diabetes Complications",
+                              "Endocrine System Diseases",
+                              "Diabetic Neuropathies"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000017719",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Diabetic Foot",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04466007"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02145897"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia",
+                              "Peripheral Artery Disease",
+                              "Arterial Occlusive Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M28366",
+                              "M18046",
+                              "M3617",
+                              "M16552",
+                              "M25341",
+                              "M3621"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Peripheral Arterial Disease",
+                              "Peripheral Vascular Diseases",
+                              "Arterial Occlusive Diseases",
+                              "Vascular Diseases",
+                              "Atherosclerosis",
+                              "Arteriosclerosis"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000058729",
+                              "D000001157",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Peripheral Arterial Disease",
+                              "Arterial Occlusive Diseases",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01351610"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02336646"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Sequential Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Advanced Therapeutic Medicinal Product ( ATMP) Bone Marrow Derived Mesenchymal Stem Cells"
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03455335"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Skin and Connective Tissue Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "Nutritional and Metabolic Diseases",
+                              "Nervous System Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia",
+                              "Diabetic Foot"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M19085",
+                              "M6272",
+                              "M16552",
+                              "M18071",
+                              "M16358",
+                              "M10035",
+                              "M14838",
+                              "M14826",
+                              "M6267",
+                              "M25157",
+                              "M7014",
+                              "M6276"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Diabetic Foot",
+                              "Diabetic Angiopathies",
+                              "Vascular Diseases",
+                              "Foot Ulcer",
+                              "Ulcer",
+                              "Leg Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases",
+                              "Diabetes Mellitus",
+                              "Diabetes Complications",
+                              "Endocrine System Diseases",
+                              "Diabetic Neuropathies"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000017719",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Diabetic Foot",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01216865"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01824069"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "The N-O CLI trial will enroll 105 patients with randomization into active and sham therapy with 2:1 ratio.\n\nAdditional 5-10 subjects meeting inclusion/exclusion criteria will receive, in a non-blinded fashion, labelled CardioCell to determine the early uptake and retention of IMP in the target ischemic tissues."
+                        ],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [
+                              "The Data and Safety Monitoring Board (DSMB) will be blinded at project start, but may request unblinding if necessary to accommodate effective review of data.\n\nOther than the DSMB (if necessary), the only other \"un-blinded parties\", meaning that they will have knowledge as to the patient's treatment assignment, will be the PBTiK UJ CM employee who participates in randomization utilizing randomization lists and investigational medication preparation."
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03423732"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Peripheral Vascular Disease",
+                              "Peripheral Vascular Disease",
+                              "Vascular Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M28366",
+                              "M18046",
+                              "M16552",
+                              "M25341",
+                              "M3621",
+                              "M3617"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Peripheral Arterial Disease",
+                              "Peripheral Vascular Diseases",
+                              "Vascular Diseases",
+                              "Atherosclerosis",
+                              "Arteriosclerosis",
+                              "Arterial Occlusive Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000014652",
+                              "D000016491",
+                              "D000058729"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Vascular Diseases",
+                              "Peripheral Vascular Diseases",
+                              "Peripheral Arterial Disease"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01558908"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02287974"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia",
+                              "Buerger's Disease",
+                              "Buerger's Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M15830",
+                              "M3617",
+                              "M16552",
+                              "M16557",
+                              "T889"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Thromboangiitis Obliterans",
+                              "Arterial Occlusive Diseases",
+                              "Vascular Diseases",
+                              "Vasculitis",
+                              "Buerger Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000013919",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Thromboangiitis Obliterans",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03056742"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia",
+                              "Peripheral Artery Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M28366",
+                              "M18046",
+                              "M25341",
+                              "M3621",
+                              "M3617",
+                              "M16552"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Peripheral Arterial Disease",
+                              "Peripheral Vascular Diseases",
+                              "Atherosclerosis",
+                              "Arteriosclerosis",
+                              "Arterial Occlusive Diseases",
+                              "Vascular Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000058729",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Peripheral Arterial Disease",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03968198"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Skin and Connective Tissue Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "Nutritional and Metabolic Diseases",
+                              "Nervous System Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia",
+                              "Diabetic Foot",
+                              "Peripheral Arterial Disease",
+                              "Peripheral Arterial Disease",
+                              "Scleroderma, Systemic",
+                              "Scleroderma, Systemic",
+                              "Thrombo Angiitis Obliterans",
+                              "Scleroderma, Systemic",
+                              "Thrombo Angiitis Obliterans"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M19085",
+                              "M16358",
+                              "M28366",
+                              "M18046",
+                              "M16557",
+                              "M14564",
+                              "M24713",
+                              "M15830",
+                              "M16552",
+                              "M6272",
+                              "M18071",
+                              "M10035",
+                              "M14838",
+                              "M14826",
+                              "M6267",
+                              "M25157",
+                              "M7014",
+                              "M6276",
+                              "M25341",
+                              "M3621",
+                              "M3617",
+                              "M5616",
+                              "T5565",
+                              "T889"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Diabetic Foot",
+                              "Ulcer",
+                              "Peripheral Arterial Disease",
+                              "Peripheral Vascular Diseases",
+                              "Vasculitis",
+                              "Scleroderma, Systemic",
+                              "Scleroderma, Diffuse",
+                              "Thromboangiitis Obliterans",
+                              "Vascular Diseases",
+                              "Diabetic Angiopathies",
+                              "Foot Ulcer",
+                              "Leg Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases",
+                              "Diabetes Mellitus",
+                              "Diabetes Complications",
+                              "Endocrine System Diseases",
+                              "Diabetic Neuropathies",
+                              "Atherosclerosis",
+                              "Arteriosclerosis",
+                              "Arterial Occlusive Diseases",
+                              "Connective Tissue Diseases",
+                              "Systemic Scleroderma",
+                              "Buerger Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000017719",
+                              "D000058729",
+                              "D000016491",
+                              "D000013919",
+                              "D000012595",
+                              "D000045743",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Diabetic Foot",
+                              "Peripheral Arterial Disease",
+                              "Peripheral Vascular Diseases",
+                              "Thromboangiitis Obliterans",
+                              "Scleroderma, Systemic",
+                              "Scleroderma, Diffuse",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04746599"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "ConditionBrowseBranchName": [
+                              "Wounds and Injuries",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Heart and Blood Diseases",
+                              "Skin and Connective Tissue Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "Nutritional and Metabolic Diseases",
+                              "Nervous System Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia",
+                              "Diabetic Foot"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M16837",
+                              "M9695",
+                              "M19085",
+                              "M16358",
+                              "M6272",
+                              "M16552",
+                              "M18071",
+                              "M10035",
+                              "M14838",
+                              "M14826",
+                              "M6267",
+                              "M25157",
+                              "M7014",
+                              "M6276",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Wounds and Injuries",
+                              "Ischemia",
+                              "Diabetic Foot",
+                              "Ulcer",
+                              "Diabetic Angiopathies",
+                              "Vascular Diseases",
+                              "Foot Ulcer",
+                              "Leg Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases",
+                              "Diabetes Mellitus",
+                              "Diabetes Complications",
+                              "Endocrine System Diseases",
+                              "Diabetic Neuropathies",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000017719",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Diabetic Foot",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01065337"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "ConditionBrowseBranchName": [
+                              "Nutritional and Metabolic Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Heart and Blood Diseases",
+                              "Skin and Connective Tissue Diseases",
+                              "Immune System Diseases",
+                              "Nervous System Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Diabetes Mellitus",
+                              "Type II Diabetes Mellitus",
+                              "Diabetic Foot",
+                              "Ulcer",
+                              "Type I Diabetes Mellitus"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M6267",
+                              "M6271",
+                              "M9695",
+                              "M19085",
+                              "M18071",
+                              "M16358",
+                              "M6269",
+                              "M10791",
+                              "M24556",
+                              "M7014",
+                              "M6272",
+                              "M16552",
+                              "M10035",
+                              "M14838",
+                              "M14826",
+                              "M25157",
+                              "M6276",
+                              "M3781",
+                              "M9352"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetes Mellitus",
+                              "Diabetes Mellitus, Type 2",
+                              "Ischemia",
+                              "Diabetic Foot",
+                              "Foot Ulcer",
+                              "Ulcer",
+                              "Diabetes Mellitus, Type 1",
+                              "Metabolic Diseases",
+                              "Glucose Metabolism Disorders",
+                              "Endocrine System Diseases",
+                              "Diabetic Angiopathies",
+                              "Vascular Diseases",
+                              "Leg Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases",
+                              "Diabetes Complications",
+                              "Diabetic Neuropathies",
+                              "Autoimmune Diseases",
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000017719",
+                              "D000003920",
+                              "D000003924",
+                              "D000003922",
+                              "D000014456"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Diabetic Foot",
+                              "Diabetes Mellitus",
+                              "Diabetes Mellitus, Type 2",
+                              "Diabetes Mellitus, Type 1",
+                              "Ulcer"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01686139"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Peripheral Arterial Disease",
+                              "Peripheral Arterial Disease",
+                              "Vascular Disease",
+                              "Neovascularization"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M28366",
+                              "M18046",
+                              "M16552",
+                              "M11486",
+                              "M25341",
+                              "M3621",
+                              "M3617",
+                              "M10811"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Peripheral Arterial Disease",
+                              "Peripheral Vascular Diseases",
+                              "Vascular Diseases",
+                              "Neovascularization, Pathologic",
+                              "Atherosclerosis",
+                              "Arteriosclerosis",
+                              "Arterial Occlusive Diseases",
+                              "Metaplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000002318",
+                              "D000058729",
+                              "D000016491",
+                              "D000014652",
+                              "D000009389"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Cardiovascular Diseases",
+                              "Peripheral Arterial Disease",
+                              "Peripheral Vascular Diseases",
+                              "Vascular Diseases",
+                              "Neovascularization, Pathologic"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03042572"
+                        ]
+                  }
+            ]
+      }
+}

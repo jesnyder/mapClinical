@@ -1,0 +1,994 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal ALLO-ASC-DFU",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 13,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 13,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Skin and Connective Tissue Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Nutritional and Metabolic Diseases",
+                              "Nervous System Diseases",
+                              "Musculoskeletal Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Diabetic Foot",
+                              "Foot Ulcers",
+                              "Ulcer"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M19085",
+                              "M18071",
+                              "M16358",
+                              "M6272",
+                              "M16552",
+                              "M10035",
+                              "M14838",
+                              "M14826",
+                              "M6267",
+                              "M25157",
+                              "M7014",
+                              "M6276",
+                              "M7810"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetic Foot",
+                              "Foot Ulcer",
+                              "Ulcer",
+                              "Diabetic Angiopathies",
+                              "Vascular Diseases",
+                              "Leg Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases",
+                              "Diabetes Mellitus",
+                              "Diabetes Complications",
+                              "Endocrine System Diseases",
+                              "Diabetic Neuropathies",
+                              "Foot Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000017719",
+                              "D000016523",
+                              "D000014456"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Diabetic Foot",
+                              "Foot Ulcer",
+                              "Ulcer"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02619877"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Skin and Connective Tissue Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Nutritional and Metabolic Diseases",
+                              "Nervous System Diseases",
+                              "Musculoskeletal Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Diabetic Foot",
+                              "Foot Ulcers",
+                              "Ulcer"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M19085",
+                              "M18071",
+                              "M16358",
+                              "M6272",
+                              "M16552",
+                              "M10035",
+                              "M14838",
+                              "M14826",
+                              "M6267",
+                              "M25157",
+                              "M7014",
+                              "M6276",
+                              "M7810"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetic Foot",
+                              "Foot Ulcer",
+                              "Ulcer",
+                              "Diabetic Angiopathies",
+                              "Vascular Diseases",
+                              "Leg Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases",
+                              "Diabetes Mellitus",
+                              "Diabetes Complications",
+                              "Endocrine System Diseases",
+                              "Diabetic Neuropathies",
+                              "Foot Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000017719",
+                              "D000016523",
+                              "D000014456"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Diabetic Foot",
+                              "Foot Ulcer",
+                              "Ulcer"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03370874"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Skin and Connective Tissue Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Nutritional and Metabolic Diseases",
+                              "Nervous System Diseases",
+                              "Musculoskeletal Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Diabetic Foot",
+                              "Foot Ulcers"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M19085",
+                              "M18071",
+                              "M16358",
+                              "M6272",
+                              "M16552",
+                              "M10035",
+                              "M14838",
+                              "M14826",
+                              "M6267",
+                              "M25157",
+                              "M7014",
+                              "M6276",
+                              "M7810"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetic Foot",
+                              "Foot Ulcer",
+                              "Ulcer",
+                              "Diabetic Angiopathies",
+                              "Vascular Diseases",
+                              "Leg Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases",
+                              "Diabetes Mellitus",
+                              "Diabetes Complications",
+                              "Endocrine System Diseases",
+                              "Diabetic Neuropathies",
+                              "Foot Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000017719",
+                              "D000016523"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Diabetic Foot",
+                              "Foot Ulcer"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Case-Only"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT03183726"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ConditionBrowseBranchName": [
+                              "Wounds and Injuries",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Burn Injury",
+                              "Injury"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M4478",
+                              "M16837"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Burns",
+                              "Wounds and Injuries"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000014947",
+                              "D000002056"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Wounds and Injuries",
+                              "Burns"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02619851"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Skin and Connective Tissue Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Nutritional and Metabolic Diseases",
+                              "Nervous System Diseases",
+                              "Musculoskeletal Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Diabetic Foot",
+                              "Foot Ulcers"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M19085",
+                              "M18071",
+                              "M16358",
+                              "M6272",
+                              "M16552",
+                              "M10035",
+                              "M14838",
+                              "M14826",
+                              "M6267",
+                              "M25157",
+                              "M7014",
+                              "M6276",
+                              "M7810"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetic Foot",
+                              "Foot Ulcer",
+                              "Ulcer",
+                              "Diabetic Angiopathies",
+                              "Vascular Diseases",
+                              "Leg Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases",
+                              "Diabetes Mellitus",
+                              "Diabetes Complications",
+                              "Endocrine System Diseases",
+                              "Diabetic Neuropathies",
+                              "Foot Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000017719",
+                              "D000016523"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Diabetic Foot",
+                              "Foot Ulcer"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Case-Only"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT03183804"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Skin and Connective Tissue Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Nutritional and Metabolic Diseases",
+                              "Nervous System Diseases",
+                              "Musculoskeletal Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Diabetic Foot",
+                              "Foot Ulcers",
+                              "Ulcer"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M19085",
+                              "M18071",
+                              "M16358",
+                              "M6272",
+                              "M16552",
+                              "M10035",
+                              "M14838",
+                              "M14826",
+                              "M6267",
+                              "M25157",
+                              "M7014",
+                              "M6276",
+                              "M7810"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetic Foot",
+                              "Foot Ulcer",
+                              "Ulcer",
+                              "Diabetic Angiopathies",
+                              "Vascular Diseases",
+                              "Leg Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases",
+                              "Diabetes Mellitus",
+                              "Diabetes Complications",
+                              "Endocrine System Diseases",
+                              "Diabetic Neuropathies",
+                              "Foot Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000017719",
+                              "D000016523",
+                              "D000014456"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Diabetic Foot",
+                              "Foot Ulcer",
+                              "Ulcer"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [
+                              "Double-Blind"
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03754465"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ConditionBrowseBranchName": [
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Skin and Connective Tissue Diseases",
+                              "All Conditions",
+                              "Musculoskeletal Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Epidermolysis Bullosa",
+                              "Dystrophic Epidermolysis Bullosa",
+                              "Epidermolysis Bullosa",
+                              "Dystrophic Epidermolysis Bullosa"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M7128",
+                              "M17738",
+                              "M12",
+                              "M14824",
+                              "M14826",
+                              "M14828",
+                              "M22839",
+                              "M14827",
+                              "M14197",
+                              "M5475",
+                              "M5616",
+                              "T2098",
+                              "T1991"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Epidermolysis Bullosa",
+                              "Epidermolysis Bullosa Dystrophica",
+                              "Congenital Abnormalities",
+                              "Skin Abnormalities",
+                              "Skin Diseases",
+                              "Skin Diseases, Genetic",
+                              "Genetic Diseases, Inborn",
+                              "Skin Diseases, Vesiculobullous",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases",
+                              "Connective Tissue Diseases",
+                              "Epidermolysis Bullosa",
+                              "Dystrophic Epidermolysis Bullosa"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000004820",
+                              "D000016108"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Epidermolysis Bullosa",
+                              "Epidermolysis Bullosa Dystrophica"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02579369"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Skin and Connective Tissue Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Nutritional and Metabolic Diseases",
+                              "Nervous System Diseases",
+                              "Musculoskeletal Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Diabetic Foot",
+                              "Foot Ulcers",
+                              "Ulcer"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M19085",
+                              "M18071",
+                              "M16358",
+                              "M6272",
+                              "M16552",
+                              "M10035",
+                              "M14838",
+                              "M14826",
+                              "M6267",
+                              "M25157",
+                              "M7014",
+                              "M6276",
+                              "M7810"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetic Foot",
+                              "Foot Ulcer",
+                              "Ulcer",
+                              "Diabetic Angiopathies",
+                              "Vascular Diseases",
+                              "Leg Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases",
+                              "Diabetes Mellitus",
+                              "Diabetes Complications",
+                              "Endocrine System Diseases",
+                              "Diabetic Neuropathies",
+                              "Foot Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000017719",
+                              "D000016523",
+                              "D000014456"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Diabetic Foot",
+                              "Foot Ulcer",
+                              "Ulcer"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02394886"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ConditionBrowseBranchName": [
+                              "Wounds and Injuries",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [
+                              "M16837",
+                              "M4478"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Wounds and Injuries",
+                              "Burns"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Case-Only"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT03183622"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ConditionBrowseBranchName": [
+                              "Wounds and Injuries",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Burn Wound"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M16837",
+                              "M4478"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Wounds and Injuries",
+                              "Burns"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000002056"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Burns"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02394873"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Skin and Connective Tissue Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Nutritional and Metabolic Diseases",
+                              "Nervous System Diseases",
+                              "Musculoskeletal Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Diabetic Foot",
+                              "Foot Ulcers",
+                              "Ulcer"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M19085",
+                              "M18071",
+                              "M16358",
+                              "M6272",
+                              "M16552",
+                              "M10035",
+                              "M14838",
+                              "M14826",
+                              "M6267",
+                              "M25157",
+                              "M7014",
+                              "M6276",
+                              "M7810"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetic Foot",
+                              "Foot Ulcer",
+                              "Ulcer",
+                              "Diabetic Angiopathies",
+                              "Vascular Diseases",
+                              "Leg Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases",
+                              "Diabetes Mellitus",
+                              "Diabetes Complications",
+                              "Endocrine System Diseases",
+                              "Diabetic Neuropathies",
+                              "Foot Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000017719",
+                              "D000016523",
+                              "D000014456"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Diabetic Foot",
+                              "Foot Ulcer",
+                              "Ulcer"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04569409"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ConditionBrowseBranchName": [
+                              "Wounds and Injuries",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [
+                              "M4478"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Burns"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Case-Only"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT03183648"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ConditionBrowseBranchName": [
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Skin and Connective Tissue Diseases",
+                              "All Conditions",
+                              "Musculoskeletal Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Epidermolysis Bullosa",
+                              "Dystrophic Epidermolysis Bullosa",
+                              "Epidermolysis Bullosa",
+                              "Dystrophic Epidermolysis Bullosa"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M7128",
+                              "M17738",
+                              "M12",
+                              "M14824",
+                              "M14826",
+                              "M14828",
+                              "M22839",
+                              "M14827",
+                              "M14197",
+                              "M5475",
+                              "M5616",
+                              "T2098",
+                              "T1991"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Epidermolysis Bullosa",
+                              "Epidermolysis Bullosa Dystrophica",
+                              "Congenital Abnormalities",
+                              "Skin Abnormalities",
+                              "Skin Diseases",
+                              "Skin Diseases, Genetic",
+                              "Genetic Diseases, Inborn",
+                              "Skin Diseases, Vesiculobullous",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases",
+                              "Connective Tissue Diseases",
+                              "Epidermolysis Bullosa",
+                              "Dystrophic Epidermolysis Bullosa"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000004820",
+                              "D000016108"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Epidermolysis Bullosa",
+                              "Epidermolysis Bullosa Dystrophica"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Case-Only"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT03183934"
+                        ]
+                  }
+            ]
+      }
+}

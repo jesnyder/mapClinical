@@ -1,0 +1,74 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal PN-101",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Assessment of IMACS-TIS at week 4 after the IP administration. Total Improvement Score (TIS) based on absolute percentage change is assessed scale 0 to 100. Higher score indicates greater improvement.",
+                              "Assessment of IMACS-TIS at week 8 after the IP administration. Total Improvement Score (TIS) based on absolute percentage change is assessed scale 0 to 100. Higher score indicates greater improvement.",
+                              "Proportion of subjects with the IMACS-TIS \u2265 20 at week 12 after the IP administration.",
+                              "Changes in CSAM for the IMACS assessed at week 4, week 8 and week 12 after the IP administration from the baseline (Visit 2).",
+                              "Changes in CDASI assessed at week 4, week 8 and week 12 after the IP administration from the baseline (Visit 2) for dermatomyositis only.",
+                              "Changes in PPNRS assessed at week 4, week 8 and week 12 after the IP administration from the baseline (Visit 2) for dermatomyositis only. The intensity of pruritis is assessed on a patient reported scale 0 to 10."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "International Myositis And Clinical Studies group-Total Improvement Score(IMACS-TIS)",
+                              "International Myositis And Clinical Studies group-Total Improvement Score(IMACS-TIS)",
+                              "Response rate of IMACS-TIS",
+                              "Changes of Core Set Activity Measures(CSAM)",
+                              "Changes of Cutaneous Dermatomyositis Disease Area and Severity Index (CDASI)",
+                              "Changes of Peak Pruritus Numeral Rating Scale(PPNRS)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "4 weeks after the IP administration",
+                              "8 weeks after the IP administration",
+                              "12 weeks after the IP administration",
+                              "Visit 2(Day 1), Visit 5(4 weeks), Visit 6(8 weeks), Visit 7(12 weeks)",
+                              "Visit 2(Day 1), Visit 5(4 weeks), Visit 6(8 weeks), Visit 7(12 weeks)",
+                              "Visit 2(Day 1), Visit 5(4 weeks), Visit 6(8 weeks), Visit 7(12 weeks)"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04976140"
+                        ]
+                  }
+            ]
+      }
+}

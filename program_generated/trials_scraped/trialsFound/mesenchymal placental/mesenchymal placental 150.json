@@ -1,0 +1,1296 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal placental",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 26,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 26,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Single dose experiments",
+                              "Multi-dose experiments"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "In single dose experiments, after clean the diabetic foot ulcer, paint the Human placental mesenchymal stem cells gel on the wound, each patient only receive treatment once time.",
+                              "In multi-dose experiments, after clean the diabetic foot ulcer, paint the Human placental mesenchymal stem cells gel on the wound, each patient receive treatment on six consecutive days."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Single dose experiments",
+                              "Multi-dose experiments"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04464213"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "MSC and insulins",
+                              "MSC and the combination of drugs and insulins",
+                              "MSC and the oral hypoglycemic drugs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hypo",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hypoglycemic Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M9206",
+                              "M9517",
+                              "M172956",
+                              "M21797",
+                              "M225598"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Hypoglycemic Agents",
+                              "Insulin",
+                              "Insulin, Globin Zinc",
+                              "Acarbose",
+                              "Gliquidone"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "1.0E+6 MSC/kg, IV drop in Day 0 and repeat to apply in Day 90 if the effect of MSC is better."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "MSC"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01413035"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "exosome therapy",
+                              "placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3369"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anti-Inflammatory Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "placenta-MSCs derived exosomes Exosomes are extracellular vesicles that are 30 to 150 nm in diameter. these vesicles are secreted from various cells. Mesenchymal stem cells exhibit immunomodulatory and anti- inflammatory properties by the use of paracrine effects. Exosomes as a vehicle for signaling, are responsible for a major part of cell to cell signaling. The preclinical animal studies manifested high safety and efficacy for MSC derived exosome treatment on various fistulas and inflammatory bowel disease. In this study we aimed to evaluate the safety and efficacy of PlacentaMSCs derived exosomes in treatment of patients with complex preanal fistula (non-crohn's) in phase I and II of clinical trial"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "placenal MSC derived exosomes"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05499156"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "InterventionArmGroupLabel": [
+                              "1*10^6 MSC / kg",
+                              "2*10^6 MSC / kg"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "MSC will be derived from mothers donating their term placenta for clinical trial research purposes at Mater Mothers Hospital, Brisbane. The donation, isolation and expansion of placental-derived MSC for research purposes has been approved by the Mater Health Services (MHS) Human Research Ethics Committee (Reference No. 1292A). These volunteer donor mothers are unrelated to and will be HLA-unmatched with the IPF recipients."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Placental MSC"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01385644"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "InterventionArmGroupLabel": [
+                              "Controls",
+                              "exosome cases"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3369"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anti-Inflammatory Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Exosomes are extracellular vesicles that are 30 to 150 nm in diameter. these vesicles are secreted from various cells. Mesenchymal stem cells exhibit immunomodulatory and anti- inflammatory properties by the use of paracrine effects. Exosomes as a vehicle for signaling, are responsible for a major part of cell to cell signaling. The preclinical animal studies manifested high safety and efficacy for MSC derived exosome treatment on various fistulas and inflammatory bowel disease. In this study we aimed to evaluate the safety and efficacy of Placenta-MSCs derived exosomes in treatment of patients with complex preanal fistula (non-crohn's) in phase I and II of clinical trial."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "placenta-MSCs derived exosomes"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05402748"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "InterventionArmGroupLabel": [
+                              "Injection of PMD-MSCs into the penis"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Placental Matrix-Derived Mesenchymal Stem Cells (PMD-MSCs)"
+                        ],
+                        "InterventionOtherName": [
+                              "Ovation"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02395029"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "InterventionArmGroupLabel": [
+                              "Injection of PMD-MSCs into the penis"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Placental Matrix-Derived Mesenchymal Stem Cells (PMD-MSCs)"
+                        ],
+                        "InterventionOtherName": [
+                              "Ovation"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02398370"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "InterventionArmGroupLabel": [
+                              "Hyaluronic Acid (HA) + P-MMSCs",
+                              "Hyaluronic Acid (HA) + BM-MMSCs",
+                              "Hyaluronic Acid (HA)",
+                              "Hyaluronic Acid (HA) + BM-MMSCs",
+                              "Hyaluronic Acid (HA) + P-MMSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Community mental health"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M9030",
+                              "M2780",
+                              "M9353",
+                              "M27448",
+                              "M21022"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Hyaluronic Acid",
+                              "Adjuvants, Immunologic",
+                              "Immunologic Factors",
+                              "Viscosupplements",
+                              "Protective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Cryopreserved placenta-derived multipotent mesenchymal stem / stromal cells",
+                              "Cryopreserved bone marrow-derived multipotent mesenchymal stem / stromal cells",
+                              "Hyaluronic Acid 20 mg"
+                        ],
+                        "InterventionMeshId": [
+                              "D000006820"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Hyaluronic Acid"
+                        ],
+                        "InterventionName": [
+                              "Placenta-derived MMSCs",
+                              "Bone marrow-derived MMSCs",
+                              "Hyalgan 20 mg in 2 ML Prefilled Syringe"
+                        ],
+                        "InterventionOtherName": [
+                              "P-MMSCs",
+                              "BM-MMSCs",
+                              "HA"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04453111"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "InterventionArmGroupLabel": [
+                              "Treatment with PMSC-ECM",
+                              "non-PMSC untreated contemporaneous cohort"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "All",
+                              "Analg"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "All Drugs and Chemicals",
+                              "Analgesics"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3374",
+                              "M3184",
+                              "M3376"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anti-Bacterial Agents",
+                              "Analgesics",
+                              "Antibiotics, Antitubercular"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "As in the current standard fetal surgery, under sonographic guidance, initial uterine entry will be accomplished by uterine stapling device or similar. The fetus will be given an intramuscular injection of pain medications and paralytic. The myelomeningocele will be closed in a standardized manner under magnification. As in the standard fetal operation, the spinal cord will be dissected from surrounding tissue and allowed to drop into the spinal canal. The PMSC-ECM product will then be tailored to the size of the spinal cord and applied topically, cell side down. The PMSC-ECM product will be sutured in place to the dura. Finally, the fetal skin will be closed in the standard fashion. The amniotic fluid volume will be replaced and antibiotics will be added. The uterus will be closed. The abdominal fascial layer and skin will be closed in routine fashion.",
+                              "The addition of a non-PMSC treated cohort, the untreated contemporaneous cohort, has been added at the request of the FDA to provide contemporaneous patients for validation of the continued relevance of use of the outcomes of the MOMS trial as the comparison arm for the Phase 2a portion of the study."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Placental Mesenchymal Stem Cells seeded on a commercially available dural graft extracellular matrix",
+                              "Untreated contemporaneous cohort"
+                        ],
+                        "InterventionOtherName": [
+                              "PMSC-ECM",
+                              "non-PMSC-ECM"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04652908"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "InterventionArmGroupLabel": [
+                              "Human umbilical cord-derived MSCs and DMARDs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "ANeo",
+                              "All",
+                              "ARhu",
+                              "Derm",
+                              "Repr",
+                              "Infl",
+                              "Analg",
+                              "Gast"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Antineoplastic Agents",
+                              "All Drugs and Chemicals",
+                              "Antirheumatic Agents",
+                              "Dermatologic Agents",
+                              "Reproductive Control Agents",
+                              "Anti-Inflammatory Agents",
+                              "Analgesics",
+                              "Gastrointestinal Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M15711",
+                              "M10855",
+                              "M14432"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Thalidomide",
+                              "Methotrexate",
+                              "Sulfasalazine"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "1.0E+6 MSC/kg, IV drop and repeat repeated after three months"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Human umbilical cord-derived MSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01420432"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "InterventionArmGroupLabel": [
+                              "Human umbilical cord-derived MSCs and cyclosporin",
+                              "cyclosporine A"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "ARhu",
+                              "Derm",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Antirheumatic Agents",
+                              "Dermatologic Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Impact",
+                              "Impact"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M18113",
+                              "M5882",
+                              "M9364",
+                              "M9353",
+                              "M3406",
+                              "M5404",
+                              "M10948",
+                              "M3366",
+                              "M6226",
+                              "M19757",
+                              "M29605"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Cyclosporine",
+                              "Cyclosporins",
+                              "Immunosuppressive Agents",
+                              "Immunologic Factors",
+                              "Antifungal Agents",
+                              "Clotrimazole",
+                              "Miconazole",
+                              "Anti-Infective Agents",
+                              "Dermatologic Agents",
+                              "Antirheumatic Agents",
+                              "Calcineurin Inhibitors"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "1.0E+6 MSC/kg, IV drop and repeat to apply in trimonthly for 2 cycle and cyclosporin A 5mg/kg po for 12 months",
+                              "cyclosporin A 5mg/kg po for 12 months"
+                        ],
+                        "InterventionMeshId": [
+                              "D000016572",
+                              "D000003524"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Cyclosporine",
+                              "Cyclosporins"
+                        ],
+                        "InterventionName": [
+                              "Human umbilical cord-derived MSCs and cyclosporin A",
+                              "cyclosporin A"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01182662"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "InterventionArmGroupLabel": [
+                              "Human umbilical cord-derived MSCs",
+                              "cyclosporine A (CsA)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "ARhu",
+                              "Derm",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Antirheumatic Agents",
+                              "Dermatologic Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Impact",
+                              "Impact"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M18113",
+                              "M5882",
+                              "M9364",
+                              "M9353",
+                              "M3406",
+                              "M5404",
+                              "M10948",
+                              "M3366",
+                              "M6226",
+                              "M19757",
+                              "M29605"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Cyclosporine",
+                              "Cyclosporins",
+                              "Immunosuppressive Agents",
+                              "Immunologic Factors",
+                              "Antifungal Agents",
+                              "Clotrimazole",
+                              "Miconazole",
+                              "Anti-Infective Agents",
+                              "Dermatologic Agents",
+                              "Antirheumatic Agents",
+                              "Calcineurin Inhibitors"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "1.0E+6 MSC/kg, IV drop and repeat to apply in trimonthly for 2 cycle",
+                              "CsA 5mg/kg po for 6 months"
+                        ],
+                        "InterventionMeshId": [
+                              "D000016572",
+                              "D000003524"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Cyclosporine",
+                              "Cyclosporins"
+                        ],
+                        "InterventionName": [
+                              "Human umbilical cord-derived MSCs",
+                              "cyclosporine A (CsA)"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01129739"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "InterventionArmGroupLabel": [
+                              "Placenta Derived Mesenchymal Stem Cell",
+                              "sodium hyaluronate"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "PCOS"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M9030",
+                              "M2780",
+                              "M9353",
+                              "M27448",
+                              "M21022"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Hyaluronic Acid",
+                              "Adjuvants, Immunologic",
+                              "Immunologic Factors",
+                              "Viscosupplements",
+                              "Protective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "1ml 1*10^7 Placenta Derived Mesenchymal Stem Cell administered into the knee joint once",
+                              "Sodium hyaluronate administered into the knee joint once"
+                        ],
+                        "InterventionMeshId": [
+                              "D000006820"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Hyaluronic Acid"
+                        ],
+                        "InterventionName": [
+                              "Placenta Derived Mesenchymal Stem Cell",
+                              "Sodium Hyaluronate"
+                        ],
+                        "InterventionOtherName": [
+                              "Mesenchymal Stromal Cells (MSCs)",
+                              "hyaluronate"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT03028428"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "InterventionArmGroupLabel": [
+                              "Experimental/treatment arm",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "The treatment consists of administration of WJ-Pure\u2122 and EV-Pure\u2122 plus standard care",
+                              "Cryopreservation media plus standard care"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "EV-Pure\u2122 and WJ-Pure\u2122",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05387278"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "InterventionArmGroupLabel": [
+                              "Experimental group",
+                              "Control Group",
+                              "Experimental group",
+                              "Control Group",
+                              "Experimental group",
+                              "Control Group",
+                              "Experimental group",
+                              "Control Group",
+                              "Experimental group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infl",
+                              "ANeo",
+                              "AnEm",
+                              "Gast",
+                              "All",
+                              "Infe",
+                              "FiAg",
+                              "AnCoag"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Inflammatory Agents",
+                              "Antineoplastic Agents",
+                              "Antiemetics",
+                              "Gastrointestinal Agents",
+                              "All Drugs and Chemicals",
+                              "Anti-Infective Agents",
+                              "Fibrinolytic Agents",
+                              "Anticoagulants"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Test",
+                              "Include",
+                              "Position",
+                              "Choice",
+                              "Colony",
+                              "Resonance",
+                              "Chemoradiation"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M6254",
+                              "M8941",
+                              "M3374",
+                              "M235540",
+                              "M19304",
+                              "M3396",
+                              "M3376",
+                              "M136812",
+                              "M19284",
+                              "M4845",
+                              "M3369",
+                              "M3403",
+                              "M8033",
+                              "M8199",
+                              "M8940",
+                              "M20119",
+                              "M3366",
+                              "M7625"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Dexamethasone",
+                              "Hormones",
+                              "Anti-Bacterial Agents",
+                              "Dexamethasone acetate",
+                              "Enoxaparin",
+                              "Anticoagulants",
+                              "Antibiotics, Antitubercular",
+                              "Enoxaparin sodium",
+                              "Azithromycin",
+                              "Ceftriaxone",
+                              "Anti-Inflammatory Agents",
+                              "Antiemetics",
+                              "Gastrointestinal Agents",
+                              "Glucocorticoids",
+                              "Hormone Antagonists",
+                              "Antineoplastic Agents, Hormonal",
+                              "Anti-Infective Agents",
+                              "Fibrinolytic Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "i/v infusions",
+                              "per os",
+                              "a moderate amount of dexamethasone i/v",
+                              "Sub-Q",
+                              "\u041exygen therapy, mechanical ventilation and other supportive therapies"
+                        ],
+                        "InterventionMeshId": [
+                              "D000000900",
+                              "D000017963",
+                              "D000002443",
+                              "D000003907",
+                              "D000017984",
+                              "D000000925",
+                              "D000006728"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Anti-Bacterial Agents",
+                              "Azithromycin",
+                              "Ceftriaxone",
+                              "Dexamethasone",
+                              "Enoxaparin",
+                              "Anticoagulants",
+                              "Hormones"
+                        ],
+                        "InterventionName": [
+                              "Placenta-Derived MMSCs; Cryopreserved Placenta-Derived Multipotent Mesenchymal Stromal Cells",
+                              "Antibiotics",
+                              "Hormones",
+                              "Anticoagulant Therapy",
+                              "\u041exygen therapy"
+                        ],
+                        "InterventionOtherName": [
+                              "P-MMSCs",
+                              "ceftriaxone and azithromycin capsules",
+                              "dexamethasone",
+                              "\u0415noxaparin",
+                              "\u041exygen insufflation"
+                        ],
+                        "InterventionType": [
+                              "Procedure",
+                              "Drug",
+                              "Drug",
+                              "Drug",
+                              "Device"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04461925"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "InterventionArmGroupLabel": [
+                              "Active",
+                              "Sedentary"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "No behavioral intervention included but the exposure is level of physical activity. Individuals in the Active group will be categorized by their own routine physical activity levels.",
+                              "No behavioral intervention included but the exposure is level of physical activity. Individuals in the Sedentary group will be categorized by their own routine physical activity levels."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Active",
+                              "Sedentary"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Behavioral",
+                              "Behavioral"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03489564"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "InterventionArmGroupLabel": [
+                              "HAM and HUMCWJ Injections (Group 1)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "SURGENEX SurForce\u00ae (1cc) allograft placental based tissue matrix, will be injected using a 22 gauge, 2-inch needle. The injection site (medial, lateral, patellar) will be determined based on the side with the most joint space from the findings of the most recent x-rays. The Physician will insert the needle fully into the joint space and begin to expel the fluid. He will achieve a continuous injection flow as he withdraws the needle back out of joint space. Immediately following the SURGENEX SurForce\u00ae injection, an injection of Predictive Biotech CORECYTE(TM) (1 cc) allograft umbilical cord-derived Warton's Jelly tissue matrix will be administered. This will be done using the exact same protocol as the SURGENEX SurForce\u00ae injection."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HAM and HUMCWJ Injections"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03337243"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "InterventionArmGroupLabel": [
+                              "PLX-PAD high dose",
+                              "PLX-PAD intermediate dose",
+                              "PLX-PAD low dose"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Single treatment; multiple injections"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "PLX-PAD IM injection"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00919958"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "1-2X10^6 MSC per kg"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "MSC transplantation"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00749164"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "InterventionArmGroupLabel": [
+                              "PLX-PAD high dose",
+                              "PLX-PAD low dose"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "IM injection"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "PLX-PAD"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00951210"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "InterventionArmGroupLabel": [
+                              "PLX-PAD Treatment"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "PLX-PAD - allogeneic ex-vivo expanded placental mesenchymal-like adherent stromal cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "PLX-PAD"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04614025"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "InterventionArmGroupLabel": [
+                              "0.5 M PLX-PAD",
+                              "1 M PLX-PAD",
+                              "2 M PLX-PAD"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "intravenous administration of a single dose of PLX-PAD cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "PLX-PAD"
+                        ],
+                        "InterventionOtherName": [
+                              "allogeneic Mesenchymal-like Adherent Stromal Cells (ASCs)"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01795950"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "InterventionArmGroupLabel": [
+                              "PLX-PAD high dose",
+                              "PLX-PAD interval high dose",
+                              "PLX-PAD low dose",
+                              "Control Group A",
+                              "Control Group B"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "PLX-PAD, allogeneic ex vivo expanded placental mesenchymal-like adherent stromal cells",
+                              "Placebo solution for injection"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "PLX-PAD",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04389450"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "InterventionArmGroupLabel": [
+                              "First cohort of 3 subjects enrolled",
+                              "Second cohort of 3 subjects enrolled"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Infants who meet enrollment criteria for moderate to severe hypoxic ischemic encephalopathy will receive 1 infusion of hCT-MSC within the first 48 postnatal hours. hCT-MSCs are a product of allogeneic cells manufactured from digested umbilical cord tissue that is expanded in culture, cryopreserved and banked. hCT-MSCs are manufactured from umbilical cord tissue donated to the Carolinas Cord Blood Bank, an FDA-licensed, FACT-accredited, public cord blood bank at Duke University Medical Center, after written informed consent from the baby's mother. Cord tissue is harvested from the placentas of male babies delivered by elective C-section after a normal, full- term pregnancy."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Infusion of hCT-MSC"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03635450"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [],
+                        "InterventionOtherName": [],
+                        "InterventionType": [],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02926079"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "InterventionArmGroupLabel": [
+                              "Differentiated stem cell therapy group",
+                              "undifferentiated stem cell therapy group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Differentiated stem cells to endometrium is deposited in the uterine cavity through an IUI catheter",
+                              "Undifferentiated MSC is deposited in the uterine cavity through an IUI catheter."
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01649752"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,923 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Critical Limb Ischemia",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 27,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 27,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Intramuscular injection",
+                              "Intramuscular injection"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: mesenchymal stem cells",
+                              "Drug: Plasmalyte A"
+                        ],
+                        "ArmGroupLabel": [
+                              "mesenchymal stem cells",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT00883870"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "- Administration Method: 1 mL is withdrawn from 1 vial of clusters of adipose-derived mesenchymal stem cells, composed of adipose-derived mesenchymal stem cells and diluted with 20 mL of saline, which is divided into 1 cc pre-filled syringes and administered in 20 divided doses to 15-20 parts of the muscle in divided doses along the working areacourse of the tibial artery and peroneal artery below the knee joint (above the lower ischemic area) of the subject (above the lower ischemic area) of the subjects under general anesthesia or spinal anesthesia so that the entire diluted solution is administered.",
+                              "- Administration Method: 1 mL is withdrawn from 1 vial of clusters of adipose-derived mesenchymal stem cells, composed of adipose-derived mesenchymal stem cells and diluted with 20 mL of saline, then administered to 15-20 parts of the muscle along the working areacourse of the tibial artery and peroneal artery below the knee joint (above the lower ischemic area) of the subject (above the lower ischemic area) of the subjects under general anesthesia or spinal anesthesia."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Clusters of adipose-derived mesenchymal stem cells (Dose: 1 x 10^7 cells/1 mL/vial)",
+                              "Biological: Clusters of adipose-derived mesenchymal stem cells (Dose: 1 x 10^8 cells/1 mL/vial)"
+                        ],
+                        "ArmGroupLabel": [
+                              "Test Group 1 (Low Dose)",
+                              "Test Group 2 (High Dose)"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04661644"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Autologous bone marrow-derived mononuclear cells and mesenchymal stem cells",
+                              "Autologous bone marrow-derived mononuclear cells"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Mononuclear and mesenchymal stem cells",
+                              "Biological: Mononuclear cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Mononuclear and mesenchymal stem cells",
+                              "Mononuclear cells only"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01456819"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Mesenchymal stem cells, Intramuscular injection",
+                              "Normal saline, Intramuscular injection"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Mesenchymal stem cells",
+                              "Biological: Normal saline"
+                        ],
+                        "ArmGroupLabel": [
+                              "Mesenchymal stem cells",
+                              "Normal saline"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03239535"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Within 30 days after extracting bone marrow, autologous bone marrow-derived mesenchymal stem cells is directly injected into the lesion. Then the second cell is injected within 30 days after the first cell injection."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Cellgram-CLI"
+                        ],
+                        "ArmGroupLabel": [
+                              "2-time injection group : Cellgram-CLI"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02477540"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Stempeucel - CLI will be administered at the lowest dose",
+                              "Stempeucel - CLI will be administered at intermediate dose",
+                              "Standard protocol of care alone"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Allogeneic Mesenchymal Stem Cells",
+                              "Biological: Allogeneic Mesenchymal Stem Cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Low dose",
+                              "Intermediate dose",
+                              "Control arm"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01484574"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "Acronym": [
+                              "CLI"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [
+                              "Biological: allogeneic umbilical cord-derived mesenchymal stem cells",
+                              "Biological: allogeneic umbilical cord-derived mesenchymal stem cells",
+                              "Biological: Placebo (NaCl)"
+                        ],
+                        "ArmGroupLabel": [
+                              "simple dose",
+                              "double dose",
+                              "placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03994666"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Group of low dose of Mesenchymal stem cells.",
+                              "Group of mid dose of mesenchymal stem cells",
+                              "Controlled group with no intervention"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Autologous adipose derived mesenchymal stem cells",
+                              "Drug: Autologous adipose derived mesenchymal stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Mesenchymal stem cells 0,5 million * weight (kg)",
+                              "Mesenchymal stem cells 1 million * weight (kg)",
+                              "Controlled group"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Active Comparator",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01257776"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01663376"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [
+                              "Biological: Symptoms and Objective Examination"
+                        ],
+                        "ArmGroupLabel": [
+                              "Symptoms and Objective Examination"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT00955669"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "- Infusion of mesenchymal stem cells from adipose tissue: 0.5x106 cells / kg of patient weight.",
+                              "- Infusion of mesenchymal stem cells from adipose tissue: 1x106 cells / kg of patient weight.",
+                              "Conventional treatment"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: Mesenchymal stem cells from adipose tissue",
+                              "Other: Mesenchymal stem cells from adipose tissue"
+                        ],
+                        "ArmGroupLabel": [
+                              "Low dose",
+                              "High dose",
+                              "Control"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01745744"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "0.9% physiological saline",
+                              "Low dose allogeneic mesenchymal stem cells derived from adipose tissue",
+                              "High dose allogeneic mesenchymal stem cells derived from adipose tissue"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Placebos",
+                              "Drug: Low dose allogeneic mesenchymal stromal cells",
+                              "Drug: High dose allogeneic mesenchymal stromal cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Control arm",
+                              "Low dose treatment arm",
+                              "High dose treatment arm"
+                        ],
+                        "ArmGroupType": [
+                              "Placebo Comparator",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04466007"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "single dose of autologous adipose derived Stromal Vascular Fraction (SVF) SVF divided in two fraction and infused intravenously and intramuscularly",
+                              "One dose of 1 million per kg body weight adipose tissue derived Ex-vivo expanded Mesenchymal stem cells (MSC) intravenously and one dose of 1 million per kg body weight adipose tissue derived Ex-vivo expanded Mesenchymal stem cells (MSC) intramuscularly"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Autologous Stromal Vascular Fraction (SVF)",
+                              "Biological: Autologous Adipose Derieved MSCs",
+                              "Other: Control"
+                        ],
+                        "ArmGroupLabel": [
+                              "Autologous Stromal Vascular Fraction",
+                              "Autologous Adipose Derived MSCs",
+                              "Control"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02145897"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [
+                              "Procedure: PTA",
+                              "Biological: PTA + Infusion of MSC_Apceth"
+                        ],
+                        "ArmGroupLabel": [
+                              "Group B",
+                              "Group A"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01351610"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Low dose allogenic mesenchymal stem cells with IM injection",
+                              "High dose allogenic mesenchymal stem cells with IM injection",
+                              "normal saline with Intramuscular injection"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Allogenic MSC",
+                              "Drug: Allogenic MSC",
+                              "Drug: Normal saline"
+                        ],
+                        "ArmGroupLabel": [
+                              "Low Dose Allogenic MSC",
+                              "High Dose Allogenic MSC",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02336646"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "20 million hMSCs .",
+                              "40 million hMSCs",
+                              "80 million hMSCs ."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: 20 million hMSCs",
+                              "Drug: 40 million hMSCs",
+                              "Drug: 80 million hMSCs"
+                        ],
+                        "ArmGroupLabel": [
+                              "low dose cohort",
+                              "mid dose cohort",
+                              "high dose cohort"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03455335"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Multiple intra muscular injection of mesenchymal stem cells derived from human umbilical cord.",
+                              "Any therapy for diabetic foot which is routinely practiced and accepted in China"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: umbilical cord mesenchymal stem cells",
+                              "Drug: Standard Therapy"
+                        ],
+                        "ArmGroupLabel": [
+                              "umbilical cord mesenchymal stem cells",
+                              "Standard Therapy"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01216865"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "Acronym": [
+                              "HULPVAS"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Intramuscular injection of a suspension of adult mesenchymal stem cells derived from adipose tissue at doses of 1 million per kilo of weight in a dosis"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: Intramuscular injection of a suspension of adult mesenchymal stem cells derived"
+                        ],
+                        "ArmGroupLabel": [
+                              "Autologous mesenchymal stem cells"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01824069"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Patients randomized to the active treatment group will receive CardioCell consist 30 000 000 cells (suspended in 20 ml of 0.9% NaCl and 5% albumin); 15 000 000 via common femoral artery injection and 15 000 000 via intramuscular injections above the knee (ATK, 6 injection sites) and below the knee (BTK, 6 injection sites).",
+                              "Patients randomized to the placebo group will receive Placebos consist 0.9% NaCl and 5% albumin injections (in the same volumes as CardioCell) injections in the same manner."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: CardioCell",
+                              "Drug: Placebos"
+                        ],
+                        "ArmGroupLabel": [
+                              "Active Group",
+                              "Control Group"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03423732"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [
+                              "Biological: Administration of ERC"
+                        ],
+                        "ArmGroupLabel": [
+                              "Intramuscular injection of ERC"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01558908"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Autologous mononuclear stem cell from the bone marrow in an unique infusion of 150-250 millions of cells",
+                              "Autologous endothelial progenitor CD133 stem cell from the bone marrow in an unique infusion of 2 - 7 millions of CD133 cells",
+                              "Autologous mesenchymal stem cells from the adipose tissue in an unique infusion of 0.5 millions of cells",
+                              "Current medication for the disease"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Stem cell infusion",
+                              "Drug: Stem cell infusion",
+                              "Drug: Stem cell infusion",
+                              "Drug: Stem cell infusion"
+                        ],
+                        "ArmGroupLabel": [
+                              "Autologous mononuclear stem cell from the bone marrow",
+                              "Autologous endothelial stem cell from the bone marrow",
+                              "Autologous mesenchymal stem cells from the adiposite tissue",
+                              "Current medication for the disease"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02287974"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Patients will receive intramuscular and local injection of stempeucel(R) in addition to standard protocol of care"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Stempeucel(R)"
+                        ],
+                        "ArmGroupLabel": [
+                              "Stem cells"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03056742"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "Acronym": [
+                              "ACellDREAM2"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Patients administrated with autologous ASC in their ischemic inferiors limbs"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Autologous ASC (for Adipose-derived Stem/Stroma Cell)"
+                        ],
+                        "ArmGroupLabel": [
+                              "ASC (Adipose-derived Stem/Stroma Cells)"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03968198"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Patient enrolled from emergency room or outpatient population undergo pre-operatory tests including blood test, thoracic radiography, electrocardiogram, cardiologic visit, TcPO2 measurement and Doppler ultrasonography. During surgery the terminal branches of the patient's leg arteries are mapped and under local anesthesia multiple injections (1 mL each) of the adipose tissue formulation are inoculated 1 cm above the end of the terminal branch of the peroneal, anterior, and posterior tibial arteries. Furthermore, a total amount of 0.5-1 ml of the autologous adipose tissue-derived cell (ATDC) fraction is injected 1 cm near to ischaemic lesions.\n\nAfter the surgical procedure, the patient will be followed for 6 months, during which he will undergo outpatient visits at 7 and 21 days; then at 1, 3 and 6 months. At each visit, the patient will be assessed for the amount of pain, the transcutaneous oximetry value, measurement of the ABI index, arterial ultrasound Doppler lower limbs."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Procedure: Autologous Fat Grafting"
+                        ],
+                        "ArmGroupLabel": [
+                              "Patients with critic limb ischemia"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04746599"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "patients received standard of care wound treatment according guideline of the American Diabetes Association (ADA)",
+                              "bone marrow stem cells administered intraarterial",
+                              "expanded bone marrow cells enriched in CD90+ mesenchymal stem cells administered intramuscular",
+                              "expanded bone marrow cells enriched in CD90+ mesenchymal stem cells administered intraarterial",
+                              "bone marrow stem cells administered intramuscular"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: bone marrow stem cells (BMC)",
+                              "Biological: tissue repair cells (TRC)",
+                              "Biological: tissue repair cells (TRC)",
+                              "Biological: bone marrow stem cells (BMC)"
+                        ],
+                        "ArmGroupLabel": [
+                              "control group",
+                              "bone marrow stem cells intraarterial",
+                              "tissue repair cells intramuscular",
+                              "tissue repair cells intraarterial",
+                              "bone marrow stem cells intramuscular"
+                        ],
+                        "ArmGroupType": [
+                              "No Intervention",
+                              "Active Comparator",
+                              "Active Comparator",
+                              "Active Comparator",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01065337"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "The patient will receive multiple injections in one session during the study. The injections will take place in the chronic wound bed and in the third distal part of the treated shin (in the form of a ring).\n\nMaximal amount of ABMD-MSC cells injected: 10-20*10^6 cells (up to volume of 20mL, depending on the wound size & patient weight)."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: ABMD-MSC"
+                        ],
+                        "ArmGroupLabel": [
+                              "ABDM-MSC"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01686139"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "Acronym": [
+                              "SAIL"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Intramuscular Allogeneic Bone marrow-derived Mesenchymal Stromal Cell Injection",
+                              "Intramuscular placebo injection"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Allogeneic Mesenchymal Stromal Cell",
+                              "Other: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "Allogeneic Mesenchymal Stromal Cell",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03042572"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,242 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal CardioCell",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 5,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 5,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Active Group",
+                              "Control Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Patients in the AMI trial will receive one dose of IMP during the index procedure. The IMP administration will be performed by dedicated catheter into infarct related artery.\n\nActive IMP consist of 30 000 000 of Wharton's jelly mesenchymal stem cells (WJMSCs) in each IMP dose prepared for patients randomized into active treatment group.",
+                              "Patients randomized to the control group will receive 0.9% NaCl and 5% albumin injections (in the same volume as CardioCell) in the same manner.\n\nControl group will receive the same amount of fluid used for WJMSCs preparation, without cells."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Cardiac Drug",
+                              "Placebos"
+                        ],
+                        "InterventionOtherName": [
+                              "CardioCell administration",
+                              "Placebo administration"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03404063"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "Active Group",
+                              "Control Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Patients randomized to the active treatment group will receive transcoronary or trans-bypass graft administration of 30 000 000 cells (suspended in 20 ml of 0.9% NaCl and 5% albumin).\n\nInjection will be performed using a dedicated cell delivery catheter. The cell delivery catheter is a typical coronary balloon catheter that is CE marked (1.2x10 mm balloon, RX system) modified to include cell delivery perforations in the balloon section of the catheter. The cell delivery catheter has been demonstrated not to affect cell viability or other cell properties.",
+                              "Patients randomized to the placebo group will receive Placebos consist 0.9% NaCl and 5% albumin injections (in the same volumes as CardioCell) via the coronary arter(ies)/bypass grafts. The CardioCell and placebo are distributed encoded, in an indistinguishable form."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "CardioCell",
+                              "Placebos"
+                        ],
+                        "InterventionOtherName": [
+                              "CardioCell administration",
+                              "Placebo administration"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03418233"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "Active Group",
+                              "Control Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Patients in the N-O CLI trial will receive a full dose of IMP three times during the trial: at baseline, after 45 days post index administration and after 3 months post index administration.\n\nIMP will be administered into femoral artery and intramuscularly with 50:50 proportion. The intramuscularly dose will be administered into muscles above and below the knee in 50:50 proportion.",
+                              "Patients randomized to the control group will receive 0.9% NaCl and 5% albumin injections (in the same volume as CardioCell) in the same manner.\n\nControl group will receive the same amount of fluid used for WJMSCs preparation, without cells."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "CardioCell",
+                              "Placebos"
+                        ],
+                        "InterventionOtherName": [
+                              "CardioCell administration",
+                              "Placebo administration"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03423732"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "InterventionArmGroupLabel": [
+                              "Experimental: Human (aMBMC)",
+                              "Placebo:Lactated Ringer's Solution (LRS)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "One time infusion Allogeneic Mesenchymal Bone Marrow Cells (aMBMC) 1.5 million cells/kg.",
+                              "One time infusion 1.5mL/kg"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic Mesenchymal Bone Marrow Cells (aMBMC)",
+                              "Lactated Ringer's Solution"
+                        ],
+                        "InterventionOtherName": [
+                              "Mesenchymal Stem Cells, (MSC) Marrow Stromal Cells.",
+                              "(LRS)"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02467387"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "InterventionArmGroupLabel": [
+                              "Control",
+                              "Stem Cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Allogeneic mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01770613"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,65 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Ossium vBM-MSC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Direct injection of vertebral bone marrow derived mesenchymal stem cells at a dose of 100 million cells into the ileal pouch fistula(s) at baseline with a possible repeat injection at 3 months if not completely healed from the first injection.",
+                              "Direct injection of normal saline. If not completely healed after 6 months, participants will then cross over to the treatment group to receive a direct injection of vertebral allogeneic bone marrow derived mesenchymal stem cells at a dose of 100 million cells into ileal pouch fistula(s)."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Ossium vBM-MSC",
+                              "Other: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "Vertebral Bone Marrow Derived Mesenchymal Stem Cells (vBM-MSC)",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05075811"
+                        ]
+                  }
+            ]
+      }
+}

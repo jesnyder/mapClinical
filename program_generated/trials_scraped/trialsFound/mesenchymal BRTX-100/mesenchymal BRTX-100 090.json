@@ -1,0 +1,66 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal BRTX-100",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Care Provider",
+                              "Investigator",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [
+                              "This is a double-blind, saline-controlled, and randomized study with blinded assessments using a single dose. Subjects that have a current diagnosis of chronic lumbar disc disease and meet eligibility criteria will be enrolled. Chronic lumbar disc disease is defined as back and/or radicular pain with degeneration of the disc confirmed by patient history, physical examination, and radiographic measures such as computed tomography (CT), magnetic resonance imaging (MRI), plain film, myelography, discography, or other acceptable means.\n\nSubjects randomized to active treatment will undergo bone marrow harvest for processing into BRTX-100 for intradiscal injection. Subjects randomized to control will also undergo a bone marrow and blood harvest but only receive saline intradiscal injection procedures. Subjects will return to the study site for a visit at Week 2, Week 12, Week 26, Week 52 and Week 104/Early Termination.\n\nThe trial will have a Safety Run-In component that will insert a 3+3 design for the initial subjects dosed with BRTX-100 at 40 \u00d7 106 cells. Specifically, the randomization scheme will be briefly shifted from the overall trial 2:1 randomization to an initial 3:1 allotment of intradiscal BRTX-100 versus saline control. As such, four subjects will initially be randomized and administered their agents. There will be a 14 day safety follow-up period that must elapse between dosing of each of the first four (4) subjects. Dosing of each subsequent subject in the Safety Run-In component cannot occur until the independent Medical Monitor (MM) reviews the previously-dosed subject's blinded data, including but not limited to physical examination findings, laboratory values and reported adverse events (AEs) and serious adverse events (SAEs), at the completion of the 14-day visit and documents the findings. If no potential dose- limiting toxicity (DLT) is noted by the MM, the MM will approve the dosing of the next subject. If a potential DLT is noted by the MM, the MM will request that an ad hoc Data Safety Monitoring Board (DSMB) review of unblinded data occur per DSMB Charter before the next subject is dosed."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Subject Inclusion Criteria:\n\nA subject is eligible for inclusion if all the following criteria are met:\n\nA high index of suspicion for discogenic pain, (i.e., painful degenerative disc(s) with or without protrusions < 5 mm)\n\nChronic Lower Back Pain for at least 6 months\nPain commonly provoked by prolonged sitting, forward bending, lifting, twisting, coughing, sneezing, or Valsalva maneuvers\nFailure of at least 6 months of conservative back pain care (can include any or all of the following: rest, anti-inflammatory medication, analgesics, narcotics, epidural injections or selective nerve root injections at the target level, facet joint injections, muscle relaxers, massage, acupuncture, chiropractic care)\nFailure of supervised therapy and education\nBaseline of \u2265 40 mm and \u2264 80 mm on low back pain visual analog scales (VAS) (average pain in the last week)\nBaseline Oswestry Disability Index (ODI) score \u2265 30 and < 90 on a 100-point scale\nNo localized and significant pain below beltline (i.e., potential sacroiliac joint pain) without lumbar pain component\nThigh or Leg pain, if present, is non prevailing and of nonradicular origin, i.e., not due to stimulation of nerve roots or dorsal root ganglion of a spinal nerve by compressive forces\nDiagnostic medial branch block or facet joint injection (bilateral unless the symptoms are purely unilateral in nature) in the last 12 months prior to the informed consent date indicates no prevailing facet joint involvement\n\nHas degenerative disc disease (DDD) as defined by the following:\n\nChanges from normal disc morphology of the affected disc as defined by radiographic evaluation\nModified Pfirrmann score of 2 to 7 on MRI\nModic Grade I or II changes or no change on MRI\nMay contain a contained protrusion and/or annular tear on MRI\nMaintained intervertebral disc heights of at least 50% as determined by investigator on MRI.\nDiscography, if not performed within the last 6 months prior to informed consent date, has to be performed if more than one degenerative disc is identified by MRI, and the symptomatic disc cannot be otherwise reasonably determined\nIf more than one degenerative disc is identified by MRI, no disc shall demonstrate greater degenerative change than the symptomatic disc or contain a protrusion greater than 5mm\nAged 18 to 60 years\nWilling and able to provide written informed consent\nNo evidence of contraindications to the procedure such as pregnancy, active infection, bleeding disorder, or metastatic cancer\n\nSubject Exclusion Criteria:\n\nA subject is not eligible to participate if any of the following criteria are met:\n\nSpinal Deformity (scoliosis >10 degrees, spondylolysis, spondylolisthesis, retrolisthesis) detected on MRI or plain film radiographic assessment\nDisc extrusions, sequestered fragments, facet cysts, or greater than mild spinal stenosis, or more severe disc degeneration by MRI\nPresence of a Grade V annular fissure on discography in a subject for whom provocation discography has been performed\nIntervertebral disc with radiographic evidence of Modified Pfirrmann Grade 8 or greater\nAny bleeding disorder, intrinsic or extrinsic\nRequired anticoagulation (with either antiplatelet agents or antithrombotics) that cannot be interrupted for harvest and injection procedures\nPlatelet count < 100,000\nInternational Normalized Ratio (INR) > 1.5\nExtreme obesity, as defined by NIH Clinical Guidelines Body Mass Index (BMI >40)\nClinically relevant instability on flexion-extension as determined by the investigator by overlaying films (flexion & extension films)\nHas undergone any previous lumbosacral spine surgery (e.g. discectomy, laminectomy, foraminotomy, fusion, intradiscal electrothermal therapy, intradiscal radiofrequency thermocoagulation.) or therapeutic percutaneous disc intervention\nHave any acute or chronic lumbosacral spine fracture\nHave a history of lumbosacral epidural steroid injections within 1 month prior to informed consent date.\nPlanned/expected use of systemic nonsteroidal anti-inflammatory drugs (NSAIDs) within 72 hours prior to study treatment.\nHave a known history of hypersensitivity or anaphylactic reaction to dimethyl sulfoxide (DMSO)\nActive significant non lumbosacral spinal orthopedic pain generators including, not limited to arthritic hip and/or knee, cervical disc disease\nMore widespread and ill-defined myofascial pain\nHave had treatment with any cellular or biological investigational therapy or device within 6 months of informed consent date and/or plans to participate in any other autologous or allogeneic stem cell/progenitor cell therapy trial during the 2-year follow-up period\nHave been a recipient of prior stem cell/progenitor cell therapy or other biological intervention to repair a lumbosacral intervertebral disc\nAre transient or has been treated in the last 6 months before enrollment for alcohol and/or drug abuse in an inpatient substance abuseprogram\nApparent ongoing and poorly controlled psychological or somatic disease that may impact treatment outcomes\nSocial, familial, or geographical hindrances to compliance with the study protocol or the informed consent process\nKnown autoimmune disease (e.g., systemic lupus erythematosus)\nRequired chronic immunosuppression\nPositive hepatitis C virus (HCV) antibody test\nPositive human immunodeficiency virus (HIV) Antigen/Antibody (Ag/Ab) Combo test\nPregnant or lactating women\nWomen of childbearing potential not protected by a highly-effective method of birth control\n\nClinically significant hematology and chemistry including, but not limited to:\n\nTotal bilirubin level \u22651.5 times institutional upper limit of normal (ULN)\nAlanine aminotransferase (ALT) or aspartate aminotransferase (AST) \u22652 x ULN\nAbsolute neutrophil count (ANC) < 1000/mm3\nHemoglobin \u226410 g/dL\nCreatinine clearance use calculated clearance (Cockcroft-Gault equation) of \u226450 mL/min\nAny other condition which in the judgment of the Investigator would preclude adequate evaluation of the safety and efficacy of the study drug\nInability to comply with the requirements of the study protocol\nHistory of smoking (active within 3 months of study treatment prior to informed consent date)\nActively on workers compensation or no-fault case for this complaint or any other active case or litigation pertaining to their lumbosacral pain.\nHistory of drug abuse or documented history of noncompliance with controlled substances\nHistory of regular, long term, daily opioid drug use (>30 MME)"
+                        ],
+                        "EnrollmentCount": [
+                              "99"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04042844"
+                        ]
+                  }
+            ]
+      }
+}

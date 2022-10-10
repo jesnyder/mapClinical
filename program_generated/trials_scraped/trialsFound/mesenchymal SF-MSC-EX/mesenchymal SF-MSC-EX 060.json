@@ -1,0 +1,101 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal SF-MSC-EX",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "Comparison of intra-articular administration of synovial fluid-derived mesenchymal stem cells-derived exosomes with synovial fluid-derived mesenchymal stem cells on the same patient."
+                        ],
+                        "BriefTitle": [
+                              "Clinical Efficacy of Exosome in Degenerative Meniscal Injury"
+                        ],
+                        "CentralContactEMail": [
+                              "aylaekersariboyaci@yahoo.com"
+                        ],
+                        "CentralContactName": [
+                              "Ayla Eker Sar\u0131boyac\u0131, AssocProfDr."
+                        ],
+                        "CentralContactPhone": [
+                              "+905382696420"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "The Scientific and Technological Research Council of Turkey"
+                        ],
+                        "CompletionDate": [
+                              "March 2025"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Knee; Injury, Meniscus (Lateral) (Medial)",
+                              "Meniscus Tear",
+                              "Meniscus Lesion",
+                              "Meniscus; Degeneration",
+                              "Meniscus; Laceration",
+                              "Meniscus Injury, Tibial",
+                              "Knee Injuries",
+                              "Knee Pain Swelling",
+                              "Arthralgia"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000007869",
+                              "D000007592",
+                              "D000009140",
+                              "D000010146",
+                              "D000009461"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Leg Injuries",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Pain",
+                              "Neurologic Manifestations"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC26",
+                              "All",
+                              "BC05",
+                              "BC23",
+                              "BC10"
+                        ],
+                        "NCTId": [
+                              "NCT05261360"
+                        ]
+                  }
+            ]
+      }
+}

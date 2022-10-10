@@ -1,0 +1,658 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Rheumatoid Arthritis",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 18,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 18,
+            "FieldList": [
+                  "MaximumAge",
+                  "MinimumAge",
+                  "NCTId",
+                  "NCTIdAlias",
+                  "OfficialTitle",
+                  "OrgClass",
+                  "OrgFullName",
+                  "OrgStudyId",
+                  "OrgStudyIdDomain",
+                  "OrgStudyIdLink",
+                  "OrgStudyIdType",
+                  "OtherEventAssessmentType",
+                  "OtherEventNotes",
+                  "OtherEventOrganSystem",
+                  "OtherEventSourceVocabulary"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "MaximumAge": [
+                              "60 Years"
+                        ],
+                        "MinimumAge": [
+                              "35 Years"
+                        ],
+                        "NCTId": [
+                              "NCT03333681"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Evaluation of Mesenchymal Stem Cell Therapy Effects on the Cellular and Humoral Immune Responses and Additionally Study on the Effect of Chemokines in Homing of the Immune Cells in Refractory Rheumatoid Arthritis Patients"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "Mashhad University of Medical Sciences"
+                        ],
+                        "OrgStudyId": [
+                              "931523"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 2,
+                        "MaximumAge": [
+                              "70 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT01547091"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Clinical Trial of Umbilical Cord-Derived Mesenchymal Stem Cells Transplantation for Rheumatoid Arthritis-Phase I/II"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Alliancells Bioscience Corporation Limited"
+                        ],
+                        "OrgStudyId": [
+                              "Alliancells-1"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 3,
+                        "MaximumAge": [
+                              "80 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT02643823"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Safety and Efficacy Study of Human Umbilical Cord-Mesenchymal Stem Cells for Rheumatoid Arthritis"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Shenzhen Hornetcorn Bio-technology Company, LTD"
+                        ],
+                        "OrgStudyId": [
+                              "HYK-Rheumatoid Arthritis"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 4,
+                        "MaximumAge": [
+                              "65 Years"
+                        ],
+                        "MinimumAge": [
+                              "10 Years"
+                        ],
+                        "NCTId": [
+                              "NCT01873625"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Resurfacing Articular Cartilage With Mesenchymal Stem Cells Transplantation in Patients With Knee Joint Osteoarthritis Affected by Rheumatoid Arthritis: Randomized Triple Blind Clinical Trial Phase II/III (ACRCT)"
+                        ],
+                        "OrgClass": [
+                              "OTHER_GOV"
+                        ],
+                        "OrgFullName": [
+                              "Royan Institute"
+                        ],
+                        "OrgStudyId": [
+                              "Royan-RA-001"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 5,
+                        "MaximumAge": [],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT01985464"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Feasibility Study of Umbilical Cord Tissue Derived Mesenchymal Stem Cells (UC-MSC) in Disease Modifying Anti-Rheumatic Drugs (DMARD) Resistant Rheumatoid Arthritis"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Translational Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "TBS-UCMSCRA-001"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 6,
+                        "MaximumAge": [
+                              "65 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT04971980"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Phase 1/2a, Open-Label Study to Evaluate the Safety and Efficacy of a Single Intravenous Infusion of BC-U001, a Human Umbilical Cord-Derived Mesenchymal Stem Cell Product, for Rheumatoid Arthritis"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Beijing Baylx Biotech Co., Ltd."
+                        ],
+                        "OrgStudyId": [
+                              "BC-U001-RA2019"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 7,
+                        "MaximumAge": [
+                              "70 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT03798028"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "The Effects and Safety of Mesenchymal Stem Cells in the Treatment of Moderate/Severe Rheumatoid Arthritis\uff0c a Multicenter Randomized Controlled Clinical Study"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "Xijing Hospital"
+                        ],
+                        "OrgStudyId": [
+                              "2014ZX09508002"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 8,
+                        "MaximumAge": [
+                              "65 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT03691909"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Phase 1/2a Clinical Trial to Assess Safety of a Single IV Infusion of Autologous Adipose-derived Mesenchymal Stem Cells in Adults With Active Rheumatoid Arthritis"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBRA01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment"
+                        ],
+                        "OtherEventNotes": [
+                              "Rheumatoid Arthritis Flare/Worsening of RA",
+                              "Staph Infection",
+                              "Diffuse Rash/Rash on Abdomen",
+                              "Shortness of Breath",
+                              "Bowel Blockage",
+                              "Anemia/Anemia Chronic Disease",
+                              "Renal Insufficiency",
+                              "Right Eyelid Pruritis",
+                              "Cyst Right Ear",
+                              "Neck Spasm"
+                        ],
+                        "OtherEventOrganSystem": [
+                              "Immune system disorders",
+                              "Skin and subcutaneous tissue disorders",
+                              "Skin and subcutaneous tissue disorders",
+                              "Respiratory, thoracic and mediastinal disorders",
+                              "Gastrointestinal disorders",
+                              "Blood and lymphatic system disorders",
+                              "Vascular disorders",
+                              "Blood and lymphatic system disorders",
+                              "Infections and infestations",
+                              "Renal and urinary disorders",
+                              "Eye disorders",
+                              "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+                              "Musculoskeletal and connective tissue disorders",
+                              "Infections and infestations",
+                              "Surgical and medical procedures"
+                        ],
+                        "OtherEventSourceVocabulary": [
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "MaximumAge": [],
+                        "MinimumAge": [],
+                        "NCTId": [
+                              "NCT05003934"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for the Treatment of Rheumatoid Arthritis"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "The Foundation for Orthopaedics and Regenerative Medicine"
+                        ],
+                        "OrgStudyId": [
+                              "SC-8-ATG-10-03"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 10,
+                        "MaximumAge": [
+                              "70 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT03828344"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Phase 1 Randomized, Placebo-Controlled, Double-Blind Study of the Safety and Tolerability of a Single Intravenous Infusion of BX-U001, a Human Umbilical Cord Tissue Derived Mesenchymal Stem Cell Product, for Refractory Rheumatoid Arthritis"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Baylx Inc."
+                        ],
+                        "OrgStudyId": [
+                              "BXU001-RA"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 11,
+                        "MaximumAge": [
+                              "80 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT03186417"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Cell-Based Therapy in Rheumatoid Arthritis: Proof of Concept Phase 1 Trial"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "MetroHealth Medical Center"
+                        ],
+                        "OrgStudyId": [
+                              "IRB16-00587"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 12,
+                        "MaximumAge": [
+                              "75 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT04170426"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Phase 1/2a Clinical Study for Subjects With Rheumatoid Arthritis (RA) Using Multiple Dose Intravenous Infusions of Autologous Adipose Tissue-Derived Mesenchymal Stem Cells (AdMSCs)"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Celltex Therapeutics Corporation"
+                        ],
+                        "OrgStudyId": [
+                              "CTX0019-001"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 13,
+                        "MaximumAge": [
+                              "75 Years"
+                        ],
+                        "MinimumAge": [
+                              "17 Years"
+                        ],
+                        "NCTId": [
+                              "NCT03067870"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Transplantation of Autologous Purified Bone Marrow Derived Specific Populations of Stem Cells and Mesenchymal Stem Cells in Patients With Rheumatoid Arthritis"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "Stem Cells Arabia"
+                        ],
+                        "OrgStudyId": [
+                              "SCA-RA1"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 14,
+                        "MaximumAge": [
+                              "80 Years"
+                        ],
+                        "MinimumAge": [
+                              "19 Years"
+                        ],
+                        "NCTId": [
+                              "NCT03618784"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Multi-center, Randomized, Double-blind, Parallel, Placebo-controlled Phase I/2a Clinical Trial to Evaluate the Efficacy and Safety of FURESTEM-RA Inj. for Moderate to Severe Rheumatoid Arthritis"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Kang Stem Biotech Co., Ltd."
+                        ],
+                        "OrgStudyId": [
+                              "K0202"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 15,
+                        "MaximumAge": [
+                              "65 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT01662973"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Phase 1/2 Study of UC-MSC Treatment for Evaluation the Efficacy and Safety in Patients With Primary Biliary Cirrhosis"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "Beijing 302 Hospital"
+                        ],
+                        "OrgStudyId": [
+                              "Beijing302-005"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 16,
+                        "MaximumAge": [
+                              "65 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT01661842"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Phase 1/2 Study of UC-MSC Treatment for Evaluation the Efficacy and Safety in Patients With Autoimmune Liver Disease"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "Beijing 302 Hospital"
+                        ],
+                        "OrgStudyId": [
+                              "Beijing302-006"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 17,
+                        "MaximumAge": [],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT01663116"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "\"Phase Ib/IIa, Escalating Dose, Single Blind, Clinical Trial to Assess the Safety of the i.v Administration of Allogeneic Adipose-derived Mesenchymal Cells (eASCs) to Refractory Rheumatoid Arthritis (RA) Patients\"."
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Takeda"
+                        ],
+                        "OrgStudyId": [
+                              "Cx611-0101"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 18,
+                        "MaximumAge": [
+                              "80 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT01413061"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Study of Subtalar Arthrodesis Using AlloStem\u00ae Versus Autologous Bone Graft"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "AlloSource"
+                        ],
+                        "OrgStudyId": [
+                              "AlloSource Subtalar Fusion RCT"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  }
+            ]
+      }
+}

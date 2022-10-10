@@ -1,0 +1,117 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal PrimeMSK",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This multi-arm, multi-site study investigates the safety, tolerability, and efficacy of stem cell therapy for the treatment of various acute and chronic conditions. Clinically observed initial findings and an extensive body of research indicate regenerative treatments are both safe and effective for the treatment of multiple conditions."
+                        ],
+                        "BriefTitle": [
+                              "Mesenchymal Stem Cells for the Treatment of Various Chronic and Acute Conditions"
+                        ],
+                        "CentralContactEMail": [
+                              "paul@thomasadvancedmedical.com",
+                              "karen@thomasadvancedmedical.com"
+                        ],
+                        "CentralContactName": [
+                              "Paul C Bogaardt, PhD(c), MSc, MBA",
+                              "Karen Mulholland Angelus"
+                        ],
+                        "CentralContactPhone": [
+                              "866 864 7789",
+                              "866 864 7789"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "UNKNOWN",
+                              "UNKNOWN"
+                        ],
+                        "CollaboratorName": [
+                              "HeartStem Institute",
+                              "NuStem"
+                        ],
+                        "CompletionDate": [
+                              "December 9, 2030"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Autoimmune Diseases",
+                              "Cardiovascular Disorders",
+                              "Diabetes Complications",
+                              "Integumentary Disease",
+                              "Musculoskeletal Disorders",
+                              "Neurodegenerative Disorders",
+                              "Neurologic Disorders",
+                              "Pulmonary Disorders",
+                              "Sexual Dysfunction",
+                              "Urologic Disorders",
+                              "Viral Illness"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010335",
+                              "D000007154",
+                              "D000003920",
+                              "D000004700",
+                              "D000012140"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathologic Processes",
+                              "Immune System Diseases",
+                              "Diabetes Mellitus",
+                              "Endocrine System Diseases",
+                              "Respiratory Tract Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC18",
+                              "BC19",
+                              "All",
+                              "BC08",
+                              "BC10",
+                              "BXM",
+                              "BC14",
+                              "BC01",
+                              "BC20",
+                              "BXS",
+                              "BC05",
+                              "BC17",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT04684602"
+                        ]
+                  }
+            ]
+      }
+}

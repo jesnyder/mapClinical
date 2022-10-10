@@ -1,6 +1,6 @@
 var tableGender = 
 [
-{'Gender': 'All', 'count': 842, 'enrolled': 43876} , 
-{'Gender': 'Female', 'count': 35, 'enrolled': 1330} , 
-{'Gender': 'Male', 'count': 21, 'enrolled': 492} , 
+{'Gender': 'All', 'count': 1332, 'enrolled': 63073} , 
+{'Gender': 'Female', 'count': 47, 'enrolled': 2149} , 
+{'Gender': 'Male', 'count': 37, 'enrolled': 767} , 
 ]

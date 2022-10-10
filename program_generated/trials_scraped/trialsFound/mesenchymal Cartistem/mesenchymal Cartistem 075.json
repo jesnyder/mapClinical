@@ -1,0 +1,327 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Cartistem",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 6,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 6,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [],
+                        "ConditionBrowseLeafName": [],
+                        "ConditionBrowseLeafRelevance": [],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02338375"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Articular Cartilage Defects"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3628",
+                              "M12078",
+                              "M4763",
+                              "M11249",
+                              "M5616"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Arthritis",
+                              "Osteoarthritis",
+                              "Cartilage Diseases",
+                              "Musculoskeletal Diseases",
+                              "Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000002357"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Cartilage Diseases"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01733186"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Wounds and Injuries",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Osteoarthritis",
+                              "Injury",
+                              "Microfracture"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M12078",
+                              "M16837",
+                              "M25523",
+                              "M17484",
+                              "M3628",
+                              "M9773",
+                              "M11249",
+                              "M14197",
+                              "M5475"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Osteoarthritis",
+                              "Wounds and Injuries",
+                              "Fractures, Bone",
+                              "Fractures, Stress",
+                              "Arthritis",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000010003",
+                              "D000014947",
+                              "D000015775"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Osteoarthritis",
+                              "Wounds and Injuries",
+                              "Fractures, Stress"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01041001"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Wounds and Injuries",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Osteoarthritis",
+                              "Microfracture"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M12078",
+                              "M25523",
+                              "M17484",
+                              "M3628",
+                              "M9773",
+                              "M11249",
+                              "M14197",
+                              "M5475",
+                              "M16837"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Osteoarthritis",
+                              "Fractures, Bone",
+                              "Fractures, Stress",
+                              "Arthritis",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases",
+                              "Wounds and Injuries"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000010003",
+                              "D000015775"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Osteoarthritis",
+                              "Fractures, Stress"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01626677"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ConditionBrowseBranchName": [],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [],
+                        "ConditionBrowseLeafName": [],
+                        "ConditionBrowseLeafRelevance": [],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02755376"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ConditionBrowseBranchName": [],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [],
+                        "ConditionBrowseLeafName": [],
+                        "ConditionBrowseLeafRelevance": [],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "A multicenter, Single-blinded, Stratified randomized"
+                        ],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04310215"
+                        ]
+                  }
+            ]
+      }
+}

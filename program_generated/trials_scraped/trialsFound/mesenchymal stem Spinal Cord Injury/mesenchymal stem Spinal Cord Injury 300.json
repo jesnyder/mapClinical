@@ -1,0 +1,1365 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Spinal Cord Injury",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 37,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 37,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Improvement in sensitivity and motor strength will be measured through change in American Spinal Injury Association (ASIA) score from baseline",
+                              "Functional Independence will be measured by FIM scoring",
+                              "Shall be done using Frankel scale"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Sensory and motor strength",
+                              "Functional Independence",
+                              "Muscle strength assessment"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year",
+                              "1 year",
+                              "1 year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02482194"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "According to motor index score"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Functional improvement in muscle strength",
+                              "Functional Improvement in sphincters control",
+                              "Functional improvement in spasticity control"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year",
+                              "1 year",
+                              "1 year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01694927"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Changes in motor and sensory scores assessed by IANR-SCIRFS scale (total score range from 0 to 51, higher values represent a better outcome)",
+                              "Changes in electromyogram test",
+                              "Changes in residual urine measured by ultrasound test (volume of urine in mL, lower values represent a better outcome)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Changes in International Association of Neural Restoration Spinal Cord Injury Functional Rating Scale (IANR-SCIRFS)",
+                              "Changes in electromyogram test",
+                              "Changes in residual urine"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline, 1 month, 3 months, 6 months and 12 months post-treatment",
+                              "Baseline, 6 months and 12 months post-treatment",
+                              "Baseline, 6 months and 12 months post-treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03505034"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Analyze the difference between the pre and post of the ASIA sensory score by using the Study's pre-test (Wilcoxon's signed test).\n\n<American Spinal Injury Association (ASIA) scale> The exam is based on neurological responses, touch and pinprick sensations tested in each dermatome, and strength of the muscles that control key motions on both sides of the body. Sensation is graded on a scale of 0-2: 0 is no sensation, 1 is altered or decreased sensation, and 2 is full sensation. Each side of the body is graded independently. When an area is not available (e.g. because of an amputation or cast), it is recorded as \"NT\", \"not testable\".",
+                              "Post 6 months of treatment, the validity is analyzed through patients who have expressed their responses to the electrophysiological test (Motor Evoked Potentials-MEP, Somatosensory Evoked Potentials-SSEP).",
+                              "Post 6 months of cell treatment, the ratio of patients with changes in magnetic resonance imaging is analyzed."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Sensory score of the American Spinal Injury Association (ASIA) scale",
+                              "Electrophysiological change (Motor Evoked Potentials-MEP, Somatosensory Evoked Potentials-SSEP)",
+                              "MRI and Diffusion Tensor Imaging of spinal cord"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline, post operation(24 hours), 1 month, 3 month, 6 month, 12 month",
+                              "6 months",
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01676441"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "somatosensory and motor evoked potentials",
+                              "Assessed by the Frankel scale.",
+                              "Assessed by ASIA score",
+                              "somatosensory and motor evoked potentials",
+                              "Assessed by the Frankel scale.",
+                              "Assessed by ASIA score",
+                              "somatosensory and motor evoked potentials",
+                              "Assessed by the Frankel scale.",
+                              "Assessed by ASIA score",
+                              "somatosensory and motor evoked potentials",
+                              "Assessed by the Frankel scale.",
+                              "Assessed by ASIA score"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Electromyogram and Electroneurophysiologic test",
+                              "Muscle strength assessment",
+                              "Motor and sensory assessment",
+                              "Electromyogram and Electroneurophysiologic test",
+                              "Muscle strength assessment",
+                              "Motor and sensory assessment",
+                              "Electromyogram and Electroneurophysiologic test",
+                              "Muscle strength assessment",
+                              "Motor and sensory assessment",
+                              "Electromyogram and Electroneurophysiologic test",
+                              "Muscle strength assessment",
+                              "Motor and sensory assessment"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 month after transplantation",
+                              "1 month after transplantation",
+                              "1 month after transplantation",
+                              "3 months after transplantation",
+                              "3 months after transplantation",
+                              "3 months after transplantation",
+                              "6 months after transplantation",
+                              "6 months after transplantation",
+                              "6 months after transplantation",
+                              "12 months after transplantation",
+                              "12 months after transplantation",
+                              "12 months after transplantation"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01446640"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ResultsFirstSubmitDate": [
+                              "May 21, 2020"
+                        ],
+                        "ResultsFirstSubmitQCDate": [
+                              "June 13, 2020"
+                        ],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "American Spinal Injury Association (ASIA) form is used to assess ASIA total score (Range: 0-324 scores). The higher scores mean a better outcome.",
+                              "SCI Functional Rating Scale of the International Association of Neurorestoratology (IANR-SCIFRS) form is used to assess IANR-SCIFRS total score (Range: 0-51 scores). The higher scores mean a better outcome.",
+                              "International Standards to document remaining Autonomic Function after Spinal Cord Injury (ISAFSCI) form is used to assess ISAFSCI score (autonomic nervous function) (Range: 5-32 scores). The higher scores mean a better outcome.",
+                              "Penn scale form is used to assess muscle spasm (Range: 0-4 scores). The higher scores mean a worse outcome.",
+                              "Modified Ashworth scale form is used to assess muscle spasticity (Range: 0-16 scores). The higher scores mean a worse outcome.",
+                              "Geffner scale form is used to assess bladder function (Range: 0-7 scores). The higher scores mean a better outcome.",
+                              "Neurogenic Bowel Dysfunction (NBD) scale form is used to assess bowel function (Range: 0-47 scores). The higher scores mean a worse outcome.",
+                              "Ultrasonic examination is used to assess residual urine volume"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "American Spinal Injury Association (ASIA) Total Score",
+                              "SCI Functional Rating Scale of the International Association of Neurorestoratology (IANR-SCIFRS) Total Score",
+                              "International Standards to Document Remaining Autonomic Function After Spinal Cord Injury (ISAFSCI) Score",
+                              "Penn Scale",
+                              "Modified Ashworth Scale",
+                              "Geffner Scale",
+                              "Neurogenic Bowel Dysfunction (NBD) Scale",
+                              "Residual Urine Volume"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "at first, second, third, and fourth transplantation and 1, 3, 6 months following the final administration of hUC-MSCs",
+                              "at first, second, third, and fourth transplantation and 1, 3, 6 months following the final administration of hUC-MSCs",
+                              "at first transplantation and 12 months following the final administration of hUC-MSCs",
+                              "at first transplantation and 12 months following the final administration of hUC-MSCs",
+                              "at first transplantation and 1, 3, 12 months following the final administration of hUC-MSCs",
+                              "at first transplantation and 12 months following the final administration of hUC-MSCs",
+                              "at first transplantation and 12 months following the final administration of hUC-MSCs",
+                              "at first transplantation and 12 months following the final administration of hUC-MSCs"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02481440"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Changes in motor and sensory scores assessed by IANR-SCIRFS scale (total score range from 0 to 51, higher values represent a better outcome)",
+                              "Changes in electromyogram test",
+                              "Changes in residual urine measured by ultrasound test (volume of urine in mL, lower values represent a better outcome)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Changes in International Association of Neural Restoration Spinal Cord Injury Functional Rating Scale (IANR-SCIRFS)",
+                              "Changes in electromyogram test",
+                              "Changes in residual urine"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline, 1 month, 3 months, 6 months and 12 months post-treatment",
+                              "Baseline, 6 months and 12 months post-treatment",
+                              "Baseline, 6 months and 12 months post-treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03521336"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Changes in motor and sensory scores assessed by IANR-SCIRFS scale (total score range from 0 to 51, higher values represent a better outcome)",
+                              "Changes in electromyogram test",
+                              "Changes in residual urine measured by ultrasound test (volume of urine in mL, lower values represent a better outcome)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Changes in International Association of Neural Restoration Spinal Cord Injury Functional Rating Scale (IANR-SCIRFS)",
+                              "Changes in electromyogram test",
+                              "Changes in residual urine"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline, 1 month, 3 months, 6 months and 12 months post-treatment",
+                              "Baseline, 6 months and 12 months post-treatment",
+                              "Baseline, 6 months and 12 months post-treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03521323"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The investigators will evaluate the conversion rate from ASIA A to B or C in 12 months.",
+                              "AIS (ASIA Improvement Scale) degree on the ASIA score will be assessed in order to evaluate sensitivity and motor force in 12 months.",
+                              "The patients will be submitted to specific questionnaires and clinical examinations in order to evaluate improvements in sensorial mapping and neuropathic pain."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Functional improvement in ASIA (American Spinal Injury Association) grade",
+                              "Functional improvement regarding the AIS (ASIA Impairment Scale) scores (light touch, pin prik and motor force)",
+                              "Improvements in sensorial mapping and neuropathic pain"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02574585"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Somatosensory Evoked Potentials (SSEPs) are electrical responses recorded from the nervous system following electrical stimulation of a peripheral nerve. For example, stimulation of the median nerve at the wrist produces electrical activity that travels along the sensory pathway on its way to the brain. This activity can be recorded with electrodes positioned along that pathway.",
+                              "Neurogenic Bladder Symptom Score (NBSS) The NBSS was designed as an objective and validated way to assess bladder symptoms in patients with neurogenic bladder dysfunction as a result of spinal cord injury, multiple sclerosis, and spinal bifida. The NBSS consists of 24 questions. The first question classifies patients by bladder management, but does not make up part of the numeric score. The remaining questions address 3 domains: incontinence, storage and voiding, and consequences. The final question is an overall quality of life question. The total score can range from 0 (no symptoms at all) to 74 (maximum symptoms).",
+                              "The Adult Neurogenic Bowel Dysfunction Score\u00b9, also known as the Adult NBD score has been designed to help healthcare professionals evaluate the effectiveness of their patient's current bowel management routine by assessing the impact it has on the patient's quality of life. By having your patients answer 10 simple questions, the Adult NBD Score can help identify and quantify severity of bowel dysfunction in the adult patients. The Adult NBD score consists of 10 questions and is a symptom-score where each symptom is weighted based on its impact on quality of life. The scores from each question are added together and a total score is calculated. The maximum score is 47 while minimum is 0. Score Severity of bowel dysfunction 0-6 Very minor 7-9 Minor 10-13 Moderate 14+ Severe",
+                              "Composition in reference to normal laboratory values.",
+                              "Patients will undergo Magnetic Resonance Imaging of the spine and the spinal cord with and without contrast.",
+                              "The relationship of adverse events to study drug will be graded into the following categories: probable, possible, unlikely, unrelated."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in sensory and motor function following completion of treatment as measured by Somatosensory Evoked Potentials (SSEPs)",
+                              "change in Neurogenic Bladder Symptom Score (NBSS)",
+                              "change in Neurogenic Bowel Symptom Score",
+                              "Incidence of abnormal CSF composition",
+                              "Number of subjects who develop a new pathologic mass at the spinal cord area of injection or anywhere along the spinal cord.",
+                              "Correlation of adverse events to study drug"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "baseline, up to 12 months post injection",
+                              "up to 24 months post injection",
+                              "up to 24 months post injection",
+                              "up to 4 weeks post injection",
+                              "up to 12 months post injection",
+                              "up to 4 weeks post injection"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Mayo Clinic Clinical Trials"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.mayo.edu/research/clinical-trials"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04520373"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [
+                              "Related Info"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.tcacellulartherapy.com"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01162915"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Functional Independence Measure (FIM) will be assessed before and after surgery.",
+                              "The MRI at the transplantation site will be assessed before and after transplantation.",
+                              "The ability to feel and control urination and bowel will be assessed based on bladder pressure monitory before and after surgery.",
+                              "Proportion of patients with postoperative infections and serious adverse events (SAEs) will be assessed by long term follow-up."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Improvements in Independence Measures",
+                              "Changes at the transplantation site in spinal cord by Magnetic Resonance Imaging (MRI)",
+                              "Improvements in Urinary and Bowel Function",
+                              "Safety and Tolerability assessed by Adverse Events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1, 3, 6, 12, 18 and 24 months",
+                              "1, 3, 6, 12, 18 and 24 months",
+                              "1, 3, 6, 12, 18 and 24 months",
+                              "Up to 6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02688049"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "AIS (ASIA Improvement Scale) degree on the ASIA score will be assessed in order to evaluate sensitivity and motor strength on the inferior limbs.",
+                              "The patients will undergo urodynamic study to evaluate urological improvements.",
+                              "The patients will be submitted to specific questionnaires and clinical examinations in order to evaluate improvements in sensorial mapping and neuropathic pain."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Sensitivity and motor strength on the inferior limbs",
+                              "Improvement in urological function",
+                              "Improvements in sensorial mapping and neuropathic pain"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Six months",
+                              "Six months",
+                              "Six months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02152657"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "It will be completed for each follow up point"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy: American Spinal Injury Association Impairment Scale (ASIA)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Four year follow-up"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05018793"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The investigators will evaluate the conversion rate from ASIA A to B or C in 12 months.",
+                              "AIS (ASIA Improvement Scale) degree on the ASIA score will be assessed in order to evaluate sensitivity and motor force in 12 months.",
+                              "The patients will be submitted to specific questionnaires and clinical examinations in order to evaluate improvements in sensorial mapping and neuropathic pain."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Functional improvement in ASIA (American Spinal Injury Association) grade",
+                              "Functional improvement regarding the AIS (ASIA Impairment Scale) scores (light touch, pin prik and motor force)",
+                              "Improvements in sensorial mapping and neuropathic pain"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02574572"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "To evaluate the change of treated spinal cord injury using Magnetic Resonance Imaging (MRI) at 3 and 6 months post injection of MSCs.",
+                              "To evaluate the change of treated spinal cord before cell implantation and at 3 and 6 months post injection of MSCs.",
+                              "To evaluate the change of treated spinal cord before cell implantation and at 3 and 6 months post injection of MSCs.",
+                              "To evaluate the change of treated spinal cord before cell implantation and at 3 and 6 months post injection of MSCs.",
+                              "To evaluate the change of treated spinal cord before cell implantation and at 3 and 6 months post injection of MSCs."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Magnetic Resonance Imaging",
+                              "MEP/SSEP",
+                              "ADL (activities of daily living)",
+                              "SF-36",
+                              "ODI (Oswestry Disability Questionnaire)",
+                              "Frequency of Adverse Events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "32 weeks",
+                              "32 weeks",
+                              "32 weeks",
+                              "32 weeks",
+                              "32 weeks",
+                              "32 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01769872"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "An adverse event is defined any untoward or undesirable medical occurrence in the form of signs, symptoms, abnormal findings, or diseases that emerge or worsen relative to baseline (i.e., if present upon study entry) during the study regardless of causal relationship to the study drug.",
+                              "The severity of adverse events will be graded into the following categories: mild, moderate, and severe.",
+                              "The relationship of adverse events to study drug will be graded into the following categories: probable, possible, unlikely, unrelated.",
+                              "SAE is defined as adverse events that result in death, life threatening adverse experiences, hospitalization, new or prolonged disability/incapacity.",
+                              "The ASIA Impairment Scale describes a person's functional impairment (both motor and sensory) as a result of their spinal cord injury. The scale has 5 levels, ranging from A (complete) to E (normal).",
+                              "Motor Evoked Potentials (MEP) are electrical responses recorded either from muscles, or from axons of the descending motor tract, in response to electrical or magnetic stimulation of nervous system structures that govern movement. While there are many different methods for stimulation and recording, the most common approach involves transcranial electrical stimulation of the motor pathway, using subdermal needle electrodes positioned in the scalp above primary motor cortex.",
+                              "Somatosensory Evoked Potentials (SSEPs) are electrical responses recorded from the nervous system following electrical stimulation of a peripheral nerve. For example, stimulation of the median nerve at the wrist produces electrical activity that travels along the sensory pathway on its way to the brain. This activity can be recorded with electrodes positioned along that pathway.",
+                              "Patients will undergo Magnetic Resonance Imaging of the spine and the spinal cord with and without contrast.",
+                              "Blood will be drawn in order to monitor for markers of systemic inflammation. The normal range of red blood cells varies slightly between laboratories but is generally between 4.2 - 5.9 million cells/cmm. This can also be referred to as the erythrocyte count and can be expressed in international units as 4.2 - 5.9 x 10^12 cells per liter.",
+                              "Serological test - Automated white cell differential. A machine generated percentage of the different types of white blood cells, usually split into granulocytes, lymphocytes, monocytes, eosinophils, and basophils.",
+                              "Serological test: Platelets are not complete cells, but actually fragments of cytoplasm from a cell found in the bone marrow called a megakaryocyte. Platelets play a vital role in blood clotting. Normal range varies slightly between laboratories but is in the range of 150,000 - 400,000/ cmm (150 - 400 x 10^9/liter).",
+                              "Serological test: C-reactive protein (CRP) is produced by the liver. The level of CRP rises when there is inflammation throughout the body. It is one of a group of proteins called acute phase reactants that go up in response to inflammation. C-reactive protein is measured in milligrams of CRP per liter of blood (mg/L). Normal CRP levels are below 3.0 mg/dL.",
+                              "Serological test. The erythrocyte sedimentation rate (ESR) is the rate at which red blood cells sediment in a period of one hour. It is a common hematology test, and is a non-specific measure of inflammation. The normal range is 0-22 mm/hr for men and 0-29 mm/hr for women.",
+                              "Serological test - basic metabolic panel. A blood urea nitrogen (BUN) test measures the amount of nitrogen in the blood that comes from the waste product urea. Urea is made when protein is broken down in the body. Urea is made in the liver and passed out of the body in the urine. A BUN test is done to see how well the kidneys are working. Results of the blood urea nitrogen test are measured in milligrams per deciliter (mg/dL).",
+                              "Serological test - basic metabolic panel. Creatinine is a waste product produced by muscles from the breakdown of a compound called creatine. Almost all creatinine is filtered from the blood by the kidneys and released into the urine, so blood levels are usually a good indicator of how well the kidneys are working. Results are reported in mg/dL.",
+                              "Serological test - basic metabolic panel. A sodium blood test allows the doctor to see how much sodium is in the subject's blood. It helps maintain normal blood pressure, supports the work of your nerves and muscles, and regulates your body's fluid balance. A normal sodium level is between 135 and 145 milliequivalents per liter (mEq/L) of sodium.",
+                              "Serological test - basic metabolic panel. The normal potassium level in the blood is 3.5-5.0 milliEquivalents per liter (mEq/L).",
+                              "Serological test - basic metabolic panel. The normal blood reference range of chloride for adults in most labs is 96 to 106 milliequivalents (mEq) per liter.",
+                              "Serological test - basic metabolic panel. Inflamed or injured liver cells leak higher than normal amounts of certain chemicals, including liver enzymes, into the bloodstream, which can result in elevated liver enzymes on blood tests. The reference range for aspartate aminotransferase (AST) is as follows: Males: 6-34 IU/L, Females: 8-40 IU/L.",
+                              "Serological test - basic metabolic panel. For a subject without diabetes, a fasting blood sugar on awakening should be under 100 mg/dl.",
+                              "Serological test - basic metabolic panel. The normal range for carbon dioxide is 23 to 29 mEq/L (milliequivalent units per liter of blood)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Incidence of delayed adverse events",
+                              "Severity of adverse events",
+                              "Relationship of adverse events to study drug",
+                              "Incidence of serious adverse events (SAE)",
+                              "Change in sensory and motor function following completion of treatment as measured by the American Spinal Injury Association (ASIA) Impairment Scale (AIS)",
+                              "Change in sensory and motor function following completion of treatment as measured by motor evoked potentials (MEP)",
+                              "Change in sensory and motor function following completion of treatment as measured by Somatosensory Evoked Potentials (SSEPs)",
+                              "Number of subjects who develop a new pathologic mass at the spinal cord area of injection or anywhere along the spinal cord.",
+                              "Change in number of red blood cells following treatment",
+                              "Change in white blood cells with differential following treatment",
+                              "Change in number of platelets following treatment",
+                              "Change in Serum C-Reactive Protein (CRP)",
+                              "Change in Erythrocyte Sedimentation Rate (ESR)",
+                              "Change in Blood Urea Nitrogen (BUN)",
+                              "Change in Creatinine",
+                              "Change in Sodium",
+                              "Change in Potassium",
+                              "Change in Chloride",
+                              "Change in Aspartate Aminotransferase (AST)",
+                              "Change in Glucose",
+                              "Change in Carbon Dioxide"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "48 weeks post treatment",
+                              "4 weeks post-treatment",
+                              "4 weeks post-treatment",
+                              "48 weeks post-treatment",
+                              "baseline, 96 weeks",
+                              "baseline, 96 weeks post-treatment",
+                              "baseline, 96 weeks post-treatment",
+                              "approximately 96 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Mayo Clinic Clinical Trials"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.mayo.edu/research/clinical-trials"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03308565"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Assessing the number of SCI patients with any relevant side effects observed.",
+                              "Assessing the therapeutic benefits of the injected Autologous BM-MSC by follow up Magnetic Resonance Imaging (MRI) and clinical signs and symptoms using ASIA scoring system.",
+                              "Assessing the number of SCI patients with any relevant side effects observed.",
+                              "Assessing the therapeutic benefits of the injected Autologous AT-MSC by follow up Magnetic Resonance Imaging (MRI) and clinical signs and symptoms using ASIA scoring system."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Investigating the number of side effects in SCI patients receiving autologous BM-MSC.",
+                              "Investigating the effectiveness of autologous BM-MSC in treating SCI patients.",
+                              "Investigating the number of side effects in SCI patients receiving autologous AT-MSC.",
+                              "Investigating the effectiveness of autologous AT-MSC in treating SCI patients."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Cell Therapy Center Website"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://centers.ju.edu.jo/en/ctc/Home.aspx"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02981576"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [
+                              "Hope Biosciences"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.hope.bio"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04064957"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01274975"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Significant neurologic funtion Change before and after intervention",
+                              "Significant Electrophysiological Change before and after intervention",
+                              "Adverse event"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 month",
+                              "6 month",
+                              "6 month"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01624779"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "It will be completed for each follow up point"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy: American Spinal Injury Association Impairment Scale (ASIA)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Four year follow-up"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05152290"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2014-005613-24"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "The clinical evaluation of possible adverse effects is performed throughout the entire study duration and will be measured by descriptive analysis",
+                              "Efficacy evaluation by measuring the change in motor and sensory functions by using the Penn Spasm Frequency Scale that is Composed of 2-parts: the first is a self-report measure with items on 5-point scales developed to augment clinical ratings of spasticity and provides a more comprehensive assessment of spasticity",
+                              "Efficacy evaluation by measuring the change in pain by using the visual analogue scale (VAS). The VAS score is determined by measuring in millimetres from the left hand end of the line to the point that the patient marks, depending on his feel of pain.",
+                              "Efficacy evaluation by measuring the change in the Blepharospasm Disability Scale (BDS)",
+                              "Efficacy evaluation by measuring the change in the GEFFNER score"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Neurotrophic factors levels in Cerebrospinal fluid (CSF) and/ or Number of Adverse Events related to treatment",
+                              "Changes in PENN score are considerate for the motor and sensory functions evaluation",
+                              "Changes in VAS score are considerate for quantification of pain",
+                              "Changes in BDS score are considerate for the Assessment of the functional status",
+                              "Changes in GEFFNER score are considerate for the Assessment of the functional status"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "from baseline to 24 months",
+                              "from baseline until the end of the follow up period (24 months)",
+                              "from baseline until the end of the follow up period (24 months)",
+                              "from baseline until the end of the follow up period (24 months)",
+                              "from baseline until the end of the follow up period (24 months)"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02570932"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "ASIA Impairment Scale",
+                              "Evoked potentials",
+                              "Evoked potentials",
+                              "Pain threshold perception",
+                              "Urodynamic testing",
+                              "Anorectal manometry test",
+                              "Numerical scale (0 to 10)",
+                              "Modified Ashworth scale",
+                              "SCIM III scale",
+                              "WHOQOL BREF questionnaire",
+                              "Qualiveen questionnaire",
+                              "Magnetic Resonance Imaging",
+                              "Chimerism in cerebrospinal fluid",
+                              "Antibodies anti-HLA in peripherical blood and in cerebrospinal fluid"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Extent and severity of a patient's spinal cord injury",
+                              "Motor electrophysiology assessment",
+                              "Somatosensory electrophysiology assessment",
+                              "Electrical nerve stimulation on pain perception",
+                              "Mictional dysfunction",
+                              "Anal sphincter integrity",
+                              "Neuropathic pain",
+                              "Spasticity",
+                              "Functionality",
+                              "Quality of life (individual overall perception of quality of life, individual overall perception of their health, Physical health, Psychological, Social relationships, Environment)",
+                              "Urinary disorder",
+                              "Size injury",
+                              "Presence of allogeneic cells",
+                              "Immunology"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months",
+                              "6 month",
+                              "6 month",
+                              "6 month",
+                              "6 month",
+                              "6 month",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "12 months",
+                              "1 month",
+                              "1 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Blood and Tissue Bank of Catalonia",
+                              "Hospital de Neurorehabilitaci\u00f3 Institut Guttmann",
+                              "Marat\u00f3 TV3"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://bancsang.net/en_index/",
+                              "http://www.guttmann.com/en",
+                              "http://www.ccma.cat/tv3/marato/en/"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03003364"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Brain stem auditory evoked potential (BAEP)and electromyography can display the nerve conduction velocity and the improvement of neurological function.",
+                              "Brain stem auditory evoked potential (BAEP)and electromyography can display the nerve conduction velocity and the improvement of neurological function."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Electromyogram and Electroneurophysiologic test",
+                              "Electromyogram and Electroneurophysiologic test"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6monthes after enrollment or transplantation",
+                              "12monthes after enrollment or transplantation"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01393977"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The McGill Pain Questionnaire (MPQ) is an international standard scale for description and evaluation of pain.The Short-form McGill Pain Questionnaire (SF-MPQ) is simplified on the basis of MPQ and has high reliability in clinical applications.The main component of the SF-MPQ consists of 15 descriptors (11 sensory; 4 affective) which are rated on an intensity scale as 0 = none, 1 = mild, 2 = moderate or 3 = severe. Three pain scores are derived from the sum of the intensity rank values of the words chosen for sensory, affective and total descriptors.",
+                              "Bathal Index (BI) is one of the most commonly used methods for measuring the activity of daily living. The BI consists of a 0 - 10 scale measuring discomfort, pain, and fatigue (0 being no problem and 10 being the worst problem) in response to six questions asked of the patient pertaining to the five major symptoms of spinal cord injury: (1)Fatigue; (2)Spinal pain; (3)Arthralgia (joint pain) or swelling; (4)Enthesitis, or inflammation of tendons and ligaments (areas of localized tenderness where connective tissues insert into bone); (5)Morning stiffness duration; (6)Morning stiffness severity.",
+                              "A bipolar electrode was placed at 2-3 cm near the distal end of the wrist wrinkle to stimulate the median nerve. An anode was placed near the proximal end. Electrodes for recording were placed at the ipsilateral supraclavicular fossa (Erb') and 1-2 cm above the spinous process of C7 and C4' (for recording of somatosensory evoked potential on the left median nerve) or C3' (for recording of somatosensory evoked potential on the right median nerve). Recordings were made separately on the left and right sides. 200 potentials on each body side were recorded and superimposed. Results of recordings will show whether the latency is apposite or similar with normal."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Assessment of changes in score of pain index using Short-form McGill Pain Questionnaire",
+                              "Assessment of changes in score of activity of daily living",
+                              "Assessment of changes in sensory evoked potentials and motor evoked potentials"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline,6 and 12 months after recruitment",
+                              "Baseline, 6 and 12 months after recruitment",
+                              "Baseline,6 and 12 months after recruitment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01873547"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "12 and 52 weeks after final treatment",
+                              "12 and 52 weeks from final treatment"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Number of subjects with a change in American Spinal Injury Association (ASIA) score from baseline",
+                              "Number of subjects with a change in Frankel Scale score from baseline"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 weeks, 52 weeks",
+                              "12 weeks, 52 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02237547"
+                        ]
+                  },
+                  {
+                        "Rank": 28,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Functional improvement in muscle strength assessed by the Frankel scale.",
+                              "Improvement of sphincters control (anal and bladder)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Functional improvement in muscle strength",
+                              "Improvement of sphincters control."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Six months",
+                              "Six months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01325103"
+                        ]
+                  },
+                  {
+                        "Rank": 29,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Somatosensory Evoked Potentials (SSEP) and Motor Evoked Potentials (MEP) monitoring will be assessed before and after transplantation.",
+                              "American Spinal Injury Assessment Scale of A, B, C, D or E will be assessed before and after transplantation.",
+                              "Functional Independence Measure (FIM) and the Quality of Life Questionnaire (EQ 5D) will be assessed before and after transplantation.",
+                              "Pain intensity will be assessed based on Visual analog scale (VAS) before and after transplantation.",
+                              "The ability to feel and control urination and bowel will be assessed based on bladder pressure monitory before and after transplantation.",
+                              "The MRI at the transplantation site will be assessed before and after transplantation."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Improvements in Neurophysiological Measures omatosensory Evoked Potentials (SSEP) and Motor Evoked Potentials (MEP) monitoring will be assessed",
+                              "Improvements in ASIA Impairment Scale",
+                              "Improvements in Independence Measures and Quality of Life",
+                              "Improvements in Pain assessed based on Visual analog scale (VAS)",
+                              "Improvements in Urinary and Bowel Function assessed based on bladder pressure monitory before and after transplantation",
+                              "Changes at the Transplantation Site in Spinal Cord by Magnetic Resonance Imaging (MRI)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02352077"
+                        ]
+                  },
+                  {
+                        "Rank": 30,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04288934"
+                        ]
+                  },
+                  {
+                        "Rank": 31,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Changes in neurological function using the International Standards for Neurological Classification of SCI (ISNCSCI) scale, examinations at 24h, 72h, 7d, 14d, 28d, 90d and 360 days after injection of FAB117-HC",
+                              "Changes in the functional assessment of Spinal Cord Independence Measure (SCIM III)",
+                              "Changes in Somatosensory-Evoked Potentials (SSEP) electrophysiological assessment test.",
+                              "Changes in Motor-Evoked Potentials (MEP) electrophysiological assessment test"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "One year",
+                              "Day 28 and Day 90",
+                              "Day 28 and Day 90",
+                              "Day 28 and Day 90"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02917291"
+                        ]
+                  },
+                  {
+                        "Rank": 32,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03925649"
+                        ]
+                  },
+                  {
+                        "Rank": 33,
+                        "ResultsFirstSubmitDate": [
+                              "September 27, 2016"
+                        ],
+                        "ResultsFirstSubmitQCDate": [
+                              "March 28, 2019"
+                        ],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2010-023285-46"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Sensitivity recovery was measured using the ASIA (American Spinal Injury Association) scale to measure the Surface sensitivity (LTS), pain sensitivity (PPS), and the degree of motor function in key muscles (MS). The sum of MS, LTS, and PPS configure total ASIA score. A minimum possible score is 0 points. A maximum possible score is 224 points for a patient with normal sensation.\n\nASIA score was obtained before surgery, and 3, 6, 9 and 12 months after surgery. Mean and standard deviation for the 12 patients were obtained at all the time points and statistically analyzed.",
+                              "Changes in the level of chronic pain, measured by the pain section of the IANR-SCIFRS (Spinal cord injury functional rating scale (SCI-FRS) of the international association of neuroestoratology (IANR). The minimum posible score is 0, and the m\u00e1ximum posible score is 48, being a score of 48 a normal functioning across all categories, and 0 a severe degree of functional h\u00e1ndicap (significant impact of daily life).\n\nPain is classified as no pain; mild pain, ordinary pain killer, effective;severe pain, narcotics required; extreme pain, uncontrolled.",
+                              "Changes in the neurophysiological parameters (SSEPs, somatosensory evoked potentials) measured as number of patients WITH SSEPs, each patient through underwent neurophysiological studies before treatment, as well as six and 12 months after surgery, paying attention mainly to the presence or abscence of somatosensory evoked potentials (SSEPs), the presence or absence of motor evoked potentials (MEPs) elicited by magnetic stimulation over the scalp, and to electromyographic (EMG) recording of motor unit potentials in infralesional muscles. Previous to cell therapy in any of the patients SSEPs were recorded.",
+                              "Urodynamic studies in terms of voluntary micturition in flowmetry or in pressure/flow test, increase in bladder compliance. detrusor pressure (decrease on detrusor pressure is considered a clinical improvement). The neurogenic bladder is one of the biggest problems associated with SCI (spinal cord injury), with important personal and social implications.",
+                              "Number of patients with a decrease in volume and hyperintensity of intramedullary lesions. In general, in the areas of SCI, variable degree of spinal cord atrophy and hiperintense images are observed. These images corresponds to cysts, gliosis and myelomalacia. After cell administration a reduction of supposed cyst and a decrease or disappearance of hyperintense lesions suggest a patient improvement."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy-Sensitivity Recovery Using ASIA Scale",
+                              "Efficacy-Changes in the Level of Chronic Pain Based on the IANR-SCIFRS Scale (Pain Section)",
+                              "Efficacy- Changes in the Neurophysiological Parameters Measured as the Number of Patients With SSEPs (Somatosensory Evoked Potentials)",
+                              "Efficacy-Urodynamic Studies in Terms of m\u00e1ximum Cystometric Capacity",
+                              "Efficacy-modification of Magnetic Resonance Imaging (MRI)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "sensitivity before surgery (baseline visit) and 3, 6, 9, 12 months after surgery (follow-up period)",
+                              "Changes in the level of Chronic pain before surgery (baseline visit) and 3, 6, 9, 12 months after surgery (follow-up period)",
+                              "Changes in the level neurophysiological parameters improvement (baseline visit) and 6, 12 months after surgery (follow-up period)",
+                              "Urodynamic studies before surgery and 12 months after surgery (follow-up period)",
+                              "changes in the spinal cord morphology on neuroimaging studies before surgery and 12 months after surgery (follow-up period)"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01909154"
+                        ]
+                  },
+                  {
+                        "Rank": 34,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "To evaluate walking ability",
+                              "To evaluate ability of daily activities after spinal cord injury",
+                              "To evaluate walking ability",
+                              "0-4 score, to evaluate spasticity",
+                              "To evaluate the degree of pain"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Walking Index of Spinal Cord Injury (WISCI)",
+                              "Spinal Cord Independence Measure (SCIM)",
+                              "Kunming Locomotion Scale (KLS)",
+                              "Modified Ashworth Scale (MAS)",
+                              "Visual Analogous Scale (VAS)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Change from Baseline at 12 months after treatment",
+                              "Change from Baseline at 12 months after treatment",
+                              "Change from Baseline at 12 months after treatment",
+                              "Change from Baseline at 12 months after treatment",
+                              "Change from Baseline at 12 months after treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04213131"
+                        ]
+                  },
+                  {
+                        "Rank": 35,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy of BM cell transplant in improving neurological functions in patients with chronic SCI. Improvement in motor, sensory and sphincteric functions, and quality of life using ASIA scores and MRI."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "18 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00816803"
+                        ]
+                  },
+                  {
+                        "Rank": 36,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [
+                              "20710046"
+                        ],
+                        "RetractionSource": [
+                              "de la Fuente R, Bernad A, Garcia-Castro J, Martin MC, Cigudosa JC. Cancer Res. 2010 Aug 15;70(16):6682"
+                        ],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01686139"
+                        ]
+                  },
+                  {
+                        "Rank": 37,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Doppler study of the endometrial blood flow; the VI, FI and VFI and 3D-US assessment of endometrial volume in all groups at the day of embryo transfer to obtain objective assessment of the effect of differentiated and undifferentiated stem cell therapy on endometrial volume and vascularity in ICSI patients with advanced maternal age or history of repeated implantation failure."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Endometrial volume and vascularity"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01649752"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,95 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Cellgram-LC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This phase III clinical trial is designed to evaluate the efficacy and safety of autologous Mesenchymal Stem Cells (MSC) injected hepatic artery."
+                        ],
+                        "BriefTitle": [
+                              "Clinical Trial to Evaluate the Efficacy and Safety of Cellgram-LC Administration in Patients With Alcoholic Cirrhosis"
+                        ],
+                        "CentralContactEMail": [
+                              "jyjeong@pharmicell.com"
+                        ],
+                        "CentralContactName": [
+                              "JIYEOUN JEONG"
+                        ],
+                        "CentralContactPhone": [
+                              "82-2-3496-0134"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "March 2, 2026"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Alcoholic Cirrhosis"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010335",
+                              "D000008107",
+                              "D000004066",
+                              "D000008108",
+                              "D000020751",
+                              "D000019973",
+                              "D000019966",
+                              "D000064419"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathologic Processes",
+                              "Liver Diseases",
+                              "Digestive System Diseases",
+                              "Liver Diseases, Alcoholic",
+                              "Alcohol-Induced Disorders",
+                              "Alcohol-Related Disorders",
+                              "Substance-Related Disorders",
+                              "Chemically-Induced Disorders"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC06",
+                              "BC23",
+                              "All",
+                              "BC25",
+                              "BXM"
+                        ],
+                        "NCTId": [
+                              "NCT04689152"
+                        ]
+                  }
+            ]
+      }
+}

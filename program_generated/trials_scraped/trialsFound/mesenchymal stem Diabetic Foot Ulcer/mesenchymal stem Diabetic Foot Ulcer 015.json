@@ -1,0 +1,864 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Diabetic Foot Ulcer",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 26,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 26,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [
+                              "Other: Single dose experiments",
+                              "Other: Multi-dose experiments"
+                        ],
+                        "ArmGroupLabel": [
+                              "Single dose experiments",
+                              "Multi-dose experiments"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04464213"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "stem cell transplant"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Stem Cell Product"
+                        ],
+                        "ArmGroupLabel": [
+                              "stem cell product"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03259217"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [
+                              "Drug: Corlicyte",
+                              "Drug: Corlicyte",
+                              "Drug: Corlicyte"
+                        ],
+                        "ArmGroupLabel": [
+                              "Dose 1",
+                              "Dose 2",
+                              "Dose 3"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04104451"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "Acronym": [
+                              "1ABC"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Application of allogeneic ADSC stem cells in fibrin gel, to cover wound surface with thin cells layer.\n\nTherapy is based on standard procedure of diabetic foot ulcer treatment combined with application of allogeneic ADSC stem cells in fibrin solution onto the wound surface.",
+                              "Application of fibrin gel to cover wound surface."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Application of allogeneic ADSC stem cells in fibrin gel",
+                              "Procedure: Standard care in diabetic foot ulcer"
+                        ],
+                        "ArmGroupLabel": [
+                              "Allogeneic ADSC cells in fibrin solution",
+                              "Standard care in diabetic foot ulcer with aplication of fibrin gel to cover wound surface."
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03865394"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Allogeneic mesenchymal stem cells",
+                              "Standard therapy for patients with diabetic foot ulcer"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: ALLO-ASC-DFU",
+                              "Other: Standard therapy"
+                        ],
+                        "ArmGroupLabel": [
+                              "ALLO-ASC-DFU",
+                              "Standard therapy"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02619877"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Experimental: ALLO-ASC-DFU Hydrogel sheet containing allogenic adipose-derived mesenchymal stem cells",
+                              "Placebo Comparator: Vehicle Control Hydrogel sheet without allogenic adipose-derived mesenchymal stem cells"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: ALLO-ASC-DFU",
+                              "Procedure: Hydrogel SHEET(Vehicle control)"
+                        ],
+                        "ArmGroupLabel": [
+                              "ALLO-ASC-DFU",
+                              "Hydrogel SHEET(Vehicle control)"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03754465"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Hydrogel sheet containing allogenic adipose-derived mesenchymal stem cells",
+                              "Hydrogel sheet without Allogenic mesenchymal stem cell"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: ALLO-ASC-DFU",
+                              "Procedure: Vehicle sheet"
+                        ],
+                        "ArmGroupLabel": [
+                              "ALLO-ASC-DFU",
+                              "Vehicle Sheet"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03370874"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Umbilical Cord Mesenchymal Stem Cells Infusion.",
+                              "saline injection"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Umbilical Cord Mesenchymal Stem Cells",
+                              "Biological: saline"
+                        ],
+                        "ArmGroupLabel": [
+                              "Umbilical Cord Mesenchymal Stem Cells",
+                              "saline"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02834858"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "ALLO-ASC-SHEET Hydrogel sheet containing allogenic adipose-derived mesenchymal stem cells",
+                              "Vehicle Control Hydrogel sheet without allogenic adipose-derived mesenchymal stem cells"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: ALLO-ASC-SHEET",
+                              "Biological: ALLO-ASC-SHEET"
+                        ],
+                        "ArmGroupLabel": [
+                              "ALLO-ASC-SHEET",
+                              "Hydrogel SHEET(Vehicle control)"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04497805"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Traditional treatment such as insulin,antidiabetes,dressing",
+                              "Traditional treatment such as insulin,antidiabetes,dressing and Autologous PRG combined with BMMSCs",
+                              "Traditional treatment such as insulin,antidiabetes,dressing and Autologous PRG"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: PRG combined with BMMSCs transplantation",
+                              "Biological: PRG combined with BMMSCs transplantation"
+                        ],
+                        "ArmGroupLabel": [
+                              "Traditional treatment",
+                              "PRG combined with BMMSCs transplantation",
+                              "PRG treatment"
+                        ],
+                        "ArmGroupType": [
+                              "Placebo Comparator",
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03248466"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Subjects with ALLO-ASC-DFU treatment in phase 1 clinical trial of ALLO-ASC-DFU-101"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: ALLO-ASC-DFU"
+                        ],
+                        "ArmGroupLabel": [
+                              "ALLO-ASC-DFU treatment"
+                        ],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03183726"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Mesenchymal stem cells derived from bone marrow infusion",
+                              "saline injections"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: mesenchymal stem cells",
+                              "Biological: saline"
+                        ],
+                        "ArmGroupLabel": [
+                              "Autologous Bone Marrow Stem Cell",
+                              "saline"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02796079"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Subjects with ALLO-ASC-DFU treatment in phase 2 clinical trial of ALLO-ASC-DFU-201",
+                              "Subjects with Standard therapy in phase 2 clinical trial of ALLO-ASC-DFU-201"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: ALLO-ASC-DFU",
+                              "Other: Standard therapy"
+                        ],
+                        "ArmGroupLabel": [
+                              "ALLO-ASC-DFU",
+                              "Standard therapy"
+                        ],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03183804"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [
+                              "Biological: Symptoms and Objective Examination"
+                        ],
+                        "ArmGroupLabel": [
+                              "Symptoms and Objective Examination"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT00955669"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "ALLO-ASC-DFU treatment with conventional care"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: ALLO-ASC-DFU"
+                        ],
+                        "ArmGroupLabel": [
+                              "ALLO-ASC-DFU"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02394886"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "The patient will receive multiple injections in one session during the study. The injections will take place in the chronic wound bed and in the third distal part of the treated shin (in the form of a ring).\n\nMaximal amount of ABMD-MSC cells injected: 10-20*10^6 cells (up to volume of 20mL, depending on the wound size & patient weight)."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: ABMD-MSC"
+                        ],
+                        "ArmGroupLabel": [
+                              "ABDM-MSC"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01686139"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Participants will receive CYP-006TK dressings",
+                              "Participants will continue to be treated as per local standard of care"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Combination Product: CYP-006TK"
+                        ],
+                        "ArmGroupLabel": [
+                              "Group 1 - CYP-006TK",
+                              "Group 2 - Standard of Care"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05165628"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "Acronym": [
+                              "SEESCMMSCTSD"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Applications of medical collagen membrane with umbilical cord derived mesenchymal stem cells (MSC).",
+                              "Application of medical collagen membrane only."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Device: Medical Collagen Membrane with MSC",
+                              "Device: Medical Collagen Membrane"
+                        ],
+                        "ArmGroupLabel": [
+                              "Medical Collagen Membrane with MSC",
+                              "Medical Collagen Membrane"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02672280"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Hydrogel sheet containing allogenic adipose-derived mesenchymal stem cells",
+                              "Hydrogel sheet without allogenic mesenchymal stem cell"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: ALLO-ASC-DFU",
+                              "Procedure: Vehicle Sheet"
+                        ],
+                        "ArmGroupLabel": [
+                              "ALLO-ASC-DFU",
+                              "Vehicle sheet"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04569409"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Mesenchymal stem cells derived from adipocyte transplantation",
+                              "saline injections"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Adipose-derived stem cell",
+                              "Biological: saline"
+                        ],
+                        "ArmGroupLabel": [
+                              "Adipose-derived stem cell",
+                              "saline"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02831075"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Application of IMP on patients wound"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: allo-APZ2-DFU"
+                        ],
+                        "ArmGroupLabel": [
+                              "Experimental: allo-APZ2-DFU"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03267784"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Multiple intra muscular injection of mesenchymal stem cells derived from human umbilical cord.",
+                              "Any therapy for diabetic foot which is routinely practiced and accepted in China"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: umbilical cord mesenchymal stem cells",
+                              "Drug: Standard Therapy"
+                        ],
+                        "ArmGroupLabel": [
+                              "umbilical cord mesenchymal stem cells",
+                              "Standard Therapy"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01216865"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "On the screening visit, the study physician will assign one eligible ulcer, as the target ulcer. Target ulcer will be treated and followed up during the whole study period. After liposuction investigational device will be applied on the target ulcer. After completion of Day1 visit all subjects enter the observation period and will come back to 3 on-site visits on day 7 day 14 and day 28"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Device: Diabetic leg ulcer treatment with adipous SVF"
+                        ],
+                        "ArmGroupLabel": [
+                              "Cytori Celution System in Chronic Non-Healing diabetic Leg Ulcers"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05274295"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "patients received standard of care wound treatment according guideline of the American Diabetes Association (ADA)",
+                              "bone marrow stem cells administered intraarterial",
+                              "expanded bone marrow cells enriched in CD90+ mesenchymal stem cells administered intramuscular",
+                              "expanded bone marrow cells enriched in CD90+ mesenchymal stem cells administered intraarterial",
+                              "bone marrow stem cells administered intramuscular"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: bone marrow stem cells (BMC)",
+                              "Biological: tissue repair cells (TRC)",
+                              "Biological: tissue repair cells (TRC)",
+                              "Biological: bone marrow stem cells (BMC)"
+                        ],
+                        "ArmGroupLabel": [
+                              "control group",
+                              "bone marrow stem cells intraarterial",
+                              "tissue repair cells intramuscular",
+                              "tissue repair cells intraarterial",
+                              "bone marrow stem cells intramuscular"
+                        ],
+                        "ArmGroupType": [
+                              "No Intervention",
+                              "Active Comparator",
+                              "Active Comparator",
+                              "Active Comparator",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01065337"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "In addition to the usual treatment, will receive dietary advice and a nutritional supplement, according to the results of their evaluation in the Endocrinology Service",
+                              "Who will continue with their usual treatments in the Diabetic Foot Unit and they will receive dietary advice"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Dietary Supplement: Personalized Nutritional Intervention"
+                        ],
+                        "ArmGroupLabel": [
+                              "Nutritional Intervention (NI)",
+                              "Control (C)"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05243368"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Maximal amount of MSC cells injected: 10-20*10^6 cells (up to volume of 20mL, depending on the wound size & patient weight)."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Mesenchymal stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Mesenchymal stem cells"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02304588"
+                        ]
+                  }
+            ]
+      }
+}

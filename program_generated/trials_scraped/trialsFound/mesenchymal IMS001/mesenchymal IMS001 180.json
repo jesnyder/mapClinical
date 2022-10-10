@@ -1,0 +1,83 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal IMS001",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "September 20, 2022"
+                        ],
+                        "LeadSponsorClass": [
+                              "INDUSTRY"
+                        ],
+                        "LeadSponsorName": [
+                              "ImStem Biotechnology"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Atlanta",
+                              "Worcester",
+                              "Salt Lake City"
+                        ],
+                        "LocationContactEMail": [],
+                        "LocationContactName": [],
+                        "LocationContactPhone": [],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [],
+                        "LocationCountry": [
+                              "United States",
+                              "United States",
+                              "United States"
+                        ],
+                        "LocationFacility": [
+                              "Shepherd Center",
+                              "UMass Memorial Medical Center",
+                              "Rocky Mountain MS Clinic"
+                        ],
+                        "LocationState": [
+                              "Georgia",
+                              "Massachusetts",
+                              "Utah"
+                        ],
+                        "LocationStatus": [
+                              "Recruiting",
+                              "Recruiting",
+                              "Recruiting"
+                        ],
+                        "LocationZip": [
+                              "30309",
+                              "01605",
+                              "84103"
+                        ],
+                        "NCTId": [
+                              "NCT04956744"
+                        ]
+                  }
+            ]
+      }
+}

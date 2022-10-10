@@ -1,0 +1,65 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal DB-001",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Care Provider",
+                              "Investigator"
+                        ],
+                        "DetailedDescription": [
+                              "EXIT COVID-19 is a FDA-approved, phase II double-blinded, placebo-controlled randomized controlled trial that enrolled 120 patients admitted with COVID-19 associated moderate-to-severe ARDS across up to 15 hospital sites in the United States."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nProvision of signed and dated informed consent form (either by the individual or by the individual's healthcare proxy).\nStated willingness to comply with all study procedures and availability for the duration of the study\nMale or female, aged 18-85.\nCOVID-19 positive as defined by positive RT-PCR SARS-CoV-2.\nModerate to severe ARDS as defined by modified Berlin definition*, which includes timing within 1 week of known clinical insult or new or worsening respiratory symptoms; bilateral opacities not fully explained by effusions, or lung collapse; respiratory failure not fully explained by cardiac failure or fluid overload; PaO2/FiO2 \u2264 200 mm Hg.\nHypoxia requiring noninvasive oxygen support such as Nasal Cannula (NC), Nonrebreather (NRB), Bilevel Positive Airway Pressure (BIPAP), Continuous Positive Airway Pressure (CPAP), high flow nasal cannula oxygen (HFNC O2) or mechanical ventilation (MV) despite initiating standard of care.\nIf the candidate is either a male or female of reproductive potential, he or she must agree to use of double barrier method of highly effective birth control contraception such as condoms with oral contraceptive pill or choose to remain abstinent if already practicing abstinence during the screening period. The required duration of usage of double barrier method OR maintenance of abstinence must include the time from the beginning of the screening period until 90 days following the last dose of the study treatment.\n\nExclusion Criteria:\n\nVulnerable populations such as pregnant patients, children, individuals with severe physical or mental disabilities who cannot provide meaningful consent.\nActive malignancy requiring treatment within the last five years.\nMajor physical trauma in the last 5 days, including motor vehicle accidents, assaults, mechanical falls with sequalae of significant bleeding or craniofacial bruising, and surgeries.\nActive tuberculosis or cystic fibrosis.\nSevere chronic respiratory disease including chronic obstructive pulmonary disease or pulmonary fibrosis requiring home oxygen > 5L/min.\nUse of extracorporeal membrane oxygenation (ECMO) during the current hospitalization.\nPre-existing pulmonary hypertension.\nSevere pre-existing hepatic impairment (presence of cirrhosis, liver function tests (LFTs) \u2265 6x baseline, INR \u2265 2.0).\nPre-existing Chronic Kidney Disease (CKD) stage IIIb or End Stage Renal Disease (ESRD) prior to onset of COVID-19 (stage I, II, and IIIa are acceptable)\nIrreversible coagulopathy (e.g., frequently occluded vascular access despite anticoagulation, precipitous platelet drops concurrent with end-organ damage suggesting consumptive process) or irreversible bleeding disorder (e.g., frequent bleeding from vascular access, endotracheal tubes, and foley).\nPneumonia clearly attributable to a non-COVID-19 related process, including aspiration pneumonia or pneumonia that is exclusively bacterial, or originating from a diagnosed alternative virus (e.g., influenza).\nPatients who are not full code.\nEndotracheal intubation duration \u2264 24 hours.\nMoribund-expected survival < 24 hours.\nSevere metabolic disturbances on presentation (e.g., ketoacidosis, pH < 7.3)"
+                        ],
+                        "EnrollmentCount": [
+                              "120"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04493242"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,974 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Critical Limb Ischemia",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 27,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 27,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Increase in transcutaneous partial oxygen pressure (TcPO2) and Ankle brachial pressure index (ABPI) - measured by Doppler"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00883870"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04661644"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "NMRR-11-904-9763"
+                        ],
+                        "SecondaryIdDomain": [
+                              "National Medical Research Register"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Registry Identifier"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Measurement of ulcer size by clinical assessment and grid maps.",
+                              "Measured by digital subtraction angiography (DSA) and ankle brachial systemic pressure index (ABI)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in ulcer size",
+                              "Visual Analog Score",
+                              "Exercise Treadmill Test",
+                              "Improvement in vascularity and blood supply"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 month, 3 months, 6 months, 9 months, 12 months",
+                              "1 month, 3 months, 6 months, 9 months, 12 months",
+                              "1 month, 3 months, 6 months, 9 months, 12 months",
+                              "1 month, 3 months, 6 months, 9 months and 12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01456819"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Number of patients who avoided amputation",
+                              "Rest pain will be measured using the rest pain scale",
+                              "Assessment of the severity of trophic ulcers",
+                              "Measurements of the ankle-brachial index",
+                              "Radioisotope scintigraphy study",
+                              "Standard treadmill test"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Limb salvage from major amputation",
+                              "Relief of the rest pain",
+                              "Improvement in healing trophic disorders",
+                              "Improvement in perfusion by the ankle-brachial index",
+                              "Improvement in perfusion by radioisotope scintigraphy",
+                              "Improvement in total walking distance (TWD) using a standard treadmill test"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "3, 6, 12, 24 months",
+                              "Immediate, 3, 6, 12, 24 months",
+                              "Immediate, 3, 6, 12, 24 months",
+                              "Immediate, 3, 6, 12, 24 months",
+                              "Immediate, 3, 6, 12, 24 months",
+                              "Immediate, 3, 6, 12, 24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03239535"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Analyze the difference of pre and post treatment using McNemar test for homogeneity test.",
+                              "Use Student's paired t-test or Wilcoxon's signed rank test to compare the difference of pre and post treatment Healing of ulcerations (change in size of ulcers) or reduction of ulcer area in the target limb.",
+                              "Use Student's paired t-test or Wilcoxon's signed rank test to compare the difference of pre and post treatment transcutaneous oxygen pressure (TCPO2).",
+                              "Use Student's paired t-test or Wilcoxon's signed rank test to compare the difference of pre and post Visual Analogue Scale(VAS).\n\nVisual Analogue Scale(VAS):\n\nUsing a ruler, the score is determined by mea-suring the distance (mm) on the 10-cm line between the \"no pain\" anchor and the patient's mark, providing a range of scores from 0-100. A higher score indicates greater pain intensity.\n\nthe following cut points on the pain VAS have been recommended: no pain (0-4 mm), mild pain(5-44 mm), moderate pain (45-74 mm), and severe pain (75-100 mm)",
+                              "Described and define as minor amputation is below midtarsal level, major amputation is more than midtarsal level.",
+                              "Use Student's paired t-test or Wilcoxon's signed rank test to compare the difference of pre and post thermography.",
+                              "Use Student's paired t-test or Wilcoxon's signed rank test to compare the difference between pre and post dose of the using analgesic medicine.",
+                              "Use Student's paired t-test or Wilcoxon's signed rank test to compare the difference of pre and post Rutherford classification.\n\nRutherford classification: commonly used clinical staging system for describing peripheral arterial disease.\n\nStage 0 - Asymptomatic Stage 1 - Mild claudication Stage 2 - Moderate claudication - The distance that delineates mild, moderate and severe claudication is not specified in the Rutherford classification, but is mentioned in the Fontaine classification as 200 meters.\n\nStage 3 - Severe claudication Stage 4 - Rest pain Stage 5 - Ischemic ulceration not exceeding ulcer of the digits of the foot Stage 6 - Severe ischemic ulcers or frank gangrene",
+                              "Use Student's paired t-test or Wilcoxon's signed rank test to compare the difference between pre and post frequency of the using analgesic medicine."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Collateral vessel formation on digital subtraction angiography (DSA)",
+                              "Difference of Wound size",
+                              "Improved transcutaneous oxygen pressure (TCPO2)",
+                              "Pain on the Visual Analogue Scale(VAS)",
+                              "Reduced limb amputation",
+                              "Temperature change on thermography",
+                              "Dose about using analgesic medicine",
+                              "Change in Rutherford classification",
+                              "Frequency about using analgesic medicine"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months after BM-MSC therapy",
+                              "6 months after BM-MSC therapy",
+                              "6 months after BM-MSC therapy",
+                              "6 months after BM-MSC therapy",
+                              "6 months after BM-MSC therapy",
+                              "6 months after BM-MSC therapy",
+                              "6 months after BM-MSC therapy",
+                              "6 months after BM-MSC therapy",
+                              "6 months after BM-MSC therapy"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02477540"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Pain free walking distance",
+                              "Major amputation free survival",
+                              "Ankle brachial pressure index (ABPI) - measured by Doppler",
+                              "Increase in transcutaneous partial oxygen pressure (TcPO2)",
+                              "Quality of life by King's College VascuQOL questionnaire",
+                              "Angiogenesis - collateral blood vessels by Magnetic resonance angiogram (MRA)",
+                              "The type of adverse events AE(s), number of AE(s) and proportion of patients with AE(s).",
+                              "Assessment of clinical laboratory parameters",
+                              "Physical examination findings and assessment of vital signs",
+                              "Assessment of electrocardiogram (ECG) parameters"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 and 24 months",
+                              "6 and 24 months",
+                              "6 and 24 months",
+                              "6 and 24 months",
+                              "6 and 24 months",
+                              "6 and 24 months",
+                              "6 and 24 months",
+                              "6 and 24 months",
+                              "6 and 24 months",
+                              "6 and 24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01484574"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Primary efficacy endpoint: transcutaneous oxygen pressure (TcPO2) mesured in mm Hg"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Transcutaneous oxygen pressure"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Day 360"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03994666"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Ankle Brachial Index",
+                              "University of Texas Classification at target limb"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 month, 6 months, 12 months",
+                              "1 month, 6 months, 12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01257776"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "To evaluate the change of treated critical limb ischemia before cell implantation and at 3, 6, 12 months post injection of MSCs.",
+                              "To evaluate the change of treated critical limb ischemia before cell implantation and at 3, 6, 12 months post injection of MSCs.",
+                              "To evaluate the change of treated critical limb ischemia before cell implantation and at 3, 6, 12 months post injection of MSCs.",
+                              "To evaluate the change of treated critical limb ischemia before cell implantation and at 3, 6, 12 months post injection of MSCs.",
+                              "To evaluate the change of treated critical limb ischemia before cell implantation and at 3, 6, 12 months post injection of MSCs."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Ankle-Brachial Index (ABI)",
+                              "Digital subtraction angiography (DSA)",
+                              "Thermography",
+                              "Wong-Baker FACES Pain Rating Score",
+                              "Treadmill test"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "48 weeks",
+                              "48 weeks",
+                              "48 weeks",
+                              "48 weeks",
+                              "48 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01663376"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00955669"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2009-013554-32"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Parameters:Ankle brachial index, transcutaneous oxygen pressure, degree of Rutherford-Becker, larger ulcer size (as Texas classification), twin perimeter, score of pain and intermittent claudication (walking test)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Evolution of chronic critical ischemia"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 month, 3 months, 6 months, 9 months and 12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Andalusian Initiative for Advanced Therapies",
+                              "Andalusian Molecular Biology and Regenerative Medicine Centre"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.juntadeandalucia.es/terapiasavanzadas/",
+                              "http://www.cabimer.es"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01745744"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "(\u00baC)",
+                              "(cm)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Evaluation of vascularization though RMN",
+                              "Rutherford-Becker scale",
+                              "Wifi scale",
+                              "Ankle arm index",
+                              "Temperature",
+                              "Twin perimeter",
+                              "Neuropathic symptoms (altered sensitivity)",
+                              "% amputations"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year",
+                              "1 year",
+                              "1 year",
+                              "1 year",
+                              "1 year",
+                              "1 year",
+                              "1 year",
+                              "1 year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04466007"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "To explore the efficacy by assessing the potential of autologous adipose derived stromal vascular fraction and ex vivo expanded mesenchymal stem cells in alleviating the symptom of Critical Limb Ischemia (CLI)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "To assess the efficacy"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "9 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02145897"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Comparison of course of haemodynamic and vascular processes"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01351610"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The Wong Baker FACES\u00ae pain rating scale, for evaluation of ischemic pain in the diseased lower limb of subjects receiving cell injection compared to placebo",
+                              "The Transcutaneous oxygen pressure (TcPO2) on foot of subjects receiving cell injection compared to placebo",
+                              "Total walking distance (TWD) on a standardized treadmill test compared to placebo",
+                              "The Ankle Brachial Pressure Index (ABPI) in the lower limb of subjects receiving cell injection compared to placebo"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy-The Wong Baker FACES\u00ae pain rating scale",
+                              "Efficacy-Transcutaneous oxygen pressure(TcPO2)",
+                              "Efficacy-walking distance (TWD)",
+                              "Efficacy-Ankle Brachial Pressure Index (ABPI)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02336646"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Efficacy measured by the presence or absence of the target limb",
+                              "Efficacy measured by the duration from time of cell administration to time of amputation if applicable.",
+                              "Efficacy will be determined by improvement from baseline in mmHg",
+                              "\"Ankle Brachial Index: An indicator of peripheral perfusion measured by dividing Ankle Pressure (mmHg) by brachial pressure (mmHg) (normal ABI is 1.0 ). Efficacy outcome will be measured by improvement from baseline . The higher the ABI, the better the outcome.\"",
+                              "Efficacy will be determined the presence of collateral vessel formation as detected by MRI",
+                              "Efficacy will be determined by decrease in score from baseline as measured by verbal analogue scale (0 = no pain, 10 = worst pain in life)",
+                              "Efficacy will be determined by decrease in the surface area from baseline as measured by ImageJ software and or complete healing of the ulcer",
+                              "Efficacy will be measured using the EQ 5D Quality of Life assessment tool"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Amputation free survival",
+                              "median time to amputation,",
+                              "Change in Transcutaneous Pressure of Oxygen TcPO2",
+                              "Change in Ankle Brachial Index",
+                              "Collateral vessel formation",
+                              "Change in Ischemic rest pain",
+                              "Change in Ulcer size",
+                              "Change in Quality of Life"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months.",
+                              "12 months.",
+                              "12 months."
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03455335"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Pain",
+                              "Ankle-Brachial pressure index",
+                              "Wound healing (wound size, wound stage)",
+                              "Walking distance",
+                              "Rate and extent of amputations"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "3 months",
+                              "3 months",
+                              "3 months",
+                              "3 months",
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01216865"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2012-000290-23"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "We analyze the quality of life of patients by SF-12 test"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Quality of life of patients after treatment"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "one year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01824069"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Amputation-free survival period evaluation of treated leg at 6 month and 1 year FU.",
+                              "Ulcer-free survival (in patients without ulceration at baseline evaluation) of treated leg in period evaluation at 6 month and 1 year FU.",
+                              "Ulcer-extension free survival (in patients with ulceration in the beginning of the trial) of treated leg in period evaluation at 6 month and 1 year FU.",
+                              "Change in tissue oxygen/CO2 tension, assessed by NIRS method at each trial evaluation point.",
+                              "An improvement of tissue perfusion assessed in MRI at each trial evaluation point.",
+                              "Change in transcutaneous pressure of O2 (tcpO2) between two groups (active vs placebo therapy) at each trial evaluation point.",
+                              "Change in ABI score at each trial evaluation point.\n\nThe ankle-brachial index (ABI) is the ratio of the blood pressure at the ankle to the blood pressure in the upper arm and is calculated by dividing the systolic blood pressure at the ankle by the systolic blood pressure in the arm.\n\nAn ABI between and including 0.9 and 1.2 is considered normal, while a lesser than 0.9 indicates peripheral arterial disease. An ABI value of 1.3 or greater is also considered abnormal, and suggests calcification of the walls of the arteries and incompressible vessels. ABI score progression towards the normal range is considered as a better outcome.",
+                              "Quality of life improvement, assessed by SF-36 questionnaire or other dedicated for investigated population at each trial evaluation point."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Amputation-free survival period",
+                              "Ulcer-free survival",
+                              "Ulcer-extension free survival",
+                              "Change in tissue oxygen/CO2 tension",
+                              "An improvement of tissue perfusion",
+                              "Change in transcutaneous pressure of O2",
+                              "Change in ABI score",
+                              "Quality of life improvement, assessed by SF-36 questionnaire"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 month and 1 year FU.",
+                              "6 month and 1 year FU",
+                              "6 month and 1 year FU",
+                              "45 days, 3 month, 6 month and 1 year FU",
+                              "45 days, 3 month, 6 month and 1 year FU",
+                              "45 days, 3 month, 6 month and 1 year FU",
+                              "45 days, 3 month, 6 month and 1 year FU",
+                              "45 days, 3 month, 6 month and 1 year FU"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03423732"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Improvements post-treatment in rest pain (VAS), toe pressure and ABI, transcutaneous oximetry and ulcer status (with picture)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Murphy et al. Allogeneic endometrial regenerative cells: An \"Off the shelf solution\" for critical limb ischemia? J Transl Med. 2008 Aug 19;6:45."
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.translational-medicine.com/content/pdf/1479-5876-6-45.pdf"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01558908"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Efficacy measured by: The changes in the requirements of insulin, Peptide C, Resistance to the insulin, inflammatory Cytokines, pancreatic Reservation, Quantification of the degree of neovascularization (angio/arteriogenesis and vasculogenesis) after 6 months of the stem cells infusion"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy measured by: The changes in the requirements of insulin, Peptide C, Resistance to the insulin, inflammatory Cytokines, pancreatic Reservation, Quantification of the degree of neovascularization (angio/arteriogenesis and vasculogenesis)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02287974"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Total walking distance",
+                              "Major amputation free survival",
+                              "Ankle brachial pressure index (ABPI) - measured by Doppler",
+                              "Quality of life (QOL) by King's College VascuQOL questionnaire",
+                              "Angiogenesis - collateral blood vessels by Magnetic resonance angiogram (MRA)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months and 24 months",
+                              "6 months and 24 months",
+                              "6 months and 24 months",
+                              "6 months and 24 months",
+                              "6 months and 24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03056742"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Blind evaluation of the number of new vessels in the treated limb by standardized angiographic magnetic resonance",
+                              "Evaluation of the blood flow by laser Doppler, transcutaneous pressure of oxygen (TcPO2), ankle pressure.",
+                              "Percentage reduction of wound surface (standardized layer measurement).",
+                              "Evaluation of percentage of complete ulcer healing.",
+                              "Evaluation of pain reduction by standardized evaluation (visual scale and drug consumption).\n\nThe visual scale is in a form of plastic ruler and measures the intensity of pain on a scale ranging from 0 (no pain) to 10 (maximum pain).",
+                              "Percentage of wound infection and irritative dermatitis (expected adverse events)",
+                              "interleukin-1, interleukin-2, interleukin-4, interleukin-6, interleukin-10, interleukin-12, Tumor Necrosis Factor alpha (TNF\u03b1), will be measured out in blood samples.",
+                              "Mesenchymal stem cells (MSC) trophic factors and immune- modulators (Hepatocyte growth factor (HGF), Vascular Endothelial Growth Factor (VEGF), indoleamine 2, 3-dioxygenase (IDO), Human Leucocyte Antigen G (HLA-G)) will be studied in vitro."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "New vessels",
+                              "Blood flow",
+                              "Wound surface reduction",
+                              "Ulcer healing",
+                              "Pain reduction",
+                              "Wound infection",
+                              "Immuno measures in blood sample",
+                              "Immuno measures in vitro"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Between 1 and 6 months",
+                              "Between 1 and 6 months",
+                              "Between 1 and 6 months",
+                              "Between 1 and 6 months",
+                              "Between 1 and 6 months",
+                              "Between 1 and 6 months",
+                              "Between 1 and 6 months",
+                              "Between 1 and 6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03968198"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Secondary endpoint is a change in limb salvage rate > 50%, compared to Literature. Literature suggests that a year after the onset of CLI, only about half the patients will be alive without a major amputation, although some of these may still have rest pain, gangrene or ulcers. Approximately 25% will have died and 25% will have required a major amputation. Again, in contrast to patient with intermittent claudication, patients with CLI are on a rapidly downward course in term of both life and their prognosis is in many ways similar to that of some malignant forms of cancer."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Limb salvage"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "30 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04746599"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Rate major amputations Rate of patients with complete ulcer healing Rate of treatment related complications Improvement of ankle brachial index (ABI) Improvement of transcutaneous oxygen partial pressure (TcPO2) Improvement of local perfusion"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01065337"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [
+                              "20710046"
+                        ],
+                        "RetractionSource": [
+                              "de la Fuente R, Bernad A, Garcia-Castro J, Martin MC, Cigudosa JC. Cancer Res. 2010 Aug 15;70(16):6682"
+                        ],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01686139"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Amputation sited proximal from the ankle joint",
+                              "Amputation sited distal from the ankle joint",
+                              "Composite outcome measure considering mortality, limb status, clinical classification and changes in pain score. To be a \"success\" a subject must: A, be alive; B, be without a major amputation on the index limb; C, have not worsened in Rutherford classification or visual analog pain scale; and D, have improved in either Rutherford classification or visual analog pain scale. Subjects not meeting all of the criteria are classified as failures.",
+                              "Mortality",
+                              "Changes in the number and extent of leg ulcers,",
+                              "Resolution of rest pain and alteration in visual analogue pain (VAS) score",
+                              "Changes in pain free walking distance (treadmill at 3 km/h without incline)",
+                              "Alterations in ankle-brachial index (ABI)",
+                              "Alterations in toe-brachial index (TBI)",
+                              "Alterations in quality of life assessed using EuroQoL 5D quality of life questionnaire",
+                              "Alterations in quality of life assessed using Short Form 36 quality of life questionnaire",
+                              "Alterations clinical status according to Fontaine classification",
+                              "Alterations clinical status according to Rutherford classification"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Major amputation",
+                              "Minor amputation",
+                              "Therapy Success",
+                              "Mortality",
+                              "Ulcer healing",
+                              "Changes in pain",
+                              "Pain-free walking distance",
+                              "Ankle-brachial index (ABI)",
+                              "Toe-brachial index (TBI)",
+                              "Quality of life based on EuroQol 5D (EQ5D) questionnaire scores",
+                              "Quality of life based on Short Form 36 (SF36) questionnaire scores",
+                              "Clinical status according to Fontaine classification",
+                              "Clinical status according to Rutherford classification"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "2, 6, 12, 24, and 60 months",
+                              "2, 6, 12, 24, and 60 months",
+                              "2, 6, 12, 24, and 60 months",
+                              "2, 6, 12, 24, and 60 months",
+                              "2 and 6 months",
+                              "2, 6, 12, 24, and 60 months",
+                              "2 and 6 months",
+                              "2 and 6 months",
+                              "2 and 6 months",
+                              "2, 6, 12, 24, and 60 months",
+                              "2, 6, 12, 24, and 60 months",
+                              "2, 6, 12, 24, and 60 months",
+                              "2, 6, 12, 24, and 60 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03042572"
+                        ]
+                  }
+            ]
+      }
+}

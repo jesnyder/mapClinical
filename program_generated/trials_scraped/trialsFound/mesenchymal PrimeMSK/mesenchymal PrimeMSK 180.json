@@ -1,0 +1,83 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal PrimeMSK",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "April 27, 2022"
+                        ],
+                        "LeadSponsorClass": [
+                              "INDUSTRY"
+                        ],
+                        "LeadSponsorName": [
+                              "Thomas Advanced Medical LLC"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Culver City"
+                        ],
+                        "LocationContactEMail": [
+                              "info@thomasadvancedmedical.com",
+                              "info@thomasadvancedmedical.com"
+                        ],
+                        "LocationContactName": [
+                              "Karen Mulholland Angelus",
+                              "Ernst R Von Shwarz, MD PhD"
+                        ],
+                        "LocationContactPhone": [
+                              "866-864-7789",
+                              "866 864 7789"
+                        ],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "LocationCountry": [
+                              "United States"
+                        ],
+                        "LocationFacility": [
+                              "Southern California Hospital at Culver City / Southern California Hospital at Hollywood / Multiple US-based Sub-Investigator Sites"
+                        ],
+                        "LocationState": [
+                              "California"
+                        ],
+                        "LocationStatus": [
+                              "Recruiting"
+                        ],
+                        "LocationZip": [
+                              "92032"
+                        ],
+                        "NCTId": [
+                              "NCT04684602"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,907 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal placental",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 26,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 26,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [
+                              "Other: Single dose experiments",
+                              "Other: Multi-dose experiments"
+                        ],
+                        "ArmGroupLabel": [
+                              "Single dose experiments",
+                              "Multi-dose experiments"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04464213"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "1.0E+6 MSC/kg, IV drop and repeat to apply in Day 90 if the effect of MSC is better. At the same time, patient continues to apply the former oral hypoglycemic drugs, such as Dimethylbiguanide, Glurenorm and Acarbose, et al. and regulates the dosage for 1 year.",
+                              "1.0E+6 MSC/kg, IV drop and repeat to apply in Day 90 if the effect of MSC is better. At the same time, patient continues to apply the former insulins and regulates the dosage for 1 year.",
+                              "1.0E+6 MSC/kg, IV drop and repeat to apply in Day 90 if the effect of MSC is better. At the same time, patient continues to apply the former combination of the oral hypoglycemic drugs and insulins and regulates the dosage for 1 year."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: MSC",
+                              "Biological: MSC",
+                              "Biological: MSC"
+                        ],
+                        "ArmGroupLabel": [
+                              "MSC and the oral hypoglycemic drugs",
+                              "MSC and insulins",
+                              "MSC and the combination of drugs and insulins"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01413035"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "placenta-MSCs derived exosomes Exosomes are extracellular vesicles that are 30 to 150 nm in diameter. These vesicles are secreted from various cells. Mesenchymal stem cells exhibit immunomodulatory and anti-inflammatory properties by using paracrine effects. Exosomes, as a vehicle for signaling, are responsible for a significant part of cell-to-cell signaling. The preclinical animal studies manifested high safety and efficacy for MSC-derived exosome treatment on various fistulas and inflammatory bowel disease. In this study, we aimed to evaluate the safety and effectiveness of PlacentaMSCs derived exosomes in the treatment of patients with complex preanal fistula (Crohn's) in phases I and II of the clinical trial",
+                              "placebo"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: placenal MSC derived exosomes",
+                              "Other: placenal MSC derived exosomes"
+                        ],
+                        "ArmGroupLabel": [
+                              "exosome therapy",
+                              "placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05499156"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "Acronym": [
+                              "MSC in IPF"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [
+                              "Yes"
+                        ],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Placental MSC",
+                              "Placental MSC"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: Placental MSC",
+                              "Other: Placental MSC"
+                        ],
+                        "ArmGroupLabel": [
+                              "1*10^6 MSC / kg",
+                              "2*10^6 MSC / kg"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [
+                              "<=18 years",
+                              "Between 18 and 65 years",
+                              ">=65 years",
+                              "Female",
+                              "Male"
+                        ],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01385644"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "The patients whose fistula is treated by exosome (40 patients).",
+                              "The patients whose fistula is treated with conventional treatment plan (40 patients)."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: placenta-MSCs derived exosomes",
+                              "Other: placenta-MSCs derived exosomes"
+                        ],
+                        "ArmGroupLabel": [
+                              "exosome cases",
+                              "Controls"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05402748"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "Acronym": [
+                              "PMD-MSC-PD-01"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Subjects will receive an initial injection of 1.0cc of Placental Matrix-Derived Mesenchymal Stem Cells (PMD-MSCs). Subjects will be eligible for re-injection at 3 months and/or 6 months as determined by the clinician based on ultrasound guided measurements of penile plaque(s) post treatment and on patient reported treatment satisfaction."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Placental Matrix-Derived Mesenchymal Stem Cells (PMD-MSCs)"
+                        ],
+                        "ArmGroupLabel": [
+                              "Injection of PMD-MSCs into the penis"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02395029"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "Acronym": [
+                              "PMD-MSC-ED-01"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Subjects will receive an initial injection of 1.0cc of Placental Matrix-Derived Mesenchymal Stem Cells (PMD-MSCs). Subjects will be eligible for re-injection at 3 months and/or 6 months as determined by the clinician based patient reported treatment satisfaction."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Placental Matrix-Derived Mesenchymal Stem Cells (PMD-MSCs)"
+                        ],
+                        "ArmGroupLabel": [
+                              "Injection of PMD-MSCs into the penis"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02398370"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Experimental Group 1: Three intra-articular injection of allogeneic P-MMSCs up to 2\u2022107cells (target dose up to 6\u2022107 cells) with 20 mg Hyaluronic Acid at 4-weeks intervals - 15 patients",
+                              "Experimental Group 2: Three intra-articular injection of autologous BM-MMSCs up to 2\u2022107cells (target dose up to 6\u2022107 cells) with 20 mg Hyaluronic Acid at 4-weeks intervals - 15 patients",
+                              "Three intra-articular injection of 20 mg Hyaluronic Acid - 15 patients"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Placenta-derived MMSCs",
+                              "Drug: Hyalgan 20 mg in 2 ML Prefilled Syringe",
+                              "Biological: Bone marrow-derived MMSCs",
+                              "Drug: Hyalgan 20 mg in 2 ML Prefilled Syringe",
+                              "Drug: Hyalgan 20 mg in 2 ML Prefilled Syringe"
+                        ],
+                        "ArmGroupLabel": [
+                              "Hyaluronic Acid (HA) + P-MMSCs",
+                              "Hyaluronic Acid (HA) + BM-MMSCs",
+                              "Hyaluronic Acid (HA)"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04453111"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "Acronym": [
+                              "CuRe"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "One-time administration of PMSC-ECM during the course of in utero fetal myelomeningocele surgery will be administered",
+                              "Contemporaneous cohort of patients undergoing routine fetal or postnatal MMC repair without PMSC-ECM (non-PMSC untreated contemporaneous cohort)."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Placental Mesenchymal Stem Cells seeded on a commercially available dural graft extracellular matrix",
+                              "Other: Untreated contemporaneous cohort"
+                        ],
+                        "ArmGroupLabel": [
+                              "Treatment with PMSC-ECM",
+                              "non-PMSC untreated contemporaneous cohort"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Other"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04652908"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Human umbilical cord-derived MSCs at a dose of 1.0E+6 MSC/kg, repeated after three months and DMARDs such as sulfasalazine,methotrexate,thalidomide po for 12 months",
+                              "DMARDs such as sulfasalazine,methotrexate,thalidomide po for 12 months"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Human umbilical cord-derived MSCs"
+                        ],
+                        "ArmGroupLabel": [
+                              "Human umbilical cord-derived MSCs and DMARDs",
+                              "DMARDs"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01420432"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Human umbilical cord-derived MSCs at a dose of 1.0E+6 MSC/kg, repeated to apply in trimonthly for 2 cycle and CsA 5mg/kg po for 12 months",
+                              "cyclosporine A at a dose of 5 mg CsA/kg"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: Human umbilical cord-derived MSCs and cyclosporin A",
+                              "Other: cyclosporin A"
+                        ],
+                        "ArmGroupLabel": [
+                              "Human umbilical cord-derived MSCs and cyclosporin",
+                              "cyclosporine A"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01182662"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Human umbilical cord-derived MSCs at a dose of 1.0E+6 MSC/kg, repeated to apply in trimonthly for 2 cycle",
+                              "CsA at a dose of 5 mg CsA/kg"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: Human umbilical cord-derived MSCs",
+                              "Other: cyclosporine A (CsA)"
+                        ],
+                        "ArmGroupLabel": [
+                              "Human umbilical cord-derived MSCs",
+                              "cyclosporine A (CsA)"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01129739"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Placenta Derived Mesenchymal Stem Cell administered into the knee joint once",
+                              "Sodium hyaluronate administered into the knee joint once"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Placenta Derived Mesenchymal Stem Cell",
+                              "Drug: Sodium Hyaluronate"
+                        ],
+                        "ArmGroupLabel": [
+                              "Placenta Derived Mesenchymal Stem Cell",
+                              "sodium hyaluronate"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03028428"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [
+                              "Drug: EV-Pure\u2122 and WJ-Pure\u2122",
+                              "Drug: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "Experimental/treatment arm",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05387278"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "On the basis conventional symptomatic treatment and supportive therapy, P-MMSCs were given at 1 million cells/kg body weight/ time, once every 3 days for a total of 3 times: Day \"1\", Day \"4\", Day \"7\".",
+                              "Conventional symptomatic treatments such as antibacterial (ceftriaxone, azithromycin), anticoagulants, hormones, oxygen therapy, mechanical ventilation and other supportive therapies"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Procedure: Placenta-Derived MMSCs; Cryopreserved Placenta-Derived Multipotent Mesenchymal Stromal Cells",
+                              "Drug: Antibiotics",
+                              "Drug: Hormones",
+                              "Drug: Anticoagulant Therapy",
+                              "Device: \u041exygen therapy",
+                              "Drug: Antibiotics",
+                              "Drug: Hormones",
+                              "Drug: Anticoagulant Therapy",
+                              "Device: \u041exygen therapy"
+                        ],
+                        "ArmGroupLabel": [
+                              "Experimental group",
+                              "Control Group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04461925"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "Acronym": [
+                              "Mito Moms"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Physically active will be defined by self-report and confirmed by step counts >8,000 per day from activity monitoring.",
+                              "Sedentary lifestyle will be defined by self-report and confirmed by step counts <5,000 per day from activity monitoring."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Behavioral: Active",
+                              "Behavioral: Sedentary"
+                        ],
+                        "ArmGroupLabel": [
+                              "Active",
+                              "Sedentary"
+                        ],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03489564"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Participants who self-select into the Group 1 (Immediate Treatment) will be scheduled to undergo the HAM and HUMCWJ injections to the OA affected knee at the same visit.",
+                              "Participants who self-select into Group 2 will choose to delay their HAM and HUMCWJ injection to the OA affected knee for at least 3 months or choose not to have the injections at all. Participants will be asked to keep track of pain management and therapy throughout the 3 months."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Procedure: HAM and HUMCWJ Injections"
+                        ],
+                        "ArmGroupLabel": [
+                              "HAM and HUMCWJ Injections (Group 1)",
+                              "Control (Group 2)"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03337243"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [
+                              "Biological: PLX-PAD IM injection",
+                              "Biological: PLX-PAD IM injection",
+                              "Biological: PLX-PAD IM injection"
+                        ],
+                        "ArmGroupLabel": [
+                              "PLX-PAD low dose",
+                              "PLX-PAD intermediate dose",
+                              "PLX-PAD high dose"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT00919958"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "Acronym": [
+                              "MSCGVHD"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT00749164"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "IM injection Single treatment; multiple injections",
+                              "IM injection Double treatment; multiple injections"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: PLX-PAD",
+                              "Biological: PLX-PAD"
+                        ],
+                        "ArmGroupLabel": [
+                              "PLX-PAD low dose",
+                              "PLX-PAD high dose"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT00951210"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "PLX-PAD 300 million cells (20 million/mL) administered via 15 IM injections (1 mL each).\n\nSingle administration in addition to best standard medical care.",
+                              "Best standard medical care"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: PLX-PAD"
+                        ],
+                        "ArmGroupLabel": [
+                              "PLX-PAD Treatment",
+                              "Control Group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04614025"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "0.5 million (M) PLX-PAD cells per kg body weight",
+                              "1.0 million (M) PLX-PAD cells per kg body weight",
+                              "2.0 million (M) PLX-PAD cells per kg body weight"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: PLX-PAD",
+                              "Drug: PLX-PAD",
+                              "Drug: PLX-PAD"
+                        ],
+                        "ArmGroupLabel": [
+                              "0.5 M PLX-PAD",
+                              "1 M PLX-PAD",
+                              "2 M PLX-PAD"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01795950"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "PLX-PAD will be administered via 15 IM injections (1 mL each). Each subject will be treated twice, with an interval of 1 week between treatments.",
+                              "PLX-PAD 300, single administration, second administration of placebo after 1 week.",
+                              "Placebo, two administrations, 1 week apart",
+                              "PLX-PAD, single administration",
+                              "Placebo, single administration"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: PLX-PAD",
+                              "Biological: PLX-PAD",
+                              "Biological: Placebo",
+                              "Biological: PLX-PAD",
+                              "Biological: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "PLX-PAD interval high dose",
+                              "PLX-PAD low dose",
+                              "Control Group A",
+                              "PLX-PAD high dose",
+                              "Control Group B"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Placebo Comparator",
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04389450"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "The first cohort of three patients will receive a single dose in the first 48 postnatal hours.",
+                              "If there are no safety concerns after the first cohort of 3 subjects are infused then the second cohort of three patients will receive two doses, with the first dose given in the first 48 postnatal hours and the second dose given approximately two months after the first dose."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Infusion of hCT-MSC",
+                              "Biological: Infusion of hCT-MSC"
+                        ],
+                        "ArmGroupLabel": [
+                              "First cohort of 3 subjects enrolled",
+                              "Second cohort of 3 subjects enrolled"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03635450"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "Acronym": [
+                              "IMAGINE"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [
+                              "Pregnant women diagnosed with gestational diabetes",
+                              "Pregnant women with normal pregnancy"
+                        ],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02926079"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "After ovum pick-up, MSC differentiated to endometrium is deposited in the uterine cavity.Embryo transfer will be done at day 5 at the blastocyst stage.",
+                              "Immediately postmenstrual undifferentiated MSC is deposited in the uterine cavity. Ovum pick-up will be done as usual.Embryo transfer will be done at day 5 at the blastocyst stage.",
+                              "ovum pick-up as usual and embryo transfer at day 5 at the blastocyst stage."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Differentiated stem cells to endometrium is deposited in the uterine cavity through an IUI catheter",
+                              "Biological: Undifferentiated MSC is deposited in the uterine cavity through an IUI catheter."
+                        ],
+                        "ArmGroupLabel": [
+                              "Differentiated stem cell therapy group",
+                              "undifferentiated stem cell therapy group",
+                              "Control group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01649752"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,133 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal XCEL-MT-OSTEO-ALPHA",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "\"ex-vivo\" expanded autologous mesenchymal stromal cells fixed in allogenic bone tissue",
+                              "Standard treatment"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: XCEL-MT-OSTEO-ALPHA",
+                              "Procedure: Surgery",
+                              "Other: autologous iliac crest",
+                              "Procedure: Surgery"
+                        ],
+                        "ArmGroupLabel": [
+                              "XCEL-MT-OSTEO-ALPHA and surgery",
+                              "Autologous iliac crest and surgery"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Other"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02230514"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "\"ex-vivo\" expanded autologous mesenchymal stem cells fixed in allogenic bone tissue (under Xcelia-GMP conditions)for osteonecrosis of the femoral head",
+                              "Isolated core decompression"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: XCEL-MT-OSTEO-ALPHA",
+                              "Procedure: Standard treatment"
+                        ],
+                        "ArmGroupLabel": [
+                              "XCEL-MT-OSTEO-ALPHA",
+                              "Standard Treatment"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Sham Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01605383"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "\"ex-vivo\" expanded autologous mesenchymal stem cells fixed in allogenic bone tissue for spinal fusion",
+                              "Instrumented spinal fusion together with patient's bone iliac crest."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: XCEL-MT-OSTEO-ALPHA",
+                              "Procedure: Standard treatment"
+                        ],
+                        "ArmGroupLabel": [
+                              "XCEL-MT-OSTEO-ALPHA",
+                              "Standard treatment"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Sham Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01552707"
+                        ]
+                  }
+            ]
+      }
+}

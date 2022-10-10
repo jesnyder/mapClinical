@@ -1,0 +1,80 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal XSTEM-OA",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Per Norl\u00e9n, MD, PhD",
+                              "Stephen Hall, Dr"
+                        ],
+                        "OverallOfficialRole": [
+                              "Study Director",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 2024"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Incidence, nature and severity of treatment-related AEs assessed by the Common Terminology Criteria for Adverse Events (CTCAE)",
+                              "Change in 12-lead electrocardiograms (ECGs) compared to baseline.",
+                              "Changes in laboratory tests compared to baseline. The clinical laboratory tests include haematology, chemistry, coagulation and urinalysis.",
+                              "Changes in physical examination compared to baseline.",
+                              "Changes in vital signs compared to baseline. Vital signs include blood pressure, pulse rate, respiratory rate and oral body temperature."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Safety and tolerability: Adverse events (AEs)",
+                              "Safety and tolerability: 12-lead electrocardiogram (ECG)",
+                              "Safety and tolerability: Laboratory examinations",
+                              "Safety and tolerability: Physical examinations",
+                              "Safety and tolerability: Vital signs"
+                        ],
+                        "NCTId": [
+                              "NCT05344157"
+                        ]
+                  }
+            ]
+      }
+}

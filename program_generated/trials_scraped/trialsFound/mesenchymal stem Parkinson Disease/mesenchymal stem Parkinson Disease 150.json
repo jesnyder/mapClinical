@@ -1,0 +1,687 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Parkinson Disease",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 16,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 16,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "mesenchymal stem cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Patients with PD in the therapy group were given UC-MSCs by intravenous infusion and conventional therapy. There was only conventional treatment in the control group. All patients after treatment for 1 month, 3 months, 6 months and 12 months were evaluated respectively the curative effect."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03550183"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "MSC"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Intravenous administration of up to 6x10^5 MSCs per kg,qw,for 4 weeks"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "bone marrow derived mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "Mesenchymal Stem Cells",
+                              "Multipotent Mesenchymal Stem Cells",
+                              "Multipotent Mesenchymal Stromal Cells"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01446614"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "Bone marrow-derived MSC transplantation (1 x 10 6 MSC/kg)",
+                              "Bone marrow-derived MSC transplantation (3 x 10 6 MSC/kg)",
+                              "Bone marrow-derived MSC transplantation (6 x 10 6 MSC/kg)",
+                              "Bone marrow-derived MSC transplantation (10 x 10 6 MSC/kg)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Bone marrow-derived allogeneic MSCs will be delivered intravenously in escalating doses of 1 x 10 6 MSC/kg, 3 x 10 6 MSC/kg, 6 x 10 6 MSC/kg, or 10 x 10 6 MSC/kg of body weight to a population of patients with idiopathic Parkinson's disease (iPD).",
+                              "Bone marrow-derived allogeneic MSCs will be delivered intravenously in escalating doses of 1 x 10 6 MSC/kg, 3 x 10 6 MSC/kg, 6 x 10 6 MSC/kg, or 10 x 10 6 MSC/kg of body weight to a population of patients with idiopathic Parkinson's disease (iPD).",
+                              "Bone marrow-derived allogeneic MSCs will be delivered intravenously in escalating doses of 1 x 10 6 MSC/kg, 3 x 10 6 MSC/kg, 6 x 10 6 MSC/kg, or 10 x 10 6 MSC/kg of body weight to a population of patients with idiopathic Parkinson's disease (iPD).",
+                              "Bone marrow-derived allogeneic MSCs will be delivered intravenously in escalating doses of 1 x 10 6 MSC/kg, 3 x 10 6 MSC/kg, 6 x 10 6 MSC/kg, or 10 x 10 6 MSC/kg of body weight to a population of patients with idiopathic Parkinson's disease (iPD)."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic bone marrow-derived MSCs (1 x 10 6 MSC/kg)",
+                              "Allogeneic bone marrow-derived MSCs (3 x 10 6 MSC/kg)",
+                              "Allogeneic bone marrow-derived MSCs (6 x 10 6 MSC/kg)",
+                              "Allogeneic bone marrow-derived MSCs (10 x 10 6 MSC/kg)"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02611167"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "InterventionArmGroupLabel": [
+                              "Treatment Group (AlloRx)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "cultured allogeneic adult umbilical cord derived mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "AlloRx"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05152394"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "InterventionArmGroupLabel": [
+                              "MSC+placebo",
+                              "MSC",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "2 infusions of 10 X 10^6 MSC/kg and 1 placebo every 3 months.",
+                              "3 infusions of 10 X 10^6 MSC/kg every 3 months.",
+                              "3 infusions of placebo every 3 months. Placebo will be identical to the investigational product but will not contain MSCs."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "MSC+placebo",
+                              "MSC",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "allogeneic mesenchymal stem cell or similar placebo",
+                              "allogeneic mesenchymal stem cell",
+                              "Similar placebo"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04506073"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "InterventionArmGroupLabel": [
+                              "Therapy for Parkinson's disease"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "CaAg",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Cardiotonic Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M6625"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Dopamine"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Stem cells are derived from the bone marrow of the patient and processed at Reliance life sciences.The stem cells are the stereotactically implanted in the striatum."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous Bone marrow derived stem cells transplant"
+                        ],
+                        "InterventionOtherName": [
+                              "stem cells",
+                              "cell therapy for Parkinson's disease"
+                        ],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00976430"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "InterventionArmGroupLabel": [
+                              "Study group",
+                              "control group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Autologous mesenchymal stem cells",
+                              "Saline solution"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous mesenchymal stem cells",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04146519"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "InterventionArmGroupLabel": [
+                              "Single Arm Study"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Stereotactic intrastriatal implantation of 3\u00d710^7 per hemisphere (total 6\u00d710^7 cells) or 1\u00d710^8 per hemisphere (total 2\u00d710^8 cells) autologous TM01-treated adipose-derived mesenchymal stem cells (MitoCell)."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Aadipose-Derived Mesenchymal Stem Cells"
+                        ],
+                        "InterventionOtherName": [
+                              "MitoCell"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05094011"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "InterventionArmGroupLabel": [
+                              "Injection of MSCs differentiated into neural stem cells NSCs",
+                              "Injection of Umbilical cord derived MSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Allogenic umbilical cord derived MSCs which are to be injected intrathecally and intravenously as a treatment option for consenting PD patients"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Injection of Umbilical cord derived MSCs"
+                        ],
+                        "InterventionOtherName": [
+                              "injection of Umbilical cord derived MSCs differentiated into neural stem cells NSCs."
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03684122"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "InterventionArmGroupLabel": [
+                              "HB-adMSCs",
+                              "Placebo",
+                              "HB-adMSCs",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "HB-adMSCs will be administered intravenously to study participants who qualify.",
+                              "Placebo will be administered intravenously to study participants who qualify."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "Autologous Hope Biosciences adipose derived mesenchymal stem cells.",
+                              "Sterile Saline Solution 0.9%"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04928287"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "InterventionArmGroupLabel": [
+                              "Allogeneic HB-adMSCs.",
+                              "Placebo",
+                              "Allogeneic HB-adMSCs.",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All",
+                              "PhSol"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals",
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M16512",
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Vaccines",
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "HB-adMSCs will be administered intravenously to study participants who qualify.",
+                              "Sterile Saline Solution 0.9%"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Biological/Vaccine: Allogeneic HB-adMSCs",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "Allogeneic Hope Biosciences adipose derived mesenchymal stem cells.",
+                              "Placebo will be administered intravenously to study participants who qualify."
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04995081"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "HB-adMSCs (Hope Biosciences autologous adipose-derived mesenchymal stem cells) is manufactured by Hope Biosciences, L.L.C., a biotechnology company headquartered in Sugar Land, Texas."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT04772378"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "InterventionArmGroupLabel": [
+                              "Autologous Adipose MSC Group",
+                              "Allogeneic Umbilical Cord MSC Group",
+                              "Allogeneic Umbilical Cord MSC and Adipose Secretome Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "CNSDep",
+                              "All",
+                              "Ot"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Central Nervous System Depressants",
+                              "All Drugs and Chemicals",
+                              "Other Dietary Supplements"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M4006",
+                              "M20124",
+                              "T433"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Benzocaine",
+                              "Hepatitis C Antibodies",
+                              "Tannic Acid"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Before taking adipose tissue, each subject was screened including HbSAg, Anti HbS, Anti HCV, HIC, MCV and syphilis tests.\n\nAdipose tissue was taken through 5 grams of subcutaneous fat biopsy from the abdomen of each subject and put into a transport medium and then sent to the RSCM-FKUI cGMP IPT Stem Cells Laboratory for immediate isolation of mesenchymal stem cells.\n\nMSC that has been isolated will be cultured using the appropriate medium until it reaches the desired passage and the number of cells.\n\nThe viability and proliferation ability of cultured cells were evaluated, then characterization of cell antigen expression was carried out using flow cytometry to confirm the success of MSC culture.\n\nThe MSC to be injected into the subject will be prepared in 2cc physiological NaCl transport medium just before implantation.\n\nThe adipose secretion used is prepared in whole form as much as 10cc in a 10cc syringe.",
+                              "Before taking the umbilical cord tissue, a pregnant woman's donor was screened including HbSAg, Anti HbS, Anti HCV, HIC, MCV and syphilis tests.\n\nImmediately after delivery, the umbilical cord was collected and stored in a sterile specimen plate containing 0.9% NaCl at 4\u2070C.\n\nThe umbilical cord is transported to the GMP standard culture laboratory at the UPT TK Stem Cells RSCM-FKUI for isolation process of mesenchymal stem cells. Sample processing was carried out within 8 hours of delivery to maintain cell viability.\n\nMSC that has been isolated will be cultured using the appropriate medium until it reaches the desired passage and the number of cells.\n\nThe viability and proliferation ability of cultured cells were evaluated, then characterization of cell antigen expression was carried out using flow cytometry to confirm the success of MSC culture.\n\nThe MSC to be injected into the subject will be prepared in a suitable transport medium just prior to implantation.",
+                              "Before taking adipose and umbilical cord tissue, each subject was screened. -For Adipose tissue : The adipose secretion used is prepared in whole form as much as 10cc in a 10cc syringe.\n\n-Uc-MSC : Immediately after delivery, the umbilical cord was collected and stored in a sterile specimen plate containing 0.9% NaCl at 4\u2070C.\n\nThe umbilical cord is transported to the GMP standard culture laboratory to have isolation process of mesenchymal stem cells. Sample processing was carried out within 8 hours of delivery to maintain cell viability.\n\nLater it will be cultured using the appropriate medium until it reaches the desired passage and the number of cells.The viability and proliferation ability of cultured cells were evaluated, then characterization of cell antigen expression was carried out using flow cytometry to confirm the success of MSC culture."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous Adipose Mesenchymal Stem Cell Implantation",
+                              "Allogeneic Umbilical Cord Mesenchymal Stem Cell Implantation",
+                              "Allogeneic Umbilical Cord Mesenchymal Stem Cell and Adipose Secretome Implantation"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04876326"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "InterventionArmGroupLabel": [
+                              "delayed stem cell therapy",
+                              "immediate stem cell therapy"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "CNSDep",
+                              "All",
+                              "PhSol"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Central Nervous System Depressants",
+                              "All Drugs and Chemicals",
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3259",
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anesthetics",
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Bone marrow will be collected from the iliac crest under local anesthesia. Mesenchymal Stem Cells (MSCs) will be isolated and cultivated in vitro. Patients will be catheterized and the MSCs will then be administered by intra-arterial route via the internal carotid artery and the vertebral artery that is largest in caliber, injecting small boluses manually through a microcatheter."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "stem cell therapy"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01824121"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Hope Biosciences autologous adipose-derived mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT04514952"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "InterventionArmGroupLabel": [
+                              "mesenchymal stem cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Procedure: On the basis of conventional therapy, at the same time, selected patients were given by intravenous infusion of umbilical cord blood stem cells 100-800 million. All patients before treatment, after treatment for 15days, 90days and 180 days were evaluated respectively the curative effect.\n\nIntravenous infusion of umbilical cord derived mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01962233"
+                        ]
+                  }
+            ]
+      }
+}

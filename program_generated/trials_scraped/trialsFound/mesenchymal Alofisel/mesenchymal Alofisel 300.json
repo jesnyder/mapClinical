@@ -1,0 +1,99 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Alofisel",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "At every follow up visit the perianal disease was evaluated using the PDAI (Perianal disease activity index)",
+                              "Crohn's disease was evaluated by using the HBI (Harvey Bradshaw Index)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Evaluation of perianal disease",
+                              "Evaluation of Crohn's disease"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year",
+                              "1 year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05322057"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "This outcome corresponds to the rate of patients in clinical remission alone at 12 months defined by the combination\n\nan absence of pain and oozing\nclosure of the secondary orifice(s) with the absence of discharge on digital pressure\nabsence of abscesses",
+                              "This outcome corresponds to the rate of patients with primary treatment failure defined as non-closure of secondary orifice(s) with persistent flow on digital pressure at 3-month follow-up.",
+                              "This outcome corresponds to the complication rates and types at 12 months."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "12-month clinical remission rate only",
+                              "Primary clinical failure rate",
+                              "Evolution of the severity of the disease at 12 months"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Month 12",
+                              "Month 3",
+                              "Month 12"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05177003"
+                        ]
+                  }
+            ]
+      }
+}

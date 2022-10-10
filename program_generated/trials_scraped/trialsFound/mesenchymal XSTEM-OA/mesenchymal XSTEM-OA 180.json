@@ -1,0 +1,80 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal XSTEM-OA",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "July 12, 2022"
+                        ],
+                        "LeadSponsorClass": [
+                              "INDUSTRY"
+                        ],
+                        "LeadSponsorName": [
+                              "Xindu Pty Ltd"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Camberwell"
+                        ],
+                        "LocationContactEMail": [
+                              "info@emeritusresearch.com"
+                        ],
+                        "LocationContactName": [
+                              "Stephen Hall, MD, PhD"
+                        ],
+                        "LocationContactPhone": [
+                              "+61 (0)3 9509 6166"
+                        ],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [
+                              "Contact",
+                              "Principal Investigator"
+                        ],
+                        "LocationCountry": [
+                              "Australia"
+                        ],
+                        "LocationFacility": [
+                              "Emeritus Research"
+                        ],
+                        "LocationState": [
+                              "Victoria"
+                        ],
+                        "LocationStatus": [
+                              "Recruiting"
+                        ],
+                        "LocationZip": [
+                              "3124"
+                        ],
+                        "NCTId": [
+                              "NCT05344157"
+                        ]
+                  }
+            ]
+      }
+}

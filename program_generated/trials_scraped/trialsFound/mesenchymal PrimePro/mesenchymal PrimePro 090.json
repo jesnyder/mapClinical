@@ -1,0 +1,94 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal PrimePro",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Care Provider",
+                              "Investigator"
+                        ],
+                        "DetailedDescription": [
+                              "Recent preliminary data from Wuhan/China have claimed that intravenous injections of mesenchymal stem cells derived from human umbilical chords have resulted in complete recovery of COVID-19 infected elderly patients with respiratory failure.\n\nThis study investigates the efficacy and safety of a single umbilical cord derived stem cell intravenous injection in patients with suspected or confirmed COVID-19 infection with fever and respiratory illness.\n\nA second arm will test efficacy and safety of a single umbilical cord derived stem cell intravenous injection to healthcare providers at high exposure rates to COVID-19 infection."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAge 18 and older\nAbility to provide informed consent\n\nExclusion Criteria:\n\nActive or recent malignancy (within last 2 years)\nInability to provide informed consent\nCurrent enrollment in any other COVID-19 treatment study"
+                        ],
+                        "EnrollmentCount": [
+                              "40"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04573270"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "This multi-arm, multi-site study investigates the safety, tolerability, and efficacy of stem cell therapy for the treatment of various acute and chronic conditions. Clinically observed initial findings and an extensive body of research indicate regenerative treatments are both safe and effective for the treatment of multiple conditions.\n\nThis study investigates clinical outcomes of treatments for numerous indications including: Autoimmune, Cardiovascular, Diabetes, Integumentary, Neurologic / Neurodegenerative, Pulmonary, Orthopedic Diseases, Sexual Dysfunction, Urologic Disorders and Viral Illnesses.\n\nOur hypotheses posit that regenerative treatments are both safe and statistically beneficial for a range of conditions. Outcomes will be determined by multiple valid outcome instruments that measure general quality of life information along with condition-specific information."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAge 18 and older\nAbility to provide informed consent\nAvailability for follow up visits\n\nExclusion Criteria:\n\nActive or recent malignancy (within last 2 years)\nPregnancy or breast-feeding\nInability to provide informed consent"
+                        ],
+                        "EnrollmentCount": [
+                              "5000"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04684602"
+                        ]
+                  }
+            ]
+      }
+}

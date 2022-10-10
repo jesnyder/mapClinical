@@ -1,0 +1,698 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal JOINTSTEM",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 10,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 10,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M12078",
+                              "M21321",
+                              "M3628",
+                              "M9773",
+                              "M11249",
+                              "M14197",
+                              "M5475"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee",
+                              "Arthritis",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000010003",
+                              "D000020370"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04368806"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Osteoarthritis",
+                              "Knee Osteoarthritis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3628",
+                              "M12078",
+                              "M21321",
+                              "M9773",
+                              "M11249",
+                              "M14197",
+                              "M5475"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Arthritis",
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000010003",
+                              "D000020370"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03509025"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Arthritis",
+                              "Osteoarthritis",
+                              "Knee Osteoarthritis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3628",
+                              "M12078",
+                              "M21321",
+                              "M9773",
+                              "M11249",
+                              "M14197",
+                              "M5475"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Arthritis",
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001168",
+                              "D000010003",
+                              "D000020370"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Arthritis",
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03990805"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Osteoarthritis",
+                              "Knee Osteoarthritis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M12078",
+                              "M21321",
+                              "M3628",
+                              "M9773",
+                              "M11249",
+                              "M14197",
+                              "M5475"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee",
+                              "Arthritis",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000010003",
+                              "D000020370"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04427930"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Arthritis",
+                              "Degenerative Arthritis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3628",
+                              "M12078",
+                              "M21321",
+                              "M9773",
+                              "M11249",
+                              "M14197",
+                              "M5475"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Arthritis",
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001168",
+                              "D000010003"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Arthritis",
+                              "Osteoarthritis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04825730"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Arthritis",
+                              "Degenerative Arthritis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3628",
+                              "M12078",
+                              "M9773",
+                              "M11249",
+                              "M14197",
+                              "M5475"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Arthritis",
+                              "Osteoarthritis",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001168",
+                              "D000010003"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Arthritis",
+                              "Osteoarthritis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01300598"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M12078",
+                              "M21321",
+                              "M3628",
+                              "M9773",
+                              "M11249",
+                              "M14197",
+                              "M5475"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee",
+                              "Arthritis",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000010003",
+                              "D000020370"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02674399"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Arthritis",
+                              "Osteoarthritis",
+                              "Knee Osteoarthritis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3628",
+                              "M9773",
+                              "M12078",
+                              "M21321",
+                              "M11249",
+                              "M14197",
+                              "M5475"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Arthritis",
+                              "Joint Diseases",
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001168",
+                              "D000010003",
+                              "D000020370"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Arthritis",
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03000712"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Arthritis",
+                              "Degenerative Arthritis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3628",
+                              "M12078",
+                              "M21321",
+                              "M9773",
+                              "M11249",
+                              "M14197",
+                              "M5475"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Arthritis",
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001168",
+                              "D000010003"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Arthritis",
+                              "Osteoarthritis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04821102"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Arthritis",
+                              "Degenerative Arthritis",
+                              "Knee Osteoarthritis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3628",
+                              "M12078",
+                              "M21321",
+                              "M9773",
+                              "M11249",
+                              "M14197",
+                              "M5475"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Arthritis",
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001168",
+                              "D000010003",
+                              "D000020370"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Arthritis",
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02658344"
+                        ]
+                  }
+            ]
+      }
+}

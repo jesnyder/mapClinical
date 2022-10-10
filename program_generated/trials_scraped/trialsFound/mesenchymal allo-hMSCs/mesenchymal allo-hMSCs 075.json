@@ -1,0 +1,1003 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal allo-hMSCs",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 14,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 14,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Nervous System Diseases",
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemic Stroke",
+                              "Stroke",
+                              "Ischemic",
+                              "Ischemic Stroke",
+                              "Acute"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M2401",
+                              "M21459",
+                              "M9695",
+                              "M9434",
+                              "M4945",
+                              "M4962",
+                              "M4356",
+                              "M4894",
+                              "M16552",
+                              "M21458",
+                              "M4946",
+                              "M11436",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemic Stroke",
+                              "Stroke",
+                              "Ischemia",
+                              "Infarction",
+                              "Cerebral Infarction",
+                              "Cerebrovascular Disorders",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Vascular Diseases",
+                              "Brain Infarction",
+                              "Brain Ischemia",
+                              "Necrosis",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000020521",
+                              "D000083242",
+                              "D000002544",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Stroke",
+                              "Ischemic Stroke",
+                              "Cerebral Infarction",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT05522569"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Behaviors and Mental Disorders",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Depression",
+                              "Depression",
+                              "Treatment Resistant Depression"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M6210",
+                              "M6213",
+                              "M28936",
+                              "M3970",
+                              "M20988",
+                              "M13625",
+                              "M3967"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Depression",
+                              "Depressive Disorder",
+                              "Depressive Disorder, Treatment-Resistant",
+                              "Behavioral Symptoms",
+                              "Mood Disorders",
+                              "Psychotic Disorders",
+                              "Mental Disorders"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003863",
+                              "D000003866",
+                              "D000061218"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Depression",
+                              "Depressive Disorder",
+                              "Depressive Disorder, Treatment-Resistant"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02675556"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ConditionBrowseBranchName": [
+                              "Behaviors and Mental Disorders",
+                              "All Conditions",
+                              "Substance Related Disorders"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Depressive Disorder",
+                              "Major Depressive Disorder",
+                              "Alcohol Use",
+                              "Alcohol Use Disorder"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M6210",
+                              "M6213",
+                              "M6212",
+                              "M2926",
+                              "M2935",
+                              "M20988",
+                              "M13625",
+                              "M3967",
+                              "M6654",
+                              "M20995",
+                              "M20990",
+                              "M29455"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Depression",
+                              "Depressive Disorder",
+                              "Depressive Disorder, Major",
+                              "Alcohol Drinking",
+                              "Alcoholism",
+                              "Mood Disorders",
+                              "Psychotic Disorders",
+                              "Mental Disorders",
+                              "Drinking Behavior",
+                              "Alcohol-Related Disorders",
+                              "Substance-Related Disorders",
+                              "Chemically-Induced Disorders"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000004194",
+                              "D000000437",
+                              "D000003866",
+                              "D000003865",
+                              "D000000428"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Disease",
+                              "Alcoholism",
+                              "Depressive Disorder",
+                              "Depressive Disorder, Major",
+                              "Alcohol Drinking"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03265808"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Syndrome",
+                              "Hypoplastic Left Heart Syndrome",
+                              "Hypoplastic Left Heart Syndrome"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M15507",
+                              "M19878",
+                              "M8570",
+                              "M12",
+                              "M19656",
+                              "M8571",
+                              "T2957"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Syndrome",
+                              "Hypoplastic Left Heart Syndrome",
+                              "Heart Defects, Congenital",
+                              "Congenital Abnormalities",
+                              "Cardiovascular Abnormalities",
+                              "Heart Diseases",
+                              "Hypoplastic Left Heart Syndrome"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000018636",
+                              "D000013577"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Hypoplastic Left Heart Syndrome",
+                              "Syndrome"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "20 patients and 10 patients will be controls with a total of 30 HLHS patients."
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [
+                              "HLHS patients which will be randomized to the treatment and control arms in a 1:1 ratio"
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02398604"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Crohn's Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M5790",
+                              "M9596",
+                              "M17069",
+                              "M8027",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Crohn Disease",
+                              "Intestinal Diseases",
+                              "Inflammatory Bowel Diseases",
+                              "Gastroenteritis",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003424"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Crohn Disease"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02677350"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Neoplasms",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M11307",
+                              "M9434",
+                              "M11459",
+                              "M19977",
+                              "M19744",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Neoplasm Metastasis",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01087996"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Frailty"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M1175"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Frailty"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000073496"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Frailty"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02065245"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Nervous System Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Back Pain"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3866",
+                              "M12218",
+                              "M11556"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Back Pain",
+                              "Pain",
+                              "Neurologic Manifestations"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001416"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Back Pain"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03487731"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Digestive System Diseases",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Fibrosis",
+                              "Cystic Fibrosis",
+                              "Cystic Fibrosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M7637",
+                              "M5907",
+                              "M12254",
+                              "M8035",
+                              "M6407",
+                              "M10320",
+                              "M14129",
+                              "M22839",
+                              "M9428",
+                              "T1710"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Fibrosis",
+                              "Cystic Fibrosis",
+                              "Pancreatic Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Genetic Diseases, Inborn",
+                              "Infant, Newborn, Diseases",
+                              "Cystic Fibrosis"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003550",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Cystic Fibrosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Safety run-in phase will have 3 subjects with 2 treatment groups\nRandomized phase will have 15 subjects with 3 treatment groups"
+                        ],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [
+                              "Masking will apply to the randomized phase."
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03058068"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ConditionBrowseBranchName": [
+                              "Nutritional and Metabolic Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Diabetes Mellitus, Type 2"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M6267",
+                              "M6271",
+                              "M10791",
+                              "M24556",
+                              "M7014"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetes Mellitus",
+                              "Diabetes Mellitus, Type 2",
+                              "Metabolic Diseases",
+                              "Glucose Metabolism Disorders",
+                              "Endocrine System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003924"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Diabetes Mellitus, Type 2"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [
+                              "Pilot phase is open label. Randomized phase is blinded."
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02886884"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ConditionBrowseBranchName": [
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Pulmonary Fibrosis",
+                              "Idiopathic Pulmonary Fibrosis",
+                              "Fibrosis",
+                              "Idiopathic Pulmonary Fibrosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M13664",
+                              "M27142",
+                              "M7637",
+                              "M10320",
+                              "M14129",
+                              "T3003"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Pulmonary Fibrosis",
+                              "Idiopathic Pulmonary Fibrosis",
+                              "Fibrosis",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Idiopathic Pulmonary Fibrosis"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000011658",
+                              "D000054990",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Pulmonary Fibrosis",
+                              "Idiopathic Pulmonary Fibrosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02013700"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Neoplasms",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemic",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Ventricular Dysfunction",
+                              "Left Ventricular Dysfunction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M11307",
+                              "M9434",
+                              "M11459",
+                              "M19977",
+                              "M19744",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Neoplasm Metastasis",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000018754",
+                              "D000018487",
+                              "D000007511",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left",
+                              "Ischemia",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02013674"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cardiomyopathy",
+                              "Dilated Cardiomyopathy",
+                              "Dilated Cardiomyopathy"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M11306",
+                              "M4719",
+                              "M8571",
+                              "M8572",
+                              "M2393",
+                              "M22839",
+                              "T1876"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Cardiomyopathies",
+                              "Cardiomyopathy, Dilated",
+                              "Heart Diseases",
+                              "Cardiomegaly",
+                              "Laminopathies",
+                              "Genetic Diseases, Inborn",
+                              "Dilated Cardiomyopathy"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009202",
+                              "D000002311"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Cardiomyopathies",
+                              "Cardiomyopathy, Dilated"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01392625"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cardiomyopathy",
+                              "Dilated Cardiomyopathy",
+                              "Dilated Cardiomyopathy"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11306",
+                              "M4719",
+                              "M8571",
+                              "M8572",
+                              "M2393",
+                              "M22839",
+                              "T1876"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Cardiomyopathies",
+                              "Cardiomyopathy, Dilated",
+                              "Heart Diseases",
+                              "Cardiomegaly",
+                              "Laminopathies",
+                              "Genetic Diseases, Inborn",
+                              "Dilated Cardiomyopathy"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009202",
+                              "D000002311"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Cardiomyopathies",
+                              "Cardiomyopathy, Dilated"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04476901"
+                        ]
+                  }
+            ]
+      }
+}

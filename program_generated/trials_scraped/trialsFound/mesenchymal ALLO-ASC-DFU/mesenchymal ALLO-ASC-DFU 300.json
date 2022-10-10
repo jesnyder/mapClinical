@@ -1,0 +1,418 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal ALLO-ASC-DFU",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 13,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 13,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Proportion of re-epithelialization",
+                              "Time to re-epithelialization",
+                              "Number of Participants with Adverse Events as a Measure of Safety and Tolerability"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "During 12 weeks",
+                              "During 12 weeks",
+                              "Follow up to 12 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02619877"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "cm^2"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Time taken to complete wound closure between the two groups",
+                              "Proportions of subjects who achieved complete wound closure",
+                              "Proportions of subjects who achieved complete wound closure by the classification of Wagner Grade between the two groups",
+                              "Change rates in wound size and depth compared to baseline between the two groups",
+                              "Proportions of subjects who achieved complete wound closure at every visit by the classification of ulcer locations"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "During 12 weeks",
+                              "Follow up to 12 weeks",
+                              "Follow up to 12 weeks",
+                              "During 12 weeks",
+                              "Follow up to 12 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03370874"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluation of the improvement of wound measured by size and depth, and examines the change for 23 months period"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Wound size and depth measurement"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6, 12, 24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03183726"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Clinically measured abnormality of laboratory tests and adverse events",
+                              "Vancouver Burn Scar Scale",
+                              "healing status of the wound evidenced by photography"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Safety (laboratory tests and adverse events)",
+                              "Burn Scar Index",
+                              "healing status of the wound evidenced by photography"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Follow up to 12 weeks",
+                              "Follow up to 12 weeks",
+                              "follow up to 12 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02619851"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03183804"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Time to initial complete wound closure between the two groups",
+                              "Wound size is measured by using eKare 3D Wound Measurement system(Mobile Devices)",
+                              "Proportions of subjects who achieved complete wound closure",
+                              "Wound size is measured by using eKare 3D Wound Measurement system(Mobile Devices)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Time to initial complete wound closure between the two groups",
+                              "Changes in wound size compared to baseline between the two groups",
+                              "Proportions of subjects who achieved complete wound closure by the classification of location of diabetic foot ulcer, Plantar and the other location between the two groups",
+                              "Durability of complete wound closure"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "During 12 weeks",
+                              "During 12 weeks",
+                              "During 12 weeks(at every visit during treatment period)",
+                              "Follow up to 24 weeks from the initial complete wound closure."
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03754465"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Percentage of a target wound's re-epithelialization",
+                              "Time taken to re-epithelization",
+                              "Safety assessed by clinically measured abnormality of laboratory tests and adverse events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Every time of visit for follow up to 8 weeks",
+                              "Over 8 weeks",
+                              "Over 8 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02579369"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluation of the improvement of wound measured by size and depth, and examines the change for 4 weeks period."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Wound size and depth measurement"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "baseline and 1, 2, 4 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02394886"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluation of Vancouver Burn Scar Scale"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Vancouver Burn Scar Scale"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Every time of visit for follow up to 24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03183622"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluation of the improvement of wound measured by time to reach re-epithelialization of wound"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Time to reach re-epithelialization of wound",
+                              "Vancouver Burn Scar Scale"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1, 2, 4 weeks",
+                              "4 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02394873"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Time taken to complete wound closure",
+                              "Proportions of subjects who achieved complete wound closure at every visit",
+                              "Change rates in wound size and depth compared to baseline groups"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "During 12 weeks",
+                              "During 12 weeks",
+                              "During 12 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04569409"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluation of Vancouver Burn Scar Scale"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Vancouver Burn Scar Scale"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Every time of visit for follow up to 24 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03183648"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Time taken to re-epithelization"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Area of re-epithelization"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Every time of visit for follow up to 24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03183934"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,358 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal ExoFlo",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 9,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 9,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "10mL Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles",
+                              "15mL Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles",
+                              "Placebo Saline"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Injectable",
+                              "Placebo Saline"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles",
+                              "Saline"
+                        ],
+                        "InterventionOtherName": [
+                              "ExoFlo"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05127122"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "15ml of ExoFlo at Day 0, 2, 4 Week 2, 6, and every 4 weeks after that to week 46",
+                              "15ml of ExoFlo at Day 0, 2, 4 Week 2, 6, and every 8 weeks after that to week 46"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "ExoFlo 15ml, IV"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Bone Marrow MSC Derived Extracellular Vesicle Isolate"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05130983"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "10ml ExoFlo",
+                              "15ml ExoFlo",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Patients will be randomized to one of three infusions: (1) Normal Saline 100 mL, (2) Normal saline 90 mL and ExoFlo 10 mL, which is 7x1011 EVs, and (3) Normal saline 85 mL and ExoFlo 15 mL, which is 10.5x1011 EVs. The study intervention will only be dosed on day=1"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ExoFlo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05125562"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "InterventionArmGroupLabel": [
+                              "15ml of ExoFlo at Day 0, 2, 4 Week 2, 6, and every 4 weeks after that to week 46",
+                              "15ml of ExoFlo at Day 0, 2, 4 Week 2, 6, and every 8 weeks after that to week 46"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "A Phase I study of ExoFlo, an ex vivo culture-expanded adult allogeneic bone marrow mesenchymal stem cell derived extracellular vesicle product, for the treatment of medically refractory ulcerative colitis"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ExoFlo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05176366"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Intravenous Infusion over 60 minutes"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles Infusion Treatment"
+                        ],
+                        "InterventionOtherName": [
+                              "ExoFlo"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT04657458"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "InterventionArmGroupLabel": [
+                              "Treatment Arm 2",
+                              "Treatment Arm 1"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Intravenous administration of Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles",
+                              "Placebo Saline"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles",
+                              "Saline"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05116761"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "InterventionArmGroupLabel": [
+                              "Treatment Arm 1",
+                              "Treatment Arm 2"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "The intervention will be infused over 60 minutes on Day 1 and repeated on Day 4 provided that the patient has not recovered as defined by WHO ordinal scale category 4 or less. The intervention will be infused over 60 minutes on Day 1 and repeated on Day 4 provided that the patient has not recovered as defined by WHO ordinal scale category 4 or less."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "EXOFLO"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05354141"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "InterventionArmGroupLabel": [
+                              "No SAE attributable to IP in clinical investigational use to date."
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M9364"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Immunosuppressive Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Intravenous Infusion over 60 minutes"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles Infusion Treatment"
+                        ],
+                        "InterventionOtherName": [
+                              "ExoFlo"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05215288"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "InterventionArmGroupLabel": [
+                              "Experimental Dose 1",
+                              "Experimental Dose 2",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Intravenous administration of bone marrow mesenchymal stem cell derived extracellular vesicles",
+                              "Placebo"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "DB-001",
+                              "Intravenous normal saline"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04493242"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,140 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Chondrochymal",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Chondrochymal\u00ae group",
+                              "Hya-Joint Plus Synovial Fluid Supplement"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All",
+                              "PhSol"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals",
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Compression"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M9030",
+                              "M21013",
+                              "M2780",
+                              "M9353",
+                              "M27448",
+                              "M21022"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Hyaluronic Acid",
+                              "Pharmaceutical Solutions",
+                              "Adjuvants, Immunologic",
+                              "Immunologic Factors",
+                              "Viscosupplements",
+                              "Protective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "The bone marrow mesenchymal stem cells (BM-MSCs) in Chondrochymal\u00ae for this study was obtained from the donor recruited in Taipei Veterans General Hospital, Taiwan. Donors aged 20 to 50 and tested negative to infection of human immunodeficiency virus type 1 and 2 (HIV-1/2), hepatitis B virus (HBV), hepatitis C virus (HCV), Cytomegalovirus (CMV), Treponema pallidum (syphilis), human T-lymphotropic virus types I and II (HTLV-I/II), and Tuberculosis (TB) were enrolled. The eligible donor's bone marrow was aspirated from the iliac crest or femur. The collected BM-MSCs were then cultured, expanded and cryopreserved in a Good Tissue Practice (GTP)-complied laboratory. The qualified cells in cryopreservation meeting the release criteria will be thawed, mixed with lactated Ringer's solution, and transferred into a sterile syringe as the final product.",
+                              "(60 mg/3 mL hyaluronic acid [HA])"
+                        ],
+                        "InterventionMeshId": [
+                              "D000006820"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Hyaluronic Acid"
+                        ],
+                        "InterventionName": [
+                              "Bone marrow mesenchymal stem cells",
+                              "hyaluronic acid"
+                        ],
+                        "InterventionOtherName": [
+                              "Chondrochymal\u00ae",
+                              "Hya-Joint Plus Synovial Fluid Supplement"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05027581"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "Chondrochymal\u00ae 1 x 10^7 cells",
+                              "Chondrochymal\u00ae 10 x 10^7 cells",
+                              "Chondrochymal\u00ae 5 x 10^7 cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Allogeneic Bone Marrow Derived Mesenchymal Stem Cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Chondrochymal\u00ae"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03589287"
+                        ]
+                  }
+            ]
+      }
+}

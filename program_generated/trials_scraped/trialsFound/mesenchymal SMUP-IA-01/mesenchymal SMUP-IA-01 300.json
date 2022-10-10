@@ -1,0 +1,179 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal SMUP-IA-01",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The WOMAC measures five items for pain (score range 0-20), two for stiffness (score range 0-8), and 17 for functional limitation (score range 0-68).",
+                              "The score ranges from \"0\" or no pain to \"100\" very severe pain",
+                              "The scores for each category are summed up and divided into 87, which is the maximum score possible, and then is evaluated by converting it into a scale of 100 points. Higher score indicates better function and less symptoms for the knee.",
+                              "For structural and tissue evaluation of knee, MRI image of detailed knee parts are graded from min. 0 to max. 6. Lower number indicate normal status",
+                              "The K & L grade is 0 to 4 Grade, which means that the higher the grade, the greater the joint damage and the stenosis of the joint",
+                              "Evaluation of disease progression in target knee as ascertained by change from baseline in joint space width (JSW) determined using radiography",
+                              "The degree of deformation of the lower half of the body is measured by measuring the angles of the mechanical axis and the anatomical axis with respect to the vertical axis. Mechanical axis: A line connecting the femoral head center point and the ankle joint center point. Anatomical axis: The middiaphyseal line of the femur and tibia",
+                              "Rate of surgery to treat application site after treatment of SMUP-IA-01",
+                              "Comparing biomarker changes with baseline of SMUP-IA-01 phase I trial and scores of f/u study at 12 months after treatment. urine C-terminal cross-linking telopeptides of collagen type II (CTX II), serum cartilage oligomeric matrix protein (COMP), serum matrix metalloproteinase-3 (MMP-3)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change of score in WOMAC three subscales (Pain, stiffness, physical function)",
+                              "Change of score in 100 mm VAS (Visual Analogue Scale)",
+                              "Change of score in IKDC(International Knee Documentation Committee)",
+                              "Change of score in WORMS(Whole-Organ Magnetic Resonance iMaging Score)",
+                              "Change in K&L(Kellgren-Lawrence) grade",
+                              "Change in joint space width",
+                              "Change in mechanical axis, anatomical axis",
+                              "Rate of surgery to treat application site after treatment of SMUP-IA-01",
+                              "Changes in biomarker"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Month 12, 24, 36, 48 and 60 after treatment",
+                              "Month 12, 24, 36, 48 and 60 after treatment",
+                              "Month 12, 24, 36, 48 and 60 after treatment",
+                              "Month 12 and 24 after treatment",
+                              "Month 12 and 24 after treatment",
+                              "Month 12 and 24 after treatment",
+                              "Month 12 and 24 after treatment",
+                              "Month 6, 12, 24, 36, 48 and 60 after treatment",
+                              "Month 12 after treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04339504"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The WOMAC measures five items for pain (score range 0-20), two for stiffness (score range 0-8), and 17 for functional limitation (score range 0-68).",
+                              "The VAS is a horizontal line, 100 mm in length and anchored by word descriptors at each end (no pain, very severe pain). The patient marks on the line at the point that represents their current state. The VAS score is determined by measuring in millimeters from the left hand end to the point of the mark. The score ranges from \"0\" or no pain to \"100\" very severe pain.",
+                              "Change of score in IKDC compared to baseline. IKDC subjective knee evaluation consists of three categories: symptoms, sports activities, and functions. For each category, there are 7 questions for symptoms, 2 questions for sports activities, and 2 questions for functions, a total of 11 questions for evaluation. The scores for each category are summed up and divided into 87, which is the maximum score possible, and then is evaluated by converting it into a scale of 100 points. Higher score indicates better function and less symptoms for the knee.",
+                              "For structural and tissue evaluation of knee, MRI image of detailed knee parts are graded from min. 0 to max. 6. Lower number indicate normal status",
+                              "The K & L grade is 0 to 4 Grade, which means that the higher the grade, the greater the joint damage and the stenosis of the joint.",
+                              "Evaluation of disease progression in target knee as ascertained by change from baseline in joint space width (JSW) determined using radiography",
+                              "The degree of deformation of the lower half of the body is measured by measuring the angles of the mechanical axis and the anatomical axis with respect to the vertical axis. Mechanical axis: A line connecting the femoral head center point and the ankle joint center point. Anatomical axis: The middaphyseal line of the femur and tibia."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change of score in WOMAC three subscales (Pain, stiffness, physical function)compared to baseline at 6 months after treatment",
+                              "Change of score in 100 mm VAS (Visual Analogue Scale) compared to baseline",
+                              "Change of score in IKDC(International Knee Documentation Committee)compared to baseline",
+                              "Change of score in WORMS(Whole-Organ Magnetic Resonance iMaging Score) compared to baseline at 6 months after treatment",
+                              "Change in K&L(Kellgren-Lawrence) grade compared to the baseline at 3 months and 6 months after treatment",
+                              "Change in joint space width compared to the baseline at 3 months and 6 months after treatment",
+                              "Change in mechanical axis, anatomical axis compared to the baseline at 3 months and 6 months after treatment"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline, Month 6",
+                              "Baseline, Month 1, Month 2, Month 3, Month 6",
+                              "Baseline, Month 1, Month 2, Month 3, Month 6",
+                              "Baseline, Month 6",
+                              "Baseline, Month 3, Month 6",
+                              "Baseline, Month 3, Month 6",
+                              "Baseline, Month 3, Month 6"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04037345"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Total score is between 0 point (no symptoms) ~ 96 points (higher score representing worse symptoms).",
+                              "The WOMAC measures five items for pain (score range 0-20), two for stiffness (score range 0-8), and 17 for functional limitation (score range 0-68)",
+                              "The score ranges from \"0\" or no pain to \"100\" very severe pain",
+                              "IKDC subjective knee evaluation consists of three categories:\n\nsymptoms, sports activities, and functions. For each category, there are 7 questions for symptoms, 2 questions for sports activities, and 2 questions for functions, a total of 11 questions for evaluation. The scores for each category are summed up and divided into 87, which is the maximum score possible, and then is evaluated by converting it into a scale of 100 points. Higher score indicates better function and less symptoms for the knee.",
+                              "Total score is between 0 point (no symptoms) ~ 96 points (higher score representing worse symptoms).",
+                              "Changes on the knee structure through qualitative and quantitative evaluation of the collagen matrix of knee cartilage.",
+                              "K & L grade (0 to 4 Grade): which means that the higher the grade, the greater the joint damage and the stenosis of the joint.\n\nJoint space width(mm): Evaluation of disease progression in target knee as ascertained by change from baseline joint space width (JSW) determined using radiography.\n\nMechanical axis(Angle): A line connecting the femoral head center point and the ankle joint center point. Anatomical axis(Angle): The middiaphyseal line of the femur and tibia",
+                              "serum C-terminal cross-linking telopetides of collagen type I(CTX-I), serum hyaluronan, serum matrix metalloproteinase-3 (MMP-3), urine C-terminal cross-linking telopetides of collagen type II (CTX -II), urine C-terminal cross-linking telopetides of collagen type I(CTX-I).\n\nSerum CTX-I, Serum HA, Serum MMP-3, Urine CTX-I, Urine CTX-II are reported in pg/ml.",
+                              "Subjects will receive Patient Diary, and use of the rescue drug should be recorded on the Patient Diary."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change amount of WOMAC total score at post-dose 24 weeks from the baseline",
+                              "Chage amount of WOMAC score by item (pain, stiffness, physical function) at post-dose 24 weeks and 52 weeks from the baseline",
+                              "Chage amount of 100-mm VAS((Visual Analogue Scale) at post-dose 1 week, 4 weeks, 8 weeks, 12 weeks, 24 weeks and 52 weeks from the baseline",
+                              "Chage amount of IKDC(International Knee Documentation Committee) at post-dose 1 week, 4 weeks, 8 weeks, 12 weeks, 24 weeks and 52 weeks from the baseline",
+                              "Change in the WOMAS(whole-organ magnetic resonance imaging score) at post-dose 52 weeks from the baseline",
+                              "Change in T2 mapping at post-dose 52 weeks from the baseline",
+                              "Change in K&L grade, joint space width, mechanical axis, and anatomical axis at post-dose 52 weeks from the baseline",
+                              "Change amount of biomarkers at post-dose 1 week, 4 weeks, 8 weeks, 12 weeks, 24 weeks and 52 weeks against the baseline; serum CTX-I, Serum HA, Serum MMP-3, Urine CTX-I, Urine CTX-II.",
+                              "Percentage of patients who took the rescue drugs and dosage at post-dose 1 week, 4 weeks, 8 weeks, 12 weeks, 24 weeks and 52 weeks"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline, 24 week",
+                              "Baseline, 24 week, 52 week",
+                              "Baseline, 1 week, 4 week, 8 week, 12 week, 24 week, 52 week",
+                              "Baseline, 1 week, 4 week, 8 week, 12 week, 24 week, 52 week",
+                              "Baseline, 52 week",
+                              "Baseline, 52 week",
+                              "Baseline, 52 week",
+                              "baseline, 1 week, 4 week, 8 week, 12 week, 24 week, 52week",
+                              "1 week, 4 week, 8 week, 12 week, 24 week, 52week"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05182034"
+                        ]
+                  }
+            ]
+      }
+}

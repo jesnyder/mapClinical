@@ -1,0 +1,126 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Cellgram-ED",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This phase II clinical trial is designed to evaluate the efficacy and safety of autologous Mesenchymal Stem Cells (MSC) injected intracavernously."
+                        ],
+                        "BriefTitle": [
+                              "Clinical Trial to Evaluate Efficacy and Safety of of Autologous Mesenchymal Stem Cells (MSC) Injected Intracavernously"
+                        ],
+                        "CentralContactEMail": [
+                              "jyjeong@pharmicell.com"
+                        ],
+                        "CentralContactName": [
+                              "JIYEOUN JEONG"
+                        ],
+                        "CentralContactPhone": [
+                              "82-2-3496-0134"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "October 31, 2023"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Erectile Dysfunction"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000012735",
+                              "D000020018",
+                              "D000001523"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Sexual Dysfunction, Physiological",
+                              "Sexual Dysfunctions, Psychological",
+                              "Mental Disorders"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BXS",
+                              "BXM",
+                              "All"
+                        ],
+                        "NCTId": [
+                              "NCT04594850"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "BriefSummary": [
+                              "This phase I clinical trial is designed to evaluate the safety of autologous Mesenchymal Stem Cells (MSC) injected intracavernously."
+                        ],
+                        "BriefTitle": [
+                              "Safety of Autologous Bone Marrow Derived Mesenchymal Stem Cells in Erectile Dysfunction"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "April 2018"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Erectile Dysfunction"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000012735",
+                              "D000020018",
+                              "D000001523"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Sexual Dysfunction, Physiological",
+                              "Sexual Dysfunctions, Psychological",
+                              "Mental Disorders"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BXS",
+                              "BXM",
+                              "All"
+                        ],
+                        "NCTId": [
+                              "NCT02344849"
+                        ]
+                  }
+            ]
+      }
+}

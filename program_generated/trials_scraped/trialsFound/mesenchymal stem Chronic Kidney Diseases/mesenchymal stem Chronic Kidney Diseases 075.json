@@ -1,0 +1,1690 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Chronic Kidney Diseases",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 22,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 22,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Kidney Disease",
+                              "Chronic Kidney Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9850",
+                              "M25870",
+                              "M25871",
+                              "M16471",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic",
+                              "Renal Insufficiency",
+                              "Urologic Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000051436"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Sequential Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05362786"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Nutritional and Metabolic Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Immune System Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Diabetes Mellitus",
+                              "Kidney Disease",
+                              "Diabetes Mellitus, Type 2",
+                              "Diabetes Mellitus, Type 1",
+                              "Diabetic Nephropathy",
+                              "Chronic Kidney Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M6267",
+                              "M9850",
+                              "M6271",
+                              "M6269",
+                              "M6275",
+                              "M25870",
+                              "M25871",
+                              "M10791",
+                              "M24556",
+                              "M7014",
+                              "M16471",
+                              "M3781",
+                              "M9352",
+                              "M25157",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetes Mellitus",
+                              "Kidney Diseases",
+                              "Diabetes Mellitus, Type 2",
+                              "Diabetes Mellitus, Type 1",
+                              "Diabetic Nephropathies",
+                              "Renal Insufficiency, Chronic",
+                              "Renal Insufficiency",
+                              "Metabolic Diseases",
+                              "Glucose Metabolism Disorders",
+                              "Endocrine System Diseases",
+                              "Urologic Diseases",
+                              "Autoimmune Diseases",
+                              "Immune System Diseases",
+                              "Diabetes Complications",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000051436",
+                              "D000003928",
+                              "D000003920",
+                              "D000003924",
+                              "D000003922"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic",
+                              "Diabetic Nephropathies",
+                              "Diabetes Mellitus",
+                              "Diabetes Mellitus, Type 2",
+                              "Diabetes Mellitus, Type 1"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Other"
+                        ],
+                        "NCTId": [
+                              "NCT04869761"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Kidney Disease",
+                              "Chronic Kidney Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9850",
+                              "M25870",
+                              "M25871",
+                              "M16471",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic",
+                              "Renal Insufficiency",
+                              "Urologic Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000051436"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05042206"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Kidney Disease",
+                              "Chronic Kidney Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9850",
+                              "M25870",
+                              "M25871",
+                              "M16471",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic",
+                              "Renal Insufficiency",
+                              "Urologic Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000051436"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05512988"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Kidney Disease",
+                              "Chronic Renal Failure",
+                              "Renal Failure",
+                              "Chronic Kidney Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9850",
+                              "M7637",
+                              "M9851",
+                              "M25871",
+                              "M25870",
+                              "M16471",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Kidney Diseases",
+                              "Fibrosis",
+                              "Kidney Failure, Chronic",
+                              "Renal Insufficiency",
+                              "Renal Insufficiency, Chronic",
+                              "Urologic Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000051436",
+                              "D000051437",
+                              "D000007676"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic",
+                              "Renal Insufficiency",
+                              "Kidney Failure, Chronic"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03321942"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Kidney Disease",
+                              "Chronic Renal Failure",
+                              "Renal Failure",
+                              "Polycystic Kidney Disease",
+                              "Chronic Renal Failure"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9850",
+                              "M9851",
+                              "M25871",
+                              "M9864",
+                              "M18389",
+                              "M25870",
+                              "M16471",
+                              "M26136",
+                              "M12",
+                              "M14",
+                              "M1076",
+                              "M22839",
+                              "T591",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Kidney Diseases",
+                              "Kidney Failure, Chronic",
+                              "Renal Insufficiency",
+                              "Polycystic Kidney Diseases",
+                              "Polycystic Kidney, Autosomal Dominant",
+                              "Renal Insufficiency, Chronic",
+                              "Urologic Diseases",
+                              "Kidney Diseases, Cystic",
+                              "Congenital Abnormalities",
+                              "Abnormalities, Multiple",
+                              "Ciliopathies",
+                              "Genetic Diseases, Inborn",
+                              "Autosomal Dominant Multiple Pterygium Syndrome",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000051437",
+                              "D000007690",
+                              "D000007676",
+                              "D000051436"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency",
+                              "Polycystic Kidney Diseases",
+                              "Kidney Failure, Chronic",
+                              "Renal Insufficiency, Chronic"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02166489"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Kidney Disease",
+                              "Chronic Kidney Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9850",
+                              "M25870",
+                              "M25871",
+                              "M16471",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic",
+                              "Renal Insufficiency",
+                              "Urologic Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000051436"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02195323"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Kidney Disease",
+                              "Chronic Kidney Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9850",
+                              "M25871",
+                              "M25870",
+                              "M16471",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency",
+                              "Renal Insufficiency, Chronic",
+                              "Urologic Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000051436"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05018845"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Kidney Disease",
+                              "Chronic Kidney Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9850",
+                              "M1175",
+                              "M25870",
+                              "M25871",
+                              "M16471",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Kidney Diseases",
+                              "Frailty",
+                              "Renal Insufficiency, Chronic",
+                              "Renal Insufficiency",
+                              "Urologic Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000051436"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02848131"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ConditionBrowseBranchName": [
+                              "Nutritional and Metabolic Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Kidney Disease",
+                              "Inflammation",
+                              "Diabetic Nephropathy",
+                              "Chronic Kidney Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M6267",
+                              "M9850",
+                              "M1175",
+                              "M9445",
+                              "M6275",
+                              "M25870",
+                              "M25871",
+                              "M16471",
+                              "M25157",
+                              "M7014",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetes Mellitus",
+                              "Kidney Diseases",
+                              "Frailty",
+                              "Inflammation",
+                              "Diabetic Nephropathies",
+                              "Renal Insufficiency, Chronic",
+                              "Renal Insufficiency",
+                              "Urologic Diseases",
+                              "Diabetes Complications",
+                              "Endocrine System Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000051436",
+                              "D000003928",
+                              "D000007249"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic",
+                              "Diabetic Nephropathies",
+                              "Inflammation"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03325322"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Renal Insufficiency, Chronic",
+                              "Syndrome",
+                              "Renal Insufficiency",
+                              "Nephrotic Syndrome",
+                              "Nephrotic Syndrome"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9850",
+                              "M25870",
+                              "M15507",
+                              "M25871",
+                              "M11501",
+                              "M11498",
+                              "M16471",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic",
+                              "Syndrome",
+                              "Renal Insufficiency",
+                              "Nephrotic Syndrome",
+                              "Nephrosis",
+                              "Urologic Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000051437",
+                              "D000009404",
+                              "D000009401",
+                              "D000051436",
+                              "D000013577"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Renal Insufficiency",
+                              "Nephrotic Syndrome",
+                              "Nephrosis",
+                              "Renal Insufficiency, Chronic",
+                              "Syndrome"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02966717"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Kidney Disease",
+                              "Chronic Kidney Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9850",
+                              "M25870",
+                              "M25871",
+                              "M16471",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic",
+                              "Renal Insufficiency",
+                              "Urologic Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000051436"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Participants will be placed in a single group. Those having a harvested total \"Adipose Derived Stem Cell (ADSC)\" count (in 5 ml SVF solution) above 1 x 10^6 will be included in the study and they will be studied for Phase I/ Phase II trial by the proposed outcome measures over the stipulated time frame.\n\nThose having a harvested total \"Adipose Derived Stem Cell (ADSC)\" count (in 5 ml SVF solution) less than 1 x 10^6 will be excluded from the study."
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03939741"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ConditionBrowseBranchName": [
+                              "Nutritional and Metabolic Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Diabetes",
+                              "Kidney Disease",
+                              "Diabetes Type 2",
+                              "Obesity",
+                              "Chronic Kidney Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M6267",
+                              "M9850",
+                              "M6271",
+                              "M11853",
+                              "M25870",
+                              "M25871",
+                              "M10791",
+                              "M24556",
+                              "M7014",
+                              "M24460",
+                              "M11836",
+                              "M25339",
+                              "M4266",
+                              "M16471",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetes Mellitus",
+                              "Kidney Diseases",
+                              "Diabetes Mellitus, Type 2",
+                              "Obesity",
+                              "Renal Insufficiency, Chronic",
+                              "Renal Insufficiency",
+                              "Metabolic Diseases",
+                              "Glucose Metabolism Disorders",
+                              "Endocrine System Diseases",
+                              "Overnutrition",
+                              "Nutrition Disorders",
+                              "Overweight",
+                              "Body Weight",
+                              "Urologic Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000051436",
+                              "D000003920",
+                              "D000009765",
+                              "D000003924"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic",
+                              "Diabetes Mellitus",
+                              "Obesity",
+                              "Diabetes Mellitus, Type 2"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Cohort"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT04998461"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Wounds and Injuries",
+                              "Symptoms and General Pathology",
+                              "Nutritional and Metabolic Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Kidney Disease",
+                              "Calciphylaxis",
+                              "Chronic Kidney Disease",
+                              "Calciphylaxis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9850",
+                              "M16837",
+                              "M23671",
+                              "M4530",
+                              "M25870",
+                              "M25871",
+                              "M16471",
+                              "M4529",
+                              "M10791",
+                              "M4543",
+                              "T1303",
+                              "T909"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Kidney Diseases",
+                              "Wounds and Injuries",
+                              "Rare Diseases",
+                              "Calciphylaxis",
+                              "Renal Insufficiency, Chronic",
+                              "Renal Insufficiency",
+                              "Urologic Diseases",
+                              "Calcinosis",
+                              "Metabolic Diseases",
+                              "Calcium Metabolism Disorders",
+                              "Chronic Graft Versus Host Disease",
+                              "Calciphylaxis"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000051436",
+                              "D000002115"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic",
+                              "Calciphylaxis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04592640"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Nephropathy"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9850",
+                              "M16471",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Kidney Diseases",
+                              "Urologic Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00659620"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Hypertension",
+                              "Kidney Disease",
+                              "Hypoxia",
+                              "Renovascular Hypertension",
+                              "Chronic Kidney Disease",
+                              "Renal Artery Stenosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9176",
+                              "M9850",
+                              "M9695",
+                              "M5627",
+                              "M3337",
+                              "M9181",
+                              "M25870",
+                              "M25871",
+                              "M14071",
+                              "M16552",
+                              "M16471",
+                              "M14775",
+                              "M3617",
+                              "M9180",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Hypertension",
+                              "Kidney Diseases",
+                              "Ischemia",
+                              "Constriction, Pathologic",
+                              "Hypoxia",
+                              "Hypertension, Renovascular",
+                              "Renal Insufficiency, Chronic",
+                              "Renal Insufficiency",
+                              "Renal Artery Obstruction",
+                              "Vascular Diseases",
+                              "Urologic Diseases",
+                              "Signs and Symptoms, Respiratory",
+                              "Arterial Occlusive Diseases",
+                              "Hypertension, Renal",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000051436",
+                              "D000012078",
+                              "D000006978",
+                              "D000006973",
+                              "D000000860"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic",
+                              "Renal Artery Obstruction",
+                              "Hypertension, Renovascular",
+                              "Hypertension",
+                              "Hypoxia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02266394"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Hypertension",
+                              "Nephropathy",
+                              "Stenosis",
+                              "Renovascular Hypertension",
+                              "Renal Artery Stenosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9176",
+                              "M9850",
+                              "M9695",
+                              "M5627",
+                              "M9181",
+                              "M14071",
+                              "M16552",
+                              "M21672",
+                              "M16471",
+                              "M3617",
+                              "M9180",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Hypertension",
+                              "Kidney Diseases",
+                              "Ischemia",
+                              "Constriction, Pathologic",
+                              "Hypertension, Renovascular",
+                              "Renal Artery Obstruction",
+                              "Vascular Diseases",
+                              "Pathological Conditions, Anatomical",
+                              "Urologic Diseases",
+                              "Arterial Occlusive Diseases",
+                              "Hypertension, Renal",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000012078",
+                              "D000006978",
+                              "D000006973",
+                              "D000003251"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Renal Artery Obstruction",
+                              "Hypertension, Renovascular",
+                              "Hypertension",
+                              "Constriction, Pathologic"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01840540"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Gland and Hormone Related Diseases",
+                              "Nutritional and Metabolic Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Nephropathy",
+                              "Diabetic Nephropathy"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9850",
+                              "M6275",
+                              "M16471",
+                              "M6267",
+                              "M25157",
+                              "M7014"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Kidney Diseases",
+                              "Diabetic Nephropathies",
+                              "Urologic Diseases",
+                              "Diabetes Mellitus",
+                              "Diabetes Complications",
+                              "Endocrine System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000003928"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Diabetic Nephropathies"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04562025"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Gland and Hormone Related Diseases",
+                              "Nutritional and Metabolic Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Nephropathy",
+                              "Diabetic Nephropathy"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9850",
+                              "M6275",
+                              "M16471",
+                              "M6267",
+                              "M25157",
+                              "M7014"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Kidney Diseases",
+                              "Diabetic Nephropathies",
+                              "Urologic Diseases",
+                              "Diabetes Mellitus",
+                              "Diabetes Complications",
+                              "Endocrine System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000003928"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Diabetic Nephropathies"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04125329"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "ConditionBrowseBranchName": [
+                              "Nutritional and Metabolic Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Immune System Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Diabetes Mellitus",
+                              "Kidney Disease",
+                              "Diabetes Mellitus, Type 2",
+                              "Diabetes Mellitus, Type 1",
+                              "Kidney Insufficiency",
+                              "Diabetic Nephropathy",
+                              "Chronic Kidney Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M6267",
+                              "M9850",
+                              "M6271",
+                              "M6269",
+                              "M25871",
+                              "M6275",
+                              "M25870",
+                              "M10791",
+                              "M24556",
+                              "M7014",
+                              "M16471",
+                              "M3781",
+                              "M9352",
+                              "M25157",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetes Mellitus",
+                              "Kidney Diseases",
+                              "Diabetes Mellitus, Type 2",
+                              "Diabetes Mellitus, Type 1",
+                              "Renal Insufficiency",
+                              "Diabetic Nephropathies",
+                              "Renal Insufficiency, Chronic",
+                              "Metabolic Diseases",
+                              "Glucose Metabolism Disorders",
+                              "Endocrine System Diseases",
+                              "Urologic Diseases",
+                              "Autoimmune Diseases",
+                              "Immune System Diseases",
+                              "Diabetes Complications",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000051436",
+                              "D000051437",
+                              "D000003928",
+                              "D000003920",
+                              "D000003924",
+                              "D000003922"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic",
+                              "Renal Insufficiency",
+                              "Diabetic Nephropathies",
+                              "Diabetes Mellitus",
+                              "Diabetes Mellitus, Type 2",
+                              "Diabetes Mellitus, Type 1"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03840343"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Osteoarthritis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M12078",
+                              "M3628",
+                              "M9773",
+                              "M11249",
+                              "M14197",
+                              "M5475"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Osteoarthritis",
+                              "Arthritis",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000010003"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Osteoarthritis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05276895"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "End Stage Renal Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9850",
+                              "M9851",
+                              "M5627",
+                              "M25871",
+                              "M16471",
+                              "M25870",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Kidney Diseases",
+                              "Kidney Failure, Chronic",
+                              "Constriction, Pathologic",
+                              "Renal Insufficiency",
+                              "Urologic Diseases",
+                              "Renal Insufficiency, Chronic",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007676"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Failure, Chronic"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04392206"
+                        ]
+                  }
+            ]
+      }
+}

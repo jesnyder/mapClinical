@@ -1,0 +1,61 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal PN-101",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "This Phase 1/2a clinical trial involves patients diagnosed with refractory polymyositis or dermatomyositis.\n\nThe initial safety assessment is conducted, including development of DLT in subjects up to Week 2 after the investigational product administration.\n\n[DLT assessment criteria and method]\n\nLow dose or intermediate dose level\n\nNo DLT developing in the initially enrolled 3 subjects (0/3): Increase the dose to the next dose group\nDLT developing 1 of 3 subjects (1/3): Enroll 3 additional subjects at the same dose group and then assess DLT, and \u2460 DLT developing in 1 out of total 6 subjects (1/3+0/3; 1/6): Increase the dose to the next dose group \u2461 DLT developing in \u2265 2 out of total 6 subjects (\u2265 2/6): In case of the low dose level, the trial is discontinued without MTD determination. In case of the intermediate dose level, MTD is assessed at the low dose which is a one lower dose level\n\nHigh dose level\n\nNo DLT developing in the initially enrolled 3 subjects (0/3): Declare as the MTD\nDLT developing 1 of 3 subjects (1/3): Enroll 3 additional subjects at the same dose group and then assess DLT, and \u2460 DLT developing in 1 out of total 6 subjects (1/3+0/3; 1/6): Declare as the MTD \u2461 DLT developing in \u2265 2 out of total 6 subjects (\u2265 2/6): Assess MTD at the intermediate dose which is the one lower dose level"
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAdult aged 19 years or more\n\nA subject who is diagnosed with polymyositis or dermatomyositis and satisfies all of the followings\n\nClinical profile: Slowly progressing clinical profile with symmetrical and apparent muscular weakness confirmed at the proximal muscle (in case of dermatomyositis, clinical findings related with characteristic skin symptoms*)\n\n* Gottron's papules or sign, erythema purpura, poikiloderma, calcinosis cutis, etc.\n\nSerum test: Serum creatine kinase (CK) elevated (CK \u2265 1.3 \u00d7 upper limit of normal (ULN)) or serum myositis-specific antibodies (MSA) positive\nElectromyography (EMG): Presence of a finding that indicates myopathy\n\nBaseline (prior to the investigational product administration) manual muscle testing-8 (MMT-8) result < 125/150 (bilaterally), and at least 2 of the following International Myositis and Clinical Studies Group (IMACS) core set results\n\nPhysician global disease activity [visual analogue scale (VAS)] \u2265 2 cm\nPatient global disease activity [VAS] \u2265 2 cm\nHealth assessment questionnaire (HAQ) disability assessment \u2265 0.25\n1 or more items with the serum muscle enzyme > 1.3 \u00d7 ULN\nGlobal extramuscular disease activity [VAS] > 1 cm\nA subject with the drug treatment history of polymyositis or dermatomyositis for \u2265 8 weeks, who cannot receive the conventional treatment due to being refractory or for a side effect and adverse event, and has received glucocorticosteroids at an intermediate dose (prednisone 0.5 mg/kg/day or equivalent) or higher for at least 4 weeks alone or in combination\nA subject who fully understands the trial and provided voluntary written consent to take part in the trial\n\nExclusion Criteria:\n\nA subject with clear muscular damage, with the VAS-based myositis damage index (MDI) of \u2265 5 at screening\n\nA subject with the following medical history or surgical history\n\nA surgical operation history within 12 weeks of screening\nMalignant tumor within 5 years of screening (excluding a subject who passed 3 years or more from complete recovery of cervical cancer or skin squamous cell carcinoma)\nA patient with severe respiratory muscular weakening or interstitial pulmonary disease (a patient who has no moderate or severe dyspnea and has stable interstitial pneumonia may participate)\n\nA patient with the following comorbidity at screening\n\nAcute viral infection or severe infection\nActive hepatitis B (e.g.: HBsAg positive and HBV DNA detected) or hepatitis C (e.g.: Anti-HCV positive and HCV RNA [qualitatively] detective)\nHuman Immunodeficiency virus (HIV) positive\nFindings of muscular inflammation or myopathy other than the indication (inclusion body myositis (IBM), drug-induced myopathy, amyloid myopathy, myotonic dystrophy, etc.)\nAutoimmune disease such as rheumatoid arthritis (RA), systemic lupus erythematosus, psoriatic arthritis, etc. (however, in case of the overlap syndrome, a subject may participate if diseases other than inflammatory myositis are stable and myositis is thought to be due to inflammatory myositis.)\nFindings of cardiac disorder such as moderate or severe heart failure (New York Heart Association Class III/IV) or QT corrected interval prolonged\nSerious disease that may affect this study, at the discretion of the investigator (neurological disorder, cardiovascular disorder, uncontrolled blood pressure or diabetes, etc.)\n\nHematological, renal and hepatic dysfunction based on the following laboratory findings at screening\n\nGlomerular filtration rate (GFR)* < 45 mL/min\n\n*eGFR (mL/min/1.73m^2) = 175 \u00d7 (serum creatinine concentration (mg/dL))^-1.154 \u00d7 (age)^-0.203 \u00d7 (0.742 in female) [modification of diet in renal disease (MDRD) formula]\n\nHemoglobin < 10 g/dL\nWhite blood cell (WBC) count < 3.0\u00d710^9/L\nAbsolute neutrophil count (ANC) < 1.5\u00d710^9/L (1500/mm^3)\nPlatelet count < 100\u00d710^9/L\nAST and ALT > 2.5 \u00d7 ULN (except for the elevation due to muscle enzyme at the discretion of the investigator)\nAlkaline phosphatase (ALP) > 2.5 \u00d7 ULN\nTotal bilirubin > 1.5 \u00d7 ULN (> 3 \u00d7 ULN, in case of Gilbert's syndrome)\nThyroid stimulating hormone level exceeding the normal range (however, if the level exceeds the normal range due to the study indication at the discretion of the investigator, the subjects are allowed to enroll.)\nA subject with a difficulty in the efficacy assessment including the muscular strength assessment during the trial\nA subject who is determined to require prohibited concomitant treatment during the trial\n\nPregnant woman and lactating mother or woman of childbearing potential and man who is planning to have a child or not willing to practice acceptable contraception* during the trial\n\n*Hormonal contraception, intrauterine device or intrauterine system implant, double barrier method (use of both male condom and occlusive cap (contraceptive diaphragm or cervical cap) along with spermicide), surgical sterilization procedure/operation (vasectomy, tubal ligation, etc.)\n\nParticipation in other clinical trial and administration of an investigational product or application of an investigational device within 4 weeks or half-life x 5 (whichever is longer) prior to screening\nA subject who is otherwise ineligible for this trial, at the discretion of the investigator"
+                        ],
+                        "EnrollmentCount": [
+                              "18"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04976140"
+                        ]
+                  }
+            ]
+      }
+}

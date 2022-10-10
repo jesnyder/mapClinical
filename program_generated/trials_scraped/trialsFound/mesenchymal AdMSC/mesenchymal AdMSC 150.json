@@ -1,0 +1,2342 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal AdMSC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 57,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 57,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "AD-MSCs group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "AD-MSCs(adipose-derived multipotent mesenchymal stem cells) were infused intravenously at a dose of 0.5 million cells/kg."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "adipose-derived multipotent mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "AD-MSCs"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03265613"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "AD-MSCs plus Calcipotriol ointment group",
+                              "AD-MSCs plus Calcipotriol ointment group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Derm",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Dermatologic Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Dyslipidemia"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M347448",
+                              "M6226"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Calcipotriene",
+                              "Dermatologic Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "The topical treatment in the study was calcipotriol ointment(Dovonex;LEO Laboratories Ltd, Ireland) twice daily for 12 weeks.",
+                              "AD-MSCs(adipose-derived multipotent mesenchymal stem cells) were infused intravenously at a dose of 2 million cells/kg."
+                        ],
+                        "InterventionMeshId": [
+                              "C000055085"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Calcipotriene"
+                        ],
+                        "InterventionName": [
+                              "Calcipotriol ointment",
+                              "adipose-derived multipotent mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "AD-MSCs"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03392311"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Four IV infusions of autologous adipose-derived mesenchymal stem cells. Baseline laboratory data will be collected prior to first infusion; follow-up data will be compared against baseline according to the following schedule: safety laboratory tests follow-up on weeks 4, 8, 13, 26, and 52; inflammation and amyloid markers follow-up on weeks 13 and 52; MMSE and ADCS-ADL follow-up on weeks 13, 19, 26, 33, 40, 46 and 52; Altoida NMI follow-up will occur weekly from week 0 to week 52; CDR follow-up will occur weeks 4, 10, 13, 19, 26, 33, 40, 46 and 52; C-SSRS follow-up will occur on weeks 4, 10, 26, and 52; Amyloid PET imaging follow-up occurs week 26 and 52;"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04228666"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "InterventionArmGroupLabel": [
+                              "AD-MSCs infusions, then Placebo",
+                              "Placebo, then AD-MSCs infusions"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M8941"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Hormones"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Patients in the two groups will receive two autologous AD-MSC administrations: the group A on day 0 and day 90 \u00b1 7; the group B on day 180 \u00b1 14 and day 270 \u00b1 14.\nDose: 1.0 x 106 cells/kg patient bodyweight.\nRoute: intravenous infusion\n\nADSCs were collected after the third passage. On the day of transplantation, the ADSCs were harvested, washed twice with NaCl 0.9%, counted and resuspended in NaCl 0.9% in a total volume of 20 ml. Each participant received a dose of 1x10^6 cells/kg body weight infused through the intravenous route within 30 minutes before being discharged after 24 hours"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous adipose-derived mesenchymal stem cell administration for female with sexual functional deficiency"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05329662"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "InterventionArmGroupLabel": [
+                              "Control group (Nerve transfer procedure)",
+                              "Experimental group (Nerve transfer with HAM-AdMSC composite wrapping)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Identification of potential donor nerves: phrenic nerve, accessory nerve, intercostal nerve, motor branch nerve innervating long head of triceps muscle, motor branch of ulnar nerve innervating flexor carpi ulnaris (FCU) muscle, and motor branch of median nerve innervating flexor carpi radialis (FCR) muscle.\nDonor nerve is checked for its viability with an electric stimulator during surgery\nViable donor nerve is dissected, transferred to the recipient area, and sutured with end-to-end anastomosis.",
+                              "When the nerve transfer procedure is finished, the end-to-end anastomosis is wrapped by a composite consisted of human amniotic membrane and allogeneic adipose-derived mesenchymal stem cells (HAM-AdMSC)"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Nerve transfer procedure",
+                              "Nerve transfer with HAM-AdMSC composite wrapping"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04654286"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "InterventionArmGroupLabel": [
+                              "Autologous mesenchymal stem cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Fat tissue will be enzymatically treated and cells will be cultured until a sufficient number are obtained for the treatment protocol."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Adipose derived, autologous mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "AD-MSC"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04312113"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "InterventionArmGroupLabel": [
+                              "Stem cell Administration for female patients",
+                              "Stem cell Administration for male patients"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M8941"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Hormones"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Collect adipose-derived mesenchymal stem cells from the patients. Adipose-derived mesenchymal stem cells will be isolated, expanded and characterized in vitro under the GMP- grade procedure"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "adipose-derived mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Combination Product"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03346967"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "InterventionArmGroupLabel": [
+                              "PSORI-CM01 group",
+                              "Gu Ben Hua Yu group",
+                              "Gu Ben Hua Yu group",
+                              "PSORI-CM01 group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "PSORI-CM01 formula will be orally administrated once a day for 12 weeks excpet the day for the infusion of AD-MSCs",
+                              "Gu Ben Hua Yu formula will be orally administrated once a day for 12 weeks excpet the day for the infusion of AD-MSCs",
+                              "AD-MSCs (adipose-derived multipotent mesenchymal stem cells) will be infused intravenously at a dose of 2 million cells/kg"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "PSORI-CM01 formula",
+                              "Gu Ben Hua Yu formula",
+                              "adipose-derived multipotent mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "Chinese Herbal Medicine",
+                              "Chinese Herbal Medicine",
+                              "stem cells",
+                              "AD-MSCs"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04785027"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "InterventionArmGroupLabel": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Five IV infusion of autologous adipose-derived mesenchymal stem cells. Baseline laboratory values will be collected prior to first infusion and compared at following visits. Safety labs will be assessed at weeks 6, 14, 26. Inflammatory markers will be assessed at weeks 6, 14, 26. SF-36 and PHQ-9 questionnaires will be assessed at weeks 2,6,10,14,18,22,26."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04349631"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "InterventionArmGroupLabel": [
+                              "Treatment Arm"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Hope Biosciences autologous adipose-derived mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03691909"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Gast",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Gastrointestinal Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21707",
+                              "M12266"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pancrelipase",
+                              "Pancreatin"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Culture-expanded, adipose-derived mesenchymal stem cells donated by first blood relative"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT04087889"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "InterventionArmGroupLabel": [
+                              "Experimental group",
+                              "Experimental group",
+                              "Experimental group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Derm",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Dermatologic Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Dyslipidemia"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M347448",
+                              "M6226"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Calcipotriene",
+                              "Dermatologic Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "The topical treatment in the study was calcipotriol ointment(Dovonex;LEO Laboratories Ltd, Ireland) twice daily for 12 weeks.",
+                              "PSORI-CM01#YXBCM01# granule 5.5g os once a day for 12weeks.",
+                              "AD-MSCs(adipose-derived multipotent mesenchymal stem cells) were infused intravenously at a dose of 2 million cells/kg"
+                        ],
+                        "InterventionMeshId": [
+                              "C000055085"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Calcipotriene"
+                        ],
+                        "InterventionName": [
+                              "Calcipotriol ointment",
+                              "PSORI-CM01 Granule",
+                              "adipose-derived multipotent mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "Dovonex",
+                              "Chinese Herbal Medicine"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04275024"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "InterventionArmGroupLabel": [
+                              "HCR040 (Phase 1)",
+                              "Control group (Phase 2)",
+                              "HCR040 (Phase 2)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "All",
+                              "PhSol"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "All Drugs and Chemicals",
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "BeneFIX"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M9070",
+                              "M21013",
+                              "M3366",
+                              "M3367"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Hydrogen Peroxide",
+                              "Pharmaceutical Solutions",
+                              "Anti-Infective Agents",
+                              "Anti-Infective Agents, Local"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "(Phase 1) Intravenous administration. Open label dose escalation, 3 patients in cohort 1 (1 million cells/kg) and 3 patients in cohort 2 (2 million cells/kg)",
+                              "(Phase 2) Intravenous administration of vehicle solution",
+                              "(Phase 2) Intravenous administration of the maximum tolerated dose (1 million cells/kg or 2 million cells/kg)"
+                        ],
+                        "InterventionMeshId": [
+                              "D000006861"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Hydrogen Peroxide"
+                        ],
+                        "InterventionName": [
+                              "HCR040 (Phase 1)",
+                              "Placebo (Phase 2)",
+                              "HCR040 (Phase 2)"
+                        ],
+                        "InterventionOtherName": [
+                              "Allogeneic adipose-derived adult mesenchymal stem cells expanded and pulsed with H2O2",
+                              "Saline solution",
+                              "Allogeneic adipose-derived adult mesenchymal stem cells expanded and pulsed with H2O2"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04289194"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "InterventionArmGroupLabel": [
+                              "AD-MSC",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Intravenous injection of stem cell or placebo to the patients with The patients with ultra filtration failure (UFF) ."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Intravenous injection"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02801890"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "InterventionArmGroupLabel": [
+                              "osteoarthritis of the glenohumeral joint",
+                              "osteoarthritis of the hip",
+                              "osteoarthritis of the knee"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Intervention: Intra-articular injection of Adipose-derived Mesenchymal Stem Cells (ADMSC)- ultrasound guided intra-articular injection of at least 10 million of ADMCS per procedure, maximum four procedures (i.e. injections per joint), minimum number of cells pre protocol 40 million"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Intra-articular injection of ADMSC"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03869229"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "InterventionArmGroupLabel": [
+                              "AstroStem-V"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Allogenic adipose tissue-derived mesenchymal stem cells (AdMSCs)"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "AstroStem-V"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04527224"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "InterventionArmGroupLabel": [
+                              "ARM 1: AdMSC: adipose stem cells",
+                              "ARM 2 Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "A 30-"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M5544",
+                              "M18692",
+                              "M9364",
+                              "M9353"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Complement System Proteins",
+                              "Complement Factor H",
+                              "Immunosuppressive Agents",
+                              "Immunologic Factors"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Adipose tissue will be harvested from all patients as previously described and stem cells will be cultured. Cells are returned to the study doctor for installation into the subject every 2 weeks for 3 months.",
+                              "Adipose tissue will be harvested from all patients as previously described and stem cells will be cultured. For those subjects in the placebo arm, the stem cells will be frozen for later use after one year when the patients cross over into the treatment arm."
+                        ],
+                        "InterventionMeshId": [
+                              "D000017242"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Complement Factor H"
+                        ],
+                        "InterventionName": [
+                              "ARM 1: AdMSC: adipose stem cells",
+                              "ARM 2: Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "ARM 1: AdMSC: Adipose derived mesenchymal stem cells",
+                              "ARM 2 Placebo"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02107118"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "InterventionArmGroupLabel": [
+                              "Allogeneic HB-adMSCs 100MM",
+                              "Allogeneic HB-adMSCs 200MM",
+                              "Allogeneic HB-adMSCs 50MM",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Hope Biosciences allogeneic adipose-derived mesenchymal stem cells",
+                              "Saline"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs",
+                              "Placebos"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04348435"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "InterventionArmGroupLabel": [
+                              "Rabbit ATG & AD-HSCs",
+                              "Rabbit ATG & AD-MSCs",
+                              "Rabbit antithymoglobulin \uff08ATG\uff09",
+                              "Rabbit ATG & AD-MSCs",
+                              "Rabbit ATG & AD-HSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "FLX475"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M255749",
+                              "M3431",
+                              "M9353",
+                              "M9364"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Thymoglobulin",
+                              "Antilymphocyte Serum",
+                              "Immunologic Factors",
+                              "Immunosuppressive Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Rabbit ATG at 3.5 mg/kg/dose IV is given from day -6 to -2.",
+                              "Participants will receive rabbit ATG at 3.5 mg/kg/dose IV from day -6 to -2, and then patient's own AD-MSCs at a dose of 3000000 cells/kg/d on day 1-3.",
+                              "Participants will receive rabbit anti-thymocyte globulin at 3.5 mg/kg/dose IV from day -6 to -2, and then patient's own AD-HSCs at a dose of 3000000 cells/kg/d from day 1 to 4."
+                        ],
+                        "InterventionMeshId": [
+                              "D000000961"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Antilymphocyte Serum"
+                        ],
+                        "InterventionName": [
+                              "Rabbit antithymoglobulin (ATG)",
+                              "Adipose derived mesenchymal stem cells ( AD-MSCs)",
+                              "AD-MSC transdifferentiated HSCs (AD-HSCs)"
+                        ],
+                        "InterventionOtherName": [
+                              "ATG",
+                              "AD-MSCs",
+                              "AD-HSCs"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Procedure",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02407470"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "InterventionArmGroupLabel": [
+                              "HB-adMSC"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Hope Biosciences autologous adipose-derived mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04063215"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "InterventionArmGroupLabel": [
+                              "Adipose-derived messenchymal stem cell (AD-MSC)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Collaborative research program between Vinmec Research Institute of Stem Cell and Gene Technology with the National Yang-Ming University in Taiwan The adipose mesenchymal stem cell line (GXIPC1) was collected from healthy donors who have screened for infectious diseases and then multiplied in large numbers. These products were produced following the GMP laboratory system and approved by Taiwan FDA for preclinical and clinical trials with completed certificates"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "adipose-derived messenchymal stem cell"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Combination Product"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05308836"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "InterventionArmGroupLabel": [
+                              "AD-MSC"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Intravenous injection of AD-MSC to the patients with FSGS"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Intravenous injection"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02382874"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "InterventionArmGroupLabel": [
+                              "composite group",
+                              "conditioned medium group",
+                              "control group",
+                              "stem cells group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Coag",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Coagulants",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M17443"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Fibrin Tissue Adhesive"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "rabbit with posterior cruciate ligament rupture and treated with fibrin glue mix with adypose mesenchymal stem cells in hypoxic culture and ligament derived conditioned medium"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "adypose mesenchymal conditioned medium and ligament derived conditioned medium"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04889963"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "InterventionArmGroupLabel": [
+                              "HB-adMSCs",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Hope Biosciences allogeneic adipose-derived mesenchymal stem cells",
+                              "Saline"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSC",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04362189"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "single infusion of HB-adMSCs"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT03925649"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "intravenous infusion of Hope Biosciences autologous adipose-derived stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT04029896"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "InterventionArmGroupLabel": [
+                              "JointStem",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Autologous Adipose tissue derived Mesenchymal Stem Cells (AdMSC)",
+                              "Normal Saline with autologous Serum"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "JointStem",
+                              "Placebo Control"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04368806"
+                        ]
+                  },
+                  {
+                        "Rank": 28,
+                        "InterventionArmGroupLabel": [
+                              "Phase 2 AdMSC group",
+                              "Phase 2 Placebo group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Culture expanded mesenchymal stem cells isolated from a patient's own abdominal fat tissue"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "autologous adipose-derived stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "Celltex-AdMSCs"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04428801"
+                        ]
+                  },
+                  {
+                        "Rank": 29,
+                        "InterventionArmGroupLabel": [
+                              "Autologous Adipose Tissue derived MSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "biological : Autologous Adipose Tissue derived MSCs 1x10^8cells/3ml drug: saline solution"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous Adipose Tissue derived MSCs 1x10^8cells/3ml"
+                        ],
+                        "InterventionOtherName": [
+                              "JOINTSTEM"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT03000712"
+                        ]
+                  },
+                  {
+                        "Rank": 30,
+                        "InterventionArmGroupLabel": [
+                              "Allogeneic HB-adMSCs.",
+                              "Placebo",
+                              "Allogeneic HB-adMSCs.",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All",
+                              "PhSol"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals",
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M16512",
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Vaccines",
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "HB-adMSCs will be administered intravenously to study participants who qualify.",
+                              "Sterile Saline Solution 0.9%"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Biological/Vaccine: Allogeneic HB-adMSCs",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "Allogeneic Hope Biosciences adipose derived mesenchymal stem cells.",
+                              "Placebo will be administered intravenously to study participants who qualify."
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04995081"
+                        ]
+                  },
+                  {
+                        "Rank": 31,
+                        "InterventionArmGroupLabel": [
+                              "Treatment",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Autologous product",
+                              "Normal Saline"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "Hope Biosciences adipose derived mesenchymal stem cells",
+                              "0.9% NS"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05116540"
+                        ]
+                  },
+                  {
+                        "Rank": 32,
+                        "InterventionArmGroupLabel": [
+                              "AdMSC"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Into lumbar intervertebral disc infusion of Autologous Adipose Derived Mesenchymal Stem Cells. Dose : 4x10e7 cells/1mL"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous Adipose Tissue derived MSCs Transplantation"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01643681"
+                        ]
+                  },
+                  {
+                        "Rank": 33,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "HB-adMSCs (Hope Biosciences autologous adipose-derived mesenchymal stem cells) is manufactured by Hope Biosciences, L.L.C., a biotechnology company headquartered in Sugar Land, Texas."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSC"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT04604288"
+                        ]
+                  },
+                  {
+                        "Rank": 34,
+                        "InterventionArmGroupLabel": [
+                              "Stem cell recipient"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Intramuscular injection of stem cells in patients with FSHD."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Intramuscular injection"
+                        ],
+                        "InterventionOtherName": [
+                              "Intramuscular cell transplantation"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02208713"
+                        ]
+                  },
+                  {
+                        "Rank": 35,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionOtherName": [
+                              "Hope Biosciences autologous adipose-derived mesenchymal stem cells"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT04064957"
+                        ]
+                  },
+                  {
+                        "Rank": 36,
+                        "InterventionArmGroupLabel": [
+                              "10 million MSC",
+                              "15 million MSC",
+                              "5 million MSC"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Intra-ovarian injection of Adipose derived mesenchymal stem cells."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Intraovarian injection of Adipose derived Stromal cells (ADSCs)"
+                        ],
+                        "InterventionOtherName": [
+                              "stem cell transplantation"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02603744"
+                        ]
+                  },
+                  {
+                        "Rank": 37,
+                        "InterventionArmGroupLabel": [
+                              "HB-adMSCs",
+                              "Placebo",
+                              "HB-adMSCs",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "HB-adMSCs will be administered intravenously to study participants who qualify.",
+                              "Placebo will be administered intravenously to study participants who qualify."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "Autologous Hope Biosciences adipose derived mesenchymal stem cells.",
+                              "Sterile Saline Solution 0.9%"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04928287"
+                        ]
+                  },
+                  {
+                        "Rank": 38,
+                        "InterventionArmGroupLabel": [
+                              "20\u00d710^6 AD-MSCs",
+                              "5\u00d710^6 AD-MSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Derm",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Dermatologic Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M5415"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Coal Tar"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Human, autologous, culture expanded, adipose-derived, mesenchymal stromal cells (AMSCs) produced on site in the Mayo Clinic Immune Progenitor and Cell Therapeutics Laboratory using current good manufacturing practices (cGMPs)."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous Adipose-Derived Mesenchymal Stromal Cells"
+                        ],
+                        "InterventionOtherName": [
+                              "AMSCs"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03461458"
+                        ]
+                  },
+                  {
+                        "Rank": 39,
+                        "InterventionArmGroupLabel": [
+                              "Control Group",
+                              "Study Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Culture expanded mesenchymal stem cells isolated from a patient's own abdominal fat tissue"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic adipose-derived stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "Celltex-AdMSCs"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05017298"
+                        ]
+                  },
+                  {
+                        "Rank": 40,
+                        "InterventionArmGroupLabel": [
+                              "Mesenchymal stem cell"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Phase1 The dose of AD-MSCs are escalated from low to mid and high step by step. Each administration is one time via intravenous infusion for one hour.\n\nPhase2 The recommended dose of ADR-001 is administrated once a week 4 times. The administration route and time is same method with Phase 1."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal stem cell"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03254758"
+                        ]
+                  },
+                  {
+                        "Rank": 41,
+                        "InterventionArmGroupLabel": [
+                              "bone marrow mesenchymal stem cell",
+                              "adipose mesenchymal stem cells",
+                              "Bone marrow and Adipose mesenchymal stem cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "intrarticular bone marrow mesenchymal stem cells injection",
+                              "intrarticular adipose mesenchymal stem cells injection",
+                              "intrarticular bone marrow and adipose stem cells injection."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "bone marrow mesenchymal stem cells",
+                              "Adipose Mesenchymal stem cells",
+                              "bone marrow & adipose mesenchymal stem cells injection"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04351932"
+                        ]
+                  },
+                  {
+                        "Rank": 42,
+                        "InterventionArmGroupLabel": [
+                              "Treatment",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "HB-adMSCs allogenic",
+                              "Placebo comarator"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs (allogeneic)",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "Hope Biosciences adipose derived mesenchymal stem cells",
+                              "Sterile Normal Saline"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05126563"
+                        ]
+                  },
+                  {
+                        "Rank": 43,
+                        "InterventionArmGroupLabel": [
+                              "Phase I"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "The mesenchymal stem cells will be collected and expanded from the subjects adipose tissue."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous, Adipose derived Mesenchymal Stem Cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03308565"
+                        ]
+                  },
+                  {
+                        "Rank": 44,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Hope Biosciences adipose derived autologous mesenchymal stem cell product"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSC"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT04711811"
+                        ]
+                  },
+                  {
+                        "Rank": 45,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Hope Biosciences autologous adipose-derived mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT04514952"
+                        ]
+                  },
+                  {
+                        "Rank": 46,
+                        "InterventionArmGroupLabel": [
+                              "a single, open clinical trial"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M9030"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Hyaluronic Acid"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "autologous adipose derived mesenchymal stem cell (2 x 10^7 cells/mL /vial or 4 x 10^7 cells/mL /vial) and Tissuefill (hyaluronic acid derivatives) 1mL/syringe"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "autologous adipose derived mesenchymal stem cell"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02338271"
+                        ]
+                  },
+                  {
+                        "Rank": 47,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "HB-adMSCs (Hope Biosciences autologous adipose-derived mesenchymal stem cells) is manufactured by Hope Biosciences, L.L.C., a biotechnology company headquartered in Sugar Land, Texas."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT04772378"
+                        ]
+                  },
+                  {
+                        "Rank": 48,
+                        "InterventionArmGroupLabel": [
+                              "Treatment Group 2: Best Medical Management",
+                              "Treatment Group 1: AD-MSC Injection",
+                              "Treatment Group 2: Best Medical Management"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "ANeo",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Antineoplastic Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M7343",
+                              "M341694"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Etoposide",
+                              "Etoposide phosphate"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Observation while undergoing Occupational and Physical Therapy for 6 months",
+                              "The mesenchymal stem cells will be collected and expanded from the patients' adipose tissue."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Best Medical Management: Occupational and Physical Therapy",
+                              "Autologous, Adipose Derived Mesenchymal Stem Cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04520373"
+                        ]
+                  },
+                  {
+                        "Rank": 49,
+                        "InterventionArmGroupLabel": [
+                              "Autologous Stromal Vascular Fraction",
+                              "Autologous Adipose Derived MSCs",
+                              "Control"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infl",
+                              "ANeo",
+                              "All",
+                              "AnEm",
+                              "NeuroAg",
+                              "Gast",
+                              "ARhu",
+                              "Infe",
+                              "Resp",
+                              "Analg"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Inflammatory Agents",
+                              "Antineoplastic Agents",
+                              "All Drugs and Chemicals",
+                              "Antiemetics",
+                              "Neuroprotective Agents",
+                              "Gastrointestinal Agents",
+                              "Antirheumatic Agents",
+                              "Anti-Infective Agents",
+                              "Respiratory System Agents",
+                              "Analgesics"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M13272",
+                              "M1833",
+                              "M10901",
+                              "M10902",
+                              "M229437",
+                              "M211896",
+                              "M248768",
+                              "M5879",
+                              "M2627",
+                              "M244015",
+                              "M3830",
+                              "M194716",
+                              "M9364",
+                              "M3444"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Prednisolone",
+                              "Methylprednisolone Acetate",
+                              "Methylprednisolone",
+                              "Methylprednisolone Hemisuccinate",
+                              "Prednisolone acetate",
+                              "Prednisolone hemisuccinate",
+                              "Prednisolone phosphate",
+                              "Cyclophosphamide",
+                              "Acetylcysteine",
+                              "N-monoacetylcystine",
+                              "Azathioprine",
+                              "Pirfenidone",
+                              "Immunosuppressive Agents",
+                              "Antioxidants"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Study arm A subjects will receive single dose of autologous adipose derived Stromal Vascular Fraction (SVF) intravenously.",
+                              "Study arm B subjects will receive total 3 doses of 2 million per kg body weight adipose tissue derived Ex-vivo expanded Mesenchymal stem cells (MSC) intravenously each. All the three doses will be given at weekly intervals.",
+                              "Standard Therapy"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous Stromal Vascular Fraction (SVF)",
+                              "Autologous Adipose Derived MSCs (ADMSCs)",
+                              "Control"
+                        ],
+                        "InterventionOtherName": [
+                              "Autologous Stromal Vascular Fraction",
+                              "Autologous Adipose Derived MSCs"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02135380"
+                        ]
+                  },
+                  {
+                        "Rank": 50,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Autologous adipose derived mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT04798066"
+                        ]
+                  },
+                  {
+                        "Rank": 51,
+                        "InterventionArmGroupLabel": [
+                              "Single Dose"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "adAMSC will be administered in the perilesional adipose tissue, through a laparoscopic procedure"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Adipose derived allogenic mesenchymal stem cells (adAMSC)"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05521672"
+                        ]
+                  },
+                  {
+                        "Rank": 52,
+                        "InterventionArmGroupLabel": [
+                              "Phase 2 Arm 1 - OA Knee",
+                              "Phase 2 Arm 2 OA Knee",
+                              "Phase 2 Arm 3 - OA Hip",
+                              "Phase 2 Arm 4 - OA Hip",
+                              "Phase 2 Arm 5 - OA Shoulder",
+                              "Phase 2 Arm 6 - OA Shoulder"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Autologous adipose-derived stem cells Culture expanded mesenchymal stem cells isolated from a patient's own abdominal fat tissue"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Celltex- AdMSCs"
+                        ],
+                        "InterventionOtherName": [
+                              "AdMSCs"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04448106"
+                        ]
+                  },
+                  {
+                        "Rank": 53,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Hope Biosciences adipose derived Mesenchymal Stem Cells."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionOtherName": [
+                              "MSCs"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT04825626"
+                        ]
+                  },
+                  {
+                        "Rank": 54,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Hope Biosciences adipose derived Mesenchymal Stem Cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionOtherName": [
+                              "MSC's"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT04825613"
+                        ]
+                  },
+                  {
+                        "Rank": 55,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Hope Biosciences autologous adipose-derived mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT04064983"
+                        ]
+                  },
+                  {
+                        "Rank": 56,
+                        "InterventionArmGroupLabel": [
+                              "JointStem",
+                              "Synvisc-One"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Hepatitis A"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M9030",
+                              "M250495",
+                              "M27448",
+                              "M21022"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Hyaluronic Acid",
+                              "Hylan",
+                              "Viscosupplements",
+                              "Protective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [
+                              "C000049816"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Hylan"
+                        ],
+                        "InterventionName": [
+                              "JointStem",
+                              "Synvisc-One"
+                        ],
+                        "InterventionOtherName": [
+                              "Active Comparator"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02674399"
+                        ]
+                  },
+                  {
+                        "Rank": 57,
+                        "InterventionArmGroupLabel": [
+                              "AstroStem",
+                              "Placebo-Control"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Autologous adipose tissue derived mesenchymal stem cells (AdMSC)",
+                              "Saline with 30% auto-serum"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "AstroStem",
+                              "Placebo-Control"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03117738"
+                        ]
+                  }
+            ]
+      }
+}

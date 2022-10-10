@@ -1,0 +1,258 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal CardioCell",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 5,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 5,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Infarct size reduction in SPECT.",
+                              "Myocardial perfusion improvement assessed in SPECT.",
+                              "Myocardial perfusion improvement assessed in cardiac MRI.",
+                              "Increase of left ventricle ejection fraction (LVEF) assessed in cardiac MRI.",
+                              "Increase of left ventricle ejection fraction (LVEF) assessed in SPECT.",
+                              "Left ventricle ejection fraction (LVEF) change (in %) against baseline, assessed in echocardiography.",
+                              "Left ventricle end-systolic volume (ESV, in ml) change against baseline, assessed in echocardiography",
+                              "Left ventricle end-diastolic volume (EDV, in ml) change against baseline, assessed in echocardiography.",
+                              "The occurrence of major adverse cardiovascular events (MACE including death, myocardial infarction, and hospitalization for heart failure).",
+                              "Quality of life improvement, assessed by SF-36 questionnaire or other dedicated for investigated population."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Infarct size reduction",
+                              "Myocardial perfusion improvement",
+                              "Myocardial perfusion improvement",
+                              "Increase of left ventricle ejection fraction (LVEF)",
+                              "Increase of left ventricle ejection fraction (LVEF)",
+                              "Left ventricle ejection fraction (LVEF) change against baseline.",
+                              "Left ventricle end-systolic volume (ESV) change against baseline.",
+                              "Left ventricle end-diastolic volume (EDV) change against baseline.",
+                              "The occurrence of major adverse cardiovascular events",
+                              "Quality of life improvement"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 month FU",
+                              "6 month FU",
+                              "6 month FU",
+                              "6 month FU",
+                              "6 month FU",
+                              "6 month FU",
+                              "6 month FU",
+                              "6 month FU",
+                              "1 year FU",
+                              "6 month and 1 year FU."
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03404063"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "An increase the result of 6 minute walk test at 3 and 6 month.",
+                              "Myocardial perfusion improvement assessed in SPECT at 6 month FU.",
+                              "Myocardial perfusion improvement assessed in cardiac MRI at 6 month FU.",
+                              "An improvement the result of spiroergometric test at 6 month FU.",
+                              "Left ventricle ejection fraction (LVEF) change (in %) against baseline, assessed in echocardiography.",
+                              "Left ventricle end-systolic volume (ESV, in ml) change against baseline, assessed in echocardiography.",
+                              "Left ventricle end-diastolic volume (EDV, in ml) change against baseline, assessed in echocardiography.",
+                              "NT pro-BNP level at 3, 6 and 12 months in comparison to the baseline level.",
+                              "The occurrence of major adverse cardiovascular events (MACE including death, myocardial infarction, and hospitalization for heart failure) at 6 month and 1 year FU.",
+                              "Quality of life improvement, assessed by SF-36 questionnaire or other dedicated for investigated population at 6 month and 1 year FU."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "An increase the result of 6 minute walk test",
+                              "Myocardial perfusion improvement",
+                              "Myocardial perfusion improvement",
+                              "An improvement the result of spiroergometric test",
+                              "Left ventricle ejection fraction (LVEF) change against baseline",
+                              "Left ventricle end-systolic volume (ESV) change against baseline",
+                              "Left ventricle end-diastolic volume (EDV) change against baseline",
+                              "NT pro-BNP level",
+                              "The occurrence of major adverse cardiovascular events",
+                              "Quality of life improvement"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "3 and 6 month FU",
+                              "6 month FU",
+                              "6 month FU",
+                              "6 month FU",
+                              "6 month FU",
+                              "6 month FU",
+                              "6 month FU",
+                              "3, 6 and 12 months FU",
+                              "6 month and 1 year FU",
+                              "6 month and 1 year FU"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03418233"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Amputation-free survival period evaluation of treated leg at 6 month and 1 year FU.",
+                              "Ulcer-free survival (in patients without ulceration at baseline evaluation) of treated leg in period evaluation at 6 month and 1 year FU.",
+                              "Ulcer-extension free survival (in patients with ulceration in the beginning of the trial) of treated leg in period evaluation at 6 month and 1 year FU.",
+                              "Change in tissue oxygen/CO2 tension, assessed by NIRS method at each trial evaluation point.",
+                              "An improvement of tissue perfusion assessed in MRI at each trial evaluation point.",
+                              "Change in transcutaneous pressure of O2 (tcpO2) between two groups (active vs placebo therapy) at each trial evaluation point.",
+                              "Change in ABI score at each trial evaluation point.\n\nThe ankle-brachial index (ABI) is the ratio of the blood pressure at the ankle to the blood pressure in the upper arm and is calculated by dividing the systolic blood pressure at the ankle by the systolic blood pressure in the arm.\n\nAn ABI between and including 0.9 and 1.2 is considered normal, while a lesser than 0.9 indicates peripheral arterial disease. An ABI value of 1.3 or greater is also considered abnormal, and suggests calcification of the walls of the arteries and incompressible vessels. ABI score progression towards the normal range is considered as a better outcome.",
+                              "Quality of life improvement, assessed by SF-36 questionnaire or other dedicated for investigated population at each trial evaluation point."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Amputation-free survival period",
+                              "Ulcer-free survival",
+                              "Ulcer-extension free survival",
+                              "Change in tissue oxygen/CO2 tension",
+                              "An improvement of tissue perfusion",
+                              "Change in transcutaneous pressure of O2",
+                              "Change in ABI score",
+                              "Quality of life improvement, assessed by SF-36 questionnaire"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 month and 1 year FU.",
+                              "6 month and 1 year FU",
+                              "6 month and 1 year FU",
+                              "45 days, 3 month, 6 month and 1 year FU",
+                              "45 days, 3 month, 6 month and 1 year FU",
+                              "45 days, 3 month, 6 month and 1 year FU",
+                              "45 days, 3 month, 6 month and 1 year FU",
+                              "45 days, 3 month, 6 month and 1 year FU"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03423732"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ResultsFirstSubmitDate": [
+                              "October 25, 2019"
+                        ],
+                        "ResultsFirstSubmitQCDate": [
+                              "January 6, 2020"
+                        ],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The secondary efficacy endpoint was the change in LVEF from baseline to Day 90 post-initial infusion. Participants with data available at each time point."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in LVEF From Baseline to Day 90 Post-initial Infusion."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline to Day 90"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [
+                              "Systematic Assessment"
+                        ],
+                        "NCTId": [
+                              "NCT02467387"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "The change from baseline on physical exam conducted at day 14 and at 1, 3, 6 and 12 months post-administration, as available:",
+                              "\u2022 LV end diastolic volume",
+                              "\u2022 LV end systolic volume",
+                              "\u2022 Infarct size measured by MRI, with and without contrast (only for patients eligible for MRI)",
+                              "\u2022 Global Left Ventricular Ejection Fraction (measured by echocardiography)",
+                              "\u2022 SF-36 Health Assessment",
+                              "\u2022 Incidence of Ventricular Arrhythmias requiring intervention at 1 and 3 months post-administration"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01770613"
+                        ]
+                  }
+            ]
+      }
+}

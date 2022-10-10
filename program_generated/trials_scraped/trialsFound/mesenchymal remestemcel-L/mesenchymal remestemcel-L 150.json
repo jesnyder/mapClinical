@@ -1,0 +1,1671 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal remestemcel-L",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 20,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 20,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "High dose",
+                              "Low dose",
+                              "High dose",
+                              "Low dose"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All",
+                              "PhSol",
+                              "Infe",
+                              "Infl"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals",
+                              "Pharmaceutical Solutions",
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Unsuccessful"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M6457",
+                              "M9364",
+                              "M85407",
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Dimethyl Sulfoxide",
+                              "Immunosuppressive Agents",
+                              "Plasma-lyte 148",
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Cells in plasmalyte and containing dimethylsulfoxide",
+                              "two infusions, one week apart, each comprising adult human mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "Prochymal\u2122 adult human mesenchymal stem cells",
+                              "adult human mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "PROCHYMAL",
+                              "PROCHYMAL"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT00294112"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "Remestemcel-L (150 million cells)",
+                              "Remestemcel-L (300 million cells)",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All",
+                              "HB"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals",
+                              "Herbal and Botanical"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "1440"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366",
+                              "T120"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents",
+                              "Cola"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "An ex vivo culture-expanded adult allogeneic bone marrow derived mesenchymal stem cell product for the treatment of medically refractory ulcerative colitis",
+                              "An ex vivo culture-expanded adult allogeneic bone marrow derived mesenchymal stem cell product for the treatment of medically refractory ulcerative colitis",
+                              "Normal saline"
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "Remestemcel-L",
+                              "Remestemcel-L",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04543994"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "remestemcel-L (150 million cells)",
+                              "remestemcel-L (300 million cells)",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All",
+                              "HB"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals",
+                              "Herbal and Botanical"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "1440"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366",
+                              "T120"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents",
+                              "Cola"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "adult allogeneic bone marrow derived mesenchymal stem cell product for the treatment of medically refractory Crohn's colitis",
+                              "adult allogeneic bone marrow derived mesenchymal stem cell product for the treatment of medically refractory Crohn's colitis",
+                              "Normal saline"
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "Remestemcel-L",
+                              "Remestemcel-L",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04548583"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "InterventionArmGroupLabel": [
+                              "Prochymal\u00ae - 2 Million cells/kg",
+                              "Prochymal\u00ae - 8 Million cells/kg",
+                              "Prochymal\u00ae - 2 Million cells/kg",
+                              "Prochymal\u00ae - 8 Million cells/kg",
+                              "Prochymal\u00ae - 2 Million cells/kg",
+                              "Prochymal\u00ae - 8 Million cells/kg",
+                              "Prochymal\u00ae - 2 Million cells/kg",
+                              "Prochymal\u00ae - 8 Million cells/kg",
+                              "Prochymal\u00ae - 2 Million cells/kg",
+                              "Prochymal\u00ae - 8 Million cells/kg",
+                              "Prochymal\u00ae - 2 Million cells/kg",
+                              "Prochymal\u00ae - 8 Million cells/kg"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "ARhu",
+                              "Derm",
+                              "All",
+                              "ANeo",
+                              "Infl",
+                              "AnEm",
+                              "NeuroAg",
+                              "Gast"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Antirheumatic Agents",
+                              "Dermatologic Agents",
+                              "All Drugs and Chemicals",
+                              "Antineoplastic Agents",
+                              "Anti-Inflammatory Agents",
+                              "Antiemetics",
+                              "Neuroprotective Agents",
+                              "Gastrointestinal Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Impact",
+                              "Impact",
+                              "Bolus",
+                              "Neck",
+                              "Cardiac",
+                              "Until",
+                              "1440"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M18113",
+                              "M5882",
+                              "M11280",
+                              "M13272",
+                              "M1833",
+                              "M10901",
+                              "M10902",
+                              "M229437",
+                              "M211896",
+                              "M248768",
+                              "M18102",
+                              "M13273",
+                              "M186752",
+                              "M3369",
+                              "M8199",
+                              "M8941",
+                              "M8940",
+                              "M20119",
+                              "M9364",
+                              "M9353",
+                              "M29605",
+                              "M3406",
+                              "M5404",
+                              "M10948",
+                              "M3366",
+                              "M6226",
+                              "M19757",
+                              "M3374",
+                              "M3376",
+                              "M3463",
+                              "M3403",
+                              "M8033",
+                              "M19926",
+                              "M21022",
+                              "M3466"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Cyclosporine",
+                              "Cyclosporins",
+                              "Mycophenolic Acid",
+                              "Prednisolone",
+                              "Methylprednisolone Acetate",
+                              "Methylprednisolone",
+                              "Methylprednisolone Hemisuccinate",
+                              "Prednisolone acetate",
+                              "Prednisolone hemisuccinate",
+                              "Prednisolone phosphate",
+                              "Tacrolimus",
+                              "Prednisone",
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Glucocorticoids",
+                              "Hormones",
+                              "Hormone Antagonists",
+                              "Antineoplastic Agents, Hormonal",
+                              "Immunosuppressive Agents",
+                              "Immunologic Factors",
+                              "Calcineurin Inhibitors",
+                              "Antifungal Agents",
+                              "Clotrimazole",
+                              "Miconazole",
+                              "Anti-Infective Agents",
+                              "Dermatologic Agents",
+                              "Antirheumatic Agents",
+                              "Anti-Bacterial Agents",
+                              "Antibiotics, Antitubercular",
+                              "Antitubercular Agents",
+                              "Antiemetics",
+                              "Gastrointestinal Agents",
+                              "Neuroprotective Agents",
+                              "Protective Agents",
+                              "Antiviral Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "2 million hMSCs/kg actual body weight, IV on study Days 1 and 4",
+                              "8 million hMSCs/kg actual body weight IV on study Days 1 and 4",
+                              "Methylprednisolone 2 mg/kg administered intravenously.",
+                              "Prednisone 2.5 mg/kg administered orally.",
+                              "Administered as prescribed by the caregiver.",
+                              "Administered as prescribed by the caregiver.",
+                              "Administered as prescribed by the caregiver."
+                        ],
+                        "InterventionMeshId": [
+                              "D000016572",
+                              "D000009173",
+                              "C000711674",
+                              "D000011241",
+                              "D000008775",
+                              "D000016559",
+                              "D000003524"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Cyclosporine",
+                              "Mycophenolic Acid",
+                              "Remestemcel-l",
+                              "Prednisone",
+                              "Methylprednisolone",
+                              "Tacrolimus",
+                              "Cyclosporins"
+                        ],
+                        "InterventionName": [
+                              "Prochymal\u00ae - 2 Million cells/kg",
+                              "Prochymal\u00ae- 8 Million cells/kg",
+                              "Methylprednisolone",
+                              "Prednisone",
+                              "Cyclosporine",
+                              "Tacrolimus",
+                              "Mycophenolate Mofetil"
+                        ],
+                        "InterventionOtherName": [
+                              "Remestemcel-L",
+                              "ex-vivo cultured adult human mesenchymal stem cells",
+                              "hMSCs",
+                              "Remestemcel-L",
+                              "ex-vivo cultured adult human mesenchymal stem cells",
+                              "hMSCs"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug",
+                              "Drug",
+                              "Drug",
+                              "Drug",
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT00136903"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "InterventionArmGroupLabel": [
+                              "Remestemcel-L 2\u00d710^6 MSCs/kg"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "1440"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Participants were treated with IV remestemcel-L at a dose of 2 x 10^6 MSC/kg (actual body weight at screening) twice per week for each of 4 consecutive weeks. Infusions were administered at least 3 days apart and no more than 5 days apart for any infusion."
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "remestemcel-L"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02336230"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "1440"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Participants will receive remestemcel-L in two infusions of 2 x 10^6 mesenchymal stromal cells per kilogram (MSC/kg), administered intravenously (IV)."
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "Remestemcel-L"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT04366830"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "InterventionArmGroupLabel": [
+                              "Prochymal",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hypo",
+                              "All",
+                              "Infe",
+                              "Infl"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hypoglycemic Agents",
+                              "All Drugs and Chemicals",
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Unsuccessful"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M9517",
+                              "M172956",
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Insulin",
+                              "Insulin, Globin Zinc",
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Intravenous infusion of ex vivo cultured adult human mesenchymal stem cells",
+                              "Intravenous infusion of excipients of PROCHYMAL\u00ae"
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "PROCHYMAL\u00ae",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "ex vivo cultured adult human mesenchymal stem cells",
+                              "Prochymal"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT00690066"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "InterventionArmGroupLabel": [
+                              "Prochymal\u00ae",
+                              "Placebo",
+                              "Placebo",
+                              "Prochymal\u00ae"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Unsuccessful"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "2 infusions of 2 million cells/kg per week for 4 weeks",
+                              "2 infusions per week for 4 weeks",
+                              "Institutionally defined standard of care (e.g., maintenance of steroid treatment and the addition of a second-line therapy)"
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "Prochymal\u00ae",
+                              "Placebo",
+                              "Standard of Care for GVHD"
+                        ],
+                        "InterventionOtherName": [
+                              "Mesenchymal Stem Cells",
+                              "excipients without adult human mesenchymal stem cells"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT00366145"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "InterventionArmGroupLabel": [
+                              "Prochymal\u00ae"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "1440"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Intravenous infusion of ex-vivo cultured adult human mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "Prochymal\u00ae"
+                        ],
+                        "InterventionOtherName": [
+                              "Remestemcel-L"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT00284986"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "InterventionArmGroupLabel": [
+                              "Remestemcel-L Plus Standard of Care",
+                              "Placebo Plus Standard of Care"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All",
+                              "Infe",
+                              "Infl"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals",
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "1440"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M85407",
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Plasma-lyte 148",
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "administered twice during the first week, with the second infusion at 4 days following the first injection (\u00b1 1 day)",
+                              "administered twice during the first week, with second infusion at 4 days following the first injection (\u00b1 1 day)"
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "Remestemcel-L",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04371393"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "InterventionArmGroupLabel": [
+                              "Prochymal\u2122",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Unsuccessful"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "IV infusion of ex- vivo cultured adult human mesenchymal stem cells.",
+                              "IV infusion of excipient of Prochymal\u2122."
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "Prochymal\u2122",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT00683722"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "InterventionArmGroupLabel": [
+                              "Prochymal\u00ae",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "1440"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Intravenous infusion of ex vivo cultured adult human mesenchymal stem cells",
+                              "Intravenous infusion of excipients of Prochymal\u00ae"
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "Prochymal\u00ae",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "Remestemcel-L"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT00877903"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "InterventionArmGroupLabel": [
+                              "Prochymal\u00ae - High dose",
+                              "Prochymal\u00ae - Low dose",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Unsuccessful"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Prochymal\u00ae IV infusion",
+                              "Prochymal\u00ae Placebo-matching IV infusion"
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "Prochymal\u00ae",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "Adult Human Mesenchymal Stem Cells"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT00482092"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "InterventionArmGroupLabel": [
+                              "Placebo",
+                              "PROCHYMAL High dose",
+                              "PROCHYMAL Low dose"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Unsuccessful"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Placebo",
+                              "intravenous infusion four times over two weeks; possibly repeated once"
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "Placebo",
+                              "PROCHYMAL adult human mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT00543374"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infl",
+                              "All",
+                              "AAll",
+                              "AnEm",
+                              "CNSDep",
+                              "Gast",
+                              "Derm",
+                              "Infe"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals",
+                              "Anti-Allergic Agents",
+                              "Antiemetics",
+                              "Central Nervous System Depressants",
+                              "Gastrointestinal Agents",
+                              "Dermatologic Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Pump",
+                              "Rivaroxaban",
+                              "Rivaroxaban",
+                              "1440"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M9064",
+                              "M155022",
+                              "M228602",
+                              "M263157",
+                              "M6490",
+                              "M13420",
+                              "M186752",
+                              "M3369",
+                              "M9195",
+                              "M3259",
+                              "M3261",
+                              "M3403",
+                              "M8033",
+                              "M8862",
+                              "M8860",
+                              "M212140",
+                              "M8861",
+                              "M19657",
+                              "M20115",
+                              "M6226",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Hydrocortisone",
+                              "Hydrocortisone 17-butyrate 21-propionate",
+                              "Hydrocortisone acetate",
+                              "Hydrocortisone hemisuccinate",
+                              "Diphenhydramine",
+                              "Promethazine",
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Hypnotics and Sedatives",
+                              "Anesthetics",
+                              "Anesthetics, Local",
+                              "Antiemetics",
+                              "Gastrointestinal Agents",
+                              "Histamine H1 Antagonists",
+                              "Histamine",
+                              "Histamine phosphate",
+                              "Histamine Antagonists",
+                              "Neurotransmitter Agents",
+                              "Anti-Allergic Agents",
+                              "Dermatologic Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Participants may receive up to 2 infusions of 2 x 10^6 remestemcel-L within a 5-day period.",
+                              "Participants who are not currently taking a corticosteroid will receive hydrocortisone, 0.5-1 milligram per kilogram (mg/kg), up to 50 mg IV, at least 30 minutes prior to the infusion of remestemcel-L.",
+                              "Participants will receive diphenhydramine, 0.5-1 mg/kg, up to 50 mg IV, at least 30 minutes prior to the infusion of remestemcel-L."
+                        ],
+                        "InterventionMeshId": [
+                              "D000004155",
+                              "D000011398",
+                              "C000711674",
+                              "D000006854"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Diphenhydramine",
+                              "Promethazine",
+                              "Remestemcel-l",
+                              "Hydrocortisone"
+                        ],
+                        "InterventionName": [
+                              "Remestemcel-L",
+                              "Hydrocortisone",
+                              "Diphenhydramine"
+                        ],
+                        "InterventionOtherName": [
+                              "Benadryl\u00ae"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT04456439"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Unsuccessful"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Patients will be treated with Prochymal twice per week at a dose of 2 x 106 hMSC/kg (actual body weight) for each of 4 consecutive weeks. Infusions will be administered at least 3 days apart."
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "Prochymal\u00ae"
+                        ],
+                        "InterventionOtherName": [
+                              "Ex-vivo Cultured Adult Human Mesenchymal Stem Cells"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00826046"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "1440"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Patients will be treated with Prochymal\u00ae twice per week at a dose of 2 x 10^6 hMSC/kg (actual body weight) for each of 4 consecutive weeks. Infusions will be administered at least 3 days apart."
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "remestemcel-L"
+                        ],
+                        "InterventionOtherName": [
+                              "Prochymal\u00ae",
+                              "Ex-vivo Cultured Adult Human Mesenchymal Stem Cells"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00759018"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "InterventionArmGroupLabel": [
+                              "Prochymal"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "1440"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "PROCHYMAL will be administered IV in a total volume of 300 ml (200 million cells) at a rate of 4-6 ml/minute. Treatments will be administered on Days 42-45, Days 84-87, and Days 126-129 following first infusion in Protocol 603."
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "adult human mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "Prochymal",
+                              "remestemcel-L"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT01233960"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "1440"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "intravenous administration of 200 million cells on days 0, 3, 7, and 14, and then, at investigator discretion, periodically thereafter"
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "PROCHYMAL (remestemcel-L)"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01510431"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "InterventionArmGroupLabel": [
+                              "Prochymal\u00ae 2x10^6 hMSC/kg",
+                              "Placebo",
+                              "Placebo",
+                              "Prochymal\u00ae 2x10^6 hMSC/kg"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infl",
+                              "ANeo",
+                              "All",
+                              "AnEm",
+                              "NeuroAg",
+                              "Gast",
+                              "Infe"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Inflammatory Agents",
+                              "Antineoplastic Agents",
+                              "All Drugs and Chemicals",
+                              "Antiemetics",
+                              "Neuroprotective Agents",
+                              "Gastrointestinal Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Neck",
+                              "Until",
+                              "1440"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M13272",
+                              "M1833",
+                              "M10901",
+                              "M10902",
+                              "M229437",
+                              "M211896",
+                              "M248768",
+                              "M13273",
+                              "M186752",
+                              "M3369",
+                              "M8199",
+                              "M8941",
+                              "M8940",
+                              "M20119",
+                              "M3403",
+                              "M8033",
+                              "M19926",
+                              "M21022",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Prednisolone",
+                              "Methylprednisolone Acetate",
+                              "Methylprednisolone",
+                              "Methylprednisolone Hemisuccinate",
+                              "Prednisolone acetate",
+                              "Prednisolone hemisuccinate",
+                              "Prednisolone phosphate",
+                              "Prednisone",
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Glucocorticoids",
+                              "Hormones",
+                              "Hormone Antagonists",
+                              "Antineoplastic Agents, Hormonal",
+                              "Antiemetics",
+                              "Gastrointestinal Agents",
+                              "Neuroprotective Agents",
+                              "Protective Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Prochymal\u00ae intravenous infusion.",
+                              "Placebo-matching Prochymal\u00ae intravenous infusion.",
+                              "Administration will be intravenously as prescribed by the caregiver."
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674",
+                              "D000011241",
+                              "D000008775"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l",
+                              "Prednisone",
+                              "Methylprednisolone"
+                        ],
+                        "InterventionName": [
+                              "Prochymal\u00ae",
+                              "Placebo",
+                              "Corticosteroid"
+                        ],
+                        "InterventionOtherName": [
+                              "Remestemcel-L",
+                              "Methylprednisolone",
+                              "Prednisone"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Other",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT00562497"
+                        ]
+                  }
+            ]
+      }
+}

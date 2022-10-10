@@ -1,0 +1,152 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal UMC119-06-05",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Frailty Syndrome",
+                              "Syndrome"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M1175",
+                              "M15507"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Frailty",
+                              "Syndrome"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000013577",
+                              "D000073496"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Syndrome",
+                              "Frailty"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Sequential Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Cohort 1: Low dose of UMC119-06-05 Cohort 1: High dose of UMC119-06-05"
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04914403"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M12078",
+                              "M21321",
+                              "M3628",
+                              "M9773",
+                              "M11249",
+                              "M14197",
+                              "M5475"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee",
+                              "Arthritis",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000010003",
+                              "D000020370"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Sequential Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Cohort 1 : Low does UMC119-06-05 + Hyaluronic acid\uff1b Cohort 2 : High does UMC119-06-05 + Hyaluronic acid"
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04893174"
+                        ]
+                  }
+            ]
+      }
+}

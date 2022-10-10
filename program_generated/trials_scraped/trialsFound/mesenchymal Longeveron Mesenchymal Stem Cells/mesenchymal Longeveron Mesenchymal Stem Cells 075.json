@@ -1,0 +1,548 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Longeveron Mesenchymal Stem Cells",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 8,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 8,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Frailty"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M1175"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Frailty"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000073496"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Frailty"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03169231"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Nervous System Diseases",
+                              "Behaviors and Mental Disorders",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Alzheimer's Disease",
+                              "Alzheimer's Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3037",
+                              "M6056",
+                              "M4356",
+                              "M4894",
+                              "M22155",
+                              "M20711",
+                              "M20989",
+                              "M13625",
+                              "M3967",
+                              "T2192"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Alzheimer Disease",
+                              "Dementia",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Tauopathies",
+                              "Neurodegenerative Diseases",
+                              "Neurocognitive Disorders",
+                              "Psychotic Disorders",
+                              "Mental Disorders",
+                              "Familial Alzheimer Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000000544"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Alzheimer Disease"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02600130"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Hypoplastic Left Heart Syndrome",
+                              "Hypoplastic Left Heart Syndrome"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M15507",
+                              "M19878",
+                              "M8570",
+                              "M12",
+                              "M19656",
+                              "M8571",
+                              "T2957"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Syndrome",
+                              "Hypoplastic Left Heart Syndrome",
+                              "Heart Defects, Congenital",
+                              "Congenital Abnormalities",
+                              "Cardiovascular Abnormalities",
+                              "Heart Diseases",
+                              "Hypoplastic Left Heart Syndrome"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000018636"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Hypoplastic Left Heart Syndrome"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Phase 1: 10 patient safety run-in: all patients treated with LMSCs during Stage II surgery.\n\nPhase 2: 20 patients randomized 1:1 to receive either LMSCs or no cells (controls) during Stage II surgery."
+                        ],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [
+                              "Phase 1: no masking. Phase 2: HLHS patients which will be randomized to the treatment and control arms in a 1:1 ratio"
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03525418"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Frailty"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M1175"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Frailty"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000073496"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Frailty"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02982915"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ConditionBrowseBranchName": [
+                              "Nutritional and Metabolic Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Metabolic Diseases"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10791",
+                              "M15507",
+                              "M22158"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Metabolic Diseases",
+                              "Syndrome",
+                              "Metabolic Syndrome"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008659"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Metabolic Diseases"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02587572"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ConditionBrowseBranchName": [
+                              "Infections",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "COVID-19",
+                              "ARDS, Human"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9447",
+                              "M2562",
+                              "M15507",
+                              "M14117",
+                              "M16674",
+                              "M14116",
+                              "M27297",
+                              "M9435",
+                              "M14130",
+                              "M5520",
+                              "M13056",
+                              "M13066",
+                              "M19643",
+                              "M5707",
+                              "M22838",
+                              "M14301",
+                              "M10320",
+                              "M14129",
+                              "M14109",
+                              "T4927",
+                              "T192",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Influenza, Human",
+                              "COVID-19",
+                              "Syndrome",
+                              "Respiratory Distress Syndrome",
+                              "Virus Diseases",
+                              "Respiratory Distress Syndrome, Newborn",
+                              "Acute Lung Injury",
+                              "Infections",
+                              "Respiratory Tract Infections",
+                              "Communicable Diseases",
+                              "Pneumonia",
+                              "Pneumonia, Viral",
+                              "Coronavirus Infections",
+                              "Coronaviridae Infections",
+                              "Nidovirales Infections",
+                              "RNA Virus Infections",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Respiration Disorders",
+                              "Respiratory Distress Syndrome, Infant",
+                              "Acute Respiratory Distress Syndrome",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000086382",
+                              "D000012128"
+                        ],
+                        "ConditionMeshTerm": [
+                              "COVID-19",
+                              "Respiratory Distress Syndrome"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Double-blinded, randomized, placebo-controlled study with 2 cohorts.\n\nCohort 1: Subjects with ARDS and acutely infected with SARS-CoV-2. Arm 1: 25 subjects treated with up to 3 doses of 100 million LMSCs. Arm 2: 10 subjects treated with up to 3 doses of Placebo.\n\nCohort 2: Subjects with ARDS and acutely infected with influenza virus. Arm 3: 25 subjects treated with up to 3 doses of 100 million LMSCs. Arm 4: 10 subjects treated with up to 3 doses of Placebo.\n\nEach subject will be intravenously infused with 100 million LMSCs or placebo on Day 0. If no treatment-related AEs are seen after the infusion, a second infusion will be given on Day 3. If no treatment-related AEs are seen after the second infusion, a third infusion will be given Day 6.\n\nFollow-up visits will be conducted: daily until hospital discharge; at Week 4 after treatment (with LMSCs or placebo) for patients already discharged; and at Month 6 after treatment (with LMSCs or placebo)."
+                        ],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04629105"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Syndrome",
+                              "Hypoplastic Left Heart Syndrome",
+                              "Hypoplastic Left Heart Syndrome"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M15507",
+                              "M19878",
+                              "M8570",
+                              "M12",
+                              "M19656",
+                              "M8571",
+                              "T2957"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Syndrome",
+                              "Hypoplastic Left Heart Syndrome",
+                              "Heart Defects, Congenital",
+                              "Congenital Abnormalities",
+                              "Cardiovascular Abnormalities",
+                              "Heart Diseases",
+                              "Hypoplastic Left Heart Syndrome"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000018636",
+                              "D000013577"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Hypoplastic Left Heart Syndrome",
+                              "Syndrome"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "20 patients and 10 patients will be controls with a total of 30 HLHS patients."
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [
+                              "HLHS patients which will be randomized to the treatment and control arms in a 1:1 ratio"
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02398604"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Frailty"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M1175"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Frailty"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000073496"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Frailty"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02065245"
+                        ]
+                  }
+            ]
+      }
+}

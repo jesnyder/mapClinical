@@ -1,0 +1,1551 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Multiple Sclerosis",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 38,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 38,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluation the effect of mesenchymal stem cell transplantation on patients quality of life",
+                              "Evaluation the effect of mesenchymal stem cell transplantation on RAO Test.",
+                              "evaluation the side effect of intravenous transplantation of mesenchymal stem cell"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "quality of life",
+                              "RAO Test",
+                              "intravenous cell transplantation"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months",
+                              "6 months",
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Related Info"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://Royaninstitute.org"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01377870"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "EDSS assessed by neurologist.",
+                              "Peripheral blood samples."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "To evaluate effects on MS disease activity measured by change in EDSS (expanded disability status scale).",
+                              "To evaluate effect on peripheral blood immune cell populations."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "48 weeks",
+                              "24 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03778333"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The changes in EDSS score and relapses will be recorded at 3-6 month intervals in patients treated with 1-8 treatments of MSC interthecally and intravenously",
+                              "Changes in the proportion of T-regs (CD4/CD25/FoxP3) and of activated cells (CD69) and the proliferation ability of lymphocytes in patients' peripheral blood at 1 day, 1, 3 and 6 months following the first treatment with MSC (compared to baseline)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Clinical effects in terms of changes in the expended disability status scale (EDSS) at 3-6 month intervals",
+                              "Immunological effects of treatment with MSC in MS"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "One year for the first phase; 4 years for the extension phase",
+                              "1-6 months after the first treatment with MSC"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00781872"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2011-001295-19"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Number of GEL counted over week 28, 36 and 48 compared with the number of GEL counted over 4, 12 and 24 weeks.",
+                              "Combined unique MRI activity (number of new or enlarging T2, or enhancing or re-enhancing lesions), volume of GEL and volume of black holes (BH) over 4, 12, 24 weeks compared between treatment groups.",
+                              "Combined unique MRI activity, volume of GEL and volume of BH over week 28, 36 and 48 compared with the same outcomes over 4, 12 and 24 weeks.",
+                              "Number of relapses in MSC treatment group vs. placebo group in the first 24 weeks and after cross-over re-treatment in the two groups.",
+                              "Time to sustained progression of disability and proportion of progression-free patients compared between treatment groups during the first 24 weeks and after cross-over"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy",
+                              "Efficacy",
+                              "Efficacy",
+                              "Efficacy",
+                              "Efficacy"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "48 weeks from the first infusion",
+                              "24 weeks form the first infusion",
+                              "48 weeks from the first infusion",
+                              "48 weeks from the first infusion",
+                              "48 weeks from the first infusion"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01854957"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "To gather preliminary information of the efficacy of the experimental treatment in terms of combined MRI activity and clinical efficacy (incidence of relapses and disability progression)."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "48 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01730547"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "For every patient tests would be performed at baseline and repeated at 3, 6, and 18 months post-injection"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Assessing the therapeutic benefits of the injected Autologous Mesenchymal Stem Cells by Magnetic Resonance Imaging (MRI) and ophthalmological tests."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "18 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01895439"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "clinical outcomes (number of relapses and change in the EDSS); MRI-based measures and OCT. Immunological evaluation as exploratory analysis"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "To evaluate effects on MS disease activity measured by: clinical variables, MRI, OCT, immunological analysis and quality of life scales"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01228266"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Visual Evoked Potential (VEP)",
+                              "Brainstem Auditory Evoked Potential (BAEP)",
+                              "Somatosensory Evoked Potential(SEP)",
+                              "Brain Magnetic Resonance Imaging \uff08MRI\uff09 Scan"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year after treatment",
+                              "1 year after treatment",
+                              "1 year after treatment",
+                              "1 year after treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01364246"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Number of GEL counted over week 28, 36 and 48 compared with the number of GEL counted over 4, 12 and 24 weeks.",
+                              "Combined unique MRI activity (number of new or enlarging T2, or enhancing or re-enhancing lesions), volume of GEL and volume of black holes (BH) over 4, 12, 24 weeks compared between treatment groups.",
+                              "Combined unique MRI activity, volume of GEL and volume of BH over week 28, 36 and 48 compared with the same outcomes over 4, 12 and 24 weeks.",
+                              "Number of relapses in MSC treatment group vs. placebo group in the first 24 weeks and after cross-over re-treatment in the two groups.",
+                              "Time to sustained progression of disability compared between treatment groups during the first 24 weeks and after cross-over"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy of the experimental treatment in term of combined MRI activity",
+                              "Efficacy assessed by combined unique MRI activity, volume of GEL, and volume of BH",
+                              "Efficacy assessed by combined unique MRI activity, volume of GEL and volume of BH",
+                              "Efficacy: Number of relapses",
+                              "Efficacy: Time to sustained progression of disability"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "48 weeks from the first infusion",
+                              "24 weeks from the first infusion",
+                              "48 weeks from the first infusion",
+                              "24 weeks from the first infusion",
+                              "24 weeks from the first infusion"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02403947"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Number of participants with a change in disability as measured by Expanded Disability Status Scale (EDSS)",
+                              "Number of participants with a change in neurological impairment as measured by Scripps Neurological Rating Scale",
+                              "Number of participants with a change in cognitive function as measured by the \u2022 Paced Auditory Serial Addition Test (PASAT)",
+                              "Number of participants with a change in upper extremity function as measured by the Nine Hole Peg Test",
+                              "Number of participants with a change in mobility and leg function as measured by the 25 foot walking test",
+                              "Number of participants with a change in quality of life as measured by the Short form 36 (SF-36) quality of life questionnaire",
+                              "Number of participants experiencing pulmonary edema as measured by 12-lead electrocardiogram (ECG)",
+                              "Number of participants with a change in brain or spinal cord lesions as measured by gadolinium-enhanced magnetic resonance imaging (MRI)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "1 month, 3 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02034188"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The percentage of CD4/CD25/FoxP3 triple positive stained cells, will be tested in the peripheral blood mononuclear cells obtained from MSC-treated patients using a fluorescent cell sorter (FACS) at 1 day, 1, 3 and 6 months post-MSC treatment and compared to baseline (before treatment) values for each patient. The mean post treatment values will be compared to the respective pre-treatmnent values at each time point.",
+                              "The percentage of CD3+CD69+ cells (activated lymphocytes), will be tested in the peripheral blood mononuclear cells obtained from MSC-treated patients using a fluorescent cell sorter (FACS) at 1 day, 1, 3 and 6 months post-MSC treatment and compared to baseline (before treatment) values for each patient. The mean post treatment values will be compared to the respective pre-treatmnent values at each time point.",
+                              "The percentage of CD11c+/CD86+/Lin- cells (dendritic cells and antigen-presenting macrophages), will be tested in the peripheral blood mononuclear cells obtained from MSC-treated patients using a fluorescent cell sorter (FACS) at 1 day, 1, 3 and 6 months post-MSC treatment and compared to baseline (before treatment) values for each patient. The mean post treatment values will be compared to the respective pre-treatmnent values at each time point.",
+                              "The proliferation ability of mononuclear cells to PHA will be tested in the peripheral blood mononuclear cells obtained from MSC-treated patients using a standard proliferative Thymidine-uptake assay at 1 day, 1, 3 and 6 months post-MSC treatment and compared to baseline (before treatment) values for each patient. The mean post treatment value (proliferation index) will be compared to the respective pre-treatmnent values at each time point."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Changes in the percentage of CD4/CD25/FoxP3 triple positive stained cells (T regulatory cells), following MSC-treatment",
+                              "Changes in the percentage of CD3+CD69+ cells (activated lymphocytes), following MSC-treatment",
+                              "Changes in the percentage of CD11c+/CD86+/Lin- cells (dendritic cells and antigen-presenting macrophages), following MSC-treatment",
+                              "Changes in the proliferation ability of mononuclear cells to PHA, following MSC-treatment"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "up to 6 months",
+                              "up to 6 months",
+                              "up to 6 months",
+                              "up to 6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04823000"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "REC Reference: 07/Q0108/104"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Visual function (acuity and colour)",
+                              "Visual evoked potential latency",
+                              "Optic nerve Magnetisation Transfer Ratio",
+                              "Retinal nerve fibre layer thickness (by optical coherence tomography)",
+                              "Brain lesion Magnetisation Transfer Ratio",
+                              "MRI brain T1 hypointensity load",
+                              "Multiple Sclerosis Functional Composite Score",
+                              "Expanded Kurtzke Disability Status Score"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 and 52 weeks post treatment",
+                              "12 and 52 weeks post treatment",
+                              "12 and 52 weeks post treatment",
+                              "12 and 52 weeks post treatment",
+                              "12 and 52 weeks post treatment",
+                              "12 and 52 weeks post treatment",
+                              "12 and 52 weeks post treatment",
+                              "12 and 52 weeks post treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "University of Cambridge Dept. of Clinical Neurosciences",
+                              "UCL Institute of Neurology",
+                              "Study protocol and baseline characteristics of the cohort"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www-neurosciences.medschl.cam.ac.uk",
+                              "http://www.ion.ucl.ac.uk",
+                              "http://www.trialsjournal.com/content/12/1/62/abstract"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00395200"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2010-024081-21"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "- Availability of a viable product that allows the treatment, checking whether the procedures can be performed as indicated in protocol.",
+                              "- Cumulative number of lesions visualized on T2 sequence (3 and 6 months post-treatment).",
+                              "EDSS score at months 1\nMultiple Sclerosis Functional Composite (MSFC) scale at months 1",
+                              "- Multiple Sclerosis Quality of Life (MSQOL-54)",
+                              "Dosing of G, A and M immunoglobulins, and complement factors C3 and C4\nDetermination of lymphocyte subpopulations using cell surface staining and flow cytometry analysis. T lymphocyte subpopulations (CD4 and CD8), B lymphocytes, NK cells, dendritic and T regulatory cells will be analyzed\nQuantification in serum by \"Cytometricbeadarray\" (CBA) and subsequent flow cytometry: IL-2, 4, 6, interferon (IFN) IFN-\u03b3, interleukin (IL) IL-10, tumor necrosis factor (TNF) TNF-\u03b1 or by ELISA: T-cell growth factor (TGF) TGF-\u03b2 and IL-17.",
+                              "- Optical coherence tomography (OCT)",
+                              "- Cumulative number of lesions visualized on T2 sequence (3 and 6 months post-treatment).",
+                              "EDSS score at months 3\nMSFC scale at months 3",
+                              "EDSS score at month 6 post-treatment\nMSFC scale at month 6 post-treatment\nFrequency of relapses 6 months post-treatment\nProportion of patients free of relapses 6 months post-treatment,\nNumber of relapses requiring corticosteroid treatment 6 months post-treatment\nTime to first relapse from the baseline",
+                              "- MSQOL-54",
+                              "- MSQOL-54",
+                              "Dosing of G, A and M immunoglobulins, and complement factors C3 and C4\nDetermination of lymphocyte subpopulations using cell surface staining and flow cytometry analysis. T lymphocyte subpopulations (CD4 and CD8), B lymphocytes, natural killer (NK) cells, dendritic and T regulatory cells will be analyzed\nQuantification in serum by \"Cytometricbeadarray\" (CBA) and subsequent flow cytometry: IL-2, 4, 6, IFN-\u03b3, IL-10, TNF-\u03b1 or by ELISA: TGF-\u03b2 and IL-17.",
+                              "Dosing of G, A and M immunoglobulins, and complement factors C3 and C4\nDetermination of lymphocyte subpopulations using cell surface staining and flow cytometry analysis. T lymphocyte subpopulations (CD4 and CD8), B lymphocytes, NK cells, dendritic and T regulatory cells will be analyzed\nQuantification in serum by \"Cytometricbeadarray\" (CBA) and subsequent flow cytometry: IL-2, 4, 6, IFN-\u03b3, IL-10, TNF-\u03b1 or by ELISA: TGF-\u03b2 and IL-17.",
+                              "- OCT"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Feasibility",
+                              "Change from baseline in effectiveness by MRI",
+                              "Change in clinical efficacy",
+                              "Change in Quality of life",
+                              "Immunology",
+                              "Axonal effect",
+                              "Change from baseline in effectiveness by MRI",
+                              "Change in clinical efficacy",
+                              "Change in clinical efficacy",
+                              "Change in Quality of life",
+                              "Change in Quality of life",
+                              "Immunology",
+                              "Immunology",
+                              "Axonal effect"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "month 12",
+                              "baseline, month 3",
+                              "baseline, month 1",
+                              "Baseline, month 6 post-treatment",
+                              "baseline, month 6 post-treatment",
+                              "baseline, month 6",
+                              "baseline, month 6",
+                              "baseline, month 3",
+                              "baseline, month 6 post-treatment",
+                              "baseline, month 1",
+                              "baseline, month 3",
+                              "baseline, month 1",
+                              "baseline, month 3",
+                              "baseline, month 12 post-treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02035514"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "To evaluate effects on MS disease activity measured by: clinical variables, imaging variables, immunological and neurophysiologic analysis, neuropsychological and quality of life scales."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Andalusian Molecular Biology and Regenerative Medicine Centre"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.cabimer.es"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01056471"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "13HH0228"
+                        ],
+                        "SecondaryIdDomain": [
+                              "Imperial College"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Other Identifier"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Number of contrast enhancing lesions identified over months 1, 3 and 6 will be compared between treatment groups.",
+                              "The number of contrast enhancing lesions counted over months 7, 9 and 12 (cross-over re-treatment) compared between treatment periods (placebo vs. active treatment) for each patient.",
+                              "The number of new or enlarging T2, or enhancing or re-enhancing lesions.",
+                              "number of relapses in MSC treatment group vs. placebo group in the first 6 months and after cross-over re-treatment in the two groups",
+                              "time to sustained progression of disability and proportion of progression-free patients.",
+                              "The proportion of disease-free patients (i.e. patients without relapses) and progression of MRI activity in the two groups.",
+                              "the changes in the Multiple Sclerosis Functional Composite (MSFC) score in MSC treatment group compared to the placebo group.",
+                              "changes in immune cell frequencies and serum cytokines after MSCs",
+                              "The effect of mesenchymal stem cells on delayed type hypersensitivity (Type 4 hypersensitivity reaction) as measured by the Mantoux test"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "contrast enhancing lesions identified over months 1, 3 and 6 will be compared between treatment groups.",
+                              "Comparison of contrast enhancing lesions between treatment periods",
+                              "Combined unique MRI activity",
+                              "Relapses",
+                              "Progression of disability",
+                              "Disease free patients",
+                              "MSFC score",
+                              "peripheral immune responses",
+                              "Type 4 hypersensitivity reaction"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Months 1, 3 and 6",
+                              "Months 1-12",
+                              "Months 1-12",
+                              "20 months",
+                              "36 months",
+                              "36 months",
+                              "36 months",
+                              "48 weeks",
+                              "48 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01606215"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "SEP, latency (ms) and amplitude (mV)",
+                              "MEP, latency (ms) and amplitude (mV)",
+                              "VEP, latency (ms) and amplitude (mV)",
+                              "T1- and T2-weighted hyperintense lesion volume",
+                              "Brain volumes",
+                              "EDSS",
+                              "Brief International Cognitive Assessment for Multiple Sclerosis (BICAMS), European Quality of Life 5 dimensions (EQ-5D-5L), Multiple Sclerosis Impact Scale (MSIS) and Fatigue severity scale (FSS)",
+                              "Nine-Hole-Peg Test (9-HPT)",
+                              "Timed 25 Foot Walk (T25FW)",
+                              "Visual acuity, visual field, color vision and contrast sensitivity",
+                              "Retinal thickness",
+                              "Adverse events"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Neurophysiological parameters - Somatosensoric evoked potantials",
+                              "Neurophysiological parameters - Motor evoked potentials",
+                              "Neurophysiological parameters - Visual evoked potentials",
+                              "MRI-Lesion volumes",
+                              "MR- Brain volumes",
+                              "Expanded disability status scale",
+                              "Patient reported outcomes (PROs)",
+                              "Nine-Hole-Peg Test (9-HPT)",
+                              "Timed 25 Foot Walk (T25FW)",
+                              "Visual function",
+                              "Optical coherence tomography (OCT)",
+                              "Rate and nature of adverse- and serious adverse events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 and 12 months",
+                              "6 and 12 months",
+                              "6 and 12 months",
+                              "6 and 12 months",
+                              "6 and 12 months",
+                              "6, 12 and 18 months",
+                              "6, 12 and 18 months",
+                              "6, 12 and 18 months",
+                              "6, 12 and 18 months",
+                              "6, 12 and 18 months",
+                              "6, 12 and 18 months",
+                              "6, 12 and 18 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04749667"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "IND 13889"
+                        ],
+                        "SecondaryIdDomain": [
+                              "FDA"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Other Identifier"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "The secondary objective is to observe trends in efficacy over the course of the experimental treatment. Outcome measures include evoked potentials (baseline and 3 months post 3rd dose) ,quality of life questionnaire, EDSS, and MSFC (baseline, at the time of each dose, and 3 and 6 months after third dose), and MRI (baseline, 2 months after first dose, and 3 and 24 months after third dose)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Preliminary evaluation of efficacy"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "9 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Tisch MS Research Center of New York"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://tischms.org"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01933802"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Changes in disability assessed by MSFC at baseline, Month 6, 13, 20, 27 & 36 in each group.",
+                              "Degree of bladder dysfunction assessed by urodynamics testing at baseline, Month 13 and 27 in each group."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Multiple sclerosis functional composite (MSFC)",
+                              "Bladder function"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Month 36 from first treatment or placebo",
+                              "Month 27 from first treatment or placebo"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Related Info"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.ebiomedicine.com/article/S2352-3964(18)30051-3/fulltext"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03355365"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "EDSS is a scale to evaluate the function of the central nervous system. It will be completed for each follow up point"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy: Kurtzke Expanded Disability Status Scale (EDSS)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Four year follow-up"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05003388"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "CFB for EDSS of follow up visits (Visit 6-10)",
+                              "CFB for brain MRI parameters of follow-up visits (Visit 6 -10)",
+                              "Quality of life: CFB for MSQoL-54 questionnaire score of follow-up visits (Visit 6 -10)",
+                              "CFB of T25FW scores of follow-up visits (Visit 6-10)",
+                              "CFB of 9-HPT scores of follow-up visits (Visit 6-10)",
+                              "CFB of PASAT scores of follow-up visits (Visit 6-10)",
+                              "CFB of SDMT scores of follow-up visits (Visit 6-10)",
+                              "CFB of RNFL thickness, measured by OCT of follow-up visits (Visit 6-10)",
+                              "CFB of MSFC of follow-up visits (Visit 6-10)",
+                              "Time to onset of CDW confirmed by EDSS at least 6 months",
+                              "ARR (Annualized relapse rate), where relapse is defined as new or worsening neurological symptoms lasting for >24 hours",
+                              "CFB of follow-up visits (Visit 6 -10) for EDSS",
+                              "CFB of follow up visits (Visit 6-10) for brain MRI parameters",
+                              "Quality of life: CFB of follow up visits (Visit 6-10) for MSQoL-54 questionnaire score",
+                              "CFB of follow up visits (Visit 6-10) for T25FW scores",
+                              "CFB of follow up visits (Visit 6-10) for 9-HPT scores",
+                              "CFB of follow up visits (Visit 6-10) for PASAT scores",
+                              "CFB of follow up visits (Visit 6-10) for SDMT scores",
+                              "CFB of follow up visits (Visit 6-10) for RNFL thickness, measured by OCT",
+                              "CFB of follow up visits (Visit 6-10) for MSFC",
+                              "SAE, SUSAR, and AE incidences over the study period",
+                              "CFB of laboratory data to subsequent visits",
+                              "CFB of physical examination to subsequent visits",
+                              "CFB of vital signs to subsequent visits",
+                              "CFB of AFP, CEA, CA199, SCC, IgA, anti-EBV, \u03b2-HCG, CA125, CA153, and PSA to Visit 6 (Phase I) or Visit 10 (Phase IIa)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy endpoint for phase I portion",
+                              "Efficacy endpoint for phase I portion",
+                              "Efficacy endpoint for phase I portion",
+                              "Efficacy endpoint for phase I portion",
+                              "Efficacy endpoint for phase I portion",
+                              "Efficacy endpoint for phase I portion",
+                              "Efficacy endpoint for phase I portion",
+                              "Efficacy endpoint for phase I portion",
+                              "Efficacy endpoint for phase I portion",
+                              "Efficacy endpoints for phase IIa portion",
+                              "Efficacy endpoints for phase IIa portion",
+                              "Efficacy endpoints for phase IIa portion",
+                              "Efficacy endpoints for phase IIa portion",
+                              "Efficacy endpoints for phase IIa portion",
+                              "Efficacy endpoints for phase IIa portion",
+                              "Efficacy endpoints for phase IIa portion",
+                              "Efficacy endpoints for phase IIa portion",
+                              "Efficacy endpoints for phase IIa portion",
+                              "Efficacy endpoints for phase IIa portion",
+                              "Efficacy endpoints for phase IIa portion",
+                              "The safety endpoints are listed below for both phase I and IIa portions",
+                              "The safety endpoints are listed below for both phase I and IIa portions",
+                              "The safety endpoints are listed below for both phase I and IIa portions",
+                              "The safety endpoints are listed below for both phase I and IIa portions",
+                              "The safety endpoints are listed below for both phase I and IIa portions"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 6-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period",
+                              "from visit 2 to 12-month follow-up period"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05532943"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Multiple Sclerosis Impact Scale (MSIS-29)",
+                              "Multiple Sclerosis Impact Scale (MSIS-29)",
+                              "Modified SF-36 for Cell-Based Therapy Follow Up",
+                              "incidence and nature of adverse events, serious adverse events, or any unanticipated adverse events. The nature, incidence, and rate of adverse events will be assessed",
+                              "incidence and nature of adverse events, serious adverse events, or any unanticipated adverse events. The nature, incidence, and rate of adverse events will be assessed",
+                              "incidence and nature of adverse events, serious adverse events, or any unanticipated adverse events. The nature, incidence, and rate of adverse events will be assessed",
+                              "incidence and nature of adverse events, serious adverse events, or any unanticipated adverse events. The nature, incidence, and rate of adverse events will be assessed",
+                              "incidence and nature of adverse events, serious adverse events, or any unanticipated adverse events. The nature, incidence, and rate of adverse events will be assessed",
+                              "incidence and nature of adverse events, serious adverse events, or any unanticipated adverse events. The nature, incidence, and rate of adverse events will be assessed",
+                              "incidence and nature of adverse events, serious adverse events, or any unanticipated adverse events. The nature, incidence, and rate of adverse events will be assessed",
+                              "incidence and nature of adverse events, serious adverse events, or any unanticipated adverse events. The nature, incidence, and rate of adverse events will be assessed"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "MS Impact Scale - MSIS-29",
+                              "MS Impact Scale - MSIS-29",
+                              "Modified SF-36 Cell-Based Therapy Follow Up",
+                              "Standard Complication Questionnaire",
+                              "Standard Complication Questionnaire",
+                              "Standard Complication Questionnaire",
+                              "Standard Complication Questionnaire",
+                              "Standard Complication Questionnaire",
+                              "Standard Complication Questionnaire",
+                              "Physical Evaluation",
+                              "Physical Evaluation"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months",
+                              "1 year",
+                              "6 months",
+                              "6 months",
+                              "1 year",
+                              "2 years",
+                              "3 years",
+                              "4 years",
+                              "5 years",
+                              "6 months",
+                              "1 Year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02326935"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Outcome measures will be assessed at 3 months pre-treatment, baseline (prior injections), 3 months, 6 months, and 12 months.\n\nInformed consent will be obtained in writing from each subject prior to participation in the study. If the subject is unable to give consent or he/she scores less than 24 on the Mini Mental Status Examination (MMSE), they will be excluded from the study. The research personnel involved in the study will carefully explain the consent form to the subject. The subject will then be given ample opportunity to ask questions prior agreeing to participate. If the need arises the research personnel will be available to answer questions and address any concerns.",
+                              "A number of motor function tests will be performed with every follow up visit for all 30 patients.",
+                              "Clinical Tests ,all patients will be evaluated clinically using qualitative and quantitative tests.",
+                              "Blood samples will be collected pre and post treatment for immediate or ulterior analysis. Results will be compared between individuals and then between the two groups that received one or two doses of UC-MSCs."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Safety and Efficacy Assessment Pre and Post Treatment",
+                              "Motor Functions Assessments",
+                              "Measuring Non-motor outcomes to assess treatment efficacy.",
+                              "Biological Assessments"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "3-12 months",
+                              "3-12 months",
+                              "3-6 months",
+                              "3-12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03326505"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "To evaluate effects on MS disease activity measured by the number of Gd-enhancing brain MRI lesions",
+                              "To evaluate safety and tolerability of autologous MSC transplantation over 6 months"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 month",
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00813969"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Number of gadolinium-enhancing lesions (GEL) counted over week 28, 36, 48 compared with the number of GEL counted over 4, 12, 24 weeks.",
+                              "Combined unique magnetic resonance imaging (MRI) activity (number of new or enlarging T2, or enhancing or re-enhancing lesions), volume of gadolinium-enhancing lesions (GEL) and volume of black holes (BH) over 4, 12, 24 weeks compared between treatment groups.",
+                              "Combined unique magnetic resonance imaging (MRI) activity, volume of gadolinium-enhancing lesions (GEL) and volume of black holes (BH) over week 28, 36, 48 compared with the same outcomes over 4, 12 and 24 weeks.",
+                              "Number of relapses in MSC treatment group vs. placebo group in the first 24 weeks and after cross-over re-treatment in the two groups.",
+                              "Time to sustained progression of disability and proportion of progression-free patients compared between treatment groups during the first 24 weeks and after cross-over."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy",
+                              "Efficacy",
+                              "Efficacy",
+                              "Efficacy",
+                              "Efficacy"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "48 weeks from first infusion",
+                              "24 weeks from first infusion",
+                              "48 weeks from first infusion",
+                              "48 weeks from first infusion",
+                              "48 weeks from first infusion"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02239393"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [
+                              "Related Info"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.ebiomedicine.com/article/S2352-3964(18)30051-3/fulltext"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03822858"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Proportion of patients with a change in either gadolinium enhancing or new T2-weighted lesions on brain MRI",
+                              "Proportion of patients with reduction in T2 lesion volume on brain MRI",
+                              "Proportion of patients with reduction in brain volume on MRI",
+                              "Proportion of patients with clinical improvement in EDSS score compared to baseline",
+                              "Proportion of patients with clinical improvement in MSIS score compared to baseline",
+                              "Proportion of patients with clinical improvement in MSFC score compared to baseline",
+                              "Proportion of patients with a change in mobility and leg function as measured by the 25 foot walking test",
+                              "Proportion of patients with a change in upper extremity function as measured by the Nine Hole Peg Test",
+                              "Proportion of patients with a change in cognitive function as measured by the Paced Auditory Serial Addition Test (PASAT)",
+                              "Proportion of patients with reduced number of relapses or freedom from progression of disease"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "3 months and 6 months",
+                              "3 months, 6 months and 12 months",
+                              "3 months, 6 months and 12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "3 months, 6 months and 12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02587715"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Proportion of patients with a change in either gadolinium enhancing or new T2-weighted lesions on brain MRI",
+                              "Proportion of patients with reduction in T2 lesion volume on brain MRI",
+                              "Proportion of patients with reduction in brain volume on MRI",
+                              "Proportion of patients with clinical improvement in EDSS score compared to baseline",
+                              "Proportion of patients with clinical improvement in MSIS score compared to baseline",
+                              "Proportion of patients with clinical improvement in MSFC score compared to baseline",
+                              "Proportion of patients with a change in mobility and leg function as measured by the 25 foot walking test",
+                              "Proportion of patients with a change in upper extremity function as measured by the Nine Hole Peg Test",
+                              "Proportion of patients with a change in cognitive function as measured by the Paced Auditory Serial Addition Test (PASAT)",
+                              "Proportion of patients with reduced number of relapses or freedom from progression of disease"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "3 months and 6 months",
+                              "3 months, 6 months and 12 months",
+                              "3 months, 6 months and 12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "3 months, 6 months and 12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02418325"
+                        ]
+                  },
+                  {
+                        "Rank": 28,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change from baseline to 6 months visit post each treatment cycle in EDSS following treatment with intravenous or intrathecal MSC infusion, vs. placebo treatment in MS patients at 6 months post treatment. [A decrease in EDSS indicates clinical improvement].",
+                              "Change from baseline to 6 months visit post each treatment cycle in ambulation score following treatment with intravenous or intrathecal MSC infusion, vs. placebo treatment in MS patients at 6 months post treatment. [A decrease in ambulation score indicates clinical improvement].",
+                              "Change from baseline to 6 months visit post each treatment cycle in the sum of all functional scores (from the EDSS scoring) following treatment with intravenous or intrathecal MSC infusion, vs. placebo treatment in MS patients at 6 months post treatment. [A decrease in the sum of functional scores indicates clinical improvement].",
+                              "Change from baseline to final 12-month visit, in EDSS following treatment of a single injection of MSCs vs. repeated MSCs injections treatment. [A decrease in EDSS indicates clinical improvement].\n\n*similar comparison will be performed for the ambulation score and the sum of all functional systems' scores",
+                              "Annualized MS-Relapse rate during the 6 months of each treatment cycle, in the three treatment groups.",
+                              "The annualized rate of change in the total lesions load of the T2-weighted MRI scans during the 6 months of each cycle of treatment versus the rate of change in the run-in period (before the treatment). [An increase in the volume of lesions indicates progression of the disease].",
+                              "The annualized rate of change in total brain volume in MRI scans during the 6 months of each cycle of treatment versus the rate of change in the run-in period (before the treatment). [A decrease in the brain volume indicates progression of the disease].",
+                              "The mean annualized number of gadolinium-enhancing lesions during the 6 months of each treatment cycle, in the three treatment groups. [The appearance of gadolinium-enhancing lesions in MRI indicates activity of the disease].",
+                              "The annualized rate of change in the z-scores of the motor networks in resting functional MRI during the 6 months of each cycle of treatment versus the rate of change in the run-in period (before the treatment). [An increase in the z-score indicates functional improvement].\n\n* similar measurements will apply for the pyramidal and visual networks",
+                              "The mean time to walk 25-feet during the 6 months in each treatment cycle vs the mean time during the run-in pre-treatment period. [A decrease in the value of timed walking indicates clinical improvement].",
+                              "The mean time to perform the 9-hole peg test of hands dexterity during the 6 months in each treatment cycle vs the mean time during the run-in pre-treatment period. [A decrease in the value of timed walking indicates clinical improvement].",
+                              "The score given in this neuropsychological test reflects the assess capacity and rate of information processing and sustained and divided attention. This perform during the 6 months in each treatment cycle vs the mean time during the run-in pre-treatment period. [An increase in z score indicates clinical improvement]",
+                              "The annualized rate of change in the z-scores of the COWAT cognitive test during the 6 months of each cycle of treatment versus the rate of change in the run-in period (before the treatment). [An increase in the z-score indicates functional improvement].\n\n* similar measurements will apply for other cognitive tests (SDMT)",
+                              "Change from baseline to 6 months visit, post each treatment cycle retinal nerve fiber layer (RNFL) thickness in OCT, following treatment with intravenous or intrathecal MSC infusion, vs. placebo treatment in MS patients at 6 months post treatment. [An increase in RNFL thickness indicates clinical improvement].\n\n* similar measurements will apply for Macula thickness",
+                              "Change from baseline to 6 months visit post each treatment cycle in the proportion of the lymphocytes expressing the CD4+CD25+ markers (T-regulatory cells) following treatment with intravenous or intrathecal MSC infusion, vs. placebo treatment at 6 months post treatment. [An increase in the proportion may indicate beneficial effects].\n\n* similar measurements (for evaluation of safety of the treatment) will be performed for additional white blood cell subpopulations"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "EDSS score",
+                              "Ambulation score",
+                              "Functional scores",
+                              "Single injection vs. repeated MSCs injection",
+                              "Relapse rate",
+                              "T2-weighted flair lesions load in MRI",
+                              "Total brain volume in MRI",
+                              "Gadolinium enhancing lesions in MRI",
+                              "Functional MRI",
+                              "25-feet timed walking",
+                              "9-hole peg test",
+                              "Paced Auditory Serial Addition Test (PASAT)",
+                              "Cognitive function: Controlled Oral Word Association Test (COWAT)",
+                              "Optical coherence tomography (OCT)",
+                              "Immunology"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months for each treatment cycle; the two cycles (each of 6 months duration) will be combined together and provide a single measurement for each group",
+                              "6 months for each treatment cycle; the two cycles (each of 6 months duration) will be combined together and provide a single measurement for each group",
+                              "6 months for each treatment cycle; the two cycles (each of 6 months duration) will be combined together and provide a single measurement for each group",
+                              "12 months: ie the total duration of the trial",
+                              "12 months: ie the total duration of the trial",
+                              "6 months for each treatment cycle; the two cycles (each of 6 months duration) will be combined together and provide a single measurement for each group",
+                              "6 months for each treatment cycle; the two cycles (each of 6 months duration) will be combined together and provide a single measurement for each group",
+                              "6 months for each treatment cycle; the two cycles (each of 6 months duration) will be combined together and provide a single measurement for each group",
+                              "6 months for each treatment cycle; the two cycles (each of 6 months duration) will be combined together and provide a single measurement for each group",
+                              "6 months for each treatment cycle; the two cycles (each of 6 months duration) will be combined together and provide a single measurement for each group",
+                              "6 months for each treatment cycle; the two cycles (each of 6 months duration) will be combined together and provide a single measurement for each group",
+                              "6 months for each treatment cycle; the two cycles (each of 6 months duration) will be combined together and provide a single measurement for each group",
+                              "6 months for each treatment cycle; the two cycles (each of 6 months duration) will be combined together and provide a single measurement for each group",
+                              "6 months for each treatment cycle; the two cycles (each of 6 months duration) will be combined together and provide a single measurement for each group",
+                              "6 months for each treatment cycle; the two cycles (each of 6 months duration) will be combined together and provide a single measurement for each group"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02166021"
+                        ]
+                  },
+                  {
+                        "Rank": 29,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The EDSS is a method of quantifying disability in multiple sclerosis and monitoring changes in the level of disability over time. This scale ranges from 0 to 10 in 0.5-unit increments that represent higher levels of disability. Scoring is based on an examination by a neurologist.",
+                              "The Barthel index is an ordinal scale that evaluates functional independence in the domains of personal care and mobility. A total of ten variables describing activities of daily living and mobility are considered, with a higher number reflecting better capacity to operate independently. The Barthel Index assesses the level of help needed by a person on a set of ten activities of daily living (ADL) related to mobility and self-care.",
+                              "The 9-HPT is a short, standardized upper extremity exam. It measures the time taken to complete the test activity, recorded in seconds. The higher the score the worse the disability.",
+                              "The PHQ-9 is the most used depression and suicidal thoughts screening test used to monitor the severity of depression and response to treatment.\n\nDepression Severity: 0-4 none, 5-9 mild, 10-14 moderate, 15-19 moderately severe, 20-27 severe.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including thromboembolic events, peripheral events defined as, thromboembolism of the extremities, also infections and hypersensitivities."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "To evaluate the efficacy of intravenous infusions of HB-adMSCs vs placebo in patients with Multiple Sclerosis as determined by changes in the Expanded Disability Status Scale (EDSS)",
+                              "To evaluate the efficacy of intravenous infusions of HB-adMSCs vs placebo in patients with Multiple Sclerosis as determined by changes in the Barthel Index",
+                              "To determine the efficacy of intravenous infusions of HB-adMSCs vs. Placebo in patients with Multiple Sclerosis as determined by changes in 9-Hole Peg Test",
+                              "To identify the safety of intravenous infusions of HB-adMSCs vs. Placebo in patients with Multiple Sclerosis as determined by changes in Patient Health Questionnaire (PHQ-9)",
+                              "To assess the safety of intravenous infusions of HB-adMSCs vs. Placebo in patients with Multiple Sclerosis as determined by the incidence of adverse events or serious adverse events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline to Week 52",
+                              "Baseline to Week 52",
+                              "Baseline to Week 52",
+                              "Baseline to Week 52",
+                              "Baseline to Week 52"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05116540"
+                        ]
+                  },
+                  {
+                        "Rank": 30,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2010-023368-42"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Secondary variables consist of differences the results obtained in the two groups of patients (treated versus treated at day 0 to day +180) at 12 month follow-up with respect to the following parameters:\n\nDisease activity on magnetic resonance (used one single combined index activity consisting of the presence of new or enlarged T2 or new or recurrence of injury).\nChanges in Expanded Disability Status Scale (EDSS).\nChanges Multiple Sclerosis Functional Composite (MSFC).\nChanges in quality of life scales\nOutbreaks: number and proportion of time off outbreaks.\nDisease-free patients (no sprouts, no progression and no activity in the RM)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Differences the results obtained in the two groups of patients due to determined parameters."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Andalusian Initiative for Advance Therapies",
+                              "Andalusian Molecular Biology and Regenerative Medicine Centre"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.juntadeandalucia.es/terapiasavanzadas/",
+                              "http://www.cabimer.es"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01745783"
+                        ]
+                  },
+                  {
+                        "Rank": 31,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Imaging procedure",
+                              "Medical assessment",
+                              "Quantification of disability",
+                              "Imaging procedure"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Cumulative number of MRI Gd-enhancing lesions",
+                              "Multiple Sclerosis Outbreaks",
+                              "Expanded Disability Status Scale (EDDS) score",
+                              "Cumulative number of lesions visualized on T2 sequence"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Blood and Tissue Bank of Catalonia",
+                              "Multiple Sclerosis center of Catalonia",
+                              "Vall d'Hebron Research Institute"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.bancsang.net",
+                              "http://www.cem-cat.org/",
+                              "http://www.vhir.org"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02495766"
+                        ]
+                  },
+                  {
+                        "Rank": 32,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [
+                              "Imstem Biotechnology"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.imstem.com/"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04956744"
+                        ]
+                  },
+                  {
+                        "Rank": 33,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Efficacy measure",
+                              "Efficacy measure"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Timed 25-foot walking speed or 9-Hole Peg Test - change from baseline.",
+                              "Number of participants with changes in neurotrophic factors (such as Vascular endothelial growth factor and Hepatocyte growth factor) in the cerebrospinal fluid (CSF) following NurOwn\u00ae transplantation"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "28 weeks",
+                              "16 weeks post treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03799718"
+                        ]
+                  },
+                  {
+                        "Rank": 34,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in Quality of life by Multiple Sclerosis Quality of Life (MSQOL-54)",
+                              "Axonal effect by Optical coherence tomography (OCT)",
+                              "Immunology: Dosing of G, A and M immunoglobulins, and complement factors C3 and C4"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months",
+                              "6 months",
+                              "1 month"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03069170"
+                        ]
+                  },
+                  {
+                        "Rank": 35,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Compare annual relapse rate before and one year after MSC infusion",
+                              "Compared lesion load before and one year after MSC infusion",
+                              "Compared RNFL before and one year after MSC infusion",
+                              "Compare cognition questionnaire scale before and one year after MSC infusion",
+                              "Compare anti-aquaporin4-ab before and one year after MSC infusion.",
+                              "Compare immune cell subpopulation before and one year after MSC infusion.",
+                              "Compare cytokine kinetics before and one year after MSC infusion.",
+                              "Compare cerebral volume before and one year after MSC infusion"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Annual relapse rate",
+                              "Lesion load",
+                              "Retinal nerve fiber layer (RNFL)",
+                              "Cognition",
+                              "Immunological assessments",
+                              "Immunological assessments",
+                              "Immunological assessments",
+                              "cerebral volume"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year after infusion",
+                              "1 year after infusion",
+                              "1 year after infusion",
+                              "1 year after infusion",
+                              "1 year after infusion",
+                              "1 year after infusion",
+                              "1 year after infusion",
+                              "1 year after infusion"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02249676"
+                        ]
+                  },
+                  {
+                        "Rank": 36,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Degree of change in the rate of progression (calculation of monthly change in FVC score: 0-100%, higher numbers are better) between the run-in period to 3 months post last MSC-injection"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Effect of repeated intrathecal MSC injections on the progression rate (monthly changes) of respiratory forced vital capacity FVC"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Up to 18 months: starting from inclusion until 3 months after the last MSC-injection."
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04821479"
+                        ]
+                  },
+                  {
+                        "Rank": 37,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Somatosensory Evoked Potentials (SSEPs) are electrical responses recorded from the nervous system following electrical stimulation of a peripheral nerve. For example, stimulation of the median nerve at the wrist produces electrical activity that travels along the sensory pathway on its way to the brain. This activity can be recorded with electrodes positioned along that pathway.",
+                              "Neurogenic Bladder Symptom Score (NBSS) The NBSS was designed as an objective and validated way to assess bladder symptoms in patients with neurogenic bladder dysfunction as a result of spinal cord injury, multiple sclerosis, and spinal bifida. The NBSS consists of 24 questions. The first question classifies patients by bladder management, but does not make up part of the numeric score. The remaining questions address 3 domains: incontinence, storage and voiding, and consequences. The final question is an overall quality of life question. The total score can range from 0 (no symptoms at all) to 74 (maximum symptoms).",
+                              "The Adult Neurogenic Bowel Dysfunction Score\u00b9, also known as the Adult NBD score has been designed to help healthcare professionals evaluate the effectiveness of their patient's current bowel management routine by assessing the impact it has on the patient's quality of life. By having your patients answer 10 simple questions, the Adult NBD Score can help identify and quantify severity of bowel dysfunction in the adult patients. The Adult NBD score consists of 10 questions and is a symptom-score where each symptom is weighted based on its impact on quality of life. The scores from each question are added together and a total score is calculated. The maximum score is 47 while minimum is 0. Score Severity of bowel dysfunction 0-6 Very minor 7-9 Minor 10-13 Moderate 14+ Severe",
+                              "Composition in reference to normal laboratory values.",
+                              "Patients will undergo Magnetic Resonance Imaging of the spine and the spinal cord with and without contrast.",
+                              "The relationship of adverse events to study drug will be graded into the following categories: probable, possible, unlikely, unrelated."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in sensory and motor function following completion of treatment as measured by Somatosensory Evoked Potentials (SSEPs)",
+                              "change in Neurogenic Bladder Symptom Score (NBSS)",
+                              "change in Neurogenic Bowel Symptom Score",
+                              "Incidence of abnormal CSF composition",
+                              "Number of subjects who develop a new pathologic mass at the spinal cord area of injection or anywhere along the spinal cord.",
+                              "Correlation of adverse events to study drug"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "baseline, up to 12 months post injection",
+                              "up to 24 months post injection",
+                              "up to 24 months post injection",
+                              "up to 4 weeks post injection",
+                              "up to 12 months post injection",
+                              "up to 4 weeks post injection"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Mayo Clinic Clinical Trials"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.mayo.edu/research/clinical-trials"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04520373"
+                        ]
+                  },
+                  {
+                        "Rank": 38,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Remission for organ function, VC, DLCO, PAP, serum albumin, serum creatitin, weight loss, 24h proteinuria",
+                              "SSc Serology(ATA,ACA,ANA,anti-ssDNA,anti-dsDNA,IgM,IgG,and IgA,complement C3 and C4",
+                              "Change of peripheral blood B and T cells"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "every three month",
+                              "every three month",
+                              "every three month"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00962923"
+                        ]
+                  }
+            ]
+      }
+}

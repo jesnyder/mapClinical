@@ -1,0 +1,191 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal CardioCell",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 5,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 5,
+            "FieldList": [
+                  "OutcomeClassDenomCountGroupId",
+                  "OutcomeClassDenomCountValue",
+                  "OutcomeClassDenomUnits",
+                  "OutcomeClassTitle",
+                  "OutcomeDenomCountGroupId",
+                  "OutcomeDenomCountValue",
+                  "OutcomeDenomUnits",
+                  "OutcomeGroupDescription",
+                  "OutcomeGroupId",
+                  "OutcomeGroupTitle",
+                  "OutcomeMeasureAnticipatedPostingDate",
+                  "OutcomeMeasureCalculatePct",
+                  "OutcomeMeasureDenomUnitsSelected",
+                  "OutcomeMeasureDescription",
+                  "OutcomeMeasureDispersionType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT03404063"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT03418233"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT03423732"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "OutcomeClassDenomCountGroupId": [
+                              "OG000",
+                              "OG001",
+                              "OG000",
+                              "OG001"
+                        ],
+                        "OutcomeClassDenomCountValue": [
+                              "12",
+                              "12",
+                              "9",
+                              "12"
+                        ],
+                        "OutcomeClassDenomUnits": [
+                              "Participants",
+                              "Participants"
+                        ],
+                        "OutcomeClassTitle": [
+                              "Adverse Events",
+                              "Serious Adverse Events",
+                              "Cell related adverse events",
+                              "All-cause hospitalization",
+                              "All-cause death",
+                              "Baseline (%)",
+                              "90 days (%)"
+                        ],
+                        "OutcomeDenomCountGroupId": [
+                              "OG000",
+                              "OG001",
+                              "OG000",
+                              "OG001"
+                        ],
+                        "OutcomeDenomCountValue": [
+                              "22",
+                              "20",
+                              "12",
+                              "12"
+                        ],
+                        "OutcomeDenomUnits": [
+                              "Participants",
+                              "Participants"
+                        ],
+                        "OutcomeGroupDescription": [
+                              "Participants received itMSC",
+                              "Participants received Placebo",
+                              "Intervention: One time intravenous infusion of 1.5 million (aMBMC) per kg administered at approximately 2mL/min. Maximum dose as for 100kg subject or 150 million cells for any subject 100kg or more.\n\nAllogeneic Mesenchymal Bone Marrow Cells (itMSC): One time infusion Allogeneic Mesenchymal Bone Marrow Cells (itMSC) 1.5 million cells/kg.",
+                              "Intervention: One time intravenous infusion of 1.5mL/kg Lactated Ringer's Solution (LRS) administered at a constant rate of approximately 2mL/min.\n\nLactated Ringer's Solution: One time infusion 1.5mL/kg"
+                        ],
+                        "OutcomeGroupId": [
+                              "OG000",
+                              "OG001",
+                              "OG000",
+                              "OG001"
+                        ],
+                        "OutcomeGroupTitle": [
+                              "Experimental",
+                              "Placebo",
+                              "Experimental: Human (itMSC)",
+                              "Placebo:Lactated Ringer's Solution (LRS)"
+                        ],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [
+                              "As identified in the SAP, the safety analysis was the primary objective and was evaluated by the number of AEs",
+                              "The secondary efficacy endpoint was the change in LVEF from baseline to Day 90 post-initial infusion. Participants with data available at each time point."
+                        ],
+                        "OutcomeMeasureDispersionType": [
+                              "Standard Deviation"
+                        ],
+                        "NCTId": [
+                              "NCT02467387"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT01770613"
+                        ]
+                  }
+            ]
+      }
+}

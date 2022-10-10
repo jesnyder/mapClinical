@@ -1,0 +1,86 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal PN-101",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "To determine the maximum tolerated dose (MTD) based on the safety and tolerability after single-dose administration of PN-101 in patients with refractory polymyositis or dermatomyositis. To explore the efficacy after single-dose administration of PN-101 in patients with refractory polymyositis or dermatomyositis."
+                        ],
+                        "BriefTitle": [
+                              "Allogeneic Mitochondria (PN-101) Transplantation for Refractory Polymyositis or Dermatomyositis"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "April 2023"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Polymyositis",
+                              "Dermatomyositis"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000009220",
+                              "D000009135",
+                              "D000009140",
+                              "D000009468",
+                              "D000009422",
+                              "D000003240",
+                              "D000012871"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Myositis",
+                              "Muscular Diseases",
+                              "Musculoskeletal Diseases",
+                              "Neuromuscular Diseases",
+                              "Nervous System Diseases",
+                              "Connective Tissue Diseases",
+                              "Skin Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC05",
+                              "BC10",
+                              "BC17",
+                              "All",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT04976140"
+                        ]
+                  }
+            ]
+      }
+}

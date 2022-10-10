@@ -1,0 +1,3868 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Liver Cirrhosis",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 55,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 55,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01877759"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Substance Related Disorders",
+                              "Behaviors and Mental Disorders"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Alcoholic Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M18567",
+                              "M25123",
+                              "M10256",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407",
+                              "M10260",
+                              "M21661",
+                              "M20995",
+                              "M20990",
+                              "M29455"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Liver Failure",
+                              "Hepatic Insufficiency",
+                              "Liver Cirrhosis, Alcoholic",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Liver Diseases, Alcoholic",
+                              "Alcohol-Induced Disorders",
+                              "Alcohol-Related Disorders",
+                              "Substance-Related Disorders",
+                              "Chemically-Induced Disorders"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000008104",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Liver Cirrhosis, Alcoholic",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01741090"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05331872"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ConditionBrowseBranchName": [
+                              "Infections",
+                              "Digestive System Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8744",
+                              "M8743",
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Hepatitis A",
+                              "Hepatitis",
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [
+                              "Outcome assessors will be blind to the randomization results of the participants."
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03209986"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01573923"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01499459"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ConditionBrowseBranchName": [
+                              "Infections",
+                              "Digestive System Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Hepatitis B",
+                              "Hepatitis",
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8747",
+                              "M8744",
+                              "M8743",
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407",
+                              "M8762",
+                              "M16674",
+                              "M9435",
+                              "M5520",
+                              "M2595",
+                              "M19640",
+                              "M6594"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Hepatitis B",
+                              "Hepatitis A",
+                              "Hepatitis",
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Hepatitis, Viral, Human",
+                              "Virus Diseases",
+                              "Infections",
+                              "Communicable Diseases",
+                              "Blood-Borne Infections",
+                              "Hepadnaviridae Infections",
+                              "DNA Virus Infections"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006509",
+                              "D000006505",
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Hepatitis B",
+                              "Hepatitis",
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "The study model is considered as a single group assignment since all the participants are being administered with the same treatment."
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04357600"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ConditionBrowseBranchName": [
+                              "Infections",
+                              "Digestive System Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Hepatitis",
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8744",
+                              "M8743",
+                              "M10255",
+                              "M8763",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Hepatitis A",
+                              "Hepatitis",
+                              "Liver Cirrhosis",
+                              "Hepatitis C",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006505",
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Hepatitis",
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02705742"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Patients with decompensated liver cirrhosis are going to be assigned to receive standard medical care plus UC-MSC treatment with two different protocol (group 1 and group 2) or standard medical care (control). Four times of MSC infusion (1.5x10E6 cells/kg body weight) via peripheral vein will be given to the group 1\uff08once every 4 days), and two times of MSC infusion once every 7 days to group 2."
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03529136"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03945487"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01224327"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cirrhosis",
+                              "Primary Biliary Cirrhosis",
+                              "Biliary Atresia",
+                              "Cirrhosis",
+                              "Primary Biliary Cirrhosis",
+                              "Biliary Atresia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M10257",
+                              "M4094",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407",
+                              "M5171",
+                              "M5172",
+                              "M4087",
+                              "M4098",
+                              "M12",
+                              "M6406",
+                              "T4683",
+                              "T757"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Liver Cirrhosis, Biliary",
+                              "Biliary Atresia",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Cholestasis",
+                              "Cholestasis, Intrahepatic",
+                              "Bile Duct Diseases",
+                              "Biliary Tract Diseases",
+                              "Congenital Abnormalities",
+                              "Digestive System Abnormalities",
+                              "Primary Biliary Cholangitis",
+                              "Biliary Atresia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000008105",
+                              "D000001656",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Liver Cirrhosis, Biliary",
+                              "Biliary Atresia",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "A Matched Control Prospective Study"
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04522869"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01342250"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01233102"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05227846"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Substance Related Disorders",
+                              "Behaviors and Mental Disorders"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Alcoholic Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M10256",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407",
+                              "M10260",
+                              "M21661",
+                              "M20995",
+                              "M20990",
+                              "M29455"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Liver Cirrhosis, Alcoholic",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Liver Diseases, Alcoholic",
+                              "Alcohol-Induced Disorders",
+                              "Alcohol-Related Disorders",
+                              "Substance-Related Disorders",
+                              "Chemically-Induced Disorders"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000008104",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Liver Cirrhosis, Alcoholic",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01591200"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Hepatic Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02652351"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00993941"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cirrhosis",
+                              "Primary Biliary Cirrhosis",
+                              "Cirrhosis",
+                              "Primary Biliary Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M10257",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407",
+                              "M5171",
+                              "M5172",
+                              "M4087",
+                              "M4098",
+                              "T4683"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Liver Cirrhosis, Biliary",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Cholestasis",
+                              "Cholestasis, Intrahepatic",
+                              "Bile Duct Diseases",
+                              "Biliary Tract Diseases",
+                              "Primary Biliary Cholangitis"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000008105",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Liver Cirrhosis, Biliary",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01440309"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Liver Disease",
+                              "End Stage Liver Disease",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M10259",
+                              "M28321",
+                              "M7637",
+                              "M8035",
+                              "M6407",
+                              "M18567",
+                              "M25123"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Liver Diseases",
+                              "End Stage Liver Disease",
+                              "Fibrosis",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Liver Failure",
+                              "Hepatic Insufficiency"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000008107",
+                              "D000058625",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Liver Diseases",
+                              "End Stage Liver Disease",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01728727"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00976287"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Behaviors and Mental Disorders"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407",
+                              "T6034"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Quality of Life"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00476060"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cirrhosis",
+                              "Liver Failure",
+                              "End Stage Liver Disease",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M10259",
+                              "M18567",
+                              "M25123",
+                              "M28321",
+                              "M7637",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Liver Diseases",
+                              "Liver Failure",
+                              "Hepatic Insufficiency",
+                              "End Stage Liver Disease",
+                              "Fibrosis",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000017093",
+                              "D000058625",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Liver Failure",
+                              "End Stage Liver Disease",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00420134"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Infections"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cirrhosis",
+                              "Liver Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8035",
+                              "M6407",
+                              "M7637",
+                              "M16674",
+                              "M10255",
+                              "M10259"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Fibrosis",
+                              "Virus Diseases",
+                              "Liver Cirrhosis",
+                              "Liver Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "As the primary objective of the study is to assess safety of MSC infusion, a single arm non-blinded study design has been adopted."
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Other"
+                        ],
+                        "NCTId": [
+                              "NCT05080465"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02943889"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Digestive System Diseases",
+                              "Digestive System Diseases",
+                              "Cirrhosis",
+                              "Liver Cirrhosis",
+                              "Liver Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8035",
+                              "M6407",
+                              "M7637",
+                              "M10255",
+                              "M10259"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Fibrosis",
+                              "Liver Cirrhosis",
+                              "Liver Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000008107",
+                              "D000004066",
+                              "D000005767",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Liver Diseases",
+                              "Digestive System Diseases",
+                              "Gastrointestinal Diseases",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01483248"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Digestive System Diseases",
+                              "Behaviors and Mental Disorders"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ascites",
+                              "Quality of Life"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3661",
+                              "M10255",
+                              "T6034"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ascites",
+                              "Liver Cirrhosis",
+                              "Quality of Life"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001201"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Ascites"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01854125"
+                        ]
+                  },
+                  {
+                        "Rank": 28,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "As the primary objective of the study is to assess safety of MSC infusion, a single arm non-blinded study design has been adopted."
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03626090"
+                        ]
+                  },
+                  {
+                        "Rank": 29,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Randomized, double-blind, placebo-controlled, multicenter study"
+                        ],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05121870"
+                        ]
+                  },
+                  {
+                        "Rank": 30,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Randomized, double-blind, placebo-controlled, multicenter study"
+                        ],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05224960"
+                        ]
+                  },
+                  {
+                        "Rank": 31,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03254758"
+                        ]
+                  },
+                  {
+                        "Rank": 32,
+                        "ConditionBrowseBranchName": [
+                              "Infections",
+                              "Digestive System Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Hepatitis B",
+                              "Hepatitis",
+                              "Hepatitis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8747",
+                              "M8744",
+                              "M8743",
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407",
+                              "M8762",
+                              "M16674",
+                              "M9435",
+                              "M5520",
+                              "M7082",
+                              "M12897",
+                              "M14301",
+                              "M2595",
+                              "M19640",
+                              "M6594"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Hepatitis B",
+                              "Hepatitis A",
+                              "Hepatitis",
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Hepatitis, Viral, Human",
+                              "Virus Diseases",
+                              "Infections",
+                              "Communicable Diseases",
+                              "Enterovirus Infections",
+                              "Picornaviridae Infections",
+                              "RNA Virus Infections",
+                              "Blood-Borne Infections",
+                              "Hepadnaviridae Infections",
+                              "DNA Virus Infections"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006506",
+                              "D000006509",
+                              "D000006505",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Hepatitis A",
+                              "Hepatitis B",
+                              "Hepatitis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03826433"
+                        ]
+                  },
+                  {
+                        "Rank": 33,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Substance Related Disorders",
+                              "Behaviors and Mental Disorders"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Alcoholic Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M10256",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407",
+                              "M10260",
+                              "M21661",
+                              "M20995",
+                              "M20990",
+                              "M29455"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Liver Cirrhosis, Alcoholic",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Liver Diseases, Alcoholic",
+                              "Alcohol-Induced Disorders",
+                              "Alcohol-Related Disorders",
+                              "Substance-Related Disorders",
+                              "Chemically-Induced Disorders"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000008104",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Liver Cirrhosis, Alcoholic",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01875081"
+                        ]
+                  },
+                  {
+                        "Rank": 34,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04243681"
+                        ]
+                  },
+                  {
+                        "Rank": 35,
+                        "ConditionBrowseBranchName": [
+                              "Infections",
+                              "Digestive System Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Hepatitis B",
+                              "Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8747",
+                              "M8744",
+                              "M8743",
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407",
+                              "M9435",
+                              "M5520",
+                              "M2595",
+                              "M19640",
+                              "M16674",
+                              "M6594",
+                              "M8762"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Hepatitis B",
+                              "Hepatitis A",
+                              "Hepatitis",
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Infections",
+                              "Communicable Diseases",
+                              "Blood-Borne Infections",
+                              "Hepadnaviridae Infections",
+                              "Virus Diseases",
+                              "DNA Virus Infections",
+                              "Hepatitis, Viral, Human"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006509",
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Hepatitis B",
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05106972"
+                        ]
+                  },
+                  {
+                        "Rank": 36,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Nervous System Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Nutritional and Metabolic Diseases",
+                              "Neoplasms",
+                              "Skin and Connective Tissue Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Wilson Disease",
+                              "Wilson Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M8764",
+                              "M10259",
+                              "M8035",
+                              "M6407",
+                              "M24756",
+                              "M3926",
+                              "M15510",
+                              "M4356",
+                              "M4894",
+                              "M4357",
+                              "M21651",
+                              "M11181",
+                              "M21245",
+                              "M20711",
+                              "M22839",
+                              "M10793",
+                              "M10796",
+                              "M10791",
+                              "T5933"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Hepatolenticular Degeneration",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Ganglion Cysts",
+                              "Basal Ganglia Diseases",
+                              "Synovial Cyst",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Brain Diseases, Metabolic",
+                              "Brain Diseases, Metabolic, Inborn",
+                              "Movement Disorders",
+                              "Heredodegenerative Disorders, Nervous System",
+                              "Neurodegenerative Diseases",
+                              "Genetic Diseases, Inborn",
+                              "Metabolism, Inborn Errors",
+                              "Metal Metabolism, Inborn Errors",
+                              "Metabolic Diseases",
+                              "Wilson Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006527"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Hepatolenticular Degeneration"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01378182"
+                        ]
+                  },
+                  {
+                        "Rank": 37,
+                        "ConditionBrowseBranchName": [
+                              "Infections",
+                              "Digestive System Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Hepatitis B",
+                              "Hepatitis",
+                              "Hepatitis",
+                              "Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8747",
+                              "M8744",
+                              "M8743",
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407",
+                              "M8762",
+                              "M16674",
+                              "M9435",
+                              "M5520",
+                              "M7082",
+                              "M12897",
+                              "M14301",
+                              "M2595",
+                              "M19640",
+                              "M6594"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Hepatitis B",
+                              "Hepatitis A",
+                              "Hepatitis",
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Hepatitis, Viral, Human",
+                              "Virus Diseases",
+                              "Infections",
+                              "Communicable Diseases",
+                              "Enterovirus Infections",
+                              "Picornaviridae Infections",
+                              "RNA Virus Infections",
+                              "Blood-Borne Infections",
+                              "Hepadnaviridae Infections",
+                              "DNA Virus Infections"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006506",
+                              "D000006509",
+                              "D000006505",
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Hepatitis A",
+                              "Hepatitis B",
+                              "Hepatitis",
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05507762"
+                        ]
+                  },
+                  {
+                        "Rank": 38,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01220492"
+                        ]
+                  },
+                  {
+                        "Rank": 39,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cholangitis",
+                              "Primary Biliary Cholangitis",
+                              "Cirrhosis",
+                              "Primary Biliary Cholangitis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M5154",
+                              "M10257",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407",
+                              "M4087",
+                              "M4098",
+                              "M5171",
+                              "M5172",
+                              "T4683"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Cholangitis",
+                              "Liver Cirrhosis, Biliary",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Bile Duct Diseases",
+                              "Biliary Tract Diseases",
+                              "Cholestasis",
+                              "Cholestasis, Intrahepatic",
+                              "Primary Biliary Cholangitis"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000002761",
+                              "D000008105",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Cholangitis",
+                              "Liver Cirrhosis, Biliary",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [
+                              "Randomization will be blinded to participant, care provider, investigator and outcome assessors."
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03668145"
+                        ]
+                  },
+                  {
+                        "Rank": 40,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Substance Related Disorders",
+                              "Behaviors and Mental Disorders"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cirrhosis",
+                              "Alcoholic Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M10256",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407",
+                              "M10260",
+                              "M21661",
+                              "M20995",
+                              "M20990",
+                              "M29455"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Liver Cirrhosis, Alcoholic",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Liver Diseases, Alcoholic",
+                              "Alcohol-Induced Disorders",
+                              "Alcohol-Related Disorders",
+                              "Substance-Related Disorders",
+                              "Chemically-Induced Disorders"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000008104",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Liver Cirrhosis, Alcoholic",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04689152"
+                        ]
+                  },
+                  {
+                        "Rank": 41,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Liver Disease",
+                              "End Stage Liver Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M10259",
+                              "M28321",
+                              "M7637",
+                              "M8035",
+                              "M6407",
+                              "M18567",
+                              "M25123"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Liver Diseases",
+                              "End Stage Liver Disease",
+                              "Fibrosis",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Liver Failure",
+                              "Hepatic Insufficiency"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008107",
+                              "D000008103",
+                              "D000058625"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Diseases",
+                              "Liver Cirrhosis",
+                              "End Stage Liver Disease"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03460795"
+                        ]
+                  },
+                  {
+                        "Rank": 42,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Substance Related Disorders",
+                              "Behaviors and Mental Disorders"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cirrhosis",
+                              "Alcoholic Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M10256",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407",
+                              "M10260",
+                              "M21661",
+                              "M20995",
+                              "M20990",
+                              "M29455"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Liver Cirrhosis, Alcoholic",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Liver Diseases, Alcoholic",
+                              "Alcohol-Induced Disorders",
+                              "Alcohol-Related Disorders",
+                              "Substance-Related Disorders",
+                              "Chemically-Induced Disorders"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000008104",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Liver Cirrhosis, Alcoholic",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Sequential Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05155657"
+                        ]
+                  },
+                  {
+                        "Rank": 43,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02786017"
+                        ]
+                  },
+                  {
+                        "Rank": 44,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Cohort"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT03472742"
+                        ]
+                  },
+                  {
+                        "Rank": 45,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cirrhosis",
+                              "Primary Biliary Cirrhosis",
+                              "Cirrhosis",
+                              "Primary Biliary Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M10257",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407",
+                              "M5171",
+                              "M5172",
+                              "M4087",
+                              "M4098",
+                              "T4683"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Liver Cirrhosis, Biliary",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Cholestasis",
+                              "Cholestasis, Intrahepatic",
+                              "Bile Duct Diseases",
+                              "Biliary Tract Diseases",
+                              "Primary Biliary Cholangitis"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000008105",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Liver Cirrhosis, Biliary",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01662973"
+                        ]
+                  },
+                  {
+                        "Rank": 46,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Fibrosis",
+                              "Liver Fibrosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M7637",
+                              "M10255",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Fibrosis",
+                              "Liver Cirrhosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01454336"
+                        ]
+                  },
+                  {
+                        "Rank": 47,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Substance Related Disorders",
+                              "Behaviors and Mental Disorders"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Alcoholic Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M10259",
+                              "M10256",
+                              "M7637",
+                              "M8035",
+                              "M6407",
+                              "M10260",
+                              "M21661",
+                              "M20995",
+                              "M20990",
+                              "M29455"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Liver Diseases",
+                              "Liver Cirrhosis, Alcoholic",
+                              "Fibrosis",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Liver Diseases, Alcoholic",
+                              "Alcohol-Induced Disorders",
+                              "Alcohol-Related Disorders",
+                              "Substance-Related Disorders",
+                              "Chemically-Induced Disorders"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000008104",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Liver Cirrhosis, Alcoholic",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "A single-dose injection of autologous bone marrow-derived mesenchymal stem cells (Cellgram\u2122) will be administered to the patient by an experienced interventional radiologist."
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03838250"
+                        ]
+                  },
+                  {
+                        "Rank": 48,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00913289"
+                        ]
+                  },
+                  {
+                        "Rank": 49,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01062750"
+                        ]
+                  },
+                  {
+                        "Rank": 50,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Fibrosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M7637",
+                              "M10255"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Fibrosis",
+                              "Liver Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03460223"
+                        ]
+                  },
+                  {
+                        "Rank": 51,
+                        "ConditionBrowseBranchName": [],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [],
+                        "ConditionBrowseLeafName": [],
+                        "ConditionBrowseLeafRelevance": [],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Sequential Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "We allocate 24 participants into 3 group, low-dose, medium-dose and high-dose group. It is going to proceeded sequential from low-dose group to high-dose group. Next group is allowed to be started only the last group has been finished.\n\nLow-dose group: 100mL human umbilical cord mesenchymal stem cell preparation, containing 2.5\u00d710^7 cells;\nmedium-dose group: 100mL human umbilical cord mesenchymal stem cell preparation, containing 5.0\u00d710^7 cells;\nHigh-dose group: 100mL human umbilical cord mesenchymal stem cell preparation, containing 1.0\u00d710^8 cells"
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05442437"
+                        ]
+                  },
+                  {
+                        "Rank": 52,
+                        "ConditionBrowseBranchName": [],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [],
+                        "ConditionBrowseLeafName": [],
+                        "ConditionBrowseLeafRelevance": [],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02327832"
+                        ]
+                  },
+                  {
+                        "Rank": 53,
+                        "ConditionBrowseBranchName": [
+                              "Infections",
+                              "Digestive System Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8747",
+                              "M20762",
+                              "M8744",
+                              "M8743",
+                              "M10255",
+                              "M8759",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Hepatitis B",
+                              "Hepatitis B, Chronic",
+                              "Hepatitis A",
+                              "Hepatitis",
+                              "Liver Cirrhosis",
+                              "Hepatitis, Chronic",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01223664"
+                        ]
+                  },
+                  {
+                        "Rank": 54,
+                        "ConditionBrowseBranchName": [
+                              "Nutritional and Metabolic Diseases",
+                              "All Conditions",
+                              "Diseases and Abnormalities at or Before Birth"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Hypercholesterolemia",
+                              "Hypercholesterolemia, Familial"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9140",
+                              "M9152",
+                              "M9154",
+                              "M9141",
+                              "M25334",
+                              "M10791",
+                              "M26182",
+                              "M10793",
+                              "M10206",
+                              "M22839"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Hypercholesterolemia",
+                              "Hyperlipidemias",
+                              "Hyperlipoproteinemias",
+                              "Hyperlipoproteinemia Type II",
+                              "Dyslipidemias",
+                              "Metabolic Diseases",
+                              "Lipid Metabolism Disorders",
+                              "Metabolism, Inborn Errors",
+                              "Lipid Metabolism, Inborn Errors",
+                              "Genetic Diseases, Inborn"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006938",
+                              "D000006937"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Hyperlipoproteinemia Type II",
+                              "Hypercholesterolemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00515307"
+                        ]
+                  },
+                  {
+                        "Rank": 55,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Kidney Failure",
+                              "Liver Failure"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9850",
+                              "M25871",
+                              "M10255",
+                              "M10259",
+                              "M18567",
+                              "M25123",
+                              "M18583",
+                              "M16471",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency",
+                              "Liver Cirrhosis",
+                              "Liver Diseases",
+                              "Liver Failure",
+                              "Hepatic Insufficiency",
+                              "Liver Failure, Acute",
+                              "Urologic Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000017093",
+                              "D000051437"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Failure",
+                              "Renal Insufficiency"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01429038"
+                        ]
+                  }
+            ]
+      }
+}

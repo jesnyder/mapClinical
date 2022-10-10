@@ -1,0 +1,1051 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Chronic Kidney Diseases",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 22,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 22,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Dose Arm 1",
+                              "Dose Arm 2"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Two intravenous infusions delivered systemically through a peripheral IV(over 30 minutes to 2 hours) of 100x10^6 cells at day 0 and day 84",
+                              "Single intravenous infusion delivered systemically through a peripheral IV(over 30 minutes to 2 hours) of 200x10^6 cells at day 0"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic adipose-derived mesenchymal stem cells (MSC)",
+                              "Allogeneic adipose-derived mesenchymal stem cells (MSC)"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05362786"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "Dose Arm 2",
+                              "Dose Arm 1"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Single MSC infusion of 150x10^6 cells at time zero; intravenous delivery",
+                              "Two MSC infusions of 75x10^6 cells at time zero and three months; intravenous delivery"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic adipose-derived mesenchymal stem cells (MSC)-Single Infusion",
+                              "Allogeneic adipose-derived mesenchymal stem cells (MSC)-Two Infusions"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04869761"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "Cellgram-CKD"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Allogeneic bone marrow-derived mesenchymal stem cell therapy for the treatment of chronic kidney disease"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Cellgram-CKD"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05042206"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "InterventionArmGroupLabel": [
+                              "Experimental",
+                              "Comparator"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Usage: The stem cell preparation in this study is used intravenously in the elbow.\n\nDose: The dose of stem cell injection in this clinical study is set at 1\u00d710^6/Kg/time per injection, and the injection frequency is 2 weeks/time.\n\nDuration: 2 injections per trial group for the entire duration of the course, with a total dose of 2\u00d710^6/Kg/person.",
+                              "Usage: The saline solution in this study is used intravenously in the elbow.\n\nDose: The dose of saline solution in this clinical study is set at 250ml/time per injection, and the injection frequency is 2 weeks/time.\n\nDuration: 2 injections per person for the entire duration of the course"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "UC-MSC",
+                              "Saline solution"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05512988"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "InterventionArmGroupLabel": [
+                              "Treatment group",
+                              "Control group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Adipose tissue-derived mesenchymal stem cells were used to treat patients with chronic renal failure on the basis of conventional treatment.",
+                              "Conventional treatment were used to treat patients with chronic renal failure."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Treatment group",
+                              "Control group"
+                        ],
+                        "InterventionOtherName": [
+                              "Stem cells treatment group",
+                              "Conventional treatment group"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03321942"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "InterventionArmGroupLabel": [
+                              "mesenchymal stem cell transplantation"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Intravenous injection of mesenchymal stem cell in patients with PKD"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Intravenous injection autologous mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02166489"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "InterventionArmGroupLabel": [
+                              "MSC recipient"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Intravenous injection of bone marrow derived MSC in patients with CKD."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Intravenous injection"
+                        ],
+                        "InterventionOtherName": [
+                              "Intravenous transplantation"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02195323"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "InterventionArmGroupLabel": [
+                              "Treatment Group (AlloRx)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "cultured allogeneic adult umbilical cord derived mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "AlloRx"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05018845"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "InterventionArmGroupLabel": [
+                              "Group 2: Dasatinib & Quercetin",
+                              "Group 2: Dasatinib & Quercetin"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "ANeo",
+                              "All",
+                              "Fl"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Antineoplastic Agents",
+                              "All Drugs and Chemicals",
+                              "Flavonoid"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Inhaled",
+                              "IRI",
+                              "IRI"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M410",
+                              "M13796",
+                              "M24973",
+                              "M3444",
+                              "M21022",
+                              "T41"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Dasatinib",
+                              "Quercetin",
+                              "Protein Kinase Inhibitors",
+                              "Antioxidants",
+                              "Protective Agents",
+                              "Quercetin"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "InterventionDescription": [
+                              "Dasatinib - take one 100 mg tablet by mouth once daily for 3 consecutive days.",
+                              "Quercetin - take four 250 mg capsules daily (total 1000 mg daily) for 3 consecutive days."
+                        ],
+                        "InterventionMeshId": [
+                              "D000069439",
+                              "D000011794"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Dasatinib",
+                              "Quercetin"
+                        ],
+                        "InterventionName": [
+                              "Group 2: Dasatinib",
+                              "Group 2: Quercetin"
+                        ],
+                        "InterventionOtherName": [
+                              "Sprycel"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02848131"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "InterventionArmGroupLabel": [
+                              "Treatment",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Fl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Flavonoid",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Pibrentasvir"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "T28"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Fisetin"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "InterventionDescription": [
+                              "Flavonoid family",
+                              "Placebo"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Fisetin",
+                              "Placebo oral capsule"
+                        ],
+                        "InterventionOtherName": [
+                              "Placebo"
+                        ],
+                        "InterventionType": [
+                              "Dietary Supplement",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03325322"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "InterventionArmGroupLabel": [
+                              "experimental group",
+                              "parallel control of conventional therapy",
+                              "experimental group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All",
+                              "FiAg",
+                              "AnCoag",
+                              "ANeo",
+                              "ARhu",
+                              "AnArAg",
+                              "AnAg",
+                              "ChanBlk",
+                              "VaDiAg",
+                              "Urol"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals",
+                              "Fibrinolytic Agents",
+                              "Anticoagulants",
+                              "Antineoplastic Agents",
+                              "Antirheumatic Agents",
+                              "Anti-Arrhythmia Agents",
+                              "Antihypertensive Agents",
+                              "Channel Blockers",
+                              "Vasodilator Agents",
+                              "Urological Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Two"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M9336",
+                              "M8733",
+                              "M3382",
+                              "M3377",
+                              "M373",
+                              "M8731",
+                              "M45326",
+                              "M19305",
+                              "M10914",
+                              "M1943",
+                              "M18752",
+                              "M301",
+                              "M252819",
+                              "M1346",
+                              "M9353",
+                              "M19757"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Immunoglobulins",
+                              "Heparin, Low-Molecular-Weight",
+                              "Antibodies, Monoclonal",
+                              "Antibodies",
+                              "Rituximab",
+                              "Heparin",
+                              "Calcium heparin",
+                              "Dalteparin",
+                              "Metoprolol",
+                              "Tinzaparin",
+                              "Amlodipine",
+                              "Valsartan",
+                              "Terazosin",
+                              "Antineoplastic Agents, Immunological",
+                              "Immunologic Factors",
+                              "Antirheumatic Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Rituximab is a human-mouse-chimeric monoclonal antibody which was approved in 1997 for the treatment of cancer.",
+                              "Intervention of conventional therapy group: controlling blood pressure using amlodipine, valsartan, metoprolol and terazosin and so on , protecting the renal function using bailing capsule, alpha keto acid, low molecular weight heparin and so on.",
+                              "Mesenchymal stem cells (MSCs), which belongs to mesoderm, is a kind of somatic stem cell with the ability of self-replication and the potential of multi-directional differentiation."
+                        ],
+                        "InterventionMeshId": [
+                              "D000069283"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Rituximab"
+                        ],
+                        "InterventionName": [
+                              "Rituximab",
+                              "conventional therapy",
+                              "Mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "Mabthera",
+                              "RTX",
+                              "Rituxan",
+                              "MSCs"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02966717"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "InterventionArmGroupLabel": [
+                              "Group A"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "5 ml of SVF containing Autologous Non Expanded ADSC will be injected intravenously and outcome will be observed over the period of 1(one) year."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "SVF Containg Autologous Non Expanded ADSC"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03939741"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "InterventionArmGroupLabel": [
+                              "Non-obese patients with impaired renal function",
+                              "Non-obese patients with normal renal function (control group)",
+                              "Obese patients with impaired renal function",
+                              "Obese patients with normal renal function"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "To isolate urine stem cells, a sample of 30ml minimum an 100ml maximum as a function of the patient, will be collected in a single time in a sterile flask during collection for the nephrologic exams. A transcriptome analysis of USC will be performed."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "urine collection"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04998461"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "InterventionArmGroupLabel": [
+                              "Uremic Calciphylaxis Patients"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Intravenous infusion of hAMSCs: once every 3 weeks, a total of 6 times (if cured before the end of the planned course of treatment, it will be terminated in advance).\nInjection of hAMSCs to local skin lesions: once every 3 weeks, a total of 6 times (if cured before the end of the planned course of treatment, it will be terminated in advance)."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Human amniotic mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04592640"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "InterventionArmGroupLabel": [
+                              "1"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M18102"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Tacrolimus"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "transplantation of mesenchymal stem cell"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "mesenchymal stem cell"
+                        ],
+                        "InterventionOtherName": [
+                              "MMF FK506"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00659620"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "InterventionArmGroupLabel": [
+                              "Mesenchymal stem cell delivery",
+                              "Mesenchymal stem cell delivery with stent placement",
+                              "Mesenchymal stem cell delivery with stent placement"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Intra-arterial infusion of the single-dose MSC",
+                              "Intra-arterial stent placement after Mesenchymal stem cell infusion"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal stem cell",
+                              "Mesenchymal stem cell delivery with stent placement"
+                        ],
+                        "InterventionOtherName": [
+                              "Mesenchymal stem cell delivery"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02266394"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "InterventionArmGroupLabel": [
+                              "infusion of autologous mesenchymal stem cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Arterial infusion of autologous mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "MSC"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01840540"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "InterventionArmGroupLabel": [
+                              "UC-MSCs treatment group",
+                              "Placebo control group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "3 times of UC-MSCs (1*10E6 UC-MSCs/kg body weight/100mL saline containing 1% human albumin intravenously at week 1,week 2, week 3).",
+                              "3 times of cell-free stem cell suspension (saline containing 1% human albumin/100mL intravenously at week 1, week 2, week 3)."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "UC-MSCs",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "UC-MSCs treatment group",
+                              "Placebo control group"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04562025"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "InterventionArmGroupLabel": [
+                              "Human umbilical cord mesenchymal stem cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Human umbilical cord mesenchymal stem cells were given to each diabetic nephropathy subject once a month, peripheral intravenous injection, a total of three times"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Human umbilical cord mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04125329"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "InterventionArmGroupLabel": [
+                              "Lower Dose MSC",
+                              "Higher Dose MSC"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Two MSC infusions of 2.5x10^5 cells/kg at time zero and three months; single kidney, intra-arterial delivery",
+                              "Two MSC infusions of 5.0x10^5 cells/kg at time zero and three months; single kidney, intra-arterial delivery"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous adipose-derived mesenchymal stem/stromal cells (MSC) Lower Dose",
+                              "Autologous adipose-derived mesenchymal stem/stromal cells (MSC) Higher Dose"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03840343"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "InterventionArmGroupLabel": [
+                              "(Quercetin +Fisetin)",
+                              "Quercetin +Fisetin +Glycyrrhizin)",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All",
+                              "Infl",
+                              "Fl",
+                              "HB"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals",
+                              "Anti-Inflammatory Agents",
+                              "Flavonoid",
+                              "Herbal and Botanical"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "IRI",
+                              "Restylane Perlane",
+                              "IRI",
+                              "Pibrentasvir"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M13796",
+                              "M20763",
+                              "M3444",
+                              "M21022",
+                              "M3369",
+                              "T41",
+                              "T28",
+                              "T208"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Quercetin",
+                              "Glycyrrhizic Acid",
+                              "Antioxidants",
+                              "Protective Agents",
+                              "Anti-Inflammatory Agents",
+                              "Quercetin",
+                              "Fisetin",
+                              "Licorice"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Quercetin and Fisetin areNatural senolytic agents .",
+                              "Quercetin and Fisetin are Natural senolytic agents, Glycyrrhizin is Licorice extract",
+                              "These are capsules without active ingredients for control group"
+                        ],
+                        "InterventionMeshId": [
+                              "D000019695",
+                              "D000011794"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Glycyrrhizic Acid",
+                              "Quercetin"
+                        ],
+                        "InterventionName": [
+                              "Quercetin Cap/Tab ,Fisetin Cap/Tab",
+                              "Quercetin Cap/Tab,Fisetin Cap/tab,Glycyrrhizin capsules",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05276895"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "InterventionArmGroupLabel": [
+                              "Adipose Derived Mesenchymal Stem Cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "The dose will be specifically tailored to each subject's vascular anatomy determined by the surgeon through ultrasound measurements. Approximately 3-5 million cells in 5ml Ringer Lactate (RL) Solution"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Adipose Derived Mesenchymal Stem Cells"
+                        ],
+                        "InterventionOtherName": [
+                              "AMSC"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04392206"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,86 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal PrimeMSK",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Ernst R Von Schwarz, MD, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "July 9, 2030"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "General Health Outcome Instrument used to derive a simple psychometric score for health related quality of life which provides scores on various dimensions or items describing the systems. The score is derived by adding the unweighted response order of each question, with a lower score denoting a better quality of life.",
+                              "Upper Extremity Outcome Instrument",
+                              "Erectile Function Questionnaire. Scoring exists from 0 to 25. The lower the score, the more severe the Erectile Dysfunction.",
+                              "COPD Outcome Instrument. Items are scored on a Likert scale (range 0-60). Higher scores indicate a worse health status.",
+                              "Memory Outcome Instrument. The maximum MMSE score is 30 points. The lower the score, the more severe the dementia.",
+                              "Voiding and Pain Indices. Possible score of 0-20 with higher scores denoting better function.",
+                              "Low Back Pain Outcome Instrument. Possible score of 0-100 with lower scores denoting better function.",
+                              "Arthritis Outcome Instrument. Individual question scores are then summed to form a raw score ranging from 0 (worst) to 96 (best)"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Assessment of quality of life (QOL) via 36-Item Short Form Survey (SF-36) change from baseline at 6 and 12 months.",
+                              "Assessment of disabilities of arm, shoulder, hand via DASH Questionnaire change from baseline at 6 and 12 months.",
+                              "Assessment of erectile function via International Index of Erectile Function (IIEF-5) change from baseline at 6 and 12 months.",
+                              "Assessment of COPD via Clinical Chronic Obstructive Pulmonary Disease Questionnaire change from baseline at 6 and 12 months.",
+                              "Assessment of mental state via Mini Mental State Examination (MMSE) change from baseline at 6 and 12 months.",
+                              "Assessment of interstitial cystitis via O'Leary/Sant Questionnaire change from baseline at 6 and 12 months.",
+                              "Assessment of back pain via Oswestry Low Back Pain Disability Questionnaire change from baseline at 6 and 12 months.",
+                              "Assessment of osteoarthritis via Western Ontario and McMaster Osteoarthritis Index (WOMAC) change from baseline at 6 and 12 months."
+                        ],
+                        "NCTId": [
+                              "NCT04684602"
+                        ]
+                  }
+            ]
+      }
+}

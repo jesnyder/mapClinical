@@ -1,0 +1,87 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal PrimeMSK",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "IsPPSD",
+                  "IsUSExport",
+                  "IsUnapprovedDevice",
+                  "Keyword",
+                  "LargeDocDate",
+                  "LargeDocFilename",
+                  "LargeDocHasICF",
+                  "LargeDocHasProtocol",
+                  "LargeDocHasSAP",
+                  "LargeDocLabel",
+                  "LargeDocTypeAbbrev",
+                  "LargeDocUploadDate",
+                  "LastKnownStatus",
+                  "LastUpdatePostDate",
+                  "LastUpdatePostDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "IsPPSD": [],
+                        "IsUSExport": [
+                              "Yes"
+                        ],
+                        "IsUnapprovedDevice": [],
+                        "Keyword": [
+                              "stem cell therapy",
+                              "umbilical cord stem cells",
+                              "amniotic stem cells",
+                              "stem cells",
+                              "MSC",
+                              "Mesenchymal Stem Cell",
+                              "Medicinal Signaling Cell",
+                              "Erectile Dysfunction",
+                              "Heart Diseases",
+                              "Mental Disorders",
+                              "Neurocognitive Disorders",
+                              "Neurodegenerative Diseases",
+                              "Central Nervous System Diseases",
+                              "Tauopathies",
+                              "Brain Diseases",
+                              "Dementia",
+                              "Disease",
+                              "Cardiomyopathies",
+                              "Urologic Diseases",
+                              "Peripheral Nervous System Diseases",
+                              "Nervous System Diseases",
+                              "Alzheimer Disease",
+                              "Musculoskeletal Diseases",
+                              "Cardiovascular Diseases",
+                              "Immune System Diseases",
+                              "Neuromuscular Diseases",
+                              "Covid-19"
+                        ],
+                        "LargeDocDate": [],
+                        "LargeDocFilename": [],
+                        "LargeDocHasICF": [],
+                        "LargeDocHasProtocol": [],
+                        "LargeDocHasSAP": [],
+                        "LargeDocLabel": [],
+                        "LargeDocTypeAbbrev": [],
+                        "LargeDocUploadDate": [],
+                        "LastKnownStatus": [],
+                        "LastUpdatePostDate": [
+                              "April 29, 2022"
+                        ],
+                        "LastUpdatePostDateType": [
+                              "Actual"
+                        ],
+                        "NCTId": [
+                              "NCT04684602"
+                        ]
+                  }
+            ]
+      }
+}

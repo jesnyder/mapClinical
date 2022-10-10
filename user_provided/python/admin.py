@@ -1,5 +1,6 @@
 import csv
 import codecs
+import datetime
 import json
 import math
 import matplotlib
@@ -13,6 +14,7 @@ import pandas as pd
 import plotly
 from plotly.tools import FigureFactory as ff
 import shutil
+import time
 
 
 
@@ -301,6 +303,32 @@ def save_json(file_json, path):
         with open(dst_json, "w") as f:
             json.dump(file_json, f, indent = 6)
         f.close()
+
+
+def save_value(name, value):
+    """
+    save a value with a timestamp
+    """
+
+    df_temp = pd.DataFrame()
+    df_temp['name'] = [name]
+    df_temp['value'] = [value]
+    df_temp['saved'] = [datetime.datetime.today()]
+
+    try:
+        df = retrieve_df('saved_values')
+
+    except:
+        df = pd.DataFrame()
+        df['name'] = []
+        df['value'] = []
+        df['saved'] = []
+
+    df = df[df['name'] != name]
+    df = df.append(df_temp)
+    df = df.sort_values(by = 'name', ascending='true')
+    df = reset_df(df)
+    df.to_csv(retrieve_path('saved_values'))
 
 
 

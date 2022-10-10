@@ -1,0 +1,110 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal it-hMSC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The improvement of neurological function was evaluated by neurological",
+                              "The improvement of neurological function was evaluated by neurological",
+                              "The improvement of neurological function was evaluated by neurological",
+                              "The improvement of neurological function was evaluated by neurological",
+                              "The improvement of neurological function was evaluated by neurological"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change of NIHSS scores",
+                              "Change of BI scores",
+                              "Change of mRS scores",
+                              "Change of MMSE scores",
+                              "Change of GDS scores"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1\u30013\u30016\u30019\u300112 months after treatment",
+                              "1\u30013\u30016\u30019\u300112 months after treatment",
+                              "1\u30013\u30016\u30019\u300112 months after treatment",
+                              "1\u30013\u30016\u30019\u300112 months after treatment",
+                              "1\u30013\u30016\u30019\u300112 months after treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04953663"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The change from the baseline in Modified Rankin Scale will be calculated at month 1, month 3, month 6, month 9, month 12 post-treatment, as available.\n\nThe scale is divided into 7 degrees, from 0 (no deficit) to 6 (dead).",
+                              "The change from the baseline in National Institute of Health stroke scale will be calculated at month 1, month 3, month 6, month 9, month 12 post-treatment, as available.\n\nThe range of scores is from 0 (normal) to 42.",
+                              "The change from the baseline in Mini-mental State Examination will be calculated at month 1, month 3, month 6, month 9, month 12 post-treatment, as available.\n\nThe range of scores is from 0 to 30 (normal).",
+                              "The change from the baseline in Barthel Index will be calculated at month 1, month 3, month 6, month 9, month 12 post-treatment, as available.\n\nThe range of scores is from 0 to 100 (normal).",
+                              "The change from the baseline in Geriatric Depression Scale will be calculated at month 1, month 3, month 6, month 9, month 12 post-treatment, as available.\n\nThe range of scores is from 0 (normal) to 10."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Modified Rankin Scale",
+                              "National Institute of Health stroke scale",
+                              "Mini-mental State Examination",
+                              "Barthel Index",
+                              "Geriatric Depression Scale"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "month 1, month 3, month 6, month 9, month 12",
+                              "month 1, month 3, month 6, month 9, month 12",
+                              "month 1, month 3, month 6, month 9, month 12",
+                              "month 1, month 3, month 6, month 9, month 12",
+                              "month 1, month 3, month 6, month 9, month 12"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04590118"
+                        ]
+                  }
+            ]
+      }
+}

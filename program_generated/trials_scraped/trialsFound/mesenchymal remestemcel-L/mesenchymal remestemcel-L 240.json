@@ -1,0 +1,545 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal remestemcel-L",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 20,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 20,
+            "FieldList": [
+                  "OutcomeClassDenomCountGroupId",
+                  "OutcomeClassDenomCountValue",
+                  "OutcomeClassDenomUnits",
+                  "OutcomeClassTitle",
+                  "OutcomeDenomCountGroupId",
+                  "OutcomeDenomCountValue",
+                  "OutcomeDenomUnits",
+                  "OutcomeGroupDescription",
+                  "OutcomeGroupId",
+                  "OutcomeGroupTitle",
+                  "OutcomeMeasureAnticipatedPostingDate",
+                  "OutcomeMeasureCalculatePct",
+                  "OutcomeMeasureDenomUnitsSelected",
+                  "OutcomeMeasureDescription",
+                  "OutcomeMeasureDispersionType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT00294112"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT04543994"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT04548583"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT00136903"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "OutcomeClassDenomCountGroupId": [
+                              "OG000",
+                              "OG000",
+                              "OG000",
+                              "OG000",
+                              "OG000",
+                              "OG000",
+                              "OG000",
+                              "OG000",
+                              "OG000"
+                        ],
+                        "OutcomeClassDenomCountValue": [
+                              "38",
+                              "17",
+                              "0",
+                              "6",
+                              "23",
+                              "26",
+                              "14",
+                              "21",
+                              "20"
+                        ],
+                        "OutcomeClassDenomUnits": [
+                              "Participants",
+                              "Participants",
+                              "Participants",
+                              "Participants",
+                              "Participants",
+                              "Participants",
+                              "Participants",
+                              "Participants",
+                              "Participants"
+                        ],
+                        "OutcomeClassTitle": [
+                              "Responders",
+                              "Non- Responders",
+                              "Grade A",
+                              "Grade B",
+                              "Grade C",
+                              "Grade D",
+                              "Skin Only",
+                              "Lower GI Only",
+                              "Multi-organ (Any Combination)",
+                              "Day 56",
+                              "Day 100"
+                        ],
+                        "OutcomeDenomCountGroupId": [
+                              "OG000",
+                              "OG000",
+                              "OG000",
+                              "OG000",
+                              "OG000",
+                              "OG000"
+                        ],
+                        "OutcomeDenomCountValue": [
+                              "55",
+                              "55",
+                              "55",
+                              "55",
+                              "55",
+                              "55"
+                        ],
+                        "OutcomeDenomUnits": [
+                              "Participants",
+                              "Participants",
+                              "Participants",
+                              "Participants",
+                              "Participants",
+                              "Participants"
+                        ],
+                        "OutcomeGroupDescription": [
+                              "Participants were treated with IV remestemcel-L at a dose of 2\u00d710^6 MSCs/kg actual body weight at Screening, twice per week, for each of 4 consecutive weeks (initial therapy) given at least 3 days apart and no more than 5 days apart for any infusion. Eligible participants received an additional once per week infusion, for each of 4 consecutive weeks (continued therapy) of remestemcel-L and twice per week infusions, for each of 4 consecutive weeks (aGVHD flare therapy) of remestemcel-L at the same initial therapy dose of 2\u00d710^6 MSCs/kg actual body weight at Screening.",
+                              "Participants were treated with IV remestemcel-L at a dose of 2\u00d710^6 MSCs/kg actual body weight at Screening, twice per week, for each of 4 consecutive weeks (initial therapy) given at least 3 days apart and no more than 5 days apart for any infusion. Eligible participants received an additional once per week infusion, for each of 4 consecutive weeks (continued therapy) of remestemcel-L and twice per week infusions, for each of 4 consecutive weeks (aGVHD flare therapy) of remestemcel-L at the same initial therapy dose of 2\u00d710^6 MSCs/kg actual body weight at Screening.",
+                              "Participants were treated with IV remestemcel-L at a dose of 2\u00d710^6 MSCs/kg actual body weight at Screening, twice per week, for each of 4 consecutive weeks (initial therapy) given at least 3 days apart and no more than 5 days apart for any infusion. Eligible participants received an additional once per week infusion, for each of 4 consecutive weeks (continued therapy) of remestemcel-L and twice per week infusions, for each of 4 consecutive weeks (aGVHD flare therapy) of remestemcel-L at the same initial therapy dose of 2\u00d710^6 MSCs/kg actual body weight at Screening.",
+                              "Participants were treated with IV remestemcel-L at a dose of 2\u00d710^6 MSCs/kg actual body weight at Screening, twice per week, for each of 4 consecutive weeks (initial therapy) given at least 3 days apart and no more than 5 days apart for any infusion. Eligible participants received an additional once per week infusion, for each of 4 consecutive weeks (continued therapy) of remestemcel-L and twice per week infusions, for each of 4 consecutive weeks (aGVHD flare therapy) of remestemcel-L at the same initial therapy dose of 2\u00d710^6 MSCs/kg actual body weight at Screening.",
+                              "Participants were treated with IV remestemcel-L at a dose of 2\u00d710^6 MSCs/kg actual body weight at Screening, twice per week, for each of 4 consecutive weeks (initial therapy) given at least 3 days apart and no more than 5 days apart for any infusion. Eligible participants received an additional once per week infusion, for each of 4 consecutive weeks (continued therapy) of remestemcel-L and twice per week infusions, for each of 4 consecutive weeks (aGVHD flare therapy) of remestemcel-L at the same initial therapy dose of 2\u00d710^6 MSCs/kg actual body weight at Screening.",
+                              "Participants were treated with IV remestemcel-L at a dose of 2\u00d710^6 MSCs/kg actual body weight at Screening, twice per week, for each of 4 consecutive weeks (initial therapy) given at least 3 days apart and no more than 5 days apart for any infusion. Eligible participants received an additional once per week infusion, for each of 4 consecutive weeks (continued therapy) of remestemcel-L and twice per week infusions, for each of 4 consecutive weeks (aGVHD flare therapy) of remestemcel-L at the same initial therapy dose of 2\u00d710^6 MSCs/kg actual body weight at Screening."
+                        ],
+                        "OutcomeGroupId": [
+                              "OG000",
+                              "OG000",
+                              "OG000",
+                              "OG000",
+                              "OG000",
+                              "OG000"
+                        ],
+                        "OutcomeGroupTitle": [
+                              "Remestemcel-L 2\u00d710^6 MSCs/kg",
+                              "Remestemcel-L 2\u00d710^6 MSCs/kg",
+                              "Remestemcel-L 2\u00d710^6 MSCs/kg",
+                              "Remestemcel-L 2\u00d710^6 MSCs/kg",
+                              "Remestemcel-L 2\u00d710^6 MSCs/kg",
+                              "Remestemcel-L 2\u00d710^6 MSCs/kg"
+                        ],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [
+                              "ORR was defined as the percentage of participants who had achieved overall response. Overall response was defined as complete response (CR) plus partial response (PR) as per aGVHD response criteria. CR was defined as resolution of aGVHD in all involved organs. PR was defined as organ improvement of at least 1 stage without worsening of any other organ.",
+                              "Overall survival rate was defined as percentage of participants who survived. OS was defined as the time to death from the start of drug therapy.",
+                              "Overall survival rate was defined as percentage of participants who survived. OS was defined as the time to death from the start of drug therapy.",
+                              "OS rate was defined as percentage of participants who survived. OS was defined as the time to death from the start of drug therapy. Maximum severity of acute GVHD was assessed by using International Bone Marrow Transplant Registry (IBMTR) index. The severity index was defined as: Grade A (skin Stage 1: extent of rash <25%); Grade B (skin Stage 2: extent of rash 25 to 50% or liver Stage 1 to 2: total bilirubin 34 to 102 micromoles per liter [mcmol/L] or intestinal tract Stage 1 to 2: volume of diarrhea 550 to 1500 milliliters per day [mL/day]); Grade C (skin Stage 3: extent of rash > 50% or liver Stage 3: total bilirubin 103 to 255 mcmol/L or intestinal tract Stage 3: volume of diarrhea >1500 mL/day); Grade D (skin Stage 4: extent of rash bullae or liver Stage 4: total bilirubin >255 or intestinal tract Stage 4: volume of diarrhea severe pain and ileus).",
+                              "OS rate was defined as percentage of participants who survived. OS was defined as the time to death from the start of drug therapy. The data was summarized for organ involvement: skin only, lower GI only, and multi-organ.",
+                              "OR rate was defined as the percentage of participants who had achieved overall response. Overall response was defined as CR plus PR as per aGVHD response criteria. CR was defined as resolution of aGVHD in all involved organs. PR was defined as organ improvement of at least 1 stage without worsening of any other organ."
+                        ],
+                        "OutcomeMeasureDispersionType": [
+                              "95% Confidence Interval"
+                        ],
+                        "NCTId": [
+                              "NCT02336230"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT04366830"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT00690066"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT00366145"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT00284986"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT04371393"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT00683722"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT00877903"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT00482092"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT00543374"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT04456439"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT00826046"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT00759018"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT01233960"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT01510431"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [],
+                        "OutcomeDenomCountValue": [],
+                        "OutcomeDenomUnits": [],
+                        "OutcomeGroupDescription": [],
+                        "OutcomeGroupId": [],
+                        "OutcomeGroupTitle": [],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [],
+                        "OutcomeMeasureDispersionType": [],
+                        "NCTId": [
+                              "NCT00562497"
+                        ]
+                  }
+            ]
+      }
+}

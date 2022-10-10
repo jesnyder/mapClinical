@@ -1,0 +1,80 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Cellgram-LC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "For the survival rate, the survival rate and 95% confidence interval at each time point are presented using the Kaplan-Meier method, and the difference in survival rate between the two groups is tested using the Z statistic.",
+                              "In order to compare the difference between groups in the amount of change in each evaluation variable at the time of visit after cell administration/best supportive therapy compared to the baseline value, covariance analysis (ANCOVA) is performed by setting the baseline time point and stratification factor as a correction variable for each evaluation variable.\n\nCP score was calculated using five factors: hepatic encephalopathy, prothrombin time, bilirubin, serum albumin, and ascites, and the score range was 5-15 points.\n\nIn the Child-Pugh grade, scores of the five factors are summed and evaluated as A if it is less than 7 points, B if it is 7-9, and C if it exceeds 9 points.",
+                              "In order to compare the difference between groups in the amount of change in each evaluation variable at the time of visit after cell administration/best supportive therapy compared to the baseline value, covariance analysis (ANCOVA) is performed by setting the baseline time point and stratification factor as a correction variable for each evaluation variable.\n\nThe higher the score, the higher the mortality rate.",
+                              "In order to compare the difference between groups in the amount of change in each evaluation variable at the time of visit after cell administration/best supportive therapy compared to the baseline value, covariance analysis (ANCOVA) is performed by setting the baseline time point and stratification factor as a correction variable for each evaluation variable.",
+                              "In order to compare the difference between groups in the amount of change in each evaluation variable at the time of visit after cell administration/best supportive therapy compared to the baseline value, covariance analysis (ANCOVA) is performed by setting the baseline time point and stratification factor as a correction variable for each evaluation variable.",
+                              "In order to compare the difference between groups in the amount of change in each evaluation variable at the time of visit after cell administration/best supportive therapy compared to the baseline value, covariance analysis (ANCOVA) is performed by setting the baseline time point and stratification factor as a correction variable for each evaluation variable.",
+                              "In order to compare the difference between groups in the amount of change in each evaluation variable at the time of visit after cell administration/best supportive therapy compared to the baseline value, covariance analysis (ANCOVA) is performed by setting the baseline time point and stratification factor as a correction variable for each evaluation variable.\n\nThe higher the score, the higher the quality of life.",
+                              "In order to compare the difference between groups in the amount of change in each evaluation variable at the time of visit after cell administration/best supportive therapy compared to the baseline value, covariance analysis (ANCOVA) is performed by setting the baseline time point and stratification factor as a correction variable for each evaluation variable.\n\nThe higher the score, the higher the quality of life."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Survival rate",
+                              "Change amount of Child-Pugh score",
+                              "Change amount of MELD score",
+                              "Change amount of Liver function test",
+                              "Change amount of Fibrosis-4",
+                              "Change amount of FibroScan\u24c7",
+                              "Change amount of EQ-5D",
+                              "Change amount of EQ-VAS"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "month 24 and 36",
+                              "week -6 and 0",
+                              "week -6 and 0",
+                              "month 0, 1, 3, 6, 9, 12, 18 and 24",
+                              "month 0, 6, 12, 18 and 24",
+                              "week -6 and 0",
+                              "month -1, 6, 12, 18 and 24",
+                              "month -1, 6, 12, 18 and 24"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04689152"
+                        ]
+                  }
+            ]
+      }
+}

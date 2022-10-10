@@ -17,7 +17,7 @@ from admin import retrieve_df
 from admin import retrieve_json
 from admin import retrieve_path
 from admin import save_json
-
+from admin import save_value
 
 def query_openmaps():
     """
@@ -56,6 +56,9 @@ def query_openmaps():
         df_temp['lon'] = lons
         df_temp.to_csv(retrieve_path('geolocated'))
 
+        save_value('location geolocated count', len(list(df_temp['location'])))
+
+
         if lat == 0: report_missing(loc)
 
         responses.append(response)
@@ -83,6 +86,8 @@ def report_missing(loc):
         df['location'] = loc
         df = reset_df(df.sort_values(by='location'))
         df.to_csv(retrieve_path('location_missing'))
+
+    save_value('location missing count', len(list(df['location'])))
 
 
 def lookup_openmaps(loc):

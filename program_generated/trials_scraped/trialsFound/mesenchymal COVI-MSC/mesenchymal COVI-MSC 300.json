@@ -1,0 +1,260 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal COVI-MSC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 6,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 6,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change in 6MWD at Day 30",
+                              "Change in PFTs at Days 30 and 60, as assessed using Forced Vital Capacity, Forced Expiratory Volume, Total Lung Capacity, and diffusing capacity for carbon monoxide (DLCO)",
+                              "Change in oxygenation at Days 30 and 60, as measured using SpO2/FiO2 ratio",
+                              "Change in biomarker levels: plasma lipocalcin-2, matrix metalloproteinase-7, hepatocyte growth factor"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in 6MWD at Day 30",
+                              "Change in Pulmonary Function Tests (PFTs)",
+                              "Change in oxygenation",
+                              "Change in biomarker levels"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline to Day 30",
+                              "Baseline to Day 30 and Day 60",
+                              "Baseline to Day 30 and Day 60",
+                              "Baseline through Day 30"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04909892"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "All-cause mortality rate at Day 60 and 90",
+                              "Number of ventilator-free days through Day 28",
+                              "Number of ICU days through day 28",
+                              "Change in clinical status as assessed using the WHO Clinical Progression Scale (0-10 scale, where lower score means a better outcome) at Day 28",
+                              "Change in oxygenation as assessed using PaO2:FiO2 ratio"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "All-cause mortality rate at Day 60 and 90",
+                              "Number of ventilator-free days through Day 28",
+                              "Number of ICU days through Day 28",
+                              "Change in clinical status",
+                              "Change in oxygenation"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline through Day 60 and Day 90",
+                              "Baseline through Day 28",
+                              "Baseline through Day 28",
+                              "Baseline to Day 28",
+                              "Baseline to Day 14 Day 28, and Day 60"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04905836"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "All-cause mortality rate at Days 60 and 90",
+                              "Number of ventilator-free days through Day 28",
+                              "Number of ICU days through Day 28",
+                              "Clinical status as assessed using the Ordinal Scale for Clinical Improvement (0-8 scale, where lower score means better outcome)",
+                              "Change in oxygenation at Days 2, 4, 6, 14, and 28 as measured using PaO2:FiO2 ratio."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "All-cause mortality rate at Days 60 and 90",
+                              "Number of ventilator-free days through Day 28",
+                              "Number of ICU days through Day 28",
+                              "Clinical status at Day 28",
+                              "Change in oxygenation"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline to Day 60 and Day 90",
+                              "Baseline through Day 28",
+                              "Baseline through Day 28",
+                              "Baseline to Day 28",
+                              "Baseline to Day 2, Day 4, Day 6, Day 14, Day 28"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04909879"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change in 6MWD at Day 30",
+                              "Relief of symptoms on Day 30 and Day 60 based on a categorical Symptom Relief Scale, where 0 = no benefit and 4 = nearly complete benefit",
+                              "Change in pulmonary function at Days 30 and 60, as measured by the single-breath test",
+                              "Change in oxygenation at Days 30 and 60, as measured by the SpO2/FiO2 ratio",
+                              "Change in biomarker levels: plasma lipocalcin-2, matrix metalloproteinase-7, hepatocyte growth factor"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in 6MWD at Day 30",
+                              "Relief of symptoms on Day 30 and Day 60",
+                              "Change in Pulmonary Function",
+                              "Change in oxygenation",
+                              "Change in biomarker levels"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline to Day 30",
+                              "Baseline to Day 30 and Day 60",
+                              "Baseline to Day 30 and Day 60",
+                              "Baseline to Day 30 and Day 60",
+                              "Baseline to Day 60"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04992247"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "All-cause mortality at Days 60 and 90",
+                              "Number of ventilator-free days through Day 28",
+                              "Improvement in oxygenation at Day 2, 4, 6, 14, and 28 compared to Baseline, as assessed by PaO2/FiO2",
+                              "SOFA score at Day 28 compared to Baseline"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Mortality at Days 60 and 90",
+                              "Number of ventilator-free days",
+                              "Improvement in oxygenation",
+                              "SOFA score at Day 28"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Randomization through Day 60 and Day 90",
+                              "Randomization through Day 28",
+                              "Randomization to Day 2, Day 4, Day 6, Day 14, Day 28",
+                              "Randomization to Day 28"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04728698"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "All-cause mortality rate at Day 60 and Day 90",
+                              "Number of ventilator-free days through Day 28",
+                              "Number of ICU days through Day 28",
+                              "Change in clinical status as assessed using the 11-point WHO Clinical Progression Scale (0-10, where lower score means a better outcome)",
+                              "Change in oxygenation as assessed using PaO2:FiO2 ratio"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "All-cause mortality rate at Day 60 and Day 90",
+                              "Number of ventilator-free days through Day 28",
+                              "Number of ICU days through Day 28",
+                              "Change in clinical status",
+                              "Change in oxygenation"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline through Day 60 and Day 90",
+                              "Baseline through Day 28",
+                              "Baseline through Day 28",
+                              "Baseline to Day 28",
+                              "Baseline to Day 2, Day 4, Day 6, Day 14 and Day 28"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04903327"
+                        ]
+                  }
+            ]
+      }
+}

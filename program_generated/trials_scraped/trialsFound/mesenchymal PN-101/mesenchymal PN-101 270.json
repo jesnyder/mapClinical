@@ -1,0 +1,78 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal PN-101",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Eunyoung Lee, MD",
+                              "Daehyun Yoo, MD",
+                              "Hyunsook Kim, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Enrolling by invitation"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "April 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Assessment of DLT for each dose group up to 2 weeks after the IP administration.\n\nSeverity will be graded according to CTCAE, Version 5.0.",
+                              "Assessment of IMACS-TIS at Week 12 after the IP administration. Total Improvement Score (TIS) based on absolute percentage change is assessed scale 0 to 100. Higher score indicates greater improvement."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Dose Limiting Toxicity(DLT)",
+                              "International Myositis And Clinical Studies group-Total Improvement Score(IMACS-TIS)"
+                        ],
+                        "NCTId": [
+                              "NCT04976140"
+                        ]
+                  }
+            ]
+      }
+}

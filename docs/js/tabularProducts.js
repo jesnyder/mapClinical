@@ -10,7 +10,7 @@ var tabledata = [
 
 var tabledata = tableProducts;
 
-var table = new Tabulator("#products-table", {
+var table = new Tabulator("#tabularProducts", {
     data:tabledata,           //load row data from array
     layout:"fitColumns",      //fit columns to width of table
     responsiveLayout:"hide",  //hide columns that dont fit on the table

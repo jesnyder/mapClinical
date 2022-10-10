@@ -10,7 +10,7 @@ var tabledata = [
 
 var tabledata = tableInterventions;
 
-var table = new Tabulator("#interventions-table", {
+var table = new Tabulator("#tabularInterventions", {
     data:tabledata,           //load row data from array
     layout:"fitColumns",      //fit columns to width of table
     responsiveLayout:"hide",  //hide columns that dont fit on the table

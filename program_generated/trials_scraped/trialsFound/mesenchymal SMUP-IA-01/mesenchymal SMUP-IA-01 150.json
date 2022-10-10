@@ -1,0 +1,196 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal SMUP-IA-01",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "SMUP-IA-01(low-dose)",
+                              "SMUP-IA-01(mid-dose)",
+                              "SMUP-IA-01(high-dose)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M9030"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Hyaluronic Acid"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "A single knee administration of SMUP-IA-01(low-dose, 4.0 x 10^6 cells/2mL)",
+                              "A single knee administration of SMUP-IA-01(mid-dose, 1.0 x 10^7 cells/2mL)",
+                              "A single knee administration of SMUP-IA-01(high-dose, 2.0 x 10^7 cells/2mL)"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "SMUP-IA-01(low-dose)",
+                              "SMUP-IA-01(mid-dose)",
+                              "SMUP-IA-01(high-dose)"
+                        ],
+                        "InterventionOtherName": [
+                              "Human umbilical cord blood-derived mesenchymal stem cells",
+                              "Human umbilical cord blood-derived mesenchymal stem cells"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04339504"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "SMUP-IA-01(low-dose)",
+                              "SMUP-IA-01(mid-dose)",
+                              "SMUP-IA-01(high-dose)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M9030"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Hyaluronic Acid"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "A single knee administration of SMUP-IA-01(low-dose, 4.0 x 10^6 cells/2mL)",
+                              "A single knee administration of SMUP-IA-01(mid-dose, 1.0 x 10^7 cells/2mL)",
+                              "A single knee administration of SMUP-IA-01(high-dose, 2.0 x 10^7 cells/2mL)"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "SMUP-IA-01(low-dose)",
+                              "SMUP-IA-01(mid-dose)",
+                              "SMUP-IA-01(high-dose)"
+                        ],
+                        "InterventionOtherName": [
+                              "Human umbilical cord blood-derived mesenchymal stem cells",
+                              "Human umbilical cord blood-derived mesenchymal stem cells",
+                              "Human umbilical cord blood-derived mesenchymal stem cells"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04037345"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "Study Group 1: SMUP-IA-01 (low dose)",
+                              "Study Group 2:SMUP-IA-01 (mid dose)",
+                              "Active Control Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M9030"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Hyaluronic Acid"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "A single knee administration of SMUP-IA-01(low-dose, 4.0 x 10^6 cells/2mL)",
+                              "A single knee administration of SMUP-IA-01(mid-dose, 1.0 x 10^7 cells/2mL)",
+                              "A single knee administration of Sodium chloride"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "SMUP-IA-01(low dose)",
+                              "SMUP-IA-01(mid dose)",
+                              "Active Control Group Sodium chloride"
+                        ],
+                        "InterventionOtherName": [
+                              "SMUP allogenic cord blood-derived mesenchymal stem cell (SMUP-Cell)",
+                              "SMUP allogenic cord blood-derived mesenchymal stem cell (SMUP-Cell)",
+                              "Sodium chloride"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05182034"
+                        ]
+                  }
+            ]
+      }
+}

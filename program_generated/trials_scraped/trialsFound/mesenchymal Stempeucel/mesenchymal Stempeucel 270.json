@@ -1,0 +1,129 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Stempeucel",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Dr Anirban Chatterjee",
+                              "Dr Anita Dhar",
+                              "Dr Rajkumar M",
+                              "Dr Radhakrishnan R",
+                              "Dr Vidyasagaran T",
+                              "Dr Alfred Augustine",
+                              "Dr Sanjay Desai",
+                              "Dr Rajiv Parakh",
+                              "Dr Santanu Dutta",
+                              "Dr Murali Krishna"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "February 2014"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Rest pain will be measured using rest pain scale (0 to10)",
+                              "Complete ulcer healing defined as complete epithelisation of ulcer and partial ulcer healing as at least 30% decrease in ulcer size.",
+                              "Rest pain will be measured using rest pain scale (0 to 10)",
+                              "Complete ulcer healing defined as complete epithelisation of ulcer and partial ulcer healing as at least 30% decrease in ulcer size."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Relief of the rest pain",
+                              "Healing of ulcerations or reduction of ulcer area in the target limb",
+                              "Relief of the rest pain",
+                              "Healing of ulcerations or reduction of ulcer area in the target limb"
+                        ],
+                        "NCTId": [
+                              "NCT01484574"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Withdrawn"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "April 2018"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [
+                              "Relief of the rest pain",
+                              "Reduction of ulcer area in the target limb"
+                        ],
+                        "NCTId": [
+                              "NCT03056742"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,360 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal NurOwn",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 4,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 4,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Nervous System Diseases",
+                              "Immune System Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Multiple Sclerosis",
+                              "Multiple Sclerosis, Chronic Progressive"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11212",
+                              "M14567",
+                              "M21466",
+                              "M3781",
+                              "M21251",
+                              "M21247",
+                              "M6061",
+                              "M9352",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Multiple Sclerosis",
+                              "Sclerosis",
+                              "Multiple Sclerosis, Chronic Progressive",
+                              "Autoimmune Diseases",
+                              "Demyelinating Autoimmune Diseases, CNS",
+                              "Autoimmune Diseases of the Nervous System",
+                              "Demyelinating Diseases",
+                              "Immune System Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009103",
+                              "D000020528"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Multiple Sclerosis",
+                              "Multiple Sclerosis, Chronic Progressive"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Open label"
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03799718"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Nervous System Diseases",
+                              "Nutritional and Metabolic Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Lateral Sclerosis",
+                              "Amyotrophic Lateral Sclerosis",
+                              "Amyotrophic Lateral Sclerosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M14567",
+                              "M18031",
+                              "M3176",
+                              "M20711",
+                              "M11563",
+                              "M15067",
+                              "M4894",
+                              "M27912",
+                              "M27900",
+                              "M10791",
+                              "T4699",
+                              "T349"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Sclerosis",
+                              "Motor Neuron Disease",
+                              "Amyotrophic Lateral Sclerosis",
+                              "Neurodegenerative Diseases",
+                              "Neuromuscular Diseases",
+                              "Spinal Cord Diseases",
+                              "Central Nervous System Diseases",
+                              "TDP-43 Proteinopathies",
+                              "Proteostasis Deficiencies",
+                              "Metabolic Diseases",
+                              "Primary Lateral Sclerosis",
+                              "Amyotrophic Lateral Sclerosis"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000016472",
+                              "D000000690"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Motor Neuron Disease",
+                              "Amyotrophic Lateral Sclerosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Randomized, Double-Blind, Placebo-Controlled Multicenter Study"
+                        ],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [
+                              "This is a double-blind study where the investigators, participants and all sponsor and CRO personnel involved in the conduct, data management or analysis of the study will remain blinded to the treatment assignments"
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03280056"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Nervous System Diseases",
+                              "Nutritional and Metabolic Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Lateral Sclerosis",
+                              "Amyotrophic Lateral Sclerosis",
+                              "Amyotrophic Lateral Sclerosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M14567",
+                              "M18031",
+                              "M3176",
+                              "M20711",
+                              "M11563",
+                              "M15067",
+                              "M4894",
+                              "M27912",
+                              "M27900",
+                              "M10791",
+                              "T4699",
+                              "T349"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Sclerosis",
+                              "Motor Neuron Disease",
+                              "Amyotrophic Lateral Sclerosis",
+                              "Neurodegenerative Diseases",
+                              "Neuromuscular Diseases",
+                              "Spinal Cord Diseases",
+                              "Central Nervous System Diseases",
+                              "TDP-43 Proteinopathies",
+                              "Proteostasis Deficiencies",
+                              "Metabolic Diseases",
+                              "Primary Lateral Sclerosis",
+                              "Amyotrophic Lateral Sclerosis"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000016472",
+                              "D000000690"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Motor Neuron Disease",
+                              "Amyotrophic Lateral Sclerosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02017912"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Nervous System Diseases",
+                              "Nutritional and Metabolic Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Sclerosis",
+                              "Lateral Sclerosis",
+                              "Amyotrophic Lateral Sclerosis",
+                              "Lateral Sclerosis",
+                              "Amyotrophic Lateral Sclerosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M14567",
+                              "M18031",
+                              "M3176",
+                              "M20711",
+                              "M11563",
+                              "M15067",
+                              "M4894",
+                              "M27912",
+                              "M27900",
+                              "M10791",
+                              "T4699",
+                              "T349"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Sclerosis",
+                              "Motor Neuron Disease",
+                              "Amyotrophic Lateral Sclerosis",
+                              "Neurodegenerative Diseases",
+                              "Neuromuscular Diseases",
+                              "Spinal Cord Diseases",
+                              "Central Nervous System Diseases",
+                              "TDP-43 Proteinopathies",
+                              "Proteostasis Deficiencies",
+                              "Metabolic Diseases",
+                              "Primary Lateral Sclerosis",
+                              "Amyotrophic Lateral Sclerosis"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000016472",
+                              "D000000690",
+                              "D000012598"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Motor Neuron Disease",
+                              "Amyotrophic Lateral Sclerosis",
+                              "Sclerosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT04681118"
+                        ]
+                  }
+            ]
+      }
+}

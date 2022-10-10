@@ -1,0 +1,63 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal XSTEM-OA",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "MaximumAge",
+                  "MinimumAge",
+                  "NCTId",
+                  "NCTIdAlias",
+                  "OfficialTitle",
+                  "OrgClass",
+                  "OrgFullName",
+                  "OrgStudyId",
+                  "OrgStudyIdDomain",
+                  "OrgStudyIdLink",
+                  "OrgStudyIdType",
+                  "OtherEventAssessmentType",
+                  "OtherEventNotes",
+                  "OtherEventOrganSystem",
+                  "OtherEventSourceVocabulary"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "MaximumAge": [
+                              "75 Years"
+                        ],
+                        "MinimumAge": [
+                              "40 Years"
+                        ],
+                        "NCTId": [
+                              "NCT05344157"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A First-in-Human Open-Label Phase 1/2a Study to Evaluate Safety, Tolerability and Efficacy of a Single Intra-Articular Injection of Allogeneic Mesenchymal Stem Cells Selected for Integrin \u03b110\u03b21 (XSTEM-OA) in Adult Patients With Symptomatic Knee Osteoarthritis"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Xintela AB"
+                        ],
+                        "OrgStudyId": [
+                              "XIN-XSTEM-101"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  }
+            ]
+      }
+}

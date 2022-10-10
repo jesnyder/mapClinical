@@ -1,0 +1,1108 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal AstroStem-V",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 25,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 25,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Djamchid Lotfi, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Withdrawn"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "February 1, 2022"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "clinical lab evaluation of level of glucose in the blood (mg/dL)",
+                              "clinical lab evaluation of level of calcium in the blood (mg/dL)",
+                              "clinical lab evaluation of level of albumin in the blood (g/dL)",
+                              "clinical lab evaluation of level of protein in the blood (g/dL)",
+                              "clinical lab evaluation of level of sodium in the blood (mol/L)",
+                              "clinical lab evaluation of level of carbon dioxide in the blood (mmol/L)",
+                              "clinical lab evaluation of level of potassium in the blood (mmol/L)",
+                              "clinical lab evaluation of level of chloride in the blood (mmol/L)",
+                              "clinical lab evaluation of level of BUN in the blood (mg/dL)",
+                              "clinical lab evaluation of level of creatinine in the blood (mg/dL)",
+                              "clinical lab evaluation of level of alkaline phosphatase in the blood (IU/L)",
+                              "clinical lab evaluation of level of alanine aminotransferase in the blood (IU/L)",
+                              "clinical lab evaluation of level of aspartate aminotransferase in the blood (IU/L)",
+                              "clinical lab evaluation of level of bilirubin in the blood (mg/dL)",
+                              "clinical lab evaluation of level of white blood cells in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of level of red blood cells in the blood (x 10^6/uL)",
+                              "clinical lab evaluation of level of hemoglobin in the blood (g/dL)",
+                              "clinical lab evaluation of level of hematocrit in the blood (%)",
+                              "clinical lab evaluation of mean corpuscular volume in the blood (fL)",
+                              "clinical lab evaluation of mean corpuscular hemoglobin in the blood (pg)",
+                              "clinical lab evaluation of level of hemoglobin concentration in the blood (g/dL)",
+                              "clinical lab evaluation of distribution width in the blood (%)",
+                              "clinical lab evaluation of neutrophils in the blood (%)",
+                              "clinical lab evaluation of lymphocytes in the blood (%)",
+                              "clinical lab evaluation of monocytes in the blood (%)",
+                              "clinical lab evaluation of eosinophils in the blood (%)",
+                              "clinical lab evaluation of basophils in the blood (%)",
+                              "clinical lab evaluation of absolute neutrophils in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of absolute lymphocytes in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of absolute monocytes in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of absolute eosinophils in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of absolute basophils in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of granulocytes in the blood (%)",
+                              "clinical lab evaluation of absolute immature granulocytes in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of platelets in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of time for blood to coagulate (seconds)",
+                              "clinical lab evaluation of international normalized ratio of blood coagulation (no unit)"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Glucose",
+                              "Calcium",
+                              "Albumin",
+                              "Total Protein",
+                              "Sodium",
+                              "Total carbon dioxide",
+                              "Potassium",
+                              "Chloride",
+                              "BUN",
+                              "Creatinine",
+                              "Alkaline phosphatase",
+                              "Alanine aminotransferase",
+                              "Aspartate aminotransferase",
+                              "Total Bilirubin",
+                              "White blood cell",
+                              "Red blood cell",
+                              "Hemoglobin",
+                              "Hematocrit",
+                              "Mean corpuscular volume",
+                              "Mean corpuscular hemoglobin",
+                              "Mean corpuscular hemoglobin concentration",
+                              "Red cell distribution width",
+                              "Neutrophils",
+                              "Lymphs",
+                              "Monocytes",
+                              "Eos",
+                              "Basophils",
+                              "Absolute neutrophils",
+                              "Absolute lymphs",
+                              "Absolute monocytes",
+                              "Absolute Eos",
+                              "Absolute Basos",
+                              "Immature granulocytes",
+                              "Absolute Immature granulocytes",
+                              "Platelets",
+                              "Prothrombin time",
+                              "INR"
+                        ],
+                        "NCTId": [
+                              "NCT04228666"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Not yet recruiting"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "November 1, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Number of subjects with treatment related adverse events as assessed by analysis of adverse events including symptoms.",
+                              "Number of subjects with treatment related adverse events as assessed by analysis of adverse events including abnormal findings on physical examination, vital signs, ECG, and standard laboratory examination."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Incidence of adverse events",
+                              "Abnormalities of physical examination, vital signs, and laboratory test"
+                        ],
+                        "NCTId": [
+                              "NCT04527224"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "OverallOfficialName": [
+                              "Thanh Cheng, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "November 24, 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Number of subjects that require hospitalization for COVID-19",
+                              "Number of subjects that develop symptoms associated with COVID-19, such as fever, shortness of breath/difficulty breathing, cough"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Incidence of hospitalization for COVID-19",
+                              "Incidence of symptoms for COVID-19"
+                        ],
+                        "NCTId": [
+                              "NCT04349631"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "OverallOfficialName": [
+                              "Philip Waller, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [
+                              "linette@hopebio.org"
+                        ],
+                        "PointOfContactOrganization": [
+                              "Hope Biosciences Stem Cell Research Foundation"
+                        ],
+                        "PointOfContactPhone": [
+                              "346-900-0340"
+                        ],
+                        "PointOfContactPhoneExt": [
+                              "102"
+                        ],
+                        "PointOfContactTitle": [
+                              "Linette Rehkopf RPh"
+                        ],
+                        "PrimaryCompletionDate": [
+                              "August 17, 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Total number of Adverse Events and Serious Adverse Events across all subjects over 12 months."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Total Number of Adverse Events and Serious Adverse Events"
+                        ],
+                        "NCTId": [
+                              "NCT03691909"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04087889"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "OverallOfficialName": [
+                              "Fermin Labayen Beraza, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "August 15, 2021"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [
+                              "Number of adverse events as a measure of safety and tolerability of a single dose of HCR040 when administered by intravenous injection"
+                        ],
+                        "NCTId": [
+                              "NCT04289194"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "OverallOfficialName": [
+                              "Thanh Cheng, MD",
+                              "Joseph Varon, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "July 9, 2021"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Number of subjects that must be hospitalized for COVID-19 during the conduct of this study",
+                              "Number of subjects who experience symptoms defined to be associated with COVID-19, such as fever, shortness of breath/difficulty breathing, cough."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Incidence of hospitalization for COVID-19",
+                              "Incidence of symptoms associated with COVID-19"
+                        ],
+                        "NCTId": [
+                              "NCT04348435"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT03925649"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "OverallOfficialName": [
+                              "Rajiv Thakur, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Terminated"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "September 30, 2021"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "change from baseline in interleukin-6",
+                              "Change from baseline in C Reactive protein",
+                              "change from baseline oxygenation (%)",
+                              "change from baseline in TNF alpha",
+                              "change from baseline level of IL-10 in the blood (pg/mL)",
+                              "Time to return to room air"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Interleukin-6",
+                              "C Reactive protein",
+                              "Oxygenation",
+                              "TNF alpha",
+                              "IL-10",
+                              "Return to room air (RTRA)"
+                        ],
+                        "NCTId": [
+                              "NCT04362189"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04029896"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "OverallOfficialName": [
+                              "Djamchid Lotfi, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "July 20, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Movement Disorder Society Unified Parkinson's Disease Rating Scale (MDS-UPDRS) Part II.",
+                              "Treatment-emergent Adverse Event.",
+                              "SSAEs.",
+                              "Incidence of thromboembolic events.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including peripheral events defined as, thromboembolism of the extremities.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including infections.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including hypersensitivities.",
+                              "Clinically significant changes in CBC values.",
+                              "Number of Participants with changes in Laboratory CMP values",
+                              "Number of Participants with changes in Laboratory Coagulation Panel values.",
+                              "Number of Participants with Clinically significant changes in Respiratory Rate.",
+                              "Number of Participants with Clinically significant changes in Heart Rate.",
+                              "Number of participants with Clinically significant changes in Heart Rate.",
+                              "Number of Participants with Clinically significant changes in Blood Pressure.",
+                              "Number of Participants with Clinically significant changes in Weight in lb.",
+                              "Number of Participants with Clinically significant changes in general physical examination results.",
+                              "Number of Participants with Clinically significant changes in body systems physical examination results."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "1. Changes in the total score MDS-UPDRS Part II.",
+                              "2. Incidence of treatment-emergent Adverse Event (TEAEs).",
+                              "3. Incidence of treatment-emergent Serious Adverse Events (SAEs).",
+                              "4. AEs of special interest (serious or non-serious) - thromboembolic events.",
+                              "5. AEs of special interest (serious or non-serious) - thromboembolism of the extremities",
+                              "6. AEs of special interest (serious or non-serious) - infections",
+                              "7. AEs of special interest (serious or non-serious) - hypersensitivities.",
+                              "8. Laboratory value Complete Blood Count (CBC)",
+                              "9. Laboratory values Chemistry Metabolic Panel (CMP)",
+                              "10. Laboratory values Coagulation Panel; Prothrombin time, Partial Prothrombin time, and INtern",
+                              "11. Vital signs. - Respiratory Rate (breaths per minute)",
+                              "12. Vital signs. - Heart Rate (beats per minute)",
+                              "13. Vital signs. - Body Temperature (Fahrenheit )",
+                              "14. Vital signs. - Blood Pressure (mmHg)",
+                              "15. Weight in lb.",
+                              "16. Physical examination results. General",
+                              "17. Physical examination results. Body Systems."
+                        ],
+                        "NCTId": [
+                              "NCT04995081"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "OverallOfficialName": [
+                              "Charles S Cox, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Active, not recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "May 27, 2022"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "clinical lab evaluation of level of glucose in the blood (mg/dL)",
+                              "clinical lab evaluation of level of calcium in the blood (mg/dL)",
+                              "clinical lab evaluation of level of albumin in the blood (g/dL)",
+                              "clinical lab evaluation of total protein in the blood (g/dL)",
+                              "clinical lab evaluation of total sodium in the blood (mmol/L)",
+                              "clinical lab evaluation of total carbon dioxide in the blood (mmol/L)",
+                              "clinical lab evaluation of potassium in the blood (mmol/L)",
+                              "clinical lab evaluation of chloride in the blood (mmol/L)",
+                              "clinical evaluation of blood urea nitrogen (BUN) (mg/dL)",
+                              "clinical evaluation of creatinine in blood (mg/dL)",
+                              "clinical evaluation of alkaline phosphatase (ALP) in blood (IU/L)",
+                              "clinical evaluation of alanine aminotransferase (ALT) in blood (IU/L)",
+                              "clinical evaluation of aspartate aminotransferase (AST) in blood (IU/L)",
+                              "clinical evaluation of total bilirubin in blood (mg/dL)",
+                              "clinical evaluation of white blood cells (WBC) in blood (x 10^3/uL)",
+                              "clinical evaluation of red blood cells (RBC) in blood (x 10^6/uL)",
+                              "clinical evaluation of hemoglobin in blood (g/dL)",
+                              "clinical evaluation of hematocrit in blood (%)",
+                              "clinical evaluation of mean corpuscular volume (MCV) in blood (fL)",
+                              "clinical evaluation of mean corpuscular hemoglobin (MCH) in blood (pg)",
+                              "clinical evaluation of mean corpuscular hemoglobin concentration (MCHC) in blood (g/dL)",
+                              "clinical evaluation of red cell distribution width (RDW) in blood (%)",
+                              "clinical evaluation of neutrophils in blood (%)",
+                              "clinical evaluation of lymphocytes in blood (%)",
+                              "clinical evaluation of monocytes in blood (%)",
+                              "clinical evaluation of eosinophils in blood (%)",
+                              "clinical evaluation of basophils in blood (%)",
+                              "clinical evaluation of absolute neutrophils in blood (x 10^3/uL)",
+                              "clinical evaluation of absolute lymphocytes in blood (x 10^3/uL)",
+                              "clinical evaluation of absolute monocytes in blood (x 10^3/uL)",
+                              "clinical evaluation of absolute eosinophils in blood (x 10^3/uL)",
+                              "clinical evaluation of absolute basophils in blood (x 10^3/uL)",
+                              "clinical evaluation of immature granulocytes in blood (%)",
+                              "clinical evaluation of absolute immature granulocytes in blood (x 10^3/uL)",
+                              "clinical evaluation of platelets in blood (x 10^3/uL)",
+                              "clinical evaluation of time for blood to coagulate (seconds)",
+                              "clinical evaluation of international normalized ratio of blood coagulation (no unit)",
+                              "clinical evaluation of human chorionic gonadotropin (hCG) in urine (positive/negative)"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Glucose",
+                              "Calcium",
+                              "Albumin",
+                              "Total Protein",
+                              "Sodium",
+                              "Total carbon dioxide",
+                              "Potassium",
+                              "Chloride",
+                              "BUN",
+                              "Creatinine",
+                              "Alkaline phosphatase",
+                              "Alanine aminotransferase",
+                              "Aspartate aminotransferase",
+                              "Total Bilirubin",
+                              "White blood cell",
+                              "Red blood cell",
+                              "Hemoglobin",
+                              "Hematocrit",
+                              "Mean corpuscular volume",
+                              "Mean corpuscular hemoglobin",
+                              "Mean corpuscular hemoglobin concentration",
+                              "Red cell distribution width",
+                              "Neutrophils",
+                              "Lymphs",
+                              "Monocytes",
+                              "Eos",
+                              "Basos",
+                              "Absolute Neutrophils",
+                              "Absolute Lymphs",
+                              "Absolute monocytes",
+                              "Absolute Eos",
+                              "Absolute Basos",
+                              "Immature Granulocytes",
+                              "Absolute Immature Granulocytes",
+                              "Platelets",
+                              "Prothrombin Time",
+                              "INR",
+                              "Urine Pregnancy"
+                        ],
+                        "NCTId": [
+                              "NCT04063215"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "OverallOfficialName": [
+                              "Djamchid Lotfi, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "November 22, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The MSQOL-54 is a comprehensive health-related quality of life measure incorporating general and MS-specific questions into a single instrument.\n\nThe developers used the SF-36 as a base and added 18 questions to address MS-specific problems, including fatigue and cognitive function.\n\nThis 54-item questionnaire provides 12 sub-scales, two summary scores, and two extra single-item measures. The sub-scales are physical function, role limits-physical, emotional role restrictions, pain, emotional well-being, energy, health perceptions, social position, cognitive function, health distress, overall quality of life, and sexual function. There is no single overall score for MSQOL-54. Two summary scores - physical health and mental health - can be derived from a weighted combination of scale scores (scale scores range from 0 to 100 and a higher scale score indicates improved quality of life)."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "To investigate the efficacy of intravenous infusions of HB-adMSCs vs placebo in patients with Multiple Sclerosis as determined by improvements in the Multiple Sclerosis Quality of Life (MSQOL) 54 Instrument."
+                        ],
+                        "NCTId": [
+                              "NCT05116540"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04064957"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "OverallOfficialName": [
+                              "Djamchid Lotfi, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Active, not recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "May 28, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "MDS-UPDRS Part II.",
+                              "treatment-emergent Adverse Event.",
+                              "SSAEs.",
+                              "Incidence of thromboembolic events.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including peripheral events defined as, thromboembolism of the extremities.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including infections.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including hypersensitivities.",
+                              "Clinically significant changes in CBC values.",
+                              "Clinically significant changes in CMP values.",
+                              "Clinically significant changes in Coagulation Panel values.",
+                              "Clinically significant changes in Respiratory Rate.",
+                              "Clinically significant changes in Heart Rate.",
+                              "Clinically significant changes in Heart Rate.",
+                              "Clinically significant changes in Blood Pressure.",
+                              "Clinically significant changes in Weight in lb.",
+                              "Clinically significant changes in general physical examination results.",
+                              "Clinically significant changes in body systems physical examination results."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Changes in MDS-UPDRS Part II.",
+                              "Incidence of treatment-emergent Adverse Event (TEAEs).",
+                              "Incidence of treatment-emergent Serious Adverse Events (SAEs).",
+                              "AEs of special interest (serious or non-serious) - thromboembolic events.",
+                              "AEs of special interest (serious or non-serious) - thromboembolism of the extremities",
+                              "AEs of special interest (serious or non-serious) - infections",
+                              "AEs of special interest (serious or non-serious) - hypersensitivities.",
+                              "Laboratory values. CBC",
+                              "Laboratory values. CMP",
+                              "Laboratory values. Coagulation Panel",
+                              "Vital signs. - Respiratory Rate (breaths per minute)",
+                              "Vital signs. - Heart Rate (beats per minute)",
+                              "Vital signs. - Body Temperature (Fahrenheit )",
+                              "Vital signs. - Blood Pressure (mmHg)",
+                              "Weight in lb.",
+                              "Physical examination results. General",
+                              "Physical examination results. Body Systems."
+                        ],
+                        "NCTId": [
+                              "NCT04928287"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "OverallOfficialName": [
+                              "Walter R Lowe, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04604288"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 20, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Clinically significant changes in Visual Analog Scale - Extreme fatigue",
+                              "Clinically significant changes in Visual Analog Scale - Brain fog",
+                              "Clinically significant changes in Visual Analog Scale - Headache",
+                              "Clinically significant changes in Visual Analog Scale - Sleep disturbances",
+                              "Clinically significant changes in Visual Analog Scale - Loss of taste",
+                              "Clinically significant changes in Visual Analog Scale - Loss of smell",
+                              "Treatment-emergent Adverse Event.",
+                              "SSAEs",
+                              "Incidence of thromboembolic events.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including peripheral events defined as, thromboembolism of the extremities.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including infections.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including hypersensitivities.",
+                              "Clinically significant changes in CBC values.",
+                              "Clinically significant changes in CMP values.",
+                              "Clinically significant changes in Coagulation Panel values.",
+                              "Clinically significant changes in Respiratory Rate.",
+                              "Clinically significant changes in Heart Rate.",
+                              "Clinically significant changes in Body Temperature.",
+                              "Clinically significant changes in Blood Pressure.",
+                              "Clinically significant changes in Weight.",
+                              "Clinically significant changes in general physical examination results.",
+                              "Clinically significant changes in Body Systems physical examination results."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Changes in Visual Analog Scale of Neurological Symptoms. - Extreme fatigue",
+                              "Changes in Visual Analog Scale of Neurological Symptoms. - Brain fog",
+                              "Changes in Visual Analog Scale of Neurological Symptoms. - Headache",
+                              "Changes in Visual Analog Scale of Neurological Symptoms. - Sleep disturbances",
+                              "Changes in Visual Analog Scale of Neurological Symptoms. - Loss of taste",
+                              "Changes in Visual Analog Scale of Neurological Symptoms. - Loss of smell",
+                              "Incidence of treatment-emergent Adverse Event (TEAEs).",
+                              "Incidence of treatment-emergent Serious Adverse Events (SAEs).",
+                              "AEs of special interest (serious or non-serious) - thromboembolic events.",
+                              "AEs of special interest (serious or non-serious) - thromboembolism of the extremities.",
+                              "AEs of special interest (serious or non-serious) - infections.",
+                              "AEs of special interest (serious or non-serious) - hypersensitivities.",
+                              "Changes in Laboratory values. - CBC.",
+                              "Changes in Laboratory values. - CMP.",
+                              "Changes in Laboratory values. - Coagulation Panel.",
+                              "Changes in Vital Signs. - Respiratory Rate (breaths per minute)",
+                              "Changes in Vital Signs. - Heart Rate (beats per minute)",
+                              "Changes in Vital Signs. - Body Temperature (Fahrenheit )",
+                              "Changes in Vital Signs. - Blood Pressure (mmHg)",
+                              "Changes in Weight in lb.",
+                              "Changes in Physical examination results. - General",
+                              "Changes in Physical examination results. - Body Systems"
+                        ],
+                        "NCTId": [
+                              "NCT05126563"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "OverallOfficialName": [
+                              "Rajiv Thakur, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04514952"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "OverallOfficialName": [
+                              "Djamchid Lotfi, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04772378"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "OverallOfficialName": [
+                              "Thanh Cheng, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04798066"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "OverallOfficialName": [
+                              "Djamchid Lotfi, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04711811"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "OverallOfficialName": [
+                              "Djamchid Lotfi, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04825626"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "OverallOfficialName": [
+                              "Djamchid Lotfi, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Temporarily not available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04825613"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "OverallOfficialName": [
+                              "Thanh Cheng, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04064983"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "OverallOfficialName": [
+                              "Djamchid Lotfi, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT05154851"
+                        ]
+                  }
+            ]
+      }
+}

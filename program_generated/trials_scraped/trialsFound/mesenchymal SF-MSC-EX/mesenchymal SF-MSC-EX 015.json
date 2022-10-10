@@ -1,0 +1,70 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal SF-MSC-EX",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [
+                              "KNEEXO"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "The left knee will receive 1 million cells/kg SF-MSC-EX (Synovial fluid mesenchymal stem cell-derived exosome) by intra-articular injection method.",
+                              "The right knee will receive 1 million cells/kg SF-MSC (Synovial fluid-derived mesenchymal stem cell) by intra-articular injection method.",
+                              "Participants who received no treatment were defined as the control group."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: SF-MSC-EX",
+                              "Drug: SF-MSC"
+                        ],
+                        "ArmGroupLabel": [
+                              "SF-MSC-EX Treatment Group (Experimental group's left knees)",
+                              "SF-MSC Treatment Group (Experimental group's right knees)",
+                              "Control Group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05261360"
+                        ]
+                  }
+            ]
+      }
+}

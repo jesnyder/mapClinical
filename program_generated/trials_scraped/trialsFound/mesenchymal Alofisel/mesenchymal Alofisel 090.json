@@ -1,0 +1,92 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Alofisel",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [
+                              "Prospective"
+                        ],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "Fifteen applications in 14 patients (3 male, 11 female) with complex anal fistulas treated in three tertiary hospitals in Austria were included between October 2018 and April 2021. Injection of 120 million allogeneic expanded adipose-derived mesenchymal stem cells (Cx601 - Darvadstrocel, Alofisel\u00ae) was performed in each patient. Closure of the external fistula opening without secretion by finger compression was defined as success."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\npatients aged 18 and older who had a non-active or mildly active luminal CD with complex fistula with a maximum of two internal and three external fistulas\n\nExclusion Criteria:\n\nrectovaginal fistulas\nrectal and/or anal stenosis\nactive proctitis\ndiverting stomas\nan abscess (<2cm) that was not drained at the fistula preperation visit"
+                        ],
+                        "EnrollmentCount": [
+                              "14"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT05322057"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "DesignTimePerspective": [
+                              "Cross-Sectional"
+                        ],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nPatient whose age \u2265 18 years\nPatient with inactive or minimally active Crohn's disease associated with one or more complex ano-perineal fistula(s) that has not responded to at least one conventional biologic therapy\nPatients managed for their fistula(s) by mesenchymal stem cell injection between July 1, 2020 and July 30, 2021 at one of the participating centers\nPatients who understand the French language\n\nExclusion Criteria:\n\nPatients under guardianship or curatorship\nMinor patients\nPregnant women\nPatient deprived of liberty\nPatient under court protection\nPatients who object to the use of their data for this research\nPatients with a simple anal fistula\nPatients with anorecto-vaginal fistula\nPatients with anal canal stenosis that cannot be crossed by the index finger\nPatients who have not previously received medical treatment (biotherapy +/- immunosuppressant)"
+                        ],
+                        "EnrollmentCount": [
+                              "40"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT05177003"
+                        ]
+                  }
+            ]
+      }
+}

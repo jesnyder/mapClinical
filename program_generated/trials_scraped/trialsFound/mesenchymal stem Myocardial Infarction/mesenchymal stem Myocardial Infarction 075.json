@@ -1,0 +1,3466 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Myocardial Infarction",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 46,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 46,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11307",
+                              "M9434",
+                              "M19977",
+                              "M19744",
+                              "M9695",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left",
+                              "Ischemia",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01392105"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "ST-segment Elevation Myocardial Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11307",
+                              "M9434",
+                              "M1072",
+                              "M9695",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "ST Elevation Myocardial Infarction",
+                              "Ischemia",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000072657",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "ST Elevation Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04421274"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "ST Elevation Myocardial Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11307",
+                              "M9434",
+                              "M1072",
+                              "M9695",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "ST Elevation Myocardial Infarction",
+                              "Ischemia",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000072657",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "ST Elevation Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01291329"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M11307",
+                              "M9434",
+                              "M9695",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Ischemia",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00114452"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11307",
+                              "M9434",
+                              "M9695",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Ischemia",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04056819"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11307",
+                              "M9434",
+                              "M9695",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Ischemia",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04340609"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M11307",
+                              "M9434",
+                              "M8571",
+                              "M9695",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M16552",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Heart Diseases",
+                              "Ischemia",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Vascular Diseases",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01394432"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11307",
+                              "M9434",
+                              "M9695",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Ischemia",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01652209"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11307",
+                              "M9434",
+                              "M9695",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Ischemia",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "- Experimental group: The patient will undergo surgery by sternotomy to perform the surgical revascularization of the arteries candidates for revascularization.\n\nIn addition, the matrix-cell construct will be placed on the ischemic area of the non-candidate revascularization area and will be fixed using surgical glue.\n\n- Control group: The patient will undergo surgery by sternotomy to perform the surgical revascularization of the arteries candidates for revascularization. No additional procedure will be performed."
+                        ],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [
+                              "The randomization will be known exclusively by the cardiac surgery team and the study coordinator, and it will be blind to the patient and to the rest of the investigators team: clinical cardiologist who performs the follow-up, team that performs image tests, core lab that evaluates the imaging tests and the equipment that statistically analyzes the data."
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03798353"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11307",
+                              "M9434",
+                              "M1072",
+                              "M9695",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "ST Elevation Myocardial Infarction",
+                              "Ischemia",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00883727"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11307",
+                              "M9434",
+                              "M9695",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Ischemia",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00877903"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M11307",
+                              "M9434",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02672267"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11307",
+                              "M9434",
+                              "M9695",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Ischemia",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Placebo Comparator: Intravenous infusion WJMSCs +standard therapy Vs placebo+ standard therapy in patients with acute myocardial infarction"
+                        ],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [
+                              "The eligible patients were assigned randomly to each of two groups (WJMSCs or placebo control) in a 1:1 fashion using a computer-generated randomization of sequence numbers. Physicians and other clinical personnel remained blind to the treatment assignment throughout the study."
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04551443"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11307",
+                              "M9434",
+                              "M9695",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Ischemia",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Factorial Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03047772"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Heart Failure",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Myocardial Infarction, Anterior Wall",
+                              "Cardiac Remodeling, Ventricular"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M11307",
+                              "M9434",
+                              "M1072",
+                              "M27828",
+                              "M21232",
+                              "M8571",
+                              "M9695",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M16552",
+                              "M21672",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "ST Elevation Myocardial Infarction",
+                              "Anterior Wall Myocardial Infarction",
+                              "Ventricular Remodeling",
+                              "Heart Diseases",
+                              "Ischemia",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Vascular Diseases",
+                              "Pathological Conditions, Anatomical",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006333",
+                              "D000009203",
+                              "D000056988",
+                              "D000007238",
+                              "D000020257"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Heart Failure",
+                              "Myocardial Infarction",
+                              "Anterior Wall Myocardial Infarction",
+                              "Infarction",
+                              "Ventricular Remodeling"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "A single-blinded, randomized, multicenter trial."
+                        ],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [
+                              "Single-blinded"
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05043610"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Neoplasms",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemic",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Ventricular Dysfunction",
+                              "Left Ventricular Dysfunction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M11307",
+                              "M9434",
+                              "M11459",
+                              "M19977",
+                              "M19744",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Neoplasm Metastasis",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000018754",
+                              "D000018487",
+                              "D000007511",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left",
+                              "Ischemia",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02013674"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Neoplasms",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M11307",
+                              "M9434",
+                              "M11459",
+                              "M19977",
+                              "M19744",
+                              "M8571",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Neoplasm Metastasis",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left",
+                              "Heart Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000018754",
+                              "D000018487"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00587990"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Ventricular Dysfunction",
+                              "Left Ventricular Dysfunction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11307",
+                              "M9434",
+                              "M19977",
+                              "M19744",
+                              "M9695",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left",
+                              "Ischemia",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000018754",
+                              "D000018487",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03902067"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M11307",
+                              "M9434",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "The AMI trial will enroll 105 patients with randomization into active vs. sham therapy with 2:1 ratio.\n\nAdditional 5-10 subjects meeting inclusion/exclusion criteria will receive, in a non-blinded fashion, labelled CardioCell to determine the early uptake and retention of IMP in the target ischemic tissues."
+                        ],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [
+                              "The Data and Safety Monitoring Board (DSMB) will be blinded at project start, but may request unblinding if necessary to accommodate effective review of data.\n\nOther than the DSMB (if necessary), the only other \"un-blinded parties\", meaning that they will have knowledge as to the patient's treatment assignment, will be the PBTiK UJ CM employee who participates in randomization utilizing randomization lists and investigational medication preparation."
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03404063"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Heart Failure",
+                              "Ischemia",
+                              "Myocardial Ischemia",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M9695",
+                              "M5698",
+                              "M18658",
+                              "M19977",
+                              "M19744",
+                              "M8571",
+                              "M16552"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Ischemia",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left",
+                              "Heart Diseases",
+                              "Vascular Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006333",
+                              "D000017202",
+                              "D000018754",
+                              "D000018487",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Heart Failure",
+                              "Myocardial Ischemia",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04939077"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Neoplasms",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M11307",
+                              "M9434",
+                              "M11459",
+                              "M19977",
+                              "M19744",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Neoplasm Metastasis",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01087996"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "ST-segment Elevation Myocardial Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11307",
+                              "M9434",
+                              "M1072",
+                              "M9695",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "ST Elevation Myocardial Infarction",
+                              "Ischemia",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000072657",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "ST Elevation Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01770613"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cardiomyopathy",
+                              "Ischemic",
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11306",
+                              "M9695",
+                              "M11307",
+                              "M9434",
+                              "M8571",
+                              "M5698",
+                              "M18658",
+                              "M11436",
+                              "M16552",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Cardiomyopathies",
+                              "Ischemia",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Heart Diseases",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Necrosis",
+                              "Vascular Diseases",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000009202",
+                              "D000007511",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Cardiomyopathies",
+                              "Ischemia",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02666391"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Neoplasms",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Heart Failure",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M9695",
+                              "M11307",
+                              "M9434",
+                              "M11459",
+                              "M19977",
+                              "M19744",
+                              "M8571",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Ischemia",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Neoplasm Metastasis",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left",
+                              "Heart Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006333",
+                              "D000018754",
+                              "D000018487"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Heart Failure",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00768066"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cardiomyopathy",
+                              "Ischemic"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11306",
+                              "M9695",
+                              "M8571"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Cardiomyopathies",
+                              "Ischemia",
+                              "Heart Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009202",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Cardiomyopathies",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02368587"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Neoplasms",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Heart Failure",
+                              "Ischemic",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Ventricular Dysfunction",
+                              "Left Ventricular Dysfunction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M9695",
+                              "M11307",
+                              "M9434",
+                              "M11459",
+                              "M19977",
+                              "M19744",
+                              "M8571",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M16552",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Ischemia",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Neoplasm Metastasis",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left",
+                              "Heart Diseases",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Vascular Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006333",
+                              "D000009203",
+                              "D000018754",
+                              "D000018487",
+                              "D000007511",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Heart Failure",
+                              "Myocardial Infarction",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left",
+                              "Ischemia",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02503280"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia",
+                              "Myocardial Ischemia",
+                              "Myocardial Ischemia",
+                              "Ventricular Dysfunction",
+                              "Left Ventricular Dysfunction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11306",
+                              "M9695",
+                              "M5698",
+                              "M18658",
+                              "M19977",
+                              "M19744",
+                              "M5701",
+                              "M8571",
+                              "M16552",
+                              "M3621",
+                              "M3617",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Cardiomyopathies",
+                              "Ischemia",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left",
+                              "Coronary Disease",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Arteriosclerosis",
+                              "Arterial Occlusive Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000017202",
+                              "D000003324",
+                              "D000018754",
+                              "D000018487",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Ischemia",
+                              "Coronary Artery Disease",
+                              "Ventricular Dysfunction",
+                              "Ventricular Dysfunction, Left",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01076920"
+                        ]
+                  },
+                  {
+                        "Rank": 28,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cardiomyopathy",
+                              "Ischemic",
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11306",
+                              "M9695",
+                              "M11307",
+                              "M9434",
+                              "M8571",
+                              "M5698",
+                              "M18658",
+                              "M11436",
+                              "M16552",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Cardiomyopathies",
+                              "Ischemia",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Heart Diseases",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Necrosis",
+                              "Vascular Diseases",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000009202",
+                              "D000007511",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Cardiomyopathies",
+                              "Ischemia",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02504437"
+                        ]
+                  },
+                  {
+                        "Rank": 29,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cardiomyopathy",
+                              "Ischemic",
+                              "Coronary Artery Disease",
+                              "Coronary Artery Disease",
+                              "Coronary Artery Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M11306",
+                              "M9695",
+                              "M5698",
+                              "M18658",
+                              "M5701",
+                              "M8571",
+                              "M3621",
+                              "M3617",
+                              "M16552"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Cardiomyopathies",
+                              "Ischemia",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Coronary Disease",
+                              "Heart Diseases",
+                              "Arteriosclerosis",
+                              "Arterial Occlusive Diseases",
+                              "Vascular Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003324",
+                              "D000017202",
+                              "D000003327",
+                              "D000009202",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Coronary Disease",
+                              "Cardiomyopathies",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01753440"
+                        ]
+                  },
+                  {
+                        "Rank": 30,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia",
+                              "Reperfusion Injury"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M5997",
+                              "M17251",
+                              "M16552",
+                              "M13217"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Death",
+                              "Reperfusion Injury",
+                              "Vascular Diseases",
+                              "Postoperative Complications"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000015427",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Reperfusion Injury",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04388761"
+                        ]
+                  },
+                  {
+                        "Rank": 31,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Coronary Artery Disease",
+                              "Coronary Artery Disease",
+                              "Coronary Artery Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M5698",
+                              "M18658",
+                              "M5701",
+                              "M9695",
+                              "M8571",
+                              "M3621",
+                              "M3617",
+                              "M16552"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Coronary Disease",
+                              "Ischemia",
+                              "Heart Diseases",
+                              "Arteriosclerosis",
+                              "Arterial Occlusive Diseases",
+                              "Vascular Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003324",
+                              "D000017202",
+                              "D000003327"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Coronary Disease"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Parallel Assignment Arms Placebo Comparator: WANICAD Trial are as a 3 arm trial comparing standard of care plus placebo to either standard of care plus WJMSC one or three times infusion with participants allocated to each study arm in a 1:1:1 ratio"
+                        ],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [
+                              "Physicians and other clinical personnel remained blind to the treatment assignment throughout the study."
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04551456"
+                        ]
+                  },
+                  {
+                        "Rank": 32,
+                        "ConditionBrowseBranchName": [
+                              "Nutritional and Metabolic Diseases",
+                              "All Conditions",
+                              "Diseases and Abnormalities at or Before Birth"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Hypercholesterolemia",
+                              "Hypercholesterolemia, Familial"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9140",
+                              "M9152",
+                              "M9154",
+                              "M9141",
+                              "M25334",
+                              "M10791",
+                              "M26182",
+                              "M10793",
+                              "M10206",
+                              "M22839"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Hypercholesterolemia",
+                              "Hyperlipidemias",
+                              "Hyperlipoproteinemias",
+                              "Hyperlipoproteinemia Type II",
+                              "Dyslipidemias",
+                              "Metabolic Diseases",
+                              "Lipid Metabolism Disorders",
+                              "Metabolism, Inborn Errors",
+                              "Lipid Metabolism, Inborn Errors",
+                              "Genetic Diseases, Inborn"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006938",
+                              "D000006937"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Hyperlipoproteinemia Type II",
+                              "Hypercholesterolemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00515307"
+                        ]
+                  },
+                  {
+                        "Rank": 33,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Infections"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Critical Illness"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M18162",
+                              "M9435",
+                              "M20017",
+                              "M16021",
+                              "M5520",
+                              "M21853"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Critical Illness",
+                              "Infections",
+                              "Sepsis",
+                              "Toxemia",
+                              "Communicable Diseases",
+                              "Disease Attributes"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000016638"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Critical Illness"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Cohort"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT04850469"
+                        ]
+                  },
+                  {
+                        "Rank": 34,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Syndrome",
+                              "Hypoplastic Left Heart Syndrome",
+                              "Hypoplastic Left Heart Syndrome"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M15507",
+                              "M19878",
+                              "M8570",
+                              "M12",
+                              "M19656",
+                              "M8571",
+                              "T2957"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Syndrome",
+                              "Hypoplastic Left Heart Syndrome",
+                              "Heart Defects, Congenital",
+                              "Congenital Abnormalities",
+                              "Cardiovascular Abnormalities",
+                              "Heart Diseases",
+                              "Hypoplastic Left Heart Syndrome"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000018636",
+                              "D000013577"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Hypoplastic Left Heart Syndrome",
+                              "Syndrome"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "20 patients and 10 patients will be controls with a total of 30 HLHS patients."
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [
+                              "HLHS patients which will be randomized to the treatment and control arms in a 1:1 ratio"
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02398604"
+                        ]
+                  },
+                  {
+                        "Rank": 35,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cardiomyopathy",
+                              "Ischemic",
+                              "Heart Disease",
+                              "Ischemic Heart Disease",
+                              "Ischemic Heart Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M11306",
+                              "M9695",
+                              "M8571",
+                              "M5698",
+                              "M18658",
+                              "M3269",
+                              "M5701",
+                              "M16552",
+                              "M3621",
+                              "M3617",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Cardiomyopathies",
+                              "Ischemia",
+                              "Heart Diseases",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Angina Pectoris",
+                              "Coronary Disease",
+                              "Vascular Diseases",
+                              "Arteriosclerosis",
+                              "Arterial Occlusive Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006331",
+                              "D000009202",
+                              "D000017202",
+                              "D000003324",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Heart Diseases",
+                              "Cardiomyopathies",
+                              "Myocardial Ischemia",
+                              "Coronary Artery Disease",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02439541"
+                        ]
+                  },
+                  {
+                        "Rank": 36,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Hypoplastic Left Heart Syndrome",
+                              "Hypoplastic Left Heart Syndrome"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M15507",
+                              "M19878",
+                              "M8570",
+                              "M12",
+                              "M19656",
+                              "M8571",
+                              "T2957"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Syndrome",
+                              "Hypoplastic Left Heart Syndrome",
+                              "Heart Defects, Congenital",
+                              "Congenital Abnormalities",
+                              "Cardiovascular Abnormalities",
+                              "Heart Diseases",
+                              "Hypoplastic Left Heart Syndrome"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000018636"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Hypoplastic Left Heart Syndrome"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Phase 1: 10 patient safety run-in: all patients treated with LMSCs during Stage II surgery.\n\nPhase 2: 20 patients randomized 1:1 to receive either LMSCs or no cells (controls) during Stage II surgery."
+                        ],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [
+                              "Phase 1: no masking. Phase 2: HLHS patients which will be randomized to the treatment and control arms in a 1:1 ratio"
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03525418"
+                        ]
+                  },
+                  {
+                        "Rank": 37,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cardiomyopathy",
+                              "Dilated Cardiomyopathy",
+                              "Dilated Cardiomyopathy"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M11306",
+                              "M4719",
+                              "M8571",
+                              "M8572",
+                              "M2393",
+                              "M22839",
+                              "T1876"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Cardiomyopathies",
+                              "Cardiomyopathy, Dilated",
+                              "Heart Diseases",
+                              "Cardiomegaly",
+                              "Laminopathies",
+                              "Genetic Diseases, Inborn",
+                              "Dilated Cardiomyopathy"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009202",
+                              "D000002311"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Cardiomyopathies",
+                              "Cardiomyopathy, Dilated"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01392625"
+                        ]
+                  },
+                  {
+                        "Rank": 38,
+                        "ConditionBrowseBranchName": [],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [],
+                        "ConditionBrowseLeafName": [],
+                        "ConditionBrowseLeafRelevance": [],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Other"
+                        ],
+                        "NCTId": [
+                              "NCT03478215"
+                        ]
+                  },
+                  {
+                        "Rank": 39,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Heart Failure",
+                              "Cardiomyopathy",
+                              "Coronary Artery Disease",
+                              "Coronary Artery Disease",
+                              "Coronary Artery Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M11306",
+                              "M9695",
+                              "M5698",
+                              "M18658",
+                              "M4719",
+                              "M5701",
+                              "M8571",
+                              "M3621",
+                              "M3617",
+                              "M16552",
+                              "T1876"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Cardiomyopathies",
+                              "Ischemia",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Cardiomyopathy, Dilated",
+                              "Coronary Disease",
+                              "Heart Diseases",
+                              "Arteriosclerosis",
+                              "Arterial Occlusive Diseases",
+                              "Vascular Diseases",
+                              "Dilated Cardiomyopathy"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006333",
+                              "D000002318",
+                              "D000003324",
+                              "D000017202",
+                              "D000003327",
+                              "D000009202"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Heart Failure",
+                              "Cardiovascular Diseases",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Coronary Disease",
+                              "Cardiomyopathies"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "A randomized clinical trial will be conducted as a proof of concept in 40 patients with previous myocardial infarction and a viable myocardial zone with indications for coronary artery bypass grafts. Twenty patients will be included in each treatment arm over 36 months. One group will undergo revascularization surgery, extracellular matrix patch placement and injection of cell culture medium; the other group will undergo revascularization surgery, extracellular matrix patch placement on the epicardial surface with cultured WJ-MSCs and injection of WJ-MSCs around the infarcted zone.\n\nThe allocation of treatments will be defined by block sizes of 2, 4 and 6, randomly determined by a random number generator (ralloc, Stata Co. 8,2). This assignment will only be known by the tissue bank that will deliver the syringes with the solution to be administered and the epicardium patches to the study participants."
+                        ],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [
+                              "This assignment will only be known by the tissue bank that will deliver the syringes with the solution to be administered and the epicardium patches to the study participants"
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04011059"
+                        ]
+                  },
+                  {
+                        "Rank": 40,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cardiomyopathy",
+                              "Ischemic",
+                              "Dilated Cardiomyopathy",
+                              "Dilated Cardiomyopathy"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11306",
+                              "M9695",
+                              "M4719",
+                              "M8571",
+                              "M8572",
+                              "M2393",
+                              "M22839",
+                              "T1876"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Cardiomyopathies",
+                              "Ischemia",
+                              "Cardiomyopathy, Dilated",
+                              "Heart Diseases",
+                              "Cardiomegaly",
+                              "Laminopathies",
+                              "Genetic Diseases, Inborn",
+                              "Dilated Cardiomyopathy"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009202",
+                              "D000002311",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Cardiomyopathies",
+                              "Cardiomyopathy, Dilated",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01720888"
+                        ]
+                  },
+                  {
+                        "Rank": 41,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Heart Failure",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Coronary Artery Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M11307",
+                              "M9434",
+                              "M5698",
+                              "M18658",
+                              "M5701",
+                              "M8571",
+                              "M9695",
+                              "M11436",
+                              "M3621",
+                              "M3617",
+                              "M16552"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Coronary Disease",
+                              "Heart Diseases",
+                              "Ischemia",
+                              "Necrosis",
+                              "Arteriosclerosis",
+                              "Arterial Occlusive Diseases",
+                              "Vascular Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006333",
+                              "D000003324",
+                              "D000009203",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Heart Failure",
+                              "Coronary Artery Disease",
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Factorial Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00418418"
+                        ]
+                  },
+                  {
+                        "Rank": 42,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cardiomyopathy",
+                              "Dilated Cardiomyopathy",
+                              "Dilated Cardiomyopathy"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M11306",
+                              "M4719",
+                              "M8571",
+                              "M8572",
+                              "M2393",
+                              "M22839",
+                              "T1876"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Cardiomyopathies",
+                              "Cardiomyopathy, Dilated",
+                              "Heart Diseases",
+                              "Cardiomegaly",
+                              "Laminopathies",
+                              "Genetic Diseases, Inborn",
+                              "Dilated Cardiomyopathy"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009202",
+                              "D000002311"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Cardiomyopathies",
+                              "Cardiomyopathy, Dilated"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00629018"
+                        ]
+                  },
+                  {
+                        "Rank": 43,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cardiomyopathy",
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11306",
+                              "M9695",
+                              "M11307",
+                              "M9434",
+                              "M8571",
+                              "M5698",
+                              "M18658",
+                              "M11436",
+                              "M16552",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Cardiomyopathies",
+                              "Ischemia",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Heart Diseases",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Necrosis",
+                              "Vascular Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000009202",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Cardiomyopathies",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02323477"
+                        ]
+                  },
+                  {
+                        "Rank": 44,
+                        "ConditionBrowseBranchName": [],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [],
+                        "ConditionBrowseLeafName": [],
+                        "ConditionBrowseLeafRelevance": [],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01649752"
+                        ]
+                  },
+                  {
+                        "Rank": 45,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Heart Failure",
+                              "Cardiomyopathy"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M11306",
+                              "M8571"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Cardiomyopathies",
+                              "Heart Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009369",
+                              "D000006333",
+                              "D000009202"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Neoplasms",
+                              "Heart Failure",
+                              "Cardiomyopathies"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02962661"
+                        ]
+                  },
+                  {
+                        "Rank": 46,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemic",
+                              "Heart Disease",
+                              "Ischemic Heart Disease",
+                              "Ischemic Heart Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M14729",
+                              "M9695",
+                              "M8571",
+                              "M5698",
+                              "M18658",
+                              "M5701",
+                              "M16552",
+                              "M3621",
+                              "M3617"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Shock",
+                              "Ischemia",
+                              "Heart Diseases",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Coronary Disease",
+                              "Vascular Diseases",
+                              "Arteriosclerosis",
+                              "Arterial Occlusive Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006331",
+                              "D000017202",
+                              "D000003324",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Heart Diseases",
+                              "Myocardial Ischemia",
+                              "Coronary Artery Disease",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "S-CURE study has a two-stage design. Stage 1 is an open-labled, lead-in study. 20 participants will be enrolled in this stage. It is conducted to assess the feasibility and safety of the study procedures as well as the bioactivity of the products. Stage 2 is an randomized, placebo controlled study, 100 participants will be enrolled in this stage."
+                        ],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03397095"
+                        ]
+                  }
+            ]
+      }
+}

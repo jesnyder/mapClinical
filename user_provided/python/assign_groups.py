@@ -17,6 +17,7 @@ from admin import retrieve_df
 from admin import retrieve_json
 from admin import retrieve_path
 from admin import save_json
+from admin import save_value
 
 from list_trials import list_location
 
@@ -37,11 +38,12 @@ def assign_groups():
         url = str(trial['URL'])
         if url in urls: continue
 
-        print(round(trials.index(trial) / len(trials) * 100, 3))
+        #print(round(trials.index(trial) / len(trials) * 100, 3))
 
         int = trial['Interventions']
         title = trial['Title']
-        int = (str(int) + ' ' + str(title)).lower()
+        desc = trial['desc']
+        int = (str(int) + ' ' + str(title) + ' ' + str(desc)).lower()
 
         allo = 0
         allo_terms = list(retrieve_df('allo_terms')['term'])
@@ -76,6 +78,26 @@ def assign_groups():
     df['undeclared'] = undeclareds
     df = reset_df(df.sort_values(by='url'))
     df.to_csv(retrieve_path('groups'))
+
+    total1 = sum(list(df['allo'])) + sum(list(df['auto'])) + sum(list(df['both'])) +sum(list(df['undeclared']))
+    total2 = sum(list(df['all']))
+    total = len(list(df['all']))
+    assert total1 == total
+    assert total2 == total
+    save_value('group total', total)
+
+    for col in df.columns:
+
+        if col == 'url': continue
+
+        sum_list = sum(list(df[col]))
+        save_name = col + ' found'
+        save_value(save_name, sum_list)
+
+        per_list = sum_list/total*100
+        save_name = col + ' percentage'
+        save_value(save_name, per_list)
+
 
     time_end = datetime.datetime.today()
     print('completed assign_groups ' + str(time_end))

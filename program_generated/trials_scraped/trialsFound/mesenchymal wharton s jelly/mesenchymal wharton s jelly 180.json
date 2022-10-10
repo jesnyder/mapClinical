@@ -1,0 +1,116 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal wharton s jelly",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "June 11, 2020"
+                        ],
+                        "LeadSponsorClass": [
+                              "OTHER"
+                        ],
+                        "LeadSponsorName": [
+                              "Universidad de la Sabana"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Ch\u00eda"
+                        ],
+                        "LocationContactEMail": [
+                              "john.londono@unisabana.edu.co",
+                              "dircientifica@bancodecelulas.com"
+                        ],
+                        "LocationContactName": [
+                              "John Londono, MD,PhD",
+                              "Mabel Avila, MD,PhD"
+                        ],
+                        "LocationContactPhone": [
+                              "573187114885",
+                              "573114747335"
+                        ],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "LocationCountry": [
+                              "Colombia"
+                        ],
+                        "LocationFacility": [
+                              "Universidad de la Sabana"
+                        ],
+                        "LocationState": [
+                              "Chia"
+                        ],
+                        "LocationStatus": [
+                              "Available"
+                        ],
+                        "LocationZip": [],
+                        "NCTId": [
+                              "NCT04432545"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "LastUpdateSubmitDate": [
+                              "April 27, 2022"
+                        ],
+                        "LeadSponsorClass": [
+                              "INDUSTRY"
+                        ],
+                        "LeadSponsorName": [
+                              "Polski Bank Komorek Macierzystych JSC (PBKM)"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Cz\u0119stochowa"
+                        ],
+                        "LocationContactEMail": [],
+                        "LocationContactName": [],
+                        "LocationContactPhone": [],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [],
+                        "LocationCountry": [
+                              "Poland"
+                        ],
+                        "LocationFacility": [
+                              "JST sp. z o.o."
+                        ],
+                        "LocationState": [],
+                        "LocationStatus": [],
+                        "LocationZip": [
+                              "42-202"
+                        ],
+                        "NCTId": [
+                              "NCT04651855"
+                        ]
+                  }
+            ]
+      }
+}

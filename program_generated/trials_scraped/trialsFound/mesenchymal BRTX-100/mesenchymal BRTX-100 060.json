@@ -1,0 +1,86 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal BRTX-100",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This is a double-blind, saline-controlled, and randomized study with blinded assessments using a single dose. Subjects that have a current diagnosis of chronic lumbar disc disease and meet eligibility criteria will be enrolled. Chronic lumbar disc disease is defined as back and/or radicular pain with degeneration of the disc confirmed by patient history, physical examination, and radiographic measures such as computed tomography (CT), magnetic resonance imaging (MRI), plain film, myelography, discography, or other acceptable means."
+                        ],
+                        "BriefTitle": [
+                              "A Single Dose of BRTX 100 for Patients With Chronic Lumbar Disc Disease (cLDD)"
+                        ],
+                        "CentralContactEMail": [
+                              "FSilva@biorestorative.com"
+                        ],
+                        "CentralContactName": [
+                              "Francisco Silva"
+                        ],
+                        "CentralContactPhone": [
+                              "1(949)394-0132"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "August 31, 2025"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Lumbar Disc Disease"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000001847",
+                              "D000009140",
+                              "D000006547",
+                              "D000020763"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Bone Diseases",
+                              "Musculoskeletal Diseases",
+                              "Hernia",
+                              "Pathological Conditions, Anatomical"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC05",
+                              "All",
+                              "BC23",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT04042844"
+                        ]
+                  }
+            ]
+      }
+}

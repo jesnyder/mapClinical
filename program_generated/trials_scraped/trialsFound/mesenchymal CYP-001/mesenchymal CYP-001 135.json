@@ -1,0 +1,94 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal CYP-001",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "FlowRecruitmentDetails",
+                  "FlowTypeUnitsAnalyzed",
+                  "Gender",
+                  "GenderBased",
+                  "GenderDescription",
+                  "HasExpandedAccess",
+                  "HealthyVolunteers",
+                  "IPDSharing",
+                  "IPDSharingAccessCriteria",
+                  "IPDSharingDescription",
+                  "IPDSharingInfoType",
+                  "IPDSharingTimeFrame",
+                  "IPDSharingURL",
+                  "InterventionAncestorId",
+                  "InterventionAncestorTerm",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "FlowRecruitmentDetails": [],
+                        "FlowTypeUnitsAnalyzed": [],
+                        "Gender": [
+                              "All"
+                        ],
+                        "GenderBased": [],
+                        "GenderDescription": [],
+                        "HasExpandedAccess": [
+                              "No"
+                        ],
+                        "HealthyVolunteers": [
+                              "No"
+                        ],
+                        "IPDSharing": [],
+                        "IPDSharingAccessCriteria": [],
+                        "IPDSharingDescription": [],
+                        "IPDSharingInfoType": [],
+                        "IPDSharingTimeFrame": [],
+                        "IPDSharingURL": [],
+                        "InterventionAncestorId": [],
+                        "InterventionAncestorTerm": [],
+                        "NCTId": [
+                              "NCT02923375"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "FlowRecruitmentDetails": [],
+                        "FlowTypeUnitsAnalyzed": [],
+                        "Gender": [
+                              "All"
+                        ],
+                        "GenderBased": [],
+                        "GenderDescription": [],
+                        "HasExpandedAccess": [
+                              "No"
+                        ],
+                        "HealthyVolunteers": [
+                              "No"
+                        ],
+                        "IPDSharing": [
+                              "Yes"
+                        ],
+                        "IPDSharingAccessCriteria": [
+                              "All reasonable requests for raw and analysed data that are not included in primary publications from this study may be available upon request and discretion from the Sponsor from the beginning to the trial. Data may be made available to active collaborators in the COVID-19 Stem Cell Treatment (CSCT) Group, subject to permission from the Sponsor and ethics approval if required. All other reasonable requests for raw and analysed data will be considered by the Sponsor. Data may be obtained upon permission from the Sponsor."
+                        ],
+                        "IPDSharingDescription": [
+                              "IPD relating to efficacy of MSCs in COVID-19 may be shared, subject to permission from Sponsor and ethics approval if required. All de-identified data collected during this study may be shared confidentially to contribute to meta-analysis of mesenchymal stem cell treatments for COVID-19. Request for IPD from this trial for other purposes will be considered by the Sponsor."
+                        ],
+                        "IPDSharingInfoType": [],
+                        "IPDSharingTimeFrame": [
+                              "Data requests will be considered after the completion of the study. There is no specified end date."
+                        ],
+                        "IPDSharingURL": [],
+                        "InterventionAncestorId": [],
+                        "InterventionAncestorTerm": [],
+                        "NCTId": [
+                              "NCT04537351"
+                        ]
+                  }
+            ]
+      }
+}

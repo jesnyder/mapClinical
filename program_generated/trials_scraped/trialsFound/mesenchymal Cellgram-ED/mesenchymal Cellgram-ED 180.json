@@ -1,0 +1,136 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Cellgram-ED",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "October 22, 2020"
+                        ],
+                        "LeadSponsorClass": [
+                              "INDUSTRY"
+                        ],
+                        "LeadSponsorName": [
+                              "Pharmicell Co., Ltd."
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Seoul",
+                              "Seoul",
+                              "Seoul"
+                        ],
+                        "LocationContactEMail": [
+                              "dalsanyou@amc.seoul.kr"
+                        ],
+                        "LocationContactName": [
+                              "Dalsan You, PhD",
+                              "Chungsu Kim, Ph. D",
+                              "Beomjin Im",
+                              "Woncheol Lee",
+                              "Seongwon Lee",
+                              "Seongwon Lee",
+                              "Deokhyun Han",
+                              "Jiyoul Lee, Ph.D",
+                              "Jiyoul Lee",
+                              "Hyongwoo Moon",
+                              "WoongJin Bae"
+                        ],
+                        "LocationContactPhone": [
+                              "82-2-3010-3979"
+                        ],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [
+                              "Contact",
+                              "Principal Investigator",
+                              "Sub-Investigator",
+                              "Sub-Investigator",
+                              "Contact",
+                              "Principal Investigator",
+                              "Sub-Investigator",
+                              "Contact",
+                              "Principal Investigator",
+                              "Sub-Investigator",
+                              "Sub-Investigator"
+                        ],
+                        "LocationCountry": [
+                              "Korea, Republic of",
+                              "Korea, Republic of",
+                              "Korea, Republic of"
+                        ],
+                        "LocationFacility": [
+                              "Asan medical center",
+                              "Samsung medical center",
+                              "Seoul ST. Mary's hospital"
+                        ],
+                        "LocationState": [],
+                        "LocationStatus": [
+                              "Recruiting",
+                              "Recruiting",
+                              "Recruiting"
+                        ],
+                        "LocationZip": [],
+                        "NCTId": [
+                              "NCT04594850"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "LastUpdateSubmitDate": [
+                              "January 7, 2019"
+                        ],
+                        "LeadSponsorClass": [
+                              "INDUSTRY"
+                        ],
+                        "LeadSponsorName": [
+                              "Pharmicell Co., Ltd."
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Seoul"
+                        ],
+                        "LocationContactEMail": [],
+                        "LocationContactName": [],
+                        "LocationContactPhone": [],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [],
+                        "LocationCountry": [
+                              "Korea, Republic of"
+                        ],
+                        "LocationFacility": [
+                              "Asan medical center"
+                        ],
+                        "LocationState": [],
+                        "LocationStatus": [],
+                        "LocationZip": [],
+                        "NCTId": [
+                              "NCT02344849"
+                        ]
+                  }
+            ]
+      }
+}

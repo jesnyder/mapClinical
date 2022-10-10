@@ -1,0 +1,102 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Chondrochymal",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Subjects will be IA injected at the target knee with 3 mL of Chondrochymal\u00ae containing 5.0 x 107 BM-MSCs in lactated Ringer's solution at Day 1.",
+                              "Hya-Joint Plus Synovial Fluid Supplement containing 60 mg/3 mL of hyaluronic acid will be IA administrated into the subject's target knee at Day 1."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Bone marrow mesenchymal stem cells",
+                              "Drug: hyaluronic acid"
+                        ],
+                        "ArmGroupLabel": [
+                              "Chondrochymal\u00ae group",
+                              "Hya-Joint Plus Synovial Fluid Supplement"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05027581"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "At this stage, 3 patients with knee OA will be treated by the cell products of this dose.",
+                              "At this stage, 3 patients with knee OA will be treated by the cell products of this dose.",
+                              "At this stage, 3 patients with knee OA will be treated by the cell products of this dose."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Chondrochymal\u00ae",
+                              "Biological: Chondrochymal\u00ae",
+                              "Biological: Chondrochymal\u00ae"
+                        ],
+                        "ArmGroupLabel": [
+                              "Chondrochymal\u00ae 1 x 10^7 cells",
+                              "Chondrochymal\u00ae 5 x 10^7 cells",
+                              "Chondrochymal\u00ae 10 x 10^7 cells"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03589287"
+                        ]
+                  }
+            ]
+      }
+}

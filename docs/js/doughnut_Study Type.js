@@ -4,19 +4,31 @@ const config_Study Type = {
     "type": "doughnut",
     "data": {
         "labels": [
-            "Interventional",
-            "Observational"
+            "OTHER",
+            "INDUSTRY",
+            "OTHER_GOV",
+            "NETWORK",
+            "NIH",
+            "FED"
         ],
         "datasets": [
             {
                 "label": "all",
                 "data": [
-                    43048,
-                    2650
+                    40578,
+                    21778,
+                    3135,
+                    385,
+                    31,
+                    82
                 ],
                 "backgroundColor": [
                     "rgb(212,178,212)",
-                    "rgb(255,105,140)"
+                    "rgb(255,105,140)",
+                    "rgb(92,141,255)",
+                    "rgb(127,212,85)",
+                    "rgb(89,212,126)",
+                    "rgb(85,212,212)"
                 ]
             }
         ]

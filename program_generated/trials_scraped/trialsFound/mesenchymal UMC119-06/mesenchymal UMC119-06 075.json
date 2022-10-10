@@ -1,0 +1,406 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal UMC119-06",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 5,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 5,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Frailty Syndrome",
+                              "Syndrome"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M1175",
+                              "M15507"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Frailty",
+                              "Syndrome"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000013577",
+                              "D000073496"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Syndrome",
+                              "Frailty"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Sequential Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Cohort 1: Low dose of UMC119-06-05 Cohort 1: High dose of UMC119-06-05"
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04914403"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Obstructive Pulmonary Disease",
+                              "Chronic Obstructive Pulmonary Disease",
+                              "Pulmonary Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10322",
+                              "M22602",
+                              "M10320",
+                              "M14129",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Lung Diseases, Obstructive",
+                              "Pulmonary Disease, Chronic Obstructive",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008171",
+                              "D000008173",
+                              "D000029424"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Lung Diseases",
+                              "Lung Diseases, Obstructive",
+                              "Pulmonary Disease, Chronic Obstructive"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04206007"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M12078",
+                              "M21321",
+                              "M3628",
+                              "M9773",
+                              "M11249",
+                              "M14197",
+                              "M5475"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee",
+                              "Arthritis",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000010003",
+                              "D000020370"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Sequential Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Cohort 1 : Low does UMC119-06-05 + Hyaluronic acid\uff1b Cohort 2 : High does UMC119-06-05 + Hyaluronic acid"
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04893174"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ConditionBrowseBranchName": [
+                              "Nervous System Diseases",
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemic Stroke",
+                              "Stroke",
+                              "Ischemic",
+                              "Ischemic Stroke"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M2401",
+                              "M21459",
+                              "M9695",
+                              "M9434",
+                              "M4945",
+                              "M4962",
+                              "M4356",
+                              "M4894",
+                              "M16552",
+                              "M21458",
+                              "M4946",
+                              "M11436",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemic Stroke",
+                              "Stroke",
+                              "Ischemia",
+                              "Infarction",
+                              "Cerebral Infarction",
+                              "Cerebrovascular Disorders",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Vascular Diseases",
+                              "Brain Infarction",
+                              "Brain Ischemia",
+                              "Necrosis",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000020521",
+                              "D000083242",
+                              "D000002544",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Stroke",
+                              "Ischemic Stroke",
+                              "Cerebral Infarction",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04097652"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Wounds and Injuries",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Syndrome",
+                              "Respiratory Distress Syndrome",
+                              "Respiratory Distress Syndrome",
+                              "Acute Respiratory Distress Syndrome",
+                              "Respiratory Distress Syndrome",
+                              "Acute Respiratory Distress Syndrome"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M15507",
+                              "M14117",
+                              "M14116",
+                              "M27297",
+                              "M27296",
+                              "M10320",
+                              "M14129",
+                              "M14109",
+                              "M25022",
+                              "M9431",
+                              "M9428",
+                              "T4927",
+                              "T192",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Syndrome",
+                              "Respiratory Distress Syndrome",
+                              "Respiratory Distress Syndrome, Newborn",
+                              "Acute Lung Injury",
+                              "Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Respiration Disorders",
+                              "Premature Birth",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Respiratory Distress Syndrome, Infant",
+                              "Acute Respiratory Distress Syndrome",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000012128",
+                              "D000012127",
+                              "D000055371",
+                              "D000013577"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Respiratory Distress Syndrome",
+                              "Respiratory Distress Syndrome, Newborn",
+                              "Acute Lung Injury",
+                              "Syndrome"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04347967"
+                        ]
+                  }
+            ]
+      }
+}

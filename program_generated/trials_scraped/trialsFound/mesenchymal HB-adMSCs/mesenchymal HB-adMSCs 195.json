@@ -1,0 +1,842 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal HB-adMSCs",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 25,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 25,
+            "FieldList": [
+                  "MaximumAge",
+                  "MinimumAge",
+                  "NCTId",
+                  "NCTIdAlias",
+                  "OfficialTitle",
+                  "OrgClass",
+                  "OrgFullName",
+                  "OrgStudyId",
+                  "OrgStudyIdDomain",
+                  "OrgStudyIdLink",
+                  "OrgStudyIdType",
+                  "OtherEventAssessmentType",
+                  "OtherEventNotes",
+                  "OtherEventOrganSystem",
+                  "OtherEventSourceVocabulary"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "MaximumAge": [
+                              "85 Years"
+                        ],
+                        "MinimumAge": [
+                              "50 Years"
+                        ],
+                        "NCTId": [
+                              "NCT04228666"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Clinical Trial to Determine the Safety and Efficacy of Hope Biosciences Autologous Mesenchymal Stem Cell Therapy (HB-adMSCs) for the Treatment of Alzheimer's Disease"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBALZ01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 2,
+                        "MaximumAge": [],
+                        "MinimumAge": [],
+                        "NCTId": [
+                              "NCT04087889"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Individual Patient Expanded Access IND of Hope Biosciences Allogeneic First Blood Relative Adipose-derived Mesenchymal Stem Cells (HB-adMSCs) for Pancreatic Cancer"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBPC01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 3,
+                        "MaximumAge": [],
+                        "MinimumAge": [],
+                        "NCTId": [
+                              "NCT04349631"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Phase II, Open Label, Single-Center, Clinical Trial to Assess Efficacy of HB-adMSCs to Provide Immune Support Against Coronavirus Disease"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBCOV01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 4,
+                        "MaximumAge": [
+                              "65 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT03691909"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Phase 1/2a Clinical Trial to Assess Safety of a Single IV Infusion of Autologous Adipose-derived Mesenchymal Stem Cells in Adults With Active Rheumatoid Arthritis"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBRA01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment"
+                        ],
+                        "OtherEventNotes": [
+                              "Rheumatoid Arthritis Flare/Worsening of RA",
+                              "Staph Infection",
+                              "Diffuse Rash/Rash on Abdomen",
+                              "Shortness of Breath",
+                              "Bowel Blockage",
+                              "Anemia/Anemia Chronic Disease",
+                              "Renal Insufficiency",
+                              "Right Eyelid Pruritis",
+                              "Cyst Right Ear",
+                              "Neck Spasm"
+                        ],
+                        "OtherEventOrganSystem": [
+                              "Immune system disorders",
+                              "Skin and subcutaneous tissue disorders",
+                              "Skin and subcutaneous tissue disorders",
+                              "Respiratory, thoracic and mediastinal disorders",
+                              "Gastrointestinal disorders",
+                              "Blood and lymphatic system disorders",
+                              "Vascular disorders",
+                              "Blood and lymphatic system disorders",
+                              "Infections and infestations",
+                              "Renal and urinary disorders",
+                              "Eye disorders",
+                              "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+                              "Musculoskeletal and connective tissue disorders",
+                              "Infections and infestations",
+                              "Surgical and medical procedures"
+                        ],
+                        "OtherEventSourceVocabulary": [
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT",
+                              "SNOMED CT"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "MaximumAge": [],
+                        "MinimumAge": [],
+                        "NCTId": [
+                              "NCT04348435"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Randomized, Double-Blind, Single Center, Efficacy and Safety Study of Allogeneic HB-adMSCs to Provide Immune Support Against COVID-19"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBCOV02"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 6,
+                        "MaximumAge": [],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT04289194"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Phase 1/2 Clinical Study to Assess the Feasibility, Safety, Tolerability and Preliminary Efficacy of the Administration of HCR040, Allogeneic Adipose-derived Adult Mesenchymal Stem Cells, in Acute Respiratory Distress Syndrome"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Histocell, S.L."
+                        ],
+                        "OrgStudyId": [
+                              "ALICELL-CT-01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 7,
+                        "MaximumAge": [
+                              "80 Years"
+                        ],
+                        "MinimumAge": [
+                              "19 Years"
+                        ],
+                        "NCTId": [
+                              "NCT04527224"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Phase I/\u2161a Trial to Explore the Safety and Efficacy of Allogenic Adipose Tissue-derived Mesenchymal Stem Cell (AstroStem-V) Therapy in Patients With COVID-19 Pneumonia"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Nature Cell Co. Ltd."
+                        ],
+                        "OrgStudyId": [
+                              "ASVP1N2A-US"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 8,
+                        "MaximumAge": [],
+                        "MinimumAge": [
+                              "3 Years"
+                        ],
+                        "NCTId": [
+                              "NCT04029896"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Individual Patient Expanded Access IND of Autologous Adipose-derived Mesenchymal Stem Cells for the Treatment of Cerebral Palsy"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBCP01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 9,
+                        "MaximumAge": [],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT04064957"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Hope Biosciences Autologous Adipose-derived Mesenchymal Stem Cell Therapy for Chronic Spinal Cord Injury"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBSCI02"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 10,
+                        "MaximumAge": [],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT03925649"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Individual Patient Expanded Access IND (Investigational New Drug) of Autologous HB-adMSCs for the Treatment of Spinal Cord Injury"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBSCI01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 11,
+                        "MaximumAge": [
+                              "55 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT04063215"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Clinical Trial to Determine the Safety and Efficacy of Hope Biosciences Autologous Mesenchymal Stem Cell Therapy for the Treatment of Traumatic Brain Injury and Hypoxic-Ischemic Encephalopathy"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBTBI01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 12,
+                        "MaximumAge": [],
+                        "MinimumAge": [],
+                        "NCTId": [
+                              "NCT04362189"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Randomized, Placebo-Controlled, Double-Blind, Efficacy and Safety Study of Allogeneic HB-adMSCs for the Treatment of COVID-19"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBCOV03"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 13,
+                        "MaximumAge": [
+                              "75 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT05116540"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Randomized, Double-Blind, Single-Center, Phase 2, Efficacy and Safety Study of Autologous HB-adMSCs vs Placebo for the Treatment of Patients With Multiple Sclerosis"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBMS01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 14,
+                        "MaximumAge": [
+                              "80 Years"
+                        ],
+                        "MinimumAge": [
+                              "45 Years"
+                        ],
+                        "NCTId": [
+                              "NCT04995081"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Randomized, Double-Blind, Single Center, Phase 2, Efficacy and Safety Study of Allogeneic HB-adMSCs vs Placebo for the Treatment of Patients With Parkinson's Disease"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBPD04"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 15,
+                        "MaximumAge": [
+                              "75 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT04928287"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "\"A Randomized, Double-Blind, Single Center, Phase 2, Efficacy and Safety Study of Autologous HB-adMSCs vs Placebo for the Treatment of Patients With Parkinson's Disease\""
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBPD03"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 16,
+                        "MaximumAge": [],
+                        "MinimumAge": [],
+                        "NCTId": [
+                              "NCT04604288"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Individual Patient Expanded Access IND to Evaluate the Safety and Preliminary Efficacy of Autologous HB-adMSCS for the Treatment of Bilateral Knee Pain."
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBKP01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 17,
+                        "MaximumAge": [],
+                        "MinimumAge": [],
+                        "NCTId": [
+                              "NCT04514952"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Individual Patient Expanded Access IND of Autologous HBadMSCs for the Treatment of Amyotrophic Lateral Sclerosis"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBALS01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 18,
+                        "MaximumAge": [
+                              "70 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT05126563"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Randomized, Double-blinded, Single-center, Phase 2 Efficacy, and Safety Study of Allogeneic HB-adMSCs for the Treatment of Patients With Chronic Post-COVID-19 Syndrome."
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBPCOVID02"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 19,
+                        "MaximumAge": [
+                              "95 Years"
+                        ],
+                        "MinimumAge": [
+                              "76 Years"
+                        ],
+                        "NCTId": [
+                              "NCT04772378"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "An Intermediate Size Patient Population Expanded Access IND to Evaluate the Safety of Autologous HB-adMSCs for the Treatment of Patients With Parkinson's Disease."
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBPD05"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 20,
+                        "MaximumAge": [
+                              "65 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT04798066"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Intermediate Size Patient Population Expanded Access Protocol to Evaluate the Safety and Efficacy of HB-adMSCs for the Treatment of Patients With Post-COVID-19 Syndrome."
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBPCOV01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 21,
+                        "MaximumAge": [],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT04711811"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Individual Patient Expanded Access IND Using HB-adMSCs for the Treatment of Chronic Musculoskeletal Pain."
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBCMP01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 22,
+                        "MaximumAge": [],
+                        "MinimumAge": [],
+                        "NCTId": [
+                              "NCT04825626"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "An Expanded Access IND to Evaluate the Safety and Preliminary Efficacy of Autologous HB-adMSCs for the Treatment of a Single Patient With Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBCIDP01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 23,
+                        "MaximumAge": [],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT04825613"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "\"Individual Patient Expanded Access IND to Evaluate the Safety and Efficacy of HB-adMSCs for the Treatment of Primary Lateral Sclerosis\""
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBPLS01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 24,
+                        "MaximumAge": [],
+                        "MinimumAge": [],
+                        "NCTId": [
+                              "NCT04064983"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "An Expanded Access IND to Evaluate the Safety and Efficacy of Autologous HB-adMSCs for the Treatment of a Single Patient With Polyneuropathy"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBPN01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 25,
+                        "MaximumAge": [],
+                        "MinimumAge": [],
+                        "NCTId": [
+                              "NCT05154851"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "An Expanded Access IND to Evaluate the Safety and Efficacy of Autologous HBadMSCs for the Treatment of a Single Pediatric Patient With Congenital Muscular Dystrophy."
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Hope Biosciences"
+                        ],
+                        "OrgStudyId": [
+                              "HBCMD01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  }
+            ]
+      }
+}

@@ -1,0 +1,146 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Cellgram-ED",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Behaviors and Mental Disorders",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Erectile Dysfunction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9369",
+                              "M14698",
+                              "M21026",
+                              "M13625",
+                              "M3967"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Erectile Dysfunction",
+                              "Sexual Dysfunction, Physiological",
+                              "Sexual Dysfunctions, Psychological",
+                              "Psychotic Disorders",
+                              "Mental Disorders"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007172"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Erectile Dysfunction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04594850"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Behaviors and Mental Disorders",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Erectile Dysfunction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9369",
+                              "M14698",
+                              "M21026",
+                              "M13625",
+                              "M3967"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Erectile Dysfunction",
+                              "Sexual Dysfunction, Physiological",
+                              "Sexual Dysfunctions, Psychological",
+                              "Psychotic Disorders",
+                              "Mental Disorders"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007172"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Erectile Dysfunction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02344849"
+                        ]
+                  }
+            ]
+      }
+}

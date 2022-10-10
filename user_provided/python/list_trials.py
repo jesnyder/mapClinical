@@ -17,88 +17,7 @@ from admin import retrieve_df
 from admin import retrieve_path
 from admin import retrieve_json
 from admin import save_json
-
-
-def query_trials():
-    """
-
-    """
-
-    time_begin = datetime.datetime.today()
-    print('begin query_trials ' + str(time_begin))
-
-    """
-    find fields from
-    https://clinicaltrials.gov/api/info/study_fields_list?fmt=XML
-    """
-    fields = ["NCTId", "Condition", "BriefTitle", "InterventionName"]
-    fields.append("OfficialTitle")
-    fields.append("LocationFacility")
-    fields.append("LocationCity")
-    fields.append("LocationState")
-    fields.append("LocationCountry")
-    fields.append("StartDate")
-    fields.append("OverallStatus")
-    fields.append('InterventionName')
-    fields.append('InterventionDescription')
-    fields.append('Gender')
-    fields.append('BriefSummary')
-    fields.append('BriefTitle')
-
-    for term in list(retrieve_df('search_terms')['terms']):
-
-        print(term)
-
-        ct = ClinicalTrials()
-
-        search_expression = term.replace(' ', '+')
-
-        # Get the NCTId, Condition and Brief title fields from 500 studies related to Coronavirus and Covid, in csv format.
-        corona_fields = ct.get_study_fields(
-            search_expr=search_expression,
-            fields=fields,
-            max_studies=100,
-            fmt="csv",
-        )
-
-
-        df = pd.DataFrame.from_records(corona_fields[1:], columns=corona_fields[0])
-        file_dst = os.path.join(retrieve_path('trials_found'), term + '.csv')
-        df.to_csv(file_dst)
-
-
-        """
-        # open destination file
-        file_dst = os.path.join(retrieve_path('trials_found'), term + '.csv')
-        f = open(file_dst,"w+")
-        for line in corona_fields:
-            print(line)
-            f.write(str(line) + '\n')
-        f.close()
-
-        # Get 50 full studies related to Coronavirus and COVID in json format.
-        # corona_fields = ct.get_full_studies(search_expr=search_expression)
-
-
-        # Get the count of studies related to Coronavirus and COVID.
-        # ClinicalTrials limits API queries to 1000 records
-        # Count of studies may be useful to build loops when you want to retrieve more than 1000 records
-
-        #ct.get_study_count(search_expr="Coronavirus+COVID")
-
-        # Read the csv data in Pandas
-
-        print(corona_fields)
-
-
-
-        #df = pd.DataFrame.from_records(corona_fields[1:], columns=corona_fields[0])
-        file_dst = os.path.join(retrieve_path('trials_found'), term + '.json')
-        save_json(corona_fields, file_dst)
-
-        #df.to_csv(file_dst)
-        #print(df)
-        """
+from admin import save_value
 
 
 def list_trials():
@@ -107,24 +26,218 @@ def list_trials():
     Map clinical trials
     """
 
+    tasks = [0, 1, 2, 3, 4]
+
+    time_begin = datetime.datetime.today()
+    print('begin list_df ' + str(time_begin))
+    if 0 in tasks: list_df()
+    print('trials found = ' + str(len(list(retrieve_df('trials_all_archive')['URL']))))
+
+    time_begin = datetime.datetime.today()
+    print('begin list_df ' + str(time_begin))
+    if 1 in tasks: list_included()
+    print('trials found = ' + str(len(list(retrieve_df('trials_all')['URL']))))
+
+    print('begin list_json ' + str(datetime.datetime.today()))
+    if 2 in tasks: list_json()
+    print('completed list_json ' + str(datetime.datetime.today()))
+
+    print('begin list_locations ' + str(datetime.datetime.today()))
+    if 3 in tasks: list_locations()
+    print('completed list_locations ' + str(datetime.datetime.today()))
+
+
+def list_df():
+    """
+    create csv
+    """
 
     time_begin = datetime.datetime.today()
     print('begin list_trials ' + str(time_begin))
 
-
-    trials = []
-    df_all = pd.DataFrame()
+    df_all = retrieve_df('scraped_trials_df')
+    save_value('scraped trials count', len(list(df_all['URL'])))
 
     src = retrieve_path('clinical_src')
     for file in os.listdir(src):
 
         df = retrieve_df(os.path.join(src, file))
+        del df['Rank']
 
-        df_all = df_all.append(df)
-        df_all = df_all.drop_duplicates(subset = "URL", keep='first')
-        df_all = reset_df(df_all.sort_values(by='Enrollment', ascending=False))
-        df_all.to_csv(retrieve_path('trials_all'))
+        for url in list(df['URL']):
 
+            known_urls = list(df_all['URL'])
+
+            if url in known_urls: continue
+
+            df_url = df[df['URL'] == url]
+            df_all = df_all.append(df_url)
+            df_all = df_all.drop_duplicates(subset = "URL", keep='first')
+            df_all = reset_df(df_all.sort_values(by='Enrollment', ascending=False))
+            df_all.to_csv(retrieve_path('trials_all_archive'))
+
+        print('trials found = ' + str(len(list(retrieve_df('trials_all_archive')['URL']))))
+        save_value('scraped + downloaded trials count', len(list(df_all['URL'])))
+
+
+def list_included():
+    """
+    list only trials that pass an exclusion test
+    """
+    append_list('trials_removed', 'reset')
+    build_included_df('reset')
+
+    # retrieve all found trials
+    df = retrieve_df('trials_all_archive')
+    nums = list(df['NCT Number'])
+
+    for num in nums:
+
+        i = nums.index(num)
+        url = df.at[i, 'URL']
+        desc = df.at[i, 'desc']
+
+        print('url = ' + str(url))
+
+        # do not append the trial, if it is listed in te "excluded trial" list
+        if specified_excluded(url) == True:
+            append_list('trials_removed', url)
+            continue
+
+        if 'NCT03963544' in url:
+            assert 1 == 2
+
+        # do not append the trial, if keywords are not found in the title, summary, or intervention
+        if keyword_found(desc) == False:
+            append_list('trials_removed', url)
+            continue
+
+        df_temp = df[df['NCT Number'] == num]
+        build_included_df(df_temp)
+
+
+def keyword_found(desc):
+    """
+    return True is keyword found
+    else False
+    """
+
+    print(np.isnan(np.inf))
+    if pd.isnull(desc) == True: return(False)
+    #if np.isnan(desc) == True: return(False)
+
+    mandatory_terms = ['mesenchymal', 'msc', 'prochymal']
+    mandatory_terms.append('bone marrow cells')
+    mandatory_terms.append('ALLO-ASC-SHEET')
+    mandatory_terms.append('FANCA Gene Transfer for Fanconi Anemia Using a High-safety')
+    mandatory_terms.append('gene transfer for ada-scid using an improved lentiviral vector (tyf-ada) gene transfer for adenosine deaminase-severe combined immunodeficiency')
+    mandatory_terms.append('autologous adipose-derived stromal cells delivered intra-articularly in patients with osteoarthritis. an open-label, non-randomized, multi-center study ')
+    mandatory_terms.append('3d tissue engineered bone equivalent for treatment of traumatic bone defects safety and efficacy study of traumatic bone defects treatment with use of')
+    mandatory_terms.append('FURESTEM-CD Inj.')
+    mandatory_terms.append('Bone Marrow Stem Cells')
+    mandatory_terms.append('AVB-114')
+
+    for mandatory_term in mandatory_terms:
+        #print('mandatory_term = ' + str(mandatory_term))
+        mandatory_term = str(mandatory_term)
+        #print('mandatory_term = ' + str(mandatory_term))
+        mandatory_term = mandatory_term.lower()
+        #print('mandatory_term = ' + str(mandatory_term))
+        #print('desc = ')
+        #print(desc)
+        if mandatory_term in desc:
+            return(True)
+
+    return(False)
+
+
+def specified_excluded(url):
+    """
+    return True if found in excluded list
+    """
+
+    excluded = list(retrieve_df('excluded_trials')['url'])
+    assert len(excluded) > 1
+
+    if url in excluded: return(True)
+
+    for item in excluded:
+
+        url_id = str(url.split('/')[-1])
+        excluded_id = str(item.split('/')[-1])
+
+        if str(url_id) in str(excluded_id):
+            print('listed_excluded url = ' + str(item))
+            print('url = ' + str(url))
+            return(True)
+
+    return(False)
+
+
+def build_included_df(df_temp):
+    """
+    append trial that passed inclusion check
+    """
+
+    try:
+        if df_temp == 'reset':
+            print('reset')
+            if os.path.exists(retrieve_path('trials_all')):
+                os.remove(retrieve_path('trials_all'))
+            return()
+    except:
+        df_temp = df_temp
+
+    try:
+        df = retrieve_df('trials_all')
+        df = df.append(df_temp)
+    except:
+        df = df_temp
+
+    try:
+        df = reset_df(df.sort_values(by='Enrollment'))
+    except:
+        print(df)
+        df = reset_df(df)
+
+    df.to_csv(retrieve_path('trials_all'))
+
+
+def append_list(path, value):
+    """
+    list found values
+    """
+
+    if value == 'reset':
+        df = pd.DataFrame()
+        df['term'] = []
+        df.to_csv(retrieve_path(path))
+        return()
+
+    try:
+        df = retrieve_df(path)
+        df = df[df['term'] != value]
+
+    except:
+        df = pd.DataFrame()
+        df['term'] = []
+
+    df_temp = pd.DataFrame()
+    df_temp['term'] = [value]
+    df = df.append(df_temp)
+    df = reset_df(df.sort_values(by='term'))
+    df.to_csv(retrieve_path(path))
+
+    save_value('trials removed for applicability', len(list(df['term'])))
+
+
+def list_json():
+    """
+    save csv
+    """
+
+    trials = []
+    df_all = retrieve_df('trials_all')
 
     items = list(df_all['NCT Number'])
     for item in items:
@@ -140,25 +253,31 @@ def list_trials():
             value = df_all.at[i, col]
 
             if 'Condition' in col:
-                value = scrub_interventions(value)
+                value = scrub_conditions(value)
 
             trial[col] = str(value)
 
-            if trial in trials: continue
-            trials.append(trial)
+        if trial in trials:
+            #print('duplicate found: ')
+            #print(trial)
+            continue
+
+        trials.append(trial)
 
         trials_dict = {}
         trials_dict['item_count'] = len(trials)
         trials_dict['trials'] = trials
         save_json(trials_dict, 'trials')
 
-    list_locations()
+        print('trials json-ed = ' + str(len(trials)))
+        save_value('json-ed trials', len(trials))
+
 
     time_end = datetime.datetime.today()
     print('completed list_trials ' + str(time_end))
 
 
-def scrub_interventions(value):
+def scrub_conditions(value):
     """
     return value
     """
@@ -198,8 +317,6 @@ def scrub_interventions(value):
     return(value)
 
 
-
-
 def list_locations():
     """
     create list of locations
@@ -210,9 +327,14 @@ def list_locations():
 
     trials = retrieve_json('trials')['trials']
 
+    print('trials found: ' + str(len(trials)))
+
     for trial in trials:
 
         location = trial['Locations']
+
+        print('location = ')
+        print(location)
 
         location_list = list_location(location)
 
@@ -225,6 +347,8 @@ def list_locations():
         df['location'] = locations
         df = reset_df(df.sort_values(by='location'))
         df.to_csv(retrieve_path('location'))
+
+        save_value('location unique count', len(list(df['location'])))
 
 
 def list_location(location):

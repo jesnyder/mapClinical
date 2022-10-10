@@ -1,0 +1,323 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Lomecel-B",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 5,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 5,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This is a phase I/II, randomized, blinded and placebo-controlled study to test the safety and efficacy of Lomecel-B for improving vaccine immune response."
+                        ],
+                        "BriefTitle": [
+                              "Lomecel-B on Vaccine-Specific Antibody- Response in Subjects With Aging Frailty"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "June 2022"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Aging Frailty"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010335"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathologic Processes"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All"
+                        ],
+                        "NCTId": [
+                              "NCT02982915"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "BriefSummary": [
+                              "This study is designed to assess the safety, tolerability, and efficacy of Lomecel-B as an adjunct therapy to the standard stage II (BDCPA) surgical intervention for HLHS. Lomecel-B will be delivered via intramyocardial injections"
+                        ],
+                        "BriefTitle": [
+                              "Lomecel-B Delivered During Stage II Surgery for Hypoplastic Left Heart Syndrome (ELPIS)"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "December 31, 2021"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "HLHS"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000006330",
+                              "D000018376",
+                              "D000002318",
+                              "D000006331",
+                              "D000000013"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Heart Defects, Congenital",
+                              "Cardiovascular Abnormalities",
+                              "Cardiovascular Diseases",
+                              "Heart Diseases",
+                              "Congenital Abnormalities"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC14",
+                              "BC16",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT03525418"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "BriefSummary": [
+                              "This is a Phase I, prospective, randomized, placebo-controlled, double-blinded study designed to test the safety and efficacy of LMSCs (Longeveron Mesenchymal Stem Cells) for the treatment of subjects with clinically diagnosed Alzheimer's disease."
+                        ],
+                        "BriefTitle": [
+                              "Lomecel-B Infusion Versus Placebo in Patients With Alzheimer's Disease"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "September 2021"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Alzheimer's Disease"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000003704",
+                              "D000001927",
+                              "D000002493",
+                              "D000009422",
+                              "D000024801",
+                              "D000019636",
+                              "D000019965",
+                              "D000001523"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Dementia",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Nervous System Diseases",
+                              "Tauopathies",
+                              "Neurodegenerative Diseases",
+                              "Neurocognitive Disorders",
+                              "Mental Disorders"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC10",
+                              "BXM",
+                              "All",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT02600130"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "BriefSummary": [
+                              "A Phase I, double- blinded, randomized, placebo- controlled study to test the safety of Lomecel-B in Adults suffering from mild to severe acute respiratory distress syndrome (ARDS) due to COVID-19 resultant from 2019-nCoV coronavirus infection, or resultant from influenza virus infection."
+                        ],
+                        "BriefTitle": [
+                              "Regenerative Medicine for COVID-19 and Flu-Elicited ARDS Using Lomecel-B (RECOVER)"
+                        ],
+                        "CentralContactEMail": [
+                              "kramdas@longeveron.com",
+                              "aoliva@longeveron.com"
+                        ],
+                        "CentralContactName": [
+                              "Kevin N Ramdas, MD, MPH",
+                              "Anthony Oliva, PhD"
+                        ],
+                        "CentralContactPhone": [
+                              "786-769-4935",
+                              "305-909-0838"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "July 2025"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "ARDS, Human",
+                              "Covid19"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000012141",
+                              "D000007239",
+                              "D000011024",
+                              "D000011014",
+                              "D000014777",
+                              "D000018352",
+                              "D000003333",
+                              "D000030341",
+                              "D000012327",
+                              "D000008171",
+                              "D000012140",
+                              "D000012120"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Respiratory Tract Infections",
+                              "Infections",
+                              "Pneumonia, Viral",
+                              "Pneumonia",
+                              "Virus Diseases",
+                              "Coronavirus Infections",
+                              "Coronaviridae Infections",
+                              "Nidovirales Infections",
+                              "RNA Virus Infections",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Respiration Disorders"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC01",
+                              "BC08",
+                              "All",
+                              "BC23",
+                              "BC16",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT04629105"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "BriefSummary": [
+                              "The purpose of this study is to test whether Lomecel-B\u2122 works in treating patients with hypoplastic left heart syndrome (HLHS) and to gather additional information about the safety of Lomecel-B. Lomecel-B contains human mesenchymal stem cells (MSCs) as the active ingredient. MSCs are special cells in the body that are able to change into other types of cells, such as heart, blood, and muscle cells. MSCs are found in various tissues of the body, such as the bone marrow, which is the spongy tissue inside of your bones. Lomecel-B uses MSCs from bone marrow of unrelated young healthy donors. These are called \"allogeneic\", and do not require donor matching to the patient."
+                        ],
+                        "BriefTitle": [
+                              "Evaluation of Lomecel-B\u2122 Injection in Patients With Hypoplastic Left Heart Syndrome: A Phase IIb Clinical Trial."
+                        ],
+                        "CentralContactEMail": [
+                              "KVantHof@luriechildrens.org",
+                              "Shelly.L.Sayre@uth.tmc.edu"
+                        ],
+                        "CentralContactName": [
+                              "Kathleen Van't Hof",
+                              "Shelly Sayre"
+                        ],
+                        "CentralContactPhone": [
+                              "312-227-1549",
+                              "713-500-9529"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "NIH",
+                              "OTHER",
+                              "INDUSTRY"
+                        ],
+                        "CollaboratorName": [
+                              "National Heart, Lung, and Blood Institute (NHLBI)",
+                              "The University of Texas Health Science Center, Houston",
+                              "Longeveron Inc."
+                        ],
+                        "CompletionDate": [
+                              "August 2025"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Hypoplastic Left Heart Syndrome"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000004194",
+                              "D000010335",
+                              "D000006330",
+                              "D000018376",
+                              "D000002318",
+                              "D000006331",
+                              "D000000013"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Disease",
+                              "Pathologic Processes",
+                              "Heart Defects, Congenital",
+                              "Cardiovascular Abnormalities",
+                              "Cardiovascular Diseases",
+                              "Heart Diseases",
+                              "Congenital Abnormalities"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC14",
+                              "BC16",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT04925024"
+                        ]
+                  }
+            ]
+      }
+}

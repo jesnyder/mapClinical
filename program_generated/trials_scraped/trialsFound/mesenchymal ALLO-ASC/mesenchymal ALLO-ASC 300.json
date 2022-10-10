@@ -1,0 +1,731 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal ALLO-ASC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 22,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 22,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [
+                              "March 30, 2021"
+                        ],
+                        "ResultsFirstSubmitQCDate": [
+                              "December 5, 2021"
+                        ],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The Modified Mayo clinic performance index for the elbow measures pain, motion, stability, and daily functions. (0 to 100) Higher score means better function.",
+                              "Defect areas were measured as the largest defect of the common extensor tendon. Higher value means larger defect area.\n\nWith the patient supine position with the elbow in 30' flexion and full pronation, the cephalic end of the ultrasound transducer was placed on the lateral epicondyle and the long axis of the transducer was aligned with the long axis of radius. The alignment of the transducer and radius was achieved by visualizing contours of the bony structures. Multiple cross-sectional images were saved by shifting the transducer medio-laterally by 2mm at a time. Acquiring images were repeated three times.\n\nAmong the saved images, one image showing the largest defect were selected for every patients at every time points. Manual measurements of the defect area were conducted by tracking the perimeter using ImageJ 1.48 software (National Institutes of Health, http://imagej.nih.gov/ij/) and were repeated three times by two examiners in random orders and then, averaged.",
+                              "Defect areas were measured as the largest defect of the common extensor tendon. Higher value means larger defect area.\n\nWith the patient supine position with the elbow in 30' flexion and full pronation, the transducer was placed on the proximal forearm just distal to the radial head, aligning the long axis of the transducer perpendicular to the long axis of the forearm. Viewing the round radius at the horizontal center, the transducer was shifted proximally by 2mm and multiple images were saved after the transducer passed the radial head until it slid over the prominence. Acquiring images were repeated three times.\n\nAmong the saved images, one image showing the largest defect were selected for every patients at every time points. Manual measurements of the defect area were conducted by tracking the perimeter using ImageJ 1.48 software (National Institutes of Health, http://imagej.nih.gov/ij/) and were repeated three times by two examiners in random orders and then, averaged."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Modified Mayo Clinic Performance Index for the Elbow",
+                              "Defect Area of Tendon by Ultrasonography in Long Axis",
+                              "Defect Area of Tendon by Ultrasonography in Short Axis"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline, 6 weeks, 12 weeks after the intervention",
+                              "Baseline, 6 weeks, and 12 weeks after the intervention",
+                              "Baseline, 6 weeks, and 12 weeks after the intervention"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01856140"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Self reported pain intensity during activity will be evaluated by visual analogue scale (0 = no pain, 10 = pain as bad as can be).",
+                              "Self reported pain intensity at rest will be evaluated by visual analogue scale (0 = no pain, 10 = pain as bad as can be).",
+                              "The MEPI measures pain, motion, stability, and daily functions. (0 = worst, 100 = best)",
+                              "Ultrasonographic findings will be analyzed using a 5-point Likert scale (1: more aggravated, 2: aggravated, 3: same, 4: improved, 5: more improved). Sonographic images will be compared with baseline images by experienced ultrasound examiners being blind to the treatment group and the time points of image achievement.",
+                              "Young modulus and shear wave speed will be obtained",
+                              "MRI findings will be analyzed using a 5-point Likert scale (1: more aggravated, 2: aggravated, 3: same, 4: improved, 5: more improved). MR images will be compared with baseline images by experienced ultrasound examiners being blind to the treatment group and the time points of image achievement."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change of pain visual analogue scale (VAS) during activity",
+                              "Change of pain visual analogue scale (VAS) at rest",
+                              "Change of Mayo elbow performance index (MEPI)",
+                              "Ultrasonographic assessment",
+                              "Shear wave elastography",
+                              "Magnetic resonance image (MRI) assessment"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "baseline, 6 weeks, 12 weeks, 6 months, 12 months and 24 months",
+                              "baseline, 6 weeks, 12 weeks, 6 months, 12 months and 24 months",
+                              "baseline, 6 weeks, 12 weeks, 6 months, 12 months and 24 months",
+                              "baseline, 6 weeks, 12 weeks, 6 months, 12 months and 24 months",
+                              "baseline, 12 weeks and 24 months",
+                              "baseline, 12 weeks and 24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03449082"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Improvement of Wexner Score at 12 months compared to baseline per each group. (The investigators will assess the efficacy of the ALLO-ASC injection comparing the ALLO-ASC injection group and the placebo group (0.9% normal saline injection) by a randomized, open-label, single-blind design.)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Satisfaction as measured by Wexner Score"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "one year (12 months)"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02384499"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Measure the time to initial complete wound closure between the 2 groups.",
+                              "Wound size is measured by using eKare 3D Wound Measurement system(Mobile Devices).",
+                              "Proportions of subjects who achieved complete wound closure by the classification of wound size, 1.5~7 cm2 and 7.1~15 cm2 between the 2 groups at every visit.",
+                              "Proportions of subjects who achieved complete wound closure by the classification of location of diabetic foot ulcer, plantar and dorsal between the 2 groups at every visit by post-hoc analysis.",
+                              "Durability of complete wound closure for the additional 24 weeks from the initial complete wound closure.\n\nWound size is measured by using eKare 3D Wound Measurement system(Mobile Devices)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Time to initial complete wound closure between the 2 groups.",
+                              "Changes in wound size compared to baseline between the 2 groups.",
+                              "Proportions of subjects who achieved complete wound closure between the 2 groups by the classification of wound size.",
+                              "Proportions of subjects who achieved complete wound closure between the 2 groups by the classification of location of diabetic foot ulcer.",
+                              "Durability of complete wound closure for the additional 24 weeks."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "During 12 weeks",
+                              "During 12 weeks",
+                              "During 12 weeks",
+                              "During 12 weeks",
+                              "During 36 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04497805"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Proportion of re-epithelialization",
+                              "Time to re-epithelialization",
+                              "Number of Participants with Adverse Events as a Measure of Safety and Tolerability"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "During 12 weeks",
+                              "During 12 weeks",
+                              "Follow up to 12 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02619877"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Time to initial complete wound closure between the two groups",
+                              "Wound size is measured by using eKare 3D Wound Measurement system(Mobile Devices)",
+                              "Proportions of subjects who achieved complete wound closure",
+                              "Wound size is measured by using eKare 3D Wound Measurement system(Mobile Devices)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Time to initial complete wound closure between the two groups",
+                              "Changes in wound size compared to baseline between the two groups",
+                              "Proportions of subjects who achieved complete wound closure by the classification of location of diabetic foot ulcer, Plantar and the other location between the two groups",
+                              "Durability of complete wound closure"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "During 12 weeks",
+                              "During 12 weeks",
+                              "During 12 weeks(at every visit during treatment period)",
+                              "Follow up to 24 weeks from the initial complete wound closure."
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03754465"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Clinically measured abnormality of laboratory tests and adverse events",
+                              "Vancouver Burn Scar Scale",
+                              "healing status of the wound evidenced by photography"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Safety (laboratory tests and adverse events)",
+                              "Burn Scar Index",
+                              "healing status of the wound evidenced by photography"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Follow up to 12 weeks",
+                              "Follow up to 12 weeks",
+                              "follow up to 12 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02619851"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "cm^2"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Time taken to complete wound closure between the two groups",
+                              "Proportions of subjects who achieved complete wound closure",
+                              "Proportions of subjects who achieved complete wound closure by the classification of Wagner Grade between the two groups",
+                              "Change rates in wound size and depth compared to baseline between the two groups",
+                              "Proportions of subjects who achieved complete wound closure at every visit by the classification of ulcer locations"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "During 12 weeks",
+                              "Follow up to 12 weeks",
+                              "Follow up to 12 weeks",
+                              "During 12 weeks",
+                              "Follow up to 12 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03370874"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluation of the improvement of wound measured by size and depth, and examines the change for 23 months period"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Wound size and depth measurement"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6, 12, 24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03183726"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03183661"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ResultsFirstSubmitDate": [
+                              "June 11, 2020"
+                        ],
+                        "ResultsFirstSubmitQCDate": [
+                              "June 9, 2021"
+                        ],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Pain during rest assessed by visual analog scale (VAS), scored 0 to 10, higher scores meaning worse outcome.",
+                              "Pain during activity assessed by visual analog scale (VAS), scored 0 to 10, higher scores meaning worse outcome",
+                              "Functional score of the shoulder was assessed by American Shoulder and Elbow Surgeons shoulder score which is a questionnaire dedicated to the functional evaluation of the shoulder. It is scored from 0 to 100, higher scores meaning better outcome.",
+                              "Shoulder function is assessed by DASH score which is questionnaire dedicated to evaluate the function of the upper extremity. It is scored from 0 (no disability) to 100 (most severe disability).",
+                              "Shoulder function is assessed by UCLA shoulder score which is a composite of range of motion examination and questionnaire dedicated to evaluate the function of the shoulder. It is scored from 0 to 35, higher scores meaning better shoulder function.",
+                              "Tear size was evaluated by 3-point Likert scale using MRI. The 3months follow-up images were compared to the baseline image and graded either; improved, stationary, and aggravated.",
+                              "Tear size was evaluated by 3-point Likert scale using MRI. The 12 months follow-up images were compared to the baseline image and graded either; improved, stationary, and aggravated."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Pain During Rest",
+                              "Pain During Activity",
+                              "American Shoulder and Elbow Surgeons (ASES) Shoulder Score",
+                              "Disability of Arm, Shoulder and Hand (DASH) Score",
+                              "University of California, Los Angeles(UCLA) Shoulder Score",
+                              "Tear Size at 3 Months After Injection",
+                              "Tear Size at 12 Months After Injection"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline, 6 weeks, 12 weeks, 6, 12, 24 months after intervention",
+                              "Baseline, 6 weeks, 12 weeks, 6, 12, 24 months after intervention",
+                              "Baseline, 6 weeks, 12 weeks, 6, 12, 24 months after intervention",
+                              "Baseline, 6 weeks, 12 weeks, 6, 12, 24 months after intervention",
+                              "Baseline, 6 weeks, 12 weeks, 6, 12, 24 months after intervention",
+                              "baseline and 3 months after intervention",
+                              "baseline and12 months after intervention"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02298023"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03183804"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Complete epithelization or epithelization more than 50% of the cells in the skin graft on the 10th day after autologous skin grafting are effective. The epithelialization less than 50% is not effective.",
+                              "Dynamics of the phagocytic activity of neutrophils in the area of burn wounds, according to NBT-test.",
+                              "Duration of treatment (days) to complete epithelialization of burn wounds;"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "The dynamics of healing of skin flap",
+                              "Dynamics of the phagocytic activity of neutrophils in the area of burn wounds, according to NBT-test.",
+                              "Duration of treatment (days) to complete epithelialization of burn wounds;"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "up to 1 month",
+                              "up to 1 month",
+                              "up to 1 month"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Adipose tissue-derived mesenchymal cells support skin reepithelialization through secretion of KGF-1 and PDGF-BB: comparison with dermal fibroblasts.",
+                              "4. Alexaki V.-I. et al. Adipose tissue-derived mesenchymal cells support skin reepithelialization through secretion of KGF-1 and PDGF-BB: comparison with dermal fibroblasts. Cell Transplantation. 2012;21(11):2441-2454."
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.ncbi.nlm.nih.gov/pubmed/22507764",
+                              "https://www.ncbi.nlm.nih.gov/pubmed/22507764"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03113747"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Percentage of a target wound's re-epithelialization",
+                              "Time taken to re-epithelization",
+                              "Safety assessed by clinically measured abnormality of laboratory tests and adverse events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Every time of visit for follow up to 8 weeks",
+                              "Over 8 weeks",
+                              "Over 8 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02579369"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change in the CDAI value",
+                              "The ratio of patients applicable to CDAI <150"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "CDAI value",
+                              "The ratio of patients applicable to CDAI <150"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "up to 4 weeks",
+                              "Week 4"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02580617"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluation of the improvement of wound measured by size and depth, and examines the change for 4 weeks period."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Wound size and depth measurement"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "baseline and 1, 2, 4 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02394886"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluation of the improvement of wound measured by time to reach re-epithelialization of wound"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Time to reach re-epithelialization of wound",
+                              "Vancouver Burn Scar Scale"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1, 2, 4 weeks",
+                              "4 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02394873"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluation of Vancouver Burn Scar Scale"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Vancouver Burn Scar Scale"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Every time of visit for follow up to 24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03183622"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluation of Vancouver Burn Scar Scale"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Vancouver Burn Scar Scale"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Every time of visit for follow up to 24 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03183648"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Time taken to complete wound closure",
+                              "Proportions of subjects who achieved complete wound closure at every visit",
+                              "Change rates in wound size and depth compared to baseline groups"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "During 12 weeks",
+                              "During 12 weeks",
+                              "During 12 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04569409"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Time taken to re-epithelization"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Area of re-epithelization"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Every time of visit for follow up to 24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03183934"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Proportion of subject with target skin ulcer area meeting the definition of wound closure at 5 weeks after the completion of treatment period"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Proportion of complete wound closure"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "First application to week 17"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05157958"
+                        ]
+                  }
+            ]
+      }
+}

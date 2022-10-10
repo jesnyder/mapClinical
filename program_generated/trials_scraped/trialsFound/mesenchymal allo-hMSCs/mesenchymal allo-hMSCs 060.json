@@ -1,0 +1,748 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal allo-hMSCs",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 14,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 14,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The purpose of this study is to use an intravenous infusion of allogeneic human mesenchymal stem cells (Allo-hMSCs) to treat an acute ischemic stroke condition."
+                        ],
+                        "BriefTitle": [
+                              "Expanded Access Multi-Patient Experimental Treatment Involving Allogeneic Human Mesenchymal Stem Cells (hMSCs) in Subjects With Acute Ischemic Stroke (EXPAND)"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [],
+                        "CompletionDateType": [],
+                        "Condition": [
+                              "Acute Ischemic Stroke",
+                              "Mesenchymal Stem Cells",
+                              "Stroke, Acute",
+                              "Stroke/Brain Attack",
+                              "Stroke, Ischemic"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000002561",
+                              "D000001927",
+                              "D000002493",
+                              "D000009422",
+                              "D000014652",
+                              "D000002318",
+                              "D000010335",
+                              "D000020520",
+                              "D000002545",
+                              "D000007238",
+                              "D000009336"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Cerebrovascular Disorders",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Nervous System Diseases",
+                              "Vascular Diseases",
+                              "Cardiovascular Diseases",
+                              "Pathologic Processes",
+                              "Brain Infarction",
+                              "Brain Ischemia",
+                              "Infarction",
+                              "Necrosis"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC10",
+                              "BC14",
+                              "All",
+                              "BC23",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT05522569"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "BriefSummary": [
+                              "This study is intended to evaluate the safety and potential efficacy of Allogeneic Human Mesenchymal Stem Cell Infusion versus placebo in patients with Treatment Resistant Depression."
+                        ],
+                        "BriefTitle": [
+                              "Allogeneic Human Mesenchymal Stem Cells (hMSCs) Infusion in Patients With Treatment Resistant Depression"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "March 26, 2019"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Treatment Resistant Depression"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000001526",
+                              "D000019964",
+                              "D000001523"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Behavioral Symptoms",
+                              "Mood Disorders",
+                              "Mental Disorders"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BXM",
+                              "All"
+                        ],
+                        "NCTId": [
+                              "NCT02675556"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "BriefSummary": [
+                              "The purpose of this study is to look at the safety of a study treatment with stem cells in Alcohol Use Disorder And Major Depression (AUD-MD) subjects."
+                        ],
+                        "BriefTitle": [
+                              "Allogeneic HUman Mesenchymal Stem Cell InfusioN Versus Placebo in Subjects With Alcohol Use Disorder and Major DepreSsion."
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "NIH"
+                        ],
+                        "CollaboratorName": [
+                              "National Institute on Alcohol Abuse and Alcoholism (NIAAA)"
+                        ],
+                        "CompletionDate": [
+                              "April 2025"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Major Depressive Disorder",
+                              "Alcohol Use Disorder"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010335",
+                              "D000019964",
+                              "D000001523",
+                              "D000004327",
+                              "D000019973",
+                              "D000019966",
+                              "D000064419"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathologic Processes",
+                              "Mood Disorders",
+                              "Mental Disorders",
+                              "Drinking Behavior",
+                              "Alcohol-Related Disorders",
+                              "Substance-Related Disorders",
+                              "Chemically-Induced Disorders"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BXM",
+                              "All",
+                              "BC25"
+                        ],
+                        "NCTId": [
+                              "NCT03265808"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "BriefSummary": [
+                              "This study is intended to evaluate the safety and feasibility of intramyocardial injection of allogeneic mesenchymal cells during the Bi-Directional Cavopulmonary Anastomosis (BDCPA) surgery for hypoplastic left heart syndrome (HLHS) pediatric patients."
+                        ],
+                        "BriefTitle": [
+                              "Allogeneic hMSC Injection in Patients With Hypoplastic Left Heart Syndrome"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "March 2019"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Hypoplastic Left Heart Syndrome"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000004194",
+                              "D000010335",
+                              "D000006330",
+                              "D000018376",
+                              "D000002318",
+                              "D000006331",
+                              "D000000013"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Disease",
+                              "Pathologic Processes",
+                              "Heart Defects, Congenital",
+                              "Cardiovascular Abnormalities",
+                              "Cardiovascular Diseases",
+                              "Heart Diseases",
+                              "Congenital Abnormalities"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC14",
+                              "BC16",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT02398604"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "BriefSummary": [
+                              "To evaluate the role of allogeneic mesenchymal stem cells for treatment of perianal fistulizing Crohn disease.\n\nTwenty (20) Crohn's disease patients with complex or multiple perianal or rectovaginal fistulas will be included and will be scheduled to undergo peri-fistula injections after meeting all inclusion/exclusion criteria's at baseline.\n\nFollowing the Pilot Phase of four (4) subjects, sixteen (16) subjects are scheduled to undergo perianal injections and after meeting all inclusion/exclusion criteria's, will be evaluated at baseline."
+                        ],
+                        "BriefTitle": [
+                              "AlloGeneic Human Mesenchymal Stem Cells (hMSC) in PAtients With FistuLizing Crohn's Disease Via PErifistula iNjEctions (GALENE)"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "December 2026"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Crohn's Disease",
+                              "Fistulizing Crohn's Disease",
+                              "Stem Cells"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000015212",
+                              "D000005759",
+                              "D000005767",
+                              "D000004066",
+                              "D000007410"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Inflammatory Bowel Diseases",
+                              "Gastroenteritis",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Intestinal Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC06",
+                              "All"
+                        ],
+                        "NCTId": [
+                              "NCT02677350"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "BriefSummary": [
+                              "The technique of transplanting progenitor cells into a region of damaged myocardium, termed cellular cardiomyoplasty, is a potentially new therapeutic modality designed to replace or repair necrotic, scarred, or dysfunctional myocardium. Ideally, graft cells should be readily available, easy to culture to ensure adequate quantities for transplantation, and able to survive in host myocardium; often a hostile environment of limited blood supply and immunorejection. Whether effective cellular regenerative strategies require that administered cells differentiate into adult cardiomyocytes and couple electromechanically with the surrounding myocardium is increasingly controversial, and recent evidence suggests that this may not be required for effective cardiac repair. Most importantly, transplantation of graft cells should improve cardiac function and prevent adverse ventricular remodeling. To date, a number of candidate cells have been transplanted in experimental models, including fetal and neonatal cardiomyocytes, embryonic stem cell-derived myocytes, tissue engineered contractile grafts, skeletal myoblasts, several cell types derived from adult bone marrow, and cardiac precursors residing within the heart itself. There has been substantial clinical development in the use of whole bone marrow and skeletal myoblast preparations in studies enrolling both post-infarction patients, and patients with chronic ischemic left ventricular dysfunction and heart failure. The effects of bone-marrow derived mesenchymal stem cells (MSCs) have also been studied clinically.\n\nCurrently, bone marrow or bone marrow-derived cells represent highly promising modality for cardiac repair. The totality of evidence from trials investigating autologous whole bone marrow infusions into patients following myocardial infarction supports the safety of this approach. In terms of efficacy, increases in ejection fraction are reported in the majority of the trials.\n\nChronic ischemic left ventricular dysfunction resulting from heart disease is a common and problematic condition; definitive therapy in the form of heart transplantation is available to only a tiny minority of eligible patients. Cellular cardiomyoplasty for chronic heart failure has been studied less than for acute MI, but represents a potentially important alternative for this disease."
+                        ],
+                        "BriefTitle": [
+                              "The Percutaneous Stem Cell Injection Delivery Effects on Neomyogenesis Pilot Study (The POSEIDON-Pilot Study)"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "NIH",
+                              "INDUSTRY"
+                        ],
+                        "CollaboratorName": [
+                              "National Heart, Lung, and Blood Institute (NHLBI)",
+                              "The Emmes Company, LLC"
+                        ],
+                        "CompletionDate": [
+                              "October 2012"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Stem Cell Transplantation"
+                        ],
+                        "ConditionAncestorId": [],
+                        "ConditionAncestorTerm": [],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC14",
+                              "BC04",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT01087996"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "BriefSummary": [
+                              "The purpose of this study is to look at the safety of treatment with stem cells in patients with Frailty."
+                        ],
+                        "BriefTitle": [
+                              "AllogeneiC Human Mesenchymal Stem Cells (hMSC) in Patients With Aging FRAilTy Via IntravenoUS Delivery"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "INDUSTRY"
+                        ],
+                        "CollaboratorName": [
+                              "The Emmes Company, LLC"
+                        ],
+                        "CompletionDate": [
+                              "October 2, 2020"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Frailty"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010335"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathologic Processes"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All"
+                        ],
+                        "NCTId": [
+                              "NCT02065245"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "BriefSummary": [
+                              "The study is a phase I/II trial where allogeneic human mesenchymal stem cells (hMSCs) are injected intracfect into the lumbar facet joints. Forty (40) subjects are scheduled to undergo injection after meeting all inclusion/exclusion criteria will be evaluate at baseline."
+                        ],
+                        "BriefTitle": [
+                              "Allogeneic Human Mesenchymal Stem Cell Injection in PAtieNts With FaceTogenic Back Pain"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "December 1, 2025"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Facetogenic Back Pain",
+                              "Back Pain"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010146",
+                              "D000009461"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pain",
+                              "Neurologic Manifestations"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC10"
+                        ],
+                        "NCTId": [
+                              "NCT03487731"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "BriefSummary": [
+                              "A Safety Run-In will be followed by a Double-Blinded Randomized Phase. All subjects shall meet the inclusion/exclusion criteria, and will be evaluated prior to the scheduled infusion to establish baseline.\n\nThere will be 3 subjects in the safety run-in phase and 15 subjects in the double-blinded phase."
+                        ],
+                        "BriefTitle": [
+                              "Human MesenchymAl Stem Cells Infusion in Patients With Cystic Fibrosis"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "September 2028"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Cystic Fibrosis"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010335",
+                              "D000010182",
+                              "D000004066",
+                              "D000008171",
+                              "D000012140",
+                              "D000030342",
+                              "D000007232"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathologic Processes",
+                              "Pancreatic Diseases",
+                              "Digestive System Diseases",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Genetic Diseases, Inborn",
+                              "Infant, Newborn, Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC06",
+                              "BC08",
+                              "BC16",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT03058068"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "BriefSummary": [
+                              "This is a 16 subject trial to demonstrate the safety of allogeneic hMSCs administered via infusion therapy for diabetic subjects with endothelial dysfunction."
+                        ],
+                        "BriefTitle": [
+                              "Allogeneic Mesenchymal Human Stem Cells Infusion Therapy for Endothelial DySfunctiOn in Diabetic Subjects"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "NIH"
+                        ],
+                        "CollaboratorName": [
+                              "National Heart, Lung, and Blood Institute (NHLBI)"
+                        ],
+                        "CompletionDate": [
+                              "September 3, 2020"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Diabetes Mellitus, Type 2"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000003920",
+                              "D000044882",
+                              "D000008659",
+                              "D000004700"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Diabetes Mellitus",
+                              "Glucose Metabolism Disorders",
+                              "Metabolic Diseases",
+                              "Endocrine System Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC18",
+                              "BC19",
+                              "All"
+                        ],
+                        "NCTId": [
+                              "NCT02886884"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "BriefSummary": [
+                              "This is a phase I, randomized, blinded, placebo-controlled 9 subjects pilot safety run-in followed by an additional 16 randomized subjects for a total of 25 subjects. In the pilot phase subjects will be randomized into three treatment groups of allogenic mesenchymal stem cells and in the randomized phase subjects will receive either allogenic mesenchymal stem cells or matched placebo."
+                        ],
+                        "BriefTitle": [
+                              "Allogeneic Human Cells (hMSC)in Patients With Idiopathic Pulmonary Fibrosis Via Intravenous Delivery (AETHER)"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "UNKNOWN",
+                              "INDUSTRY"
+                        ],
+                        "CollaboratorName": [
+                              "The Lester And Sue Smith Foundation",
+                              "The Emmes Company, LLC"
+                        ],
+                        "CompletionDate": [
+                              "November 24, 2016"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Idiopathic Pulmonary Fibrosis (IPF)"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010335",
+                              "D000008171",
+                              "D000012140"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathologic Processes",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC08",
+                              "All",
+                              "BC23",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT02013700"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "BriefSummary": [
+                              "Thirty (30) patients with chronic ischemic left ventricular dysfunction secondary to MI scheduled to undergo cardiac catheterization will be enrolled in the study. This is a phase II study intended to gain additional safety and efficacy assessments among two dose levels previously studied in a phase I setting."
+                        ],
+                        "BriefTitle": [
+                              "The TRansendocardial Stem Cell Injection Delivery Effects on Neomyogenesis STudy (The TRIDENT Study)"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "INDUSTRY"
+                        ],
+                        "CollaboratorName": [
+                              "The Emmes Company, LLC"
+                        ],
+                        "CompletionDate": [
+                              "September 18, 2017"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Chronic Ischemic Left Ventricular Dysfunction",
+                              "Myocardial Infarction"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010335",
+                              "D000009336",
+                              "D000017202",
+                              "D000006331",
+                              "D000002318",
+                              "D000014652"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathologic Processes",
+                              "Necrosis",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Cardiovascular Diseases",
+                              "Vascular Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC14",
+                              "BC04",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT02013674"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "BriefSummary": [
+                              "The technique of transplanting progenitor cells into a region of damaged myocardium, termed cellular cardiomyoplasty1, is a potentially new therapeutic modality designed to replace or repair necrotic, scarred, or dysfunctional myocardium2-4. Ideally, graft cells should be readily available, easy to culture to ensure adequate quantities for transplantation, and able to survive in host myocardium; often a hostile environment of limited blood supply and immunorejection. Whether effective cellular regenerative strategies require that administered cells differentiate into adult cardiomyocytes and couple electromechanically with the surrounding myocardium is increasingly controversial and recent evidence suggests that this may not be required for effective cardiac repair. Most importantly, transplantation of graft cells should improve cardiac function and prevent adverse ventricular remodeling. To date, a number of candidate cells have been transplanted in experimental models, including fetal and neonatal cardiomyocytes5, embryonic stem cell-derived myocytes6, 7, tissue engineered contractile grafts8, skeletal myoblasts9, several cell types derived from adult bone marrow10-15, and cardiac precursors residing within the heart itself16. There has been substantial clinical development in the use of whole bone marrow and skeletal myoblast preparations in studies enrolling both post-infarction patients, and patients with chronic ischemic left ventricular dysfunction and heart failure. The effects of bone-marrow derived mesenchymal stem cells (MSCs) have also been studied clinically.\n\nCurrently, bone marrow or bone marrow-derived cells represent highly promising modality for cardiac repair. The totality of evidence from trials investigating autologous whole bone marrow infusions into patients following myocardial infarction supports the safety of this approach. In terms of efficacy, increases in ejection fraction are reported in the majority of the trials.\n\nNon-ischemic dilated cardiomyopathy is a common and problematic condition; definitive therapy in the form of heart transplantation is available to only a tiny minority of eligible patients. Cellular cardiomyoplasty for chronic heart failure has been studied less than for acute MI, but represents a potentially important alternative for this disease."
+                        ],
+                        "BriefTitle": [
+                              "PercutaneOus StEm Cell Injection Delivery Effects On Neomyogenesis in Dilated CardioMyopathy (The POSEIDON-DCM Study)"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "NIH"
+                        ],
+                        "CollaboratorName": [
+                              "National Heart, Lung, and Blood Institute (NHLBI)"
+                        ],
+                        "CompletionDate": [
+                              "August 28, 2017"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Non-ischemic Dilated Cardiomyopathy"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000006331",
+                              "D000002318",
+                              "D000006332",
+                              "D000083083",
+                              "D000030342"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Heart Diseases",
+                              "Cardiovascular Diseases",
+                              "Cardiomegaly",
+                              "Laminopathies",
+                              "Genetic Diseases, Inborn"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC14",
+                              "All",
+                              "BC16",
+                              "BC23",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT01392625"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "BriefSummary": [
+                              "The purpose of this study is to evaluate the safety and effectiveness of an experimental drug called human allogeneic mesenchymal stem cell therapy."
+                        ],
+                        "BriefTitle": [
+                              "Transendocardial Injection of Allogeneic-MSC in Patients With Non-Ischemic Dilated Cardiomyopathy"
+                        ],
+                        "CentralContactEMail": [
+                              "Shelly.L.Sayre@uth.tmc.edu",
+                              "lvc25@med.miami.edu"
+                        ],
+                        "CentralContactName": [
+                              "Shelly L Sayre, MPH",
+                              "Lina Caceres"
+                        ],
+                        "CentralContactPhone": [
+                              "713-500-9529",
+                              "305-243-5399"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "FED",
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "United States Department of Defense",
+                              "The University of Texas Health Science Center, Houston"
+                        ],
+                        "CompletionDate": [
+                              "December 2024"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Non-ischemic Dilated Cardiomyopathy"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000006331",
+                              "D000002318",
+                              "D000006332",
+                              "D000083083",
+                              "D000030342"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Heart Diseases",
+                              "Cardiovascular Diseases",
+                              "Cardiomegaly",
+                              "Laminopathies",
+                              "Genetic Diseases, Inborn"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC14",
+                              "All",
+                              "BC16",
+                              "BC23",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT04476901"
+                        ]
+                  }
+            ]
+      }
+}

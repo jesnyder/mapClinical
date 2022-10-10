@@ -1,0 +1,113 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal UMC119-06-05",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The distance (meter) and walking speed (meter per seconds) in a 6-minute walk test. Improvement in clinical function as assessed by mean change in exercise performance using 6-min walk test (6MWT).",
+                              "Hand grip strength can be quantified by measuring the amount of static force that the hand can squeeze around a dynamometer. The force has most commonly been measured in kilograms.",
+                              "The 12-Item Short Form Health Survey (SF-12) is a 12-item measure of perceived health status with good reliability, validity and correlation with other health measures. The score is computed using the scores of the twelve questions and range from 0 to 100, where a zero score indicates the lowest level of health and 100 indicates the highest level of health.",
+                              "The IPAQ calculates the metabolic equivalent (MET) score by asking participants the days and minutes exercised in three categories of intensity (vigorous, moderate, and walking) during the previous one week. Categorical score to three levels of physical activity are Low, or Moderate, or High.",
+                              "Improvement in clinical function as assessed by mean change in One Second to the Forced Vital Capacity.",
+                              "Clinical Frailty Scale evaluates specific domains, including comorbidity, function, and cognition, to generate a frailty score ranging from 1 (very fit) to 9 (terminally ill)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Changes in exercise performance using 6-min walk test (6MWT).",
+                              "Changes in grip strength.",
+                              "Changes in quality of life measured by change in SF12 (12-Item Short Form).",
+                              "Changes in physical activity using International Physical Activity Questionnaire (IPAQ) questionnaire",
+                              "Changes in Forced Expiratory Volume in One Second (FEV1).",
+                              "Changes in Clinical Frailty Scale."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "From baseline up to 360 days after administration.",
+                              "From baseline up to 360 days after administration.",
+                              "From baseline up to 360 days after administration.",
+                              "From baseline up to 360 days after administration.",
+                              "From baseline up to 360 days after administration.",
+                              "From baseline up to 360 days after administration."
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04914403"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Improvement in total score (pain subscale, and stiffness subscale, and physical function subscale) as assessed by mean change in WOMAC index.",
+                              "VAS scale range 0 to 100 mm, with higher scores indicates greater pain intensity. A decrease in score represents a decrease in disease related pain of knee.",
+                              "Changes on the target knee for knee cartilage and the joint soft tissues assessed by Whole Organ Magnetic Resonance Imaging Score (WORMS) using magnetic resonance imaging (MRI) of T2 mapping.",
+                              "The severity of knee OA was defined as kellgren-lawrence (K-L) classification criteria. Changes from baseline to post-treatment visits on the target knee for Kellgren-Lawrence (K-L) grading and joint space in X-ray examination results.",
+                              "Total amount of acetaminophen or non-steroidal anti-inflammatory drugs (NSAID)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Changes of total score in the Western Ontario and McMaster (WOMAC) assessment on the target knee.",
+                              "Changes of arthritis pain on target knee using the 100-mm visual-analogue scale (VAS).",
+                              "Whole Organ Magnetic Resonance Imaging Score (WORMS).",
+                              "Changes in Kellgren-Lawrence (K-L) grading and joint space on target knee.",
+                              "Amount of rescue medications required."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "from baseline up to 52 weeks after administration",
+                              "from baseline up to 52 weeks after administration",
+                              "from baseline up to 52 weeks after administration",
+                              "from baseline up to 52 weeks after administration",
+                              "at first 4 weeks, first 28 weeks and the whole study period."
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04893174"
+                        ]
+                  }
+            ]
+      }
+}

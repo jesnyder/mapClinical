@@ -1,0 +1,59 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal XSTEM-OA",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Major inclusion criteria:\n\nAged \u226540 and \u226475 years at Screening\nRadiological evidence of predominantly medial osteoarthritis in the knee, uni- or bilateral, of KL grade II to III\nModerate to severe pain associated with osteoarthritis in the knee as measured by a VAS pain score of \u226535 and \u226490 mm\n\nMajor exclusion criteria:\n\nBody mass index (BMI) of \u226535 at Screening\nOngoing signs or symptoms of systemic or local infection\nKnown knee infection in the study knee within 6 months of Screening\nHistory of clinically relevant concomitant joint disease, clinically-relevant knee deformities, or any clinically significant medical history of the ligament, or realignment surgery or joint replacement surgery\nMedical history of any autoimmune disease\nHistory of surgery in the study knee that occured within 6 months of Screening\nTreatment with immunosuppressive therapy (systemic or local) or any medication affecting the bone or cartilage metabolism within 6 months of Screening\nPatients who are immunocompromised as caused by a disease"
+                        ],
+                        "EnrollmentCount": [
+                              "54"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT05344157"
+                        ]
+                  }
+            ]
+      }
+}

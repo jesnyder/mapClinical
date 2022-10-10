@@ -1,0 +1,96 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal IMS001",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This is a Phase 1 study of IMS001, given as a single dose to subjects with Multiple Sclerosis who experience inadequate response and/or intolerability to disease modifying treatments. IMS001 is a human embryonic cell derived (hESC) mesenchymal stem cell (MSC). MSCs have the potential to modulate disease course."
+                        ],
+                        "BriefTitle": [
+                              "A Study to Evaluate the Safety, Tolerability, and Exploratory Efficacy of IMS001 in Subjects With Multiple Sclerosis"
+                        ],
+                        "CentralContactEMail": [
+                              "richard.kim@imstem.com"
+                        ],
+                        "CentralContactName": [
+                              "Richard Kim, MD"
+                        ],
+                        "CentralContactPhone": [
+                              "860-281-7836"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "INDUSTRY"
+                        ],
+                        "CollaboratorName": [
+                              "Rho, Inc."
+                        ],
+                        "CompletionDate": [
+                              "December 2027"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Multiple Sclerosis"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010335",
+                              "D000020278",
+                              "D000020274",
+                              "D000009422",
+                              "D000003711",
+                              "D000001327",
+                              "D000007154"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathologic Processes",
+                              "Demyelinating Autoimmune Diseases, CNS",
+                              "Autoimmune Diseases of the Nervous System",
+                              "Nervous System Diseases",
+                              "Demyelinating Diseases",
+                              "Autoimmune Diseases",
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC10",
+                              "BC20",
+                              "All",
+                              "BC23"
+                        ],
+                        "NCTId": [
+                              "NCT04956744"
+                        ]
+                  }
+            ]
+      }
+}

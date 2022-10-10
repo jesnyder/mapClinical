@@ -1,0 +1,157 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal SMUP-IA-01",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Myungchul LEE, MD, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 2025"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Comparing WOMAC total score changes with baseline scores of SMUP-IA-01 phase I trial and scores of f/u study at 12 months, 24 months, 36 months, 48 months and 60months after treatment (score range 0-96, higher score represent worse symptoms)."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Change of total score in WOMAC (Western Ontario and McMaster University)"
+                        ],
+                        "NCTId": [
+                              "NCT04339504"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "OverallOfficialName": [
+                              "Myungchul Lee, MD, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "November 12, 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Change of total scorein WOMAC compared to baseline at 6 months after treatment. WOMAC consists of three subscales: pain, stiffness, and physical function, and is performed on baseline (visit 2) and final (Visit 8) visits. Total of 24 questions are evaluated with 5 questions for pain, 2 questions for stiffness, and 17 questions for physical function. Each question is scored between 0 point (no symptom) ~ 4 points (severe symptoms) scale, and the total score is between 0 point (no symptoms) ~ 96 points (higher score representing worse symptoms)."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Change of total score in WOMAC (Western Ontario and McMaster University Osteoarthritis Index) compared to baseline at 6 months after treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04037345"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "OverallOfficialName": [
+                              "Myungchul Lee, MD, PhD",
+                              "Chonghyuk Choi, MD, PhD",
+                              "Chongbum Chang, MD, PhD",
+                              "Seungbum Han, MD, PhD",
+                              "Sunghwan Kim, MD, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "August 30, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Total score is between 0 point (no symptoms) ~ 96 points (higher score representing worse symptoms)."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Change in the WOMAC(Western Ontario and McMaster University Osteoarthritis Index) total score at post-dose 52 weeks from baseline"
+                        ],
+                        "NCTId": [
+                              "NCT05182034"
+                        ]
+                  }
+            ]
+      }
+}

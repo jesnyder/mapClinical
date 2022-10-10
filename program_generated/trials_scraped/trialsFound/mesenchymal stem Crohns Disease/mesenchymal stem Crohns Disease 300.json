@@ -1,0 +1,1520 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Crohns Disease",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 43,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 43,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2009-009880-71"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluting the ASCs therapeutic effect, in particular:\n\nFistulas healing efficiency\nChanges in quality of life in patients treated\nChanges of systemic Crohn's disease after implant\nRelapse rate monitored among patients who achieved ASCs treatment success.\n\nAchieving the biological characterization of the cell product used and its correlation with the therapeutic effect measured with:\n\nPhenotype study\nSuppressor capacity study.\nCitoquines production analysis"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "therapeutic effect"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "3 years"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01157650"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Number of participants with complete clinical healing post-injection of 75 million allogeneic bone marrow derived MSC's for the treatment of perianal fistula(s) in the setting of Crohn's disease.\n\nComplete Healing is defined as:\n\nRadiographic Healing: MRI with an absence of a fluid collection >2 cm in 3 of 3 dimensions, lack of edema, inflammation or sign of active inflammatory response. A remnant scar of a fistula tract may remain\n\nClinical Healing: 100% cessation of drainage on both clinical exam with deep palpation and per patient report and epithelization of the external fistula opening"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Complete clinical healing"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Month 6, Month 12"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04519671"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Number of participants with complete clinical healing post-injection of 75 million allogeneic bone marrow derived MSC's for the treatment of rectovaginal fistula in the setting of Crohn's disease.\n\nComplete healing is defined as:\n\nRadiographic Healing: MRI with an absence of a fluid collection >2 cm in 3 of 3 dimensions, lack of edema, inflammation or sign of active inflammatory response. A remnant scar of a fistula tract may remain\n\nClinical Healing: 100% cessation of drainage on both clinical exam with deep palpation and per patient report and complete closure of the fistula tract upon assessment with an examination under anesthesia",
+                              "Number of participants with partial clinical healing post-injection of 75 million allogeneic bone marrow derived MSC's for the treatment of rectovaginal fistula in the setting of Crohn's disease\n\nPartial healing is defined as:\n\nRadiographic healing: MRI with an absence of a fluid collection >2 cm in 2 of 3 dimensions, lack of edema, inflammation or sign of active inflammatory response. A remnant scar of a fistula tract may remain\n\nClinical healing: Greater than or equal to 50% cessation of drainage on both clinical exam with deep palpation and per patient report and partial closure of the fistula tract upon assessment with an examination under anesthesia",
+                              "Number of participants with lack of response post-injection of 75 million allogeneic bone marrow derived MSC's for the treatment of rectovaginal fistula in the setting of Crohn's disease\n\nLack of Response is defined as: Radiographic and clinical healing which does not meet the threshold for Partial Healing",
+                              "Number of participants with worsening disease post-injection of 75 million allogeneic bone marrow derived MSC's for the treatment of rectovaginal fistula in the setting of Crohn's disease\n\nWorsening disease is defined as:\n\nRadiographic: MRI with a fluid collection >2 cm in 2 of 3 dimensions, edema, inflammation or sign of active inflammatory response. An increased number of tracts may be seen, or increased branching from the primary tract,\n\nClinical: Increased drainage per patient report and on clinical exam"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Complete clinical healing",
+                              "Partial healing",
+                              "Lack of response",
+                              "Worsening disease"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Month 6, Month 12",
+                              "Month 6, Month 12",
+                              "Month 6, Month 12",
+                              "Month 6, Month 12"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04519697"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The CDAI is a composite index of 8 disease variables (stool frequency, severity of abdominal pain, degree of general well-being, presence or absence of extra-intestinal manifestations or fistula, use or non-use of antidiarrheal agents, presence or absence of an abdominal mass, hematocrit, and body weight). Scores range from approximately 0 to 600, with a higher score indicating more disease activity.",
+                              "The IBDQ measures disease-specific quality of life by assessing bowel symptoms, systemic symptoms, emotional function, and social function. Subscores can range from 1 (worst) to 7 (best). The total IBDQ is calculated as the sum of the responses to the individual IBDQ questions. The total score ranges from 32 to 224. An increase in score from baseline indicates improvement.",
+                              "The CDAI is a composite index of 8 disease variables (stool frequency, severity of abdominal pain, degree of general well-being, presence or absence of extra-intestinal manifestations or fistula, use or non-use of antidiarrheal agents, presence or absence of an abdominal mass, hematocrit, and body weight). Scores range from approximately 0 to 600, with a higher score indicating more disease activity."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Number of Participants with Reduction in CDAI of at Least 70 points",
+                              "Improvement as Assessed by the Inflammatory Bowel Disease Questionnaire (IBDQ)",
+                              "Time to Improvement in IBDQ",
+                              "Number of Participants with Reduction of at Least 50% in Fistulas in Participants with Fistulas Draining Under Moderate Compression",
+                              "Number of Participants with Induction of Remission as Defined by Reduction of CDAI to Below 150",
+                              "Time to Reduction in CDAI of at Least 100 Points",
+                              "Time to Reduction in CDAI of at Least 70 Points",
+                              "Time to Induction of Remission as Defined by Reduction of CDAI to Below 150.",
+                              "Number of Participants with Adverse Events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "Up to approximately 2 years"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00294112"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Number of participants with complete clinical healing post-injection of 75 million allogeneic bone marrow derived MSC's for the treatment of perianal fistula(s) in the setting of Crohn's disease.\n\nComplete Healing is defined as:\n\nRadiographic Healing: MRI with an absence of a fluid collection >2 cm in 3 of 3 dimensions, lack of edema, inflammation or sign of active inflammatory response. A remnant scar of a fistula tract may remain\n\nClinical Healing: 100% cessation of drainage on both clinical exam with deep palpation and per patient report and epithelization of the external fistula opening",
+                              "Number of participants with complete clinical healing post-injection of 75 million allogeneic bone marrow derived MSC's for the treatment of perianal fistula(s) in the setting of Crohn's disease.\n\nComplete Healing is defined as:\n\nRadiographic Healing: MRI with an absence of a fluid collection >2 cm in 3 of 3 dimensions, lack of edema, inflammation or sign of active inflammatory response. A remnant scar of a fistula tract may remain\n\nClinical Healing: 100% cessation of drainage on both clinical exam with deep palpation and per patient report and epithelization of the external fistula opening",
+                              "Number of participants with partial clinical healing post-injection of 75 million allogeneic bone marrow derived MSC's for the treatment of perianal fistula(s) in the setting of Crohn's disease\n\nPartial clinical healing is defined as:\n\nRadiographic Healing: MRI with an absence of a fluid collection >2 cm in 2 of 3 dimensions, lack of edema, inflammation or sign of active inflammatory response. A remnant scar of a fistula tract may remain\n\nClinical healing: Greater than or equal to 50 % cessation of drainage on both clinical exam with deep palpation and per patient report and epithelization of the external fistula opening",
+                              "Number of participants with partial clinical healing post-injection of 75 million allogeneic bone marrow derived MSC's for the treatment of perianal fistula(s) in the setting of Crohn's disease\n\nPartial clinical healing is defined as:\n\nRadiographic Healing: MRI with an absence of a fluid collection >2 cm in 2 of 3 dimensions, lack of edema, inflammation or sign of active inflammatory response. A remnant scar of a fistula tract may remain\n\nClinical healing: Greater than or equal to 50 % cessation of drainage on both clinical exam with deep palpation and per patient report and epithelization of the external fistula opening",
+                              "Number of participants with lack of response post-injection of 75 million allogeneic bone marrow derived MSC's for the treatment of perianal fistula(s) in the setting of Crohn's disease\n\nLack of response is defined as:\n\nRadiographic and Clinical healing which does not meet the threshold for Partial Healing",
+                              "Number of participants with lack of response post-injection of 75 million allogeneic bone marrow derived MSC's for the treatment of perianal fistula(s) in the setting of Crohn's disease\n\nLack of response is defined as:\n\nRadiographic and Clinical healing which does not meet the threshold for Partial Healing",
+                              "Number of participants with worsening of disease post-injection of 75 million allogeneic bone marrow derived MSC's for the treatment of perianal fistula(s) in the setting of Crohn's disease\n\nWorsening disease is defined as:\n\nRadiographic: MRI with a fluid collection >2 cm in 2 of 3 dimensions, edema, inflammation or sign of active inflammatory response. An increased number of tracts may be seen, or increased branching from the primary tract,\n\nClinical: Increased drainage per patient report and on clinical exam",
+                              "Number of participants with worsening of disease post-injection of 75 million allogeneic bone marrow derived MSC's for the treatment of perianal fistula(s) in the setting of Crohn's disease\n\nWorsening disease is defined as:\n\nRadiographic: MRI with a fluid collection >2 cm in 2 of 3 dimensions, edema, inflammation or sign of active inflammatory response. An increased number of tracts may be seen, or increased branching from the primary tract,\n\nClinical: Increased drainage per patient report and on clinical exam"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Complete clinical healing",
+                              "Complete clinical healing",
+                              "Partial clinical healing",
+                              "Partial clinical healing",
+                              "Lack of response",
+                              "Lack of response",
+                              "Worsening of disease",
+                              "Worsening of disease"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Month 3",
+                              "Month 12",
+                              "Month 3",
+                              "Month 12",
+                              "Month 3",
+                              "Month 12",
+                              "Month 3",
+                              "Month 12"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04791878"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The Inflammatory Bowel Disease Questionnaire (IBDQ) is a widely used questionnaire for Health-related quality of life assessment in patients with inflammatory bowel diseases (IBDs).",
+                              "Albumin is an important component of the blood, and patients with severe Crohn's disease can present with clinical signs of hypoproteinemia.",
+                              "Hemoglobin is an important component of the blood, and patients with severe Crohn's disease can present with clinical signs of anemia.",
+                              "Fecal calprotectin (FC) is a non-invasive marker of gastrointestinal inflammation with advocated diagnostic precision in distinguishing inflammatory bowel disease (IBD) from non-IBD diagnoses.",
+                              "Weight and height will be combined to report BMI in kg/m^2"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Inflammatory Bowel Disease Questionnaire",
+                              "Albumin",
+                              "Hemoglobin",
+                              "Fecal calprotectin",
+                              "body mass index (BMI)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Changes from baseline to week 4, week 8, week 12 and week 24 after stem cell treatment.",
+                              "Changes from baseline to week 4, week 8, week 12 and week 24 after stem cell treatment.",
+                              "Changes from baseline to week 4, week 8, week 12 and week 24 after stem cell treatment.",
+                              "Changes from baseline to week 4, week 8, week 12 and week 24 after stem cell treatment.",
+                              "Changes from baseline to week 4, week 8, week 12 and week 24 after stem cell treatment."
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05262829"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Number of participants with complete clinical healing post-injection of 75 million allogeneic bone marrow derived MSC's for the treatment of medically refractory pouch fistulizing disease in the setting of Crohn's disease of the pouch.\n\nComplete Healing is defined as:\n\nRadiographic Healing: MRI with an absence of a fluid collection >2 cm in 3 of 3 dimensions, lack of edema, inflammation or sign of active inflammatory response. A remnant scar of a fistula tract may remain\n\nClinical Healing: 100% cessation of drainage on both clinical exam with deep palpation and per patient report and epithelization of the external fistula opening",
+                              "Number of participants with partial clinical healing,post-injection of 75 million allogeneic bone marrow derived MSC's for the treatment of medically refractory pouch fistulizing disease in the setting of Crohn's disease\n\nPartial Healing is defined as:\n\nRadiographic Healing: MRI with an absence of a fluid collection >2 cm in 2 of 3 dimensions, lack of edema, inflammation or sign of active inflammatory response. A remnant scar of a fistula tract may remain\n\nClinical healing: Greater than or equal to 50 % cessation of drainage on both clinical exam with deep palpation and per patient report and epithelization of the external fistula opening",
+                              "Number of participants with lack of response post-injection of 75 million allogeneic bone marrow derived MSC's for the treatment of medically refractory pouch fistulizing disease in the setting of Crohn's disease\n\nLack of Response is defined as: Radiographic and Clinical healing which does not meet the threshold for Partial Healing",
+                              "Number of participants with worsening disease-injection of 75 million allogeneic bone marrow derived MSC's for the treatment of medically refractory pouch fistulizing disease in the setting of Crohn's disease\n\nWorsening Disease is defined as:\n\nRadiographic: MRI with a fluid collection >2 cm in 2 of 3 dimensions, edema, inflammation or sign of active inflammatory response. An increased number of tracts may be seen, or increased branching from the primary tract,\n\nClinical: Increased drainage per patient report and on clinical exam"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Complete clinical healing",
+                              "Partial healing",
+                              "Lack of response",
+                              "Worsening disease"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Month 6, Month 12",
+                              "Month 6, Month 12",
+                              "Month 6, Month 12",
+                              "Month 6, Month 12"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04519684"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "To monitor the number of draining fistulas, fistula healing efficiency, relapse rate among patients who achieved treatment success and amount local inflammation: Complete closure will be defined as absence of discharge and absence of collections of \u22652 cm directly related to the treated fistulas tracts as assessed by perianal examination. Partial closure will be defined as a reduction in >50% draining fistulas or no discharge on finger compression.",
+                              "Endoscopic ultrasound and Examination under anesthesia to evaluate baseline fistula state and during each intervention to assess tract closure and abscesses. Remission will be defined as healing of rectal ulcers and/or closure of fistula tracts by endoscopic ultrasonography.",
+                              "to examine number of tracts, inflammation in tracts, and extent of fibrosis or regenerative tissue via MRI assessment. Radiologic remission will be defined as substitution of tracts with fibrosis or regenerative tissue.",
+                              "Endoscopic ultrasound and MRI will be used to evaluate symptomatic patients.",
+                              "To evaluate the effect of local treatment with allogeneic bmMSCs on the quality of life of patients with fistulizing CD using the short Inflammatory Bowel Disease Questionnaire (sIBDQ)",
+                              "To evaluate the effect of local treatment with allogeneic bmMSCs on the quality of life of patients with fistulizing CD using the Short Form (SF)-36 score",
+                              "To summarize the changes from baseline compared to 12 weeks in serum C-reactive protein",
+                              "\u2022 Incidence of the Major Adverse Events endpoint, defined as the composite incidence of (1) death (2) hospitalization for worsening fistulizing disease (3) or infection caused by the intervention."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Clinically: to assess changes in the Crohn's Disease Activity Index (CDAI), the Perianal Disease Activity Index (PDAI).",
+                              "Endoscopic assessment of rectum using a limited simplified endoscopic activity score for Crohn's disease (SES-CD) to evaluate extent and severity of ulcers.",
+                              "Radiologic assessment using MRI",
+                              "Evaluate symptomatic patients.",
+                              "Evaluate the effect of local treatment with allogeneic bmMSCs using the short Inflammatory Bowel Disease Questionnaire (sIBDQ)",
+                              "Evaluate the effect of local treatment with allogeneic bmMSCs using the Short Form (SF)-36 score",
+                              "C-reactive protein (CRP)",
+                              "Major Adverse Events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "At each intervention and 7, 10, and 16 months after last intervention",
+                              "At each intervention and 7, 10, and 16 months after last intervention",
+                              "Baseline, Month 4, and 16 months only if fistula closure has not been achieved at month 4",
+                              "Month 4 and Month 16",
+                              "At each intervention and 7, 10, and 16 months after last intervention",
+                              "At each intervention and 7, 10, and 16 months after last intervention",
+                              "At each intervention and 7, 10, and 16 months after last intervention",
+                              "At each intervention and 7, 10, and 16 months after last intervention"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02677350"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluation the decrease of CDAI after mesenchymal cell transplantation."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "CDAI"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "4months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Related Info"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://Royaninstitute.org"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01874015"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Number of Participants with:\n\nComplete Healing MRI with an absence of a fluid collection >2 cm in 3 of 3 dimensions, lack of edema, inflammation or sign of active inflammatory response. A remnant scar of a fistula tract may remain\n\nPartial Healing MRI with an absence of a fluid collection >2 cm in 2 of 3 dimensions, lack of edema, inflammation or sign of active inflammatory response. A remnant scar of a fistula tract may remain\n\nPartial Response MRI with an absence of a fluid collection >2 cm in 2 of 3 dimensions, lack of worsening inflammation or new tracts formed\n\nLack of Response Radiographic healing which does not meet the threshold for Partial Response\n\nDecreased symptoms Greater than 50% reduction in drainage as reported by the patient at study visits.",
+                              "Number of Participants with:\n\nComplete Healing 100% cessation of drainage on both clinical exam with deep palpation and per patient report and epithelization of the external fistula opening\n\nPartial Healing Greater than or equal to 50 % cessation of drainage on both clinical exam with deep palpation and per patient report and epithelization of the external fistula opening\n\nPartial Response Less than 50% cessation of drainage on both clinical exam with deep palpation and per patient report and epithelization of the external fistula opening\n\nLack of Response Clinical healing which does not meet the threshold for Partial Response\n\nDecreased symptoms Greater than 50% reduction in drainage as reported by the patient at study visits."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Radiographic Healing",
+                              "Clinical Healing"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline, 1 week, 2 weeks, 1 month, 2 months, 3 month, 6 month, 12 month after each 100% cessation of drainage on both clinical exam with deep palpation and per patient MSCs injection",
+                              "Baseline, 1 week, 2 weeks, 1 month, 2 months, 3 month, 6 month, 12 month after each 100% cessation of drainage on both clinical exam with deep palpation and per patient MSCs injection"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04073472"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Mainly on re-epithelialization of external opening"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Clinical healing"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "24 and/or 48 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05039411"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Remission, defined by Crohn's Disease Activity Index <150",
+                              "C-reactive Protein measured in blood.",
+                              "Fecal calprotectin measured in stool samples",
+                              "The following parameters will be taken in account.\n\nNucleated cell count and differential on an automated cell counter;\n\nFACS analysis with determination of the % cells (on total WBC) with the markers :\n\nCD3+, CD4+, CD8+, CD19+, CD45RA+, CD45RO+, CD56+\nCD3+CD4+, CD3+CD8+; CD3+CD56+;\nCD4+CD45RA+, CD4+CD45RO+;\nCD3-CD56+.\nRegulatory T-cell (Treg) levels;\nImmunoglobulin levels (baseline and week 12);\nV\u03b2 repertoire of T lymphocytes (baseline and week 12);\nTRECs quantification in T lymphocytes (baseline and week 12)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Clinical Response",
+                              "Remission",
+                              "Crohn's Disease Activity Index Level",
+                              "C-reactive Protein levels",
+                              "Fecal calprotectin levels",
+                              "Immune modulation investigation",
+                              "Incidence of infections"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "at week 2, 4, 8 and 12.",
+                              "at week 2, 4, 8 and 12.",
+                              "at week 2, 4, 8 and 12.",
+                              "at week 2, 4, 8 and 12.",
+                              "at week 2, 4, 8 and 12.",
+                              "at week 12.",
+                              "by week 12"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01540292"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05075811"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Harvey-Bradshaw index",
+                              "Corticosteroid dosage"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02445547"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "\u2022 To evaluate the efficacy of intravenous ExoFlo in inducing clinical remission in subjects with moderately to severely active Crohn's disease who have failed or are intolerant to one or more monoclonal antibodies.",
+                              "\u2022 To evaluate the efficacy of intravenous ExoFlo in inducing clinical response in subjects with moderately to severely active Crohn's disease who have failed or are intolerant to one or more monoclonal antibodies.",
+                              "\u2022 To evaluate the efficacy of intravenous ExoFlo in improving disease-specific health-related quality of life.",
+                              "\u2022 To evaluate the pharmacokinetics and pharmacodynamics of ExoFlo therapy, including changes in C-reactive protein (CRP), fecal calprotectin, fecal lactoferrin, and other pharmacodynamic biomarkers."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "\u2022 To evaluate the efficacy of intravenous ExoFlo in inducing clinical remission in subjects with moderately to severely active Crohn's disease who have failed or are intolerant to one or more monoclonal antibodies.",
+                              "\u2022 To evaluate the efficacy of intravenous ExoFlo in inducing clinical response in subjects with moderately to severely active Crohn's disease who have failed or are intolerant to one or more monoclonal antibodies.",
+                              "\u2022 To evaluate the efficacy of intravenous ExoFlo in improving disease-specific health-related quality of life.",
+                              "\u2022 To evaluate the pharmacokinetics and pharmacodynamics of ExoFlo therapy, including changes in C-reactive protein (CRP), fecal calprotectin, fecal lactoferrin, and other pharmacodynamic biomarkers."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "70 weeks",
+                              "70 weeks",
+                              "70 weeks",
+                              "70 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05130983"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "1. To assess changes in the Crohn's Disease Activity Index (CDAI), the Perianal Disease Activity Index (PDAI) and the adapted Vaizey fecal incontinence score before and after mesenchymal stem cell (MSC) treatment;",
+                              "2. To compare endoscopic changes before and after local bmMSC treatment using the Crohn's Disease Endoscopic Index of Severity (CDEIS) and simplified endoscopic activity score for Crohn's disease (SES-CD);",
+                              "3. To evaluate the effect of local treatment with autologous bmMSCs on the quality of life of patients with fistulizing CD using the short Inflammatory Bowel Disease Questionnaire (sIBDQ) and Short Form (SF)-36 score;",
+                              "4. To summarize the changes from baseline compared to 12 weeks in serum C-reactive protein (CRP).",
+                              "5. To assess the incidence of surgical intervention and infections."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Clinical scores",
+                              "Endoscopic scores",
+                              "Quality of life",
+                              "C-reactive protein (CRP)",
+                              "Safety"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 weeks",
+                              "12 weeks",
+                              "12 weeks",
+                              "12 weeks",
+                              "12 and 24 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01144962"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Improvement in quality of life (Inflammatory Bowel Disease Questionnaire [IBDQ] instrument)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00543374"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Disease improvement (Reduction by at least 100 points in CDAI)",
+                              "Improvement in quality of life (IBDQ)",
+                              "Reduction in number of draining fistulas"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "28 days",
+                              "28 days",
+                              "28 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00482092"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Clinical remission is defined as the closure of all treated external openings that were draining at baseline despite gentle finger compression.",
+                              "Clinical response is defined as closure of at least 50% of all treated external openings that were draining at baseline despite gentle finger compression.",
+                              "PDAI is a scoring system for assessing the severity of perianal lesions associated with Crohn's disease.It consists of the following five items :(a) perianal secretions;(b) Pain and movement;(c) Sexual life;(d) Perianal manifestations;(e) Sclerosing.Each item is rated on a five-point scale from asymptomatic (0) to severe (4), with an overall score of 0 to 20.The higher the score, the more severe the disease.",
+                              "IBDQ questionnaire score is used to investigate the quality of life of patients. There are 32 questions in total, and each question has 1 to 7 answers of different degrees, with 1 representing the most severe degree and 7 representing the least severe degree",
+                              "VAS scale was used to evaluate the pain. 0 points indicated no pain, less than 3 points indicated mild pain, 4-6 points indicated pain affecting sleep but tolerable, 7-10 points indicated pain and discomfort, affecting appetite and sleep. The higher number, the pain was more obvious.",
+                              "Wexner incontinence score"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Percentage of Participants who Achieve Clinical Remission",
+                              "Percentage of Participants who Achieve Clinical Response",
+                              "Percentage of Participants who decrease in PDAI",
+                              "Percentage of Participants who decrease in IBDQ",
+                              "Percentage of Participants who decrease in VAS scale",
+                              "Percentage of Participants who decrease in Wexner incontinence score"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Up to Week 24",
+                              "Up to Week 24",
+                              "0\u30014\u30018\u300116\u300124 weeks",
+                              "0\u30014\u30018\u300116\u300124 weeks",
+                              "0\u30014\u30018\u300116\u300124 weeks",
+                              "0\u30014weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Thoreson R, Cullen JJ. Pathophysiology of inflammatory bowel disease: an overview. Surg Clin North Am. 2007 Jun;87(3):575-85. Review."
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://pubmed.ncbi.nlm.nih.gov/17560413/"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04939337"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05499156"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Clinical Remission (CR) defined as closure of all treated EO that were draining at baseline despite gentle finger compression, as clinically assessed\nResponse defined as closure of at least 50% of all treated EO that were draining at baseline, as clinically assessed\nTime to Clinical Remission (time from treatment start to 1st visit with closure of all treated EO as described above)\nTime to Response (time from treatment start to 1st visit with closure of at least 50% of all treated EO as described above)\nRelapse defined, in patients with CR at previous visit, as reopening of any of the treated EO with active drainage, or the development of a perianal collection > 2 cm of the treated perianal fistulas confirmed by centrally blinded MRI\nTime to Relapse in patients with CR (time from CR to 1st visit with reopening of any of the treated EO as described above)\nSeverity of the perianal CD, assessed with the PDAI\nQoL assessed by IBDQ\nCDAI score\nVan Assche",
+                              "Combined Remission of perianal fistulising Crohn's disease at week 52 (as defined for week 24)\nClinical Remission defined as the closure of all treated external openings that were draining at baseline despite gentle finger compression, as clinically assessed at week 52\nResponse defined as closure of at least 50% of all treated external openings that were draining at baseline, as clinically assessed at week 52\nTime to Combined Remission by week 52 (as defined for week 24)\nTime to Clinical Remission by week 52 (as defined for week 24)\nTime to Response by week 52 (as defined for week 24)\nRelapse by week 52 in patients with Combined Remission at week 24 (as defined for week 24)\nTime to Relapse by week 52 in patients with Combined Remission at week 24 (as defined for week 24)\nSeverity of the perianal Crohn's disease up to week 52 assessed PDAI\nQoL up to week 52 by the IBDQ\nCDAI score up to week 52\nVan Assche score up to week 52",
+                              "Clinical Remission of perianal fistulising Crohn's disease defined as the clinical assessment of closure of all treated external openings that were draining at baseline despite gentle finger compression at week 104\nRelapse by week 104 in patients with Combined Remission at week 52, defined as reopening of any of the treated external openings with active drainage as clinically assessed\nTime to Relapse by week 104 in patients with Combined Remission at week 52 (defined as time from Combined Remission to first visit with reopening of any of the treated external openings with active drainage as clinically assessed)\nSeverity of the perianal Crohn's disease, assessed with the Perianal Disease Activity Index (PDAI) up to week 104\nQuality of Life (QoL) assessed by the Inflammatory Bowel Disease Questionnaire (IBDQ) up to week 104\nCDAI score up to week 104",
+                              "Adverse events including: Treatment emergent Adverse Events (TEAEs), TEAEs related to study treatment, Treatment emergent Serious Adverse Events (TESAEs), TESAEs related to study treatment, TEAEs leading to study withdrawal, adverse events related to surgical procedure(s) to provide study treatment, deaths Only SAEs will be reported during the 2nd follow-up period between week 52 and week 104.\nPhysical examination\nVital signs\nLaboratory tests (biochemistry, haematology, urinalysis)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy Assessment by week 24",
+                              "Efficacy Assessment by week 52",
+                              "Efficacy Assessment by week 104",
+                              "Safety analysis throughout the study:"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "24 weeks",
+                              "52 weeks",
+                              "104 Weeks",
+                              "week 24, 52 and 104"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01541579"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "CDAI response to treatments is defined as a CDAI of 150 or below, or a reduction in CDAI of at least 100 points.",
+                              "IBDQ response to treatment is defined as IBDQ of 170 or above, or an increase in IBDQ of at least 16 points.",
+                              "Infusional toxicity will be evaluated by continuously monitoring the subject's vital signs and O2 saturation by pulse oximetry from the time of PROCHYMAL administration until two hours after infusion is complete."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Disease Improvement",
+                              "Improvement in Quality of Life (IBDQ)",
+                              "Number of Adverse events as a measure of safety",
+                              "Infusional toxicity as a measure of safety and tolerability"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "180 Days after first infusion in Protocol 603",
+                              "180 Days after first infusion in Protocol 603",
+                              "180 Days after first infusion in Protocol 603",
+                              "180 Days after first infusion in Protocol 603"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01233960"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "At every follow up visit the perianal disease was evaluated using the PDAI (Perianal disease activity index)",
+                              "Crohn's disease was evaluated by using the HBI (Harvey Bradshaw Index)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Evaluation of perianal disease",
+                              "Evaluation of Crohn's disease"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year",
+                              "1 year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05322057"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03183661"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Comparison of MSCs between IBD patients and control patients using mmunohistochemistry, immunofluorescence, quantification of pro- and anti-inflammatory cytokines production."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Comparison of MSCs between IBD patients and control patients"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 month"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03115749"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2021-006068-26"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05521672"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Number of participants with complete clinical healing post-injection of 150 or 300 million bone marrow allogeneic derived mesenchymal stem cells for the treatment of medically refractory Crohn's colitis.\n\nComplete healing is defined as: Clinical and endoscopic remission\n\nClinical Healing: Normalization of CRP to <2.87 mg per liter, CDAI drops to <150\n\nRadiographic Healing: MR enterography with improvement of inflammation\n\nEndoscopic healing: Absence of mucosal ulceration and SES-CD score of 0-5",
+                              "Number of participants with clinical response post-injection of 150 or 300 million allogeneic bone marrow derived mesenchymal stem cell product for the treatment of medically refractory Crohn's colitis.\n\nClinical response is defined as:\n\nClinical Healing: Normalization of CRP to <2.87 mg per liter, CDAI drops to <150\n\nRadiographic Healing: MR enterography with improvement of inflammation\n\nEndoscopic healing: Absence of mucosal ulceration and SES-CD score of 0-5",
+                              "Number of participants with partial clinical response post-injection of 150 or 300 million allogeneic bone marrow derived mesenchymal stem cell product for the treatment of medically refractory Crohn's colitis.\n\nPartial clinical response is defined as:\n\nClinical Healing: >25% reduction of CRP, decrease in CDAI by <100 points\n\nRadiographic Healing: MR enterography with improvement in inflammation\n\nEndoscopic healing: Decreased SES-CD by >25% but < 50% or to score of 10-15",
+                              "Number of participants with lack of response post-injection of 150 or 300 million allogeneic bone marrow derived mesenchymal stem cell product for the treatment of medically refractory Crohn's colitis.\n\nLack of response is defined as:\n\nClinical Healing: No improvement\n\nRadiographic Healing: MR enterography without resolution of inflammation\n\nEndoscopic healing: No improvement in SES-CD",
+                              "Crohn's disease activity index will be used to measure quality of life in participants.\n\n*Remission of Crohn's disease is defined as CDAI below 150. Severe disease is defined as a value of greater than 450.",
+                              "Inflammatory bowel disease questionnaire will be used to measure quality of life in participants.\n\n*Score ranges from 32 (best health) to 224 (worst health)",
+                              "EuroQol 5 Dimensions survey will be used to measure quality of life in participants.\n\n*Score ranges from 5 (full health) to 25 (worst health).",
+                              "IBD-patient reported treatment impact survey will be used to measure quality of life in participants.\n\n*Score ranges from 3 (most satisfied) to 15 (least satisfied)",
+                              "Short Form 36 health survey will be used to measure quality of life in participants.\n\n*Score ranges from 0 (least favorable health state) to 3600 (most favorable health state)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Complete clinical healing",
+                              "Clinical response",
+                              "Partial clinical response",
+                              "Lack of response",
+                              "Crohn's disease activity index",
+                              "Inflammatory bowel disease questionnaire",
+                              "EuroQol 5 Dimensions survey",
+                              "Inflammatory bowel disease patient reported treatment impact survey",
+                              "Short Form 36 health survey"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Month 3, Month 12",
+                              "Month 3, Month 12",
+                              "Month 3, Month 12",
+                              "Month 3, Month 12",
+                              "Month 1 through Month 24",
+                              "Month 1 through Month 24",
+                              "Month 1 through Month 24",
+                              "Month 1 through Month 24",
+                              "Month 1 through Month 24"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04548583"
+                        ]
+                  },
+                  {
+                        "Rank": 28,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "To assess fistula healing induced by the delivery of a single injection of 100M allogeneic bone marrow derived MSCs on refractory perianal fistulizing Crohn's disease using radiographic assessment (MRI) assessments.\n\nComplete healing defined as MRI with an absence of a fluid collection >2cm in 3 of 3 dimensions, lack of edema, inflammation, or sign of active inflammatory response. A remnant of scar of a fistula tract may remain.\n\nPartial healing defined as MRI with an absence of a fluid collection >2cm in 2 of 3 dimensions, lack of edema, inflammation, or sign of active inflammatory response. A remnant of scar of a fistula tract may remain.\n\nLack of response defined as healing which does not meet the threshold for partial healing.\n\nWorsening disease defined as MRI with fluid collection >2cm in 2 of 3 dimensions, edema, inflammation, or sign of active inflammatory response. An increased number of tracts may be seen, or increased branching from the primary tract.",
+                              "To assess fistula healing induced by the delivery of a single injection of 100M allogeneic bone marrow derived MSCs on refractory perianal fistulizing Crohn's disease using clinical assessments.\n\nComplete healing defined as 100% cessation of drainage on clinical exam and with gentle finger compression.\n\nPartial healing defined as greater than or equal to 50% cessation of drainage on clinical exam with gentle finger compression.\n\nLack of response defined as healing which does not meet the threshold for partial healing.\n\nWorsening disease defined as increased drainage on clinical exam.",
+                              "To assess fistula healing induced by the delivery of a single injection of 300M allogeneic bone marrow derived MSCs on refractory perianal fistulizing Crohn's disease using radiographic assessment (MRI) assessments.\n\nComplete healing defined as MRI with an absence of a fluid collection >2cm in 3 of 3 dimensions, lack of edema, inflammation, or sign of active inflammatory response. A remnant of scar of a fistula tract may remain.\n\nPartial healing defined as MRI with an absence of a fluid collection >2cm in 2 of 3 dimensions, lack of edema, inflammation, or sign of active inflammatory response. A remnant of scar of a fistula tract may remain.\n\nLack of response defined as healing which does not meet the threshold for partial healing.\n\nWorsening disease defined as MRI with fluid collection >2cm in 2 of 3 dimensions, edema, inflammation, or sign of active inflammatory response. An increased number of tracts may be seen, or increased branching from the primary tract.",
+                              "To assess fistula healing induced by the delivery of a single injection of 300M allogeneic bone marrow derived MSCs on refractory perianal fistulizing Crohn's disease using clinical assessments.\n\nComplete healing defined as 100% cessation of drainage on clinical exam and with gentle finger compression.\n\nPartial healing defined as greater than or equal to 50% cessation of drainage on clinical exam with gentle finger compression.\n\nLack of response defined as healing which does not meet the threshold for partial healing.\n\nWorsening disease defined as increased drainage on clinical exam."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Fistula healing assessed by radiographic (MRI) assessments for OSSM-001 (100M dose)",
+                              "Fistula healing assessed by clinical assessments for OSSM-001 (100M dose)",
+                              "Fistula healing assessed by radiographic (MRI) assessments for OSSM-001 (300M dose)",
+                              "Fistula healing assessed by clinical assessments for OSSM-001 (300M dose)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 weeks",
+                              "12 weeks",
+                              "12 weeks",
+                              "12 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05407766"
+                        ]
+                  },
+                  {
+                        "Rank": 29,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Assess disease activity in Crohn's disease over 7 days using the Crohn's disease activity index",
+                              "min : 0 - max : 10 (worse)",
+                              "which incorporates clinical, surgical, endoscopic, and imaging findings from all segments of the digestive tract into one composite score",
+                              "Grade : from 0 to higher value 6"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Evolution of clinical disease activity index",
+                              "Evolution of Short health scale (quality of life)",
+                              "Evolution of the Lemann Index (measuring cumulated intestinal damage in Crohn's disease)",
+                              "Evolution of the \" Group of Therapeutic Study of Inflammatory Disorders of the Digestive Tube\" obstructive score for Crohn Disease strictures"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "week 0, 12 and 48",
+                              "week 0, 12 and 48",
+                              "week 0, 12 and 48",
+                              "weeks 0, 12 and 48"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03901235"
+                        ]
+                  },
+                  {
+                        "Rank": 30,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change in the CDAI value",
+                              "The ratio of patients applicable to CDAI <150"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "CDAI value",
+                              "The ratio of patients applicable to CDAI <150"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "up to 4 weeks",
+                              "Week 4"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02580617"
+                        ]
+                  },
+                  {
+                        "Rank": 31,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "This outcome corresponds to the rate of patients in clinical remission alone at 12 months defined by the combination\n\nan absence of pain and oozing\nclosure of the secondary orifice(s) with the absence of discharge on digital pressure\nabsence of abscesses",
+                              "This outcome corresponds to the rate of patients with primary treatment failure defined as non-closure of secondary orifice(s) with persistent flow on digital pressure at 3-month follow-up.",
+                              "This outcome corresponds to the complication rates and types at 12 months."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "12-month clinical remission rate only",
+                              "Primary clinical failure rate",
+                              "Evolution of the severity of the disease at 12 months"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Month 12",
+                              "Month 3",
+                              "Month 12"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05177003"
+                        ]
+                  },
+                  {
+                        "Rank": 32,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Morbidity",
+                              "Quality of life modification",
+                              "Relation between Crohns Disease Activity Index and fistula healing",
+                              "Mortality"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "62 week",
+                              "62 week",
+                              "62 week",
+                              "62 week"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02403232"
+                        ]
+                  },
+                  {
+                        "Rank": 33,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "QoL according to dedicated questionnaire (EuroQoL 5D-3L)",
+                              "A Dedicated self complementary questionnaire (PROMs)",
+                              "Cost-Effectiveness of the procedure"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Quality of Life (QoL)",
+                              "PATIENT REPORTED OUTCOMES (PROs)",
+                              "Efficiency"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 moths",
+                              "6 moths",
+                              "6 moths"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05210309"
+                        ]
+                  },
+                  {
+                        "Rank": 34,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Time from PICU admission to discharge"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "length of stay in PICU"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "up to 28 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04850469"
+                        ]
+                  },
+                  {
+                        "Rank": 35,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Grade of investigator's satisfaction (8 weeks after final dose)\n\nvery satisfaction\nsatisfaction\nsomewhat satisfaction\nunsatisfaction\nvery unsatisfaction",
+                              "proportion of patients with completely closed fistula (every visits)\nproportion of patients with more than 50 % closed fistula (every visits)",
+                              "Taking picture of target fistula at Day 0 and Week 4, 6, 8",
+                              "Number of patients with any kinds of adverse events (Day 0, every visits)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Grade of investigator's satisfaction",
+                              "Number of patients with closed fistula",
+                              "Photo of target fistula",
+                              "Number of patients with adverse events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "8 weeks",
+                              "8 weeks",
+                              "8 weeks",
+                              "8 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01314092"
+                        ]
+                  },
+                  {
+                        "Rank": 36,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Presence of Fecal Incontinence Measured by the Wexner score instrument, The scoring of the instrument ranges from 0 (no incontinence) to 20 (complete incontinence).",
+                              "Reported adverse events designated as related to treatment"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Incontinence rate",
+                              "Treatment related adverse events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year",
+                              "1 year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04750499"
+                        ]
+                  },
+                  {
+                        "Rank": 37,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "This outcome corresponds to Clinical cure defined by: absence of seton, closure of secondary orifices, absence of leakage under pressure and absence of new suppuration.",
+                              "This outcome corresponds to Clinical cure defined by: absence of seton, closure of secondary orifices, absence of leakage under pressure and absence of new suppuration.",
+                              "This outcome corresponds to the Number of re-interventions for the drainage of a new abscess and/or fistula (operations to close the fistulous tract excluded).",
+                              "This outcome corresponds to the absence of T2 hyperintensity, contrast uptake after injection of gadolinium and abscess > 2 cm.",
+                              "This outcome corresponds to the rate of use of sphincter-sparing techniques (simple removal of the seton, rectal lowering flap, FiLaC laser, biological glue, intersphincter ligation of the fistulous tract, injection of mesenchymal stem cells).",
+                              "This outcome corresponds to the Clinical and radiological cure rate (pre-defined criteria)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Clinical cure rate at 6 months",
+                              "Clinical cure rate at 12 months",
+                              "Rate of re-interventions for the drainage of a new abscess or a new fistula at 12 months",
+                              "Radiological cure rate, as determined by MRI at 12 months",
+                              "Rate of use of sphincter-sparing techniques at 12 months",
+                              "Clinical and radiological cure rate at 12 months in the group of patients receiving an injection of mesenchymal stem cells"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Month 6",
+                              "Month 12",
+                              "Month 12",
+                              "Month 12",
+                              "Month 12",
+                              "Month 12"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05330416"
+                        ]
+                  },
+                  {
+                        "Rank": 38,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Participants will have a clinical assessment of fistula drainage. Participants will be assessed during an office examination if their fistula is draining or not. The Outcome Measure will be the presence or absence of fistula drainage."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Number of participants with response to the treatment regarding potential cessation of drainage from their fistula."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "3-24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03220243"
+                        ]
+                  },
+                  {
+                        "Rank": 39,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Proportion of patients with completely closed of fistula (Month 2)\n\nProportion of patients with more than 50% closed of fistula (Month 2, 4)",
+                              "Evaluation of Fecal Incontinence Score (Wexner Score, Cleveland Clinic Continence Scoring System)",
+                              "Grade of Investigator's satisfaction (Month 2, 4)\n\nvery satisfied\nsatisfied\nmoderately satisfied\ndissatisfied\nvery dissatisfied",
+                              "systemic tolerance (Month 4) (Biochemistry: Albumin, Alkaline phosphatase, ALT, AST, Bilirubin, Calcium, Chloride, Bicarbonate, Creatinine, Glucose, LDH, Potassium, Sodium, Total protein, Urea nitrogen(BUN), Uric acid / Hematology: Hemoglobin, Hematocrit, Reticulocyte count, complete blood cell count with differential, platelet count, WBC with differential count, ESR, PT/APTT)\nPhysical examination\nPregnancy testing (Month 4)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Number of patients with sustained efficacy of closure of fistula",
+                              "Evaluation of Fecal Incontinence Score",
+                              "Grade of Investigator's satisfaction",
+                              "Number of patients with adverse events as a measure of systemic tolerance and physical examinations"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Month 2, 4",
+                              "Month 4",
+                              "Month 2, 4",
+                              "Month 2, 4"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01623453"
+                        ]
+                  },
+                  {
+                        "Rank": 40,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "on phase 2a",
+                              "on phase 2a",
+                              "on phase 2a",
+                              "on phase 2a",
+                              "on phase 2a",
+                              "on phase 2a",
+                              "on phase 2a",
+                              "on phase 2a"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "the ratio of patients who reduce CDAI over 70 as contrasted with baseline value",
+                              "a variation of CRP value as contrasted with baseline",
+                              "a variation of MR enterographic score as contrasted with baseline",
+                              "a variation of fecal calprotectin as contrasted with baseline",
+                              "a variation of IBDQ score as contrasted with baseline",
+                              "a variation of SF-36 score as contrasted with baseline",
+                              "reduction of the number of draining fistula",
+                              "all kinds of adverse effects which occur during the clinical study"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 weeks follow-up after treatment",
+                              "12 weeks follow-up after treatment",
+                              "12 weeks follow-up after treatment",
+                              "12 weeks follow-up after treatment",
+                              "12 weeks follow-up after treatment",
+                              "12 weeks follow-up after treatment",
+                              "12 weeks follow-up after treatment",
+                              "12 weeks follow-up after treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02000362"
+                        ]
+                  },
+                  {
+                        "Rank": 41,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Efficacy outcome",
+                              "Efficacy outcome"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "ratio of patients who is applicable to CDAI<150",
+                              "ratio of patients who reduce CDAI over 70 as contrasted witd baseline(V7)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "114 weeks",
+                              "114 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02926300"
+                        ]
+                  },
+                  {
+                        "Rank": 42,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "To assess in preliminary fashion the response of fistula healing induced by the GORE plug containing MSC i) Clinically by drainage assessment and ii) Radiographically by MRI, the gold standard test for assessment of healing."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "To assess in preliminary fashion the response of fistula healing induced by the GORE plug containing MSC"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "2-24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Mayo Clinic Clinical Trials"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.mayo.edu/research/clinical-trials"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01915927"
+                        ]
+                  },
+                  {
+                        "Rank": 43,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Length of time fistula meets clinical remission definition.",
+                              "Perianal Disease Activity Index (PDAI). Possible scores range from 0-20, with a higher score indicating more severe perianal disease activity",
+                              "Short Crohn's Disease Activity Index (sCDAI). Possible scores range from 44 to >450, with a higher score representing more severe disease activity",
+                              "Euroqol 5 Dimension 5, level measure of health status (EQ-5D-5L). The scale ranges in scores from 0 to 100, with a higher score indicating a more severe health status.",
+                              "Inflammatory Bowel Disease Questionnaire (IBDQ). Possible scores range from 32-224, with a higher score indicating a better health-related quality of life.",
+                              "Days of missed work or activity and reason why will be captured.",
+                              "Number and type of healthcare resources utilized will be captured."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in proportions of subjects with fistula clinical remission between the AVB-114 and standard of care groups.",
+                              "Change in the means of durability of clinical remission between the AVB-114 and standard of care groups.",
+                              "Change in means of time to clinical remission between the AVB-114 and standard of care groups.",
+                              "Change in proportions of subjects with fistula relapse between the AVB-114 and standard of care groups.",
+                              "Change in means of time to fistula relapse between the AVB-114 and standard of care groups.",
+                              "Change in proportions of radiologic response of treated fistula between the AVB-114 and standard of care groups.",
+                              "Change in means of disease activity index scores using the Perianal Disease Activity Index (PDAI) between the AVB-114 and standard of care groups.",
+                              "Change in means of disease activity index scores using the short Crohn's Disease Activity Index (sCDAI) between the AVB-114 and standard of care groups.",
+                              "Change in means of patient quality of life assessment scores using the Euroqol 5 Diumention 5, level measure of health status (Eq-5Q-5L) between the AVB-114 and standard of care groups.",
+                              "Change in means of patient quality of life assessment scores using the Inflammatory Bowel Disease Questionnaire (IBDQ) between the AVB-114 and standard of care groups.",
+                              "Change in patient assessment of impact to daily functionality related to treated fistula between the AVB-114 and standard of care groups.",
+                              "Change in the evaluations of patient care trajectory related to treated fistula between the AVB-114 and standard of care groups.",
+                              "Change in number of adverse events between the AVB-114 and standard of care groups.",
+                              "Change in number of serious adverse events between the AVB-114 and standard of care groups."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Week 12 to Week 104",
+                              "Week 12 to Week 104",
+                              "Week 12 to Week 104",
+                              "Week 12 to Week 104",
+                              "Week 12 to Week 104",
+                              "Baseline, Week 12 to Week 52",
+                              "Baseline, Week 36",
+                              "Baseline, Week 36",
+                              "Baseline, Week 36",
+                              "Baseline, Week 36",
+                              "Baseline, Week 12 to Week 36",
+                              "Week 12 to Week 36",
+                              "Day 1 to Week 104",
+                              "Day 1 to Week 104"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04847739"
+                        ]
+                  }
+            ]
+      }
+}

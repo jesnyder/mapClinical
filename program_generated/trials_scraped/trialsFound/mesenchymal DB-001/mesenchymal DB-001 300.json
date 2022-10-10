@@ -1,0 +1,69 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal DB-001",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The number of days from the first study treatment until return of oxygenation saturation (SpO2) \u2265 93% on room air (or PaO2/FiO2 \u2265 300 mmHg). If patient has chronic lung disease, recovery is defined as pre-COVID-19 SpO2 and O2 support.",
+                              "Safety Endpoint",
+                              "Efficacy Endpoint"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Time to Recovery",
+                              "Incidence of Serious Adverse Events (SAE)",
+                              "Number of Patients with All-cause Mortality"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "61 days",
+                              "61 days",
+                              "61 days"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Direct Biologics, LLC"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://directbiologics.com/"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04493242"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,83 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal SF-MSC-EX",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "March 3, 2022"
+                        ],
+                        "LeadSponsorClass": [
+                              "OTHER"
+                        ],
+                        "LeadSponsorName": [
+                              "Eskisehir Osmangazi University"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Eskisehir"
+                        ],
+                        "LocationContactEMail": [
+                              "aylaekersariboyaci@yahoo.com"
+                        ],
+                        "LocationContactName": [
+                              "Ayla Eker Sariboyaci, AssocProfDr",
+                              "Ulukan Inan, Prof.Dr.",
+                              "Ayla Eker Sariboyaci, AssocProfDr",
+                              "Onur Uysal, AssocProfDr"
+                        ],
+                        "LocationContactPhone": [
+                              "+905382696420"
+                        ],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [
+                              "Contact",
+                              "Principal Investigator",
+                              "Sub-Investigator",
+                              "Sub-Investigator"
+                        ],
+                        "LocationCountry": [
+                              "Turkey"
+                        ],
+                        "LocationFacility": [
+                              "Eskisehir Osmangazi University"
+                        ],
+                        "LocationState": [],
+                        "LocationStatus": [
+                              "Recruiting"
+                        ],
+                        "LocationZip": [
+                              "26040"
+                        ],
+                        "NCTId": [
+                              "NCT05261360"
+                        ]
+                  }
+            ]
+      }
+}

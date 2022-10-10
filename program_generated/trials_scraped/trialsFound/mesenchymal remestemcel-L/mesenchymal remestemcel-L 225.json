@@ -1,0 +1,467 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal remestemcel-L",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 20,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 20,
+            "FieldList": [
+                  "OutcomeAnalysisDispersionValue",
+                  "OutcomeAnalysisEstimateComment",
+                  "OutcomeAnalysisGroupDescription",
+                  "OutcomeAnalysisGroupId",
+                  "OutcomeAnalysisNonInferiorityComment",
+                  "OutcomeAnalysisNonInferiorityType",
+                  "OutcomeAnalysisOtherAnalysisDescription",
+                  "OutcomeAnalysisPValue",
+                  "OutcomeAnalysisPValueComment",
+                  "OutcomeAnalysisParamType",
+                  "OutcomeAnalysisParamValue",
+                  "OutcomeAnalysisStatisticalComment",
+                  "OutcomeAnalysisStatisticalMethod",
+                  "OutcomeAnalysisTestedNonInferiority",
+                  "OutcomeCategoryTitle",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT00294112"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT04543994"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT04548583"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT00136903"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [
+                              "OG000",
+                              "OG000"
+                        ],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [
+                              "Other",
+                              "Other"
+                        ],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [
+                              "0.0003",
+                              "0.0032"
+                        ],
+                        "OutcomeAnalysisPValueComment": [
+                              "P-value was calculated from the binomial distribution under the assumption of a 0.45 success rate for the null hypothesis.",
+                              "P-value was from a Cochran-Mantel-Haenszel (CMH) test stratified by baseline aGVHD grade."
+                        ],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [
+                              "Binomial Distribution",
+                              "CHM test"
+                        ],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT02336230"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT04366830"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT00690066"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT00366145"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT00284986"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT04371393"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT00683722"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT00877903"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT00482092"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT00543374"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT04456439"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT00826046"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT00759018"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT01233960"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT01510431"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "OutcomeAnalysisDispersionValue": [],
+                        "OutcomeAnalysisEstimateComment": [],
+                        "OutcomeAnalysisGroupDescription": [],
+                        "OutcomeAnalysisGroupId": [],
+                        "OutcomeAnalysisNonInferiorityComment": [],
+                        "OutcomeAnalysisNonInferiorityType": [],
+                        "OutcomeAnalysisOtherAnalysisDescription": [],
+                        "OutcomeAnalysisPValue": [],
+                        "OutcomeAnalysisPValueComment": [],
+                        "OutcomeAnalysisParamType": [],
+                        "OutcomeAnalysisParamValue": [],
+                        "OutcomeAnalysisStatisticalComment": [],
+                        "OutcomeAnalysisStatisticalMethod": [],
+                        "OutcomeAnalysisTestedNonInferiority": [],
+                        "OutcomeCategoryTitle": [],
+                        "NCTId": [
+                              "NCT00562497"
+                        ]
+                  }
+            ]
+      }
+}

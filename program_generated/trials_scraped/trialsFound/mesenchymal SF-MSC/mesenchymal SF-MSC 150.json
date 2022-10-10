@@ -1,0 +1,107 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal SF-MSC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "SF-MSC-EX Treatment Group (Experimental group's left knees)",
+                              "SF-MSC Treatment Group (Experimental group's right knees)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Intra-articular administration of synovial fluid-derived mesenchymal stem cells-derived exosomes",
+                              "Intra-articular administration of synovial fluid-derived mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "SF-MSC-EX",
+                              "SF-MSC"
+                        ],
+                        "InterventionOtherName": [
+                              "Intraarticular Exosome Treatment",
+                              "Intraarticular Stem Cell Treatment"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05261360"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "Intervention group",
+                              "Control group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "The specific and novel surgical procedure that will be carried out here is synovial membrane brushing using a novel device that has been shown to release MSCs from the synovium in vitro. This technique will be carried out in the setting of therapeutic microfracture for cartilage defects.",
+                              "Microfracture or marrow-stimulation is a surgical procedure to repair small isolated cartilage defects by recruiting bone marrow mesenchymal stromal cells by creating small holes ('micro fractures') in the sub-chondral bone. These cells are entrapped in the ensuing blood clot and contribute to partial repair of the cartilage."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Arthroscopic synovial brushing",
+                              "Microfracture"
+                        ],
+                        "InterventionOtherName": [
+                              "Marrow-stimulation"
+                        ],
+                        "InterventionType": [
+                              "Device",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02696876"
+                        ]
+                  }
+            ]
+      }
+}

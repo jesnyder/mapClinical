@@ -1,0 +1,458 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal JOINTSTEM",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 10,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 10,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2",
+                              "Phase 3"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "June 30, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Change from baseline in WOMAC function score at Week 48",
+                              "Change from baseline on Visual Analog Scale (VAS) score at Week 48"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Western Ontario and McMaster Universities Arthritis Index (WOMAC) function Score",
+                              "Visual Analog Scale (VAS) score"
+                        ],
+                        "NCTId": [
+                              "NCT04368806"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "OverallOfficialName": [
+                              "KangIl Kim, M.D., Ph.D."
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 9, 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Incidence of adverse events from baseline to 60 months"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Adverse Events"
+                        ],
+                        "NCTId": [
+                              "NCT03509025"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "OverallOfficialName": [
+                              "KANGIL KIM, M.D., Ph.D.",
+                              "WOOSUK LEE, M.D., Ph.D.",
+                              "SUNCHUL HWANG, M.D., Ph.D.",
+                              "SANGJUN SONG, M.D., Ph.D.",
+                              "KICHEOR BAE, M.D., Ph.D.",
+                              "YOUNGWAN MOON, M.D., Ph.D.",
+                              "JUHONG LEE, M.D., Ph.D.",
+                              "HANJUN LEE, M.D., Ph.D.",
+                              "EUISUNG CHOI, M.D., Ph.D.",
+                              "YONG IN, M.D., Ph.D.",
+                              "KWANKYU PARK, M.D., Ph.D.",
+                              "OOGJIN SHON, M.D., Ph.D.",
+                              "MYUNGCHUL LEE, M.D., Ph.D."
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 3"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 15, 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Pain, stiffness, and physical function of the knee will be measured by the WOMAC score\n\nScore range is\n\n0-20 for Pain\n0-8 for Stiffness\n0-68 for Pysical Function\nHigher scores on the WOMAC indicate wors pain, stiffness, and functional limitations",
+                              "Pain of knee will be measured by the 100mm VAS\n\n-Score range is from 0-4mm(no pain) to 75-100mm(severe pain)"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Change of Western Ontario and McMaster Universities Osteoarthritis Index(WOMAC) scores from baseline",
+                              "Change of Visual Analog Scale (VAS) scores from baseline"
+                        ],
+                        "NCTId": [
+                              "NCT03990805"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "OverallOfficialName": [
+                              "KANGIL KIM",
+                              "WOOSUK LEE",
+                              "KICHEOR BAE",
+                              "YONG IN"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Active, not recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 3"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 23, 2026"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Incidence of adverse events from baseline to 54 monthss"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Adverse Events"
+                        ],
+                        "NCTId": [
+                              "NCT04427930"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Not yet recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Not Applicable"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 1, 2028"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Incidence of adverse events from baseline to 60 months"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Adverse Events"
+                        ],
+                        "NCTId": [
+                              "NCT04825730"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "OverallOfficialName": [
+                              "Kang Sup Yoon, M.D. & Ph.D."
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "September 2011"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "To determine the overall safety of RNL-JointStem\u00ae carrier using physical examinations, vital signs, treatment emergent adverse events (TEAEs), and the results of clinical lab tests.",
+                              "Pain as measured by the The Western Ontario and McMaster Universities Arthritis Index (WOMAC) Pain Score."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Safety evaluation",
+                              "WOMAC(Western Ontario and McMaster Universities) Index"
+                        ],
+                        "NCTId": [
+                              "NCT01300598"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [
+                              "tin50@stemcellbio.com"
+                        ],
+                        "PointOfContactOrganization": [
+                              "Nature Cell co., ltd"
+                        ],
+                        "PointOfContactPhone": [
+                              "02-545-4137"
+                        ],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [
+                              "Project Manager"
+                        ],
+                        "PrimaryCompletionDate": [
+                              "March 12, 2018"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Comparing the baseline and 6-month WOMAC scores in JointStem group Score range: 0-2,400 A score of 2,400 represents the most severe impairment and 0 represents the least impairment",
+                              "Comparing the baseline and 6-month VAS scores in JointStem group Score range: 0-100 A score of 100 represents the most severe pain and 0 represents the least pain.",
+                              "Comparing the baseline and 6-month MRI improvement values in JointStem group MRI Improvement Evaluation was conducted by an MRI analysis company called 'Qmetrics'. The main radiological features evaluated were bone marrow edema, osteophytes, and cartilage. Certain features, such as the appearance of a new cartilage defect or increase in the size of existing cartilage defects or osteophytes, is generally considered an indication of osteoarthritic progression. Similarly, the diminishing in severity or size of existing abnormalities would generally be considered to be a healing(improving) response."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Change From Baseline on Western Ontario and McMaster Universities Arthritis Index (WOMAC) Score in JointStem Group",
+                              "Change From Baseline on Visual Analog Scale (VAS) in JointStem Group",
+                              "MRI Improvement Evaluation in JointStem Group"
+                        ],
+                        "NCTId": [
+                              "NCT02674399"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "OverallOfficialName": [
+                              "KANGIL KIM, M.D., Ph.D"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Not Applicable"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "May 22, 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "MRI perform to measure cartilage defect size change from baseline up to 27 weeks"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "MRI scan"
+                        ],
+                        "NCTId": [
+                              "NCT03000712"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "OverallOfficialName": [
+                              "CHANGMIN LEE, M.D.,Ph.D."
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Not yet recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Not Applicable"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "August 1, 2024"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Change of damaged cartilage defects after 48 weeks from IP administration, compared to Baseline (Experimental group vs Control group)"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Arthroscopy"
+                        ],
+                        "NCTId": [
+                              "NCT04821102"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "OverallOfficialName": [
+                              "KANGIL KIM, M.D., Ph.D"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "November 2016"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Pain, stiffness, and physical function of the knee will be measured by the Western Ontario and McMaster Universities (WOMAC)"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "WOMAC score"
+                        ],
+                        "NCTId": [
+                              "NCT02658344"
+                        ]
+                  }
+            ]
+      }
+}

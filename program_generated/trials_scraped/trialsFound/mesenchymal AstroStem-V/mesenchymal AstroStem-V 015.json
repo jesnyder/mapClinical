@@ -1,0 +1,726 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal AstroStem-V",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 25,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 25,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "HB-adMSCs are autologous, adipose-derived mesenchymal stem cells. Four intravenous infusions will be administered on weeks 0, 2, 6, and 8 at a dose of 2 x 10^8 total HB-adMSC cells."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: HB-adMSCs"
+                        ],
+                        "ArmGroupLabel": [
+                              "HB-adMSCs"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04228666"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "AstroStem-V which consists of three syringes and each syringe contains 1.0 x 10^8 cells / 3mL of saline with 30% human serum"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: AstroStem-V"
+                        ],
+                        "ArmGroupLabel": [
+                              "AstroStem-V"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04527224"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Five IV infusions of autologous, adipose-derived mesenchymal stem cells. Baseline laboratory data will be collected prior to first infusion; follow-up data will be compared against baseline according to the following schedule: safety lab follow ups at weeks 6, 14, 26; inflammatory marker follow ups at weeks 6, 14, 26; SF-36 and PHQ-9 Questionnaires at weeks 2,6,10, 14, 18, 22, 26."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: HB-adMSCs"
+                        ],
+                        "ArmGroupLabel": [
+                              "HB-adMSCs"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04349631"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "Acronym": [
+                              "HB-adMSCs"
+                        ],
+                        "AgreementOtherDetails": [
+                              "In the protocol signature page, the investigator agreed to the following: \"I further agree to treat the results of this Study as confidential information and will not submit the results of the Study for publication without prior written authorization from Hope Biosciences. \""
+                        ],
+                        "AgreementPISponsorEmployee": [
+                              "No"
+                        ],
+                        "AgreementRestrictionType": [
+                              "OTHER"
+                        ],
+                        "AgreementRestrictiveAgreement": [
+                              "Yes"
+                        ],
+                        "ArmGroupDescription": [
+                              "Single IV administration of autologous adipose-derived mesenchymal stem cells Baseline laboratory data will be collected prior to infusion; follow up data will be compared against baseline at 1, 3, 6 and 12 months. Joint Assessment 68 will be administered at 1, 3, 6 and 12 months."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: HB-adMSCs"
+                        ],
+                        "ArmGroupLabel": [
+                              "Treatment Arm"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [
+                              "Female",
+                              "Male",
+                              "Hispanic or Latino",
+                              "Not Hispanic or Latino",
+                              "Unknown or Not Reported",
+                              "American Indian or Alaska Native",
+                              "Asian",
+                              "Native Hawaiian or Other Pacific Islander",
+                              "Black or African American",
+                              "White",
+                              "More than one race",
+                              "Unknown or Not Reported"
+                        ],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03691909"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04087889"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Participants with moderate to severe acute respiratory distress syndrome (6 patients)",
+                              "Participants with moderate to severe acute respiratory distress syndrome (10 patients)",
+                              "Participants with moderate to severe acute respiratory distress syndrome (10 patients)"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: HCR040 (Phase 1)",
+                              "Drug: Placebo (Phase 2)",
+                              "Drug: HCR040 (Phase 2)"
+                        ],
+                        "ArmGroupLabel": [
+                              "HCR040 (Phase 1)",
+                              "Control group (Phase 2)",
+                              "HCR040 (Phase 2)"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04289194"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Subjects assigned to this arm will receive 5 intravenous infusions of HB-adMSCs at 200 million cells/dose. Infusions will occur at weeks 0, 2, 6, 10, and 14.",
+                              "Subjects assigned to this arm will receive 5 intravenous infusions of HB-adMSCs at 100 million cells/dose. Infusions will occur at weeks 0, 2, 6, 10, and 14.",
+                              "Subjects assigned to this arm will receive 5 intravenous infusions of HB-adMSCs at 50 million cells/dose. Infusions will occur at weeks 0, 2, 6, 10, and 14.",
+                              "Subjects assigned to this arm will receive 5 intravenous infusions of placebo intervention (saline). Infusions will occur at weeks 0, 2, 6, 10, and 14."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: HB-adMSCs",
+                              "Biological: HB-adMSCs",
+                              "Biological: HB-adMSCs",
+                              "Other: Placebos"
+                        ],
+                        "ArmGroupLabel": [
+                              "Allogeneic HB-adMSCs 200MM",
+                              "Allogeneic HB-adMSCs 100MM",
+                              "Allogeneic HB-adMSCs 50MM",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04348435"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03925649"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Subjects assigned to this arm will receive 4 intravenous infusions of HB-adMSCs at 100 million cells/dose. HB-adMSC infusions will occur at day 0, 3, 7, and 10.",
+                              "Subjects assigned to this arm will receive 4 intravenous infusions of placebo (saline solution). Infusions will occur at day 0, 3, 7, and 10."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: HB-adMSC",
+                              "Other: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "HB-adMSCs",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04362189"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04029896"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Biological/Vaccine: Allogeneic HB-adMSCs\n\nAllogeneic HB-adMSCs will be administered intravenously to study participants who qualify.\n\nOther Names: Allogeneic Hope Biosciences adipose derived mesenchymal stem cells.",
+                              "Placebo will be administered intravenously to study participants who qualify.\n\nOther Names: Sterile Saline Solution 0.9%"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Biological/Vaccine: Allogeneic HB-adMSCs",
+                              "Other: Placebo",
+                              "Biological: Biological/Vaccine: Allogeneic HB-adMSCs",
+                              "Other: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "Allogeneic HB-adMSCs.",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04995081"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "HB-adMSCs will be infused three times over a six week period, spaced 14 days apart"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: HB-adMSCs"
+                        ],
+                        "ArmGroupLabel": [
+                              "HB-adMSC"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04063215"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "Acronym": [
+                              "HBMS01"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Adipose derived Mesenchymal stem cells (Autologous)",
+                              "Normal Saline"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: HB-adMSCs",
+                              "Drug: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "Treatment",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05116540"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04064957"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "Acronym": [
+                              "PD"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Autologous Hope Biosciences adipose derived mesenchymal stem cells.",
+                              "Sterile Saline Solution 0.9%"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: HB-adMSCs",
+                              "Other: Placebo",
+                              "Biological: HB-adMSCs",
+                              "Other: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "HB-adMSCs",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04928287"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04604288"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "Acronym": [
+                              "HBPCOVID02"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "HB-ad MSC's allogeneic",
+                              "Sterile Normal Saline"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: HB-adMSCs (allogeneic)",
+                              "Other: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "Treatment",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05126563"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04514952"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04772378"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04798066"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04711811"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04825626"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04825613"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04064983"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05154851"
+                        ]
+                  }
+            ]
+      }
+}

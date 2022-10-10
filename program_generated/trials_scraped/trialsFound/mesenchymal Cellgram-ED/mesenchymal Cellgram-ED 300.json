@@ -1,0 +1,104 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Cellgram-ED",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Descriptive statistics for the amount of change at administration of the investigational drug compared to the baseline value for each administration group are presented and analyzed by an analysis of covariance (ANCOVA)\n\nErectile Function (Q1,2,3,4,5,15) : Min 6 ~ Max 30",
+                              "Descriptive statistics for the success rate change at each time point and baseline value for each administration group are presented and analyzed by covariance analysis (ANCOVA)\n\nSEP 2 Were you able to insert your penis into your partner's vagina? Yes or No SEP 3 Did your erection last long enough to have successful intercourse? Yes or No",
+                              "The frequency and percentage of each time point by administration group are presented and analyzed by Pearson's chi-square test or Fisher's exact test\n\nDid Cellgram-ED improve your Erectile Function? Yes or No If so, did Cellgram-ED improve the ability to have sex? Yes or No",
+                              "For the continuous variable, descriptive statistics for each time point in each administration group and the change at each time point compared to the baseline value are presented, and analyzed by covariance analysis (ANCOVA)\n\nPDS results are obtained 5 min, 10 min, 15 min, 20 min, 25 min and 30 min after intracavernosal injection.\n\nThe peak systolic velocity (PSV) is assessed as follows: >25 cm/s is considered to be normal, 20-25 cm/s is considered to be mild ED, 12-20 cm/s is considered to be moderate ED, <12 cm/s is considered to be severe arteriogenic impotence.\n\nThe end diastolic velocity (EDV) is assessed as follows: 5 cm/s is considered to be a normal value, >5 cm/s is considered to indicate a veno-occlusive disorder."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "The amount of change in EF score in the International Erectile Function Questionnaire (IIEF) at administration of the clinical trial drug compared to the baseline value",
+                              "Changes in SEP Q 2 and Q 3 evaluation after administration of investigational drug compared to baseline",
+                              "Global Assessment Question (GAQ) evaluation after administration of investigational drugs",
+                              "Changes in Penile Doppler Sonography(PDS) level after administration of clinical trial drug compared to baseline"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "month 1, 3, 6, 9 and 12",
+                              "month 1, 3, 6, 9 and 12",
+                              "month 1, 3, 6, 9 and 12",
+                              "month 6, 12"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04594850"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Description of the average variation from the screening value in each group using the Student's preordered t-test (Wilcoxon's signed bank test).\n\nFunction domain\n\nErectile Function (Q1,2,3,4,5,15) : Min 6 ~ Max 30\nOrgasmic Function (Q9,10) : Min 2 ~ Max 10\nSexual Desire (Q11,12) : : Min 2 ~ Max 10\nIntercourse Satisfaction (Q6,7,8): : Min 3 ~ Max 15\nOverall Satisfaction (Q13,14) : Min 2 ~ Max 10",
+                              "Change From Baseline in Peak systolic velocity (PSV) and End diastolic velocity (EDV), Evaluate Erection rigidity During the test.\n\nThe normal maximum systolic blood flow of the cavernosal artery after injection of vasodilators is 30 cm / s or more.\n\nPDS results are obtained 5 min, 10 min, 15 min, 20 min, 25 min and 30 min after intracavernosal injection.\n\nThe peak systolic velocity (PSV) is assessed as follows:\n\n>25 cm/s is considered to be normal, 20-25 cm/s is considered to be mild ED, 12-20 cm/s is considered to be moderate ED, <12 cm/s is considered to be severe arteriogenic impotence.\n\nThe end diastolic velocity (EDV) is assessed as follows:\n\n5 cm/s is considered to be a normal value, >5 cm/s is considered to indicate a veno-occlusive disorder.",
+                              "The SEP2 survey describes cumulative success rates for 30 days, 3 months, 6 months, 9 months and 12 months after cell treatment.\n\nSEP 2 Were you able to insert your penis into your partner's vagina? Yes or No SEP 3 Did your erection last long enough to have successful intercourse? Yes or No",
+                              "The GAQ survey describes cumulative success rates for 30 days, 3 months, 6 months, 9 months and 12 months after cell treatment.\n\nGAQ\n\nDid Cellgram-ED improve your Erectile Function? Yes or No\nIf so, did Cellgram-ED improve the ability to have sex? Yes or No"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change From Baseline in the International Index of Erectile Function(IIEF)",
+                              "Penile Doppler Sonography, PDS",
+                              "Change From Baseline in Sexual Encounter Profile (SEP) Question 2",
+                              "Global Assessment Question (GAQ)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "month 1, 3, 6, 9 and 12",
+                              "month 6, 12",
+                              "month 1, 3, 6, 9 and 12",
+                              "month 1, 3, 6, 9 and 12"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02344849"
+                        ]
+                  }
+            ]
+      }
+}

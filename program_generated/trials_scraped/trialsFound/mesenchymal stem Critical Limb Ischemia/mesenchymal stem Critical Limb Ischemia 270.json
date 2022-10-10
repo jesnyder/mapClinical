@@ -1,0 +1,1140 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Critical Limb Ischemia",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 27,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 27,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Suresh K R",
+                              "Sanjay Desai",
+                              "Rajiv Parakh",
+                              "Sudhindran S"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "February 2010"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [
+                              "AE and symptomatic relief"
+                        ],
+                        "NCTId": [
+                              "NCT00883870"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "OverallOfficialName": [
+                              "Dong-Ik Kim, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "June 2022"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Changes in 10 cm VAS (Visual analog score) measurement shall be recorded, and statistically analyzed (mean, median, max, min, STD, average). The degree of change shall be compared between the test groups using two sample t-test or Wilcoxon's rank sum test)",
+                              "Changes in maximum walking distance on a treadmill shall be measured, and statistically analyzed(mean, median, max, min, STD, average). The degree of change shall be compared between the test groups using two sample t-test or Wilcoxon's rank sum test)",
+                              "Changes in TBI (Toe Brachial Index) shall be recorded, and statistically analyzed (mean, median, max, min, STD, average). The degree of change shall be compared between the test groups using two sample t-test or Wilcoxon's rank sum test)",
+                              "Changes in ABI (Ankle Brachial Index) shall be recorded, and statistically analyzed (mean, median, max, min, STD, average). The degree of change shall be compared between the test groups using two sample t-test or Wilcoxon's rank sum test)",
+                              "The size of the largest ulcer shall be measured and statistically analyzed (mean, median, max, min, STD, average). The degree of change shall be compared between the test groups using two sample t-test or Wilcoxon's rank sum test)",
+                              "Occurrence of adverse drug reactions that are definitely related to the administrated drug are monitored. Maximum tolerable dose is determined when ADR with grade 3 or higher with accordance to CTCAE version 5.0 has occurred to at least one of the three subjects.",
+                              "The following laboratory tests are conducted. In case the results are abnormal, it shall be recorded as a adverse event or excluded from study (screening).\n\nHematologic Test: WBC, RBC, Hemoglobin, Hematocrit, Platelets count, Blast, Promyelocyte, Metamyelocyte, Neutrophil (Seg, Band), Eosinophil, Basophil, Lymphocyte, Monocyte, Atypical Lymphocyte, Immature cell, Plasma cell, Nucleated RBC, Abnormal lymphoid cell Blood Chemistry Test: Total protein, Albumin, Globulin, Total Bilirubin, AST, ALT, ALP, BUN, Creatinine, Glucose, Uric Acid, Estimated GFR, Ca, P, CRP, CPK Urine Test: Specific gravity, pH, Glucose, Albumin, Bilirubin, Urobilinogen, Ketone, Blood, Nitrite, Leukocyte Esterase",
+                              "Systolic/Diastolic blood pressure is measured after relaxing in sitted position for 5 minutes. In case the results are clinically abnormal, it shall be recorded as an adverse event or excluded from study (screening).",
+                              "Temperature is measured via eardrum after relaxing in sitted position for 5 minutes. In case the results are clinically abnormal, it shall be recorded as an adverse event.",
+                              "Appearance, skin, head, neck, heart, stomach, urology system, reproductive system, limbs, musculoskeletal system, nervous system, lymphatic glands and etc are examined. In case any clinically abnormal condition has been monitored, it shall be recorded as an adverse event."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Changes in ischemic pain",
+                              "Changes in pain-free walking distance",
+                              "Changes in TBI (Toe Brachial Index)",
+                              "Changes in ABI (Ankle Brachial Index)",
+                              "Change in size of the Ulcer",
+                              "Determination of maximum tolerable dose according to DLT occurrence",
+                              "Incidence of abnormal laboratory tests results",
+                              "Incidence of abnormal blood pressure",
+                              "Incidence of abnormal temperature",
+                              "Incidence of abnormal physical condition"
+                        ],
+                        "NCTId": [
+                              "NCT04661644"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "OverallOfficialName": [
+                              "Hanafiah Harunarashid, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 2015"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Measurement of angiogenesis by presence of peripheral pulses, capillary refill and transcutaneous oxygen saturation (TCOS)."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Change in angiogenesis"
+                        ],
+                        "NCTId": [
+                              "NCT01456819"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "OverallOfficialName": [
+                              "Vladimir P Baklaushev, MD, PhD",
+                              "Pavel Yu Orekhov, MD, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Study Director",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "August 1, 2018"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Number of adverse events reported",
+                              "Number of survived patients"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Adverse events",
+                              "Amputation-free survival"
+                        ],
+                        "NCTId": [
+                              "NCT03239535"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "OverallOfficialName": [
+                              "WoongChol Kang, MD, Ph.D"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Withdrawn"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "June 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Use Student's paired t-test or Wilcoxon's signed rank test to compare the difference of between the two visits(Screening and 6 month post treatment) before and after treatment."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Ankle Brachial Pressure Index, ABPI"
+                        ],
+                        "NCTId": [
+                              "NCT02477540"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "OverallOfficialName": [
+                              "Dr Anirban Chatterjee",
+                              "Dr Anita Dhar",
+                              "Dr Rajkumar M",
+                              "Dr Radhakrishnan R",
+                              "Dr Vidyasagaran T",
+                              "Dr Alfred Augustine",
+                              "Dr Sanjay Desai",
+                              "Dr Rajiv Parakh",
+                              "Dr Santanu Dutta",
+                              "Dr Murali Krishna"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "February 2014"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Rest pain will be measured using rest pain scale (0 to10)",
+                              "Complete ulcer healing defined as complete epithelisation of ulcer and partial ulcer healing as at least 30% decrease in ulcer size.",
+                              "Rest pain will be measured using rest pain scale (0 to 10)",
+                              "Complete ulcer healing defined as complete epithelisation of ulcer and partial ulcer healing as at least 30% decrease in ulcer size."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Relief of the rest pain",
+                              "Healing of ulcerations or reduction of ulcer area in the target limb",
+                              "Relief of the rest pain",
+                              "Healing of ulcerations or reduction of ulcer area in the target limb"
+                        ],
+                        "NCTId": [
+                              "NCT01484574"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The primary safety endpoint will be the occurrence of any high grade AEs (grade 2 and more), either serious or not, assessed as related to the cell implantation by the investigator, reported over the 360 days of the study period.\n\nAE Intensity Definition :\n\nGrade 1 : asymptomatic or mild symptoms; clinical or diagnostic observations only; intervention not indicated ; Grade 2 : minimal, local or non-invasive intervention indicated; limiting age-appropriate instrumental activities of daily living ; Grade 3 : severe or medically significant but not immediately life-threatening; hospitalization or prolongation of hospitalization indicated; disabling; limiting self-care activities of daily living ; Grade 4 : life-threatening consequences; urgent intervention indicated ; Grade 5 : death related to adverse event"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Incidence of treatment - emergent adverse events"
+                        ],
+                        "NCTId": [
+                              "NCT03994666"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "OverallOfficialName": [
+                              "Rafael J Ruiz-Salmeron, MD, PhD",
+                              "Antonio De la Cuesta, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "February 2013"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Target limb vascularization would be quantified by a dedicated software, MetaMorph\u00ae v.6.3, by using Angiogenesis Tube Formation application module. Neovasculogenesis would be the difference between vascularization at baseline and 6 months follow-up."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Angiographic assessment of neovasculogenesis (angiogenesis plus arteriogenesis)",
+                              "Major adverse event (death, target limb amputation)"
+                        ],
+                        "NCTId": [
+                              "NCT01257776"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "OverallOfficialName": [
+                              "Han Cheol Lee, M.D. & Ph.D."
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Not Applicable"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "March 2010"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "To evaluate the change of treated critical limb ischemia before cell implantation and at 3, 6, 12 months post injection of MSCs"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Major Adverse Events Analysis (MAEs)"
+                        ],
+                        "NCTId": [
+                              "NCT01663376"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "OverallOfficialName": [
+                              "Chen bing, doctor"
+                        ],
+                        "OverallOfficialRole": [
+                              "Study Director"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "August 2010"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [
+                              "Magnetic resonance angiography"
+                        ],
+                        "NCTId": [
+                              "NCT00955669"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "OverallOfficialName": [
+                              "Rafael J. Ruiz-Salmer\u00f3n",
+                              "Antonio de la Cuesta"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "July 2018"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Number of adverse events and serious adverse events: 24h administration of CeTMAd, 1 month, 3 months, 6 months, 9 months and 12 months."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Number of adverse events and serious adverse events"
+                        ],
+                        "NCTId": [
+                              "NCT01745744"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "September 2022"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [
+                              "Complication rate after treatment administration"
+                        ],
+                        "NCTId": [
+                              "NCT04466007"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "OverallOfficialName": [
+                              "Dr. Arun B Bal, M.B.B.S.M.S.",
+                              "Dr. Ashish S Johari, M.B.B.S.M.S.",
+                              "Dr. Meena Kumar, M.B.B.S.M.S.",
+                              "R Shekhar, M.B.B.S.M.S."
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "August 2015"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The Incidence of treatment emergent Adverse Event (AE) in the study."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "To assess the safety"
+                        ],
+                        "NCTId": [
+                              "NCT02145897"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "OverallOfficialName": [
+                              "Peter Heider, MD, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "October 2014"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [
+                              "Collection of adverse events",
+                              "Safety laboratory values",
+                              "ECG findings",
+                              "Analysis of inflammation markers"
+                        ],
+                        "NCTId": [
+                              "NCT01351610"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "OverallOfficialName": [
+                              "Chun Che Shih"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "April 27, 2018"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Number of adverse events reported"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Adverse events"
+                        ],
+                        "NCTId": [
+                              "NCT02336646"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "OverallOfficialName": [
+                              "Timothy O Brien, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "October 31, 2019"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The number of Serious Adverse Events that are attributable to the MScs",
+                              "The number of Serious Adverse Events that are attributable to the MScs"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "The number of Serious Adverse Events that are attributable to the treatment",
+                              "The severity of Serious Adverse Events that are attributable to the treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03455335"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "OverallOfficialName": [
+                              "Yangang Wang, MD Phd"
+                        ],
+                        "OverallOfficialRole": [
+                              "Study Director"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 2012"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [
+                              "Angiographic evaluation of angiogenesis at ischemic limb"
+                        ],
+                        "NCTId": [
+                              "NCT01216865"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "OverallOfficialName": [
+                              "Luis Riera del Moral, Doctor"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "April 2014"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "It defines that the process is safe when in the development and monitoring of the trial there has been no adverse events that may be related to the proposed therapy in the trial."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Safety of inject mesenchymal stem cells in MMII"
+                        ],
+                        "NCTId": [
+                              "NCT01824069"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "OverallOfficialName": [
+                              "Mariusz Trystu\u0142a, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Active, not recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2",
+                              "Phase 3"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "May 31, 2021"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Change in pain-free walking distance (6M FU vs index evaluation) between two groups (active vs placebo therapy)."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Change in pain-free walking distance"
+                        ],
+                        "NCTId": [
+                              "NCT03423732"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "OverallOfficialName": [
+                              "Michael P Murphy, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "May 2013"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Adverse and serious events recorded"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Safety"
+                        ],
+                        "NCTId": [
+                              "NCT01558908"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "OverallOfficialName": [
+                              "Bernat Soria"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Terminated"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "July 2018"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "To evaluate the possible complications derived from the procedure (in the first 24 hours after the infusion of stem cells and the incident of Serious Adverse Events and not Serious Adverse Events related to the IMPD or to the procedure of administration"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Serious Adverse Events"
+                        ],
+                        "NCTId": [
+                              "NCT02287974"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Withdrawn"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "April 2018"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [
+                              "Relief of the rest pain",
+                              "Reduction of ulcer area in the target limb"
+                        ],
+                        "NCTId": [
+                              "NCT03056742"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "OverallOfficialName": [
+                              "BURA-RIVIERE Alessandra, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 2022"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Evaluation of the presence of rest pain or ischemic ulcer and ankle pressures less than 70 mmHg or toe systolic pressure less than 50 mmHg or TcPO2 of less than 30 mmHg, at six month.",
+                              "Evaluation of the presence of rest pain or ischemic ulcer and ankle pressures less than 70 mmHg or toe systolic pressure less than 50 mmHg or TcPO2 of less than 30 mmHg, at six month."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Number of patients alive without major amputation",
+                              "Number of patients alive without critical limb ischemia"
+                        ],
+                        "NCTId": [
+                              "NCT03968198"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "OverallOfficialName": [
+                              "Santi Trimarchi, Prof"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Not Applicable"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "June 30, 2022"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Primary endpoint is pain change or complete disappearance, according to Numeric Rating Scale (NRS) ranging from 0 (no pain) ad 10 (maximum amount of pain), ad TcPO2 improvement. The investigators will consider significative a pain change below NRS<4 and a improvement in TcPO2 (> 40 mmHg in patients with rest pain and no ischaemic lesions or > 60 mmHg in patients with rest pain and ischaemic lesions) among at least 70% (14) of the patients enrolled in the study."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Pain reduction"
+                        ],
+                        "NCTId": [
+                              "NCT04746599"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "OverallOfficialName": [
+                              "Diethelm Tschoepe, Prof Dr Dr"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "February 2009"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [
+                              "The patient is alive, the patient has not undergone any major amputation, complete primary wound healing has been achieved, no ipsilateral relapse has occurred"
+                        ],
+                        "NCTId": [
+                              "NCT01065337"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "OverallOfficialName": [
+                              "Itzhak Siev-Ner, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "March 2017"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Frequency and severity of Adverse Events."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Frequency of Adverse Events"
+                        ],
+                        "NCTId": [
+                              "NCT01686139"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "OverallOfficialName": [
+                              "Marianne C Verhaar, MD, PhD",
+                              "Gert Jan de Borst, MD, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Study Chair"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2",
+                              "Phase 3"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Composite outcome measure considering mortality, limb status, clinical classification and changes in pain score. To be a \"success\" a subject must: A, be alive; B, be without a major amputation on the index limb; C, have not worsened in Rutherford classification or visual analog pain scale; and D, have improved in either Rutherford classification or visual analog pain scale. Subjects not meeting all of the criteria are classified as failures."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Therapy Success"
+                        ],
+                        "NCTId": [
+                              "NCT03042572"
+                        ]
+                  }
+            ]
+      }
+}

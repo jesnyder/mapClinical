@@ -1,0 +1,77 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Corlicyte",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "1. Number and percent of subjects who develop a high titer of antibodies to human leukocyte antigen (HLA) Class I molecules expressed on Corlicyte\u00ae",
+                              "2. Time to development of high titer of antibodies to HLA Class I molecules expressed on Corlicyte\u00ae",
+                              "3. Number and percent of subjects with an increase in ulcer size by the end of the Treatment Phase as reviewed by the Wound Core Laboratory (WCL).",
+                              "4. Number and percent of subjects with an adverse reaction to Corlicyte\u00ae in each cohort and overall.",
+                              "5. Number and percent of subjects with a suspected adverse reaction to Corlicyte\u00ae in each cohort and overall.",
+                              "6. Number and percent of subjects with a suspected serious adverse reaction to Corlicyte\u00ae in each cohort and overall.",
+                              "7. Change in hemoglobin A1c from Screening to End-of-Study/Early Termination"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Antibodies to HLA Class I - number and percent",
+                              "Antibodies to HLA Class I - Time To Development",
+                              "Increase Ulcer Size",
+                              "Adverse Reaction",
+                              "Suspected Adverse Reaction",
+                              "Suspected Serious Adverse Reaction",
+                              "Change in A1c"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "throughout study completion, an average of 4 months per subject",
+                              "throughout study completion, an average of 4 months per subject",
+                              "throughout study completion, an average of 4 months per subject",
+                              "throughout study completion, an average of 4 months per subject",
+                              "throughout study completion, an average of 4 months per subject",
+                              "throughout study completion, an average of 4 months per subject",
+                              "throughout study completion, an average of 4 months per subject"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04104451"
+                        ]
+                  }
+            ]
+      }
+}

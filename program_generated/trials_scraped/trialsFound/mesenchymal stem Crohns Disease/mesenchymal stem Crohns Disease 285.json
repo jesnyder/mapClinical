@@ -1,0 +1,1594 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Crohns Disease",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 43,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 43,
+            "FieldList": [
+                  "PrimaryOutcomeTimeFrame",
+                  "ReferenceCitation",
+                  "ReferencePMID",
+                  "ReferenceType",
+                  "RemovedCountry",
+                  "ResponsiblePartyInvestigatorAffiliation",
+                  "ResponsiblePartyInvestigatorFullName",
+                  "ResponsiblePartyInvestigatorTitle",
+                  "ResponsiblePartyOldNameTitle",
+                  "ResponsiblePartyOldOrganization",
+                  "ResponsiblePartyType",
+                  "ResultsFirstPostDate",
+                  "ResultsFirstPostDateType",
+                  "ResultsFirstPostedQCCommentsDate",
+                  "ResultsFirstPostedQCCommentsDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "PrimaryOutcomeTimeFrame": [
+                              "3 years"
+                        ],
+                        "ReferenceCitation": [
+                              "Nivatvongs S, Gordon PH. Crohn's Disease. In: Gordon PH, Nivatvongs S, editors. Principles and practice of surgery for the colon rectum and anus Third ed. New York: Informa Healthcare; 2007. p. 819-908.",
+                              "Brullet E, Bonfill X, Urr\u00fatia G, Ruiz Ochoa V, Cueto M, Clofent J, Mart\u00ednez Salmer\u00f3n JF, Riera J, Obrador A. [Epidemiological study on the incidence of inflammatory bowel disease in 4 Spanish areas. Spanish Group on the Epidemiological Study of Inflammatory Bowel Disease]. Med Clin (Barc). 1998 May 16;110(17):651-6. Spanish.",
+                              "Schwartz DA, Loftus EV Jr, Tremaine WJ, Panaccione R, Harmsen WS, Zinsmeister AR, Sandborn WJ. The natural history of fistulizing Crohn's disease in Olmsted County, Minnesota. Gastroenterology. 2002 Apr;122(4):875-80.",
+                              "Arin Letamendia A, Borda Celaya F, Burusco Paternain MJ, Prieto Mart\u00ednez C, Mart\u00ednez Echeverr\u00eda A, Elizalde Apestegui I, Laiglesia Izquierdo M, Macias Mendiz\u00e1bal E, Tamburri Moso P, S\u00e1nchez Valverde F. [High incidence rates of inflammatory bowel disease in Navarra (Spain). Results of a prospective, population-based study]. Gastroenterol Hepatol. 2008 Mar;31(3):111-6. Spanish.",
+                              "Lapidus A, Bernell O, Hellers G, L\u00f6fberg R. Clinical course of colorectal Crohn's disease: a 35-year follow-up study of 507 patients. Gastroenterology. 1998 Jun;114(6):1151-60.",
+                              "Parsi MA, Lashner BA, Achkar JP, Connor JT, Brzezinski A. Type of fistula determines response to infliximab in patients with fistulous Crohn's disease. Am J Gastroenterol. 2004 Mar;99(3):445-9.",
+                              "Michelassi F, Stella M, Balestracci T, Giuliante F, Marogna P, Block GE. Incidence, diagnosis, and treatment of enteric and colorectal fistulae in patients with Crohn's disease. Ann Surg. 1993 Nov;218(5):660-6.",
+                              "Gardiner KR, Dasari BV. Operative management of small bowel Crohn's disease. Surg Clin North Am. 2007 Jun;87(3):587-610. Review.",
+                              "Hyder SA, Travis SP, Jewell DP, McC Mortensen NJ, George BD. Fistulating anal Crohn's disease: results of combined surgical and infliximab treatment. Dis Colon Rectum. 2006 Dec;49(12):1837-41.",
+                              "Gelbmann CM, Rogler G, Gross V, Gierend M, Bregenzer N, Andus T, Sch\u00f6lmerich J. Prior bowel resections, perianal disease, and a high initial Crohn's disease activity index are associated with corticosteroid resistance in active Crohn's disease. Am J Gastroenterol. 2002 Jun;97(6):1438-45.",
+                              "Pearson DC, May GR, Fick GH, Sutherland LR. Azathioprine and 6-mercaptopurine in Crohn disease. A meta-analysis. Ann Intern Med. 1995 Jul 15;123(2):132-42.",
+                              "Lecomte T, Contou JF, Beaugerie L, Carbonnel F, Cattan S, Gendre JP, Cosnes J. Predictive factors of response of perianal Crohn's disease to azathioprine or 6-mercaptopurine. Dis Colon Rectum. 2003 Nov;46(11):1469-75.",
+                              "Sandborn WJ, Present DH, Isaacs KL, Wolf DC, Greenberg E, Hanauer SB, Feagan BG, Mayer L, Johnson T, Galanko J, Martin C, Sandler RS. Tacrolimus for the treatment of fistulas in patients with Crohn's disease: a randomized, placebo-controlled trial. Gastroenterology. 2003 Aug;125(2):380-8.",
+                              "Present DH, Lichtiger S. Efficacy of cyclosporine in treatment of fistula of Crohn's disease. Dig Dis Sci. 1994 Feb;39(2):374-80.",
+                              "Hanauer SB, Smith MB. Rapid closure of Crohn's disease fistulas with continuous intravenous cyclosporin A. Am J Gastroenterol. 1993 May;88(5):646-9.",
+                              "Present DH, Rutgeerts P, Targan S, Hanauer SB, Mayer L, van Hogezand RA, Podolsky DK, Sands BE, Braakman T, DeWoody KL, Schaible TF, van Deventer SJ. Infliximab for the treatment of fistulas in patients with Crohn's disease. N Engl J Med. 1999 May 6;340(18):1398-405.",
+                              "Sands BE, Anderson FH, Bernstein CN, Chey WY, Feagan BG, Fedorak RN, Kamm MA, Korzenik JR, Lashner BA, Onken JE, Rachmilewitz D, Rutgeerts P, Wild G, Wolf DC, Marsters PA, Travers SB, Blank MA, van Deventer SJ. Infliximab maintenance therapy for fistulizing Crohn's disease. N Engl J Med. 2004 Feb 26;350(9):876-85.",
+                              "Poritz LS, Rowe WA, Koltun WA. Remicade does not abolish the need for surgery in fistulizing Crohn's disease. Dis Colon Rectum. 2002 Jun;45(6):771-5.",
+                              "Garc\u00eda-Olmo D, Tr\u00e9bol J, et al. Treatment of digestiva fistula using Adipose-derived Stem Cells. In: Garc\u00eda-Olmo D, Garc\u00eda-Verdugo JM, Alemany J, Gutierrez-Fuentes JA, editors. Cell Therapy. Madrid: McGraw-Hill. Interamericana; 2008. p. 289-307.",
+                              "Garc\u00eda-Olmo D, Garc\u00eda-Arranz M, Herreros D, Pascual I, Peiro C, Rodr\u00edguez-Montes JA. A phase I clinical trial of the treatment of Crohn's fistula by adipose mesenchymal stem cell transplantation. Dis Colon Rectum. 2005 Jul;48(7):1416-23.",
+                              "Thoreson R, Cullen JJ. Pathophysiology of inflammatory bowel disease: an overview. Surg Clin North Am. 2007 Jun;87(3):575-85. Review."
+                        ],
+                        "ReferencePMID": [
+                              "9656209",
+                              "11910338",
+                              "18341841",
+                              "9609751",
+                              "15056083",
+                              "8239781",
+                              "17560414",
+                              "17041753",
+                              "12094862",
+                              "7778826",
+                              "14605564",
+                              "12891539",
+                              "8313821",
+                              "8480725",
+                              "10228190",
+                              "14985485",
+                              "12072629",
+                              "15933795",
+                              "17560413"
+                        ],
+                        "ReferenceType": [
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "result"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT01157650"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "PrimaryOutcomeTimeFrame": [
+                              "Month 6"
+                        ],
+                        "ReferenceCitation": [
+                              "Kasparek MS, Glatzle J, Temeltcheva T, Mueller MH, Koenigsrainer A, Kreis ME. Long-term quality of life in patients with Crohn's disease and perianal fistulas: influence of fecal diversion. Dis Colon Rectum. 2007 Dec;50(12):2067-74.",
+                              "Sandborn WJ, Fazio VW, Feagan BG, Hanauer SB; American Gastroenterological Association Clinical Practice Committee. AGA technical review on perianal Crohn's disease. Gastroenterology. 2003 Nov;125(5):1508-30. Review.",
+                              "Schwartz DA, Loftus EV Jr, Tremaine WJ, Panaccione R, Harmsen WS, Zinsmeister AR, Sandborn WJ. The natural history of fistulizing Crohn's disease in Olmsted County, Minnesota. Gastroenterology. 2002 Apr;122(4):875-80.",
+                              "Pan\u00e9s J, Garc\u00eda-Olmo D, Van Assche G, Colombel JF, Reinisch W, Baumgart DC, Dignass A, Nachury M, Ferrante M, Kazemi-Shirazi L, Grimaud JC, de la Portilla F, Goldin E, Richard MP, Leselbaum A, Danese S; ADMIRE CD Study Group Collaborators. Expanded allogeneic adipose-derived mesenchymal stem cells (Cx601) for complex perianal fistulas in Crohn's disease: a phase 3 randomised, double-blind controlled trial. Lancet. 2016 Sep 24;388(10051):1281-90. doi: 10.1016/S0140-6736(16)31203-X. Epub 2016 Jul 29.",
+                              "Pan\u00e9s J, Garc\u00eda-Olmo D, Van Assche G, Colombel JF, Reinisch W, Baumgart DC, Dignass A, Nachury M, Ferrante M, Kazemi-Shirazi L, Grimaud JC, de la Portilla F, Goldin E, Richard MP, Diez MC, Tagarro I, Leselbaum A, Danese S; ADMIRE CD Study Group Collaborators. Long-term Efficacy and Safety of Stem Cell Therapy (Cx601) for Complex Perianal Fistulas in Patients With Crohn's Disease. Gastroenterology. 2018 Apr;154(5):1334-1342.e4. doi: 10.1053/j.gastro.2017.12.020. Epub 2017 Dec 24.",
+                              "Molendijk I, Bonsing BA, Roelofs H, Peeters KC, Wasser MN, Dijkstra G, van der Woude CJ, Duijvestein M, Veenendaal RA, Zwaginga JJ, Verspaget HW, Fibbe WE, van der Meulen-de Jong AE, Hommes DW. Allogeneic Bone Marrow-Derived Mesenchymal Stromal Cells Promote Healing of Refractory Perianal Fistulas in Patients With Crohn's Disease. Gastroenterology. 2015 Oct;149(4):918-27.e6. doi: 10.1053/j.gastro.2015.06.014. Epub 2015 Jun 25.",
+                              "Molendijk I, van der Meulen-de Jong AE, Verspaget HW, Veenendaal RA, Hommes DW, Bonsing BA, Peeters KCMJ. Standardization of mesenchymal stromal cell therapy for perianal fistulizing Crohn's disease. Eur J Gastroenterol Hepatol. 2018 Oct;30(10):1148-1154. doi: 10.1097/MEG.0000000000001208."
+                        ],
+                        "ReferencePMID": [
+                              "17680311",
+                              "14598268",
+                              "11910338",
+                              "27477896",
+                              "29277560",
+                              "26116801",
+                              "30095479"
+                        ],
+                        "ReferenceType": [
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "The Cleveland Clinic"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Amy Lightner"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Sponsor-Investigator"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor-Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT04519671"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "PrimaryOutcomeTimeFrame": [
+                              "Month 6"
+                        ],
+                        "ReferenceCitation": [
+                              "Peyrin-Biroulet L, Loftus EV Jr, Colombel JF, Sandborn WJ. The natural history of adult Crohn's disease in population-based cohorts. Am J Gastroenterol. 2010 Feb;105(2):289-97. doi: 10.1038/ajg.2009.579. Epub 2009 Oct 27. Review.",
+                              "Schwartz DA, Loftus EV Jr, Tremaine WJ, Panaccione R, Harmsen WS, Zinsmeister AR, Sandborn WJ. The natural history of fistulizing Crohn's disease in Olmsted County, Minnesota. Gastroenterology. 2002 Apr;122(4):875-80.",
+                              "Hannaway CD, Hull TL. Current considerations in the management of rectovaginal fistula from Crohn's disease. Colorectal Dis. 2008 Oct;10(8):747-55; discussion 755-6. doi: 10.1111/j.1463-1318.2008.01552.x. Epub 2008 May 4. Review.",
+                              "Pan\u00e9s J, Garc\u00eda-Olmo D, Van Assche G, Colombel JF, Reinisch W, Baumgart DC, Dignass A, Nachury M, Ferrante M, Kazemi-Shirazi L, Grimaud JC, de la Portilla F, Goldin E, Richard MP, Leselbaum A, Danese S; ADMIRE CD Study Group Collaborators. Expanded allogeneic adipose-derived mesenchymal stem cells (Cx601) for complex perianal fistulas in Crohn's disease: a phase 3 randomised, double-blind controlled trial. Lancet. 2016 Sep 24;388(10051):1281-90. doi: 10.1016/S0140-6736(16)31203-X. Epub 2016 Jul 29.",
+                              "Pan\u00e9s J, Garc\u00eda-Olmo D, Van Assche G, Colombel JF, Reinisch W, Baumgart DC, Dignass A, Nachury M, Ferrante M, Kazemi-Shirazi L, Grimaud JC, de la Portilla F, Goldin E, Richard MP, Diez MC, Tagarro I, Leselbaum A, Danese S; ADMIRE CD Study Group Collaborators. Long-term Efficacy and Safety of Stem Cell Therapy (Cx601) for Complex Perianal Fistulas in Patients With Crohn's Disease. Gastroenterology. 2018 Apr;154(5):1334-1342.e4. doi: 10.1053/j.gastro.2017.12.020. Epub 2017 Dec 24.",
+                              "Lightner AL, Dozois EJ, Dietz AB, Fletcher JG, Friton J, Butler G, Faubion WA. Matrix-Delivered Autologous Mesenchymal Stem Cell Therapy for Refractory Rectovaginal Crohn's Fistulas. Inflamm Bowel Dis. 2020 Apr 11;26(5):670-677. doi: 10.1093/ibd/izz215.",
+                              "Garc\u00eda-Arranz M, Herreros MD, Gonz\u00e1lez-G\u00f3mez C, de la Quintana P, Guadalajara H, Georgiev-Hristov T, Tr\u00e9bol J, Garcia-Olmo D. Treatment of Crohn's-Related Rectovaginal Fistula With Allogeneic Expanded-Adipose Derived Stem Cells: A Phase I-IIa Clinical Trial. Stem Cells Transl Med. 2016 Nov;5(11):1441-1446. doi: 10.5966/sctm.2015-0356. Epub 2016 Jul 13.",
+                              "Sanz-Baro R, Garc\u00eda-Arranz M, Guadalajara H, de la Quintana P, Herreros MD, Garc\u00eda-Olmo D. First-in-Human Case Study: Pregnancy in Women With Crohn's Perianal Fistula Treated With Adipose-Derived Stem Cells: A Safety Study. Stem Cells Transl Med. 2015 Jun;4(6):598-602. doi: 10.5966/sctm.2014-0255. Epub 2015 Apr 29."
+                        ],
+                        "ReferencePMID": [
+                              "19861953",
+                              "11910338",
+                              "18462243",
+                              "27477896",
+                              "29277560",
+                              "31605115",
+                              "27412883",
+                              "25925838"
+                        ],
+                        "ReferenceType": [
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "The Cleveland Clinic"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Amy Lightner"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Sponsor-investigator"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor-Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT04519697"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "PrimaryOutcomeTimeFrame": [
+                              "28 days"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT00294112"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "PrimaryOutcomeTimeFrame": [
+                              "Month 3",
+                              "Month 12"
+                        ],
+                        "ReferenceCitation": [
+                              "Molodecky NA, Soon IS, Rabi DM, Ghali WA, Ferris M, Chernoff G, Benchimol EI, Panaccione R, Ghosh S, Barkema HW, Kaplan GG. Increasing incidence and prevalence of the inflammatory bowel diseases with time, based on systematic review. Gastroenterology. 2012 Jan;142(1):46-54.e42; quiz e30. doi: 10.1053/j.gastro.2011.10.001. Epub 2011 Oct 14. Review.",
+                              "Hellers G, Bergstrand O, Ewerth S, Holmstr\u00f6m B. Occurrence and outcome after primary treatment of anal fistulae in Crohn's disease. Gut. 1980 Jun;21(6):525-7.",
+                              "Kasparek MS, Glatzle J, Temeltcheva T, Mueller MH, Koenigsrainer A, Kreis ME. Long-term quality of life in patients with Crohn's disease and perianal fistulas: influence of fecal diversion. Dis Colon Rectum. 2007 Dec;50(12):2067-74.",
+                              "Sandborn WJ, Fazio VW, Feagan BG, Hanauer SB; American Gastroenterological Association Clinical Practice Committee. AGA technical review on perianal Crohn's disease. Gastroenterology. 2003 Nov;125(5):1508-30. Review.",
+                              "Schwartz DA, Loftus EV Jr, Tremaine WJ, Panaccione R, Harmsen WS, Zinsmeister AR, Sandborn WJ. The natural history of fistulizing Crohn's disease in Olmsted County, Minnesota. Gastroenterology. 2002 Apr;122(4):875-80.",
+                              "Chaparro M, Zanotti C, Burgue\u00f1o P, Vera I, Bermejo F, Mar\u00edn-Jim\u00e9nez I, Yela C, L\u00f3pez P, Mart\u00edn MD, Taxonera C, Botella B, Pajares R, Ponferrada A, Calvo M, Algaba A, P\u00e9rez L, Casis B, Mat\u00e9 J, Orofino J, Lara N, Garc\u00eda-Losa M, Badia X, Gisbert JP. Health care costs of complex perianal fistula in Crohn's disease. Dig Dis Sci. 2013 Dec;58(12):3400-6. doi: 10.1007/s10620-013-2830-7. Epub 2013 Sep 13.",
+                              "Aguilera-Castro L, Ferre-Aracil C, Garcia-Garcia-de-Paredes A, Rodriguez-de-Santiago E, Lopez-Sanroman A. Management of complex perianal Crohn's disease. Ann Gastroenterol. 2017;30(1):33-44. doi: 10.20524/aog.2016.0099. Epub 2016 Oct 27. Review.",
+                              "Adler J, Dong S, Eder SJ, Dombkowski KJ; ImproveCareNow Pediatric IBD Learning Health System. Perianal Crohn Disease in a Large Multicenter Pediatric Collaborative. J Pediatr Gastroenterol Nutr. 2017 May;64(5):e117-e124. doi: 10.1097/MPG.0000000000001447.",
+                              "Kugathasan S, Judd RH, Hoffmann RG, Heikenen J, Telega G, Khan F, Weisdorf-Schindele S, San Pablo W Jr, Perrault J, Park R, Yaffe M, Brown C, Rivera-Bennett MT, Halabi I, Martinez A, Blank E, Werlin SL, Rudolph CD, Binion DG; Wisconsin Pediatric Inflammatory Bowel Disease Alliance. Epidemiologic and clinical characteristics of children with newly diagnosed inflammatory bowel disease in Wisconsin: a statewide population-based study. J Pediatr. 2003 Oct;143(4):525-31.",
+                              "Markowitz J, Grancher K, Rosa J, Simpser E, Aiges H, Daum F. Highly destructive perianal disease in children with Crohn's disease. J Pediatr Gastroenterol Nutr. 1995 Aug;21(2):149-53.",
+                              "Vernier-Massouille G, Balde M, Salleron J, Turck D, Dupas JL, Mouterde O, Merle V, Salomez JL, Branche J, Marti R, Lerebours E, Cortot A, Gower-Rousseau C, Colombel JF. Natural history of pediatric Crohn's disease: a population-based cohort study. Gastroenterology. 2008 Oct;135(4):1106-13. doi: 10.1053/j.gastro.2008.06.079. Epub 2008 Jul 3.",
+                              "Kappelman MD, Moore KR, Allen JK, Cook SF. Recent trends in the prevalence of Crohn's disease and ulcerative colitis in a commercially insured US population. Dig Dis Sci. 2013 Feb;58(2):519-25. doi: 10.1007/s10620-012-2371-5. Epub 2012 Aug 29."
+                        ],
+                        "ReferencePMID": [
+                              "22001864",
+                              "7429313",
+                              "17680311",
+                              "14598268",
+                              "11910338",
+                              "24026400",
+                              "28042236",
+                              "27801750",
+                              "14571234",
+                              "7472900",
+                              "18692056",
+                              "22926499"
+                        ],
+                        "ReferenceType": [
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "The Cleveland Clinic"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Amy Lightner"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "MD"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor-Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT04791878"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "PrimaryOutcomeTimeFrame": [
+                              "Changes from baseline to week 4, week 8, week 12 and week 24 after stem cell treatment.",
+                              "Changes from baseline to week 4, week 8, week 12 and week 24 after stem cell treatment."
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT05262829"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "PrimaryOutcomeTimeFrame": [
+                              "Month 6"
+                        ],
+                        "ReferenceCitation": [
+                              "Fazio VW, Kiran RP, Remzi FH, Coffey JC, Heneghan HM, Kirat HT, Manilich E, Shen B, Martin ST. Ileal pouch anal anastomosis: analysis of outcome and quality of life in 3707 patients. Ann Surg. 2013 Apr;257(4):679-85. doi: 10.1097/SLA.0b013e31827d99a2.",
+                              "Ozdemir Y, Kiran RP, Erem HH, Aytac E, Gorgun E, Magnuson D, Remzi FH. Functional outcomes and complications after restorative proctocolectomy and ileal pouch anal anastomosis in the pediatric population. J Am Coll Surg. 2014 Mar;218(3):328-35. doi: 10.1016/j.jamcollsurg.2013.11.019. Epub 2013 Nov 26.",
+                              "Remzi FH, Fazio VW, Kirat HT, Wu JS, Lavery IC, Kiran RP. Repeat pouch surgery by the abdominal approach safely salvages failed ileal pelvic pouch. Dis Colon Rectum. 2009 Feb;52(2):198-204. doi: 10.1007/DCR.0b013e31819ad4b6.",
+                              "Belliveau P, Trudel J, Vasilevsky CA, Stein B, Gordon PH. Ileoanal anastomosis with reservoirs: complications and long-term results. Can J Surg. 1999 Oct;42(5):345-52.",
+                              "Foley EF, Schoetz DJ Jr, Roberts PL, Marcello PW, Murray JJ, Coller JA, Veidenheimer MC. Rediversion after ileal pouch-anal anastomosis. Causes of failures and predictors of subsequent pouch salvage. Dis Colon Rectum. 1995 Aug;38(8):793-8.",
+                              "Molendijk I, Bonsing BA, Roelofs H, Peeters KC, Wasser MN, Dijkstra G, van der Woude CJ, Duijvestein M, Veenendaal RA, Zwaginga JJ, Verspaget HW, Fibbe WE, van der Meulen-de Jong AE, Hommes DW. Allogeneic Bone Marrow-Derived Mesenchymal Stromal Cells Promote Healing of Refractory Perianal Fistulas in Patients With Crohn's Disease. Gastroenterology. 2015 Oct;149(4):918-27.e6. doi: 10.1053/j.gastro.2015.06.014. Epub 2015 Jun 25.",
+                              "Pan\u00e9s J, Garc\u00eda-Olmo D, Van Assche G, Colombel JF, Reinisch W, Baumgart DC, Dignass A, Nachury M, Ferrante M, Kazemi-Shirazi L, Grimaud JC, de la Portilla F, Goldin E, Richard MP, Diez MC, Tagarro I, Leselbaum A, Danese S; ADMIRE CD Study Group Collaborators. Long-term Efficacy and Safety of Stem Cell Therapy (Cx601) for Complex Perianal Fistulas in Patients With Crohn's Disease. Gastroenterology. 2018 Apr;154(5):1334-1342.e4. doi: 10.1053/j.gastro.2017.12.020. Epub 2017 Dec 24.",
+                              "Pan\u00e9s J, Garc\u00eda-Olmo D, Van Assche G, Colombel JF, Reinisch W, Baumgart DC, Dignass A, Nachury M, Ferrante M, Kazemi-Shirazi L, Grimaud JC, de la Portilla F, Goldin E, Richard MP, Leselbaum A, Danese S; ADMIRE CD Study Group Collaborators. Expanded allogeneic adipose-derived mesenchymal stem cells (Cx601) for complex perianal fistulas in Crohn's disease: a phase 3 randomised, double-blind controlled trial. Lancet. 2016 Sep 24;388(10051):1281-90. doi: 10.1016/S0140-6736(16)31203-X. Epub 2016 Jul 29."
+                        ],
+                        "ReferencePMID": [
+                              "23299522",
+                              "24468224",
+                              "19279412",
+                              "10526518",
+                              "7634973",
+                              "26116801",
+                              "29277560",
+                              "27477896"
+                        ],
+                        "ReferenceType": [
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "The Cleveland Clinic"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Amy Lightner"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Sponsor-investigator"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor-Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT04519684"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "PrimaryOutcomeTimeFrame": [
+                              "At each intervention and 7, 10, and 16 months after last intervention"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "University of Miami"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Joshua M Hare"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Sponsor"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor-Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT02677350"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "PrimaryOutcomeTimeFrame": [
+                              "4months"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT01874015"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "PrimaryOutcomeTimeFrame": [
+                              "Baseline, Drug administration Visit, Day 1, 1 week, 2 weeks, 1 month, 2 months, 3 month, 6 month, 12 month after each MSCs injection"
+                        ],
+                        "ReferenceCitation": [
+                              "Garc\u00eda-Olmo D, Garc\u00eda-Arranz M, Garc\u00eda LG, Cuellar ES, Blanco IF, Prianes LA, Montes JA, Pinto FL, Marcos DH, Garc\u00eda-Sancho L. Autologous stem cell transplantation for treatment of rectovaginal fistula in perianal Crohn's disease: a new cell-based therapy. Int J Colorectal Dis. 2003 Sep;18(5):451-4. Epub 2003 May 20.",
+                              "Cho YB, Lee WY, Park KJ, Kim M, Yoo HW, Yu CS. Autologous adipose tissue-derived stem cells for the treatment of Crohn's fistula: a phase I clinical study. Cell Transplant. 2013;22(2):279-85. doi: 10.3727/096368912X656045. Epub 2012 Sep 21.",
+                              "Dietz AB, Dozois EJ, Fletcher JG, Butler GW, Radel D, Lightner AL, Dave M, Friton J, Nair A, Camilleri ET, Dudakovic A, van Wijnen AJ, Faubion WA. Autologous Mesenchymal Stem Cells, Applied in a Bioabsorbable Matrix, for Treatment of Perianal Fistulas in Patients With Crohn's Disease. Gastroenterology. 2017 Jul;153(1):59-62.e2. doi: 10.1053/j.gastro.2017.04.001. Epub 2017 Apr 9.",
+                              "Garc\u00eda-Olmo D, Garc\u00eda-Arranz M, Herreros D, Pascual I, Peiro C, Rodr\u00edguez-Montes JA. A phase I clinical trial of the treatment of Crohn's fistula by adipose mesenchymal stem cell transplantation. Dis Colon Rectum. 2005 Jul;48(7):1416-23.",
+                              "Garcia-Olmo D, Herreros D, Pascual I, Pascual JA, Del-Valle E, Zorrilla J, De-La-Quintana P, Garcia-Arranz M, Pascual M. Expanded adipose-derived stem cells for the treatment of complex perianal fistula: a phase II clinical trial. Dis Colon Rectum. 2009 Jan;52(1):79-86. doi: 10.1007/DCR.0b013e3181973487.",
+                              "Molendijk I, Bonsing BA, Roelofs H, Peeters KC, Wasser MN, Dijkstra G, van der Woude CJ, Duijvestein M, Veenendaal RA, Zwaginga JJ, Verspaget HW, Fibbe WE, van der Meulen-de Jong AE, Hommes DW. Allogeneic Bone Marrow-Derived Mesenchymal Stromal Cells Promote Healing of Refractory Perianal Fistulas in Patients With Crohn's Disease. Gastroenterology. 2015 Oct;149(4):918-27.e6. doi: 10.1053/j.gastro.2015.06.014. Epub 2015 Jun 25.",
+                              "Cho YB, Park KJ, Yoon SN, Song KH, Kim DS, Jung SH, Kim M, Jeong HY, Yu CS. Long-term results of adipose-derived stem cell therapy for the treatment of Crohn's fistula. Stem Cells Transl Med. 2015 May;4(5):532-7. doi: 10.5966/sctm.2014-0199. Epub 2015 Mar 31.",
+                              "Lee WY, Park KJ, Cho YB, Yoon SN, Song KH, Kim DS, Jung SH, Kim M, Yoo HW, Kim I, Ha H, Yu CS. Autologous adipose tissue-derived stem cells treatment demonstrated favorable and sustainable therapeutic effect for Crohn's fistula. Stem Cells. 2013 Nov;31(11):2575-81. doi: 10.1002/stem.1357.",
+                              "Pan\u00e9s J, Garc\u00eda-Olmo D, Van Assche G, Colombel JF, Reinisch W, Baumgart DC, Dignass A, Nachury M, Ferrante M, Kazemi-Shirazi L, Grimaud JC, de la Portilla F, Goldin E, Richard MP, Leselbaum A, Danese S; ADMIRE CD Study Group Collaborators. Expanded allogeneic adipose-derived mesenchymal stem cells (Cx601) for complex perianal fistulas in Crohn's disease: a phase 3 randomised, double-blind controlled trial. Lancet. 2016 Sep 24;388(10051):1281-90. doi: 10.1016/S0140-6736(16)31203-X. Epub 2016 Jul 29.",
+                              "Ciccocioppo R, Bernardo ME, Sgarella A, Maccario R, Avanzini MA, Ubezio C, Minelli A, Alvisi C, Vanoli A, Calliada F, Dionigi P, Perotti C, Locatelli F, Corazza GR. Autologous bone marrow-derived mesenchymal stromal cells in the treatment of fistulising Crohn's disease. Gut. 2011 Jun;60(6):788-98. doi: 10.1136/gut.2010.214841. Epub 2011 Jan 21.",
+                              "de la Portilla F, Alba F, Garc\u00eda-Olmo D, Herrer\u00edas JM, Gonz\u00e1lez FX, Galindo A. Expanded allogeneic adipose-derived stem cells (eASCs) for the treatment of complex perianal fistula in Crohn's disease: results from a multicenter phase I/IIa clinical trial. Int J Colorectal Dis. 2013 Mar;28(3):313-23. doi: 10.1007/s00384-012-1581-9. Epub 2012 Sep 29."
+                        ],
+                        "ReferencePMID": [
+                              "12756590",
+                              "23006344",
+                              "28400193",
+                              "15933795",
+                              "19273960",
+                              "26116801",
+                              "25829404",
+                              "23404825",
+                              "27477896",
+                              "21257987",
+                              "23053677"
+                        ],
+                        "ReferenceType": [
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background"
+                        ],
+                        "RemovedCountry": [
+                              "United States"
+                        ],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "The Cleveland Clinic"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Amy Lightner"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Staff Surgeon"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT04073472"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "PrimaryOutcomeTimeFrame": [
+                              "24 weeks"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT05039411"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "PrimaryOutcomeTimeFrame": [
+                              "at week 8"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "University of Liege"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Yves Beguin"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Professor"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT01540292"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "PrimaryOutcomeTimeFrame": [
+                              "Month 6",
+                              "Month 6",
+                              "Month 12",
+                              "Month 6",
+                              "Month 12",
+                              "Month 6",
+                              "Month 12",
+                              "Month 6",
+                              "Month 12"
+                        ],
+                        "ReferenceCitation": [
+                              "Fazio VW, Kiran RP, Remzi FH, Coffey JC, Heneghan HM, Kirat HT, Manilich E, Shen B, Martin ST. Ileal pouch anal anastomosis: analysis of outcome and quality of life in 3707 patients. Ann Surg. 2013 Apr;257(4):679-85. doi: 10.1097/SLA.0b013e31827d99a2.",
+                              "Ozdemir Y, Kiran RP, Erem HH, Aytac E, Gorgun E, Magnuson D, Remzi FH. Functional outcomes and complications after restorative proctocolectomy and ileal pouch anal anastomosis in the pediatric population. J Am Coll Surg. 2014 Mar;218(3):328-35. doi: 10.1016/j.jamcollsurg.2013.11.019. Epub 2013 Nov 26.",
+                              "Remzi FH, Fazio VW, Kirat HT, Wu JS, Lavery IC, Kiran RP. Repeat pouch surgery by the abdominal approach safely salvages failed ileal pelvic pouch. Dis Colon Rectum. 2009 Feb;52(2):198-204. doi: 10.1007/DCR.0b013e31819ad4b6.",
+                              "Foley EF, Schoetz DJ Jr, Roberts PL, Marcello PW, Murray JJ, Coller JA, Veidenheimer MC. Rediversion after ileal pouch-anal anastomosis. Causes of failures and predictors of subsequent pouch salvage. Dis Colon Rectum. 1995 Aug;38(8):793-8.",
+                              "Meagher AP, Farouk R, Dozois RR, Kelly KA, Pemberton JH. J ileal pouch-anal anastomosis for chronic ulcerative colitis: complications and long-term outcome in 1310 patients. Br J Surg. 1998 Jun;85(6):800-3.",
+                              "Farouk R, Pemberton JH, Wolff BG, Dozois RR, Browning S, Larson D. Functional outcomes after ileal pouch-anal anastomosis for chronic ulcerative colitis. Ann Surg. 2000 Jun;231(6):919-26."
+                        ],
+                        "ReferencePMID": [
+                              "23299522",
+                              "24468224",
+                              "19279412",
+                              "7634973",
+                              "9667712",
+                              "10816636"
+                        ],
+                        "ReferenceType": [
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "The Cleveland Clinic"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Amy Lightner"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Sponsor-Investigator, MD"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor-Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT05075811"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "PrimaryOutcomeTimeFrame": [
+                              "12 months"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT02445547"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "PrimaryOutcomeTimeFrame": [
+                              "70 weeks",
+                              "70 weeks"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT05130983"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "PrimaryOutcomeTimeFrame": [
+                              "12 weeks"
+                        ],
+                        "ReferenceCitation": [
+                              "Molendijk I, Bonsing BA, Roelofs H, Peeters KC, Wasser MN, Dijkstra G, van der Woude CJ, Duijvestein M, Veenendaal RA, Zwaginga JJ, Verspaget HW, Fibbe WE, van der Meulen-de Jong AE, Hommes DW. Allogeneic Bone Marrow-Derived Mesenchymal Stromal Cells Promote Healing of Refractory Perianal Fistulas in Patients With Crohn's Disease. Gastroenterology. 2015 Oct;149(4):918-27.e6. doi: 10.1053/j.gastro.2015.06.014. Epub 2015 Jun 25."
+                        ],
+                        "ReferencePMID": [
+                              "26116801"
+                        ],
+                        "ReferenceType": [
+                              "derived"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "Leiden University Medical Center"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "HeinVerspaget"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Professor"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT01144962"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "PrimaryOutcomeTimeFrame": [
+                              "6 months",
+                              "6 months"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT00543374"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "PrimaryOutcomeTimeFrame": [
+                              "28 days"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT00482092"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "PrimaryOutcomeTimeFrame": [
+                              "24 weeks"
+                        ],
+                        "ReferenceCitation": [
+                              "Thoreson R, Cullen JJ. Pathophysiology of inflammatory bowel disease: an overview. Surg Clin North Am. 2007 Jun;87(3):575-85. Review."
+                        ],
+                        "ReferencePMID": [
+                              "17560413"
+                        ],
+                        "ReferenceType": [
+                              "result"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "Jinling Hospital, China"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Fangyu Wang"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Chief of digestive department"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT04939337"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "PrimaryOutcomeTimeFrame": [
+                              "3 months",
+                              "3 months",
+                              "3 months"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT05499156"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "PrimaryOutcomeTimeFrame": [
+                              "24 weeks"
+                        ],
+                        "ReferenceCitation": [
+                              "Garcia-Olmo D, Gilaberte I, Binek M, D Hoore AJL, Lindner D, Selvaggi F, Spinelli A, Pan\u00e9s J. Follow-up Study to Evaluate the Long-term Safety and Efficacy of Darvadstrocel (Mesenchymal Stem Cell Treatment) in Patients With Perianal Fistulizing Crohn's Disease: ADMIRE-CD Phase 3 Randomized Controlled Trial. Dis Colon Rectum. 2022 May 1;65(5):713-720. doi: 10.1097/DCR.0000000000002325.",
+                              "Pan\u00e9s J, Garc\u00eda-Olmo D, Van Assche G, Colombel JF, Reinisch W, Baumgart DC, Dignass A, Nachury M, Ferrante M, Kazemi-Shirazi L, Grimaud JC, de la Portilla F, Goldin E, Richard MP, Diez MC, Tagarro I, Leselbaum A, Danese S; ADMIRE CD Study Group Collaborators. Long-term Efficacy and Safety of Stem Cell Therapy (Cx601) for Complex Perianal Fistulas in Patients With Crohn's Disease. Gastroenterology. 2018 Apr;154(5):1334-1342.e4. doi: 10.1053/j.gastro.2017.12.020. Epub 2017 Dec 24.",
+                              "Pan\u00e9s J, Garc\u00eda-Olmo D, Van Assche G, Colombel JF, Reinisch W, Baumgart DC, Dignass A, Nachury M, Ferrante M, Kazemi-Shirazi L, Grimaud JC, de la Portilla F, Goldin E, Richard MP, Leselbaum A, Danese S; ADMIRE CD Study Group Collaborators. Expanded allogeneic adipose-derived mesenchymal stem cells (Cx601) for complex perianal fistulas in Crohn's disease: a phase 3 randomised, double-blind controlled trial. Lancet. 2016 Sep 24;388(10051):1281-90. doi: 10.1016/S0140-6736(16)31203-X. Epub 2016 Jul 29."
+                        ],
+                        "ReferencePMID": [
+                              "34890373",
+                              "29277560",
+                              "27477896"
+                        ],
+                        "ReferenceType": [
+                              "derived",
+                              "derived",
+                              "derived"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT01541579"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "PrimaryOutcomeTimeFrame": [
+                              "180 Days after first infusion in Protocol 603"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT01233960"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "PrimaryOutcomeTimeFrame": [
+                              "1 year"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "Medical University of Vienna"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Dr. Christopher Dawoud"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Dr. med. univ."
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT05322057"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "PrimaryOutcomeTimeFrame": [
+                              "up to 36 months"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT03183661"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "PrimaryOutcomeTimeFrame": [
+                              "1 month"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT03115749"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "PrimaryOutcomeTimeFrame": [
+                              "Through study completion, an average of 2 years",
+                              "From screening visit to week 52",
+                              "Through study completion, an average of 2 years",
+                              "Through study completion, an average of 2 years",
+                              "Through study completion, an average of 2 years"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT05521672"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "PrimaryOutcomeTimeFrame": [
+                              "Month 3"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "The Cleveland Clinic"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Amy Lightner"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Principal Investigator"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT04548583"
+                        ]
+                  },
+                  {
+                        "Rank": 28,
+                        "PrimaryOutcomeTimeFrame": [
+                              "12 weeks",
+                              "12 weeks"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT05407766"
+                        ]
+                  },
+                  {
+                        "Rank": 29,
+                        "PrimaryOutcomeTimeFrame": [
+                              "Week 12",
+                              "Week 12",
+                              "Week 12",
+                              "from week 0 to week 48"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "University of Liege"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Edouard Louis"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Prof"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT03901235"
+                        ]
+                  },
+                  {
+                        "Rank": 30,
+                        "PrimaryOutcomeTimeFrame": [
+                              "up to 4 weeks"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT02580617"
+                        ]
+                  },
+                  {
+                        "Rank": 31,
+                        "PrimaryOutcomeTimeFrame": [
+                              "Month 12"
+                        ],
+                        "ReferenceCitation": [
+                              "Alam A, Lin F, Fathallah N, Pommaret E, Aubert M, Lemarchand N, Abbes L, Spindler L, Portal A, de Parades V. FiLaC(\u00ae) and Crohn's disease perianal fistulas: a pilot study of 20 consecutive patients. Tech Coloproctol. 2020 Jan;24(1):75-78. doi: 10.1007/s10151-019-02134-3. Epub 2019 Dec 31.",
+                              "Ciccocioppo R, Klersy C, Leffler DA, Rogers R, Bennett D, Corazza GR. Systematic review with meta-analysis: Safety and efficacy of local injections of mesenchymal stem cells in perianal fistulas. JGH Open. 2019 Feb 13;3(3):249-260. doi: 10.1002/jgh3.12141. eCollection 2019 Jun. Review.",
+                              "Garc\u00eda-Olmo D, Garc\u00eda-Arranz M, Garc\u00eda LG, Cuellar ES, Blanco IF, Prianes LA, Montes JA, Pinto FL, Marcos DH, Garc\u00eda-Sancho L. Autologous stem cell transplantation for treatment of rectovaginal fistula in perianal Crohn's disease: a new cell-based therapy. Int J Colorectal Dis. 2003 Sep;18(5):451-4. Epub 2003 May 20.",
+                              "Mahadev S, Young JM, Selby W, Solomon MJ. Quality of life in perianal Crohn's disease: what do patients consider important? Dis Colon Rectum. 2011 May;54(5):579-85. doi: 10.1007/DCR.0b013e3182099d9e.",
+                              "Pan\u00e9s J, Garc\u00eda-Olmo D, Van Assche G, Colombel JF, Reinisch W, Baumgart DC, Dignass A, Nachury M, Ferrante M, Kazemi-Shirazi L, Grimaud JC, de la Portilla F, Goldin E, Richard MP, Diez MC, Tagarro I, Leselbaum A, Danese S; ADMIRE CD Study Group Collaborators. Long-term Efficacy and Safety of Stem Cell Therapy (Cx601) for Complex Perianal Fistulas in Patients With Crohn's Disease. Gastroenterology. 2018 Apr;154(5):1334-1342.e4. doi: 10.1053/j.gastro.2017.12.020. Epub 2017 Dec 24.",
+                              "Brochard C, Rabilloud ML, Hamonic S, Bajeux E, Pagenault M, Dabadie A, Gerfaud A, Viel JF, Tron I, Robaszkiewicz M, Bretagne JF, Siproudhis L, Bouguen G; Groupe ABERMAD. Natural History of Perianal Crohn's Disease: Long-term Follow-up of a Population-Based Cohort. Clin Gastroenterol Hepatol. 2022 Feb;20(2):e102-e110. doi: 10.1016/j.cgh.2020.12.024. Epub 2020 Dec 24.",
+                              "Ford AC, Sandborn WJ, Khan KJ, Hanauer SB, Talley NJ, Moayyedi P. Efficacy of biological therapies in inflammatory bowel disease: systematic review and meta-analysis. Am J Gastroenterol. 2011 Apr;106(4):644-59, quiz 660. doi: 10.1038/ajg.2011.73. Epub 2011 Mar 15. Review.",
+                              "Stellingwerf ME, van Praag EM, Tozer PJ, Bemelman WA, Buskens CJ. Systematic review and meta-analysis of endorectal advancement flap and ligation of the intersphincteric fistula tract for cryptoglandular and Crohn's high perianal fistulas. BJS Open. 2019 Jan 21;3(3):231-241. doi: 10.1002/bjs5.50129. eCollection 2019 Jun. Erratum in: BJS Open. 2020 Feb;4(1):166-167.",
+                              "Grimaud JC, Munoz-Bongrand N, Siproudhis L, Abramowitz L, S\u00e9n\u00e9joux A, Vitton V, Gambiez L, Flouri\u00e9 B, H\u00e9buterne X, Louis E, Coffin B, De Parades V, Savoye G, Soul\u00e9 JC, Bouhnik Y, Colombel JF, Contou JF, Fran\u00e7ois Y, Mary JY, L\u00e9mann M; Groupe d'Etude Th\u00e9rapeutique des Affections Inflammatoires du Tube Digestif. Fibrin glue is effective healing perianal fistulas in patients with Crohn's disease. Gastroenterology. 2010 Jun;138(7):2275-81, 2281.e1. doi: 10.1053/j.gastro.2010.02.013. Epub 2010 Feb 20.",
+                              "Sen\u00e9joux A, Siproudhis L, Abramowitz L, Munoz-Bongrand N, Desseaux K, Bouguen G, Bourreille A, Dewit O, Stefanescu C, Vernier G, Louis E, Grimaud JC, Godart B, Savoye G, Hebuterne X, Bauer P, Nachury M, Laharie D, Chevret S, Bouhnik Y; Groupe d'Etude Th\u00e9rapeutique des Affections Inflammatoires du tube Digestif [GETAID]. Fistula Plug in Fistulising Ano-Perineal Crohn's Disease: a Randomised Controlled Trial. J Crohns Colitis. 2016 Feb;10(2):141-8. doi: 10.1093/ecco-jcc/jjv162. Epub 2015 Sep 8.",
+                              "van Praag EM, Stellingwerf ME, van der Bilt JDW, Bemelman WA, Gecse KB, Buskens CJ. Ligation of the Intersphincteric Fistula Tract and Endorectal Advancement Flap for High Perianal Fistulas in Crohn's Disease: A Retrospective Cohort Study. J Crohns Colitis. 2020 Jul 9;14(6):757-763. doi: 10.1093/ecco-jcc/jjz181."
+                        ],
+                        "ReferencePMID": [
+                              "31893324",
+                              "31276044",
+                              "12756590",
+                              "21471759",
+                              "29277560",
+                              "33359730",
+                              "21407183",
+                              "31183438",
+                              "20178792",
+                              "26351393",
+                              "31696918"
+                        ],
+                        "ReferenceType": [
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT05177003"
+                        ]
+                  },
+                  {
+                        "Rank": 32,
+                        "PrimaryOutcomeTimeFrame": [
+                              "62 weeks"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "Papa Giovanni XXIII Hospital"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Paolo Bertoli"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "MD"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT02403232"
+                        ]
+                  },
+                  {
+                        "Rank": 33,
+                        "PrimaryOutcomeTimeFrame": [
+                              "6 moths",
+                              "6 moths"
+                        ],
+                        "ReferenceCitation": [
+                              "Scott LJ. Darvadstrocel: A Review in Treatment-Refractory Complex Perianal Fistulas in Crohn's Disease. BioDrugs. 2018 Dec;32(6):627-634. doi: 10.1007/s40259-018-0311-4. Review.",
+                              "Pan\u00e9s J, Rimola J. Perianal fistulizing Crohn's disease: pathogenesis, diagnosis and therapy. Nat Rev Gastroenterol Hepatol. 2017 Nov;14(11):652-664. doi: 10.1038/nrgastro.2017.104. Epub 2017 Aug 9. Review.",
+                              "Pan\u00e9s J, Garc\u00eda-Olmo D, Van Assche G, Colombel JF, Reinisch W, Baumgart DC, Dignass A, Nachury M, Ferrante M, Kazemi-Shirazi L, Grimaud JC, de la Portilla F, Goldin E, Richard MP, Diez MC, Tagarro I, Leselbaum A, Danese S; ADMIRE CD Study Group Collaborators. Long-term Efficacy and Safety of Stem Cell Therapy (Cx601) for Complex Perianal Fistulas in Patients With Crohn's Disease. Gastroenterology. 2018 Apr;154(5):1334-1342.e4. doi: 10.1053/j.gastro.2017.12.020. Epub 2017 Dec 24.",
+                              "Garcia-Olmo D, Gilaberte I, Binek M, D Hoore AJL, Lindner D, Selvaggi F, Spinelli A, Pan\u00e9s J. Follow-up Study to Evaluate the Long-term Safety and Efficacy of Darvadstrocel (Mesenchymal Stem Cell Treatment) in Patients With Perianal Fistulizing Crohn's Disease: ADMIRE-CD Phase 3 Randomized Controlled Trial. Dis Colon Rectum. 2022 May 1;65(5):713-720. doi: 10.1097/DCR.0000000000002325.",
+                              "Pan\u00e9s J, Garc\u00eda-Olmo D, Van Assche G, Colombel JF, Reinisch W, Baumgart DC, Dignass A, Nachury M, Ferrante M, Kazemi-Shirazi L, Grimaud JC, de la Portilla F, Goldin E, Richard MP, Leselbaum A, Danese S; ADMIRE CD Study Group Collaborators. Expanded allogeneic adipose-derived mesenchymal stem cells (Cx601) for complex perianal fistulas in Crohn's disease: a phase 3 randomised, double-blind controlled trial. Lancet. 2016 Sep 24;388(10051):1281-90. doi: 10.1016/S0140-6736(16)31203-X. Epub 2016 Jul 29."
+                        ],
+                        "ReferencePMID": [
+                              "30298387",
+                              "28790453",
+                              "29277560",
+                              "34890373",
+                              "27477896"
+                        ],
+                        "ReferenceType": [
+                              "background",
+                              "background",
+                              "background",
+                              "result",
+                              "result"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "Universidad de Zaragoza"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Jose-M Ramirez"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Profesor"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT05210309"
+                        ]
+                  },
+                  {
+                        "Rank": 34,
+                        "PrimaryOutcomeTimeFrame": [
+                              "within 28 days after they discharged from PICU",
+                              "Within 3 to 15 days after the start of treatment",
+                              "Within 3 to 15 days after the start of treatment"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT04850469"
+                        ]
+                  },
+                  {
+                        "Rank": 35,
+                        "PrimaryOutcomeTimeFrame": [
+                              "8 weeks"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT01314092"
+                        ]
+                  },
+                  {
+                        "Rank": 36,
+                        "PrimaryOutcomeTimeFrame": [
+                              "1 year"
+                        ],
+                        "ReferenceCitation": [
+                              "Naldini G, Sturiale A, Fabiani B, Giani I, Menconi C. Micro-fragmented adipose tissue injection for the treatment of complex anal fistula: a pilot study accessing safety and feasibility. Tech Coloproctol. 2018 Feb;22(2):107-113. doi: 10.1007/s10151-018-1755-8. Epub 2018 Feb 16.",
+                              "Pan\u00e9s J, Garc\u00eda-Olmo D, Van Assche G, Colombel JF, Reinisch W, Baumgart DC, Dignass A, Nachury M, Ferrante M, Kazemi-Shirazi L, Grimaud JC, de la Portilla F, Goldin E, Richard MP, Diez MC, Tagarro I, Leselbaum A, Danese S; ADMIRE CD Study Group Collaborators. Long-term Efficacy and Safety of Stem Cell Therapy (Cx601) for Complex Perianal Fistulas in Patients With Crohn's Disease. Gastroenterology. 2018 Apr;154(5):1334-1342.e4. doi: 10.1053/j.gastro.2017.12.020. Epub 2017 Dec 24.",
+                              "Herreros MD, Garcia-Arranz M, Guadalajara H, De-La-Quintana P, Garcia-Olmo D; FATT Collaborative Group. Autologous expanded adipose-derived stem cells for the treatment of complex cryptoglandular perianal fistulas: a phase III randomized clinical trial (FATT 1: fistula Advanced Therapy Trial 1) and long-term evaluation. Dis Colon Rectum. 2012 Jul;55(7):762-72. doi: 10.1097/DCR.0b013e318255364a.",
+                              "Bianchi F, Maioli M, Leonardi E, Olivi E, Pasquinelli G, Valente S, Mendez AJ, Ricordi C, Raffaini M, Tremolada C, Ventura C. A new nonenzymatic method and device to obtain a fat tissue derivative highly enriched in pericyte-like elements by mild mechanical forces from human lipoaspirates. Cell Transplant. 2013;22(11):2063-77. doi: 10.3727/096368912X657855. Epub 2012 Oct 8.",
+                              "Tremolada C, Ricordi C, Caplan AI, Ventura C. Mesenchymal Stem Cells in Lipogems, a Reverse Story: from Clinical Practice to Basic Science. Methods Mol Biol. 2016;1416:109-22. doi: 10.1007/978-1-4939-3584-0_6."
+                        ],
+                        "ReferencePMID": [
+                              "29453515",
+                              "29277560",
+                              "22706128",
+                              "23051701",
+                              "27236668"
+                        ],
+                        "ReferenceType": [
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT04750499"
+                        ]
+                  },
+                  {
+                        "Rank": 37,
+                        "PrimaryOutcomeTimeFrame": [
+                              "Month 12"
+                        ],
+                        "ReferenceCitation": [
+                              "Torres J, Bonovas S, Doherty G, Kucharzik T, Gisbert JP, Raine T, Adamina M, Armuzzi A, Bachmann O, Bager P, Biancone L, Bokemeyer B, Bossuyt P, Burisch J, Collins P, El-Hussuna A, Ellul P, Frei-Lanter C, Furfaro F, Gingert C, Gionchetti P, Gomollon F, Gonz\u00e1lez-Lorenzo M, Gordon H, Hlavaty T, Juillerat P, Katsanos K, Kopylov U, Krustins E, Lytras T, Maaser C, Magro F, Marshall JK, Myrelid P, Pellino G, Rosa I, Sabino J, Savarino E, Spinelli A, Stassen L, Uzzan M, Vavricka S, Verstockt B, Warusavitarne J, Zmora O, Fiorino G. ECCO Guidelines on Therapeutics in Crohn's Disease: Medical Treatment. J Crohns Colitis. 2020 Jan 1;14(1):4-22. doi: 10.1093/ecco-jcc/jjz180.",
+                              "Adamina M, Bonovas S, Raine T, Spinelli A, Warusavitarne J, Armuzzi A, Bachmann O, Bager P, Biancone L, Bokemeyer B, Bossuyt P, Burisch J, Collins P, Doherty G, El-Hussuna A, Ellul P, Fiorino G, Frei-Lanter C, Furfaro F, Gingert C, Gionchetti P, Gisbert JP, Gomollon F, Gonz\u00e1lez Lorenzo M, Gordon H, Hlavaty T, Juillerat P, Katsanos K, Kopylov U, Krustins E, Kucharzik T, Lytras T, Maaser C, Magro F, Marshall JK, Myrelid P, Pellino G, Rosa I, Sabino J, Savarino E, Stassen L, Torres J, Uzzan M, Vavricka S, Verstockt B, Zmora O. ECCO Guidelines on Therapeutics in Crohn's Disease: Surgical Treatment. J Crohns Colitis. 2020 Feb 10;14(2):155-168. doi: 10.1093/ecco-jcc/jjz187.",
+                              "Bouchard D, Abramowitz L, Bouguen G, Brochard C, Dabadie A, de Parades V, El\u00e9ouet-Kaplan M, Fathallah N, Faucheron JL, Maggiori L, Panis Y, Pigot F, Roum\u00e9gu\u00e8re P, S\u00e9n\u00e9joux A, Siproudhis L, Staumont G, Suduca JM, Vinson-Bonnet B, Zeitoun JD. Anoperineal lesions in Crohn's disease: French recommendations for clinical practice. Tech Coloproctol. 2017 Sep;21(9):683-691. doi: 10.1007/s10151-017-1684-y. Epub 2017 Sep 19. Review.",
+                              "Lee MJ, Heywood N, Sagar PM, Brown SR, Fearnhead NS; pCD Collaborators. Surgical management of fistulating perianal Crohn's disease: a UK survey. Colorectal Dis. 2017 Mar;19(3):266-273. doi: 10.1111/codi.13462.",
+                              "Gecse KB, Bemelman W, Kamm MA, Stoker J, Khanna R, Ng SC, Pan\u00e9s J, van Assche G, Liu Z, Hart A, Levesque BG, D'Haens G; World Gastroenterology Organization, International Organisation for Inflammatory Bowel Diseases IOIBD, European Society of Coloproctology and Robarts Clinical Trials; World Gastroenterology Organization International Organisation for Inflammatory Bowel Diseases IOIBD European Society of Coloproctology and Robarts Clinical Trials. A global consensus on the classification, diagnosis and multidisciplinary treatment of perianal fistulising Crohn's disease. Gut. 2014 Sep;63(9):1381-92. doi: 10.1136/gutjnl-2013-306709. Epub 2014 Jun 20."
+                        ],
+                        "ReferencePMID": [
+                              "31711158",
+                              "31742338",
+                              "28929282",
+                              "27423057",
+                              "24951257"
+                        ],
+                        "ReferenceType": [
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT05330416"
+                        ]
+                  },
+                  {
+                        "Rank": 38,
+                        "PrimaryOutcomeTimeFrame": [
+                              "0-24 months"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "Mayo Clinic"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Eric J. Dozois, M.D."
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Principal Investigator"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT03220243"
+                        ]
+                  },
+                  {
+                        "Rank": 39,
+                        "PrimaryOutcomeTimeFrame": [
+                              "Month 4"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT01623453"
+                        ]
+                  },
+                  {
+                        "Rank": 40,
+                        "PrimaryOutcomeTimeFrame": [
+                              "4 weeks follow-up after treatment, 12 weeks follow-up after treatment"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT02000362"
+                        ]
+                  },
+                  {
+                        "Rank": 41,
+                        "PrimaryOutcomeTimeFrame": [
+                              "114 weeks"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT02926300"
+                        ]
+                  },
+                  {
+                        "Rank": 42,
+                        "PrimaryOutcomeTimeFrame": [
+                              "2-24 months"
+                        ],
+                        "ReferenceCitation": [
+                              "Dietz AB, Dozois EJ, Fletcher JG, Butler GW, Radel D, Lightner AL, Dave M, Friton J, Nair A, Camilleri ET, Dudakovic A, van Wijnen AJ, Faubion WA. Autologous Mesenchymal Stem Cells, Applied in a Bioabsorbable Matrix, for Treatment of Perianal Fistulas in Patients With Crohn's Disease. Gastroenterology. 2017 Jul;153(1):59-62.e2. doi: 10.1053/j.gastro.2017.04.001. Epub 2017 Apr 9."
+                        ],
+                        "ReferencePMID": [
+                              "28400193"
+                        ],
+                        "ReferenceType": [
+                              "background"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "Mayo Clinic"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "William A. Faubion, M.D."
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "PI"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor-Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT01915927"
+                        ]
+                  },
+                  {
+                        "Rank": 43,
+                        "PrimaryOutcomeTimeFrame": [
+                              "36 weeks"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT04847739"
+                        ]
+                  }
+            ]
+      }
+}

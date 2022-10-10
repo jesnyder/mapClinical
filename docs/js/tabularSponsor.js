@@ -10,7 +10,7 @@ var tabledata = [
 
 var tabledata = tableSponsor_Collaborators;
 
-var table = new Tabulator("#sponsor-table", {
+var table = new Tabulator("#tabularSponsor", {
     data:tabledata,           //load row data from array
     layout:"fitColumns",      //fit columns to width of table
     responsiveLayout:"hide",  //hide columns that dont fit on the table

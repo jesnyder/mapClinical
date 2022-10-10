@@ -1,0 +1,171 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal SF-MSC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "Comparison of intra-articular administration of synovial fluid-derived mesenchymal stem cells-derived exosomes with synovial fluid-derived mesenchymal stem cells on the same patient."
+                        ],
+                        "BriefTitle": [
+                              "Clinical Efficacy of Exosome in Degenerative Meniscal Injury"
+                        ],
+                        "CentralContactEMail": [
+                              "aylaekersariboyaci@yahoo.com"
+                        ],
+                        "CentralContactName": [
+                              "Ayla Eker Sar\u0131boyac\u0131, AssocProfDr."
+                        ],
+                        "CentralContactPhone": [
+                              "+905382696420"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "The Scientific and Technological Research Council of Turkey"
+                        ],
+                        "CompletionDate": [
+                              "March 2025"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Knee; Injury, Meniscus (Lateral) (Medial)",
+                              "Meniscus Tear",
+                              "Meniscus Lesion",
+                              "Meniscus; Degeneration",
+                              "Meniscus; Laceration",
+                              "Meniscus Injury, Tibial",
+                              "Knee Injuries",
+                              "Knee Pain Swelling",
+                              "Arthralgia"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000007869",
+                              "D000007592",
+                              "D000009140",
+                              "D000010146",
+                              "D000009461"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Leg Injuries",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Pain",
+                              "Neurologic Manifestations"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC26",
+                              "All",
+                              "BC05",
+                              "BC23",
+                              "BC10"
+                        ],
+                        "NCTId": [
+                              "NCT05261360"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "BriefSummary": [
+                              "This is a proof-of-concept study to determine the safety and efficacy of a novel device to increase the reparative capacity of the knee. The discovery of a resident population of mesenchymal stem cells (MSCs) within synovial fluid (SF) was the first description of this reparative cell population having direct access to superficial cartilage and joint structures. The ready access of SF MSC to cartilage and other joint tissues offers a novel strategy for joint repair. Current arthroscopic procedures result in the removal of all SF MSCs due to continuous irrigation throughout the procedure. The current study would benefit the patient by greatly increasing the reparative capacity of the joint by bolstering MSC numbers and retaining those MSCs within the joint after surgery. By accessing MSCs from the synovium it is anticipated that these cells would be entrapped/migrate into the marrow clot formed by microfracture of the sub-chondral bone. These MSCs would supplement those from the marrow and may result in faster, better quality repair."
+                        ],
+                        "BriefTitle": [
+                              "Synovium Brushing to Augmented Microfracture for Improved Cartilage Repair"
+                        ],
+                        "CentralContactEMail": [
+                              "d.g.mcgonagle@leeds.ac.uk",
+                              "t.baboolal@leeds.ac.uk"
+                        ],
+                        "CentralContactName": [
+                              "Dennis G McGonagle, FRCPI PhD",
+                              "Thomas G Baboolal, PhD"
+                        ],
+                        "CentralContactPhone": [
+                              "0113 3924747",
+                              "0113 3438413"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "The Leeds Teaching Hospitals NHS Trust"
+                        ],
+                        "CompletionDate": [
+                              "December 2021"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Defect of Articular Cartilage",
+                              "Cartilage Injury",
+                              "Osteoarthritis, Knee"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010003",
+                              "D000001168",
+                              "D000007592",
+                              "D000009140",
+                              "D000012216",
+                              "D000050723",
+                              "D000014947"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Osteoarthritis",
+                              "Arthritis",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Fractures, Bone",
+                              "Wounds and Injuries"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC05",
+                              "All",
+                              "BC26",
+                              "BC17"
+                        ],
+                        "NCTId": [
+                              "NCT02696876"
+                        ]
+                  }
+            ]
+      }
+}

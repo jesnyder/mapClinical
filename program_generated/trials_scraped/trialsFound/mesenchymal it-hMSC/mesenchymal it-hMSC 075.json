@@ -1,0 +1,191 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal it-hMSC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Nervous System Diseases",
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemic Stroke",
+                              "Stroke"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M2401",
+                              "M21459",
+                              "M9695",
+                              "M4962",
+                              "M4356",
+                              "M4894",
+                              "M16552"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemic Stroke",
+                              "Stroke",
+                              "Ischemia",
+                              "Cerebrovascular Disorders",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Vascular Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000020521",
+                              "D000083242"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Stroke",
+                              "Ischemic Stroke"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "3 arms for phase 1, and 3 arms for pashe 2"
+                        ],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04953663"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Nervous System Diseases",
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemic Stroke",
+                              "Stroke",
+                              "Ischemic",
+                              "Ischemic Stroke"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M2401",
+                              "M21459",
+                              "M9695",
+                              "M9434",
+                              "M4945",
+                              "M4962",
+                              "M4356",
+                              "M4894",
+                              "M16552",
+                              "M21458",
+                              "M4946",
+                              "M11436"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemic Stroke",
+                              "Stroke",
+                              "Ischemia",
+                              "Infarction",
+                              "Cerebral Infarction",
+                              "Cerebrovascular Disorders",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Vascular Diseases",
+                              "Brain Infarction",
+                              "Brain Ischemia",
+                              "Necrosis"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000020521",
+                              "D000083242",
+                              "D000002544",
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Stroke",
+                              "Ischemic Stroke",
+                              "Cerebral Infarction",
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [
+                              "In phase I, the masking method is open-label, whereas in phase II, the masking method is double blind."
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04590118"
+                        ]
+                  }
+            ]
+      }
+}

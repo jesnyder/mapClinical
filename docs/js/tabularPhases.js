@@ -2,7 +2,7 @@
 
 var tabledata = tablePhases;
 
-var table = new Tabulator("#phases-table", {
+var table = new Tabulator("#tabularPhases", {
     data:tabledata,           //load row data from array
     layout:"fitColumns",      //fit columns to width of table
     responsiveLayout:"hide",  //hide columns that dont fit on the table

@@ -1,0 +1,110 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Cellgram-ED",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Chungsu Kim, Ph.D"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "October 31, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Descriptive statistics for the amount of change at administration of the investigational drug compared to the baseline value for each administration group are presented and analyzed by an analysis of covariance (ANCOVA)\n\nErectile Function (Q1,2,3,4,5,15) : Min 6 ~ Max 30 Orgasmic Function (Q9,10) : Min 2 ~ Max 10 Sexual Desire (Q11,12) : : Min 2 ~ Max 10 Intercourse Satisfaction (Q6,7,8): : Min 3 ~ Max 15 Overall Satisfaction (Q13,14) : Min 2 ~ Max 10"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "The amount of change in EF score in the International Erectile Function Questionnaire (IIEF) at administration of the clinical trial drug compared to the baseline value"
+                        ],
+                        "NCTId": [
+                              "NCT04594850"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "OverallOfficialName": [
+                              "Chungsu Kim, Ph.D"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "January 31, 2018"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Analyze the laboratory, vital sign, physical exam results from baseline to end of the study for investigate adverse reactions and view safety.\n\nAn SAE suggests a significant hazard, contraindication, side-effect, or precaution. With respect to human clinical experience, this includes any event that:\n\nResults in death. Is life-threatening.* Requires in-patient hospitalization or prolongation of existing hospitalization.\n\nResults in persistent or significant disability/incapacity. Is a congenital anomaly/birth defect. Other medically important condition\n\nLife-threatening in the definition of a SAE or adverse reaction refers to an event in which the patient was at risk of death at the time of event; it does not refer to an event, which hypothetically might have caused death if it were more severe."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Number and severity of adverse events"
+                        ],
+                        "NCTId": [
+                              "NCT02344849"
+                        ]
+                  }
+            ]
+      }
+}

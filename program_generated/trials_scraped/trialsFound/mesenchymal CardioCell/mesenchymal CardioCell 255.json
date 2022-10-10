@@ -1,0 +1,203 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal CardioCell",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 5,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 5,
+            "FieldList": [
+                  "OutcomeMeasureParamType",
+                  "OutcomeMeasurePopulationDescription",
+                  "OutcomeMeasureReportingStatus",
+                  "OutcomeMeasureTimeFrame",
+                  "OutcomeMeasureTitle",
+                  "OutcomeMeasureType",
+                  "OutcomeMeasureTypeUnitsAnalyzed",
+                  "OutcomeMeasureUnitOfMeasure",
+                  "OutcomeMeasurementComment",
+                  "OutcomeMeasurementGroupId",
+                  "OutcomeMeasurementLowerLimit",
+                  "OutcomeMeasurementSpread",
+                  "OutcomeMeasurementUpperLimit",
+                  "OutcomeMeasurementValue",
+                  "OverallOfficialAffiliation",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "John Paul II Hospital"
+                        ],
+                        "NCTId": [
+                              "NCT03404063"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "John Paul II Hospital"
+                        ],
+                        "NCTId": [
+                              "NCT03418233"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "John Paul II Hospital"
+                        ],
+                        "NCTId": [
+                              "NCT03423732"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "OutcomeMeasureParamType": [
+                              "Number",
+                              "Mean"
+                        ],
+                        "OutcomeMeasurePopulationDescription": [
+                              "All 22 participants that received itMSC treatment were included. All adverse events are divided into serious and non-serious.",
+                              "The secondary efficacy endpoint according to the protocol was the change in LVEF from baseline to Day 90 post-initial infusion."
+                        ],
+                        "OutcomeMeasureReportingStatus": [
+                              "Posted",
+                              "Posted"
+                        ],
+                        "OutcomeMeasureTimeFrame": [
+                              "Total AEs and SAEs within 450 days post-infusion",
+                              "Baseline to Day 90"
+                        ],
+                        "OutcomeMeasureTitle": [
+                              "Safety Will be Evaluated by Number of AE",
+                              "Change in LVEF From Baseline to Day 90 Post-initial Infusion."
+                        ],
+                        "OutcomeMeasureType": [
+                              "Primary",
+                              "Secondary"
+                        ],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [
+                              "number of events",
+                              "percentage of ejection volume"
+                        ],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [
+                              "OG000",
+                              "OG001",
+                              "OG000",
+                              "OG001",
+                              "OG000",
+                              "OG001",
+                              "OG000",
+                              "OG001",
+                              "OG000",
+                              "OG001",
+                              "OG000",
+                              "OG001",
+                              "OG000",
+                              "OG001"
+                        ],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [
+                              "7.91",
+                              "7.49",
+                              "9.7",
+                              "5.42"
+                        ],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [
+                              "38",
+                              "35",
+                              "1",
+                              "1",
+                              "1",
+                              "0",
+                              "0",
+                              "0",
+                              "0",
+                              "0",
+                              "34.3",
+                              "34.5",
+                              "34.1",
+                              "36.7"
+                        ],
+                        "OverallOfficialAffiliation": [
+                              "Clinical Operations Manager"
+                        ],
+                        "NCTId": [
+                              "NCT02467387"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "Mercy Gilbert Medical Center, Dignity Health"
+                        ],
+                        "NCTId": [
+                              "NCT01770613"
+                        ]
+                  }
+            ]
+      }
+}

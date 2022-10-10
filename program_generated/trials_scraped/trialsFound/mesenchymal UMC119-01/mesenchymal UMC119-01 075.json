@@ -1,0 +1,105 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal UMC119-01",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "All Conditions",
+                              "Wounds and Injuries",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Bronchopulmonary Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M4425",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M25022",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Bronchopulmonary Dysplasia",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Premature Birth",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Prevention"
+                        ],
+                        "NCTId": [
+                              "NCT03631420"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,131 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Chondrochymal",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change from baseline at each post-treatment visit during the Evaluation Period on the target knee in total scores and sub-scores of each section of WOMAC.\n\nThe Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC LK 3.1) is applied extensively to patients with osteoarthritis of the hip or knee. It is a 24-item patient-reported questionnaire with a total score ranging from 0 to 96. The sub-scores range from 0 to 4 for each item with a higher score indicating a more severe OA symptom. The WOMAC includes 3 domains: (1) Pain: 5 items (score range: 0 to 20), (2) Stiffness: 2 items (score range: 0 to 8), and (3) Functional limitation: 17 items (score range: 0 to 68).\n\nFor ease of interpretation, WOMAC scores (including total scores and sub-scores) will be linearly transformed to a 0 to 100 scale.",
+                              "Change from baseline at each post-treatment visit during the Evaluation Period on the target knee in the Visual Analogue Scale (VAS) for pain.\n\nThe Visual analog scale (VAS) pain assessment measures pain intensity. It is a scale of 10 cm in length, representing the subject's pain intensity with higher scores indicating more severe pain. VAS score ranges from 0 to 10 cm, and will be transformed to a \"0 to 100\" mm scale.",
+                              "Change from baseline at each post-treatment visit during the Evaluation Period in the domain scores and total score of SF-36 Quality of Life (QoL) health survey questionnaire.\n\nThe SF-36 Quality of Life (QoL) health survey questionnaire (v2.0) is a standardized, self-evaluated measurement of health status. It has 36 questions to measure functional health and well-being from the patient's point of view. The SF-36 QoL questionnaire consists of 8 scaled scores in various health domains including 4 items in vitality, 10 items in physical functioning, 2 items in bodily pain, 5 items in general health perceptions, 4 items in physical role functioning, 3 items in emotional role functioning, 2 items in social role functioning, and 5 items in mental health. The score for each domain will be transformed to a scale from 0 to 100, on which zero corresponds to \"worst health status\" and 100 to \"best health status\".",
+                              "Changes from baseline in Whole-Organ Magnetic Resonance Imaging Score (WORMS) of the target knee.\n\nMRI performed on the target knee will be used to evaluate the Whole-Organ-MRI Scores (WORMS). The WORMS, diffusion mapping (apparent diffusion coefficient [ADC] and fractional anisotropy [FA]), and T2 map values (it is a value from the worst region for screening visit), will be recorded in the CRF to evaluate the effect on knee cartilage response.\n\nWORMS are used to evaluate the articular cartilage lesions at three joints, including 14 anatomic compartments as follows (Peterfy et al., 2004)",
+                              "Change from baseline in knee joint space width (JSW) of the target knee. Knee X-ray for knee joint space width (JSW) assessment will be performed on anterior-posterior (AP) view, Rosenberg's view, and axial view of patella 45\u00b0 (lateral part and medial part). X-ray will be performed for both knees at Screening Visit, while only for the target knee at the other scheduled visits.",
+                              "Change from baseline in the synovial fluid analysis of the target knee at Week 52, if the subject's knee is suitable for arthrocentesis per investigator's judgment.\n\nThe volume of synovial fluid aspiration will be determined by the investigator and will be recorded in the CRF. The appearance, white blood cell count (WBC), red blood cell count (RBC), lymphocytes, monocytes, and neutrophils will be examined.",
+                              "Percentage of subjects using the rescue medication(s) during Visit 3 to Visit 7 and Visit 3 to Visit 8.\n\nSubjects are allowed to take acetaminophen and/or designated NSAID as rescue medicine to reduce the pain when needed. The acceptable NSAIDs are Etoricoxib and Celebrex. The maximum oral doses for acetaminophen, Etoricoxib, and Celebrex are \u2264 2000 mg/day, \u2264 120 mg/day, and 200 mg/day, respectively, while the topical use of these three rescue medications is allowed at any dose levels.",
+                              "The incidence of adverse event (AE)/serious adverse event (SAE). All AEs will be assessed for severity by the investigator based on NCI-CTCAE v5.0. Further, the investigator will judge if the AE is IP-related. Refer to Section 8.4 for details of AE definition and reporting.",
+                              "Changes from baseline at each post-treatment visit in vital signs. Vital signs measurement will consist of systolic/diastolic blood pressure, respiratory rate, pulse rate, and body temperature. Respiratory rate, pulse rate, and blood pressure (systolic/diastolic) will be obtained after the subject has been at rest for at least 5 minutes in a sitting position. Vital signs will be performed before and one hour after the Chondrochymal\u00ae or HA administration.",
+                              "Changes from baseline at each post-treatment visit in laboratory examination.\n\nLaboratory tests to be measured in this study will consist of the following:\n\nHematology: WBC, RBC, hemoglobin, hematocrit, platelet, neutrophils, lymphocytes, monocytes, eosinophils, basophils, prothrombin time (PT), activated partial thromboplastin time (APTT), and international normalized ratio (INR, Screening only).\nBiochemistry: blood urea nitrogen (BUN), creatinine, albumin, total protein, alanine aminotransferase (ALT), aspartate aminotransferase (AST), total bilirubin, C-reactive protein (CRP), and estimated glomerular filtration rate (eGFR) calculated by the Modification of Diet in Renal Disease (MDRD) equation (screening only).",
+                              "Abnormal findings in physical examination. Physical examination conducted in this study will include the following items: general appearance, skin, eyes, ears, nose, throat, head and neck, heart, chest and lungs, abdomen, extremities, lymph nodes, musculoskeletal, neurological system, and other body systems if applicable for describing the status of the subject's health."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy-Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) assessment",
+                              "Efficacy-Visual Analogue Scale (VAS) assessment",
+                              "Efficacy-SF-36 Quality of Life (QoL) health survey questionnaire",
+                              "Efficacy-Whole-Organ Magnetic Resonance Imaging Score (WORMS)",
+                              "Efficacy-knee joint space width (JSW)",
+                              "Efficacy-synovial fluid",
+                              "Efficacy-rescue medication",
+                              "Safety-AE/SAE based on NCI-CTCAE v5.0",
+                              "Safety-vital signs",
+                              "Safety-laboratory examination",
+                              "Safety-physical examination"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Week 4\u3001Week 12\u3001Week 24\u3001Week 36\u3001Week 52",
+                              "Week 4\u3001Week 12\u3001Week 24\u3001Week 36\u3001Week 52",
+                              "Week 4\u3001Week 12\u3001Week 24\u3001Week 36\u3001Week 52",
+                              "Week 24\u3001Week 52\u3001Week 104",
+                              "Week 24\u3001Week 52",
+                              "Week 52",
+                              "Week 4 to Week 52 \u3001Week 24 to Week 104",
+                              "Week 4\u3001Week 12\u3001Week 24\u3001Week 36\u3001Week 52\u3001Week 104",
+                              "Week 4\u3001Week 12\u3001Week 24\u3001Week 36\u3001Week 52\u3001Week 104",
+                              "Week 4\u3001Week 12\u3001Week 24\u3001Week 36\u3001Week 52\u3001Week 104",
+                              "Week 4\u3001Week 12\u3001Week 24\u3001Week 36\u3001Week 52\u3001Week 104"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05027581"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change in cartilage thickness of the knee using MRI and X-ray",
+                              "Change in joint function from baseline WOMAC assessment",
+                              "The Visual Analog Scale (VAS) is a unidimensional measure of pain intensity. The scale is most commonly anchored by \"no pain \" (score of 0) and \"worst imaginable pain\" (score of 10).",
+                              "Change in arthritis pain scores on the Lequesne Index",
+                              "The knee society score is divided into four parts: it consists of the ''Symptoms''(25 points), the ''Patient satisfaction''(40 points), the ''Patient expectation''(15 points) and the ''Functional activities''(100 points). Each part will be evaluated separately.",
+                              "Change in scores on the QOL"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy - Radiographic evidence",
+                              "Efficacy - WOMAC assessment",
+                              "Efficacy - Visual Analogue Scale(VAS) assessment",
+                              "Efficacy - Lequesne Index assessment",
+                              "Efficacy - Keen Society Score(KSS) assessment",
+                              "Efficacy - QOL assessment"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03589287"
+                        ]
+                  }
+            ]
+      }
+}

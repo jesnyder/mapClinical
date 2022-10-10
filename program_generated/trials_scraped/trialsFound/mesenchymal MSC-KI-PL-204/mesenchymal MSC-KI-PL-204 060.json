@@ -1,0 +1,106 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal MSC-KI-PL-204",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The overall aim of the project is to develop a new method for treatment of untreatable severe hoarseness due to vocal fold scarring by local injection of autologous mesenchymal stromal cells (MSC). At present there is no lasting effective treatment for this condition which results in personal suffering, and often extended sick leave, change of work or unemployement for the patients.\n\nBased on the previous results the investigators expect the autologous MSC product KI-MSC-PL-204 to be a new effective treatment without side effects for many patients with severe hoarseness or aphonia due to vocal fold scarring."
+                        ],
+                        "BriefTitle": [
+                              "A Study of Local Administration of Autologous Mesenchymal Stromal Cells in Dysphonic Patients With Vocal Fold Scarring"
+                        ],
+                        "CentralContactEMail": [
+                              "Stellan.Hertegard@sll.se, Stellan.Hertegard@ki.se",
+                              "Katarina.LeBlanc@ki.se"
+                        ],
+                        "CentralContactName": [
+                              "Stellan Herteg\u00e5rd, Adj Professor. MD PhD",
+                              "Katarina LeBlanc, Professor MD PhD"
+                        ],
+                        "CentralContactPhone": [
+                              "+468585850000",
+                              "+46858580000"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "Swedish Foundation for Strategic Research"
+                        ],
+                        "CompletionDate": [
+                              "June 2023"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Hoarseness",
+                              "Dysphonia",
+                              "Aphonia",
+                              "Vocal Fold; Scar"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000014832",
+                              "D000007818",
+                              "D000012140",
+                              "D000010038",
+                              "D000009461",
+                              "D000009422",
+                              "D000012120",
+                              "D000012818"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Voice Disorders",
+                              "Laryngeal Diseases",
+                              "Respiratory Tract Diseases",
+                              "Otorhinolaryngologic Diseases",
+                              "Neurologic Manifestations",
+                              "Nervous System Diseases",
+                              "Respiration Disorders",
+                              "Signs and Symptoms, Respiratory"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC08",
+                              "BC09",
+                              "BC10"
+                        ],
+                        "NCTId": [
+                              "NCT04290182"
+                        ]
+                  }
+            ]
+      }
+}

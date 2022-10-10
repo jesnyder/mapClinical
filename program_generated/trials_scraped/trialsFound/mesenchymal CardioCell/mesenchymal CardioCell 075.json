@@ -1,0 +1,342 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal CardioCell",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 5,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 5,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M11307",
+                              "M9434",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "The AMI trial will enroll 105 patients with randomization into active vs. sham therapy with 2:1 ratio.\n\nAdditional 5-10 subjects meeting inclusion/exclusion criteria will receive, in a non-blinded fashion, labelled CardioCell to determine the early uptake and retention of IMP in the target ischemic tissues."
+                        ],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [
+                              "The Data and Safety Monitoring Board (DSMB) will be blinded at project start, but may request unblinding if necessary to accommodate effective review of data.\n\nOther than the DSMB (if necessary), the only other \"un-blinded parties\", meaning that they will have knowledge as to the patient's treatment assignment, will be the PBTiK UJ CM employee who participates in randomization utilizing randomization lists and investigational medication preparation."
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03404063"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Heart Failure"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M9695",
+                              "M8571",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Ischemia",
+                              "Heart Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006333"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Heart Failure"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "The CIHF trial will enroll 105 patients with randomization into active and placebo therapy with 2:1 ratio.\n\nAdditional 5-10 subjects meeting inclusion/exclusion criteria will receive, in a non-blinded fashion, labelled CardioCell to determine the early myocardial uptake and retention of IMP."
+                        ],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [
+                              "The Data and Safety Monitoring Board (DSMB) will be blinded at project start, but may request unblinding if necessary to accommodate effective review of data.\n\nOther than the DSMB (if necessary), the only other \"un-blinded parties\", meaning that they will have knowledge as to the patient's treatment assignment, will be the PBTiK UJ CM employee who participates in randomization utilizing randomization lists and investigational medication preparation."
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03418233"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Ischemia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "The N-O CLI trial will enroll 105 patients with randomization into active and sham therapy with 2:1 ratio.\n\nAdditional 5-10 subjects meeting inclusion/exclusion criteria will receive, in a non-blinded fashion, labelled CardioCell to determine the early uptake and retention of IMP in the target ischemic tissues."
+                        ],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [
+                              "The Data and Safety Monitoring Board (DSMB) will be blinded at project start, but may request unblinding if necessary to accommodate effective review of data.\n\nOther than the DSMB (if necessary), the only other \"un-blinded parties\", meaning that they will have knowledge as to the patient's treatment assignment, will be the PBTiK UJ CM employee who participates in randomization utilizing randomization lists and investigational medication preparation."
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03423732"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Heart Failure"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M9695",
+                              "M8571"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Ischemia",
+                              "Heart Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006333"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Heart Failure"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Crossover Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02467387"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "ST-segment Elevation Myocardial Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11307",
+                              "M9434",
+                              "M1072",
+                              "M9695",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "ST Elevation Myocardial Infarction",
+                              "Ischemia",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000072657",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "ST Elevation Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01770613"
+                        ]
+                  }
+            ]
+      }
+}

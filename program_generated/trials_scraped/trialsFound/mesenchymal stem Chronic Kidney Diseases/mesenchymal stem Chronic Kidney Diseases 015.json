@@ -1,0 +1,735 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Chronic Kidney Diseases",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 22,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 22,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Subjects with chronic kidney disease will receive allogeneic bone marrow-derived mesenchymal stem cells (MSC) in two intravenous infusions of 100x10^6 cells at time zero and three months",
+                              "Subjects with chronic kidney disease will receive allogeneic bone marrow-derived mesenchymal stem cells (MSC) single intravenous infusion of 200x10^6 cells"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Allogeneic adipose-derived mesenchymal stem cells (MSC)",
+                              "Drug: Allogeneic adipose-derived mesenchymal stem cells (MSC)"
+                        ],
+                        "ArmGroupLabel": [
+                              "Dose Arm 1",
+                              "Dose Arm 2"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05362786"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Subjects with chronic kidney disease will receive allogeneic adipose tissue-derived mesenchymal stem cells (MSC) in two intravenous infusions of 75x10^6 cells at day 0 and month 3.",
+                              "Subjects with chronic kidney disease will receive a single intravenous infusion of allogeneic adipose tissue-derived mesenchymal stem cells (MSC) of 150x10^6 cells at day 0."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Allogeneic adipose-derived mesenchymal stem cells (MSC)-Two Infusions",
+                              "Drug: Allogeneic adipose-derived mesenchymal stem cells (MSC)-Single Infusion"
+                        ],
+                        "ArmGroupLabel": [
+                              "Dose Arm 1",
+                              "Dose Arm 2"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04869761"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Subjects receive a safety evaluation at 1 month, 3 months, 6 months, 9 months and 12 months after intravenous infusion of Cellgram-CKD 10mL at intervals of 2 weeks (14 days) 3 times.\n\nIn the case of Cellgram-CKD, a milky white cell suspension solution is filled in a colorless and transparent plastic syringe, and the syringe tip is fixed with an obturator."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Cellgram-CKD"
+                        ],
+                        "ArmGroupLabel": [
+                              "Cellgram-CKD"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05042206"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "MSCs Participants will receive HUC-MSCs",
+                              "Comparator participants will receive saline solution"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: UC-MSC",
+                              "Biological: Saline solution"
+                        ],
+                        "ArmGroupLabel": [
+                              "Experimental",
+                              "Comparator"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05512988"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Adipose tissue-derived mesenchymal stem cells were used to treat patients with chronic renal failure.",
+                              "Treatment of chronic renal failure patients with conventional methods."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Treatment group",
+                              "Drug: Control group"
+                        ],
+                        "ArmGroupLabel": [
+                              "Treatment group",
+                              "Control group"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03321942"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Intravenous injection of mesenchymal stem cell in patients with PKD"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Intravenous injection autologous mesenchymal stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "mesenchymal stem cell transplantation"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02166489"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "The patients with CKD who underwent intravenous injection of MSC."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Intravenous injection"
+                        ],
+                        "ArmGroupLabel": [
+                              "MSC recipient"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02195323"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Single intravenous infusion of 100 million cells"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: AlloRx"
+                        ],
+                        "ArmGroupLabel": [
+                              "Treatment Group (AlloRx)"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05018845"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Observational Only",
+                              "The drugs dasatinib and quercetin will be used in this arm"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Group 2: Dasatinib",
+                              "Drug: Group 2: Quercetin"
+                        ],
+                        "ArmGroupLabel": [
+                              "Group 1: Observational",
+                              "Group 2: Dasatinib & Quercetin"
+                        ],
+                        "ArmGroupType": [
+                              "No Intervention",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02848131"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Fisetin 20 mg/kg/day, orally for 2 consecutive days",
+                              "Placebo capsules orally for 2 consecutive days"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Dietary Supplement: Fisetin",
+                              "Drug: Placebo oral capsule"
+                        ],
+                        "ArmGroupLabel": [
+                              "Treatment",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03325322"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "Acronym": [
+                              "CKD"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Intervention of conventional therapy group: controlling blood pressure using amlodipine, valsartan, metoprolol and terazosin and so on , protecting the renal function using bailing capsule, alpha keto acid, low molecular weight heparin and so on.",
+                              "Intervention of Rituximab combined with mesenchymal stem cells group: as follows, Rituximab, 100mg/time every one week, the infusion should be a total of 4 times; and then after at least 4 days interval after the first and the third infusion of the Rituximab , the dosage of mesenchymal stem cells tends to be 10^6/kg/time every 2 weeks, while the infusion should be a total of 2 times."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: conventional therapy",
+                              "Drug: Rituximab",
+                              "Drug: Mesenchymal stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "parallel control of conventional therapy",
+                              "experimental group"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02966717"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "Acronym": [
+                              "StemCell&CKD"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Participants having a harvested total \"Adipose Derived Stem Cell (ADSC)\" count (in 5 ml SVF solution) more than 1 x 10^6.\n\nGenetic: SVF containing Autologous Non Expanded ADSC."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: SVF Containg Autologous Non Expanded ADSC"
+                        ],
+                        "ArmGroupLabel": [
+                              "Group A"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03939741"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "Acronym": [
+                              "URISTEM"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "estimated Glomerular Filtration Rate (eDFG) \u2265 60 ml/min/1.73 m2\nBody Mass Index (BMI) > 30 kg/m2\nMicroalbuminuria / creatinuria \u2264 3mg / mmol and / or proteinuria < 0.15 g/24h",
+                              "estimated Glomerular Filtration Rate (eDFG) < 60 ml/min/1.73 m2\nBody Mass Index (BMI) > 30 kg/m2\nMicroalbuminuria / creatinuria \u2264 3mg / mmol and / or proteinuria < 0.15 g/24h",
+                              "estimated Glomerular Filtration Rate (eDFG) < 60 ml/min/1.73 m2\nBody Mass Index (BMI) between 18 and 30 kg/m2\nMicroalbuminuria / creatinuria \u2264 3mg / mmol and / or proteinuria < 0.15 g/24h",
+                              "estimated Glomerular Filtration Rate (eDFG) \u2265 60 ml/min/1.73 m2\nBody Mass Index (BMI) between 18 and 30 kg/m2\nMicroalbuminuria / creatinuria \u2264 3mg / mmol and / or proteinuria < 0.15 g/24h"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: urine collection",
+                              "Biological: urine collection",
+                              "Biological: urine collection",
+                              "Biological: urine collection"
+                        ],
+                        "ArmGroupLabel": [
+                              "Obese patients with normal renal function",
+                              "Obese patients with impaired renal function",
+                              "Non-obese patients with impaired renal function",
+                              "Non-obese patients with normal renal function (control group)"
+                        ],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04998461"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Human amniotic mesenchymal stem cells (hAMSCs)"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: Human amniotic mesenchymal stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Uremic Calciphylaxis Patients"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04592640"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "transplantation of mesenchymal stem cell"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: mesenchymal stem cell"
+                        ],
+                        "ArmGroupLabel": [
+                              "1"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT00659620"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "To determine hemodynamic and immunologic changes associated with intra-renal delivery of adipose-derived MSC into human subjects with advanced RVD.",
+                              "To test adjunctive delivery of MSC to individuals with advanced RVD undergoing renal artery stenting."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Mesenchymal stem cell",
+                              "Drug: Mesenchymal stem cell",
+                              "Procedure: Mesenchymal stem cell delivery with stent placement"
+                        ],
+                        "ArmGroupLabel": [
+                              "Mesenchymal stem cell delivery",
+                              "Mesenchymal stem cell delivery with stent placement"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02266394"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Patients will undergo a subcutaneous fat biopsy for expansion of mesenchymal stromal (stem) cells (MSC) in the Human Cell Therapy Laboratory. Patients will be admitted to the inpatient Clinical Research Unit of the Mayo Clinic Center for 3 days prior to treatment, for pre-infusion tests. Renal angiography will be performed to deliver a single intra-arterial dose of MSC's into one affected kidney. Patients will be observed for 24 hours for acute adverse events. Patients will have remote visits at 1 week, 4 weeks,8 weeks, and 6 months. At 3 months, patients will return for repeat evaluation of kidney function, blood flow and structural alterations within the clinical research unit at St. Mary's Hospital, Rochester, Minnesota. Thereafter, health assessment and blood draws will be repeated at 12 and 24 months with urinary cytology and MRI."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Arterial infusion of autologous mesenchymal stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "infusion of autologous mesenchymal stem cells"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01840540"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "Acronym": [
+                              "UC-MSCs"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Conventional treatment plus UC-MSCs:\n\nParticipants will receive conventional treatment plus 3 times of UC-MSCs (1*10E6 UC-MSCs/kg body weight/100mL intravenously at week 1, week 2\uff0cweek3).",
+                              "Conventional treatment plus Placebo:\n\nWithout UC-MSCs therapy but conventional treatment should be received. Participants will receive conventional treatment plus 3 times of Placebo intravenously at week 1, week 2\uff0cweek3."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: UC-MSCs",
+                              "Drug: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "UC-MSCs treatment group",
+                              "Placebo control group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04562025"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Human umbilical cord mesenchymal stem cells were given to each diabetic nephropathy subject once a month, peripheral intravenous injection, a total of three times"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Human umbilical cord mesenchymal stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Human umbilical cord mesenchymal stem cells"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04125329"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "This arm will receive autologous adipose-derived Mesenchymal stem/stromal cells (MSC) Lower Dose.",
+                              "This arm will receive autologous adipose-derived Mesenchymal stem/stromal cells (MSC) Higher Dose"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Autologous adipose-derived mesenchymal stem/stromal cells (MSC) Lower Dose",
+                              "Biological: Autologous adipose-derived mesenchymal stem/stromal cells (MSC) Higher Dose"
+                        ],
+                        "ArmGroupLabel": [
+                              "Lower Dose MSC",
+                              "Higher Dose MSC"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03840343"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "20 participants with symptomatic knee osteoarthritis and ultrasonography defined effusion-synovitis will take natural Senolytic agents.\n\nThe senolytic agents act by Hit-and-run strategy therefore, intermittent dosing regimens will be applied. 1250 mg/day quercetin + 1000mg/day Fisetin for 3 consecutive days every 3 weeks.over 12 weeks",
+                              "20 participants with symptomatic knee osteoarthritis and ultrasonography-defined effusion-synovitis will take Quercetin 1250 mg + Fisetin 1000 mg for 3 consecutive days followed by 100mg/day Glycyrrhizin for one week every 3 weeks over 12 weeks .",
+                              "Placebo controlled group"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Quercetin Cap/Tab ,Fisetin Cap/Tab",
+                              "Drug: Quercetin Cap/Tab,Fisetin Cap/tab,Glycyrrhizin capsules",
+                              "Other: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "(Quercetin +Fisetin)",
+                              "Quercetin +Fisetin +Glycyrrhizin)",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Active Comparator",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05276895"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Subjects diagnosed with End Stage Renal Disease (ESRD) and are currently on hemodialysis therapy with planned creation of a new upper extremity arteriovenous fistula will receive Adipose Derived Mesenchymal Stem Cells treatment."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Adipose Derived Mesenchymal Stem Cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Adipose Derived Mesenchymal Stem Cells"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04392206"
+                        ]
+                  }
+            ]
+      }
+}

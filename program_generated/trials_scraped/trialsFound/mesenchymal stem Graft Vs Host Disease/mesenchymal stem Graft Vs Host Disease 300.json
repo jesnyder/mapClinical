@@ -1,0 +1,2107 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Graft Vs Host Disease",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 60,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 60,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Progression-Free-Survival"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "PFS"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "From admission to the end of follow up, up to 2 years."
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05152160"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Infusional toxicity",
+                              "Risk of relapse"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "48 hours",
+                              "One year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00314483"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "EudraCT Number: 2005-003674-14"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Evaluation of infectious complications after MSC infusion.",
+                              "Analyse the influence of MSC infusion on the posttransplant relapse risk of the base disease.",
+                              "Study the influence of MSC infusion on DFS and OS.",
+                              "Determine MSC grafted into the bone marrow (or in other organs)."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00447460"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Partial response: with a decrease at least of one degree of GVHD",
+                              "VGPR: decrease to the stage I of GVHD",
+                              "Stable disease: when there is a stability of the disease (by Clinical evaluation)",
+                              "Number of infection (by Clinical and laboratory evaluation)",
+                              "Type of infection (by Clinical and laboratory evaluation)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "It will be evaluated the patients response who received MSC infusion or conventional therapy in the 28th day of the study.",
+                              "It will be evaluated the patients response who received MSC infusion or conventional therapy in the 28th day of the study.",
+                              "It will be evaluated the patients response who received MSC infusion or conventional therapy in the 28th day of the study.",
+                              "First 100 days after transplant",
+                              "First 100 days after transplant"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02770430"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2010-020947-11"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Acute Graft-Versus-Host Disease response rate."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "efficacy"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Acute Graft-Versus-Host Disease period (100 days)"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01956903"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Toxic side effects of treatment includes acute toxicity and late side effects. Acute toxicity principally involves the heart,live and kidney. Late toxic side effects involves principally the development of secondary tumors and relapse of the primary disease."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "acute and late toxic side effects of MSCs treatment"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01765634"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Toxic side effects of treatment includes acute toxicity and late side effects. Acute toxicity principally involves the heart,live and kidney. Late toxic side effects involves principally the development of secondary tumors and relapse of the primary disease."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "acute and late toxic side effects of MSCs treatment"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01765660"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Protocol 260 - Partial Response or Improvement of GVHD by Day 28 in one or more organs involved with GVHD symptoms at Day 1,",
+                              "Protocol 260 - Time to best response of GVHD",
+                              "Protocol 260 - Time to improvement of GVHD in one or more organs",
+                              "Protocol 261 - Survival through study day 90"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "28 Days",
+                              "28 Days",
+                              "28 Days",
+                              "90 Days"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Click here for more information on Prochymal\u00ae for treatment of GVHD"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.osiristx.com"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00136903"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "one-year survival rate",
+                              "disease relapse",
+                              "quality of life"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year after MSCs administration",
+                              "2 years after MSCs administration",
+                              "2 years after MSCs administration"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01526850"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Overall Survival",
+                              "Events Free Survival",
+                              "The percentage of patients who can taper or discontinue the immunosuppressive agents",
+                              "Serum cytokine levels and lymphocyte subsets in patients with chronic GVHD"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Randomization until death or two years post last subject last treatment visit (or clinical cutoff)",
+                              "Randomization until death or two years post last subject last treatment visit (or clinical cutoff)",
+                              "Randomization untill two years post the last subject last treatment visit (or clinical cutoff)",
+                              "Achieve best response within the first 3 months after randomization"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00972660"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Clinical response was evaluated base on GVHD grding system\n\nCR (Complete Response)\nPR (Partial Response)\nSD (Stable Disease)\nPD (Progressive Disease)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "GVHD clinical response"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Within the first 5 week"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01318330"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "P30CA043703",
+                              "CASE-CWRU-3Y03"
+                        ],
+                        "SecondaryIdDomain": [
+                              "Case Comprehensive Cancer Center"
+                        ],
+                        "SecondaryIdLink": [
+                              "https://reporter.nih.gov/quickSearch/P30CA043703"
+                        ],
+                        "SecondaryIdType": [
+                              "U.S. NIH Grant/Contract",
+                              "Other Identifier"
+                        ],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Complete and partial resolution of graft-vs-host disease (GVHD)",
+                              "Cytokine levels, lymphocyte subsets, and donor-reactive lymphocyte numbers in patients with acute GVHD"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Patients will be evaluated for clinical signs and symptoms of GVHD weekly for up to 28 days.",
+                              "Pre-transplant, at diagnosis, 7 and 14 days after MSC infusion"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00361049"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Percentage of patients in each group that may potentially reduce corticosteroids at week 7, 20 and 42, started immunosuppressive treatment and percentage of patients at week 56 have been suspended on full immunosuppressive treatment",
+                              "Overall survival and disease-free survival.",
+                              "Changes in lymphocyte subsets and levels of inflammatory and antiinflammatory cytokines in each of the groups."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Andalusian Initiative for Advanced Therapies"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.juntadeandalucia.es/terapiasavanzadas/"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01222039"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Frequency of complications, infections and relapse"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in self-assessed disease activity and quality of life",
+                              "Safety"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline to 6 months",
+                              "Baseline to 21 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02055625"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2016-000070-38"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Proportion of participants who show a Complete Response (absence of any signs or symptoms of GvHD) by Day 28",
+                              "Proportion of participants who show a Partial Response (improvement in the severity of GvHD by at least one grade compared to baseline) by Day 28",
+                              "Proportion of participants who survive until Day 28",
+                              "Proportion of participants who show a Complete Response by Day 100",
+                              "Proportion of participants who show a Partial Response by Day 100",
+                              "Proportion of participants who survive until Day 100"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Complete Response by Day 28",
+                              "Partial Response by Day 28",
+                              "Overall Survival at Day 28",
+                              "Complete Response by Day 100",
+                              "Partial Response by Day 100",
+                              "Overall Survival at Day 100"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "100 days",
+                              "100 days",
+                              "100 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02923375"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "1. Hematopoietic engraftment and graft rejection. 2. Incidence of grade II-IV and III-IV acute GVHD. 3. Immunologic reconstitution"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "365 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00504803"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Complete Response(CR) rate(%) = (Number of CR/Number of Participants)x100\nPartial Response(PR)rate(%) = (Number of PR/Number of Participants)x100"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Complete, Partial Response Rate at 28 and 180 Days in participants with SR-GVHD treated with UCB-MSC"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "180 Days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01549665"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Overall survival",
+                              "Relapse-free survival",
+                              "Infection rate"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Every 30 day for 1 year after BMT",
+                              "Every 30 day for 1 year after BMT",
+                              "Every 30 day for 1 year after BMT"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01941394"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Overall survival (OS)",
+                              "Disease-free survival (DFS)",
+                              "EBV DNA-emia refers to detection of EBV DNA in peripheral blood via PCR.",
+                              "CMV DNA-emia refers to detection of CMV DNA in peripheral blood via PCR.",
+                              "Poor graft function (PGF) refers to a slow or incomplete recovery of blood cell counts (ANC \u22640.5x10^9/L and PLT \u226420x10^9/L) by +28 days after allo-HSCT or a fall in blood cell counts to levels fulfilling the diagnostic criteria for PGF after successful and prompt hematopoietic engraftment."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "OS",
+                              "DFS",
+                              "Response rate",
+                              "EBV DNA-emia",
+                              "CMV DNA-emia",
+                              "PGF"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year after the first dose of MSCs",
+                              "1 year after the first dose of MSCs",
+                              "4 weeks after the first dose of MSCs",
+                              "1 year after the first dose of MSCs",
+                              "1 year after the first dose of MSCs",
+                              "1 year after the first dose of MSCs"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04692376"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Percentage of participants who survived at 180 days post first infusion."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Overall Survival at 180 days Post First Infusion"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Day 180"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Description Click here for more information about this study: A Phase III Study to Evaluate the Efficacy and Safety of Prochymal\u00ae (Ex vivo Cultured Adult Human Mesenchymal Stem Cells) Infusion for the Treatment of Steroid-Refractory Acute GVHD"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.osiris.com"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00366145"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "ResultsFirstSubmitDate": [
+                              "April 8, 2019"
+                        ],
+                        "ResultsFirstSubmitQCDate": [
+                              "April 8, 2019"
+                        ],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "15-H-0088"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02379442"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Documenting patients' survival status after 6 months of receiving MSC infusion\n\nTo document relapse of hematological malignancies post-MSC infusion.\n\nEvaluation of late infectious complications or toxicities after MSC infusion.",
+                              "To document rate of GVHD recurrence in patients after MSC infusion."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Survival analysis at six months after MSC infusion",
+                              "Incidence free survival at six months after MSC infusion"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months",
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02824653"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Defined as the cumulative incidence of relapse after the day of transplantation.",
+                              "chronic graft versus host disease will be diagnosed and graded by National Institute of Health Consensus (NIH Consensus).",
+                              "Defined as cumulative incidence of viral, fungal and bacterial infections.",
+                              "Defined as the cumulative incidence of lymphoproliferative disease after the day of transplantation."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Cumulative relapse incidence",
+                              "cumulative incidence of chronic GVHD at one year",
+                              "Cumulative Incidence of Infectious Complications",
+                              "Cumulative Incidence of lymphoproliferative disease"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "180 days",
+                              "180 days",
+                              "180 days",
+                              "180 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05531266"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00749164"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Complete response is defined as a complete resolution of GVHD.",
+                              "GVHD will be graded by organ (skin, liver, and gastrointestinal [GI])",
+                              "Starting at the day 14 evaluation, if the acute GVHD continues to be unresponsive or worsens, additional agents or changes in immunosuppresive therapy will be at discretion of the Investigator per institutional standards.",
+                              "Defined as ectopic tissue formation of greater than 1.0 centimeter (cm) evaluated by comparison CT scan from screening to day 90."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Proportion of participants who achieve a complete response (CR) of aGVHD by study day 42",
+                              "Proportion of participants with improvement of GVHD in 1 or more organs involved with GVHD by day 42",
+                              "Occurrence of addition of escalated immunosuppressive therapy by day 90",
+                              "Occurrence of Formation of ectopic tissue foci at day 90"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "42 days",
+                              "42 days",
+                              "90 days",
+                              "90 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03158896"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Toxicity of MSC infusion"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "180 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00603330"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Complete, partial response rate at 28 and 180 days\nComplete response(CR)rate (%)=(number of CR/number of participants)*100%\nPartial response(PR)rate (%)=(number of PR/number of participants)*100%"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy of UC-MSC in patients with acute graft-versus-host disease"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "180 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01754454"
+                        ]
+                  },
+                  {
+                        "Rank": 28,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Infections are mainly focused on cytomegalovirus (CMV) and Epstein-Barr virus ( EBV) infections during study treatments and within one year after study treatments."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Incidence of infections",
+                              "Incidence of primary underlying disease relapse",
+                              "Incidence of chronic GVHD"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year",
+                              "1 year",
+                              "1 year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02241018"
+                        ]
+                  },
+                  {
+                        "Rank": 29,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00826046"
+                        ]
+                  },
+                  {
+                        "Rank": 30,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00759018"
+                        ]
+                  },
+                  {
+                        "Rank": 31,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The final score ranges from 0 (better outcome) to 126 (worse outcome)",
+                              "The final score ranges from 0 (better outcome) to 164 (worse outcome)",
+                              "The final score ranges from 0 (better outcome) to 92 (worse outcome)",
+                              "The final score ranges from 0 (better outcome) to 100 (worse outcome)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Overall survival (OS) rate at 3 months",
+                              "Correlation between response to Cyto-MSC at Day 14 and Day 28 to survival at 90 days",
+                              "Relapse-free survival at 3 months",
+                              "Disease relapse at 3 months",
+                              "Incidence of infection",
+                              "Incidence of CMV reactivation",
+                              "Measurement quality of life of cancer patients by using EORTC QLQ-C30 questionnaire",
+                              "Measurement quality of life in bone marrow transplantation by using FACT-BMT questionnaire",
+                              "Measurement of health-related quality of life in children and young people by using PEDsQL questionnaire (patients age less than 18 years old)",
+                              "Measurement of generic health status among patients by using EQ-5D questionnaire"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "3 months",
+                              "90 days",
+                              "3 months",
+                              "3 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03847844"
+                        ]
+                  },
+                  {
+                        "Rank": 32,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05167188"
+                        ]
+                  },
+                  {
+                        "Rank": 33,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2008-007869-23"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Complete resolution of GvHD: Control of all signs and symptoms attributed to acute GvHD\nPartial resolution of GvHD: Control of some signs and symptoms attributed to acute GvHD with an improvement of overall grade\nRefractory GvHD: No change in signs or symptoms of GvHD within 10 days of MSC infusion.\nWorsening GvHD: Any progress of GvHD signs and symptoms that increase overall grade. a and b will be defined as response. c and d will be defined as no response."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Number of patients with GvHD resolution",
+                              "Determination of recurrence of GvHD",
+                              "Relapse of haematological disease",
+                              "Survival"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "One month",
+                              "After 1 month from MSCs infusion",
+                              "Every three months",
+                              "Every three months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01764100"
+                        ]
+                  },
+                  {
+                        "Rank": 34,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Improvement of GVHD by Day 28 in one or more organs involved with GVHD symptoms at day 1",
+                              "Best stage of each involved organ by Day 28",
+                              "Time to improvement or resolution of GVHD in one or more organs",
+                              "Adverse events",
+                              "Infusional toxicity",
+                              "Overall relapse of underlying disease",
+                              "Overall survival",
+                              "Formation of ectopic tissue foci",
+                              "Incidence of infection"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Day 1",
+                              "Day 28",
+                              "Up to approximately 12 months",
+                              "Up to approximately 12 months",
+                              "Up to approximately 12 months",
+                              "Up to approximately 12 months",
+                              "Up to approximately 12 months",
+                              "Up to approximately 12 months",
+                              "Up to approximately 12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00284986"
+                        ]
+                  },
+                  {
+                        "Rank": 35,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The time from randomization to death for any reason ( the last follow-up time for missing patients; end date of follow-up for patients who are live at the end of the study).",
+                              "improvement of aGVHD staging in one or more organs without progression in other organs",
+                              "Acute toxicity responses include impaired function of heart, kidney and liver"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Overall survival",
+                              "Rate of partial remission",
+                              "Infusion toxicity"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "At the end of Week 4 / 8 / 12 / 24 / 52.",
+                              "4 weeks after treatment",
+                              "From the beginning of to four hours after every infusion of UC-MSC"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04738981"
+                        ]
+                  },
+                  {
+                        "Rank": 36,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Acute GVHD Staging per BMT MOP\n\nStage 1:\n\nSkin: Maculopapular Rash < 25% body surface area (BSA)\nGastrointestinal (GI): Diarrhea < 500 mL/day or persistent nausea\nLiver: Total bilirubin 2.1-3 mg/dL\n\nStage 2:\n\nSkin: Maculopapular Rash 25-50% BSA\nGastrointestinal (GI): Diarrhea > 500 mL/day\nLiver: Total bilirubin 3.1-6 mg/dL\n\nStage 3:\n\nSkin: Maculopapular Rash > 50% BSA\nGastrointestinal (GI): Diarrhea > 1000 mL/day\nLiver: Total bilirubin 6.1-15 mg/dL\n\nStage 4:\n\nSkin: Generalized erythroderma with bullae\nGastrointestinal (GI): Diarrhea > 1500 mL/day\nLiver: Total bilirubin >15 mg/dL",
+                              "the number of participants that had acute GVHD incidence",
+                              "To evaluate the total number of adverse events attributed to MSC and ECP therapy",
+                              "number of participants with adverse events (above or equal to grade 3) attributed to MSC and ECP therapy",
+                              "Average time to relapse. The Kaplan-Meier method will be used to estimate survivor function",
+                              "the number of participants that had Chronic GVHD incidence",
+                              "Average OS. The Kaplan-Meier method will be used to estimate survivor function",
+                              "change in steroid dose from day 1 to day 28",
+                              "Percentage of patients who are no longer taking systemic corticosteroids at day 28",
+                              "Quality of life survey scores measured by change in FACT-BMT survey scores. The Functional Assessment of Cancer Therapy-General (FACT-G) subscales, total score on their 12-item BMT subscale including physical, social, emotional and functional well-being measured over time will be summarized by mean and standard deviation at each time point.\n\nThe QOL data will be further analyzed using repeated measures regression models, i.e., mixed-effects models 28-30 ,28-30 with an unstructured covariance matrix and a categorical effect of time to calculate between-group differences in improvement from baseline in these QOL outcomes",
+                              "T cell subsets in responders vs. nonresponders as measured by percent Tregs",
+                              "T cell subsets in responders vs. nonresponders as measured by cluster of differentiation (CD)4:CD8 ratio"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "aGVHD severity per Blood and Marrow Transplant Clinical Trials Network Manual of Operations (BMT MOP).",
+                              "aGVHD incidence",
+                              "Safety as measured by number of adverse events attributed to MSC and ECP therapy",
+                              "Safety as measured by severity of adverse events attributed to MSC and ECP therapy",
+                              "Number of participants with non-relapse mortality (NRM)",
+                              "Number of participants with relapse-related mortality",
+                              "Average time to relapse",
+                              "Chronic GVHD incidence",
+                              "Overall Survival (OS)",
+                              "Steroid dose decrease",
+                              "Steroid discontinuation rate",
+                              "Change in FACT-BMT (Functional Assesment of Cancer Therapy-Bone Marrow Transplant) survey score",
+                              "Percent regulatory T cells (% Tregs)",
+                              "CD4:CD8 ratio"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "100 days post-intervention",
+                              "100 days post-intervention",
+                              "Day 30",
+                              "Day 30",
+                              "1 year",
+                              "1 year",
+                              "1 year",
+                              "At 1 year from the start of treatment",
+                              "1 year",
+                              "Up to day 28",
+                              "Up to day 28",
+                              "1 year",
+                              "Up to 1 year after treatment",
+                              "Up to 1 year after treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05333029"
+                        ]
+                  },
+                  {
+                        "Rank": 37,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Response of acute GVHD",
+                              "Determination of incidence of chronic GVHD",
+                              "Survival"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months",
+                              "6 months",
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00827398"
+                        ]
+                  },
+                  {
+                        "Rank": 38,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Effect of mesenchymal stem cells on graft versus host disease incidence in haploidentical stem cell transplantation",
+                              "Effect of mesenchymal stem cells on graft failure incidence in haploidentical stem cell transplantation"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "36 months",
+                              "36 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03106662"
+                        ]
+                  },
+                  {
+                        "Rank": 39,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Overall survival",
+                              "Progression-free survival",
+                              "Time without systemic immunosuppression",
+                              "Cumulative incidents of non-relapse mortality",
+                              "Adverse events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "2 year",
+                              "2 year",
+                              "2 year",
+                              "2 year",
+                              "2 year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02291770"
+                        ]
+                  },
+                  {
+                        "Rank": 40,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "CTN 2012/0174"
+                        ],
+                        "SecondaryIdDomain": [
+                              "Therapeutics Goods Administration, Government of Australia"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Other Identifier"
+                        ],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Response at 14 days after commencement of treatment for acute graft versus host disease",
+                              "Response at 28 days after commencement of treatment of acute graft versus host disease",
+                              "Incidence of severe infection",
+                              "Disease free survival at one year",
+                              "Time to treatment failure, requiring salvage therapy"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "14 days",
+                              "28 days",
+                              "One year",
+                              "One year",
+                              "28 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01589549"
+                        ]
+                  },
+                  {
+                        "Rank": 41,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "- AGVHD grade"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "100 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00823316"
+                        ]
+                  },
+                  {
+                        "Rank": 42,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The investigator placed a paper strip on the eye under the lower lid for a specified time period. The length of the strip wetted by the tears was measured in millimeters. Baseline-adjusted values were tabulated; a positive number change from baseline indicates an improvement in each eye individually.",
+                              "time required for dry spots to appear on the surface of the eye after blinking was measured in seconds. Baseline-adjusted scores were tabulated; a positive number change from baseline indicates improvement in each eye individually",
+                              "Damage to the ocular surface was assessed using non-toxic ophthalmic dye during slit-lamp review. Corneal and conjunctival staining were graded as per the National Eye Institute (NEI) pictorial scale. The lower the score, the less signs of dry eye disease a patient exhibits. Baseline-adjusted scores were tabulated; a negative number change from baseline indicates an improvement in each eye individually\n\nDamage to the ocular surface was assessed using non-toxic ophthalmic dye during slit-lamp review. Corneal and conjunctival staining were graded as per the National Eye Institute (NEI) pictorial scale. The lower the score, the less signs of dry eye disease a patient exhibits. Baseline-adjusted scores were tabulated; a negative number change from baseline indicates an improvement in each eye individually",
+                              "to understand the effect of exosomes on visual acuity",
+                              "Description: to explore the effect of exosomes on conjunctiva. Nasal and temporal bulbar conjunctival hyperemia were graded separately in each eye by the investigator under slit-lamp magnification by assigning a score of 0 to 4 for each quadrant based on comparison to the Allergan Dry Eye Redness Scale with photographic reference where: 0=Normal, vessels of bulbar conjunctiva are easily observed; 1=Trace redness; 2=Mild redness; 3=Moderate redness; 4=Severe redness, and each score is associated with a reference photo.",
+                              "Description: to reflect the effect of exosomes on tear production. the distance between the line of reflection along the top of the tear prism to the edge of the eyelid was measured in millimeters. Baseline-adjusted scores were tabulated; a positive number change from baseline indicates improvement. Each eye was assessed individually. Both eyes contributed to the mean."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Changes in tear secretion amount by Schirmer's Test",
+                              "Changes in Tear break time",
+                              "Changes in Ocular Surface Staining",
+                              "Changes in best corrected visual acuity (BCVA).",
+                              "Changes in conjunctiva redness score",
+                              "Changes in tear meniscus height"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "3 days, 2 weeks, 3 weeks, 4 weeks, 6 weeks, 8 weeks, 10 weeks, 12 weeks",
+                              "3 days, 2 weeks, 3 weeks, 4 weeks, 6 weeks, 8 weeks, 10 weeks, 12 weeks",
+                              "3 days, 2 weeks, 3 weeks, 4 weeks, 6 weeks, 8 weeks, 10 weeks, 12 weeks",
+                              "3 days, 2 weeks, 3 weeks, 4 weeks, 6 weeks, 8 weeks, 10 weeks, 12 weeks",
+                              "3 days, 2 weeks, 3 weeks, 4 weeks, 6 weeks, 8 weeks, 10 weeks, 12 weeks",
+                              "3 days, 2 weeks, 3 weeks, 4 weeks, 6 weeks, 8 weeks, 10 weeks, 12 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04213248"
+                        ]
+                  },
+                  {
+                        "Rank": 43,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Adverse events that are related to treatment"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03631589"
+                        ]
+                  },
+                  {
+                        "Rank": 44,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2014-005533-32"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Effectiveness will be measured in terms of:\n\nAnswer of refractory acute graft disease against host to first-line treatment"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Effectiveness measured by answer of refractory acute graft disease against host to first-line treatment"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "2 years"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02687646"
+                        ]
+                  },
+                  {
+                        "Rank": 45,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Number of Subjects Alive at 12 months Post Transplant",
+                              "Return of SAA during the specified post-transplantation period.",
+                              "Number of patients with chronic graft-versus-host disease by 6 months and 1 year",
+                              "Occurring of any tumors during the specified post-transplantation period.",
+                              "Association between AD-HSC transplantation and response in hemoglobin, platelet, total white blood cell count, and absolute neutrophil count to be evaluate by maximal hemoglobin, platelet, total white blood cell count, and absolute neutrophil counts achieved in patients with severe aplastic anemia",
+                              "Adverse events like allergic reactions, infectious diseases, organ dysfunction or other related to AD-HSC infusion will be assessed",
+                              "Units of blood or platelets transfused after AD-HSC infusion will be measured and compared to previously.",
+                              "Number of death after transplantation during the specified post-transplantation period."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "To estimate the overall survival (OS) at 1 year following AD-HSC transplantation for Patients with Severe Aplastic Anemia",
+                              "Relapse",
+                              "Incidence of chronic graft-versus-host disease",
+                              "Evaluation of the occurrence of secondary malignancies",
+                              "Hematology labs",
+                              "Number of participants with adverse events as a measure of safety and tolerability of intravenous AD-HSC infusion in patients with severe aplastic anemia",
+                              "Transfusional requirements",
+                              "To assess treatment related mortality"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year",
+                              "1 year post transplant",
+                              "6 months",
+                              "6 months post transplant",
+                              "12 weeks",
+                              "weekly untill 12 months",
+                              "weekly untill 6 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02407470"
+                        ]
+                  },
+                  {
+                        "Rank": 46,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02829216"
+                        ]
+                  },
+                  {
+                        "Rank": 47,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Determine MTD of OSSM-001"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Maximum tolerated dose (MTD)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "112 days (16 weeks)"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05443464"
+                        ]
+                  },
+                  {
+                        "Rank": 48,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "ORR is defined as the percentage of participants who achieve complete response (CR) or partial response (PR). Response is defined by the National Institutes of Health (NIH) Consensus Development Project Criteria (2014) and must occur, in the absence of new therapy for chronic graft versus host disease (cGVHD) and absence of progression of underlying disease or death. CR: Resolution of all manifestations in each organ or site. PR: Improvement in at least 1 organ or site without progression in any other organ or site. cGVHD Progression: Clinically meaningful worsening in 1 or more organs regardless of improvement in other organs.",
+                              "Percentage of participants with organ-specific assessments is defined as rate of NIH defined CR or PR.",
+                              "Patient-reported Chronic GVHD-specific Measures are defined by the National Institutes of Health (NIH) Consensus Development Project Criteria (2014).",
+                              "Global Rating(0~3)/Scale(0~10) of clinician-assessed chronic GVHD-specific measures are defined by the National Institutes of Health (NIH) Consensus Development Project Criteria (2014).",
+                              "Failure-free survival, defined as absence of relapse, death and addition of new treatment, survival free of impairment, or reduction in steroid dosing that do not rely on direct assessment of organ responses."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Percentage of Participants who Achieve Complete Response (CR) or Partial Response (PR) (i.e. Overall Response Rate [ORR]).",
+                              "Organ-specific Assessments",
+                              "Patient-Reported Outcomes",
+                              "Clinician-Assessed Global Rating/Scale",
+                              "Failure-free Survival"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Week 0, 2, 4, 6, 8, 16, 20, 24 and 48",
+                              "Week 0, 2, 4, 6, 8, 16, 20, 24 and 48",
+                              "Week 0, 2, 4, 6, 8, 16, 20, 24 and 48",
+                              "Week 0, 2, 4, 6, 8, 16, 20, 24 and 48",
+                              "Week 24 and 48"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04189432"
+                        ]
+                  },
+                  {
+                        "Rank": 49,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "NCI-2020-06741",
+                              "2020-0365"
+                        ],
+                        "SecondaryIdDomain": [
+                              "CTRP (Clinical Trial Reporting Program)",
+                              "M D Anderson Cancer Center"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Registry Identifier",
+                              "Other Identifier"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Will be estimated and reported with 95% confidence intervals.",
+                              "Will be estimated and reported with 95% confidence intervals.",
+                              "Will be estimated and reported with 95% confidence intervals.",
+                              "Will be estimated and reported with 95% confidence intervals.",
+                              "Will be estimated and reported with 95% confidence intervals.",
+                              "The effect of MSCs on clinical parameters will be assessed. Continuous clinical parameters will be summarized by means, medians, standard deviations, ranges, and quartiles. Categorical parameters will be summarized by frequency tables.",
+                              "The effect of MSCs on oxygenation parameters will be assessed. Continuous oxygenation parameters will be summarized by means, medians, standard deviations, ranges, and quartiles. Categorical parameters will be summarized by frequency tables.",
+                              "The effect of MSCs on respiratory parameters will be assessed. Continuous respiratory parameters will be summarized by means, medians, standard deviations, ranges, and quartiles. Categorical parameters will be summarized by frequency tables.",
+                              "The effect of MSCs on laboratory markers will be assessed. Continuous laboratory parameters will be summarized by means, medians, standard deviations, ranges, and quartiles. Categorical parameters will be summarized by frequency tables.",
+                              "All grades of infusion-related adverse events will be summarized by grade and type."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Proportion of successfully extubated patients who present intubated on ventilator support (Phase I)",
+                              "Rate of successful progression to intubation in patients who require supplemental oxygen but who are otherwise able to breathe without assistance (Phase I)",
+                              "Overall survival rate (Phase I)",
+                              "Survival rate in patients who present intubated on ventilator support (Phase I)",
+                              "Survival rate in patients who require supplemental oxygen but who are otherwise able to breathe without assistance (Phase I)",
+                              "Clinical parameters (Phase I)",
+                              "Oxygenation parameters (Phase I)",
+                              "Respiratory parameters (Phase I)",
+                              "Laboratory markers (Phase I)",
+                              "Hospitalization stay (Phase I)",
+                              "Intensive care unit stay (Phase I)",
+                              "Incidence of infusion-related adverse events (Phase I)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Up to day 30 post MSC infusion",
+                              "Up to day 30 post MSC infusion",
+                              "At day 30 post MSC infusion",
+                              "At day 30 post MSC infusion",
+                              "At day 30 post MSC infusion",
+                              "Up to day 30 post MSC infusion",
+                              "Up to day 30 post MSC infusion",
+                              "Up to day 30 post MSC infusion",
+                              "Up to day 30 post MSC infusion",
+                              "Up to day 30 post MSC infusion",
+                              "Up to day 30 post MSC infusion",
+                              "Up to day 30 post MSC infusion"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "M D Anderson Cancer Center"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.mdanderson.org"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04565665"
+                        ]
+                  },
+                  {
+                        "Rank": 50,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Patient and graft survival, and prevalence of adverse events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "48 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01690247"
+                        ]
+                  },
+                  {
+                        "Rank": 51,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05018754"
+                        ]
+                  },
+                  {
+                        "Rank": 52,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Incidence of grade II-IV and grade III-IV acute GVDH",
+                              "Number of absolute donor T cells after HCT in each arm",
+                              "Cumulative incidence of non-relapse mortality",
+                              "Incidence of extensive chronic GVHD in each arm",
+                              "Incidence of graft rejection in each arm.",
+                              "Quality and timing of immunologic reconstitution in each arm.",
+                              "Detection of MSC from donor origin in recipient marrow after HCT in patients given MSC",
+                              "Proportion of patients with measurable disease at HCT who achieve a complete response in each arm.",
+                              "Cumulative incidence of relapse",
+                              "Incidence of progression-free survival",
+                              "Incidence of infections"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "100 days",
+                              "28",
+                              "100, 365 and 730 days",
+                              "365 days",
+                              "365 days",
+                              "100, 365 and 730 days",
+                              "40 days",
+                              "100, 365 and 730 days",
+                              "365 and 730 days",
+                              "365 and 730 days",
+                              "100 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01045382"
+                        ]
+                  },
+                  {
+                        "Rank": 53,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Overall Response was defined as participants who achieved complete response or partial response (CR+PR).",
+                              "Corticosteroid-related complications included hyperglycemia requiring insulin, corticosteroid myopathy and psychosis.",
+                              "Infectious complications included viral, fungal or bacterial complications."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Percentage of Participants with Overall Response",
+                              "Percentage of Participants with Induction of a 2-grade decrease in (Graft Versus Host Disease) GVHD by Study Day 28 with maintenance of a 2-grade decrease in GVHD through Study Day 56",
+                              "Percentage of Participants with Induction of CR lasting for greater than or equal to 14 Days",
+                              "Percentage of Participants with Induction of a CR after Study Day 28 and clinically managed with steroids with second line/escalation therapy through Study Day 56",
+                              "Percentage of Participants with Induction of PR during the first 28 days",
+                              "Time to achieve CR",
+                              "Number of CR per organ",
+                              "Total corticosteroid dose administered",
+                              "Number of corticosteroid-related complications",
+                              "Number of Infectious complications",
+                              "Number of Days of Hospitalization",
+                              "Average Daily Corticosteroid Dose"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Day 90",
+                              "Up to Day 56",
+                              "Day 14",
+                              "Up to Day 56",
+                              "Up to Day 28",
+                              "Up to Day 90",
+                              "Up to Day 90",
+                              "Up to Day 90",
+                              "Up to Day 90",
+                              "Up to Day 90",
+                              "Up to Day 90",
+                              "Up to Day 90"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Click here for more information about this study: A Phase III, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Prochymal\u00ae Infusion in Combination With Corticosteroids for the Treatment of Newly Diagnosed"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.osiris.com"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00562497"
+                        ]
+                  },
+                  {
+                        "Rank": 54,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Graft-versus-host disease (GVHD) includes acute GVHD and chronic GVHD.",
+                              "Infections include bacterial, invasive fungal and viral infections",
+                              "Acute toxicity mainly involves the heart,live and kidney."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Incidence of graft-versus-host disease",
+                              "Incidence of infections",
+                              "Incidence of primary underlying disease relapse",
+                              "Incidence of acute toxicity"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year",
+                              "1 year",
+                              "1 year",
+                              "up to 100 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02240992"
+                        ]
+                  },
+                  {
+                        "Rank": 55,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Time from PICU admission to discharge"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "length of stay in PICU"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "up to 28 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04850469"
+                        ]
+                  },
+                  {
+                        "Rank": 56,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Number of fractures.",
+                              "Time (days) to first fracture after each stem cell administration. Number of fractures",
+                              "Change in bone-marrow density (g/cm2).",
+                              "Growth (cm) as assessed by clinician",
+                              "Growth (kg) as assessed by clinician.",
+                              "Change in clinical status of OI based on parameters defined under efficacy assessments described in protocol, as assessed by OI clinician.",
+                              "Assessment of biochemical bone turnover marker P-Calcium (mg %)",
+                              "Assessment of biochemical bone turnover marker P-Phosphate (mg %)",
+                              "Assessment of biochemical bone turnover marker P-Albumin (g/dL)",
+                              "Assessment of biochemical bone turnover marker S-ALP (IU/L)",
+                              "Assessment of biochemical bone turnover marker S-CTx (mg %)",
+                              "Assessment of biochemical bone turnover marker fP-PTH (pg/mL)",
+                              "Assessment of biochemical bone turnover marker Vitamin D (nmol/L)",
+                              "Assessment of biochemical bone turnover marker Bone specific S-ALP (\u03bcg/L)",
+                              "Assessment of biochemical bone turnover marker S-Osteocalcin (ng/mL)",
+                              "Assessment of biochemical bone turnover marker U-DPD/Krea and U-NTx/Krea (mg %)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Number of fractures [ Time Frame: From baseline to 16 months follow-up ]",
+                              "Time (days) to first fracture after each stem cell administration. [ Time Frame: From each dose of stem cells to the time point of the first fracture.",
+                              "Change in bone-marrow density (g/cm2). [ Time Frame: From baseline to the primary follow-up (From baseline to 16 months follow up)",
+                              "Growth (cm). [ Time Frame: From baseline to16 months follow up]",
+                              "Weight (kg). [ Time Frame: From baseline to 16 months follow up]",
+                              "Change in clinical status of OI. [ Time Frame: From baseline to 16 months follow up]",
+                              "Assessment of biochemical bone turnover by analysis of the markers P-Calcium (mg %) in blood samples.",
+                              "Assessment of biochemical bone turnover by analysis of the markers P-Phosphate (mg %) in blood samples.",
+                              "Assessment of biochemical bone turnover by analysis of the markers P-Albumin (g/dL)",
+                              "Assessment of biochemical bone turnover by analysis of the markers S-ALP (IU/L) in blood samples.",
+                              "Assessment of biochemical bone turnover by analysis of the markers S-CTx (mg %) in blood samples.",
+                              "Assessment of biochemical bone turnover by analysis of the markers fP-PTH (pg/mL)in blood samples.",
+                              "Assessment of biochemical bone turnover by analysis of the markers Vitamin D (nmol/L) in blood samples.",
+                              "Assessment of biochemical bone turnover by analysis of the markers Bone specific S-ALP (\u03bcg/L) in blood samples.",
+                              "Assessment of biochemical bone turnover by analysis of the markers S-Osteocalcin (ng/mL) in blood samples.",
+                              "Assessment of biochemical bone turnover by analysis of the markers U-DPD/Krea and U-NTx/Krea (mg %) in blood samples."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "From baseline to 16 months follow up",
+                              "From baseline to 16 months follow up",
+                              "From baseline to 16 months follow up",
+                              "From baseline to 16 months follow up",
+                              "From baseline to 16 months follow up",
+                              "From baseline to 16 months follow up",
+                              "From at baseline to 16 months follow up",
+                              "From baseline to 16 months follow up",
+                              "From baseline to 16 months follow up",
+                              "From baseline to 16 months follow up",
+                              "From baseline to 16 months follow up",
+                              "From baseline to 16 months follow up",
+                              "From baseline to 16 months follow up",
+                              "From baseline to 16 months follow up",
+                              "From baseline to 16 months follow up",
+                              "From baseline to 16 months follow up"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Boost to Brittle Bones"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://boost2b.in/"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04623606"
+                        ]
+                  },
+                  {
+                        "Rank": 57,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Cumulative Incidence of Graft-versus Host Disease",
+                              "Incidence of Systemic Infections",
+                              "Mean Time to Engraftment",
+                              "Transplant-Related Mortality",
+                              "Rates of Relapse"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "up to 2 years after HSCT",
+                              "up to 2 years after HSCT",
+                              "Baseline to engraftment, assessed minimally 28 days post transplant",
+                              "up to 1 months after HSCT",
+                              "up to 2 years after HSCT"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04247945"
+                        ]
+                  },
+                  {
+                        "Rank": 58,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "FFTF is defined as death, relapse or progression of the underlying disease, or addition or change to any further systemic immunosuppressive aGvHD therapy. Number of participants with FFTF will be reported.",
+                              "Overall survival is defined as the time from randomization to the date of death due to any cause.",
+                              "Number of participants with aGvHD response will be reported. aGvHD response will be categorized as OR (CR + PR), CR, PR, and NR. NR is defined as the absence of CR or PR.",
+                              "aGvHD grades: Grade 0- no organ involvement (ie, Stage 0 skin, Stage 0 liver, and Stage 0 GI); Grade I-Stage 1 - 2 skin without liver/GI involvement; Grade II- Stage 3 skin and / or Stage 1 liver and / or Stage 1 GI; Grade III- Stage 2 - 3 liver and / or Stage 2 - 3 GI; Grade IV- Stage 4 skin and / or Stage 4 liver and/or Stage 4 GI.",
+                              "Time to response is defined as the time from the date of the first treatment administration to the date of response.",
+                              "Duration is calculated from time from the first OR (CR or PR) until the time point of no aGvHD response in comparison to baseline.",
+                              "Best OR is defined as the achievement of an OR at any time point up to and including Day 28. Number of participants with best OR will be reported.",
+                              "The cumulative dose of steroids given for SR-aGvHD per kg of body weight from baseline until Day 60 and until Visit Month 24 will be analyzed.",
+                              "Number of participants with cGvHD will be reported.",
+                              "Time to cGvHD is defined as the time between the last day of haematopoietic stem cell transplantation (HSCT) to the first episode of cGvHD.",
+                              "Number of participants with GF will be reported.",
+                              "Number of participants with relapse or progression in participants with underlying malignant disease will be reported.",
+                              "Time to relapse or progression in participants with underlying malignant disease will be reported.",
+                              "EFS is defined as the time from the date of randomization to the date of the event. An event is defined as GF, relapse or progression of the underlying disease, or death due to any cause.",
+                              "NRM is defined as the time from the date of randomisation to the date of the event. An event is defined as death without previous relapse or progression of the underlying disease.",
+                              "Severity will be graded based on Common Terminology Criteria for Adverse Events (CTCAE) v5.0: Grade 1- Mild; Grade 2- Moderate; Grade 3- Severe; Grade 4- Life-threatening consequences; urgent intervention indicated; Grade 4- Death related to the AE.",
+                              "The Karnofsky performance score (KPS), which is reported on an ordinal scale from 0 to 100, provides a rough measure of the participant's well-being, including their ability to conduct activities of daily living and functional capacity. Higher score indicates normal, no complaints and no evidence of disease.",
+                              "A Lansky score (recipient age greater than or equal to [>=] 1 years and less than [<] 16 years) will be recorded pre-treatment and measured serially at regular intervals after treatment. The score is a standard performance score that measures overall function of the child with a scale range from 0 to 100. Higher score indicates full activeness.",
+                              "EQ-5D-5L is a 2-part instrument for use as a measure of health outcome, designed for self-completion by respondents. It consists of EQ-5D-5L descriptive system and EQ VAS. EQ-5D-5L descriptive system comprises of 5 dimensions: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. Each has 5 levels of perceived problems (1-no problem, 2-slight problems, 3-moderate problems, 4-severe problems, 5-extreme problems). Participant selects answer for each of 5 dimensions considering response that best matches his/her health \"TODAY\". Responses were used to generate a HSI. HSI ranges from 0 (dead) to 1.00 (full health).",
+                              "EQ-5D-5L is a 2-part instrument for use as a measure of health outcome, designed for self-completion by respondents. It consists of EQ-5D-5L descriptive system and EQ VAS. The EQ VAS self-rating records the respondent's own assessment of his or her overall health status at the time of completion, on a scale of 0 (the worst health you can imagine) to 100 (the best health you can imagine).",
+                              "The FACT-BMT questionnaire was designed to measure the quality of life in subjects undergoing bone marrow (BM) transplantation. It consists of the following categories of assessment: physical well-being, social / family well-being, emotional well-being, functional well-being, and additional miscellaneous concerns that the subject may have concerning their healthcare, persons involved in their life, and other emotions and incapabilities. Score ranges from 0-164, with higher score indicating better quality of life."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Freedom from Treatment Failure (FFTF)",
+                              "Overall Survival",
+                              "Acute Graft-versus-host Disease (aGvHD) Response",
+                              "Change from Baseline in aGvHD Grades",
+                              "Time to Response",
+                              "Duration of Response",
+                              "Best Overall Response (OR)",
+                              "Cumulative Dose of Steroids for SR-aGvHD per Kilogram (kg) of Body Weight",
+                              "Number of Participants with Chronic Graft-versus-host Disease (cGvHD)",
+                              "Time to Chronic Graft-versus-host Disease (cGvHD)",
+                              "Number of Participants with Graft Failure (GF)",
+                              "Number of Participants with Relapse or Progression in Participants with Underlying Malignant Disease",
+                              "Time to Relapse or Progression in Participants with Underlying Malignant Disease",
+                              "Event-free survival (EFS)",
+                              "Non-relapse Mortality (NRM)",
+                              "Number of Participants with Adverse Events (AEs) and Adverse Reactions (ARs)",
+                              "Number of Participants with Adverse Events (AEs) and Adverse Reactions (ARs) by Severity",
+                              "Change from Baseline in Performance score based on Karnofsky scale (recipient age >= 16 years)",
+                              "Change from Baseline in Performance score based on Lansky Scale",
+                              "Change from Baseline in EuroQol-5D-5L (EQ-5D-5L): Health Status Index (HSI)",
+                              "Change from Baseline in EuroQol-5D-5L (EQ-5D-5L): Visual Analogue Scale (VAS)",
+                              "Change from Baseline in Functional Assessment of Cancer Therapy-Bone Marrow Transplantation (FACT-BMT) Score"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Up to 6 months",
+                              "Up to Month 24",
+                              "Days 28, 60, 100 and 180",
+                              "Baseline and Days 8, 15, 22, 28, 60, 100 and 180",
+                              "Up to Month 24",
+                              "Up to Month 24",
+                              "Up to Day 28",
+                              "Up to Day 60 and Month 24",
+                              "Day 60 to Month 24",
+                              "Day 60 to Month 24",
+                              "Up to Month 24",
+                              "Up to Month 24",
+                              "Up to Month 24",
+                              "Up to Month 24",
+                              "Up to Month 24",
+                              "Until Day 60 or until 30 days after last administration of trial treatment, whichever is later (Up to Month 24)",
+                              "Until Day 60 or until 30 days after last administration of trial treatment, whichever is later (Up to Month 24)",
+                              "Baseline, Days 8, 15, 22, 28, 60 and 100",
+                              "Baseline, Days 8, 15, 22, 28, 60 and 100",
+                              "Baseline, Days 28, 60, 100 and 180",
+                              "Baseline, Days 28, 60, 100 and 180",
+                              "Baseline, Days 28, 60, 100 and 180"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04629833"
+                        ]
+                  },
+                  {
+                        "Rank": 59,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "UCLA-0303036",
+                              "CDR0000358809"
+                        ],
+                        "SecondaryIdDomain": [
+                              "PDQ (Physician Data Query)"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Registry Identifier"
+                        ],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Safety as measured by infusional toxicity, relapse nd survival, formation of potential ectopic tissue foci"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "84 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00081055"
+                        ]
+                  },
+                  {
+                        "Rank": 60,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "To correlate levels of bone marrow MDSC and regulatory T cells (Tregs) and exhausted T cells and the quality of mesenchymal cells in bone marrow."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Myeloid suppressive cells and the medullar microenvironment (regulatory T cells and mesenchymal stem cells)",
+                              "percentage of myeloid suppressive cells",
+                              "incidence of acute GVHD",
+                              "incidence of chronic GVHD"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "2 years",
+                              "2 years",
+                              "2 years",
+                              "2 years"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03964922"
+                        ]
+                  }
+            ]
+      }
+}

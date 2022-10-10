@@ -10,7 +10,7 @@ var tabledata = [
 
 var tabledata = tableLocations;
 
-var table = new Tabulator("#locations-table", {
+var table = new Tabulator("#tabularLocations", {
     data:tabledata,           //load row data from array
     layout:"fitColumns",      //fit columns to width of table
     responsiveLayout:"hide",  //hide columns that dont fit on the table

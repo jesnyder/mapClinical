@@ -1,0 +1,2743 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal AdMSC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 57,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 57,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The proportion of the improvement of PASI(Psoriasis Area and Severity Index) from baseline",
+                              "The improvement in PASI score from baseline after treatment",
+                              "The proportion of patients who achieve at least 50% improvement in PASI score from baseline.",
+                              "The proportion of patients who achieve at least 75% improvement in PASI score from baseline.",
+                              "Pruritus Scores on the Visual Analogue Scale",
+                              "the Body Surface Area",
+                              "the Dermatology Life Quality Index"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Improvement rate of PASI(Psoriasis Area and Severity Index)",
+                              "PASI(Psoriasis Area and Severity Index)",
+                              "PASI-50",
+                              "PASI-75",
+                              "Pruritus Scores on the Visual Analogue Scale",
+                              "BSA",
+                              "DLQI\uff08Dermatology Life Quality Index\uff09"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 weeks (plus or minus 3 days) after treatment",
+                              "12 weeks (plus or minus 3 days) after treatment",
+                              "12 weeks (plus or minus 3 days) after treatment",
+                              "12 weeks (plus or minus 3 days) after treatment",
+                              "12 weeks (plus or minus 3 days) after treatment",
+                              "12 weeks (plus or minus 3 days) after treatment",
+                              "12 weeks (plus or minus 3 days) after treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03265613"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The improvement in PASI score from baseline after treatment",
+                              "Relapse can be defined only for patients who achieve PASI50\uff0cand occurs when the improvement in the PASI score falls below 50% from the baseline PASI score.",
+                              "The proportion of patients who achieve at least 50% improvement in PASI score from baseline",
+                              "The proportion of patients who achieve at least 75% improvement in PASI score from baseline",
+                              "Pruritus was assessed using the Visual Analogue Scales; The Scale scores ranged from 0-10. The higer the scores were, the more itching the patient suffered.",
+                              "the Body Surface Area",
+                              "the Dermatology Life Quality Index"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "PASI(Psoriasis Area and Severity Index)",
+                              "Relapse rate in treatment period / follow-up period",
+                              "PASI-50",
+                              "PASI-75",
+                              "Pruritus Scores on the Visual Analogue Scale",
+                              "BSA",
+                              "DLQI\uff08Dermatology Life Quality Index\uff09"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 weeks (plus or minus 3 days) after treatment",
+                              "During the treatment period of 12 weeks / follow-up period of 12 weeks after treatment period",
+                              "12 weeks (plus or minus 3 days) after treatment",
+                              "12 weeks (plus or minus 3 days) after treatment",
+                              "12 weeks (plus or minus 3 days) after treatment",
+                              "12 weeks (plus or minus 3 days) after treatment",
+                              "12 weeks (plus or minus 3 days) after treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03392311"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "measure level of TNFa in blood (pg/ml)",
+                              "measure of IL-1 in the blood (pg/ml)",
+                              "measure of IL-6 in the blood (pg/ml)",
+                              "measure of CRP in the blood (mg/L)",
+                              "measure of AB40 in the blood (pg/ml)",
+                              "measure of AB42 in the blood (pg/ml)",
+                              "volume change from screening",
+                              "Change from baseline score; scores from 0 to 30, lower score indicates more severe dementia",
+                              "Change from baseline score; scores from 0 to 53, lower score indicates greater functional impairment",
+                              "Change from baseline score; total score range is 14 to 70, higher scores indicate more enjoyment and satisfaction with life",
+                              "Change from baseline score; score ranges from 0 to 100, higher score indicates less impairment",
+                              "Change from baseline score; scores range fro 0 to 3, higher scores indicates more severe impairment"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Tumor necrosis factor-alpha",
+                              "Interleukin-1",
+                              "Interleukin-6",
+                              "C-reactive protein",
+                              "Amyloid beta 40",
+                              "Amyloid beta 42",
+                              "Volumetric changes in hippocampus, ventriculus, and whole brain",
+                              "Mini Mental Status Exam",
+                              "Alzheimer's disease Cooperative Study Activities of Daily Living",
+                              "Quality of Life Enjoyment and Satisfaction Questionnaire",
+                              "Altoida Neuro Motor Index",
+                              "Clinical Dementia Rating Questionnaire"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "week 0, change from baseline at week 13, change from baseline at week 52",
+                              "week 0, change from baseline at week 13, change from baseline at week 52",
+                              "week 0, change from baseline at week 13, change from baseline at week 52",
+                              "week 0, change from baseline at week 13, change from baseline at week 52",
+                              "week 0, change from baseline at week 13, change from baseline at week 52",
+                              "week 0, change from baseline at week 13, change from baseline at week 52",
+                              "screening, week 26 and 52",
+                              "week 0, change from baseline at week 4, 10, 13, 19, 26, 33, 40, 46, and 52",
+                              "week 0, change from baseline at week 4, 10, 13, 19, 26, 33, 40, 46, and 52",
+                              "week 0, change from baseline at week 4, 10, 13, 19, 26, 33, 40, 46, and 52",
+                              "week 0, change from baseline at week 4, 10, 13, 19, 26, 33, 40, 46, and 52",
+                              "week 0, change from baseline at week 4, 10, 13, 19, 26, 33, 40, 46, and 52"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04228666"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The frequency and severity of AEs and SAEs during the intervention and within 12 months after the first cell administration."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "The safety of AD MSC therapy in the treatment of sexual function impairment in female"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 month, 3 months, 6 months, 12 months after the first UCMSC infusion"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05329662"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Measurement of the length of time (in months) for the patients to show initial contraction (achieve MRC grade 1) of elbow flexion. Previous study by Estrella (2011) showed that the average time for brachial plexus injury patients to achieve an elbow flexion grade M3 after nerve transfer procedure was 7.6 months (range, 5-12 months). As the elbow flexion is the most important movement to restore in treating BPI, the investigators aim to compare the length of time (in months) for the patients to achieve initial contraction (MRC grade 1). The sooner the patients achieve initial elbow flexion MRC grade 1, the better the outcome is.",
+                              "Measurement of the length of time (in months) for the patients to achieve MRC grade 3 (active movement against gravity) of elbow flexion. Previous study by Estrella (2011) showed that the average time for brachial plexus injury patients to achieve an elbow flexion grade M3 after nerve transfer procedure was 7.6 months (range, 5-12 months). As the elbow flexion is the most important movement to restore in treating BPI, the investigators aim to compare the length of time (in months) for the patients to achieve MRC grade 3. The sooner the patients achieve initial elbow flexion MRC grade 3, the better the outcome is.",
+                              "Measured by visual analogue scales (VAS). Patients are asked to described their level of pain from the scale 0 to 10 (0 indicating no pain, 1-3 indicating mild pain, 4-6 indicating moderate pain, 7-9 indicating severe pain, and 10 indicating worst, unbearable pain). The lower scores mean a better pain outcome.",
+                              "Measured by visual analogue scales (VAS). Patients are asked to described their level of pain from the scale 0 to 10 (0 indicating no pain, 1-3 indicating mild pain, 4-6 indicating moderate pain, 7-9 indicating severe pain, and 10 indicating the worst, unbearable pain). The lower scores mean a better pain outcome.",
+                              "DASH score is a self-assessment of symptoms and function of the entire upper extremity comprising 30 items. Each item consists of five levels of answers (1=no difficulty/symptoms, 2=mild difficulty/symptoms, 3=moderate difficulty/symptoms, 4=severe difficulty/symptoms, and 5=extreme difficulty (unable to do)/symptoms). The scores are then used to calculate a scale score ranging from 0 (no disability) to 100 (most severe disability). Greater DASH scores reflect greater disability (worse outcome).",
+                              "DASH score is a self-assessment of symptoms and function of the entire upper extremity comprising 30 items. Each item consists of five levels of answers (1=no difficulty/symptoms, 2=mild difficulty/symptoms, 3=moderate difficulty/symptoms, 4=severe difficulty/symptoms, and 5=extreme difficulty (unable to do)/symptoms). The scores are then used to calculate a scale score ranging from 0 (no disability) to 100 (most severe disability). Greater DASH scores reflect greater disability (worse outcome).",
+                              "A generic, multipurpose, short-form health survey comparing the relative burden of diseases consisting of 36 questions which cover eight domains of health namely physical functioning, role physical, bodily pain, general health, vitality, social functioning, role emotional, and mental health. Each domain is directly transformed into a 0-100 scale on the assumption that each question carries equal weight. A higher score indicating a more favourable health state/quality of life (better outcome).",
+                              "A generic, multipurpose, short-form health survey comparing the relative burden of diseases consisting of 36 questions which cover eight domains of health namely physical functioning, role physical, bodily pain, general health, vitality, social functioning, role emotional, and mental health. Each domain is directly transformed into a 0-100 scale on the assumption that each question carries equal weight. A higher score indicating a more favourable health state/quality of life (better outcome)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Initial elbow flexion MRC grade 1 (in months)",
+                              "Initial elbow flexion MRC grade 3 (in months)",
+                              "Pain outcome pre-surgery",
+                              "Pain outcome at 12 months follow-up",
+                              "Disabilities of the Arm, Shoulder, and Hand (DASH) score pre-surgery",
+                              "Disabilities of the Arm, Shoulder, and Hand (DASH) score at 12 months follow-up",
+                              "Short Form-36 (SF-36) score pre-surgery",
+                              "Short Form-36 (SF-36) score at 12 months follow-up"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "throughout the study duration (12 months), recorded as the first time reported by the patients",
+                              "throughout the study duration (12 months), recorded as the first time reported by the patients",
+                              "Pre-surgery",
+                              "12 months",
+                              "pre-surgery",
+                              "12 months",
+                              "pre-surgery",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04654286"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Mucosal appearance at endoscopy via Adapted Mayo Score (defined as score of 0 or 1)",
+                              "To assess the clinical symptom response of luminal healing induced by the intra-arterial delivery of autologous AD-MSCs for the treatment of UC. Using the validated via Adapted Mayo Score (decrease from Baseline \u2265 2 points and \u2265 30%, including a decrease in rectal bleeding sub-score \u2265 1 or an absolute rectal bleeding sub-score \u2264 1)",
+                              "Histopathology: Improved healing on surgical pathology (colectomy specimen or post-intervention colonic biopsies) as compared to pre-operative endoscopic biopsies"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Number of participants with mucosal healing",
+                              "Number of participants with clinical symptom response",
+                              "Number of participants with improved healing on pathology"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months",
+                              "24 months",
+                              "24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Mayo Clinic Clinical Trials"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.mayo.edu/research/clinical-trials"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04312113"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03346967"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The improvement in PASI score from baseline after treatment. PASI scores the average redness, thickness, and scaliness of the lesions (0-4 scale), weighted by the area of involvement. PASI scores range from 0 to 72. The higher the score, the worse the disease.",
+                              "Relapse can be defined only for patients who achieve PASI-50\uff0cand occurs when the improvement in the PASI score falls below 50 percent from the baseline PASI score.",
+                              "The proportion of patients who achieve at least 50 percent improvement in PASI score from baseline.",
+                              "The proportion of patients who achieve at least 75 percent improvement in PASI score from baseline.",
+                              "Pruritus was assessed using the Visual Analogue Scales; The Scale scores ranged from 0-10. The higer the scores were, the more itching the patient suffered.",
+                              "the Body Surface Area",
+                              "the score of Dermatology Life Quality Index. Dermatology Life Quality Index (DLQI) is a self-administered 10-item questionnaire. It covers Symptoms and feelings, Daily activities, Leisure, Work and school, Personal relationships, and Treatment. The higher the score, the worse the quality of life."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "PASI (Psoriasis Area and Severity Index)",
+                              "Relapse rate in treatment period / follow-up period",
+                              "PASI-50",
+                              "PASI-75",
+                              "Pruritus Scores on the Visual Analogue Scale",
+                              "BSA",
+                              "DLQI (Dermatology Life Quality Index)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 weeks (plus or minus 3 days) after treatment.",
+                              "12 weeks (plus or minus 3 days) after treatment.",
+                              "12 weeks (plus or minus 3 days) after treatment.",
+                              "12 weeks (plus or minus 3 days) after treatment.",
+                              "12 weeks (plus or minus 3 days) after treatment.",
+                              "12 weeks (plus or minus 3 days) after treatment.",
+                              "12 weeks (plus or minus 3 days) after treatment."
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04785027"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "absence of upper/lower respiratory infection by hospitalization criteria",
+                              "clinical lab evaluation of level of glucose in the blood (mg/dL)",
+                              "clinical lab evaluation of level of calcium in the blood (mg/dL)",
+                              "clinical lab evaluation of level of albumin in the blood (g/dL)",
+                              "clinical lab evaluation of level of total protein in the blood (g/dL)",
+                              "clinical lab evaluation of level of sodium in the blood (mol/L)",
+                              "clinical lab evaluation of level of carbon dioxide in the blood (mmol/L)",
+                              "clinical lab evaluation of level of potassium in the blood (mmol/L)",
+                              "clinical lab evaluation of level of chloride in the blood (mmol/L)",
+                              "clinical lab evaluation of level of BUN in the blood (mg/dL)",
+                              "clinical lab evaluation of level of creatinine in the blood (mg/dL)",
+                              "clinical lab evaluation of level of alkaline phosphatase in the blood (IU/L)",
+                              "clinical lab evaluation of level of alanine aminotransferase in the blood (IU/L)",
+                              "clinical lab evaluation of level of aspartate aminotransferase in the blood (IU/L)",
+                              "clinical lab evaluation of level of total bilirubin in the blood (mg/dL)",
+                              "clinical lab evaluation of level of white blood cells in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of level of red blood cells in the blood (x 10^6/uL)",
+                              "clinical lab evaluation of level of hemoglobin in the blood (g/dL)",
+                              "clinical lab evaluation of level of hematocrit in the blood (%)",
+                              "clinical lab evaluation of mean corpuscular volume in the blood (fL)",
+                              "clinical lab evaluation of mean corpuscular hemoglobin in the blood (pg)",
+                              "clinical lab evaluation of mean corpuscular hemoglobin in the blood (g/dL)",
+                              "clinical lab evaluation of red blood cell distribution width in the blood (%)",
+                              "clinical lab evaluation of neutrophils in the blood (%)",
+                              "clinical lab evaluation of lymphocytes in the blood (%)",
+                              "clinical lab evaluation of monocytes in the blood (%)",
+                              "clinical lab evaluation of eosinophils in the blood (%)",
+                              "clinical lab evaluation of basophils in the blood (%)",
+                              "clinical lab evaluation of absolute neutrophils in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of absolute lymphs in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of absolute monocytes in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of absolute eosinophils in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of absolute basophils in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of granulocytes in the blood (%)",
+                              "clinical lab evaluation of granulocytes in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of platelets in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of time for blood to coagulate (seconds)",
+                              "clinical lab evaluation of international normalized ratio of blood coagulation (no unit)",
+                              "clinical lab evaluation of tumor necrosis factor alpha in the blood (pg/mL)",
+                              "clinical lab evaluation of interleukin-6 in the blood (pg/mL)",
+                              "clinical lab evaluation of interleukin-10 in the blood (pg/mL)",
+                              "clinical lab evaluation of interleukin-10 in the blood (mg/L)",
+                              "Short-form 36 Health Survey; scored on a scale of 0-100; lower score equals more disability.",
+                              "Depression module; scores DSM-IV criteria 0-3 to monitor severity of depression."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "absence of upper/lower respiratory infection",
+                              "Glucose",
+                              "Calcium",
+                              "Albumin",
+                              "Total Protein",
+                              "Sodium",
+                              "Total carbon dioxide",
+                              "Potassium",
+                              "Chloride",
+                              "BUN",
+                              "Creatinine",
+                              "Alkaline phosphatase",
+                              "Alanine aminotransferase",
+                              "Aspartate aminotransferase",
+                              "Total bilirubin",
+                              "White blood cells",
+                              "Red blood cells",
+                              "Hemoglobin",
+                              "Hematocrit",
+                              "Mean corpuscular volume",
+                              "Mean corpuscular hemoglobin",
+                              "Mean corpuscular hemoglobin concentration",
+                              "Red cell distribution width",
+                              "Neutrophils",
+                              "Lymphs",
+                              "Monocytes",
+                              "Eos",
+                              "Basophils",
+                              "Absolute neutrophils",
+                              "Absolute lymphs",
+                              "Absolute monocytes",
+                              "Absolute eosinophils",
+                              "Absolute basophils",
+                              "Immature granulocytes",
+                              "Absolute Immature granulocytes",
+                              "Platelets",
+                              "Prothrombin time",
+                              "INR",
+                              "TNFalpha",
+                              "Interleukin-6",
+                              "Interleukin-10",
+                              "C-reactive protein",
+                              "SF-36",
+                              "PHQ-9"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Weeks 0 through 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26",
+                              "Weeks 0, 6, 14, 26"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04349631"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ResultsFirstSubmitDate": [
+                              "August 19, 2021"
+                        ],
+                        "ResultsFirstSubmitQCDate": [
+                              "February 24, 2022"
+                        ],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Efficacy is a secondary endpoint for this study and will be assessed by comparing the levels of Tumor Necrosis factor (TNF-a) (pg/mL) measured during trial.",
+                              "Efficacy is a secondary endpoint for this study and will be assessed by comparing the levels of interleukin 6 (IL-6) (pg/mL) during the trial",
+                              "Efficacy is a secondary endpoint for this study and will be assessed by comparing the levels of C-reactive protein (CRP) (mg/L) during the trial",
+                              "Efficacy is a secondary endpoint for this study and will be assessed by comparing the levels of erythrosedimentation rate (ESR) (mm/hr) during the trial.",
+                              "Efficacy is a secondary endpoint for this study and will be assessed by comparing the levels of Joint Count 66/68 (# joints - tender and swollen) during the trial."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "The Effect of Single Injection of HB-adMSCs on TNF-a in Patients With Acute RA",
+                              "The Effect of Single Injection of HB-adMSCs on IL-6 in Patients With Acute RA",
+                              "The Effect of Single Injection of HB-adMSCs on CRP in Patients With Acute RA",
+                              "The Effect of Single Injection of HB-adMSCs on ESR in Patients With Acute RA",
+                              "The Effect of Single Injection of HB-adMSCs on Joint Count in Patients With Acute RA."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment"
+                        ],
+                        "NCTId": [
+                              "NCT03691909"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04087889"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The improvement in PASI score from baseline after treatment",
+                              "The proportion of patients who achieve at least 50% improvement in PASI score from baseline",
+                              "The proportion of patients who achieve at least 75% improvement in PASI score from baseline",
+                              "Pruritus was assessed using the Visual Analogue Scales; The Scale scores ranged from 0-10. The higer the scores were, the more itching the patient suffered",
+                              "the Body Surface Area",
+                              "the Dermatology Life Quality Index"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "PASI(Psoriasis Area and Severity Index)",
+                              "PASI-50",
+                              "PASI-75",
+                              "Pruritus Scores on the Visual Analogue Scale",
+                              "BSA",
+                              "DLQI(Dermatology Life Quality Index)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 weeks (plus or minus 3 days) after treatment",
+                              "12 weeks (plus or minus 3 days) after treatment",
+                              "12 weeks (plus or minus 3 days) after treatment",
+                              "12 weeks (plus or minus 3 days) after treatment",
+                              "12 weeks (plus or minus 3 days) after treatment",
+                              "12 weeks (plus or minus 3 days) after treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04275024"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2019-002688-89"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "SOFA index from 0 to 4 where lower scores represent improvement",
+                              "Murray scale from 0 to 4 where lower scores represent improvement"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Average stay in the Intensive Care Unit (ICU) 28 days after the administration of HCR040",
+                              "Sequential Organ Failure Assessment (SOFA) index at 3, 7, 14, 21, and 28 days after the administration of HCR040",
+                              "Mechanical ventilation-free days 28 days after the administration of HCR040",
+                              "Percent mortality 28 days after the administration of HCR040",
+                              "Daily pulmonary mechanics values (Ppl, DP, CRS)",
+                              "Determination of lung damage using the Murray scale at day 3, 7, 14 and 28 after the administration of HCR040",
+                              "Vasopressor-free days 28 days after the administration of HCR040",
+                              "ICU-free days 28 days after the administration of HCR040"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Day 28",
+                              "Day 28",
+                              "Day 28",
+                              "Day 28",
+                              "One year",
+                              "Day 28",
+                              "Day 28",
+                              "Day 28"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04289194"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluation the change of (D/P Cr) in patients with UFF after cell therapy.",
+                              "Evaluation the change of D/P in patients with UFF after cell therapy.",
+                              "Evaluation the change of D/D glucose in patients with UFF after cell therapy.",
+                              "Assessment of peritoneal membrane transport function by peritoneal equilibration test (PET)",
+                              "Evaluation the change of Glomerular filtration rate (GFR) in patients with UFF after cell therapy."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Ratio of 4-hour dialysate/plasma creatinine (D/P Cr).",
+                              "Ratio of 4-hour dialysate/plasma urea (D/P urea )",
+                              "Ratio of dialysate glucose concentrations (D/D glucose )",
+                              "peritoneal membrane transport function",
+                              "Glomerular filtration rate (GFR):"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02801890"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Defined as any untoward or undesirable medical occurrence in the form of signs, symptoms, abnormal findings, or diseases that emerge or worsen relative to baseline (i.e., if present upon study entry) during the study regardless of causal relationship.\n\nMethods i. Spontaneous subject reports ii. Subject interview by study personnel iii. Clinical examination during face-to-face clinic follow-ups. Defined as any untoward or undesirable medical occurrence in the form of signs, symptoms, abnormal findings, or diseases that emerge or worsen relative to baseline (i.e., if present upon study entry) during the study regardless of causal relationship.\n\nMethods i. Spontaneous subject reports ii. Subject interview by study personnel iii. Clinical examination during face-to-face clinic follow-ups",
+                              "Cartilage thickness on MRI in mm",
+                              "Cartilage volume on MRI in ml",
+                              "Cartilage morphology on MRI. Change in the International Cartilage Repair Society (ICRS) classification. It is based on grading of cartilage lesions, in which lesions are graded 0 to 4 based on depth of the lesion. Grade 1 and 2 lesions have excellent prognosis. Grade 2 and 3 lesions may benefit from cartilage debridement or other more conservative surgical measures. Grade 4 lesions extend into the subchondral bone and may require bone grafting if bony cavitation is extensive",
+                              "Subchondral bone morphology (i.e. edema) on MRI",
+                              "Baseline, and 12 months post-treatment cycle based on changes of concentrations of interleukin (IL)-1\u03b2 (pg/ml), IL-6 (pg/ml), IL-8 (pg/ml), IL-11 (pg/ml), tumor necrosis factor (TNF)-alpha (pg/ml)",
+                              "Baseline, and 12 months post-treatment cycle based on changes of concentrations of CD40L (ng/ml)",
+                              "Baseline, and 12 months post-treatment cycle based on changes of high-sensitivity C-reactive protein (hsCRP ) (mg/dl)",
+                              "Baseline, and 12 months post-treatment cycle based on changes of miRNA expression (ug/dl) defined on microarray profiling"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Nature, incidence and severity of adverse events (AEs)",
+                              "Change in cartilage thickness",
+                              "Change in cartilage volume",
+                              "Change in cartilage morphology",
+                              "Change in subchondral bone morphology",
+                              "Inflammation monitoring",
+                              "Inflammation monitoring",
+                              "Inflammation monitoring",
+                              "Inflammation monitoring"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Time Frame: Baseline (T0), 3 months (T1), 6 months (T2), 9 months (T3), 12 months (T4), 24 months (T5)",
+                              "Baseline, and 12 months post-treatment cycle",
+                              "Baseline, and 12 months post-treatment cycle",
+                              "Baseline, and 12 months post-treatment cycle",
+                              "Baseline, and 12 months post-treatment cycle",
+                              "Baseline, and 12 months post-treatment cycle]",
+                              "Baseline, and 12 months post-treatment cycle",
+                              "Baseline, and 12 months post-treatment cycle",
+                              "Baseline, and 12 months post-treatment cycle"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03869229"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change from baseline in SpO2 at every visit",
+                              "Check survival status of the subject at Visit 6, 10(Week 4, 8 and Week 12 if follow-up is possible) and record the status on eCRF.",
+                              "Check the duration of the ventilator retention, check when the ventilator treatment has been completed after the baseline.",
+                              "Perform chest X-ray every week (W1-W12) after screening, baseline, and W1 followed by 2-week intervals (W1, W2, W4, W6, W8, W12). In addition, CT is measured at week baseline, W4, W8 and W12.",
+                              "Check the SOFA score every week (W1-W12) after baseline, and W1 followed by 2-week intervals (W1, W2, W4, W6, W8, W12).\n\nChoose the worst of the six physiological measurements and score between 0 and 4 points each and check the total. If the measured value is more than 3 points, it is defined as organ failure.",
+                              "The Real-time PCR (RT-PCR) test for COVID-19 is measured at 2-week intervals (W1-W12) from Screening, Baseline to W1, W2, W4, W6, W8 and W12."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "SpO2",
+                              "Mortality rate",
+                              "Ventilator treatment status",
+                              "Improvement of pneumonia assessed by radiologic examination(Chest X-ray or CT)",
+                              "SOFA score (Sequential Organ Failure Assessment)",
+                              "2019 nCOV nucleic acid test"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "From baseline to Week 12",
+                              "Week 4, Week 8, and Week 12",
+                              "From Week 1 to Week 12",
+                              "From baseline to Week 12",
+                              "From baseline to Week 12",
+                              "From baseline to Week 12"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04527224"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The analysis will allow us to assess if stem cells can improve endothelial function. The RHI scores will be reviewed at the 3, 6, 9, and 12 month visits."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Improvements in RHI (reactive hyperemic index) scores of greater than 0.3"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02107118"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Number of subjects that develop upper/lower respiratory infection with hospitalization criteria",
+                              "change from baseline in leukocyte differential",
+                              "change from baseline in C Reactive protein",
+                              "change from baseline in TNF alpha",
+                              "change from baseline in IL-6",
+                              "change from baseline in IL-10",
+                              "clinical lab evaluation of level of glucose in the blood (mg/dL)",
+                              "clinical lab evaluation of level of calcium in the blood (mg/dL)",
+                              "clinical lab evaluation of level of albumin in the blood (g/dL)",
+                              "clinical lab evaluation of level of total protein in the blood (g/dL)",
+                              "clinical lab evaluation of level of sodium in the blood (mol/L)",
+                              "clinical lab evaluation of level of total carbon dioxide in the blood (mmol/L)",
+                              "clinical lab evaluation of level of potassium in the blood (mmol/L)",
+                              "clinical lab evaluation of level of chloride in the blood (mmol/L)",
+                              "clinical lab evaluation of level of BUN in the blood (mg/dL)",
+                              "clinical lab evaluation of level of creatinine in the blood (mg/dL)",
+                              "clinical lab evaluation of level of alkaline phosphatase in the blood (IU/L)",
+                              "clinical lab evaluation of level of alanine aminotransferase in the blood (IU/L)",
+                              "clinical lab evaluation of level of total bilirubin in the blood (mg/dL)",
+                              "clinical lab evaluation of level of white blood cells in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of level of red blood cells in the blood (x 10^6/uL)",
+                              "clinical lab evaluation of level of hemoglobin in the blood (g/dL)",
+                              "clinical lab evaluation of level of hematocrit in the blood (%)",
+                              "clinical lab evaluation of mean corpuscular volume in the blood (fL)",
+                              "clinical lab evaluation of mean corpuscular hemoglobin in the blood (pg)",
+                              "clinical lab evaluation of mean corpuscular hemoglobin concentration in the blood (g/dL)",
+                              "clinical lab evaluation of red cell distribution width in the blood (%)",
+                              "clinical lab evaluation of neutrophils in the blood (%)",
+                              "clinical lab evaluation of lymphocytes in the blood (%)",
+                              "clinical lab evaluation of monocytes in the blood (%)",
+                              "clinical lab evaluation of eosinophils in the blood (%)",
+                              "clinical lab evaluation of basophils in the blood (%)",
+                              "clinical lab evaluation of absolute neutrophils in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of absolute lymphocytes in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of absolute monocytes in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of absolute eosinophils in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of absolute basophils in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of immature granulocytes in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of platelets in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of time for blood to coagulate (seconds)",
+                              "clinical lab evaluation of international normalized ratio of blood coagulation (no unit)",
+                              "Short-form 36 Health Survey; scored on a scale of 0-100; lower score equals more disability",
+                              "Depression module; scores DSM-IV criteria 0-3 to monitor severity of depression"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Absence of upper/lower respiratory infection",
+                              "Leukocyte differential",
+                              "C Reactive protein",
+                              "TNF alpha",
+                              "IL-6",
+                              "IL-10",
+                              "Glucose",
+                              "Calcium",
+                              "Albumin",
+                              "Total protein",
+                              "Sodium",
+                              "Total carbon dioxide",
+                              "Potassium",
+                              "Chloride",
+                              "BUN",
+                              "Creatinine",
+                              "Alkaline phosphatase",
+                              "Alanine aminotransferase",
+                              "Total bilirubin",
+                              "white blood cells",
+                              "red blood cells",
+                              "hemoglobin",
+                              "hematocrit",
+                              "mean corpuscular volume",
+                              "mean corpuscular hemoglobin",
+                              "mean corpuscular hemoglobin concentration",
+                              "red cell distribution width",
+                              "neutrophils",
+                              "Lymphs",
+                              "Monocytes",
+                              "Eosinophils",
+                              "Basophils",
+                              "Absolute neutrophils",
+                              "Absolute lymphs",
+                              "Absolute monocytes",
+                              "Absolute eosinophils",
+                              "Absolute basophils",
+                              "Immature granulocytes",
+                              "Platelets",
+                              "Prothrombin time",
+                              "INR",
+                              "SF-36",
+                              "PHQ-9"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "week 0 through week 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26",
+                              "weeks 0, 6, 14, 26"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04348435"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Number of Subjects Alive at 12 months Post Transplant",
+                              "Return of SAA during the specified post-transplantation period.",
+                              "Number of patients with chronic graft-versus-host disease by 6 months and 1 year",
+                              "Occurring of any tumors during the specified post-transplantation period.",
+                              "Association between AD-HSC transplantation and response in hemoglobin, platelet, total white blood cell count, and absolute neutrophil count to be evaluate by maximal hemoglobin, platelet, total white blood cell count, and absolute neutrophil counts achieved in patients with severe aplastic anemia",
+                              "Adverse events like allergic reactions, infectious diseases, organ dysfunction or other related to AD-HSC infusion will be assessed",
+                              "Units of blood or platelets transfused after AD-HSC infusion will be measured and compared to previously.",
+                              "Number of death after transplantation during the specified post-transplantation period."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "To estimate the overall survival (OS) at 1 year following AD-HSC transplantation for Patients with Severe Aplastic Anemia",
+                              "Relapse",
+                              "Incidence of chronic graft-versus-host disease",
+                              "Evaluation of the occurrence of secondary malignancies",
+                              "Hematology labs",
+                              "Number of participants with adverse events as a measure of safety and tolerability of intravenous AD-HSC infusion in patients with severe aplastic anemia",
+                              "Transfusional requirements",
+                              "To assess treatment related mortality"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year",
+                              "1 year post transplant",
+                              "6 months",
+                              "6 months post transplant",
+                              "12 weeks",
+                              "weekly untill 12 months",
+                              "weekly untill 6 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02407470"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "DTI to assess macro- and micro-structural properties",
+                              "[11C]ER-176 tracer/label to identify brain proteins associated with neuroinflammatory response regulation",
+                              "Dichotomized-Glasgow Outcomes Score (GOSE) to evaluate affect, functional outcome, and neuropsychological function",
+                              "Galveston Orientation and Amnesia Test (GOAT) evaluation of cognition",
+                              "Rivermead Post-Concussion Symptoms Questionnaire (RPSQ) evaluation to identify presence and severity of concussive symptoms",
+                              "Automated Neuropsychological Assessment Metrics (ANAM) evaluation of attention, concentration, reaction time, memory, processing speed, and decision-making",
+                              "Verbal Selective Reminding Test (VSRT) to evaluate verbal learning and memory",
+                              "Verbal Fluency Test (VFT) to evaluate vocabulary size, lexical access speed, updating, and inhibition ability",
+                              "Stroop to evaluate selective attention and cognitive flexibility",
+                              "measure IL-1\u03b1 via a bead-based, flow cytometric ELISA for the cytokines",
+                              "measure IL-4 via a bead-based, flow cytometric ELISA for the cytokines",
+                              "measure TNF\u03b1 via a bead-based, flow cytometric ELISA for the cytokines",
+                              "measure IL-6 via a bead-based, flow cytometric ELISA for the cytokines",
+                              "measure IL-10 via a bead-based, flow cytometric ELISA for the cytokines",
+                              "measure concentration of albumin via BCG immunochemical analysis"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Whole brain MRI",
+                              "PET/DT-MRI",
+                              "Glasgow Outcome Score",
+                              "Galveston Orientation and Amnesia Test",
+                              "Rivermead Post-Concussion Symptoms Questionnaire",
+                              "Automated Neuropsychological Assessment Metrics",
+                              "Verbal Selective Reminding Test",
+                              "Verbal Fluency Test",
+                              "Stroop",
+                              "Interleukin 1-alpha",
+                              "Interleukin 4",
+                              "Tumor necrosis factor alpha",
+                              "Interleukin 6",
+                              "Interleukin 10",
+                              "Albumin"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline, change from baseline at 6 months post-infusion",
+                              "Baseline, change from baseline at 6 months post-infusion",
+                              "Baseline, change from baseline at Imaging visit #2, change from baseline at 6 months post-infusion, change from baseline at 1 year post-infusion",
+                              "Baseline, change from baseline at Imaging visit #2, change from baseline at 6 months post-infusion, change from baseline at 1 year post-infusion",
+                              "Baseline, change from baseline at Imaging visit #2, change from baseline at 6 months post-infusion, change from baseline at 1 year post-infusion",
+                              "Baseline, change from baseline at Imaging visit #2, change from baseline at 6 months post-infusion, change from baseline at 1 year post-infusion",
+                              "Baseline, change from baseline at Imaging visit #2, change from baseline at 6 months post-infusion, change from baseline at 1 year post-infusion",
+                              "Baseline, change from baseline at Imaging visit #2, change from baseline at 6 months post-infusion, change from baseline at 1 year post-infusion",
+                              "Baseline, change from baseline at Imaging visit #2, change from baseline at 6 months post-infusion, change from baseline at 1 year post-infusion",
+                              "Baseline, change from baseline at 6 months post-infusion, change from baseline 1 year post-infusion",
+                              "Baseline, change from baseline at 6 months post-infusion, change from baseline 1 year post-infusion",
+                              "Baseline, change from baseline at 6 months post-infusion, change from baseline 1 year post-infusion",
+                              "Baseline, change from baseline at 6 months post-infusion, change from baseline 1 year post-infusion",
+                              "Baseline, change from baseline at 6 months post-infusion, change from baseline 1 year post-infusion",
+                              "Baseline, change from baseline at 6 months post-infusion, change from baseline 1 year post-infusion"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04063215"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "A hemoglobin A1c (HbA1c) test measures the amount of blood sugar (glucose) attached to hemoglobin",
+                              "Fasting blood glucose (FPG) measures the levels of glucose (sugar) in the blood",
+                              "C-peptide levels",
+                              "Blood insulin",
+                              "Insulin dose"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "HbA1c",
+                              "Fasting blood glucose (FPG)",
+                              "C-peptide levels",
+                              "Blood insulin",
+                              "Insulin dose"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "up to the 6-month period following treatment",
+                              "up to the 6-month period following treatment",
+                              "up to the 6-month period following treatment",
+                              "up to the 6-month period following treatment",
+                              "up to the 6-month period following treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Heterologous Adipose-Derived Mesenchymal Stem Cells and Vitamin D Supplementation in Patients with Recent-Onset Type 1 Diabetes Mellitus-Six Months Follow-Up"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://diabetesjournals.org/diabetes/article/67/Supplement_1/1112-P/54170/Heterologous-Adipose-Derived-Mesenchymal-Stem"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05308836"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "will be assessed by change in serum levels of Cr, Urea and GFR. Time Frame: 12 hr after injection,1,2 weeks then monthly until a year after 1st injection.",
+                              "It will be assessed by change in serum levels of IL-2, 10. Time frame: 12 hour after injection then monthly until a year 1st injection.",
+                              "It will be assessed by change in serum levels of Treg. Time frame: 12 hr after injection,1 week, 3, 6,12 months after 1st injection."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Renal function",
+                              "Increase in anti inflammatory factors",
+                              "Increase in Treg"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 hours",
+                              "12 hours",
+                              "12hours"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Related Info"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://royaninstitute.org"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02382874"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04889963"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Monitoring for changes in qt interval",
+                              "change from baseline in leukocyte differential",
+                              "clinical lab evaluation of level of glucose in the blood (mg/dL)",
+                              "clinical lab evaluation of level of calcium in the blood (mg/dL)",
+                              "clinical lab evaluation of level of albumin in the blood (g/dL)",
+                              "clinical lab evaluation of level of total protein in the blood (g/dL)",
+                              "clinical lab evaluation of level of sodium in the blood (mol/L)",
+                              "clinical lab evaluation of level of total carbon dioxide in the blood (mmol/L)",
+                              "clinical lab evaluation of level of potassium in the blood (mmol/L)",
+                              "clinical lab evaluation of level of chloride in the blood (mmol/L)",
+                              "clinical lab evaluation of level of BUN in the blood (mg/dL)",
+                              "clinical lab evaluation of level of creatinine in the blood (mg/dL)",
+                              "clinical lab evaluation of level of alkaline phosphatase in the blood (IU/L)",
+                              "clinical lab evaluation of level of alanine aminotransferase in the blood (IU/L)",
+                              "clinical lab evaluation of level of total bilirubin in the blood (mg/dL)",
+                              "clinical lab evaluation of level of white blood cells in the blood (x10^3/uL)",
+                              "clinical lab evaluation of level of red blood cells in the blood (x10^6/uL)",
+                              "clinical lab evaluation of level of hemoglobin in the blood (g/dL)",
+                              "clinical lab evaluation of level of hematocrit in the blood (%)",
+                              "clinical lab evaluation of level of mean corpuscular volume in the blood (fL)",
+                              "clinical lab evaluation of level of mean corpuscular hemoglobin in the blood (pg)",
+                              "clinical lab evaluation of level of mean corpuscular hemoglobin concentration in the blood (g/dL)",
+                              "clinical lab evaluation of level of red cell distribution width in the blood (%)",
+                              "clinical lab evaluation of level of neutrophils in the blood (%)",
+                              "clinical lab evaluation of level of lymphocytes in the blood (%)",
+                              "clinical lab evaluation of level of monocytes in the blood (%)",
+                              "clinical lab evaluation of level of eosinophils in the blood (%)",
+                              "clinical lab evaluation of level of basophils in the blood (%)",
+                              "clinical lab evaluation of level of absolute neutrophils in the blood (x10^3/uL)",
+                              "clinical lab evaluation of level of absolute lymphocytes in the blood (x10^3/uL)",
+                              "clinical lab evaluation of level of absolute monocytes in the blood (x10^3/uL)",
+                              "clinical lab evaluation of level of absolute eosinophils in the blood (x10^3/uL)",
+                              "clinical lab evaluation of level of absolute basophils in the blood (x10^3/uL)",
+                              "clinical lab evaluation of level of immature granulocytes in the blood (x10^3/uL)",
+                              "clinical lab evaluation of level of platelets in the blood (x10^3/uL)",
+                              "clinical lab evaluation of time for blood to coagulate (seconds)",
+                              "clinical lab evaluation of international normalized ratio of blood coagulation (no unit)",
+                              "clinical lab evaluation of percentage of cells CD3- and CD54+ (%)",
+                              "clinical lab evaluation of ratio of CD4+ cells to CD8+ cells (no unit)",
+                              "clinical lab evaluation of level of myoglobin in the blood (ng/mL)",
+                              "clinical lab evaluation of level of myoglobin in the blood (ng/mL)",
+                              "clinical lab evaluation of level of creatinine kinase in the blood (U/L)",
+                              "clinical lab evaluation of level of serum ferritin in the blood (ng/mL)",
+                              "incidence of adverse events",
+                              "change from baseline in ordinal scale score; scale of 1-7; a score of 1 indicates death and 7 indicates subject is not hospitalized and has no limitations on activities.",
+                              "change from baseline in D-dimer",
+                              "change from baseline chest x-ray result",
+                              "change from baseline CT scan result",
+                              "time to achieve negative PCR test results"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "EKG qt interval",
+                              "Leukocyte differential",
+                              "Glucose",
+                              "Calcium",
+                              "Albumin",
+                              "Total protein",
+                              "Sodium",
+                              "Total carbon dioxide",
+                              "Potassium",
+                              "Chloride",
+                              "BUN",
+                              "Creatinine",
+                              "Alkaline phosphatase",
+                              "Alanine aminotransferase",
+                              "Total bilirubin",
+                              "White blood cells",
+                              "Red blood cells",
+                              "Hemoglobin",
+                              "Hematocrit",
+                              "Mean corpuscular volume",
+                              "Mean corpuscular hemoglobin",
+                              "Mean corpuscular hemoglobin concentration",
+                              "Red cell distribution width",
+                              "Neutrophils",
+                              "Lymphs",
+                              "Monocytes",
+                              "Eosinophils",
+                              "Basophils",
+                              "Absolute neutrophils",
+                              "Absolute lymphs",
+                              "Absolute monocytes",
+                              "Absolute eosinophils",
+                              "Absolute basophils",
+                              "Immature granulocytes",
+                              "Platelets",
+                              "Prothrombin time",
+                              "INR",
+                              "NK cell surface antigen (CD3-CD54+)",
+                              "CD4+/CD8+ ratio",
+                              "Myoglobin",
+                              "Troponin",
+                              "Creatinine kinase MB",
+                              "Serum ferritin",
+                              "Adverse events",
+                              "7-point ordinal scale",
+                              "D-dimer",
+                              "Chest X-ray",
+                              "CT scan",
+                              "PCR test for SARS-CoV-2"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "screening, day 0, 3, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening, day 0, 7, 10",
+                              "screening through day 28",
+                              "screening, day 0, 3, 7, 10, 28",
+                              "screening, day 0, 7, 10",
+                              "Day 0, Day 28",
+                              "Day 0, Day 28",
+                              "day 0, 3, 7, 10"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04362189"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03925649"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [
+                              "Hope Biosciences"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.hope.bio"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04029896"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change from baseline in WOMAC subscale (Function) score at Week 12, 24, and 36",
+                              "Change from baseline in WOMAC subscale (Pain) score at Week 12, 24, 36, and 48",
+                              "Change from baseline in total WOMAC score at Week 12, 24, 36, and 48",
+                              "Change from baseline in VAS score at Week 12, 24 and 36",
+                              "Change from baseline in IKDC score at Week 12, 24, 36, and 48",
+                              "Change from baseline in SF-36 score at Week 12, 24, 36, and 48",
+                              "Change from baseline in structural changes to the knee joint determined by MRI at Week 48",
+                              "Change from baseline in Kellgren-Lawrence grade of knee osteoarthritis determined by X-ray at Week 48",
+                              "The number and amount of rescue medication use at Week 12, 24, 36, and 48"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Western Ontario and McMaster Universities Arthritis Index (WOMAC) subscale (Function)",
+                              "Western Ontario and McMaster Universities Arthritis Index (WOMAC) subscale (Pain)",
+                              "Total Western Ontario and McMaster Universities Arthritis Index (WOMAC) score",
+                              "Visual Analog Scale (VAS) score",
+                              "International Knee Documentation Committee (IKDC) score",
+                              "36-Item Short Form health survey questionnaires (SF-36) score",
+                              "Structural changes in knee joint",
+                              "Kellgren-Lawrence grade",
+                              "Number and amount of rescue medication use"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Week 12, 24 and 36",
+                              "Week 12, 24, 36, and 48",
+                              "Week 12, 24, 36, and 48",
+                              "Week 12, 24 and 36",
+                              "Week 12, 24, 36, and 48",
+                              "Week12, 24, 36, and 48",
+                              "Week 48",
+                              "Week 48",
+                              "Week 12, 24, 36, and 48"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04368806"
+                        ]
+                  },
+                  {
+                        "Rank": 28,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "efficacy",
+                              "efficacy",
+                              "efficacy",
+                              "efficacy",
+                              "efficacy",
+                              "efficacy",
+                              "efficacy",
+                              "efficacy",
+                              "efficacy",
+                              "efficacy",
+                              "efficacy",
+                              "efficacy",
+                              "efficacy",
+                              "efficacy",
+                              "efficacy",
+                              "efficacy"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "The proportion of subjects who are infected by SARS-Cov-2 measured by PCR or other nuclear level-based SARS-Cov-2 virus testing in respiratory tract specimens (oropharyngeal samples) collected by oropharyngeal swab using the CDC standard method.",
+                              "The proportion of subjects who are infected by SARS-Cov-2 virus develop symptoms including mild, classic, severe and critical sever cases between study group and control group.",
+                              "Change of proportion of subjects who are infected by SARS-Cov-2 and develop IgM/IgG antibodies against SARS-Cov-2 between study group and control group.",
+                              "Change of lymphocyte count in white blood cell counts from the baseline",
+                              "Change of PaO2 arterial blood gases from the baseline",
+                              "Compare the proportion of subjects who develop severe COVID-19 pneumonia cases for both study and control groups",
+                              "COVID-19 mortality rates for both study and control groups",
+                              "Change of C-reactive protein (CRP) (mg/L) from the baseline",
+                              "Change of D-dimer (mg/L) from the baseline",
+                              "Change of Procalcitonin (ug)/L from the baseline",
+                              "Change of pro-type B natriuretic peptide (pro-BNP) (pg/mL) from the baseline",
+                              "Change of Bilirubin (mg/dL) from the baseline",
+                              "Change of Creatinine (mg/dL) from the baseline",
+                              "Change in blood test values for cytokine panels (IL-1\u03b2, IL-6, IL-8, IL-10, TNF\u03b1) from the baseline",
+                              "The proportion of subjects from SARS-CoV-2 RT-PCR positive to negativity in respiratory tract specimens (oropharyngeal samples) collected by oropharyngeal swab using the CDC standard method. as compared to control group",
+                              "Quantifying viral RNA in stool for baseline and final follow-up."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04428801"
+                        ]
+                  },
+                  {
+                        "Rank": 29,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "MRI perform to measure cartilage defect size change from baseline up to 15 weeks",
+                              "Change in WOMAC Total score from baseline up to 15, 27 weeks",
+                              "Change in WOMAC sub-scale from baseline up to 15, 27 weeks",
+                              "Change in Kellgren & Lawrence grade from baseline up to 15, 27 weeks",
+                              "Change in the score of EQ-5D from baseline up to 15, 27 weeks",
+                              "change from baseline in knee flexion Range of Motion(ROM) at 15,27 weeks by physical examination",
+                              "Symptoms, pain and functionality of the knee joint will be evaluated via the Knee Injury and Osteoarthritis Outcome Score (KOOS)",
+                              "The percentage of subjects who were evaluated as improved at 15 weeks and 27 weeks in the patient global impression of change",
+                              "Change in PSQI from baseline up to 15, 27 weeks",
+                              "Change from baseline in Biomarkers up to 15, 27 weeks"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "MRI scan",
+                              "WOMAC score",
+                              "WOMAC sub-scale",
+                              "Kellgren & Lawrence grade",
+                              "EQ5D",
+                              "ROM",
+                              "KOOS (Knee Injury & Osteoarthritis Outcome Score)",
+                              "PGIC(Patient Global Impression of Change)",
+                              "PSQI(Pittsburgh Sleep Quality Index)",
+                              "Biomarkers",
+                              "Incidence of adverse reactions and characteristics associated with investigational product"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03000712"
+                        ]
+                  },
+                  {
+                        "Rank": 30,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Changes in MDS-UPDRS Part I",
+                              "Changes in Total score MDS-UPDRS Part II and Part III",
+                              "Changes in MDS-UPDRS Part III",
+                              "Changes in MDS-UPDRS Part IV",
+                              "Changes in SF-36",
+                              "Improvements in Participants PFS-16 scores",
+                              "Improvements in Participants PDQ-39 scores",
+                              "Changes in Participants VAS Pain Scales",
+                              "Changes in Participants VAS spasms Scale",
+                              "Changes in Participants medications taken"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "18. Changes in Movement Disorder Society Unified Parkinson's Disease Rating Scale -UPDRS Part I.",
+                              "19. Changes in the total score Movement Disorder Society Unified Parkinson's Disease Rating Scale -UPDRS Part II and Part III.",
+                              "20. Changes in Movement Disorder Society Unified Parkinson's Disease Rating Scale MDS-UPDRS Part III.",
+                              "21. Changes in Movement Disorder Society Unified Parkinson's Disease Rating Scale MDS-UPDRS Part IV.",
+                              "22. Changes in Short Form 36 Health Survey Questionnaire (SF-36).",
+                              "23. Changes in Parkinson's disease fatigue scale (PFS-16)",
+                              "24. Changes in Parkinson's disease Questionnaire (PDQ-39).",
+                              "25. Changes in Visual Analog Scale for Pain.",
+                              "26. Changes in Visual Analog Scale for Muscle spasms.",
+                              "27. Changes in Dosage of medications taken to treat Parkinson's disease."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04995081"
+                        ]
+                  },
+                  {
+                        "Rank": 31,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The EDSS is a method of quantifying disability in multiple sclerosis and monitoring changes in the level of disability over time. This scale ranges from 0 to 10 in 0.5-unit increments that represent higher levels of disability. Scoring is based on an examination by a neurologist.",
+                              "The Barthel index is an ordinal scale that evaluates functional independence in the domains of personal care and mobility. A total of ten variables describing activities of daily living and mobility are considered, with a higher number reflecting better capacity to operate independently. The Barthel Index assesses the level of help needed by a person on a set of ten activities of daily living (ADL) related to mobility and self-care.",
+                              "The 9-HPT is a short, standardized upper extremity exam. It measures the time taken to complete the test activity, recorded in seconds. The higher the score the worse the disability.",
+                              "The PHQ-9 is the most used depression and suicidal thoughts screening test used to monitor the severity of depression and response to treatment.\n\nDepression Severity: 0-4 none, 5-9 mild, 10-14 moderate, 15-19 moderately severe, 20-27 severe.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including thromboembolic events, peripheral events defined as, thromboembolism of the extremities, also infections and hypersensitivities."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "To evaluate the efficacy of intravenous infusions of HB-adMSCs vs placebo in patients with Multiple Sclerosis as determined by changes in the Expanded Disability Status Scale (EDSS)",
+                              "To evaluate the efficacy of intravenous infusions of HB-adMSCs vs placebo in patients with Multiple Sclerosis as determined by changes in the Barthel Index",
+                              "To determine the efficacy of intravenous infusions of HB-adMSCs vs. Placebo in patients with Multiple Sclerosis as determined by changes in 9-Hole Peg Test",
+                              "To identify the safety of intravenous infusions of HB-adMSCs vs. Placebo in patients with Multiple Sclerosis as determined by changes in Patient Health Questionnaire (PHQ-9)",
+                              "To assess the safety of intravenous infusions of HB-adMSCs vs. Placebo in patients with Multiple Sclerosis as determined by the incidence of adverse events or serious adverse events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline to Week 52",
+                              "Baseline to Week 52",
+                              "Baseline to Week 52",
+                              "Baseline to Week 52",
+                              "Baseline to Week 52"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05116540"
+                        ]
+                  },
+                  {
+                        "Rank": 32,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "To evaluate the change of treated lumbar intervertebral discs using Muscle Test, Somatosensory Test, Deep Tendon Reflex and VAS (Visual Analogue Scale Score 0-10) at 6 months post injection of MSCs.",
+                              "To determine the overall safety of Autologous Adipose Tissue Derived Mesenchymal Stem Cells carrier using physical examinations, vital signs, treatment emergent adverse events (TEAEs), and the results of clinical lab tests."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Changes of Neurological Functions",
+                              "Safety evaluation"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "24 weeks",
+                              "24 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01643681"
+                        ]
+                  },
+                  {
+                        "Rank": 33,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04604288"
+                        ]
+                  },
+                  {
+                        "Rank": 34,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluation the presence of hematoma 1 month after injection.",
+                              "Evaluation the muscle bulk changes with sonography and MRI 6 months after transplantation.",
+                              "Evaluation the decrease of CPK 1 month after cell transplantation."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Hematoma",
+                              "Muscle bulk",
+                              "CPK"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 month",
+                              "6 months",
+                              "1month"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Related Info"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://Royaninstitute.org"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02208713"
+                        ]
+                  },
+                  {
+                        "Rank": 35,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [
+                              "Hope Biosciences"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.hope.bio"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04064957"
+                        ]
+                  },
+                  {
+                        "Rank": 36,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "one year after transplantation (patient will follow for any adverse event via one year after transplantation ( this measures will evaluate within follow up visits at 1th , 2th , 4th, 8th, 12th weeks and 6th and 12th month after transplantation",
+                              "Evaluation the AMH serum level by blood sampling up to one year after transplantation (patient will follow for any adverse event via one year after transplantation ( this measures will evaluate within follow up visits at 1th , 2th , 4th, 8th, 12th weeks and 6th and 12th month after transplantation",
+                              "Evaluation the number of antral follicle by sonography up to one year after transplantation ( this measures will evaluate within follow up visits at 1th , 2th , 4th, 8th, 12th weeks and 6th and 12th month after transplantation",
+                              "Evaluation the antral follicle volume by sonography up to one year after transplantation ( this measures will evaluate within follow up visits at 1th , 2th , 4th, 8th, 12th weeks and 6th and 12th month after transplantation",
+                              "Evaluation the menstruation recurrence rate up to one year after transplantation ( this measures will evaluate within follow up visits at 1th , 2th , 4th, 8th, 12th weeks and 6th and 12th month after transplantation",
+                              "Evaluation the pregnancy rate up to one year after transplantation ( this measures will evaluate within follow up visits at 1th , 2th , 4th, 8th, 12th weeks and 6th and 12th month after transplantation"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Follicle Stimulating Hormone (FSH) serum level",
+                              "Anti-Mullerian Hormone (AMH) serum level",
+                              "Number of antral follicle",
+                              "Antral follicle volume",
+                              "Menstruation recurrence rate",
+                              "Pregnancy rate"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Up to 12months",
+                              "Up to 12months",
+                              "Up to 12months",
+                              "Up to 12months",
+                              "Up to 12 months",
+                              "Up to 12months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Related Info"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://RoyanInstitute.org"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02603744"
+                        ]
+                  },
+                  {
+                        "Rank": 37,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "MDS-UPDS Parts I, II, III and IV.",
+                              "Non-Motor Aspects of Experiences of Daily Living (nM-EDL), including complex behaviors such as, cognitive impairment, hallucinations and psychosis, depressed mood, anxious mood, apathy, features of dopamine dysregulation syndrome, sleep problems, daytime sleepiness, pain and other sensations, urinary problems, constipation problems, light headedness on standing and fatigue.",
+                              "Motor Examination, including speech, facial expression, rigidity, finger tapping, hand movements, pronation-supination movements of hands, toe tapping, leg agility, arising from chair, gait, freezing of gait, postural stability, posture, global spontaneity of movement (body bradykinesia), postural tremor of the hands, kinetic tremor of the hands, rest tremor amplitude, constancy of rest tremor, dyskinesias impact and Hoehn and Yahr stage.",
+                              "Motor Complications, including time spent with dyskinesias and others.",
+                              "Communication - Short Form",
+                              "Ability to Participate in Social Roles and Activities - Short Form",
+                              "Anxiety - Short Form",
+                              "Depression - Short Form",
+                              "Emotional and Behavioral Dyscontrol - Short Form",
+                              "Fatigue - Short Form",
+                              "Lower Extremity Function (Mobility) - Short Form",
+                              "Positive Affect and Well-Being - Short Form",
+                              "Sleep Disturbance - Short Form",
+                              "Upper Extremity Function (Fine Motor, ADL) - Short Form",
+                              "Stigma-Short Form",
+                              "Satisfaction with Social Roles and Activities - Short Form",
+                              "Cognition Function- Short Form",
+                              "Score of \u22658 indicates the presence of significant fatigue.",
+                              "Difficulties across the 8 quality of life dimensions of functioning of wellbeing.",
+                              "Visual Analog Scale for Pain.",
+                              "Dosage of medications.",
+                              "Adverse Event (TEAEs)",
+                              "Including thromboembolic events, peripheral events defined as, thromboembolism of the extremities, also infections and hypersensitivities.",
+                              "CBC",
+                              "Visual Analog Scale for muscle spasms.",
+                              "Changes in Respiratory Rate.",
+                              "Changes in Heart Rate.",
+                              "Changes in Body Temperature.",
+                              "Changes in Blood Pressure.",
+                              "Changes in Oxygen Saturation.",
+                              "Physical examination results.",
+                              "Weight in lb.",
+                              "CMP",
+                              "Coagulation Panel"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Changes in MDS-UPDS total score.",
+                              "Changes in MDS-UPDRS Part I.",
+                              "Changes in MDS-UPDRS Part III.",
+                              "Changes in MDS-UPDRS Part IV.",
+                              "Changes in Neuro-QOL. - Communication",
+                              "Changes in Neuro-QOL. - Social Roles and Activities",
+                              "Changes in Neuro-QOL. - Anxiety",
+                              "Changes in Neuro-QOL. - Depression",
+                              "Changes in Neuro-QOL. - Dyscontrol",
+                              "Changes in Neuro-QOL. - Fatigue",
+                              "Changes in Neuro-QOL. - Mobility",
+                              "Changes in Neuro-QOL. - Well-Being",
+                              "Changes in Neuro-QOL. - Sleep",
+                              "Changes in Neuro-QOL. - Fine Motor",
+                              "Changes in Neuro-QOL. - Stigma",
+                              "Changes in Neuro-QOL. - Social Roles",
+                              "Changes in Neuro-QOL. - Cognition",
+                              "Changes in Parkinson's disease fatigue scale (PFS-16).",
+                              "Changes in Parkinson's disease Questionnaire (PDQ-39).",
+                              "Changes in Visual Analog Scale for Pain.",
+                              "Changes in Dosage of medications taken to treat Parkinson's disease.",
+                              "Incidence of treatment-emergent Adverse Event (TEAEs) and serious Adverse Events (SAEs).",
+                              "Incidence and risk of AEs of special interest (serious or non-serious),",
+                              "Clinically significant changes in laboratory values. - CBC",
+                              "Changes in Visual Analog Scale for muscle spasms.",
+                              "Clinically significant changes in vital signs. - Respiratory Rate",
+                              "Clinically significant changes in vital signs. - Heart Rate",
+                              "Clinically significant changes in vital signs. - Body Temperature.",
+                              "Clinically significant changes in vital signs. - Blood Pressure.",
+                              "Clinically significant changes in vital signs. - Oxygen Saturation.",
+                              "Clinically significant changes in physical examination results.",
+                              "Clinically significant changes in weight in lb.",
+                              "Clinically significant changes in laboratory values. - CMP",
+                              "Clinically significant changes in laboratory values. - Coagulation Panel"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52.",
+                              "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04928287"
+                        ]
+                  },
+                  {
+                        "Rank": 38,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change in low back pain will be measured by a 10 cm visual analog scale (VAS) score, with one end of the scale 0 indicating no pain, and the other end 10 indicating the worst pain ever.",
+                              "Change in low back pain and function will be measured by Global Health Scale (GHS) which includes health related questions with Likert Scales of 1 to 5, or 1 to 10. Based on the question, 1 may indicate a higher amount, or lower amount for the measured variable.",
+                              "Change in low back pain and function will be measured by Oswestry Disability Index (ODI), which contains 10 questions about daily activities with scores ranging from 0 to 5, where 0 indicates no difficulty/disability, and 5 indicates the most severe difficulty/disability. The final score is multiplied by 2 to give a final score from 0 to 100, where 0 is no difficulty/disability and 100 is severe difficulty/disability.",
+                              "Change in low back pain and function will be measured by Quality of Life (SF-36 questionnaire, which has questions regarding health and activity scored from 1 to 3, 1 to 5, or yes/no (1 to 2). Based on the question, 1 may indicate a lower amount/frequency or higher amount/frequency.",
+                              "Change in low back pain and function will be measured by Narcotic Use Questionnaire, which includes questions regarding the current use of narcotics (yes/no) and how long participants have used narcotics for pain relief (days, months, years).",
+                              "An x-ray will be performed using standard radiography technology and interpreted by a trained radiologist.",
+                              "Images will be obtained by MRI and interpreted by a trained radiologist."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in low back pain and function following injection of AD-MSCs",
+                              "Change in low back pain and function following injection of AD-MSCs",
+                              "Change in low back pain and function following injection of AD-MSCs",
+                              "Change in low back pain and function following injection of AD-MSCs",
+                              "Change in low back pain and function following injection of AD-MSCs",
+                              "Changes from Baseline in disc height index as measured by X-ray at 12 months and 24 months",
+                              "Changes from Baseline in T2 weighted signal intensity of the Nucleus Pulposus (NP) as measured by MRI without contrast"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline, treatment day, 2 weeks, 4 weeks, 3 months, 6 months, 12 months, 18 months, 24 months",
+                              "Baseline, treatment day, 2 weeks, 4 weeks, 3 months, 6 months, 12 months, 18 months, 24 months",
+                              "Baseline, treatment day, 2 weeks, 4 weeks, 3 months, 6 months, 12 months, 18 months, 24 months",
+                              "Baseline, treatment day, 2 weeks, 4 weeks, 3 months, 6 months, 12 months, 18 months, 24 months",
+                              "Baseline, treatment day, 2 weeks, 4 weeks, 3 months, 6 months, 12 months, 18 months, 24 months",
+                              "Baseline, 12 Months, 24 Months",
+                              "Baseline, 6 Months, 12 Months, 24 Months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Mayo Clinic Clinical Trials"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.mayo.edu/research/clinical-trials"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03461458"
+                        ]
+                  },
+                  {
+                        "Rank": 39,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "To evaluate change of sequential organ failure assessment (SOFA) score as compare to the baseline",
+                              "To evaluate the efficacy of allogeneic AdMSCs for COVID-19",
+                              "Compared to control group",
+                              "Compared to control group",
+                              "Compared to control group",
+                              "Compared to control group",
+                              "Compared to control group",
+                              "Compared to control group",
+                              "Compared to control group"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Recognized immune measurements evaluating patients' symptom changes and overall function",
+                              "Organ functional tests including blood specific enzymes and proteins",
+                              "Duration (days) of weaning from mechanical ventilation",
+                              "Duration (days) of ICU monitoring",
+                              "Duration (days) of vasoactive agent's usage",
+                              "Duration of hospitalization (days)",
+                              "Proportions of SARS-CoV-2 RT-PCR change to negative from respiratory tract specimens (oropharyngeal swabs) using CDC standard method",
+                              "Proportions of quantifying viral RNA in stool change to negative in final follow-up using CDC standard method",
+                              "Proportions of blood SARS-CoV-2 antibodies IgM/IgG show positive"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05017298"
+                        ]
+                  },
+                  {
+                        "Rank": 40,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change of liver function from the baseline will be evaluated by Child-Pugh score.",
+                              "Improvement rate of Child-Pugh score from the baseline will be evaluated.",
+                              "Improvement rate of Child-Pugh grade from the baseline will be evaluated.",
+                              "Change of liver function from the baseline will be evaluated by Child-Pugh score.",
+                              "Improvement rate of Child-Pugh grade from the baseline will be evaluated.",
+                              "Safety will be evaluated based on the medical review of adverse event reports and the results of clinical laboratory tests, vital sign, and physical examinations."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change of liver function evaluated by Child-Pugh score (Phase 1)",
+                              "Improvement rate of Child-Pugh score (Phase 1)",
+                              "Improvement rate of Child-Pugh grade (Phase 1)",
+                              "Change of liver function evaluated by Child-Pugh score (Phase 2)",
+                              "Improvement rate of Child-Pugh grade (Phase 2)",
+                              "Safety profile of ADR-001 including the incidence of adverse events (Phase 2)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03254758"
+                        ]
+                  },
+                  {
+                        "Rank": 41,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "MRI T2 mapping of the cartilage is a non-invasive functional imaging technique delivering cartography of the T2 relaxation time of the cartilage without any contrast injection. It is sensitive to tissue anisotropy, and provides compositional information on the cartilage collagen network, water content and proteoglycans concentration."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Quantitative T2-Mapping Evaluation of Changes in Cartilage Matrix"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months after procedure"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04351932"
+                        ]
+                  },
+                  {
+                        "Rank": 42,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Clinically significant changes in Fatigue Assessment form.",
+                              "Clinically significant changes in Dyspnea a rest",
+                              "Clinically significant changes in Dyspnea with activity",
+                              "Clinically significant changes in Cough",
+                              "Clinically significant changes in Body aches",
+                              "Clinically significant changes in Joint pain",
+                              "Clinically significant changes in Short Form 36 Health Survey Questionnaire pain",
+                              "Clinically significant changes in PHQ 9 scale. pain"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Changes in Subject's energy - Fatigue Assessment form.",
+                              "Changes in Visual Analog Scale of non -Neurological Symptoms. - Dyspnea a rest",
+                              "Changes in Visual Analog Scale of non -Neurological Symptoms. - Dyspnea with activity",
+                              "Changes in Visual Analog Scale of non -Neurological Symptoms. - Cough",
+                              "Changes in Visual Analog Scale of non -Neurological Symptoms. - Body aches",
+                              "Changes in Visual Analog Scale of non -Neurological Symptoms. - Joint pain",
+                              "Changes in Subject's quality of life - Short Form 36 Health Survey Questionnaire",
+                              "Changes in Subject's level of depression - PHQ 9 scale."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline to Weeks 26",
+                              "Baseline to Weeks 26",
+                              "Baseline to Weeks 26",
+                              "Baseline to Weeks 26",
+                              "Baseline to Weeks 26",
+                              "Baseline to Weeks 26",
+                              "Baseline to Weeks 26",
+                              "Baseline to Weeks 26"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05126563"
+                        ]
+                  },
+                  {
+                        "Rank": 43,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "An adverse event is defined any untoward or undesirable medical occurrence in the form of signs, symptoms, abnormal findings, or diseases that emerge or worsen relative to baseline (i.e., if present upon study entry) during the study regardless of causal relationship to the study drug.",
+                              "The severity of adverse events will be graded into the following categories: mild, moderate, and severe.",
+                              "The relationship of adverse events to study drug will be graded into the following categories: probable, possible, unlikely, unrelated.",
+                              "SAE is defined as adverse events that result in death, life threatening adverse experiences, hospitalization, new or prolonged disability/incapacity.",
+                              "The ASIA Impairment Scale describes a person's functional impairment (both motor and sensory) as a result of their spinal cord injury. The scale has 5 levels, ranging from A (complete) to E (normal).",
+                              "Motor Evoked Potentials (MEP) are electrical responses recorded either from muscles, or from axons of the descending motor tract, in response to electrical or magnetic stimulation of nervous system structures that govern movement. While there are many different methods for stimulation and recording, the most common approach involves transcranial electrical stimulation of the motor pathway, using subdermal needle electrodes positioned in the scalp above primary motor cortex.",
+                              "Somatosensory Evoked Potentials (SSEPs) are electrical responses recorded from the nervous system following electrical stimulation of a peripheral nerve. For example, stimulation of the median nerve at the wrist produces electrical activity that travels along the sensory pathway on its way to the brain. This activity can be recorded with electrodes positioned along that pathway.",
+                              "Patients will undergo Magnetic Resonance Imaging of the spine and the spinal cord with and without contrast.",
+                              "Blood will be drawn in order to monitor for markers of systemic inflammation. The normal range of red blood cells varies slightly between laboratories but is generally between 4.2 - 5.9 million cells/cmm. This can also be referred to as the erythrocyte count and can be expressed in international units as 4.2 - 5.9 x 10^12 cells per liter.",
+                              "Serological test - Automated white cell differential. A machine generated percentage of the different types of white blood cells, usually split into granulocytes, lymphocytes, monocytes, eosinophils, and basophils.",
+                              "Serological test: Platelets are not complete cells, but actually fragments of cytoplasm from a cell found in the bone marrow called a megakaryocyte. Platelets play a vital role in blood clotting. Normal range varies slightly between laboratories but is in the range of 150,000 - 400,000/ cmm (150 - 400 x 10^9/liter).",
+                              "Serological test: C-reactive protein (CRP) is produced by the liver. The level of CRP rises when there is inflammation throughout the body. It is one of a group of proteins called acute phase reactants that go up in response to inflammation. C-reactive protein is measured in milligrams of CRP per liter of blood (mg/L). Normal CRP levels are below 3.0 mg/dL.",
+                              "Serological test. The erythrocyte sedimentation rate (ESR) is the rate at which red blood cells sediment in a period of one hour. It is a common hematology test, and is a non-specific measure of inflammation. The normal range is 0-22 mm/hr for men and 0-29 mm/hr for women.",
+                              "Serological test - basic metabolic panel. A blood urea nitrogen (BUN) test measures the amount of nitrogen in the blood that comes from the waste product urea. Urea is made when protein is broken down in the body. Urea is made in the liver and passed out of the body in the urine. A BUN test is done to see how well the kidneys are working. Results of the blood urea nitrogen test are measured in milligrams per deciliter (mg/dL).",
+                              "Serological test - basic metabolic panel. Creatinine is a waste product produced by muscles from the breakdown of a compound called creatine. Almost all creatinine is filtered from the blood by the kidneys and released into the urine, so blood levels are usually a good indicator of how well the kidneys are working. Results are reported in mg/dL.",
+                              "Serological test - basic metabolic panel. A sodium blood test allows the doctor to see how much sodium is in the subject's blood. It helps maintain normal blood pressure, supports the work of your nerves and muscles, and regulates your body's fluid balance. A normal sodium level is between 135 and 145 milliequivalents per liter (mEq/L) of sodium.",
+                              "Serological test - basic metabolic panel. The normal potassium level in the blood is 3.5-5.0 milliEquivalents per liter (mEq/L).",
+                              "Serological test - basic metabolic panel. The normal blood reference range of chloride for adults in most labs is 96 to 106 milliequivalents (mEq) per liter.",
+                              "Serological test - basic metabolic panel. Inflamed or injured liver cells leak higher than normal amounts of certain chemicals, including liver enzymes, into the bloodstream, which can result in elevated liver enzymes on blood tests. The reference range for aspartate aminotransferase (AST) is as follows: Males: 6-34 IU/L, Females: 8-40 IU/L.",
+                              "Serological test - basic metabolic panel. For a subject without diabetes, a fasting blood sugar on awakening should be under 100 mg/dl.",
+                              "Serological test - basic metabolic panel. The normal range for carbon dioxide is 23 to 29 mEq/L (milliequivalent units per liter of blood)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Incidence of delayed adverse events",
+                              "Severity of adverse events",
+                              "Relationship of adverse events to study drug",
+                              "Incidence of serious adverse events (SAE)",
+                              "Change in sensory and motor function following completion of treatment as measured by the American Spinal Injury Association (ASIA) Impairment Scale (AIS)",
+                              "Change in sensory and motor function following completion of treatment as measured by motor evoked potentials (MEP)",
+                              "Change in sensory and motor function following completion of treatment as measured by Somatosensory Evoked Potentials (SSEPs)",
+                              "Number of subjects who develop a new pathologic mass at the spinal cord area of injection or anywhere along the spinal cord.",
+                              "Change in number of red blood cells following treatment",
+                              "Change in white blood cells with differential following treatment",
+                              "Change in number of platelets following treatment",
+                              "Change in Serum C-Reactive Protein (CRP)",
+                              "Change in Erythrocyte Sedimentation Rate (ESR)",
+                              "Change in Blood Urea Nitrogen (BUN)",
+                              "Change in Creatinine",
+                              "Change in Sodium",
+                              "Change in Potassium",
+                              "Change in Chloride",
+                              "Change in Aspartate Aminotransferase (AST)",
+                              "Change in Glucose",
+                              "Change in Carbon Dioxide"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "48 weeks post treatment",
+                              "4 weeks post-treatment",
+                              "4 weeks post-treatment",
+                              "48 weeks post-treatment",
+                              "baseline, 96 weeks",
+                              "baseline, 96 weeks post-treatment",
+                              "baseline, 96 weeks post-treatment",
+                              "approximately 96 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment",
+                              "baseline, 4 weeks post-treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Mayo Clinic Clinical Trials"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.mayo.edu/research/clinical-trials"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03308565"
+                        ]
+                  },
+                  {
+                        "Rank": 44,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04711811"
+                        ]
+                  },
+                  {
+                        "Rank": 45,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04514952"
+                        ]
+                  },
+                  {
+                        "Rank": 46,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change in the T2 MRI signal intensity of the nucleus pulposus in autologous adipose derived mesenchymal stem cells at 6 and 12 months after the transplantation compared to before the transplantation",
+                              "Assessment of the overall improvement in the Disc Height Index at 6 and 12 months after the transplantation of autologous adipose derived mesenchymal stem cells, compared to before the transplantation",
+                              "Change in the VAS at 1, 3, 6, 9, and 12 months after the transplantation of autologous adipose derived mesenchymal stem cells, compared to before the transplantation",
+                              "Change in the ODI at 1, 3, 6, 9, and 12 months after the transplantation of autologous adipose derived mesenchymal stem cells, compared to before the transplantation",
+                              "Change in the Short Form (SF)-36 at 1, 3, 6, 9, and 12 months after the transplantation of autologous adipose derived mesenchymal stem cells, compared to before the transplantation"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in the T2 MRI signal intensity of the nucleus pulposus",
+                              "Overall improvement in the Disc Height Index",
+                              "improvement in Visual Analogue Scale (VAS)",
+                              "improvement in Oswestry Disability Index (ODI)",
+                              "improvement in Short Form-36"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12months",
+                              "12months",
+                              "12 months",
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02338271"
+                        ]
+                  },
+                  {
+                        "Rank": 47,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [
+                              "Hope Biosciences Stem Cell Research Foundation"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.hopebio.org/"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04772378"
+                        ]
+                  },
+                  {
+                        "Rank": 48,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Somatosensory Evoked Potentials (SSEPs) are electrical responses recorded from the nervous system following electrical stimulation of a peripheral nerve. For example, stimulation of the median nerve at the wrist produces electrical activity that travels along the sensory pathway on its way to the brain. This activity can be recorded with electrodes positioned along that pathway.",
+                              "Neurogenic Bladder Symptom Score (NBSS) The NBSS was designed as an objective and validated way to assess bladder symptoms in patients with neurogenic bladder dysfunction as a result of spinal cord injury, multiple sclerosis, and spinal bifida. The NBSS consists of 24 questions. The first question classifies patients by bladder management, but does not make up part of the numeric score. The remaining questions address 3 domains: incontinence, storage and voiding, and consequences. The final question is an overall quality of life question. The total score can range from 0 (no symptoms at all) to 74 (maximum symptoms).",
+                              "The Adult Neurogenic Bowel Dysfunction Score\u00b9, also known as the Adult NBD score has been designed to help healthcare professionals evaluate the effectiveness of their patient's current bowel management routine by assessing the impact it has on the patient's quality of life. By having your patients answer 10 simple questions, the Adult NBD Score can help identify and quantify severity of bowel dysfunction in the adult patients. The Adult NBD score consists of 10 questions and is a symptom-score where each symptom is weighted based on its impact on quality of life. The scores from each question are added together and a total score is calculated. The maximum score is 47 while minimum is 0. Score Severity of bowel dysfunction 0-6 Very minor 7-9 Minor 10-13 Moderate 14+ Severe",
+                              "Composition in reference to normal laboratory values.",
+                              "Patients will undergo Magnetic Resonance Imaging of the spine and the spinal cord with and without contrast.",
+                              "The relationship of adverse events to study drug will be graded into the following categories: probable, possible, unlikely, unrelated."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in sensory and motor function following completion of treatment as measured by Somatosensory Evoked Potentials (SSEPs)",
+                              "change in Neurogenic Bladder Symptom Score (NBSS)",
+                              "change in Neurogenic Bowel Symptom Score",
+                              "Incidence of abnormal CSF composition",
+                              "Number of subjects who develop a new pathologic mass at the spinal cord area of injection or anywhere along the spinal cord.",
+                              "Correlation of adverse events to study drug"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "baseline, up to 12 months post injection",
+                              "up to 24 months post injection",
+                              "up to 24 months post injection",
+                              "up to 4 weeks post injection",
+                              "up to 12 months post injection",
+                              "up to 4 weeks post injection"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Mayo Clinic Clinical Trials"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.mayo.edu/research/clinical-trials"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04520373"
+                        ]
+                  },
+                  {
+                        "Rank": 49,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change in predicted FVC% at EOS Change in predicted DLCO% at EOS Change in the 6MWT at EOS Changes in the disease extent and severity as reflected by HRCT (64 SLICE) at EOS from randomisation."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "9 Month"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02135380"
+                        ]
+                  },
+                  {
+                        "Rank": 50,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [
+                              "Hope Biosciences LLC",
+                              "Hope Biosciences Stem Cell Research Foundation"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.hope.bio/",
+                              "https://www.hopebio.org/"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04798066"
+                        ]
+                  },
+                  {
+                        "Rank": 51,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2021-006068-26"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05521672"
+                        ]
+                  },
+                  {
+                        "Rank": 52,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "efficacy",
+                              "efficacy",
+                              "efficacy",
+                              "efficacy",
+                              "efficacy",
+                              "efficacy",
+                              "efficacy"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change of Knee injury and Osteoarthritis Outcome Score (KOOS, 0 is the worst and 100 is the best) from the baseline for OA-knee patients",
+                              "Change of Knee Society Score (KSS, 0 is the worst and 100 is the best) from the baseline for OA-knee patients",
+                              "Change of Hip disability and Osteoarthritis Outcome Score (HOOS, 0 is the worst and 100 is the best) from the baseline for OA-hip patients",
+                              "Change of Harris Hip Score (HHS, 0 is the worst and 100 is the best) from the baseline for OA-hip patients",
+                              "Change of the American Shoulder and Elbow Surgeons Shoulder Score (ASES, 0 is the worst and 100 is the best) from the baseline for OA-shoulder patients",
+                              "Change of Constant shoulder score (CSS, 0 is the worst and 100 is the best) from the baseline for OA-shoulder patients",
+                              "changes in joint images (X-ray or MRI) from the baseline"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 month",
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04448106"
+                        ]
+                  },
+                  {
+                        "Rank": 53,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04825626"
+                        ]
+                  },
+                  {
+                        "Rank": 54,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04825613"
+                        ]
+                  },
+                  {
+                        "Rank": 55,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04064983"
+                        ]
+                  },
+                  {
+                        "Rank": 56,
+                        "ResultsFirstSubmitDate": [
+                              "June 21, 2021"
+                        ],
+                        "ResultsFirstSubmitQCDate": [
+                              "June 21, 2021"
+                        ],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Comparing the changes of WOMAC scores between JointStem and positive control groups at 6 months Score range: 0-2,400 A score of 2,400 represents the most severe impairment and 0 represents the least impairment",
+                              "Comparing the changes of VAS scores between JointStem and positive control groups at 6 months Score range: 0-100 A score of 100 represents the most severe pain and 0 represents the least pain.",
+                              "Comparing the changes of KOOS values between JointStem and positive control groups at 6 months KOOS score = 100 - [{(average score of each item) * 100} / 4 ] Score range: 0-100 A score of 0 represents the most severe impairment and 100 represents the least impairment",
+                              "Comparing the changes of Lysholm Knee Scoring Scales between JointStem and positive control groups at 6 months Score range: 0-100 A score of 0 represents the most severe impairment and 100 represents the least impairment",
+                              "Comparing the changes of IKDC scores between JointStem and positive control groups at 6 months IKDC score = {(sum of each item score) / 87} * 100 Score range: 0-100 A score of 0 represents the most severe impairment and 100 represents the least impairment",
+                              "Comparing the changes of RAND-36 scores between JointStem and positive control groups at 6 months Score range: 0-100 A score of 0 represents the most severe impairment and 100 represents the least impairment",
+                              "Comparing the baseline and 9-month/12-month WOMAC scores in JointStem group Score range: 0-2,400 A score of 2,400 represents the most severe impairment and 0 represents the least impairment",
+                              "Comparing the baseline and 9-month/12-month VAS scores in JointStem group Score range: 0-100 A score of 100 represents the most severe pain and 0 represents the least pain.",
+                              "Comparing the baseline and 9-month/12-month MRI improvement values in JointStem group MRI Improvement Evaluation was conducted by an MRI analysis company called 'Qmetrics'. The main radiological features evaluated were bone marrow edema, osteophytes, and cartilage. Certain features, such as the appearance of a new cartilage defect or increase in the size of existing cartilage defects or osteophytes, is generally considered an indication of osteoarthritic progression. Similarly, the diminishing in severity or size of existing abnormalities would generally be considered to be a healing(improving) response.",
+                              "Comparing the baseline and 6-month/9-month/12-month Lysholm Knee Scoring Scale in JointStem group Score range: 0-100 A score of 0 represents the most severe impairment and 100 represents the least impairment",
+                              "Comparing the baseline and 6-month/9-month/12-month KOOS scores in JointStem group KOOS score = 100 - [{(average score of each item) * 100} / 4 ] Score range: 0-100 A score of 0 represents the most severe impairment and 100 represents the least impairment",
+                              "Comparing the baseline and 6-month/9-month/12-month IKDC scores in JointStem group IKDC score = {(sum of each item score) / 87} * 100 Score range: 0-100 A score of 0 represents the most severe impairment and 100 represents the least impairment",
+                              "Comparing the baseline and 6-month/9-month/12-month RAND-36 scores in JointStem group Score range: 0-100 A score of 0 represents the most severe impairment and 100 represents the least impairment"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change From Baseline on WOMAC Between JointStem and Positive Control Groups",
+                              "Change From Baseline on VAS Between JointStem and Positive Control Groups",
+                              "Change From Baseline on Knee Injury & Osteoarthritis Outcome Score (KOOS) Between JointStem and Positive Control Groups",
+                              "Change From Baseline on Lysholm Knee Scoring Scale Between JointStem and Positive Control Groups",
+                              "Change From Baseline on International Knee Documentation Committee (IKDC) Between JointStem and Positive Control Groups",
+                              "Change From Baseline on RAND-36 Score Between JointStem and Positive Control Groups",
+                              "Change From Baseline on WOMAC in JointStem Group",
+                              "Change From Baseline on VAS in JointStem Group",
+                              "Comparison of MRI Improvement Evaluation in JointStem Group",
+                              "Change of Lysholm Knee Scoring Scale From Baseline at Months 6, 9 and 12",
+                              "Change of KOOS Score From Baseline at Month 6, 9 and 12 for JointStem Group",
+                              "Change of IKDC Score From Baseline at Month 6, 9 and 12 for JointStem Group",
+                              "Change of RAND-36 Score From Baseline at Month 6, 9 and 12 for JointStem Group"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline and 6 months",
+                              "Baseline and 6 months",
+                              "Baseline and 6 months",
+                              "Baseline and 6 months",
+                              "Baseline and 6 months",
+                              "Baseline and 6 months",
+                              "Baseline, 9 months and 12 months",
+                              "Baseline, 9 months and 12 months",
+                              "Baseline, 6 months and 12 months",
+                              "Baseline, 6 months, 9 months and 12 months",
+                              "baseline, 6 month, 9 month, 12 month",
+                              "baseline, 6 month, 9 month, 12 month",
+                              "baseline, 6 month, 9 month, 12 month"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02674399"
+                        ]
+                  },
+                  {
+                        "Rank": 57,
+                        "ResultsFirstSubmitDate": [
+                              "June 17, 2021"
+                        ],
+                        "ResultsFirstSubmitQCDate": [
+                              "June 17, 2021"
+                        ],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change of MMSE from baseline at Week 30 Score range: 0-30 A score of 20 to 24 suggests mild dementia, 13 to 20 suggests moderate dementia, and less than 12 indicates severe dementia.",
+                              "Changes of CDR-SOB from baseline at Week 30 Score range: 0-18.0 0 = normal, 0.5-4.0 = questionable cognitive dementia, 4.5-9.0 = mild dementia, 9.5-15.5 = moderate dementia, and 16.0-18.0 = severe dementia",
+                              "Changes of NPI from baseline at Week 30 Score range: 0-144 higher score indicates higher disturbance.",
+                              "Changes of GDS from baseline at Week 30 Score range: 0-15 Scores of 0-4 are considered normal, depending on age, education, and complaints; 5-8 indicate mild depression; 9-11 indicate moderate depression; and 12-15 indicate severe depression.",
+                              "Change of ADCS-ADL from baseline at Week 30 Score range: 0-78 Lower score indicates greater severity.",
+                              "Changes of C-SSRS from baseline at Week 30 Score range: 0-25 Higher score indicates higher severity."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "MMSE (Mini-mental Status Examination)",
+                              "CDR-SOB (Clinical Dementia Rating-Sum of Boxes)",
+                              "NPI (Neuropsychiatric Inventory)",
+                              "GDS (Geriatric Depression Scale)",
+                              "ADCS-ADL (Alzheimer's Disease Cooperative Study Activities of Daily Living)",
+                              "C-SSRS (Columbia Suicide Severity Rating Scale)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline and 30 Weeks",
+                              "Baseline and 30 Weeks",
+                              "Baseline and 30 Weeks",
+                              "Baseline and 30 Weeks",
+                              "Baseline and 30 Weeks",
+                              "Baseline and 30 Weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment"
+                        ],
+                        "NCTId": [
+                              "NCT03117738"
+                        ]
+                  }
+            ]
+      }
+}

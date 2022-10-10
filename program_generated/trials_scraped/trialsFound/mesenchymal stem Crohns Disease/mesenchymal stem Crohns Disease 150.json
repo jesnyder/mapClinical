@@ -1,0 +1,1755 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Crohns Disease",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 43,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 43,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Autologous mesenchymal stem cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "The trial is divided in three phases:\n\nI. - Selection: Patients evaluation for study eligibility will take place within two weeks after Informed Consent signature.\n\nII.- Treatment phase includes:\n\nLiposuction procedure to obtain adipose tissue.\nProcessing and production of Autologous Mesenchymal Stem Cells from adipose tissue (ASCs)\nASCs implant\n\nIII.- Follow up: Study visits post-implant will take place at the 1st week (+/- 3 days), 4th week (+/- 3 days), 8th week (+/- 7 days), 12nd week (+/- 7 days), 24th week (+/- 7 days), and 1 year (+/- 7 days) after implant."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "Implant of ASCs."
+                        ],
+                        "InterventionType": [
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01157650"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "Mesenchymal Stem Cells",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Direct injection of adult allogeneic bone marrow derived mesenchymal stem cell product, at a dose of 75 million cells into perianal fistula(s)",
+                              "Normal saline"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal Stem Cells",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04519671"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "Mesenchymal Stem Cells",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Adult allogeneic bone marrow derived mesenchymal stem cells for the treatment of rectovaginal fistulas in the setting of Crohn's disease.",
+                              "Normal Saline"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal Stem Cells",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04519697"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "InterventionArmGroupLabel": [
+                              "High dose",
+                              "Low dose",
+                              "High dose",
+                              "Low dose"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All",
+                              "PhSol",
+                              "Infe",
+                              "Infl"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals",
+                              "Pharmaceutical Solutions",
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Unsuccessful"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M6457",
+                              "M9364",
+                              "M85407",
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Dimethyl Sulfoxide",
+                              "Immunosuppressive Agents",
+                              "Plasma-lyte 148",
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Cells in plasmalyte and containing dimethylsulfoxide",
+                              "two infusions, one week apart, each comprising adult human mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "Prochymal\u2122 adult human mesenchymal stem cells",
+                              "adult human mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "PROCHYMAL",
+                              "PROCHYMAL"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT00294112"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "InterventionArmGroupLabel": [
+                              "Mesenchymal stem cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Direct injection of 75 million allogeneic bone marrow derived mesenchymal stem cells at baseline and again after 3 months if not completely healed"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04791878"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "InterventionArmGroupLabel": [
+                              "MSCs local treatment group/combined treatment group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "MSCs treatment by intestinal submucosal injection/MSCs treatment by intravenous drip + MSCs treatment by intestinal submucosal injection"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Human Umbilical Cord Mesenchymal Stem Cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05262829"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "InterventionArmGroupLabel": [
+                              "Mesenchymal stem cells",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Allogeneic bone marrow derived mesenchymal stem cells",
+                              "Normal Saline"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal stem cells",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04519684"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "InterventionArmGroupLabel": [
+                              "Pilot"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Peri-fistula injections"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic Bone Marrow derived Human Mesenchymal Stem Cells (hMSCs)"
+                        ],
+                        "InterventionOtherName": [
+                              "allo-hMSCs"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02677350"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "InterventionArmGroupLabel": [
+                              "mesenchymal cell transplantaion",
+                              "mesenchymal cell and fibroblast transplantaion"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Mesenchymal cell transplantation in patients with Crohn's disease.",
+                              "Transplantation of mesenchymal cell and fibroblast in patients with crohn's disease."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "mesenchymal cell transplantation",
+                              "mesenchymal cell and fibroblast injection"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01874015"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "InterventionArmGroupLabel": [
+                              "mesenchymal stem cells (MSCs)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Allogeneic bone marrow derived mesenchymal stem cells (MSCs) direct injection to an ileal pouch fistula in the setting of Crohn's disease of the pouch"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "mesenchymal stem cells (MSCs)"
+                        ],
+                        "InterventionOtherName": [
+                              "Allogeneic Bone Marrow Derived Mesenchymal Stem Cells"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04073472"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "InterventionArmGroupLabel": [
+                              "Human umbilical cord mesenchymal stem cells (UC-MSCs)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "All patients to receive 1st dose of 125 million UC-MSCs and the 2nd dose of 150 million UC-MSCs only if patients have no clinical improvement post 24 weeks after 1st dose"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Human umbilical cord mesenchymal stem cells (UC-MSCs)"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05039411"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "InterventionArmGroupLabel": [
+                              "MSC"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "MSC (1.5-2 cells/kg BW) IV injection, twice at 4 weeks apart"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal Stem Cells (MSC)"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01540292"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "InterventionArmGroupLabel": [
+                              "Vertebral Bone Marrow Derived Mesenchymal Stem Cells (vBM-MSC)",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Vertebral bone marrow derived mesenchymal stem cells",
+                              "Normal Saline"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Ossium vBM-MSC",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "Ossium Vertebral Bone Marrow Derived Mesenchymal Stem Cells"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05075811"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "InterventionArmGroupLabel": [
+                              "UC-MSCs",
+                              "control"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Include"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M8941",
+                              "M8940"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Hormones",
+                              "Hormone Antagonists"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low"
+                        ],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [
+                              "D000006728"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Hormones"
+                        ],
+                        "InterventionName": [
+                              "UC-MSCs by peripheral intravenous infusion",
+                              "received hormone maintenance therapy"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02445547"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "InterventionArmGroupLabel": [
+                              "15ml of ExoFlo at Day 0, 2, 4 Week 2, 6, and every 4 weeks after that to week 46",
+                              "15ml of ExoFlo at Day 0, 2, 4 Week 2, 6, and every 8 weeks after that to week 46"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "ExoFlo 15ml, IV"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Bone Marrow MSC Derived Extracellular Vesicle Isolate"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05130983"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "InterventionArmGroupLabel": [
+                              "Control group",
+                              "Cohort 1",
+                              "Cohort 2",
+                              "Cohort 3"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Patients will undergo surgical localization, curettage of the fistulous tract and closure of the internal opening, without injection of MSCs.",
+                              "Patients will undergo surgical localization, curettage of the fistulous tract and closure of the internal opening, with local injection of indicated dose of MSCs"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Localization, curettage of the fistulous tract and closure of the internal opening without MSC injection.",
+                              "Localization, curettage of the fistulous tract and closure of the internal opening with local MSC injection."
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01144962"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "InterventionArmGroupLabel": [
+                              "Placebo",
+                              "PROCHYMAL High dose",
+                              "PROCHYMAL Low dose"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Unsuccessful"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Placebo",
+                              "intravenous infusion four times over two weeks; possibly repeated once"
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "Placebo",
+                              "PROCHYMAL adult human mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT00543374"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "InterventionArmGroupLabel": [
+                              "Prochymal\u00ae - High dose",
+                              "Prochymal\u00ae - Low dose",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Unsuccessful"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Prochymal\u00ae IV infusion",
+                              "Prochymal\u00ae Placebo-matching IV infusion"
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "Prochymal\u00ae",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "Adult Human Mesenchymal Stem Cells"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT00482092"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "InterventionArmGroupLabel": [
+                              "TH-SC01"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Allogeneic Umbilical Cord-derived Mesenchymal Stem cells perilesional injection. Human TH-SC01 cell injection (human umbilical cord mesenchymal stem cells for injection, 5 million cells / ml, 6.0-10.0ml / bottle)"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "TH-SC01"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04939337"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "InterventionArmGroupLabel": [
+                              "exosome therapy",
+                              "placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3369"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anti-Inflammatory Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "placenta-MSCs derived exosomes Exosomes are extracellular vesicles that are 30 to 150 nm in diameter. these vesicles are secreted from various cells. Mesenchymal stem cells exhibit immunomodulatory and anti- inflammatory properties by the use of paracrine effects. Exosomes as a vehicle for signaling, are responsible for a major part of cell to cell signaling. The preclinical animal studies manifested high safety and efficacy for MSC derived exosome treatment on various fistulas and inflammatory bowel disease. In this study we aimed to evaluate the safety and efficacy of PlacentaMSCs derived exosomes in treatment of patients with complex preanal fistula (non-crohn's) in phase I and II of clinical trial"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "placenal MSC derived exosomes"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05499156"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "InterventionArmGroupLabel": [
+                              "Treatment Arm",
+                              "Placebo-control group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "120 million cells administered by intralesional injection.",
+                              "24 mL saline solution by intralesional injection"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Cx601",
+                              "Saline solution"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01541579"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "InterventionArmGroupLabel": [
+                              "Prochymal"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "1440"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "PROCHYMAL will be administered IV in a total volume of 300 ml (200 million cells) at a rate of 4-6 ml/minute. Treatments will be administered on Days 42-45, Days 84-87, and Days 126-129 following first infusion in Protocol 603."
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "adult human mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "Prochymal",
+                              "remestemcel-L"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT01233960"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "InterventionArmGroupLabel": [
+                              "patients with Crohn's disease and complex perianal fistula"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Injection of 120 million allogeneic expanded adipose-derived mesenchymal stem cells around the fistula opening and around the fistula tract"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Darvadstrocel"
+                        ],
+                        "InterventionOtherName": [
+                              "Alofisel"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05322057"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASC-CD injection"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "ALLO-ASC-CD is intravenous infusion containing allogenic adipose-derived mesenchymal stem cells. Adipose-derived stem cells are directed to injured tissue, and reduce inflammation. Furthermore their immunomodulatory effects are significant for treating immune-related disease. Finally, ALLO-ASC-CD may provide a new option in treating a crohn's disease. This study is a follow-up study without intervention."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC-CD"
+                        ],
+                        "InterventionOtherName": [
+                              "Allogenic adipose-derived mesenchymal stem cell"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT03183661"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "InterventionArmGroupLabel": [
+                              "Control group",
+                              "Crohn's disease patient group",
+                              "Ulcerative colitis patient group",
+                              "Control group",
+                              "Crohn's disease patient group",
+                              "Ulcerative colitis patient group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "HB",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Herbal and Botanical",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "T120"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Cola"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Intestinal biopsies during colonoscopy",
+                              "biopsies taken on surgical specimen after intestinal resection"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Intestinal biopsies during colonoscopy",
+                              "Biopsies taken on surgical specimen"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03115749"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "InterventionArmGroupLabel": [
+                              "Single Dose"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "adAMSC will be administered in the perilesional adipose tissue, through a laparoscopic procedure"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Adipose derived allogenic mesenchymal stem cells (adAMSC)"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05521672"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "InterventionArmGroupLabel": [
+                              "remestemcel-L (150 million cells)",
+                              "remestemcel-L (300 million cells)",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All",
+                              "HB"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals",
+                              "Herbal and Botanical"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "1440"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366",
+                              "T120"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents",
+                              "Cola"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "adult allogeneic bone marrow derived mesenchymal stem cell product for the treatment of medically refractory Crohn's colitis",
+                              "adult allogeneic bone marrow derived mesenchymal stem cell product for the treatment of medically refractory Crohn's colitis",
+                              "Normal saline"
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "Remestemcel-L",
+                              "Remestemcel-L",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04548583"
+                        ]
+                  },
+                  {
+                        "Rank": 28,
+                        "InterventionArmGroupLabel": [
+                              "100M of OSSM-001",
+                              "300M of OSSM-001",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Single injection of OSSM-001 at dose of 100M or 300M cells",
+                              "Single injection of placebo (saline)"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "OSSM-001",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05407766"
+                        ]
+                  },
+                  {
+                        "Rank": 29,
+                        "InterventionArmGroupLabel": [
+                              "Mesenchymal Stromal Cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Suspension of mesenchymal stromal cells for intratissular injection"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal Stromal Cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03901235"
+                        ]
+                  },
+                  {
+                        "Rank": 30,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASC"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Infusion for Crohn's disease"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC"
+                        ],
+                        "InterventionOtherName": [
+                              "ALLO-ASC-CD"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02580617"
+                        ]
+                  },
+                  {
+                        "Rank": 31,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [],
+                        "InterventionOtherName": [],
+                        "InterventionType": [],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05177003"
+                        ]
+                  },
+                  {
+                        "Rank": 32,
+                        "InterventionArmGroupLabel": [
+                              "ASCs injection",
+                              "ASCs injection",
+                              "ASCs injection"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "CNSDep",
+                              "All",
+                              "PhSol",
+                              "VaCoAg",
+                              "Resp"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Central Nervous System Depressants",
+                              "All Drugs and Chemicals",
+                              "Pharmaceutical Solutions",
+                              "Vasoconstrictor Agents",
+                              "Respiratory System Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3259",
+                              "M21013",
+                              "M7144",
+                              "M29524",
+                              "M211051"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anesthetics",
+                              "Pharmaceutical Solutions",
+                              "Epinephrine",
+                              "Racepinephrine",
+                              "Epinephryl borate"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "In the infiltration step, adrenalin in a saline solution is infiltrated using a 19-cm specially designed disposable blunt cannula.\n\nThe aspiration step is performed by a luer-lock syringe connected to a disposable 19-cm blunt cannula.\n\nThe harvested lipoaspirate can be progressively put into the device using multiple 10-cc syringes.\n\nSubsequently, in lithotomy position, a seton will be removed and a fistula tract will be thoroughly curetted and irrigated. After a mucosal flap preparing round the internal opening, cells will be injected in the perianal adipose tissue.",
+                              "In general anesthesia subcutaneous abdominal adipose tissue will be collected by LIPOGEMS system to prepare ASCS.",
+                              "A SALVECOLL-E paste will be injected into the fistula tract."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ASCs injection",
+                              "ASCs injection",
+                              "Closure of fistula tract."
+                        ],
+                        "InterventionOtherName": [
+                              "LIPOGEMS system",
+                              "SALVECOLL-E paste"
+                        ],
+                        "InterventionType": [
+                              "Procedure",
+                              "Device",
+                              "Device"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02403232"
+                        ]
+                  },
+                  {
+                        "Rank": 33,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Application of Darvadstrocel locally, after fistula tract curettage and internal opening closure."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Stem Cell Therapy"
+                        ],
+                        "InterventionOtherName": [
+                              "Darvadstrocel"
+                        ],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05210309"
+                        ]
+                  },
+                  {
+                        "Rank": 34,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [],
+                        "InterventionOtherName": [],
+                        "InterventionType": [],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04850469"
+                        ]
+                  },
+                  {
+                        "Rank": 35,
+                        "InterventionArmGroupLabel": [
+                              "Group 1",
+                              "Group 2"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "low dose group: 1x10e7 cells/mL At 6 weeks after first stem cell injection, fistula closing was assessed. If it is not completely closed, second injection would be applied in 2 weeks. Additional dosage would be doubled to first dosage.",
+                              "high dose group: 2x10e7 cells/mL At 6 weeks after first stem cell injection, fistula closing was assessed. If it is not completely closed, second injection would be applied in 2 weeks. Additional dosage would be doubled to first dosage."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous cultured adipose derived stem cells(low dose group)",
+                              "Autologous cultured adipose derived stem cells(high dose group)"
+                        ],
+                        "InterventionOtherName": [
+                              "mesenchymal stem cell, ANTG-ASC, adipose derived stem cell",
+                              "Group1: low dose group",
+                              "mesenchymal stem cell, ANTG-ASC, adipose derived stem cell",
+                              "Group2: high dose group"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01314092"
+                        ]
+                  },
+                  {
+                        "Rank": 36,
+                        "InterventionArmGroupLabel": [
+                              "Treatment"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Injection of adipose tissue will be associated with endorectal advancement flap technique. In blind fistulas and special cases, in which the flap is not indicated, alternative techniques will be used. In all cases, autologous, micro-fragmented and minimally manipulated adipose tissue, obtained with a standardized procedure, previously validated and authorized, will be injected. This procedure uses the \"Lipogems \u00ae\" device (Lipogems International SpA, Milan, Italy), with which a well-characterized adipose tissue is obtained with the maximum safety guarantees."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Adipose tissue injection associated with endorectal advancement flap."
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04750499"
+                        ]
+                  },
+                  {
+                        "Rank": 37,
+                        "InterventionArmGroupLabel": [
+                              "Group Reference Strategy",
+                              "Group test strategy"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Patients undergoing surgery for anoperineal suppuration in the context of Crohn's disease with detailed examination of the suppuration and drainage with a seton.",
+                              "Patients undergoing surgery for anoperineal suppuration in the context of Crohn's disease with detailed examination of the suppuration without drainage via a seton."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Group Reference Strategy",
+                              "Group Test Strategy"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Device",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05330416"
+                        ]
+                  },
+                  {
+                        "Rank": 38,
+                        "InterventionArmGroupLabel": [
+                              "Low dose group",
+                              "High dose group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "low dose group: 1x10e7 cells/mL At 6 weeks after first stem cell injection, fistula closing was assessed. If it is not completely closed, second injection would be applied in 2 weeks. Additional dosage would be doubled to first dosage.",
+                              "high dose group: 2x10e7 cells/mL At 6 weeks after first stem cell injection, fistula closing was assessed. If it is not completely closed, second injection would be applied in 2 weeks. Additional dosage would be doubled to first dosage."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous adipose derived stem cells(low dose group)",
+                              "Autologous adipose derived stem cells(high dose group)"
+                        ],
+                        "InterventionOtherName": [
+                              "mesenchymal stem cell, ANTG-ASC, adipose derived stem cell",
+                              "Group 1: low dose group",
+                              "mesenchymal stem cell, ANTG-ASC, adipose derived stem cell",
+                              "Group 2: high dose group"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01623453"
+                        ]
+                  },
+                  {
+                        "Rank": 39,
+                        "InterventionArmGroupLabel": [
+                              "MSC-AFP Single Treatment Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Eligible patients will be treated with a fistula plug that has been coated with autologous mesenchymal stromal cells."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "MSC-AFP"
+                        ],
+                        "InterventionOtherName": [
+                              "\u2022 mesenchymal stromal cell coated fistula plug"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03220243"
+                        ]
+                  },
+                  {
+                        "Rank": 40,
+                        "InterventionArmGroupLabel": [
+                              "Treatment"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "FURESTEM-CD Inj."
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02000362"
+                        ]
+                  },
+                  {
+                        "Rank": 41,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "IV infusion"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "FURESTEM-CD Inj."
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02926300"
+                        ]
+                  },
+                  {
+                        "Rank": 42,
+                        "InterventionArmGroupLabel": [
+                              "1"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "MSC-AFP"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01915927"
+                        ]
+                  },
+                  {
+                        "Rank": 43,
+                        "InterventionArmGroupLabel": [
+                              "Standard of Care Treatment",
+                              "Standard of Care Treatment + AVB-114",
+                              "Standard of Care Treatment + AVB-114"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "This treatment consists of inserting a seton (a soft flexible tube or nonabsorbable string) into the subject's perianal fistula. The seton will be removed by a study doctor at study visits as applicable.",
+                              "AVB-114 consists of stem cells taken from a subject's fat tissue seeded into a bioabsorbable plug. AVB-114 will be inserted into the subject's fistula by a study doctor on Day 0."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Seton Placement",
+                              "AVB-114"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04847739"
+                        ]
+                  }
+            ]
+      }
+}

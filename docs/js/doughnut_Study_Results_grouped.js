@@ -3,54 +3,27 @@
 const config_Study_Results_grouped = {
     "type": "doughnut",
     "data": {
-        "labels": [
-            "No Results Available",
-            "Has Results"
-        ],
+        "labels": [],
         "datasets": [
             {
                 "label": "allo_count",
-                "data": [
-                    317,
-                    18
-                ],
-                "backgroundColor": [
-                    "rgb(153,102,255)",
-                    "rgb(255,102,102)"
-                ]
+                "data": [],
+                "backgroundColor": []
             },
             {
                 "label": "auto_count",
-                "data": [
-                    187,
-                    8
-                ],
-                "backgroundColor": [
-                    "rgb(153,102,255)",
-                    "rgb(255,102,102)"
-                ]
+                "data": [],
+                "backgroundColor": []
             },
             {
                 "label": "both_count",
-                "data": [
-                    9,
-                    1
-                ],
-                "backgroundColor": [
-                    "rgb(153,102,255)",
-                    "rgb(255,102,102)"
-                ]
+                "data": [],
+                "backgroundColor": []
             },
             {
                 "label": "undeclared_count",
-                "data": [
-                    346,
-                    12
-                ],
-                "backgroundColor": [
-                    "rgb(153,102,255)",
-                    "rgb(255,102,102)"
-                ]
+                "data": [],
+                "backgroundColor": []
             }
         ]
     },

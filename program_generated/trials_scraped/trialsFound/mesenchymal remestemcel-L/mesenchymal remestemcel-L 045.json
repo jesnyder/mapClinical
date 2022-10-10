@@ -1,0 +1,501 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal remestemcel-L",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 20,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 20,
+            "FieldList": [
+                  "BaselineMeasureDispersionType",
+                  "BaselineMeasureParamType",
+                  "BaselineMeasurePopulationDescription",
+                  "BaselineMeasureTitle",
+                  "BaselineMeasureUnitOfMeasure",
+                  "BaselineMeasurementComment",
+                  "BaselineMeasurementGroupId",
+                  "BaselineMeasurementLowerLimit",
+                  "BaselineMeasurementSpread",
+                  "BaselineMeasurementUpperLimit",
+                  "BaselineMeasurementValue",
+                  "BaselinePopulationDescription",
+                  "BaselineTypeUnitsAnalyzed",
+                  "BioSpecDescription",
+                  "BioSpecRetention",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT00294112"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT04543994"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT04548583"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT00136903"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "BaselineMeasureDispersionType": [
+                              "Standard Deviation"
+                        ],
+                        "BaselineMeasureParamType": [
+                              "Mean",
+                              "Count of Participants",
+                              "Count of Participants",
+                              "Count of Participants"
+                        ],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [
+                              "Age, Continuous",
+                              "Sex: Female, Male",
+                              "Ethnicity (NIH/OMB)",
+                              "Race (NIH/OMB)"
+                        ],
+                        "BaselineMeasureUnitOfMeasure": [
+                              "years",
+                              "Participants",
+                              "Participants",
+                              "Participants"
+                        ],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [
+                              "BG000",
+                              "BG000",
+                              "BG000",
+                              "BG000",
+                              "BG000",
+                              "BG000",
+                              "BG000",
+                              "BG000",
+                              "BG000",
+                              "BG000",
+                              "BG000",
+                              "BG000",
+                              "BG000"
+                        ],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [
+                              "5.45"
+                        ],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [
+                              "7.3",
+                              "20",
+                              "35",
+                              "18",
+                              "36",
+                              "1",
+                              "3",
+                              "3",
+                              "0",
+                              "8",
+                              "31",
+                              "10",
+                              "0"
+                        ],
+                        "BaselinePopulationDescription": [
+                              "Full analysis set (FAS) included all participants who provided informed consent, were screened, and were found eligible to enter the study."
+                        ],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT02336230"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT04366830"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT00690066"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT00366145"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT00284986"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT04371393"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT00683722"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT00877903"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT00482092"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT00543374"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT04456439"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT00826046"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT00759018"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT01233960"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT01510431"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT00562497"
+                        ]
+                  }
+            ]
+      }
+}

@@ -4,37 +4,23 @@ const config_Funded Bys = {
     "type": "doughnut",
     "data": {
         "labels": [
-            "Other",
-            "Industry",
-            "Industry|Other",
-            "Other|Industry",
-            "Other|NIH",
-            "Other|U.S. Fed",
-            "U.S. Fed|Other",
-            "Other|Industry|NIH",
+            "OTHER",
+            "INDUSTRY",
+            "OTHER_GOV",
+            "NETWORK",
             "NIH",
-            "Other|NIH|Industry",
-            "Other|U.S. Fed|NIH",
-            "Industry|U.S. Fed",
-            "NIH|Other|Industry"
+            "FED"
         ],
         "datasets": [
             {
                 "label": "all",
                 "data": [
-                    23161,
-                    12443,
-                    6761,
-                    1895,
-                    791,
-                    353,
-                    54,
-                    98,
-                    65,
+                    40950,
+                    21426,
+                    3115,
+                    385,
                     31,
-                    30,
-                    10,
-                    6
+                    82
                 ],
                 "backgroundColor": [
                     "rgb(212,178,212)",
@@ -42,10 +28,7 @@ const config_Funded Bys = {
                     "rgb(92,141,255)",
                     "rgb(127,212,85)",
                     "rgb(89,212,126)",
-                    "rgb(85,212,212)",
-                    "rgb(89,212,126)",
-                    "rgb(212,81,177)",
-                    "rgb(89,212,126)"
+                    "rgb(85,212,212)"
                 ]
             }
         ]

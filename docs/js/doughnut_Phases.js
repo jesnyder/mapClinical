@@ -4,27 +4,27 @@ const config_Phases = {
     "type": "doughnut",
     "data": {
         "labels": [
-            "Phase 1|Phase 2",
+            "Phase 1 Phase 2",
             "Phase 1",
             "Phase 2",
             "Not Applicable",
             "Phase 3",
             "Early Phase 1",
-            "Phase 2|Phase 3",
+            "Phase 2 Phase 3",
             "Phase 4"
         ],
         "datasets": [
             {
                 "label": "all",
                 "data": [
-                    13896,
-                    4747,
-                    10265,
-                    4714,
-                    7703,
-                    491,
-                    1082,
-                    150
+                    21262,
+                    7811,
+                    15392,
+                    6312,
+                    8550,
+                    972,
+                    2233,
+                    180
                 ],
                 "backgroundColor": [
                     "rgb(212,178,212)",

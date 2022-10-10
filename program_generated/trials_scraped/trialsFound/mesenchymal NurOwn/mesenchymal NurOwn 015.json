@@ -1,0 +1,152 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal NurOwn",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 4,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 4,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Autologous Mesenchymal Stem Cells Secreting Neurotrophic Factors"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: NurOwn (MSC-NTF cells)"
+                        ],
+                        "ArmGroupLabel": [
+                              "NurOwn (MSC-NTF cells)"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03799718"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Three Intrathecal administrations of NurOwn\u00ae (MSC-NTF cells) at bi-monthly intervals",
+                              "Three Intrathecal administrations of Placebo at bi-monthly intervals"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: NurOwn\u00ae (MSC-NTF cells)",
+                              "Other: Bone Marrow aspiration",
+                              "Other: Placebo",
+                              "Other: Bone Marrow aspiration"
+                        ],
+                        "ArmGroupLabel": [
+                              "NurOwn\u00ae (MSC-NTF cells)",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03280056"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "Acronym": [
+                              "NurOwn"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Single autologous MSC-NTF cells treatment by combined intramuscular and intrathecal administration",
+                              "Combined intramuscular and intrathecal placebo administration"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Autologous MSC-NTF cells",
+                              "Biological: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "Autologous MSC-NTF cells",
+                              "Excipient"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02017912"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04681118"
+                        ]
+                  }
+            ]
+      }
+}

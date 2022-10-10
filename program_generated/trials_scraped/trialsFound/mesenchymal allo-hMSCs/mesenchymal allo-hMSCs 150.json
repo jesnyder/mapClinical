@@ -1,0 +1,735 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal allo-hMSCs",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 14,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 14,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Participants will be treated with one intravenous (IV) infusion of 200 million allogeneic human mesenchymal stem cells (Allo-hMSCs), lasting from 40-90 minutes following an acute ischemic stroke within 9 days after stroke symptom onset."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic human mesenchymal stem cells (Allo-hMSCs)"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT05522569"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "Allogeneic hMSCs",
+                              "Pilot - Allogeneic hMSCs",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M85407"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Plasma-lyte 148"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "a single administration of allogeneic Human Mesenchymal Stem Cell (hMSCs): 100 x 10^6 (100 million) allo-hMSCs of cells",
+                              "a placebo administration consisting of 1% human albumin serum in Plasma-Lyte A"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allo-hMSCs",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "Allogeneic Human Mesenchymal Stem Cells",
+                              "Stem Cells"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02675556"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "allogeneic human mesenchymal stem cells (allo-hMSCs)",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "CNSDep",
+                              "All",
+                              "PhSol"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Central Nervous System Depressants",
+                              "All Drugs and Chemicals",
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M2929",
+                              "M85407"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Ethanol",
+                              "Plasma-lyte 148"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Single administration of allogeneic hMSCs: 100 x 106 (100 million) allo-hMSCs of cells delivered via a single peripheral intravenous infusion.",
+                              "Placebo administration consisting of 1% human albumin serum in Plasma-Lyte A delivered via a single peripheral intravenous infusion."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "allogeneic human mesenchymal stem cells (allo-hMSCs)",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03265808"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "InterventionArmGroupLabel": [
+                              "Group A - Allo-hMSCs",
+                              "Group B"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Allogeneic Human Mesenchymal Stem Cells",
+                              "Placebo"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allo-hMSCs",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "stem cells; Allogeneic Human Mesenchymal Stem Cells",
+                              "Placebo comparator"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02398604"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "InterventionArmGroupLabel": [
+                              "Pilot"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Peri-fistula injections"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic Bone Marrow derived Human Mesenchymal Stem Cells (hMSCs)"
+                        ],
+                        "InterventionOtherName": [
+                              "allo-hMSCs"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02677350"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "InterventionArmGroupLabel": [
+                              "Auto-hMSCs",
+                              "Allo-hMSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Biological: Autologous human mesenchymal stem cells (Auto-hMSCs) Participants will receive 40 million cells/mL delivered in either a dose of 0.5 mL per injection x 1 injection for a total of 0.2 x 10^8 (20 million) Auto-hMSCs, a dose of 0.5 mL per injection x 5 injections for a total of 1 x 10^8 (100 million) Auto-hMSCs, or a dose of 0.5 mL per injection x 10 injections for a total of 2 x 10^8 (200 million) Auto-hMSCs. The injections will be administered transendocardially during cardiac catheterization using the Biocardia Helical Infusion Catheter.",
+                              "Biological: Allogeneic human mesenchymal stem cells (Allo-hMSCs) Participants will receive 40 million cells/mL delivered in either a dose of 0.5 mL per injection x 1 injection for a total of 0.2 x 10^8 (20 million) Allo-hMSCs, a dose of 0.5 mL per injection x 5 injections for a total of 1 x 10^8 (100 million) Allo-hMSCs, or a dose of 0.5 mL per injection x 10 injections for a total of 2 x 10^8 (200 million) Allo-hMSCs. The injections will be administered transendocardially during cardiac catheterization using the Biocardia Helical Infusion Catheter."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Auto-hMSCs",
+                              "Allo-hMSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01087996"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "InterventionArmGroupLabel": [
+                              "Addendum B - Antibiotic free cell Group",
+                              "Pilot Phase - Group 2",
+                              "Pilot Phase - Group 3",
+                              "Pilot phase - Group 1",
+                              "Randomized Phase - Group A",
+                              "Randomized Phase - Group C",
+                              "Randomized phase - Group B",
+                              "Randomized Phase - Group C",
+                              "Addendum B - Antibiotic free cell Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Hip Replacement",
+                              "Surface electromyography"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M3374",
+                              "M12469",
+                              "M3376",
+                              "M15249",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anti-Bacterial Agents",
+                              "Penicillins",
+                              "Antibiotics, Antitubercular",
+                              "Streptomycin",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "high",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Allogeneic Human Mesenchymal Stem Cells (allo-hMSCs) administered by peripheral intravenous infusion",
+                              "Placebo administered by peripheral intravenous infusion.",
+                              "Penicillin/Streptomycin-Free Allogeneic Human Mesenchymal Stem Cells (allo-hMSCs) administered by peripheral intravenous infusion."
+                        ],
+                        "InterventionMeshId": [
+                              "D000010406",
+                              "D000013307"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Penicillins",
+                              "Streptomycin"
+                        ],
+                        "InterventionName": [
+                              "Allogeneic Human Mesenchymal Stem Cells (allo-hMSCs)",
+                              "Placebo",
+                              "Penicillin/Streptomycin-Free Allogeneic Human Mesenchymal Stem Cells (allo-hMSCs)"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02065245"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "InterventionArmGroupLabel": [
+                              "Group 2 - Allogeneic Human Mesenchymal Stem Cells (hMSCs)",
+                              "Group A - Allogeneic Human Mesenchymal Stem Cells (hMSCs)",
+                              "Group 1 - Placebo",
+                              "Group B - Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All",
+                              "AnArAg",
+                              "ChanBlk",
+                              "CNSDep",
+                              "Infl",
+                              "Resp"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals",
+                              "Anti-Arrhythmia Agents",
+                              "Channel Blockers",
+                              "Central Nervous System Depressants",
+                              "Anti-Inflammatory Agents",
+                              "Respiratory System Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013",
+                              "M10166",
+                              "M4061",
+                              "M4062",
+                              "M229281",
+                              "M259082",
+                              "M248671"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions",
+                              "Lidocaine",
+                              "Betamethasone",
+                              "Betamethasone Valerate",
+                              "Betamethasone-17,21-dipropionate",
+                              "Betamethasone benzoate",
+                              "Betamethasone sodium phosphate"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "A single administration of 20 million allogeneic mesenchymal stem cell delivered intra-facet via 6 injections of 1.5 mL per injection, total of 9 to 12ml.",
+                              "A single administration of 1 cc of 1% lidocaine with 1 cc of 2% Ropivicaine and 0.5 cc of betamethasone soluspan (celestone) solution delivered via intra-facet injection."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic Human Mesenchymal Stem Cells (hMSCs)",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "allo-hMSCs",
+                              "stem cells"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03487731"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "InterventionArmGroupLabel": [
+                              "Randomized: Cohort 1 Allo-hMSCs",
+                              "Randomized: Cohort 2 Allo-hMSCs",
+                              "Safety Run-In: Treatment 1 Allo-hMSCs",
+                              "Safety Run-In: Treatment 2 Allo-hMSCs",
+                              "Randomized: Cohort 3 Allo-hMSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All",
+                              "ANeo"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals",
+                              "Antineoplastic Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M85407",
+                              "M8814"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Plasma-lyte 148",
+                              "Altretamine"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "1 peripheral intravenous infusion of allogeneic human mesenchymal stem cells (hMSCs)",
+                              "1 peripheral intravenous infusion"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allo-hMSCs",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "Stem cells"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03058068"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "InterventionArmGroupLabel": [
+                              "Pilot Phase 20 million allogeneic hMSCs",
+                              "Randomized Phase 20 million allogeneic hMSCs",
+                              "Pilot Phase 100 million hMSCs",
+                              "Randomized Phase 100 million allogeneic hMSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "1 single intravenous infusion",
+                              "1 single intravenous infusion"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "20 million Allogeneic Mesenchymal Human Stem Cells",
+                              "100 million Allogeneic Mesenchymal Human Stem Cells"
+                        ],
+                        "InterventionOtherName": [
+                              "allo-hMSCs",
+                              "stem cells",
+                              "allo-hMSCs",
+                              "stem cells"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02886884"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "InterventionArmGroupLabel": [
+                              "100 million hMSCs",
+                              "20 million hMSCs",
+                              "200 million hMSCs",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "CNSDep",
+                              "All",
+                              "PhSol",
+                              "ANeo"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Central Nervous System Depressants",
+                              "All Drugs and Chemicals",
+                              "Pharmaceutical Solutions",
+                              "Antineoplastic Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M7286",
+                              "M85407",
+                              "M8814"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Ether",
+                              "Plasma-lyte 148",
+                              "Altretamine"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "The placebo will be 25 ml of Plasma-Lyte A with 1% HSA in a Cryostore bag."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic Adult Human Mesenchymal Stem Cells (hMSCs)",
+                              "matched placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02013700"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "InterventionArmGroupLabel": [
+                              "Group 1: 20 million Allogeneic hMSCs",
+                              "Group 2: 100 million Allogeneic hMSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Allogeneic Adult Human Mesenchymal Stem Cells (MSCs) delivered via injection"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic hMSCs"
+                        ],
+                        "InterventionOtherName": [
+                              "Allogeneic Adult Human Mesenchymal Stem Cells (MSCs)"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02013674"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "InterventionArmGroupLabel": [
+                              "Autologous hMSCs",
+                              "Allogeneic hMSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Cells will be administered via the Biosense Webster MyoStar NOGA Injection Catheter System will be tested in 18 patients via transendocardial injection:\n\nGroup 1 (18 patients) Eighteen (18) patients will be treated with Auto-hMSCs: 20 million cells/ml delivered in a dose of 0.5 ml per injection x 10 injections for a total of 1 x 108 (100 million) Auto-hMSCs.",
+                              "Cells will be administered via the Biosense Webster MyoStar NOGA Injection Catheter System will be tested in 18 patients via transendocardial injection:\n\nGroup 2 (18 patients) Eighteen (18) patients will be treated with Allo-hMSCs: 20 million cells/ml delivered in a dose of 0.5 ml per injection x 10 injections for a total of 1 x 108 (100 million) Auto-hMSCs."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous hMSCs",
+                              "Allogeneic hMSCs"
+                        ],
+                        "InterventionOtherName": [
+                              "Biosense Webster MyoStar NOGA Injection Catheter System.",
+                              "Biosense Webster MyoStar NOGA Injection Catheter System."
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT01392625"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "InterventionArmGroupLabel": [
+                              "Genotype A administered with hMSC Group",
+                              "Genotype B administered with hMSC Group",
+                              "Genotype C administered with hMSC Group",
+                              "Genotype A administered with placebo Group",
+                              "Genotype B administered with placebo Group",
+                              "Genotype C administered with placebo Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All",
+                              "ANeo"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals",
+                              "Antineoplastic Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M85407",
+                              "M8814"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Plasma-lyte 148",
+                              "Altretamine"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "allo-hMSCs, 16-20 million cells/ml delivered at a dose of 0.5 ml/ injection x 10 injections for a total of 80-100 million allo-hMSCs",
+                              "Placebo will be administered as injections of plasmalyte A supplemented with 1% of 25% human serum albumin (HSA). 0.5 ml/ injection x 10 injections"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "allogeneic human mesenchymal stem cells (hMSCs)",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04476901"
+                        ]
+                  }
+            ]
+      }
+}

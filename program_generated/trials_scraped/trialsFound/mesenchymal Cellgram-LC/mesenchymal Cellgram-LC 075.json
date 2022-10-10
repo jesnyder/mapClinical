@@ -1,0 +1,115 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Cellgram-LC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Substance Related Disorders",
+                              "Behaviors and Mental Disorders"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cirrhosis",
+                              "Alcoholic Cirrhosis",
+                              "Cirrhosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10255",
+                              "M10256",
+                              "M7637",
+                              "M10259",
+                              "M8035",
+                              "M6407",
+                              "M10260",
+                              "M21661",
+                              "M20995",
+                              "M20990",
+                              "M29455"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Liver Cirrhosis",
+                              "Liver Cirrhosis, Alcoholic",
+                              "Fibrosis",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Liver Diseases, Alcoholic",
+                              "Alcohol-Induced Disorders",
+                              "Alcohol-Related Disorders",
+                              "Substance-Related Disorders",
+                              "Chemically-Induced Disorders"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008103",
+                              "D000008104",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Cirrhosis",
+                              "Liver Cirrhosis, Alcoholic",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04689152"
+                        ]
+                  }
+            ]
+      }
+}

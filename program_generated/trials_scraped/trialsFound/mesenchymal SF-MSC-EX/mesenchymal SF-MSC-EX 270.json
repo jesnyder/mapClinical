@@ -1,0 +1,89 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal SF-MSC-EX",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Ayla Eker Sar\u0131boyac\u0131, AssocProfDr.",
+                              "Onur Uysal, AssocProfDr.",
+                              "Ulukan \u0130nan, ProfDr."
+                        ],
+                        "OverallOfficialRole": [
+                              "Study Chair",
+                              "Study Director",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "March 2024"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The functional evaluation of the participants will be evaluated on the Tegner-Lysholm knee scoring scale. In Tegner-Lysholm knee scoring, examinations for the knee joint (Limp, support, pain, instability, locking, swelling, stair-climbing, and squatting) will be evaluated, and a maximum of 100 and a minimum of 0 points will be given. According to the evaluation, <65 points are interpreted as bad, 65-83 points as fair, 84-90 points as good, >90 points as excellent. Scores will be recorded by being examined before treatment and at the 6th, and 12th months after treatment. Knee functions of the control group will be evaluated simultaneously, and the effects of treatments on knee function will be determined.",
+                              "The physical activity evaluation of the participants will be evaluated with the IPAQ (international physical activity questionnaire) short form. IPAQ short form will be evaluated and recorded before treatment and at the 6th, and 12th months after treatment. The control group's physical activity will be evaluated simultaneously, and the effects of treatments on physical activity will be determined.",
+                              "Pain assessment of the participants will be evaluated with VAS (Visual analog scale). The VAS will be evaluated and recorded before treatment and at the 6th, and 12th months after treatment. The physical activity of the control group will be evaluated simultaneously, and the effects of treatments on pain will be determined.",
+                              "Participants will receive knee x-ray imaging and knee magnetic resonance imaging before treatment. The same radiological imaging will be performed at the 6th and 12th months after the treatment. At the same time, the same radiological imaging will be performed on the control group, and the effects of treatments on radiological imaging will be evaluated.",
+                              "Before treatment and at the 6th and 12th months after treatment, cytokine levels (IL-10, IL-6, TNF-\u03b1, IL-8, IL-1\u03b2, IFN-\u0263, IL-2, IL-4, IL-13, MCP-1, VEGF) and gene analyzes (IL-10, IL-6, TNF-\u03b1, IL-8, IL-1\u03b2, IFN-\u0263, IL-2, IL-4, IL-13, MCP-1, IL-1ra, MIP-1b, CTGF, TGF\u03b23, BMP-2, BMP-4, IGF-1, IGF-2, PDGF, EGF, and VEGF genes) will be checked in the samples taken from the synovial fluid and blood. Samples will be taken from the control group along with the treatment group. In this way, the effects of treatments on cytokine levels will be evaluated.",
+                              "Edema in both knees will be measured using a tape measure by marking the midpoints of both patellae. Pre-treatment measurements will be recorded. Measurements of both knees will be recorded at 6 months and 12 months after treatment. The knees of the patients not receiving treatment will be measured simultaneously, and the changes will be compared.",
+                              "The range of motion of both knees will be measured using the \"Baseline Digital Absolute+Axis Goniometer.\" Knee extension measurements will be made with the patient in the supine position and flexion in the prone position. Pre-treatment measurements will be recorded. Post-treatment 6th and 12th-month measurements will also be recorded. Measurements of patients not receiving treatment will be recorded simultaneously, and changes will be compared.",
+                              "Adverse effects and complications will be observed in the treatment group, except for the expected local reactions (redness, swelling, bruising, etc.) after the application."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Evaluation of Knee Functions",
+                              "Evaluation of Physical Activity",
+                              "Evaluation of Pain",
+                              "Evaluation of Radiological Images",
+                              "Evaluation of Cytokine Levels and Cytokine Genes Analyzes",
+                              "Evaluation of Edema",
+                              "Evaluation of Knee Joint Range of Motion",
+                              "Monitoring of treatment-related complications"
+                        ],
+                        "NCTId": [
+                              "NCT05261360"
+                        ]
+                  }
+            ]
+      }
+}

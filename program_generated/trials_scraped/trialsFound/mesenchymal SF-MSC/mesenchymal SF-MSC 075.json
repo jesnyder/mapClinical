@@ -1,0 +1,199 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal SF-MSC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Wounds and Injuries",
+                              "All Conditions",
+                              "Musculoskeletal Diseases",
+                              "Symptoms and General Pathology",
+                              "Nervous System Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Knee Injuries",
+                              "Arthralgia",
+                              "Laceration",
+                              "Injury",
+                              "Meniscus Injury, Tibial"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M14393",
+                              "M9890",
+                              "M19986",
+                              "M12218",
+                              "M21938",
+                              "M16837",
+                              "M603",
+                              "M10033",
+                              "M9773",
+                              "M11249",
+                              "M11556"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Rupture",
+                              "Knee Injuries",
+                              "Arthralgia",
+                              "Pain",
+                              "Lacerations",
+                              "Wounds and Injuries",
+                              "Tibial Meniscus Injuries",
+                              "Leg Injuries",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Neurologic Manifestations"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000018771",
+                              "D000014947",
+                              "D000022125",
+                              "D000007718",
+                              "D000070600"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Arthralgia",
+                              "Wounds and Injuries",
+                              "Lacerations",
+                              "Knee Injuries",
+                              "Tibial Meniscus Injuries"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "The study was planned as three arms. One arm will be the control group, and the other two arms will be the experimental group. The control group defines the group that did not receive treatment. Those in the experimental group, who are the participants other than the control group, will occur in both experimental groups. SF-MSC (synovial fluid-derived mesenchymal stem cells) will be applied intraarticularly to the experimental group's right knee, and the experimental group's right knee will be included in the SF-MSC treatment group. SF-MSC-EX (synovial fluid-derived mesenchymal stem cells-derived exosomes) will be applied intraarticularly to the experimental group's left knee, and the experimental group's left knee will be included in the SF-MSC-EX treatment group."
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05261360"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Wounds and Injuries",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Osteoarthritis, Knee",
+                              "Microfracture"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M12078",
+                              "M21321",
+                              "M25523",
+                              "M17484",
+                              "M3628",
+                              "M9773",
+                              "M11249",
+                              "M14197",
+                              "M5475",
+                              "M16837"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Osteoarthritis",
+                              "Osteoarthritis, Knee",
+                              "Fractures, Bone",
+                              "Fractures, Stress",
+                              "Arthritis",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases",
+                              "Wounds and Injuries"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000020370",
+                              "D000015775"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Osteoarthritis, Knee",
+                              "Fractures, Stress"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02696876"
+                        ]
+                  }
+            ]
+      }
+}

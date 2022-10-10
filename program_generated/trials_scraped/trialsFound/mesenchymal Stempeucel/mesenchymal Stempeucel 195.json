@@ -1,0 +1,95 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Stempeucel",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "MaximumAge",
+                  "MinimumAge",
+                  "NCTId",
+                  "NCTIdAlias",
+                  "OfficialTitle",
+                  "OrgClass",
+                  "OrgFullName",
+                  "OrgStudyId",
+                  "OrgStudyIdDomain",
+                  "OrgStudyIdLink",
+                  "OrgStudyIdType",
+                  "OtherEventAssessmentType",
+                  "OtherEventNotes",
+                  "OtherEventOrganSystem",
+                  "OtherEventSourceVocabulary"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "MaximumAge": [
+                              "65 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT01484574"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Non-randomized, Open Label, Multicentric, Dose Ranging , Phase II Study Assessing the Efficacy and Safety of Intramuscular Administration of Stempeucel - CLI\u2122 (ex Vivo Cultured Adult Bone Marrow Derived Allogeneic Mesenchymal Stem Cells) in Patients With Critical Limb Ischemia Due to Buerger's Disease"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Stempeutics Research Pvt Ltd"
+                        ],
+                        "OrgStudyId": [
+                              "SRPL/CLI/10-11/001"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 2,
+                        "MaximumAge": [
+                              "65 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT03056742"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Single Arm, Open Label, Multicentric, Clinical Study Assessing the Efficacy and Safety of Stempeucel\u00ae (ex Vivo Cultured Adult Bone Marrow Derived Allogeneic Mesenchymal Stem Cells) in Patients With CLI Due to Buerger's Disease"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Stempeutics Research Pvt Ltd"
+                        ],
+                        "OrgStudyId": [
+                              "SRPL/CLI/10-11/001 Version 4"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  }
+            ]
+      }
+}

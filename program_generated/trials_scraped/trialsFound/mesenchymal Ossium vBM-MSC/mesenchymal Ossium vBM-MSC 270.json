@@ -1,0 +1,88 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Ossium vBM-MSC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Amy Lightner, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "November 15, 2024"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Number of participants with treatment related adverse events post-injection of 100 million vertebral bone marrow derived MSC's for the treatment of medically refractory pouch fistulizing disease as assessed by protocol",
+                              "Number of participants with complete clinical healing post-injection of 100 million allogeneic bone marrow derived MSC's for the treatment of medically refractory pouch fistulizing disease in the setting of Crohn's disease of the pouch.\n\nComplete Healing is defined as:\n\nRadiographic Healing: MRI with an absence of a fluid collection >2 cm in 3 of 3 dimensions, lack of edema, inflammation or sign of active inflammatory response. A remnant scar of a fistula tract may remain\n\nClinical Healing: 100% cessation of drainage on both clinical exam with deep palpation and per patient report and epithelization of the external fistula opening",
+                              "Number of participants with complete clinical healing post-injection of 100 million allogeneic bone marrow derived MSC's for the treatment of medically refractory pouch fistulizing disease in the setting of Crohn's disease of the pouch.\n\nComplete Healing is defined as:\n\nRadiographic Healing: MRI with an absence of a fluid collection >2 cm in 3 of 3 dimensions, lack of edema, inflammation or sign of active inflammatory response. A remnant scar of a fistula tract may remain\n\nClinical Healing: 100% cessation of drainage on both clinical exam with deep palpation and per patient report and epithelization of the external fistula opening",
+                              "Number of participants with partial clinical healing,post-injection of 100 million allogeneic bone marrow derived MSC's for the treatment of medically refractory pouch fistulizing disease in the setting of Crohn's disease\n\nPartial Healing is defined as:\n\nRadiographic Healing: MRI with an absence of a fluid collection >2 cm in 2 of 3 dimensions, lack of edema, inflammation or sign of active inflammatory response. A remnant scar of a fistula tract may remain\n\nClinical healing: Greater than or equal to 50 % cessation of drainage on both clinical exam with deep palpation and per patient report and epithelization of the external fistula opening",
+                              "Number of participants with partial clinical healing,post-injection of 100 million allogeneic bone marrow derived MSC's for the treatment of medically refractory pouch fistulizing disease in the setting of Crohn's disease\n\nPartial Healing is defined as:\n\nRadiographic Healing: MRI with an absence of a fluid collection >2 cm in 2 of 3 dimensions, lack of edema, inflammation or sign of active inflammatory response. A remnant scar of a fistula tract may remain\n\nClinical healing: Greater than or equal to 50 % cessation of drainage on both clinical exam with deep palpation and per patient report and epithelization of the external fistula opening",
+                              "Number of participants with lack of response post-injection of 100 million allogeneic bone marrow derived MSC's for the treatment of medically refractory pouch fistulizing disease in the setting of Crohn's disease\n\nLack of Response is defined as: Radiographic and Clinical healing which does not meet the threshold for Partial Healing",
+                              "Number of participants with lack of response post-injection of 100 million allogeneic bone marrow derived MSC's for the treatment of medically refractory pouch fistulizing disease in the setting of Crohn's disease\n\nLack of Response is defined as: Radiographic and Clinical healing which does not meet the threshold for Partial Healing",
+                              "Number of participants with worsening disease-injection of 100 million vertebral bone marrow derived MSC's for the treatment of medically refractory pouch fistulizing disease in the setting of Crohn's disease\n\nWorsening Disease is defined as:\n\nRadiographic: MRI with a fluid collection >2 cm in 2 of 3 dimensions, edema, inflammation or sign of active inflammatory response. An increased number of tracts may be seen, or increased branching from the primary tract,\n\nClinical: Increased drainage per patient report and on clinical exam",
+                              "Number of participants with worsening disease-injection of 100 million vertebral bone marrow derived MSC's for the treatment of medically refractory pouch fistulizing disease in the setting of Crohn's disease\n\nWorsening Disease is defined as:\n\nRadiographic: MRI with a fluid collection >2 cm in 2 of 3 dimensions, edema, inflammation or sign of active inflammatory response. An increased number of tracts may be seen, or increased branching from the primary tract,\n\nClinical: Increased drainage per patient report and on clinical exam"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Treatment related adverse events",
+                              "Complete clinical healing",
+                              "Complete clinical healing",
+                              "Partial healing",
+                              "Partial healing",
+                              "Lack of response",
+                              "Lack of response",
+                              "Worsening disease",
+                              "Worsening disease"
+                        ],
+                        "NCTId": [
+                              "NCT05075811"
+                        ]
+                  }
+            ]
+      }
+}

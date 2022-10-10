@@ -1,0 +1,83 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal RNL-Vascostem",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Improvement in VAS(Visual Analog Scale) score",
+                              "Improvement in TBPI score",
+                              "Improvement in TcPO2 score",
+                              "Improvement in ABPI score",
+                              "Improvement in PFWD score",
+                              "Improvement on Angiography",
+                              "Improvement on Laser Doppler",
+                              "Changes in dose and frequency in use of a analgesic medicine",
+                              "To determine the overall safety of RNL-VascoStem\u00ae carrier using physical examinations, vital signs, treatment emergent adverse events (TEAEs), and the results of clinical lab tests"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "VAS(Visual Analog Scale)",
+                              "Toe-Brachial Pressure Index, TBPI",
+                              "Transcutaneous oxygen pressure, TcPO2",
+                              "Arterial Brachial Pressure Index, ABPI",
+                              "Pain Free Walking Distance, PFWD",
+                              "Angiography",
+                              "Laser Doppler",
+                              "dose and frequency in use of a analgesic medicine",
+                              "Safety Evaluation"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01302015"
+                        ]
+                  }
+            ]
+      }
+}

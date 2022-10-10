@@ -1,0 +1,227 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal XCEL-MT-OSTEO-ALPHA",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Wounds and Injuries",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Fracture",
+                              "Nonunion of Fracture"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M25523",
+                              "M3741",
+                              "M13553",
+                              "M7872",
+                              "M16837"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Fractures, Bone",
+                              "Atrophy",
+                              "Pseudarthrosis",
+                              "Fractures, Ununited",
+                              "Wounds and Injuries"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000050723",
+                              "D000005599"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Fractures, Bone",
+                              "Fractures, Ununited"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [
+                              "Radiologist will assess images in a blinded manner"
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02230514"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Musculoskeletal Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Necrosis",
+                              "Osteonecrosis",
+                              "Osteonecrosis of the Femoral Head",
+                              "Avascular Necrosis of Femur Head",
+                              "Osteonecrosis of the Femoral Head"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11436",
+                              "M11249",
+                              "M4278",
+                              "M12095",
+                              "M10037",
+                              "M7561",
+                              "T3358"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Necrosis",
+                              "Musculoskeletal Diseases",
+                              "Bone Diseases",
+                              "Osteonecrosis",
+                              "Legg-Calve-Perthes Disease",
+                              "Femur Head Necrosis",
+                              "Legg-Calve-Perthes Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000010020",
+                              "D000007873",
+                              "D000005271",
+                              "D000009336"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Osteonecrosis",
+                              "Legg-Calve-Perthes Disease",
+                              "Femur Head Necrosis",
+                              "Necrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01605383"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Spondylolisthesis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M15115",
+                              "M15116",
+                              "M27146",
+                              "M15071",
+                              "M4278",
+                              "M11249"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Spondylolisthesis",
+                              "Spondylolysis",
+                              "Spondylosis",
+                              "Spinal Diseases",
+                              "Bone Diseases",
+                              "Musculoskeletal Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000013168"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Spondylolisthesis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01552707"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,62 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal BRTX-100",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Visual Analogue Scale for Pain Assessment -the number (percentage) of responders, defined as subjects who have at least a 30% decrease in pain as measured on the VAS scale Changes from Baseline in pain as assessed with the VAS score through Week 52",
+                              "Oswestry Disability Index for Functional Assessment --the number (percentage) of responders, defined as subjects who have at least a 30% increase in function as measured on the Oswestry Disability Index through Week 52."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Visual Analogue Scale for Pain Assessment - Changes from Baseline in pain as assessed with the VAS score through Week 52",
+                              "Oswestry Disability Index for Functional Assessment -- Changes from Baseline in function as assessed with the Oswestry Disability Index through Week 52."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "52 Weeks",
+                              "52 Weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04042844"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,250 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Cartistem",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 6,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 6,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [
+                              "Cartistem"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "For control group patients currently standard treatment of arthroscopic curettage and microfracture is performed, and for study group patients allogenic umbilical cord blood-derived mesenchymal stem cell product(Cartistem\u00ae) is added on the lesion after above mentioned procedure.",
+                              "standard treatment of arthroscopic curettage and microfracture for osteochondral lesion of talus"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Cartistem",
+                              "Biological: Cartistem"
+                        ],
+                        "ArmGroupLabel": [
+                              "Cartistem",
+                              "standard treatment"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02338375"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [
+                              "No"
+                        ],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [
+                              "No"
+                        ],
+                        "ArmGroupDescription": [
+                              "Drug name and ingredients: CARTISTEM [allogeneic-unrelated, umbilical cord blood-derived mesenchymal stem cells, ex vivo cultured, combined with sodium hyaluronate] Dosage: Administer 0.5 mL of the combination product per cm^2 of the cartilage defect"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: CARTISTEM\u00ae"
+                        ],
+                        "ArmGroupLabel": [
+                              "CARTISTEM\u00ae"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [
+                              "Female",
+                              "Male",
+                              "Hispanic or Latino",
+                              "Not Hispanic or Latino",
+                              "Unknown or Not Reported",
+                              "American Indian or Alaska Native",
+                              "Asian",
+                              "Native Hawaiian or Other Pacific Islander",
+                              "Black or African American",
+                              "White",
+                              "More than one race",
+                              "Unknown or Not Reported"
+                        ],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01733186"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "A single dose of 500\u3395/\u33a0 of cartilage defect"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Cartistem",
+                              "Procedure: Microfracture treatment"
+                        ],
+                        "ArmGroupLabel": [
+                              "Cartistem",
+                              "Microfracture treatment"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01041001"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "A single dose of 500\u3395/\u33a0 of cartilage defect",
+                              "conventional treatment method"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: CARTISTEM",
+                              "Procedure: Microfracture"
+                        ],
+                        "ArmGroupLabel": [
+                              "CARTISTEM",
+                              "Microfracture"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01626677"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "only ACL reconstruction without any injection",
+                              "ACL reconstruction and concomitant Cartistem(TM) injection which is human cord blood derived mesenchymal stem cell under arthroscopy.",
+                              "ACL reconstruction and concomitant hyaluronic acid injection under arthroscopy"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Procedure: ACL reconstruction only",
+                              "Biological: Cartistem(TM)",
+                              "Procedure: ACL reconstruction only",
+                              "Biological: hyaluronic acid",
+                              "Procedure: ACL reconstruction only"
+                        ],
+                        "ArmGroupLabel": [
+                              "ACL reconstruction only",
+                              "ACL reconstruction + Cartistem(TM)",
+                              "ACL reconstruction + Hyaluronic acid"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02755376"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "CARTISTEM\u00ae is added on the lesion as a single dose of 500 \u3395/\u33a0 according to the defect size after arthroscopic curettage and microfracture.",
+                              "Standard treatment of arthroscopic curettage and microfracture is performed for cartilage defect."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: CARTISTEM\u00ae",
+                              "Procedure: Microfracture"
+                        ],
+                        "ArmGroupLabel": [
+                              "Microfracture + CARTISTEM\u00ae",
+                              "Microfracture"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04310215"
+                        ]
+                  }
+            ]
+      }
+}

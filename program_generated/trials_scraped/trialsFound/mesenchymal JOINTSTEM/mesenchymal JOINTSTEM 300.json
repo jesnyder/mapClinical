@@ -1,0 +1,533 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal JOINTSTEM",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 10,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 10,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change from baseline in WOMAC subscale (Function) score at Week 12, 24, and 36",
+                              "Change from baseline in WOMAC subscale (Pain) score at Week 12, 24, 36, and 48",
+                              "Change from baseline in total WOMAC score at Week 12, 24, 36, and 48",
+                              "Change from baseline in VAS score at Week 12, 24 and 36",
+                              "Change from baseline in IKDC score at Week 12, 24, 36, and 48",
+                              "Change from baseline in SF-36 score at Week 12, 24, 36, and 48",
+                              "Change from baseline in structural changes to the knee joint determined by MRI at Week 48",
+                              "Change from baseline in Kellgren-Lawrence grade of knee osteoarthritis determined by X-ray at Week 48",
+                              "The number and amount of rescue medication use at Week 12, 24, 36, and 48"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Western Ontario and McMaster Universities Arthritis Index (WOMAC) subscale (Function)",
+                              "Western Ontario and McMaster Universities Arthritis Index (WOMAC) subscale (Pain)",
+                              "Total Western Ontario and McMaster Universities Arthritis Index (WOMAC) score",
+                              "Visual Analog Scale (VAS) score",
+                              "International Knee Documentation Committee (IKDC) score",
+                              "36-Item Short Form health survey questionnaires (SF-36) score",
+                              "Structural changes in knee joint",
+                              "Kellgren-Lawrence grade",
+                              "Number and amount of rescue medication use"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Week 12, 24 and 36",
+                              "Week 12, 24, 36, and 48",
+                              "Week 12, 24, 36, and 48",
+                              "Week 12, 24 and 36",
+                              "Week 12, 24, 36, and 48",
+                              "Week12, 24, 36, and 48",
+                              "Week 48",
+                              "Week 48",
+                              "Week 12, 24, 36, and 48"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04368806"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change from baseline on WOMAC (Western Ontario and McMaster Universities Arthritis Index) score",
+                              "Change from baseline on WOMAC 3 subscale (Pain, stiffness, and physical function) score",
+                              "X-ray perform to measure with Kellgren-Lawrence grade"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "WOMAC score",
+                              "WOMAC 3 subscale score",
+                              "X-ray"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline and 12 months",
+                              "Baseline and 12 months",
+                              "Baseline and 12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03509025"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Pain, stiffness, and physical function of the knee will be measured by the Western Ontario and McMaster Universities (WOMAC)",
+                              "Pain of knee will be measured by the 100mm Visual Analog Scale (VAS)",
+                              "Symptoms, pain and functionality of the knee joint will be evaluated via the Knee Injury and Osteoarthritis Outcome Score (KOOS)\n\n-Score range is from 0(extreme symptoms) to 100(no symptoms)",
+                              "The SF(Short Form)-36 Health Survey is a 36-item, patient-reported survey of patient health.",
+                              "Symptoms, sports activities, and function of the knee will be measured by the International Knee Documentation Committee (IKDC)",
+                              "Measuring of Kellgren-Lawrence grade through X-ray",
+                              "Measuring of FTA through X-ray",
+                              "Measureing of HKA through X-ray",
+                              "measuring Joint Space Width through X-ray",
+                              "MRI perform to measure Modified WORMS (Whole-Organ Magnetic Resonance Imaging Score)",
+                              "Frequency and total amount of rescue medication administration will be measured."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "WOMAC 3 subscale score",
+                              "VAS score",
+                              "KOOS",
+                              "SF-36",
+                              "IKDC",
+                              "Measuring of Kellgren-Lawrence grade",
+                              "Measuring of Femoro-tibial anatomical angle(FTA)",
+                              "Measuring of Hip-Knee-Ankle angle(HKA)",
+                              "Measuring of Joint Space Width",
+                              "MRI scan",
+                              "Use of rescue medication"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 weeks, 24 weeks",
+                              "12 weeks, 24 weeks",
+                              "12 weeks, 24 weeks",
+                              "12 weeks, 24 weeks",
+                              "12weeks, 24 weeks",
+                              "12 weeks, 24 weeks",
+                              "12 weeks, 24 weeks",
+                              "12 weeks, 24 weeks",
+                              "12 weeks, 24 weeks",
+                              "12 weeks, 24 weeks",
+                              "12 weeks, 24 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03990805"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Pain, stiffness, and physical function of the knee will be measured by the WOMAC score",
+                              "Pain, stiffness, and physical function of the knee will be measured by the Western Ontario and McMaster Universities (WOMAC)",
+                              "The SF(Short Form)-36 Health Survey is a 36-item, patient-reported survey of patient health.",
+                              "Measuring of Kellgren-Lawrence grade through X-ray",
+                              "Measuring of FTA through X-ray",
+                              "Measureing of HKA through X-ray",
+                              "measuring Joint Space Width through X-ray",
+                              "MRI perform to measure Modified WORMS (Whole-Organ Magnetic Resonance Imaging Score)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change of Western Ontario and McMaster Universities Osteoarthritis Index(WOMAC) scores from baseline",
+                              "WOMAC 3 subscale score",
+                              "SF-36",
+                              "Measuring of Kellgren-Lawrence grade",
+                              "Measuring of Femoro-tibial anatomical angle(FTA)",
+                              "Measuring of Hip-Knee-Ankle angle(HKA)",
+                              "Measuring of Joint Space Width",
+                              "MRI scan"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "54 Months",
+                              "54 Months",
+                              "54 Months",
+                              "6, 18 Months",
+                              "6, 18 Months",
+                              "6, 18 Months",
+                              "6, 18 Months",
+                              "6, 18, 30, 42, 54 Months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04427930"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Incidence of adverse events(special attention target: malicious tumor, autoimmune disease) from baseline to 60 months"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Adverse Events (Special Attention Target)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "60 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04825730"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Changes in the MRI knee with cartilage mapping and clinical improvement assessed by radiologist.",
+                              "Changes in exercise score and function of joint evaluation by KSCRS(Knee Society Clinical rating System).",
+                              "Changes in VAS(11-point box visual analogue scale) score.",
+                              "Biopsy specimens subject to safranin-O staining and immunohistochemistry for type I and II collagen. Thickness of the articular cartilage before and after injection measure, and specimens evaluate with ICRS II by a blind histopathologist."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Magnetic Resonance Imaging",
+                              "KSCRS(Knee Society Clinical rating System)",
+                              "VAS(11-point box visual analogue scale)",
+                              "Histological evaluates"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01300598"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ResultsFirstSubmitDate": [
+                              "June 21, 2021"
+                        ],
+                        "ResultsFirstSubmitQCDate": [
+                              "June 21, 2021"
+                        ],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Comparing the changes of WOMAC scores between JointStem and positive control groups at 6 months Score range: 0-2,400 A score of 2,400 represents the most severe impairment and 0 represents the least impairment",
+                              "Comparing the changes of VAS scores between JointStem and positive control groups at 6 months Score range: 0-100 A score of 100 represents the most severe pain and 0 represents the least pain.",
+                              "Comparing the changes of KOOS values between JointStem and positive control groups at 6 months KOOS score = 100 - [{(average score of each item) * 100} / 4 ] Score range: 0-100 A score of 0 represents the most severe impairment and 100 represents the least impairment",
+                              "Comparing the changes of Lysholm Knee Scoring Scales between JointStem and positive control groups at 6 months Score range: 0-100 A score of 0 represents the most severe impairment and 100 represents the least impairment",
+                              "Comparing the changes of IKDC scores between JointStem and positive control groups at 6 months IKDC score = {(sum of each item score) / 87} * 100 Score range: 0-100 A score of 0 represents the most severe impairment and 100 represents the least impairment",
+                              "Comparing the changes of RAND-36 scores between JointStem and positive control groups at 6 months Score range: 0-100 A score of 0 represents the most severe impairment and 100 represents the least impairment",
+                              "Comparing the baseline and 9-month/12-month WOMAC scores in JointStem group Score range: 0-2,400 A score of 2,400 represents the most severe impairment and 0 represents the least impairment",
+                              "Comparing the baseline and 9-month/12-month VAS scores in JointStem group Score range: 0-100 A score of 100 represents the most severe pain and 0 represents the least pain.",
+                              "Comparing the baseline and 9-month/12-month MRI improvement values in JointStem group MRI Improvement Evaluation was conducted by an MRI analysis company called 'Qmetrics'. The main radiological features evaluated were bone marrow edema, osteophytes, and cartilage. Certain features, such as the appearance of a new cartilage defect or increase in the size of existing cartilage defects or osteophytes, is generally considered an indication of osteoarthritic progression. Similarly, the diminishing in severity or size of existing abnormalities would generally be considered to be a healing(improving) response.",
+                              "Comparing the baseline and 6-month/9-month/12-month Lysholm Knee Scoring Scale in JointStem group Score range: 0-100 A score of 0 represents the most severe impairment and 100 represents the least impairment",
+                              "Comparing the baseline and 6-month/9-month/12-month KOOS scores in JointStem group KOOS score = 100 - [{(average score of each item) * 100} / 4 ] Score range: 0-100 A score of 0 represents the most severe impairment and 100 represents the least impairment",
+                              "Comparing the baseline and 6-month/9-month/12-month IKDC scores in JointStem group IKDC score = {(sum of each item score) / 87} * 100 Score range: 0-100 A score of 0 represents the most severe impairment and 100 represents the least impairment",
+                              "Comparing the baseline and 6-month/9-month/12-month RAND-36 scores in JointStem group Score range: 0-100 A score of 0 represents the most severe impairment and 100 represents the least impairment"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change From Baseline on WOMAC Between JointStem and Positive Control Groups",
+                              "Change From Baseline on VAS Between JointStem and Positive Control Groups",
+                              "Change From Baseline on Knee Injury & Osteoarthritis Outcome Score (KOOS) Between JointStem and Positive Control Groups",
+                              "Change From Baseline on Lysholm Knee Scoring Scale Between JointStem and Positive Control Groups",
+                              "Change From Baseline on International Knee Documentation Committee (IKDC) Between JointStem and Positive Control Groups",
+                              "Change From Baseline on RAND-36 Score Between JointStem and Positive Control Groups",
+                              "Change From Baseline on WOMAC in JointStem Group",
+                              "Change From Baseline on VAS in JointStem Group",
+                              "Comparison of MRI Improvement Evaluation in JointStem Group",
+                              "Change of Lysholm Knee Scoring Scale From Baseline at Months 6, 9 and 12",
+                              "Change of KOOS Score From Baseline at Month 6, 9 and 12 for JointStem Group",
+                              "Change of IKDC Score From Baseline at Month 6, 9 and 12 for JointStem Group",
+                              "Change of RAND-36 Score From Baseline at Month 6, 9 and 12 for JointStem Group"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline and 6 months",
+                              "Baseline and 6 months",
+                              "Baseline and 6 months",
+                              "Baseline and 6 months",
+                              "Baseline and 6 months",
+                              "Baseline and 6 months",
+                              "Baseline, 9 months and 12 months",
+                              "Baseline, 9 months and 12 months",
+                              "Baseline, 6 months and 12 months",
+                              "Baseline, 6 months, 9 months and 12 months",
+                              "baseline, 6 month, 9 month, 12 month",
+                              "baseline, 6 month, 9 month, 12 month",
+                              "baseline, 6 month, 9 month, 12 month"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02674399"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "MRI perform to measure cartilage defect size change from baseline up to 15 weeks",
+                              "Change in WOMAC Total score from baseline up to 15, 27 weeks",
+                              "Change in WOMAC sub-scale from baseline up to 15, 27 weeks",
+                              "Change in Kellgren & Lawrence grade from baseline up to 15, 27 weeks",
+                              "Change in the score of EQ-5D from baseline up to 15, 27 weeks",
+                              "change from baseline in knee flexion Range of Motion(ROM) at 15,27 weeks by physical examination",
+                              "Symptoms, pain and functionality of the knee joint will be evaluated via the Knee Injury and Osteoarthritis Outcome Score (KOOS)",
+                              "The percentage of subjects who were evaluated as improved at 15 weeks and 27 weeks in the patient global impression of change",
+                              "Change in PSQI from baseline up to 15, 27 weeks",
+                              "Change from baseline in Biomarkers up to 15, 27 weeks"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "MRI scan",
+                              "WOMAC score",
+                              "WOMAC sub-scale",
+                              "Kellgren & Lawrence grade",
+                              "EQ5D",
+                              "ROM",
+                              "KOOS (Knee Injury & Osteoarthritis Outcome Score)",
+                              "PGIC(Patient Global Impression of Change)",
+                              "PSQI(Pittsburgh Sleep Quality Index)",
+                              "Biomarkers",
+                              "Incidence of adverse reactions and characteristics associated with investigational product"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months",
+                              "15, 27 weeks, 18, 24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03000712"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change of Western Ontario and McMaster Universities Osteoarthritis Index(WOMAC) total scores from baseline (Experimental group vs Control group)",
+                              "Change of Western Ontario and McMaster Universities (WOMAC) subscale score (3 sub-scales: Pain, stiffness, and physical function of the knee) from baseline (Experimental group vs Control group)",
+                              "Change of Visual Analog Scale (VAS) from baseline (Experimental group vs Control group) Pain of knee will be measured by the 100mm VAS Score range is from 0mm(no pain) to 100mm(severe pain) Pain of knee will be measured by the 100mm Visual Analog Scale (VAS)",
+                              "Change of The RAND-36 Measure of Health-Related Quality of Life (RAND-36) score from baseline (Experimental group vs Control group) Scoring the RAND 36-Item Health Survey is a two-step process. First, precoded numeric values are recoded per the scoring key given in Table 1. Note that all items are scored so that a high score defines a more favorable health state. In addition, each item is scored on a 0 to 100 range so that the lowest and highest possible scores are 0 and 100, respectively. Scores represent the percentage of total possible score achieved. In step 2, items in the same scale are averaged together to create the 8 scale scores.",
+                              "Change of International Knee Documentation Committee (IKDC) score from baseline (Experimental group vs Control group) The IKDC is a patient-completed tool, which contains sections on knee symptoms (7 items), function (2 items), and sports activities (2 items). Scores range from 0 points (lowest level of function or highest level of symptoms) to 100 points (highest level of function and lowest level of symptoms).",
+                              "Change of Biopsy from baseline (Experimental group vs Control group)",
+                              "Frequency and total amount of rescue medication administration will be measured.",
+                              "Change from baseline in Kellgren-Lawrence grade of knee osteoarthritis determined by X-ray at Week 48"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "WOMAC total score",
+                              "WOMAC subscale score",
+                              "VAS score",
+                              "RAND-36",
+                              "IKDC",
+                              "Biopsy",
+                              "Use of rescue medication",
+                              "Kellgren-Lawrence grade"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 weeks, 24 weeks, 48 weeks",
+                              "12 weeks, 24 weeks, 48 weeks",
+                              "12 weeks, 24 weeks, 48 weeks",
+                              "12 weeks, 24 weeks, 48 weeks",
+                              "12 weeks, 24 weeks, 48 weeks",
+                              "48 Weeks",
+                              "4 Weeks, 12 Weeks, 24 Weeks, 48 Weeks",
+                              "24 Weeks, 48 Weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04821102"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Pain, stiffness, and physical function of the knee will be measured by the Western Ontario and McMaster Universities (WOMAC)",
+                              "Symptoms, pain and functionality of the knee joint will be evaluated via the Knee Injury and Osteoarthritis Outcome Score (KOOS)",
+                              "The SF(Short Form)-36 Health Survey is a 36-item, patient-reported survey of patient health.",
+                              "Change From Baseline in Patient's & Physician's Global Assessment of Disease Activity Score at 12,24 weeks by 100mm VAS(Visual Analogue Scale)",
+                              "Patient's overall satisfaction on a 0-100mm VAS(Visual Analogue Scale)",
+                              "X-ray perform to measure with Kellgren-Lawrence grade",
+                              "MRI perform to measure cartilage defect size change from baseline up to 24weeks",
+                              "Arthroscopy performs to evaluate any change in cartilage defect at the time of cell injection, and at 24 weeks after injection",
+                              "Biopsy specimens subject to safranin-O staining and immunohistochemistry for type I and II collagen. Thickness of the articular cartilage before and after injection measure, and specimens evaluate with ICRS(International Cartilage Repair Society) II by a blind histopathologist.",
+                              "Pain of the knee will be measured by the 100mm Visual Analogue Scale (VAS)",
+                              "Symptoms, sports activities, and function of the knee will be measured by the International Knee Documentation Committee (IKDC)",
+                              "change from baseline in knee flexion Range of Motion(ROM) at 12,24 weeks by physical examination",
+                              "Change from baseline in quadriceps power at 12,24 weeks by physical examination",
+                              "Change from baseline in 4-grade knee effusion at 12,24 weeks",
+                              "Change from baseline in asymptomatic and symptomatic crepitus at 12,24 weeks by physical examination",
+                              "Change from baseline in ligament laxity at 12,24 weeks by physical examination",
+                              "Change from baseline in 4-grade(none, mild, moderate, severe) medial joint line tenderness at 12,24 weeks by physical examination",
+                              "Change from baseline in 4-grade(none, mild, moderate, severe) Pes tenderness at 12,24 weeks by physical examination"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "WOMAC 3 subscale",
+                              "KOOS (Knee Injury & Osteoarthritis Outcome Score)",
+                              "SF(Short Form)-36 Score",
+                              "Global assessment of disease activity",
+                              "Overall satisfaction",
+                              "X-ray",
+                              "MRI scan",
+                              "Arthroscopy evaluation",
+                              "Histological evaluation",
+                              "VAS",
+                              "IKDC",
+                              "ROM",
+                              "Quadriceps power",
+                              "effusion",
+                              "Crepitus",
+                              "Ligament laxity",
+                              "Medial joint line tenderness",
+                              "Pes tenderness"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks",
+                              "24 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02658344"
+                        ]
+                  }
+            ]
+      }
+}

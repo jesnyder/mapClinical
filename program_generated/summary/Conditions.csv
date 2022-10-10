@@ -1,597 +1,887 @@
 ,Conditions,count,enrolled
-0,"Osteoarthritis, Knee",35,1866
-1,COVID-19,19,1005
-2,Multiple Sclerosis,16,431
-3,Spinal Cord Injury,14,554
-4,Osteoarthritis,13,831
-5,Amyotrophic Lateral Sclerosis,13,344
-6,Myocardial Infarction,13,1000
-7,Crohn's Disease,12,996
-8,Bronchopulmonary Dysplasia,11,529
-9,Diabetic Foot Ulcer,9,457
-10,Rheumatoid Arthritis,9,257
-11,Critical Limb Ischemia,7,173
-12,Liver Cirrhosis,7,1086
-13,Acute Respiratory Distress Syndrome,6,391
-14,Ischemic Stroke,6,380
-15,Graft Versus Host Disease,5,485
-16,Cerebral Palsy,5,485
-17,Erectile Dysfunction,5,86
-18,Multiple System Atrophy,4,120
-19,Parkinson Disease,4,114
-20,Graft Vs Host Disease,4,197
-21,Chronic Kidney Diseases,4,115
-22,Frailty,4,165
-23,Osteogenesis Imperfecta,4,56
-24,Idiopathic Pulmonary Fibrosis,4,63
-25,Epidermolysis Bullosa,3,190
-26,Systemic Lupus Erythematosus,3,98
-27,Ulcerative Colitis,3,54
-28,Cleft Lip and Palate,3,77
-29,COVID-19 Pneumonia,3,114
-30,Aging Frailty,3,242
-31,Alcoholic Liver Cirrhosis,3,122
-32,Atopic Dermatitis,3,142
-33,Septic Shock,3,96
-34,Systemic Sclerosis,3,47
-35,Retinitis Pigmentosa,3,167
-36,Burn,3,40
-37,Mesenchymal Stromal Cells|Psoriasis|Drug Effect|Drug Toxicity,3,21
-38,Alzheimer Disease,3,127
-39,Alzheimer's Disease,3,88
-40,Decompensated Liver Cirrhosis,3,248
-41,Parkinson's Disease,3,85
-42,Huntington Disease,3,76
-43,Heart Failure,3,490
-44,Degenerative Arthritis|Knee Osteoarthritis,3,310
-45,COVID-19 Acute Respiratory Distress Syndrome,3,410
-46,Decompensated Cirrhosis,3,489
-47,"Diabetes Mellitus, Type 2",3,78
-48,Osteoarthritis of Knee,3,272
-49,Autism,3,72
-50,"ARDS, Human",2,90
-51,Venous Leg Ulcer,2,88
-52,Tibial Fracture,2,64
-53,Cicatrix,2,180
-54,Lupus Nephritis,2,14
-55,Sepsis,2,125
-56,Anal Fistula,2,92
-57,Inflammatory Bowel Diseases,2,16
-58,Avascular Necrosis of the Femoral Head,2,41
-59,Stroke,2,75
-60,Type 2 Diabetes,2,136
-61,Erectile Dysfunction Associated With Type 2 Diabetes Mellitus,2,18
-62,Recovery Following Partial Medial Meniscectomy,2,115
-63,Lateral Epicondylitis,2,42
-64,Dilated Cardiomyopathy,2,57
-65,Type1diabetes,2,81
-66,Peripheral Artery Disease|Peripheral Vascular Disease|Critical Limb Ischemia,2,27
-67,Knee Osteoarthrosis,2,20
-68,Intervertebral Disc Degeneration|Chronic Low-back Pain,2,104
-69,Type 2 Diabetes Mellitus,2,60
-70,Dystrophic Epidermolysis Bullosa,2,16
-71,Acute Respiratory Distress Syndrome|Covid19,2,45
-72,Acute Graft Versus Host Disease,2,26
-73,Chronic Kidney Disease,2,37
-74,Recessive Dystrophic Epidermolysis Bullosa,2,21
-75,Spinal Cord Injuries|Paralysis,2,50
-76,Cartilage Injury,2,292
-77,Type 2 Diabetes|Mesenchymal Stem Cells,2,133
-78,Skin Ulcer Venous Stasis Chronic,2,231
-79,Alcoholic Cirrhosis,2,236
-80,Premature Ovarian Failure,2,33
-81,Degenerative Arthritis|Knee Arthritis,2,35
-82,Traumatic Brain Injury,2,44
-83,Non-ischemic Dilated Cardiomyopathy,2,173
-84,Ischemic Cardiomyopathy,2,135
-85,Xerostomia Following Radiotherapy,2,132
-86,Uterine Scar,2,130
-87,"Respiratory Distress Syndrome, Adult",2,180
-88,Amyotrophic Lateral Sclerosis (ALS),2,311
-89,Diabetic Foot,2,142
-90,Healthy,2,42
-91,Polymyositis|Dermatomyositis,2,40
-92,Cartilage Defect,2,40
-93,Type 1 Diabetes,2,30
-94,Cystic Fibrosis,1,14
-95,Bradykinesia,1,15
-96,Autism Spectrum Disorder|Autism,1,12
-97,Skin Burn Degree Second,1,15
-98,Perianal Fistula|Cryptoglandular Perianal Fistula,1,15
-99,Congestive Heart Failure|Angina,1,20
-100,End Stage Renal Disease,1,15
-101,Chronic Graft-Versus-Host Disease,1,15
-102,Cytopenia,1,15
-103,"Osteoarthritis, Knee|Knee Degenerative Disease|Knee Osteoarthritis",1,12
-104,Organ Transplantation,1,15
-105,"Multiple Sclerosis, Chronic Progressive",1,20
-106,"Multiple System Atrophy|Parkinsonism|Multiple System Atrophy, Parkinson Variant",1,15
-107,Thrombocytopenia|Mesenchymal Stem Cells,1,15
-108,Acute Respiratory Distress Syndrome|COVID-19 Pneumonia,1,20
-109,Ischemia Reperfusion Injury,1,15
-110,Testicular Injury|Oligospermia,1,20
-111,Epidermal Necrolysis|Lyell Syndrome|Toxic Epidermal Necrolysis|Overlap Syndrome|Mesenchymal Stromal Cells|Adipose Derived Stromal Cells,1,15
-112,Rectovaginal Fistula,1,16
-113,Pyoderma Gangrenosum,1,20
-114,Improved Healing of Scarred Vocal Folds|Improved Vocal Fold Status|Improved Vocal Fold Function,1,16
-115,Ischemia|Peripheral Arterial Disease|Peripheral Vascular Disease|Vascular Disease|Arterial Occlusive Disease|Arteriosclerosis|Atherosclerosis|Cardiovascular Disease|Pathologic Processes|Orthopedic Procedures|Amputation,1,16
-116,Acute-On-Chronic Liver Failure,1,16
-117,Degeneration Articular Cartilage Knee,1,12
-118,Chronic Meniscal Injury,1,20
-119,Hoarseness|Dysphonia|Aphonia|Vocal Fold; Scar,1,15
-120,Liver Transplant Rejection,1,20
-121,Difficult to Healing of Skin Ulcers,1,20
-122,Ankle Deformity|Ankle Arthritis,1,15
-123,Acute Stroke,1,14
-124,Recurrent Pregnancy Loss,1,20
-125,Buerger's Disease,1,15
-126,"Osteoarthritis, Knee|Knee Injuries|Joint Diseases|Rheumatic Diseases|Cartilage Diseases",1,15
-127,"Myocardial Ischemia|Ventricular Dysfunction, Left",1,20
-128,Erectile Dysfunction|Peyronie's Disease|Interstitial Cystitis,1,20
-129,Cirrhosis Due to Hepatitis B,1,20
-130,Crohn Disease|Fistula Perianal,1,14
-131,Periodontal Pocket,1,15
-132,Chronic Obstructive Pulmonary Disease,1,15
-133,Ophthalmological Disorder|Corneal Dystrophy|Treatment|Therapy|Keratoconus,1,15
-134,Devic's Syndrome|Devic's Neuromyelitis Optica|Devic Syndrome|Devic's Disease|Devic Disease,1,15
-135,Neuroblastoma,1,15
-136,Intervertebral Disc Disease,1,15
-137,"Articular Cartilage Disorder of Knee|Osteoarthritis, Knee",1,13
-138,Bone Atrophy,1,13
-139,Post-Concussion Syndrome,1,20
-140,Crohn Disease|Perianal Fistula,1,15
-141,Liver Cirrhoses,1,12
-142,Mesenchymal Stem Cells|Diabetic Nephropathy,1,15
-143,Tracheal Stenosis|Laryngeal Stenosis|Mesenchymal Stem Cells,1,12
-144,Lupus,1,15
-145,Osteoarthritis|Spinal Arthritis,1,20
-146,Ischemic Heart Disease|Lung Injury|Non-cardiac Surgery,1,16
-147,"Bone Loss, Osteoclastic|Bone Loss, Alveolar|Alveolar Bone Loss|Alveolar Bone Atrophy|Grafting Bone",1,20
-148,Faecal Incontinence,1,16
-149,Diabetes,1,20
-150,Mesenchymal Stromal Cells|Cornea|Safety|Corneal Defect,1,18
-151,Trophic Ulcer,1,18
-152,Atrophic Nonunion of Fracture,1,19
-153,Lung Transplant Reject|Bronchiolitis Obliterans,1,19
-154,Frontotemporal Dementia,1,12
-155,Cerebral Infarction,1,19
-156,Stenosis; Bowel|Crohn Disease,1,20
-157,Breast Reconstruction|Contour Irregularities|Volume Insufficiency,1,20
-158,Hypoplastic Left Heart Syndrome|Atrioventricular Canal,1,19
-159,Graft Versus Host Disease|Chronic and Expanded Graft Versus Host Disease|Immune System Diseases,1,19
-160,Nonunion Fracture,1,19
-161,Implant Therapy,1,20
-162,Skin Ulcer,1,20
-163,SARS-CoV-2 Infection( COVID-19 ),1,20
-164,Periodontal Intrabony Defect,1,20
-165,Children|Solid Tumors|Metastases,1,20
-166,Pulmonary Disease|Asthma|Chronic Obstructive Pulmonary Disease,1,20
-167,"Defect of Articular Cartilage|Cartilage Injury|Osteoarthritis, Knee",1,20
-168,Polycystic Ovary Syndrome,1,20
-169,Systemic Sclerosis|Digital Ulcer,1,20
-170,Solid Organ Transplant Rejection|Organ Rejection Transplants|Organ Rejection,1,20
-171,Multiple Myeloma|Relapse Multiple Myeloma,1,20
-172,Mandibular Fractures,1,20
-173,Ovarian Failure,1,20
-174,Hepatitis B,1,20
-175,Allergic Rhinitis,1,18
-176,Cartilage Diseases|Osteoarthritis,1,20
-177,Perianal Crohn's Disease,1,20
-178,Musculoskeletal Pain|Knee Osteoarthritis|Cartilage Injury|Cartilage Degeneration,1,16
-179,Rectal Fistula,1,16
-180,Idiopathic Interstitial Pneumonia|Interstitial Lung Disease|Idiopathic Pulmonary Fibrosis,1,20
-181,Adypose Mesenchimal Stem Cell|Ligament Rupture|Ligament Derived Conditined Medium,1,16
-182,Tracheal Stenosis|Laryngeal Stenosis,1,20
-183,Traditional Chinese Medicine|Drug Effect|Drug Safety|Psoriasis|Mesenchymal Stromal Cells,1,16
-184,"Uveal Melanoma, Metastatic",1,16
-185,MSCs,1,20
-186,Lupus Nephritis|Mesenchymal Stem Cells,1,16
-187,Chemical Burns,1,16
-188,Graft vs Host Disease,1,16
-189,Eye Diseases|Retinitis Pigmentosa|Glaucoma|Diabetic Retinopathy|Macular Degeneration|Traumatic Optic Neuropathy|Optic Atrophy,1,20
-190,Mesenchymal Stromal Cells|Cornea|Corneal Defect|Corneal Epithelium Defect,1,18
-191,"Pouch, Ileal|Fistula",1,20
-192,Acute Liver Failure,1,17
-193,Multiple Sclerosis|Progressive Multiple Sclerosis,1,18
-194,Thin Endometrium|Intrauterine Adhesion,1,18
-195,Methanol Poisoning|Toxic Optic Neuropathy|Stem Cell Tyrosine Kinase 1 Y842X|Magnetic Field Exposure,1,18
-196,Degenerative Arthritis,1,18
-197,Blood And Marrow Transplantation|Adult Respiratory Distress Syndrome,1,20
-198,Spinal Cord Injury Cervical,1,18
-199,Segmental Fracture - Bone Loss,1,20
-200,Rotator Cuff Disease,1,18
-201,"Sclerosis, Systemic|Mesenchymal Stem Cells",1,18
-202,Autoimmune Diseases|Cardiovascular Disorders|Diabetes Complications|Integumentary Disease|Musculoskeletal Disorders|Neurodegenerative Disorders|Neurologic Disorders|Pulmonary Disorders|Sexual Dysfunction|Urologic Disorders|Viral Illness,1,5000
-203,Wilson's Disease,1,10
-204,Autism|Autism Spectrum Disorder|ASD,1,12
-205,Perianal Fistula Due to Crohn's Disease|Fistula in Ano,1,7
-206,Hip Osteoarthritis,1,6
-207,Bronchiectasis,1,6
-208,Severe Acute Respiratory Syndrome Coronavirus 2,1,6
-209,Bone Cyst,1,6
-210,Chronic Renal Failure|Polycystic Kidney Disease,1,6
-211,Acute Lymphoblastic Leukemia|Acute Myelogenous Leukemia|Myelodysplastic Syndromes|Myelofibrosis|Relapsed Non-Hodgkin Lymphoma|Refractory Non-Hodgkin Lymphoma|Hodgkin Lymphoma|Refractory Hodgkin Lymphoma|Relapsed Chronic Lymphocytic Leukemia|Refractory Chronic Lymphocytic Leukemia|Lymphoid Malignancies|Chronic Myelogenous Leukemia,1,6
-212,Atherosclerotic Renal Artery Stenosis|Ischemic Nephropathy|Renovascular Hypertension,1,6
-213,Frailty Syndrome,1,6
-214,Nonunion Fractures,1,6
-215,Leg Length Inequality,1,6
-216,Kidney Transplantation|Renal Transplantation|Renal Transplant Recipient,1,6
-217,Autologous Mesenchymal Stem Cells|Multiple Sclerosis,1,7
-218,Cerebellar Ataxia,1,7
-219,"ARDS, Human|COVID",1,7
-220,Cardiomyopathy|Heart Failure,1,7
-221,D017202,1,6
-222,Mesenchymal Stromal Cells|Psoriasis|Drug Toxicity|Drug Effect,1,7
-223,Perianal Fistula|Cryptoglandular Perianal Fistula|Crohn's Perianal Fistula,1,7
-224,Dry Eye|Kerato Conjunctivitis Sicca|Aqueous Tear Deficiency,1,7
-225,Chronic Kidney Diseases|Calciphylaxis|Calcific Uremic Arteriolopathy|Treatment,1,7
-226,Bone Marrow Donor,1,7
-227,Bronchopulmonary Dysplasia|Respiratory Tract Infections|Premature Birth of Newborn,1,8
-228,Osteodysplasia,1,8
-229,Relapsing-Remitting Multiple Sclerosis|Secondary Progressive Multiple Sclerosis,1,8
-230,Kabuki Syndrome 1,1,8
-231,Dementia of the Alzheimer's Type,1,9
-232,"Hypoxia-Ischemia, Brain",1,9
-233,Chronic Obstructive Pulmonary Disease Moderate,1,9
-234,Hemorrhagic Stroke|Intracerebral Hemorrhage,1,9
-235,Acute Ischemic Stroke,1,9
-236,Kidney Transplant Rejection,1,6
-237,Mandible Tumor|Mandibular Injuries|Mandible; Deformity,1,6
-238,Aplastic Anemia,1,9
-239,Pulp Necroses|Apical Periodontitis,1,5
-240,Klinefelter Syndrome|Azoospermia,1,1
-241,The Sequelae Caused by Severe Brain Injury,1,1
-242,"Hypercholesterolemia, Familial",1,1
-243,Surgical Leak Fistula,1,2
-244,Retinal Degeneration|Primary Open-angle Glaucoma,1,2
-245,Liver Fibrosis,1,3
-246,Stem Cells|Anti-Bacterial Agents,1,3
-247,Motor Neuron Disease,1,3
-248,Interstitial Cystitis|Stem Cell Transplant|Mesenchymal Stem Cell,1,3
-249,Primary Disease,1,3
-250,Osteonecrosis of the Femoral Head,1,3
-251,Chronic Pancreatitis|Diabetes,1,3
-252,Patients With Chronic Low Back Pain Due to Degenerative Lumbar Disc,1,4
-253,Bronchopleural Fistula,1,5
-254,Peyronie's Disease,1,5
-255,System; Lupus Erythematosus,1,6
-256,Fistula Vagina|Crohn Disease,1,5
-257,Fistula in Ano|Crohn Disease,1,5
-258,Progressive Hemifacial Atrophy|Romberg's Disease,1,5
-259,"Cirrhosis, Liver",1,5
-260,Non Arteritic Ischemic Optic Neuropathy,1,5
-261,Ovarian Cancer,1,5
-262,Discordant Immunological Response in HIV Infected Subjects,1,5
-263,Osteogenesis Imperfecta Type II|Osteogenesis Imperfecta Type III,1,5
-264,Ischemic Heart Disease,1,5
-265,Cerebrovascular Disorders,1,5
-266,Sickle Cell Disease|Thalassemia|Diamond-Blackfan Anemia,1,6
-267,Hematopoietic Stem Cell Transplantation,1,6
-268,POI,1,6
-269,Moderate to Severe Hypoxic-ischemic Encephalopathy,1,6
-270,Acute Respiratory Distress Syndrome|ARDS (Moderate or Severe)|COVID-19 Pneumonia,1,9
-271,Covid19|Corona Virus Infection|SAR,1,9
-272,Xerostomia|Head and Neck Cancer,1,12
-273,Nonunion of Fracture,1,11
-274,Chronic Myocardial Ischemia|Left Ventricular Dysfunction,1,10
-275,Psoriasis,1,10
-276,Graft-vs-Host Disease,1,10
-277,COVID-19 Acute Respiratory Distress Syndrome|Respiratory Distress Syndrome,1,20
-278,Cell- and Tissue-Based Therapy|Cartilage Injury|Knee Injuries,1,10
-279,Burns,1,10
-280,"Spinal Cord Injury, Chronic",1,10
-281,Rejection|Graft Loss,1,10
-282,Schizophrenia,1,10
-283,Cleft of Alveolar Ridge,1,10
-284,Lupus Erythematosus|Stem Cell Transplant,1,10
-285,Urinary Incontinence,1,10
-286,Nephrotic Syndrome in Children|Steroid-Dependent Nephrotic Syndrome|Idiopathic Nephrotic Syndrome,1,11
-287,Graft Versus Host Disease|Acute Graft Versus Host Disease|Chronic Graft Versus Host Disease,1,11
-288,Maxillary Cyst|Bone Loss of Substance,1,11
-289,Diabetic Peripheral Neuropathy,1,10
-290,Coronary Artery Disease|Ischemic Cardiomyopathy,1,11
-291,Kidney Transplant,1,12
-292,Autism Spectrum Disorder,1,12
-293,Pelvic Radiation Therapy|Radiation-induced Hemorrhagic Cystitis,1,12
-294,Osteogenesis Imperfecta|Osteogenesis Imperfecta Type III,1,12
-295,Duchenne Muscular Dystrophy,1,12
-296,"Osteoarthritis,Knee",1,12
-297,Diminished Ovarian Response,1,12
-298,"GVHD,Acute",1,12
-299,"Charcot-Marie-Tooth Disease, Type IA",1,12
-300,Urologic Diseases|Erectile Dysfunction With Diabetes Mellitus,1,12
-301,Asthma,1,12
-302,Pseudoarthrosis,1,12
-303,"Diffuse Intrinsic Pontine Glioma|Medulloblastoma, Childhood, Recurrent",1,12
-304,Post-radiotherapy Pulmonary Fibrosis,1,10
-305,Facet-Mediated Low Back Pain,1,10
-306,Moderate to Severe Nasolabial Fold Wrinkles,1,9
-307,"Periodontitis, Chronic",1,10
-308,"Glomerulonephritis , IGA",1,9
-309,Mesenchymal Stromal Cells,1,9
-310,"ARDS, Human|Covid-19",1,9
-311,Relapsing Remitting Multiple Sclerosis (RRMS),1,9
-312,Idiopathic Parkinson's Disease,1,9
-313,Acute Leukemia,1,10
-314,Nonrevascularizable Critical Ischemia of the Lower Limbs,1,10
-315,Perianal Fistula Due to Crohn's Disease (Disorder),1,10
-316,Stress Urinary Incontinence,1,10
-317,Crohn Disease|IBD - Irritable Bowel Disease,1,10
-318,Osteoporosis|Spinal Fractures,1,10
-319,Ultra Filtration Failure,1,10
-320,Xerostomia Due to Radiotherapy|Hyposalivation|Xerostomia|Oropharynx Cancer|Salivary Gland Diseases|Dry Mouth|Mesenchymal Stem Cells|Mesenchymal Stromal Cells|Stem Cells,1,10
-321,Covid19 Pneumonia,1,10
-322,Gingival Recession|Lack of Keratinized Gingiva (Disorder),1,10
-323,"Premature Birth|Extreme Prematurity|Preterm Intraventricular Hemorrhage|Hypoxia-Ischemia, Cerebral|Neurodevelopmental Disorders",1,10
-324,Interstitial Lung Disease|Connective Tissue Diseases,1,10
-325,Emphysema,1,10
-326,Chronic Kidney Disease Stage 3B|Chronic Kidney Disease stage4,1,10
-327,HLHS,1,10
-328,Urticaria|Autoimmune Diseases|Immune System Diseases|Skin Diseases,1,10
-329,COVID-19 Pneumonia|Viral Pneumonia,1,10
-330,Adult Periodontitis,1,10
-331,Chronic Endometritis|Uterus; Scar|Uterine Synechiae|Fallopian Tube Obstruction,1,10
-332,"Glioblastoma|Adult Gliosarcoma|Neoplasms, Brain|Neoplasms, Germ Cell and Embryonal|Recurrent Glioblastoma",1,10
-333,Perinatal Arterial Ischemic Stroke|Neonatal Stroke,1,10
-334,Uterus; Injury,1,10
-335,Umbilical Cord of Normal Labor,1,10
-336,Bronchiolitis Obliterans|Lung Transplantation,1,10
-337,Pulmonary Emphysema,1,10
-338,Brain Death,1,20
-339,Degenerative Disc Disease|Intervertebral Disc Disease|Low Back Pain,1,25
-340,"Stroke|Infarction, Middle Cerebral Artery",1,20
-341,Mesenchymal Stem Cell Transplantation,1,20
-342,Chronic Ischemic Heart Disease,1,60
-343,SARS-CoV2 Infection,1,60
-344,Treatment Complication,1,60
-345,Perianal Fistula|Crohn's Disease,1,60
-346,Multiple Organ Failure,1,60
-347,Allergic Rhinitis|Rhinosinusitis Chronic,1,60
-348,"Diabetes Mellitus, Type 1",1,60
-349,COVID-19 Pneumonia|COVID-19,1,60
-350,Efficacy and Safety,1,60
-351,Epilepsy,1,60
-352,Covid19|Postviral Syndrome|Dyspnea,1,60
-353,Osteonecrosis,1,60
-354,Knee Osteoarthritis|Knee Pain Chronic|Joint Disease|Arthritis|Osteo Arthritis Knee|Musculoskeletal Disease,1,60
-355,Covid19|Corona Virus Infection|SARS-CoV Infection|ARDS|Coronavirus,1,60
-356,ALS|Amyotrophic Lateral Sclerosis,1,60
-357,"Pulmonary Disease, Chronic Obstructive|Pulmonary Emphysema|Chronic Bronchitis",1,62
-358,"Type 1 Diabetes Mellitus|Type 1 Diabetes|Diabetes Mellitus, Insulin-Dependent|Juvenile Diabetes",1,63
-359,"Stem Cell Transplantation|Ventricular Dysfunction, Left",1,65
-360,Bone Marrow Stromal Cells,1,65
-361,Premature Ovarian Insufficiency,1,66
-362,Sars-CoV2|Acute Respiratory Distress Syndrome|COVID-19,1,66
-363,"Lumbar Spondylolisthesis Involving L4-L5, and/or|Degenerative Discopathy Involving L4-L5",1,69
-364,Osteochondral Fracture of Talus,1,70
-365,COVID-19 Infection|COVID-19-Associated Acute Respiratory Distress Syndrome|Hematopoietic and Lymphoid Cell Neoplasm|Malignant Solid Neoplasm|Symptomatic COVID-19 Infection Laboratory-Confirmed,1,70
-366,"ARDS, Human|Covid19",1,70
-367,Osteoarthritis of Knee Joint,1,72
-368,Cardiomyopathy|Heart Failure|Hematopoietic and Lymphoid Cell Neoplasm|Malignant Solid Neoplasm,1,72
-369,End Stage Renal Disease (ESRD)|Vascular Access Complication,1,74
-370,COVID-19 Infection,1,75
-371,Drug-resistant,1,60
-372,Pseudarthrosis After Fusion or Arthrodesis,1,60
-373,Burn Scar,1,60
-374,Stem Cell Transplant Complications,1,50
-375,Cardiomyopathy Due to Anthracyclines,1,46
-376,Non Union Fracture,1,46
-377,Adenocarcinoma of Lung,1,46
-378,"Infertility, Female|Infertility of Uterine Origin|Asherman Syndrome",1,46
-379,Severe Acute Respiratory Syndrome Coronavirus 2|Severe Acute Respiratory Distress Syndrome,1,47
-380,Acute Traumatic Spinal Cord Injury,1,48
-381,Multiple Trauma,1,48
-382,Diabetic Kidney Disease,1,48
-383,Multiple Sclerosis (MS),1,48
-384,Covid-19|Cytokine Storm,1,48
-385,Cancer,1,49
-386,"Infertility, Female|Endometrium",1,50
-387,Chronic Ischemic Cardiomyopathy,1,50
-388,"Urinary Incontinence, Stress",1,50
-389,Congestive Heart Failure,1,59
-390,Non Traumatic Osteonecrosis of the Femoral Head (Hip),1,50
-391,Transplantation:Mesenchymal Stem Cell Transplantation,1,50
-392,Graft-versus-host-disease,1,50
-393,Retinitis Pigmentosa (RP),1,50
-394,Perianal Fistula,1,52
-395,Hip Necrosis|Hip Injuries,1,52
-396,Rheumatoid Arthritis Aggravated,1,53
-397,Covid19|Novel Coronavirus Pneumonia|Acute Respiratory Distress Syndrome,1,55
-398,"Brain Injuries, Traumatic|Brain Injuries, Acute|TBI (Traumatic Brain Injury)",1,55
-399,Grade B aGVHD|Grade C aGVHD|Grade D aGVHD,1,55
-400,Myelomeningocele,1,55
-401,Fallopian Tube Clear Cell Adenocarcinoma|Fallopian Tube Endometrioid Adenocarcinoma|Fallopian Tube Mucinous Adenocarcinoma|Fallopian Tube Serous Adenocarcinoma|Fallopian Tube Transitional Cell Carcinoma|Fallopian Tube Undifferentiated Carcinoma|Malignant Ovarian Brenner Tumor|Ovarian Clear Cell Adenocarcinoma|Ovarian Endometrioid Adenocarcinoma|Ovarian Mucinous Adenocarcinoma|Ovarian Seromucinous Carcinoma|Ovarian Serous Adenocarcinoma|Ovarian Transitional Cell Carcinoma|Ovarian Undifferentiated Carcinoma|Primary Peritoneal Serous Adenocarcinoma|Recurrent Fallopian Tube Carcinoma|Recurrent Ovarian Carcinoma|Recurrent Primary Peritoneal Carcinoma,1,57
-402,Osteopenia|Osteoporosis|Osteonecrosis,1,58
-403,Chronic Graft-versus-host-disease,1,77
-404,Perianal Fistula in Patients With Crohn's Disease,1,80
-405,Post COVID-19 Syndrome,1,80
-406,Stable Angina|Heart Failure|Atherosclerosis|Multivessel Coronary Artery Disease,1,180
-407,Allogeneic Hematopoietic Stem Cell Transplantation,1,120
-408,"Covid19|ARDS|Pneumonia, Viral",1,120
-409,Sexual Dysfunction Female,1,130
-410,Degenerative Osteoarthritis|Post-traumatic; Arthrosis|Rheumatoid Arthritis & Other Inflammatory Polyarthropathies|Rheumatoid Arthritis of Subtalar Joint,1,140
-411,Alveolar Bone Atrophy,1,150
-412,"Safety|Efficacy, Self",1,150
-413,Myelodysplastic Syndromes|Acute Myeloid Leukemia|Cardio-vascular Surgery,1,150
-414,Chronic Graft-versus-host Disease,1,152
-415,Liver Failure|Mesenchymal Stem Cells,1,158
-416,Sexual Dysfunction Male,1,158
-417,ST-Elevation Myocardial Infarction,1,160
-418,Autism|Autism Spectrum Disorder,1,164
-419,Renal Transplant Rejection,1,165
-420,aGVHD,1,182
-421,Ankylosing Spondylitis,1,120
-422,Hemophilia A|Hemophilia B|Arthropathy,1,200
-423,Preeclampsia,1,200
-424,Hip Arthroplasty,1,203
-425,Steroid-refractory Acute Graft-versus-host Disease,1,210
-426,"Myocardial Infarction, Acute|Myocardial Infarction First|Myocardial Infarction, Anterior Wall|Cardiac Remodeling, Ventricular|STEMI|Regenerative Medicine|Heart Failure",1,240
-427,Lumbar Discogenic Pain,1,242
-428,Acetabular Labrum Tear|Femoro Acetabular Impingement|Chondral Defect|Bone Marrow Aspirate Concentrate|Mesenchymal Stromal Cell,1,300
-429,Coronary Artery Disease,1,300
-430,Covid-related Pneumonia,1,300
-431,"Osteoarthritis, Knee|Osteoarthritis, Hip|Osteoarthritis Shoulder",1,300
-432,"Retinal Disease|Age-Related Macular Degeneration|Retinitis Pigmentosa|Stargardt Disease|Optic Neuropathy|Nonarteritic Ischemic Optic Neuropathy|Optic Atrophy|Optic Nerve Disease|Glaucoma|Leber Hereditary Optic Neuropathy|Blindness|Vision Loss Night|Vision Loss Partial|Vision, Low|Retinopathy|Maculopathy|Macular Degeneration|Retina Atrophy",1,500
-433,Chronic Heart Failure,1,566
-434,Covid19|Cytokine Release Syndrome|Critical Illness|ARDS,1,600
-435,"Infarction, Middle Cerebral Artery|Infarction, Anterior Cerebral Artery|Cerebral Infarction|Stroke, Ischemic|Acute Stroke|Brain Infarction|Infarction, PCA|Infarction, Posterior Circulation, Brain",1,120
-436,Accidental Wound|Heel Injury|Stem Cell Transplant,1,110
-437,Fistula Perianal,1,80
-438,Prostate Cancer|Metastatic Cancer|Castration-resistant Prostate Cancer|Circulating Tumor Cells,1,94
-439,Pneumoconiosis,1,80
-440,Acute Kidney Injury|Mesenchymal Stem Cells,1,80
-441,"Spondyloarthrosis, Spondylosis",1,80
-442,Chronic Lung Allograft Dysfunction (CLAD),1,82
-443,Androgenic Alopecia,1,84
-444,"Tibial Fractures|Fractures, Open",1,85
-445,Primary Ovarian Insufficiency|Premature Ovarian Failure,1,86
-446,Critical Limb Ischemia|Buerger's Disease,1,90
-447,Limb Ischemia|Diabetic Foot,1,90
-448,Chronic Myocardial Ischemia,1,90
-449,Transplantation Infection|Kidney Transplant; Complications|Stem Cell Transplant Complications|Liver Transplant; Complications|Microbial Colonization,1,90
-450,Diabete Type 2|Mesenchymal Stem Cell,1,91
-451,"Dermatitis, Atopic",1,92
-452,Myelodysplastic Syndrome|Leukemia,1,98
-453,Pneumonia|Hematopoietic Stem Cell Transplantation,1,107
-454,Lumbar Disc Disease,1,99
-455,Degenerative Disc Disease,1,100
-456,Graft-versus-host Disease|Poor Graft Function|Low Donor T-cell Chimerism,1,100
-457,Osteoarthritis Post-meniscectomy,1,100
-458,Anterior Cruciate Ligament Injury|Anterior Cruciate Ligament Rupture,1,100
-459,Full Thickness Rotator Cuff Tear,1,100
-460,Skin|Scar|Cutis Laxa|Keloid|Cicatrix,1,100
-461,Knee Osteoarthritis|Chondropathy,1,100
-462,Basal Ganglia Hematoma,1,100
-463,Chondral or Osteochondral Lesion of Talus,1,102
-464,Degenerative Osteoarthritis|Defect of Articular Cartilage,1,103
-465,Cartilage Injury|Osteoarthritis,1,104
-466,"Tibiotalar Arthrodesis|Subtalar Arthrodesis|Calcaneocuboid Arthrodesis|Talonavicular Arthrodesis|Double Arthrodesis (i.e. Calcaneocuboid and Talonavicular)|Triple Arthrodesis (i.e. Subtalar, Calcaneocuboid, and Talonavicular)",1,106
-467,Spinocerebellar Ataxia Type 1|Spinocerebellar Ataxia Type 2|Spinocerebellar Ataxia Type 3|Spinocerebellar Ataxia Type 6,1,45
-468,Acute Leukemia|Myelodysplastic Syndromes,1,45
-469,"Liver Failure, Acute on Chronic",1,45
-470,Covid19|Cytokine Storm,1,29
-471,Critical Limb Ischemia|Peripheral Artery Disease,1,25
-472,Sars-CoV2,1,26
-473,Infertility|Intrauterine Adhesions,1,26
-474,"Motor Neuron Disease, Amyotrophic Lateral Sclerosis",1,26
-475,Pitt Hopkins Syndrome,1,26
-476,Limbus Corneae Insufficiency Syndrome,1,27
-477,Gingival Recession,1,27
-478,Perianal Fistula|Adipose Tissue|Tissue Transplantation,1,27
-479,Dry Eye,1,27
-480,Limbal Stem-cell Deficiency,1,27
-481,Primary Ovarian Insufficiency,1,28
-482,KRAS NP_004976.2:p.G12D|Metastatic Pancreatic Adenocarcinoma|Pancreatic Ductal Adenocarcinoma|Stage IV Pancreatic Cancer AJCC v8,1,28
-483,Major Depressive Disorder|Alcohol Use Disorder,1,28
-484,Knee Osteoarthritis|Cartilage Degeneration,1,30
-485,Supraspinatus Tear,1,24
-486,Treatment-resistant Bipolar Depression,1,30
-487,Liver Failure|Cirrhosis,1,30
-488,Type 1 Diabetes Mellitus,1,30
-489,MSA,1,30
-490,Diabetic Nephropathy|Type 2 Diabetes,1,30
-491,Deficiency of Anterior Cruciate Ligament,1,30
-492,"Delayed Union After Fracture of Humerus, Tibial or Femur",1,30
-493,"Knee; Injury, Meniscus (Lateral) (Medial)|Meniscus Tear|Meniscus Lesion|Meniscus; Degeneration|Meniscus; Laceration|Meniscus Injury, Tibial|Knee Injuries|Knee Pain Swelling|Arthralgia",1,30
-494,Diabetes Mellitus|Ischemic Heart Disease,1,30
-495,Diabetes Mellitus,1,30
-496,Radiation Toxicity|Xerostomia Due to Radiotherapy|Dry Mouth|Hyposalivation|Mesenchymal Stem Cells|Mesenchymal Stromal Cells|Long Term Adverse Effects,1,30
-497,Pulmonary Emphysema|Mesenchymal Stromal Cells,1,30
-498,Shoulder Arthritis,1,30
-499,Corneal Ulcer|Corneal Disease|Corneal Dystrophy,1,25
-500,HBV,1,24
-501,Lung Transplant Rejection,1,30
-502,COVID|ARDS,1,23
-503,Peripheral Neuropathy|Trigeminal Neuralgia,1,20
-504,SYSTEMIC SCLERODERMA|ALLOGENEIC MESENCHYMAL STEM CELLS|ADULT,1,20
-505,Covid-19 Pneumonia|Cyotokine Storm,1,20
-506,Chronic Conjunctivitis|Stevens-Johnson Syndrome|Lyell Syndrome|Pemphigoid,1,20
-507,Osteoporosis,1,20
-508,Primary Sclerosing Cholangitis,1,20
-509,Lumbar Disc Degeneration|Lumbar Disc Herniation,1,20
-510,Temporomandibular Joint Disorders|Temporomandibular Disorder|Temporomandibular Joint Osteoarthritis|Temporomandibular Joint Pain|Temporomandibular Joint Effusion,1,20
-511,Fecal Incontinence,1,21
-512,Crohn's Disease|Fistula,1,21
-513,Burn Injury,1,22
-514,COVID-19|Acute Kidney Injury|Sepsis,1,22
-515,Non-Ischemic Heart Failure,1,23
-516,Diabetic Neuropathic Ulcer,1,23
-517,Rotator Cuff Tear,1,24
-518,Avascular Necrosis of Femur Head,1,23
-519,"Osteoarthritis, Hip",1,24
-520,Type1 Diabetes Mellitus,1,24
-521,Acute Kidney Injury,1,24
-522,"Infertility, Female",1,24
-523,"Corona Virus Infection|ARDS|ARDS, Human|Acute Respiratory Distress Syndrome|COVID-19",1,24
-524,Coronavirus,1,24
-525,Covid19|Acute Respiratory Distress Syndrome,1,24
-526,Crohn Colitis,1,24
-527,Brachial Plexus Neuropathies,1,24
-528,Relapsing-Remitting Multiple Sclerosis|Secondary Progressive Multiple Sclerosis|Progressive Relapsing Multiple Sclerosis,1,24
-529,Hematopoietic and Lymphoid Cell Neoplasm|Steroid Refractory Graft Versus Host Disease,1,24
-530,Renal Transplantation|Mesenchymal Stem Cells,1,24
-531,Hematological Malignancies,1,30
-532,Chronic Ischemic Left Ventricular Dysfunction|Myocardial Infarction,1,30
-533,Macular Holes,1,44
-534,COPD,1,40
-535,IDH1 wt Allele|Recurrent Anaplastic Astrocytoma|Recurrent Glioblastoma|Recurrent Gliosarcoma|Recurrent Malignant Glioma,1,36
-536,Lupus Nephritis|Lupus Erythematosus,1,36
-537,Periapical Periodontitis,1,36
-538,COVID-19|ARDS|Acute Respiratory Distress Syndrome,1,39
-539,"Lupus Erythematosus, Systemic|Lupus Glomerulonephritis",1,39
-540,ARDS|COVID-19,1,40
-541,Cardiovascular Diseases|Heart Failure|Coronary Artery Disease|Mesenchymal Stem Cell Transplantation|Regenerative Medicine,1,40
-542,Metabolic Disease|Endothelial Dysfunction,1,40
-543,"Chronic Kidney Diseases|Diabetes Mellitus, Type 2|Diabetes Mellitus, Type 1|Diabetes Mellitus|Diabetic Nephropathies",1,40
-544,Covid19|Prophylaxis,1,40
-545,"Keratoconjunctivitis Sicca, in Sjogren's Syndrome",1,40
-546,Ileal Pouch|Crohn Disease,1,40
-547,"Heart Failure, Systolic",1,40
-548,Rectovaginal Fistula|Crohn Disease|Crohn Disease of Vulva|Rectolabial; Fistula,1,40
-549,Crohn's Fistula,1,36
-550,Autologous Transplantation|Diabetic Foot,1,40
-551,Atrophic Scar,1,40
-552,Liver Failure|Kidney Failure,1,40
-553,COVID-19|Critical Illness|Hypercytokinemia|Lung Fibrosis,1,40
-554,Perianal Crohn Disease|Perianal Fistula|Crohn Disease,1,40
-555,Malignant Melanoma|Head and Neck Cancer,1,40
-556,Left Ventricular Dysfunction|Acute Myocardial Infarction,1,40
-557,Alzheimer Dementia,1,40
-558,Diabetic Peripheral Neuropathy Type 2,1,42
-559,Renal Artery Stenosis|Ischemic Nephropathy|Renovascular Disease|Chronic Kidney Disease,1,42
-560,Chronic Pancreatitis|Mesenchymal Stem Cells,1,42
-561,Critical Limb Ischemia and Peripheral Artery Disease,1,43
-562,Rotator Cuff Tear|Tendon Injuries|Mesenchymal Stem Cell,1,44
-563,"Pancreatitis, Acute",1,36
-564,Congenital Heart Disease (CHD),1,36
-565,"Diabetic Kidney Disease|Diabetic Nephropathies|Diabetes Mellitus, Type 2|Diabetes Mellitus, Type 1|Chronic Kidney Disease|Diabetic Nephropathy Type 2|Kidney Failure|Kidney Insufficiency",1,30
-566,Chronic Kidney Diseases|Diabetes Mellitus|Diabetic Nephropathies,1,30
-567,"Autoimmune Diseases|Immune System Diseases|Demyelinating Diseases|Nervous System Diseases|Demyelinating Autoimmune Diseases, CNS|Autoimmune Diseases of the Nervous System",1,30
-568,"Osteoarthritis, Knee|Arthritis of Knee|Knee Osteoarthritis",1,30
-569,Chronic Periodontitis,1,30
-570,COVID-19|SARS-CoV 2|Adult Respiratory Distress Syndrome,1,30
-571,Hip Osteoarthritis|Hip Disease,1,30
-572,Vertebral Compression Fracture|Osteoporotic Fractures,1,30
-573,Ischemic Stroke|Adipose Tissue-derived Stem Cell|Functional Status,1,30
-574,Diabetic Foot Ulcer|Cutaneous Ulcer,1,30
-575,COVID19 ARDS,1,30
-576,Sepsis|Septic Shock,1,30
-577,Covid19|Pneumonia|Multiple Organ Failure|Corona Virus Infection,1,30
-578,Skin Aging|Transepidermal Water Loss,1,30
-579,Acute Lung Injury,1,30
-580,Xerostomia,1,30
-581,Liver Failure|Liver Neoplasm,1,35
-582,Osteoarthritis Knees,1,30
-583,Tennis Elbow,1,30
-584,Mesenchymal Stem Cells|Knee Osteoarthritis|Cell Therapy,1,30
-585,Myocardial Ischemia|Coronary Heart Disease,1,31
-586,Ischemia|Stroke,1,31
-587,Stem Cell Transplantation,1,31
-588,Retinitis Pigmentosa|Inherited Retinal Dystrophy,1,32
-589,"COVID|Covid-19|Coronavirus|Pneumonia|Pneumonia, Viral|Pneumonia, Interstitial|Sars-CoV2",1,32
-590,Grade B Acute Graft Versus Host Disease|Grade C Acute Graft Versus Host Disease|Grade D Acute Graft Versus Host Disease,1,32
-591,Bone Loss,1,32
-592,Critical Limb Ischemia (CLI)|Diabetes,1,33
-593,Pened Chest Surgery for Programmes Coronary Bypass,1,35
-594,Foreign-Body Reaction|Inflammation|Effusion (L) Knee|Knee Pain Swelling,1,35
-595,Duchenne's Muscular Dystrophy,1,1
+0,"Osteoarthritis, Knee",51,2793
+1,Spinal Cord Injury,30,1054
+2,COVID-19,26,1099
+3,Multiple Sclerosis,23,528
+4,Liver Cirrhosis,19,2076
+5,Amyotrophic Lateral Sclerosis,19,319
+6,Osteoarthritis,19,1113
+7,Crohn's Disease,18,1076
+8,Bronchopulmonary Dysplasia,17,661
+9,Rheumatoid Arthritis,14,800
+10,Myocardial Infarction,14,1025
+11,Critical Limb Ischemia,12,353
+12,Diabetic Foot Ulcer,12,573
+13,Cerebral Palsy,9,594
+14,Premature Ovarian Failure,8,286
+15,Type 1 Diabetes Mellitus,8,213
+16,Ischemic Stroke,8,380
+17,Stroke,7,147
+18,Acute Respiratory Distress Syndrome,7,417
+19,Graft Versus Host Disease,6,537
+20,Alzheimer Disease,6,136
+21,Alzheimer's Disease,6,179
+22,Idiopathic Pulmonary Fibrosis,5,123
+23,Lupus Nephritis,5,312
+24,Ulcerative Colitis,5,92
+25,COVID-19 Pneumonia,5,234
+26,Erectile Dysfunction,5,86
+27,Systemic Lupus Erythematosus,5,148
+28,Parkinson's Disease,5,110
+29,Parkinson Disease,5,114
+30,Heart Failure,5,560
+31,Duchenne Muscular Dystrophy,5,67
+32,COVID-19 Acute Respiratory Distress Syndrome,4,430
+33,Graft-Versus-Host Disease,4,32
+34,Dystrophic Epidermolysis Bullosa,4,26
+35,Primary Biliary Cirrhosis,4,294
+36,Liver Failure,4,711
+37,Inflammatory Bowel Diseases,4,38
+38,Osteogenesis Imperfecta,4,44
+39,Frailty,4,165
+40,Alcoholic Liver Cirrhosis,4,134
+41,Graft Vs Host Disease,4,197
+42,Type 2 Diabetes,4,266
+43,Graft vs Host Disease,4,141
+44,Decompensated Liver Cirrhosis,4,500
+45,Decompensated Cirrhosis,4,529
+46,Chronic Kidney Diseases,4,115
+47,Type 2 Diabetes Mellitus,4,144
+48,Degenerative Disc Disease,4,111
+49,Aplastic Anemia,4,99
+50,Ischemic Cardiomyopathy,4,305
+51,Septic Shock,3,96
+52,Cerebral Infarction,3,99
+53,Osteoarthritis of Knee,3,272
+54,Osteoarthritis of the Knee,3,60
+55,Retinitis Pigmentosa,3,167
+56,Acute-On-Chronic Liver Failure,3,221
+57,Mesenchymal Stromal Cells Psoriasis Drug Effect Drug Toxicity,3,21
+58,Dilated Cardiomyopathy,3,170
+59,Asthma,3,35
+60,Autism,3,72
+61,Rotator Cuff Tear,3,83
+62,Recessive Dystrophic Epidermolysis Bullosa,3,31
+63,Aging Frailty,3,242
+64,Epidermolysis Bullosa,3,190
+65,Burn,3,40
+66,Degenerative Arthritis Knee Osteoarthritis,3,310
+67,"Respiratory Distress Syndrome, Adult",3,190
+68,"Diabetes Mellitus, Type 2",3,78
+69,Cleft Lip and Palate,3,77
+70,Multiple System Atrophy,3,112
+71,Acute Respiratory Distress Syndrome Covid19,2,45
+72,Uterine Scar,2,130
+73,Knee Osteoarthrosis,2,20
+74,Type1diabetes,2,81
+75,"Osteoarthritis, Hip",2,30
+76,Acute Graft-versus-host Disease,2,240
+77,Cartilage Defect,2,40
+78,Covid19 SARS-CoV-2 PNEUMONIA COVID-19,2,120
+79,Type 2 Diabetes Mesenchymal Stem Cells,2,133
+80,Hypoplastic Left Heart Syndrome,2,43
+81,Polymyositis Dermatomyositis,2,40
+82,Hip Osteoarthritis,2,106
+83,Alcoholic Cirrhosis,2,236
+84,Chronic Kidney Disease,2,37
+85,Severe Aplastic Anemia,2,190
+86,Type 1 Diabetes,2,30
+87,Erectile Dysfunction Associated With Type 2 Diabetes Mellitus,2,18
+88,Burns,2,30
+89,Sepsis,2,125
+90,Osteoporosis,2,25
+91,Diabetes Mellitus Type 1,2,40
+92,Skin Ulcer Venous Stasis Chronic,2,231
+93,Traumatic Brain Injury,2,44
+94,"ARDS, Human",2,90
+95,Urinary Incontinence,2,20
+96,Post COVID-19 Syndrome,2,80
+97,Acute GVH Disease,2,96
+98,Liver Failure Mesenchymal Stem Cells,2,228
+99,Spinal Cord Injuries Paralysis,2,50
+100,Healthy,2,42
+101,Systemic Sclerosis,2,27
+102,Psoriasis,2,22
+103,Chronic Graft-versus-host Disease,2,212
+104,"Stem Cell Transplantation Ventricular Dysfunction, Left",2,74
+105,"Multiple Sclerosis, Relapsing-Remitting",2,138
+106,Non-ischemic Dilated Cardiomyopathy,2,173
+107,Renal Transplant Rejection,2,182
+108,Osteo Arthritis Knee,2,64
+109,Peripheral Vascular Disease Ischemia Diabetic Foot,2,480
+110,Nonunion of Fracture,2,29
+111,COVID ARDS,2,89
+112,Ischemic Heart Disease,2,125
+113,Cystic Fibrosis,2,14
+114,COPD,2,60
+115,Covid19 Acute Respiratory Distress Syndrome,2,78
+116,Xerostomia Following Radiotherapy,2,132
+117,Chronic Myocardial Ischemia,2,90
+118,Lateral Epicondylitis,2,42
+119,Myelodysplastic Syndromes,2,70
+120,Kidney Transplant,2,16
+121,Chronic Ischemic Left Ventricular Dysfunction Myocardial Infarction,2,30
+122,Pneumoconiosis,2,90
+123,Peripheral Artery Disease Peripheral Vascular Disease Critical Limb Ischemia,2,27
+124,Avascular Necrosis of the Femoral Head,2,41
+125,Tibial Fracture,2,64
+126,Chronic Graft-Versus-Host Disease,2,145
+127,Osteonecrosis of the Femoral Head,2,71
+128,Amyotrophic Lateral Sclerosis (ALS),2,311
+129,Nonunion Fracture,2,19
+130,Emphysema,2,22
+131,Avascular Necrosis of Femur Head,2,105
+132,Intervertebral Disc Degeneration Chronic Low-back Pain,2,104
+133,Degenerative Arthritis Knee Arthritis,2,35
+134,Perianal Fistula,2,52
+135,Bronchopleural Fistula,2,15
+136,Acute Graft Versus Host Disease,2,26
+137,Evidence of Liver Transplantation,2,130
+138,Erectile Dysfunction Type 1 Diabetes Mellitus Type 2 Diabetes Mellitus,2,30
+139,Knee Osteoarthritis Cartilage Degeneration,2,55
+140,Venous Leg Ulcer,2,88
+141,Gastrointestinal Stromal Tumor,2,420
+142,Primary Ovarian Insufficiency,2,348
+143,Ankylosing Spondylitis,2,130
+144,Kidney Transplantation Acute Kidney Tubular Necrosis,2,240
+145,Pulmonary Emphysema,2,10
+146,Cartilage Injury,2,292
+147,Acute Kidney Injury,2,180
+148,"Lupus Erythematosus, Systemic Lupus Glomerulonephritis",1,39
+149,Critical Limb Ischemia and Peripheral Artery Disease,1,43
+150,Macular Holes,1,44
+151,Gastrointestinal Tract Gastrointestinal Stromal Tumor,1,39
+152,Rectovaginal Fistula Crohn Disease Crohn Disease of Vulva Rectolabial; Fistula,1,40
+153,Chronic Ulcer,1,38
+154,Rotator Cuff Tear Tendon Injuries Mesenchymal Stem Cell,1,44
+155,Diabetic Peripheral Neuropathy Type 2,1,42
+156,Spinocerebellar Ataxia Type 1 Spinocerebellar Ataxia Type 2 Spinocerebellar Ataxia Type 3 Spinocerebellar Ataxia Type 6,1,45
+157,Diabetic Nephropathy,1,38
+158,"Liver Failure, Acute on Chronic",1,45
+159,IDH1 wt Allele Recurrent Anaplastic Astrocytoma Recurrent Glioblastoma Recurrent Gliosarcoma Recurrent Malignant Glioma,1,36
+160,Type 1 Diabetes End Stage Renal Disease,1,36
+161,Acute Leukemia Myelodysplastic Syndromes,1,45
+162,Cirrhosis,1,36
+163,Non Union Fracture,1,46
+164,"Infertility, Female Infertility of Uterine Origin Asherman Syndrome",1,46
+165,Myopathy,1,45
+166,Malignant Melanoma Head and Neck Cancer,1,40
+167,COVID-19 ARDS Acute Respiratory Distress Syndrome,1,39
+168,Chronic Pancreatitis Mesenchymal Stem Cells,1,42
+169,Acute-graft-versus-host Disease,1,40
+170,ARDS COVID-19,1,40
+171,Severe Pneumonia,1,40
+172,Paraquat Poisoning Lung Injury,1,40
+173,Chronic Ischemic Heart Disease Heart Failure Angina,1,40
+174,ACL - Anterior Cruciate Ligament Rupture,1,40
+175,Left Ventricular Dysfunction Acute Myocardial Infarction,1,40
+176,COVID Pulmonary Infection Sars-CoV2,1,40
+177,Perianal Crohn Disease Perianal Fistula Crohn Disease,1,40
+178,Fracture Bone Nonunion,1,40
+179,Crohn Disease Ano Fistula,1,40
+180,"Chronic Kidney Diseases Diabetes Mellitus, Type 2 Diabetes Mellitus, Type 1 Diabetes Mellitus Diabetic Nephropathies",1,40
+181,Periapical Periodontitis,1,36
+182,Liver Failure Kidney Failure,1,40
+183,Alzheimer Dementia,1,40
+184,Covid19 Prophylaxis,1,40
+185,"Keratoconjunctivitis Sicca, in Sjogren's Syndrome",1,40
+186,Leukemia Multiple Myeloma,1,40
+187,Autologous Transplantation Diabetic Foot,1,40
+188,Renal Artery Stenosis Ischemic Nephropathy Renovascular Disease Chronic Kidney Disease,1,42
+189,Characterize and Evaluate Functional After Transplantation Determine the Therapeutic Efficiency Correlate the Imaging Results,1,40
+190,"Leukemia, Myeloid, Acute Leukemia, Lymphoblastic, Acute Leukemia, Myelocytic, Chronic Myeloproliferative Disorders Myelodysplastic Syndromes Multiple Myeloma Leukemia, Lymphocytic, Chronic Hodgkin's Disease Lymphoma, Non-Hodgkin",1,39
+191,Metabolic Disease Endothelial Dysfunction,1,40
+192,Stem Cell Transplant,1,40
+193,Premature Ovarian Failure，,1,40
+194,Cardiovascular Diseases Heart Failure Coronary Artery Disease Mesenchymal Stem Cell Transplantation Regenerative Medicine,1,40
+195,"Heart Failure, Systolic",1,40
+196,Shockwave Therapy Knee Osteoarthritis,1,40
+197,"Skin Pigmentation Over Contour Deformities of Face Trauma, Rhomberg Disease",1,40
+198,COVID-19 Critical Illness Hypercytokinemia Lung Fibrosis,1,40
+199,Polycystic Ovary Syndrome,1,40
+200,Vitiligo,1,40
+201,Chronic Leg Ulcer Sickle Cell Disease,1,40
+202,Ileal Pouch Crohn Disease,1,40
+203,"Osteoarthritis, Knee Arthritis of Knee Knee Osteoarthritis",1,30
+204,Congenital Heart Disease (CHD),1,36
+205,AMYOTROPHIC LATERAL SCLEROSIS,1,28
+206,Xerostomia,1,30
+207,Romberg's Disease Craniofacial Microsomia Lipodystrophy Mixed Connective Tissue Disease,1,30
+208,"Senescence Wrinkles, Acne, Pitting Scar",1,30
+209,"Delayed Union After Fracture of Humerus, Tibial or Femur",1,30
+210,Psoriasis Vulgaris,1,30
+211,Ischemic Stroke Adipose Tissue-derived Stem Cell Functional Status,1,30
+212,Hematological Malignancies,1,30
+213,Osteonecrosis of Femoral Head,1,30
+214,Renal Cirrhosis,1,30
+215,Articular Cartilage Lesion of the Femoral Condyle,1,30
+216,Deficiency of Anterior Cruciate Ligament,1,30
+217,MSA,1,30
+218,Hormone Deficiency,1,30
+219,Mesenchymal Stem Cells Knee Osteoarthritis Cell Therapy,1,30
+220,"Ketoacidosis, Diabetic",1,30
+221,Shoulder Arthritis,1,30
+222,Diabetes Mellitus,1,30
+223,Treatment-resistant Bipolar Depression,1,30
+224,Immune Function in Blood Liver Function in Blood Variation of Ascites Characters of Quality of Life Child-Pugh Score,1,30
+225,Hip Osteoarthritis Hip Disease,1,30
+226,Liver Failure Cirrhosis,1,30
+227,Chronic Effect of Ultraviolet Radiation on Photoaged Skin Dermatologic Disorders,1,29
+228,Major Depressive Disorder Alcohol Use Disorder,1,28
+229,Mesenchymal Stem Cell-derived Bioactivator for Treating Chronic Wounds,1,30
+230,Abdominal Aortic Aneurysm,1,28
+231,Lipodystrophies Aesthetics Procedure,1,25
+232,Bilateral Primary Osteoarthritis of Knee,1,25
+233,Degenerative Arthritis Chondral Defects Osteochondral Defects,1,25
+234,Critical Limb Ischemia Peripheral Artery Disease,1,25
+235,"Osteoarthritis, Knee Cartilage Degeneration",1,25
+236,Degenerative Disc Disease Intervertebral Disc Disease Low Back Pain,1,25
+237,"Accelerated Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive Acute Biphenotypic Leukemia Acute Leukemia Acute Lymphoblastic Leukemia Acute Lymphoblastic Leukemia in Remission Acute Myeloid Leukemia Acute Myeloid Leukemia Arising From Previous Myelodysplastic Syndrome Chemotherapy-Related Leukemia Chronic Lymphocytic Leukemia Chronic Myelogenous Leukemia, BCR-ABL1 Positive Chronic Myelomonocytic Leukemia Hodgkin Lymphoma Langerhans Cell Histiocytosis Minimal Residual Disease Myelodysplastic Syndrome Myelodysplastic Syndrome With Excess Blasts Non-Hodgkin Lymphoma Recurrent Hodgkin Lymphoma Refractory Acute Lymphoblastic Leukemia Refractory Myelodysplastic Syndrome Small Lymphocytic Lymphoma Therapy-Related Myelodysplastic Syndrome",1,25
+238,Progressive Supranuclear Palsy,1,25
+239,Corneal Ulcer Corneal Disease Corneal Dystrophy,1,25
+240,Sars-CoV2,1,26
+241,"Motor Neuron Disease, Amyotrophic Lateral Sclerosis",1,26
+242,Infertility Intrauterine Adhesions,1,26
+243,Pitt Hopkins Syndrome,1,26
+244,Gingival Recession,1,27
+245,Limbus Corneae Insufficiency Syndrome,1,27
+246,Perianal Fistula Adipose Tissue Tissue Transplantation,1,27
+247,Dry Eye,1,27
+248,Limbal Stem-cell Deficiency,1,27
+249,KRAS NP_004976.2:p.G12D Metastatic Pancreatic Adenocarcinoma Pancreatic Ductal Adenocarcinoma Stage IV Pancreatic Cancer AJCC v8,1,28
+250,Osteochondral Lesion of Talus,1,28
+251,Defect of Articular Cartilage Knee Osteoarthritis,1,28
+252,Diabetes Peripheral Arterial Disease,1,30
+253,Graft-Versus-Host Disease GVHD Allogeneic Hematopoietic Transplant Disorder Related to Transplantation,1,30
+254,Crohn's Fistula,1,36
+255,Kienböck's Disease,1,30
+256,Diabetic Nephropathy Type 2 Diabetes,1,30
+257,Adenocarcinoma of Lung,1,46
+258,Wounds Diabetic Foot Ulcers Burns,1,30
+259,Chronic Periodontitis,1,30
+260,Ischemia Stroke,1,31
+261,Stem Cell Transplantation,1,31
+262,Myocardial Ischemia Coronary Heart Disease,1,31
+263,Retinitis Pigmentosa Inherited Retinal Dystrophy,1,32
+264,Breast Hypoplasia and Facial Ageing,1,32
+265,"COVID Covid-19 Coronavirus Pneumonia Pneumonia, Viral Pneumonia, Interstitial Sars-CoV2",1,32
+266,Burn With Full-Thickness Skin Loss,1,33
+267,Critical Limb Ischemia (CLI) Diabetes,1,33
+268,Gastric GIST,1,34
+269,Chronic Obstructive Pulmonary Disease Severe,1,34
+270,Rectal Cancer Erectile Dysfunction,1,34
+271,Liver Failure Liver Neoplasm,1,35
+272,Foreign-Body Reaction Inflammation Effusion (L) Knee Knee Pain Swelling,1,35
+273,Non-union of Fractures,1,35
+274,Pened Chest Surgery for Programmes Coronary Bypass,1,35
+275,Scarred Vocal Folds,1,36
+276,Lupus Nephritis Lupus Erythematosus,1,36
+277,Osteoarthritis Knees,1,30
+278,Pulmonary Emphysema Mesenchymal Stromal Cells,1,30
+279,Central Nervous System Injury,1,30
+280,Acute Lung Injury,1,30
+281,Lung Transplant Rejection,1,30
+282,Diabetes Mellitus Ischemic Heart Disease,1,30
+283,"Autoimmune Diseases Immune System Diseases Demyelinating Diseases Nervous System Diseases Demyelinating Autoimmune Diseases, CNS Autoimmune Diseases of the Nervous System",1,30
+284,Gastrointestinal Stromal Tumor (GIST),1,30
+285,COVID-19 SARS-CoV 2 Adult Respiratory Distress Syndrome,1,30
+286,Chronic Kidney Diseases Diabetes Mellitus Diabetic Nephropathies,1,30
+287,Acute on Chronic Hepatic Failure,1,30
+288,Sepsis Septic Shock,1,30
+289,Septic Shock Nonchemotherapy Drug-induced Neutropenia Neutropenia After Chemotherapy in Oncohematological Patients Neutropenia in Patients With Aplastic Anemia,1,30
+290,Periodontitis,1,30
+291,Skin Aging Transepidermal Water Loss,1,30
+292,Vertebral Compression Fracture Osteoporotic Fractures,1,30
+293,Diabetic Foot,1,30
+294,COVID19 ARDS,1,30
+295,Corona Virus Infection Covid19,1,30
+296,Radiation Toxicity Xerostomia Due to Radiotherapy Dry Mouth Hyposalivation Mesenchymal Stem Cells Mesenchymal Stromal Cells Long Term Adverse Effects,1,30
+297,Mesenchymal Stem Cell-derived Pleiotropic Factor in Treating Residual Burn Wound,1,30
+298,"Foot, Diabetic",1,30
+299,Brain Injury,1,30
+300,"Diabetic Kidney Disease Diabetic Nephropathies Diabetes Mellitus, Type 2 Diabetes Mellitus, Type 1 Chronic Kidney Disease Diabetic Nephropathy Type 2 Kidney Failure Kidney Insufficiency",1,30
+301,"Knee; Injury, Meniscus (Lateral) (Medial) Meniscus Tear Meniscus Lesion Meniscus; Degeneration Meniscus; Laceration Meniscus Injury, Tibial Knee Injuries Knee Pain Swelling Arthralgia",1,30
+302,Chronic Ischemic Cardiomyopathy Coronary Artery Bypass Surgery,1,46
+303,Sickle Cell Disease,1,0
+304,Cardiomyopathy Due to Anthracyclines,1,46
+305,Osteoarthritis Hip Osteoarthritis Knee Osteoarthritis Glenohumeral Osteoarthritis,1,100
+306,Ocular Corneal Burn,1,100
+307,"RheumatoId Arthritis Osteoarthritis, Knee Osteoarthritis, Hip",1,100
+308,Skin Scar Cutis Laxa Keloid Cicatrix,1,100
+309,Knee Osteoarthritis Chondropathy,1,100
+310,Articular Cartilage Defect,1,100
+311,COVID Respiratory Distress Syndrome,1,100
+312,Full Thickness Rotator Cuff Tear,1,100
+313,Knee Osteoarthritis Hip Osteoarthritis Glenohumeral Osteoarthritis Osteoarthritis,1,100
+314,Avascular Necrosis of Bone Sickle Cell Disease,1,100
+315,Chondral or Osteochondral Lesion of Talus,1,102
+316,Degenerative Osteoarthritis Defect of Articular Cartilage,1,103
+317,Cartilage Injury Osteoarthritis,1,104
+318,"Tibiotalar Arthrodesis Subtalar Arthrodesis Calcaneocuboid Arthrodesis Talonavicular Arthrodesis Double Arthrodesis (i.e. Calcaneocuboid and Talonavicular) Triple Arthrodesis (i.e. Subtalar, Calcaneocuboid, and Talonavicular)",1,106
+319,Pneumonia Hematopoietic Stem Cell Transplantation,1,107
+320,"Cerebral Palsy, Spastic",1,108
+321,Accidental Wound Heel Injury Stem Cell Transplant,1,110
+322,Septic Shock Sepsis Pathologic Processes Shock Infection Systemic Inflammatory Response Syndrome Inflammation,1,114
+323,"Renal Insufficiency, Chronic Nephrotic Syndrome",1,116
+324,"Stem Cell Transplantation, Hematopoietic CMV Infection Hematological Diseases",1,120
+325,Living-relative Kidney Transplantation,1,120
+326,"Infarction, Middle Cerebral Artery Infarction, Anterior Cerebral Artery Cerebral Infarction Stroke, Ischemic Acute Stroke Brain Infarction Infarction, PCA Infarction, Posterior Circulation, Brain",1,120
+327,Autoimmune Hepatitis,1,100
+328,Idiopathic Pulmonary Hemosiderosis,1,100
+329,Uremia,1,120
+330,Graft-versus-host Disease Poor Graft Function Low Donor T-cell Chimerism,1,100
+331,Chronic Spinal Cord Injury,1,80
+332,Perianal Fistula in Patients With Crohn's Disease,1,80
+333,Gastrointestinal Stromal Tumors,1,80
+334,Chronic Lung Allograft Dysfunction (CLAD),1,82
+335,Androgenic Alopecia,1,84
+336,Primary Ovarian Insufficiency Premature Ovarian Failure,1,86
+337,Limb Ischemia Diabetic Foot,1,90
+338,Critical Limb Ischemia Buerger's Disease,1,90
+339,Transplantation Infection Kidney Transplant; Complications Stem Cell Transplant Complications Liver Transplant; Complications Microbial Colonization,1,90
+340,Diabete Type 2 Mesenchymal Stem Cell,1,91
+341,Myelodysplastic Syndrome Leukemia,1,98
+342,Lumbar Disc Disease,1,99
+343,Mesenchymal Stem Cells Chronic Kidney Diseases Renal Interstitial Fibrosis,1,100
+344,Aging Well Regenerative Medicine,1,100
+345,Lumbar Degenerative Disc Disease Lower Back Pain Chronic Lower Back Pain,1,100
+346,Immune Related Disorder Tissue Damage,1,100
+347,Basal Ganglia Hematoma,1,100
+348,Anterior Cruciate Ligament Injury Anterior Cruciate Ligament Rupture,1,100
+349,Chronic Graft Versus Host Disease,1,100
+350,Male Infertility,1,100
+351,"Injury of Facial Nerve, Unspecified Side, Initial Encounter",1,100
+352,"Stem Cell Transplantation, Hematopoietic Poor Graft Function Hematological Diseases",1,120
+353,Allogeneic Hematopoietic Stem Cell Transplantation,1,120
+354,Severe Acute Respiratory Syndrome Coronavirus 2 Severe Acute Respiratory Distress Syndrome,1,47
+355,Disorder Related to Renal Transplantation Renal Transplant Rejection,1,260
+356,Covid-related Pneumonia,1,300
+357,"Osteoarthritis, Knee Osteoarthritis, Hip Osteoarthritis Shoulder",1,300
+358,Acute Myeloid Leukemia,1,300
+359,Coronary Artery Disease,1,300
+360,Chronic Heart Failure,1,566
+361,Covid19 Cytokine Release Syndrome Critical Illness ARDS,1,600
+362,Autoimmune Diseases Cardiovascular Disorders Diabetes Complications Integumentary Disease Musculoskeletal Disorders Neurodegenerative Disorders Neurologic Disorders Pulmonary Disorders Sexual Dysfunction Urologic Disorders Viral Illness,1,5000
+363,Graft vs Host Disease Graft-Versus-Host Disease,1,0
+364,Mesenchymal Stem Cells,1,0
+365,Spinal Cord Injury at C5-C7 Level,1,0
+366,Polyneuropathies,1,0
+367,Pancreatic Cancer,1,0
+368,Moderate to Severe Acute Respiratory Distress Syndrome Associated With COVID-19,1,0
+369,Systemic Sclerosis Pulmonary Pulmonary Hypertension Pulmonary Fibrosis,1,0
+370,Multisystem Inflammatory Syndrome in Children (MIS-C) Associated With Coronavirus Disease (COVID-19),1,0
+371,Knee Pain Chronic Osteo Arthritis Knee,1,0
+372,Covid19 ARDS Hypoxia Cytokine Storm,1,0
+373,Chronic Pain,1,0
+374,"Primary Lateral Sclerosis, Adult, 1",1,0
+375,Chronic Inflammatory Demyelinating Polyneuropathy,1,0
+376,Congenital Muscular Dystrophy Due to Lamin A/C Mutation,1,0
+377,Acetabular Labrum Tear Femoro Acetabular Impingement Chondral Defect Bone Marrow Aspirate Concentrate Mesenchymal Stromal Cell,1,300
+378,"Spondylitis Spondylitis, Ankylosing Ankylosis Arthritis Spondylarthritis Spondylarthropathies Spinal Diseases Musculoskeletal Diseases Bone Diseases",1,250
+379,"Covid19 ARDS Pneumonia, Viral",1,120
+380,Lumbar Discogenic Pain,1,242
+381,Hypoxic-Ischemic Encephalopathy,1,120
+382,"Stem Cell Transplantation, Hematopoietic Poor Graft Function Delayed Platelet Engraftment Hematological Diseases",1,120
+383,"Myocardial Infarction Stem Cell Transplantation Angioplasty, Transluminal, Percutaneous Coronary",1,124
+384,Sexual Dysfunction Female,1,130
+385,Alveolar Bone Atrophy,1,150
+386,Myelodysplastic Syndromes Acute Myeloid Leukemia Cardio-vascular Surgery,1,150
+387,"Safety Efficacy, Self",1,150
+388,Sexual Dysfunction Male,1,158
+389,ST-Elevation Myocardial Infarction,1,160
+390,Exercise,1,160
+391,Autism Autism Spectrum Disorder,1,164
+392,aGVHD,1,182
+393,Myocardial Infarction Acute Myocardial Infarction Ischemic Cardiomyopathy,1,200
+394,Hemophilia A Hemophilia B Arthropathy,1,200
+395,Preeclampsia,1,200
+396,Safety Issues Effect of Drugs,1,200
+397,Rotator Cuff Tear Lateral Epicondylitis,1,200
+398,Steroid-refractory Acute Graft-versus-host Disease,1,210
+399,Mesenchymal Stromal Cells Remestemcel-L Acute Respiratory Distress Syndrome COVID,1,223
+400,"Myocardial Infarction, Acute Myocardial Infarction First Myocardial Infarction, Anterior Wall Cardiac Remodeling, Ventricular STEMI Regenerative Medicine Heart Failure",1,240
+401,Liver Cirrhosis End Stage Liver Disease,1,240
+402,Acute Kidney Injury Mesenchymal Stem Cells,1,80
+403,Fistula Perianal,1,80
+404,Ischemic Dilated Cardiomyopathy,1,80
+405,MSCs-PFs in Treating Poorly Healed Wounds of Postoperative Incision,1,50
+406,Sweat Gland Diseases,1,50
+407,"Urinary Incontinence, Stress",1,50
+408,Abnormal Hematopoiesis Allogenic Disease Graft vs Host Disease,1,50
+409,Graft-versus-host-disease,1,50
+410,Defect of Articular Cartilage,1,50
+411,Normal Full-Term Deliveries,1,50
+412,Acute Myocardial Infarction Heart Failure,1,50
+413,"Foot Ulcer, Diabetic",1,51
+414,Hip Necrosis Hip Injuries,1,52
+415,Rheumatoid Arthritis Aggravated,1,53
+416,Covid19 Novel Coronavirus Pneumonia Acute Respiratory Distress Syndrome,1,55
+417,Myelomeningocele,1,55
+418,Grade B aGVHD Grade C aGVHD Grade D aGVHD,1,55
+419,"Cholangitis, Sclerosing Hepatitis, Autoimmune",1,56
+420,Moderate and Severe Plaque Psoriasis,1,57
+421,Fallopian Tube Clear Cell Adenocarcinoma Fallopian Tube Endometrioid Adenocarcinoma Fallopian Tube Mucinous Adenocarcinoma Fallopian Tube Serous Adenocarcinoma Fallopian Tube Transitional Cell Carcinoma Fallopian Tube Undifferentiated Carcinoma Malignant Ovarian Brenner Tumor Ovarian Clear Cell Adenocarcinoma Ovarian Endometrioid Adenocarcinoma Ovarian Mucinous Adenocarcinoma Ovarian Seromucinous Carcinoma Ovarian Serous Adenocarcinoma Ovarian Transitional Cell Carcinoma Ovarian Undifferentiated Carcinoma Primary Peritoneal Serous Adenocarcinoma Recurrent Fallopian Tube Carcinoma Recurrent Ovarian Carcinoma Recurrent Primary Peritoneal Carcinoma,1,57
+422,Congestive Heart Failure,1,59
+423,Drug-resistant,1,60
+424,Bone Fracture,1,60
+425,ALS Amyotrophic Lateral Sclerosis,1,60
+426,Treatment Complication,1,60
+427,Transplantation:Mesenchymal Stem Cell Transplantation,1,50
+428,"Diabetes Mellitus Diabetes Mellitus, Type 1 Mesenchymal Stem Cells Umbilical Cord",1,50
+429,Tibial Meniscus Injuries Knee Injuries Knee Injuries and Disorders,1,80
+430,Middle Cerebral Artery Infarction,1,50
+431,Hematologic Malignancies,1,47
+432,Acute Traumatic Spinal Cord Injury,1,48
+433,2019 Novel Coronavirus Pneumonia COVID-19,1,48
+434,Multiple Sclerosis (MS),1,48
+435,Diabetic Kidney Disease,1,48
+436,Covid-19 Cytokine Storm,1,48
+437,Cancer,1,49
+438,Acute Myelogenous Leukemia Acute Lymphoblastic Leukemia Non-Hodgkin's Lymphoma Hodgkin's Disease,1,49
+439,MSCs Derived Pleiotropic Factors on Wound Healing in Endonasal Surgeries,1,50
+440,Liver Cirrhosis Radiology Mesenchymal Stem Cells Umbilical Cord,1,50
+441,Chronic Ischemic Cardiomyopathy,1,50
+442,Non-obstructive Azoospermia,1,50
+443,Repetition Failure,1,50
+444,Tibia or Femur Pseudo-arthrosis,1,50
+445,Retinitis Pigmentosa (RP),1,50
+446,Ulcerative Colitis (UC),1,50
+447,Osteoarthritis Knee Osteoarthritis Osteochondritis Dissecans Osteonecrosis,1,50
+448,Ulcerative Colitis Mesenchymal Stem Cells Umbilical Cord,1,50
+449,Liver Cirrhosis Fibrosis Liver Disease Digestive System Disease,1,50
+450,Diabetic Foot Critical Limb Ischemia Mesenchymal Stem Cells Umbilical Cord,1,50
+451,Steroid-resistant Severe aGVHD,1,50
+452,"Diabetes Mellitus, Type 1",1,60
+453,"Stroke, Ischemic",1,60
+454,Chronic Ischemic Heart Disease,1,60
+455,Multiple Organ Failure,1,60
+456,"Pulmonary Disease, Chronic Obstructive Pulmonary Emphysema Chronic Bronchitis",1,62
+457,"Type 1 Diabetes Mellitus Type 1 Diabetes Diabetes Mellitus, Insulin-Dependent Juvenile Diabetes",1,63
+458,Acute Myocardial Infarction Myocardial Infarction Ischemic Cardiomyopathy,1,64
+459,Premature Ovarian Insufficiency,1,66
+460,Ischemic-type Biliary Lesions,1,66
+461,Sars-CoV2 Acute Respiratory Distress Syndrome COVID-19,1,66
+462,"Lumbar Spondylolisthesis Involving L4-L5, and/or Degenerative Discopathy Involving L4-L5",1,69
+463,"ARDS, Human Covid19",1,70
+464,Graft-versus-host Disease Relapse,1,70
+465,Renal Transplant Rejection Fibrosis,1,70
+466,Primary Idiopathic Dilated Cardiomyopathy,1,70
+467,Osteochondral Fracture of Talus,1,70
+468,COVID-19 Infection COVID-19-Associated Acute Respiratory Distress Syndrome Hematopoietic and Lymphoid Cell Neoplasm Malignant Solid Neoplasm Symptomatic COVID-19 Infection Laboratory-Confirmed,1,70
+469,Osteoarthritis of Knee Joint,1,72
+470,Human Immunodeficiency Virus Disorder of Immune Reconstitution,1,72
+471,Cardiomyopathy Heart Failure Hematopoietic and Lymphoid Cell Neoplasm Malignant Solid Neoplasm,1,72
+472,End Stage Renal Disease (ESRD) Vascular Access Complication,1,74
+473,COVID-19 Infection,1,75
+474,Anal Fistula,1,80
+475,Hemorrhage,1,80
+476,"Spondyloarthrosis, Spondylosis",1,80
+477,Efficacy and Safety,1,60
+478,SARS-CoV2 Infection,1,60
+479,Chronic Heart Failure Non-ischemic Cardiomyopathy Non-ischemic Dilated Cardiomyopathy,1,60
+480,"Stem Cell Transplantation, Hematopoietic Mesenchymal Stem Cells Poor Graft Function Hematological Diseases",1,60
+481,Perianal Fistula Crohn's Disease,1,60
+482,Kidney Transplantation,1,60
+483,Osteonecrosis,1,60
+484,Pulmonary Hypertension,1,60
+485,Multiple Organ Dysfunction Syndrome,1,60
+486,Pseudarthrosis After Fusion or Arthrodesis,1,60
+487,Heart Disease Blocked Arteries Coronary Ischemia Coronary Disease Coronary Artery Disease Coronary Atherosclerosis,1,60
+488,Epilepsy,1,60
+489,Severe Bronchopulmonary Dysplasia,1,60
+490,Hematopoietic Stem Cell Transplantation Mesenchymal Stem Cells Umbilical Cord Blood Graft Failure Hematological Diseases,1,60
+491,Chronic Kidney Diseases Obesity Stem Cells Diabetes type2,1,60
+492,"Lung Diseases, Interstitial Hematopoietic Stem Cell Transplantation Bronchiolitis Obliterans",1,60
+493,Peripheral Arterial Disease Cardiovascular Diseases Vascular Diseases,1,60
+494,Knee Osteoarthritis Knee Pain Chronic Joint Disease Arthritis Osteo Arthritis Knee Musculoskeletal Disease,1,60
+495,Heart Failure Myocardial Infarction Coronary Artery Disease,1,60
+496,Allergic Rhinitis Rhinosinusitis Chronic,1,60
+497,Covid19 Postviral Syndrome Dyspnea,1,60
+498,Assess the Efficacy of Differentiated and Undifferentiated Stem Cell Therapy in Improving Endometrial Receptivity.,1,60
+499,Covid-19,1,60
+500,COVID-19 Pneumonia COVID-19,1,60
+501,Type 2 Diabetes With Renal Manifestations,1,54
+502,Spinal Tuberculosis Mesenchymal Stem Cell,1,20
+503,Relapsing-Remitting Multiple Sclerosis Secondary Progressive Multiple Sclerosis Progressive Relapsing Multiple Sclerosis,1,24
+504,"Chronic Migraine, Headache",1,10
+505,Idiopathic Parkinson's Disease,1,9
+506,Hemorrhagic Stroke Intracerebral Hemorrhage,1,9
+507,Dementia of the Alzheimer's Type,1,9
+508,Mesenchymal Stromal Cells,1,9
+509,"ARDS, Human Covid-19",1,9
+510,Recto-vaginal Fistula,1,10
+511,Healthy Volunteers for Bone Marrow Donation,1,10
+512,"Spinal Cord Injury, Chronic",1,10
+513,Gingival Recession Lack of Keratinized Gingiva (Disorder),1,10
+514,Xerostomia Due to Radiotherapy Hyposalivation Xerostomia Oropharynx Cancer Salivary Gland Diseases Dry Mouth Mesenchymal Stem Cells Mesenchymal Stromal Cells Stem Cells,1,10
+515,"Glomerulonephritis , IGA",1,9
+516,Perianal Fistula Due to Crohn's Disease (Disorder),1,10
+517,"Glioblastoma Adult Gliosarcoma Neoplasms, Brain Neoplasms, Germ Cell and Embryonal Recurrent Glioblastoma",1,10
+518,Sinus Floor Augmentarion,1,10
+519,COVID-19 Sars-CoV2,1,10
+520,Interstitial Lung Disease Connective Tissue Diseases,1,10
+521,"Diabetes Mellitus, Insulin-Dependent",1,10
+522,"Infantile Spinal Muscular Atrophy, Type I [Werdnig- Hoffman]",1,10
+523,Uterus; Injury,1,10
+524,Degenerative Disc Disease Low Back Pain Disc Degeneration,1,10
+525,Knee Osteoarthritis Umbilical Cord Bleeding,1,9
+526,Non Union Fracture Metaphyseal Fibrous Defect,1,9
+527,Diabetic Peripheral Neuropathy,1,10
+528,Sinus Floor Augmentation,1,8
+529,"ARDS, Human COVID",1,7
+530,Mesenchymal Stromal Cells Psoriasis Drug Toxicity Drug Effect,1,7
+531,Cardiomyopathy Heart Failure,1,7
+532,Cerebellar Ataxia,1,7
+533,Dry Eye Kerato Conjunctivitis Sicca Aqueous Tear Deficiency,1,7
+534,Kabuki Syndrome 1,1,8
+535,Aggressive Periodontitis Chronic Periodontitis,1,8
+536,Osteodysplasia,1,8
+537,Dysphonia,1,8
+538,Osteoporotic Fractures,1,8
+539,Umbilical Cord Bleeding Knee Osteoarthritis,1,9
+540,Relapsing-Remitting Multiple Sclerosis Secondary Progressive Multiple Sclerosis,1,8
+541,Bronchopulmonary Dysplasia Respiratory Tract Infections Premature Birth of Newborn,1,8
+542,Idiopathic Pulmonary Fibrosis (IPF),1,9
+543,Covid19 Corona Virus Infection SAR,1,9
+544,"Epidermolysis Bullosa Dystrophica, Recessive",1,9
+545,Chronic Obstructive Pulmonary Disease Moderate,1,9
+546,Acute Respiratory Distress Syndrome ARDS (Moderate or Severe) COVID-19 Pneumonia,1,9
+547,Relapsing Remitting Multiple Sclerosis (RRMS),1,9
+548,Acute Ischemic Stroke,1,9
+549,Chronic Kidney Disease Stage 3B Chronic Kidney Disease stage4,1,10
+550,Postoperative Air Leaks in Risk Patients,1,10
+551,Perianal Fistula Cryptoglandular Perianal Fistula Crohn's Perianal Fistula,1,7
+552,Wilson's Disease,1,10
+553,Rejection Graft Loss,1,10
+554,Lupus Erythematosus Stem Cell Transplant,1,10
+555,Crohn Disease IBD - Irritable Bowel Disease,1,10
+556,Bronchopulmonary Dysplasia Extremely Premature Infants Severe BPD That Conventional Therapies Has Failed No Severe Congenital Anomalies no Severe IVH Neither Cystic PVL,1,10
+557,COVID-19 Pneumonia Viral Pneumonia,1,10
+558,Adult Periodontitis,1,10
+559,Schizophrenia,1,10
+560,"Premature Birth Extreme Prematurity Preterm Intraventricular Hemorrhage Hypoxia-Ischemia, Cerebral Neurodevelopmental Disorders",1,10
+561,"Acute Respiratory Distress Syndrome, Adult",1,10
+562,Perianal Fistula Crohn Disease,1,10
+563,Pulmonary Disease,1,10
+564,Adenosine DeAminase Severe Combined ImmunoDeficiency (ADA-SCID),1,10
+565,"Achilles Tendinitis, Right Leg Achilles Tendinitis Achilles Degeneration Achilles Tendon Thickening Tendinopathy Achilles Tendinitis, Left Leg",1,10
+566,Graft-vs-Host Disease,1,10
+567,Surgically-Created Resection Cavity,1,10
+568,Osteonecrosis of Jaw,1,10
+569,Nephrotic Syndrome in Children Steroid-Dependent Nephrotic Syndrome Idiopathic Nephrotic Syndrome,1,11
+570,Coronary Artery Disease Ischemic Cardiomyopathy,1,11
+571,Maxillary Cyst Bone Loss of Substance,1,11
+572,Graft Versus Host Disease Acute Graft Versus Host Disease Chronic Graft Versus Host Disease,1,11
+573,Chronic Endometritis Uterus; Scar Uterine Synechiae Fallopian Tube Obstruction,1,10
+574,Low Back Pain,1,10
+575,Acute Leukemia,1,10
+576,Hypoxic Ischemic Encephalopathy,1,10
+577,Perinatal Arterial Ischemic Stroke Neonatal Stroke,1,10
+578,Nonrevascularizable Critical Ischemia of the Lower Limbs,1,10
+579,Urticaria Autoimmune Diseases Immune System Diseases Skin Diseases,1,10
+580,Bronchiolitis Obliterans Lung Transplantation,1,10
+581,Stress Urinary Incontinence,1,10
+582,Chronic Myocardial Ischemia Left Ventricular Dysfunction,1,10
+583,Umbilical Cord of Normal Labor,1,10
+584,"Periodontitis, Chronic",1,10
+585,Covid19 Pneumonia,1,10
+586,HLHS,1,10
+587,Chronic Disease,1,10
+588,Ultra Filtration Failure,1,10
+589,Facet-Mediated Low Back Pain,1,10
+590,Liver Regeneration,1,10
+591,Fanconi Anemia,1,10
+592,Xerostomia Due to Radiotherapy,1,10
+593,Osteoporosis Spinal Fractures,1,10
+594,Post-radiotherapy Pulmonary Fibrosis,1,10
+595,Healing of Fracture,1,10
+596,Edentulous Alveolar Ridge,1,10
+597,Pediatric Liver Transplantation,1,7
+598,Chronic Kidney Diseases Calciphylaxis Calcific Uremic Arteriolopathy Treatment,1,7
+599,"Charcot-Marie-Tooth Disease, Type IA",1,12
+600,Surgical Leak Fistula,1,2
+601,Severe COVID-19 Disease,1,1
+602,Osteoarthritis Stem Cells MSC,1,1
+603,"Hypercholesterolemia, Familial",1,1
+604,Heart Failure Ischemic Cardiomyopathy,1,1
+605,Age Related Macular Degeneration,1,1
+606,Treatment Resistant Depression,1,1
+607,Duchenne's Muscular Dystrophy,1,1
+608,The Sequelae Caused by Severe Brain Injury,1,1
+609,Klinefelter Syndrome Azoospermia,1,1
+610,Retinal Degeneration Primary Open-angle Glaucoma,1,2
+611,Erectile Dysfunction Cardiac Disease,1,0
+612,Primary Disease,1,3
+613,Chronic Pancreatitis Diabetes,1,3
+614,Acute Leukemia Chronic Leukemia Myelodysplastic Syndrome Lymphoma Myeloma,1,3
+615,Liver Fibrosis,1,3
+616,Interstitial Cystitis Stem Cell Transplant Mesenchymal Stem Cell,1,3
+617,Graft Versus Host Disease (GVHD) Acute Myocardial Infarction (AMI),1,3
+618,Motor Neuron Disease,1,3
+619,Patients With Chronic Low Back Pain Due to Degenerative Lumbar Disc,1,4
+620,Tracheomalacia Tracheal Stenosis,1,4
+621,Femoral Neck Fracture,1,0
+622,Solid Tumors Acute Kidney Injury,1,0
+623,Anoxic Brain Injury,1,4
+624,Respiratory Tract Diseases,1,0
+625,"Crohn's Disease Fistula Anal Fistula Pouch, Ileal Pouches, Ileoanal",1,0
+626,Facetogenic Back Pain Back Pain,1,0
+627,Graft -Versus-host-disease,1,0
+628,"Cartilage Degeneration Rotator Cuff Tear Osteoarthritis, Knee",1,0
+629,Multisystem Inflammatory Syndrome in Children,1,0
+630,Graft Versus Host Disease Leukemia Myelodysplastic Syndromes,1,0
+631,Wound Healing Burn,1,0
+632,Ischemic Heart Disease Myocardial Ischemia Coronary Artery Disease,1,0
+633,Sepsis Critical Illness,1,0
+634,Covid19 ARDS,1,0
+635,COVID-19 Acute Respiratory Distress Syndrome Corona Virus Infection,1,0
+636,Critical Limb Ischemia Due to Buerger's Disease,1,0
+637,Degenerative Disc Disease Degenerative Spondylolisthesis Spinal Stenosis,1,0
+638,Tourette Syndrome,1,0
+639,Lumbar Intervertebral Disc Degeneration,1,0
+640,Crohn's Disease Fistulizing Crohn's Disease Stem Cells,1,0
+641,Cerebral Adrenoleukodystrophy,1,0
+642,Disc Degeneration,1,0
+643,Acute Respiratory Distress Syndrome Ards,1,0
+644,ST Segment Elevation Myocardial Infarction (STEMI) Allogeneic Mesenchymal Bone Marrow Cells,1,0
+645,Interventional,1,4
+646,Lung Transplantation,1,4
+647,Perianal Fistula Due to Crohn's Disease Fistula in Ano,1,7
+648,Severe Acute Respiratory Syndrome Coronavirus 2,1,6
+649,Sickle Cell Disease Thalassemia Diamond-Blackfan Anemia,1,6
+650,Ischemic Heart Failure,1,6
+651,Hematopoietic Stem Cell Transplantation,1,6
+652,Bronchiectasis,1,6
+653,Pulmonary Arterial Hypertension,1,6
+654,Knee Injuries,1,6
+655,Refractory Epilepsy,1,6
+656,Atherosclerotic Renal Artery Stenosis Ischemic Nephropathy Renovascular Hypertension,1,6
+657,Bone Cyst,1,6
+658,Kidney Transplant Rejection,1,6
+659,POI,1,6
+660,Frailty Syndrome,1,6
+661,Chronic Renal Failure Polycystic Kidney Disease,1,6
+662,Leg Length Inequality,1,6
+663,Perianal Fistula Primary; Complex,1,6
+664,System; Lupus Erythematosus,1,6
+665,Kidney Transplantation Renal Transplantation Renal Transplant Recipient,1,6
+666,Prostate Cancer,1,7
+667,Autologous Mesenchymal Stem Cells Multiple Sclerosis,1,7
+668,Bone Marrow Donor,1,7
+669,Moderate to Severe Hypoxic-ischemic Encephalopathy,1,6
+670,Nonunion Fractures,1,6
+671,Osteoarthritis Knee,1,4
+672,Neuroblastoma,1,5
+673,Ischemic Heart Disease Non-ischemic Cardiomyopathy,1,4
+674,Aneurysmal Bone Cyst,1,4
+675,Cleft Palate,1,5
+676,Peyronie's Disease,1,5
+677,Union,1,5
+678,Non Healing Wounds,1,5
+679,Ovarian Cancer,1,5
+680,Fistula Vagina Crohn Disease,1,5
+681,Discordant Immunological Response in HIV Infected Subjects,1,5
+682,Use of Stem Cells for COVID-19 Treatment,1,5
+683,Acute Lymphoblastic Leukemia Acute Myelogenous Leukemia Myelodysplastic Syndromes Myelofibrosis Relapsed Non-Hodgkin Lymphoma Refractory Non-Hodgkin Lymphoma Hodgkin Lymphoma Refractory Hodgkin Lymphoma Relapsed Chronic Lymphocytic Leukemia Refractory Chronic Lymphocytic Leukemia Lymphoid Malignancies Chronic Myelogenous Leukemia,1,6
+684,Cerebrovascular Disorders,1,5
+685,"Cirrhosis, Liver",1,5
+686,Osteogenesis Imperfecta Type II Osteogenesis Imperfecta Type III,1,5
+687,Non Arteritic Ischemic Optic Neuropathy,1,5
+688,Progressive Hemifacial Atrophy Romberg's Disease,1,5
+689,Pulp Necroses Apical Periodontitis,1,5
+690,Focal Segmental Glomerulosclerosis,1,5
+691,Fistula in Ano Crohn Disease,1,5
+692,Mandible Tumor Mandibular Injuries Mandible; Deformity,1,6
+693,"Osteoarthritis,Knee",1,12
+694,Tracheal Stenosis Laryngeal Stenosis Mesenchymal Stem Cells,1,12
+695,Coronavirus,1,24
+696,Perianal Crohn's Disease,1,20
+697,Eye Diseases Retinitis Pigmentosa Glaucoma Diabetic Retinopathy Macular Degeneration Traumatic Optic Neuropathy Optic Atrophy,1,20
+698,Sjogren's Syndrome Mesenchymal Stem Cells,1,20
+699,Lumbar Disc Degeneration Lumbar Disc Herniation,1,20
+700,Diabetic Foot Lower Limb Ischemia,1,20
+701,"Defect of Articular Cartilage Cartilage Injury Osteoarthritis, Knee",1,20
+702,Pulmonary Disease Asthma Chronic Obstructive Pulmonary Disease,1,20
+703,Cerebral Hemorrhage,1,20
+704,"Covid19 ARDS, Human",1,20
+705,Evaluate the Safety and Effectiveness of Mesenchymal Stem Cell Conditioned Medium-derived Pleiotropic Factor in Treating Donor Sites,1,20
+706,Erectile Dysfunction Peyronie's Disease Interstitial Cystitis,1,20
+707,Cartilage Diseases Osteoarthritis,1,20
+708,Children Solid Tumors Metastases,1,20
+709,Refractory Systemic Lupus Erythematosus,1,20
+710,ARDS,1,20
+711,Multiple Myeloma Relapse Multiple Myeloma,1,20
+712,Chronic Meniscal Injury,1,20
+713,Solid Organ Transplant Rejection Organ Rejection Transplants Organ Rejection,1,20
+714,Periodontal Intrabony Defect,1,20
+715,Benign Airway Stenosis Respiratory Tract Fistula,1,20
+716,Bone Neoplasms,1,0
+717,Allogeneic Stem Cell Transplantation,1,20
+718,Progressive Multiple Sclerosis Neuromyelitis Optica.,1,20
+719,Chronic Conjunctivitis Stevens-Johnson Syndrome Lyell Syndrome Pemphigoid,1,20
+720,"Pouch, Ileal Fistula",1,20
+721,Congestive Heart Failure Angina,1,20
+722,Acute Lung Injury Acute Respiratory Distress Syndrome,1,20
+723,Hereditary Cerebellar Ataxia.,1,20
+724,Corona Virus Infection,1,20
+725,Bone Defects,1,20
+726,Patellar Tendinopathy,1,20
+727,Stem Cells Adult Stem Cells Acute Liver Failure Acute-On-Chronic Liver Failure Steminent,1,20
+728,"Multiple Sclerosis, Chronic Progressive",1,20
+729,Lower Back Pain Disc Degeneration,1,20
+730,Hemophilia,1,20
+731,Complications of Organ Transplant Stem Cells Umbilical Cord,1,20
+732,Critical Limb Ischemia (CLI),1,20
+733,Mandibular Fractures,1,20
+734,Covid-19 Pneumonia Cyotokine Storm,1,20
+735,Cirrhosis Due to Hepatitis B,1,20
+736,Diabetic Nephropathies,1,20
+737,Mesenchymal Stem Cell Transplantation,1,20
+738,Ovarian Failure,1,20
+739,Systemic Sclerosis Digital Ulcer,1,20
+740,Skin Ulcer,1,20
+741,Hereditary Ataxia,1,20
+742,Stenosis; Bowel Crohn Disease,1,20
+743,Tracheal Stenosis Laryngeal Stenosis,1,20
+744,Brachial Plexus Neuropathies,1,24
+745,Fecal Incontinence,1,21
+746,Crohn's Disease Fistula,1,21
+747,Cell Transplantation,1,22
+748,Chronic Renal Failure,1,22
+749,Burn Injury,1,22
+750,COVID-19 Acute Kidney Injury Sepsis,1,22
+751,Non-Ischemic Heart Failure,1,23
+752,Diabetic Neuropathic Ulcer,1,23
+753,"Corona Virus Infection ARDS ARDS, Human Acute Respiratory Distress Syndrome COVID-19",1,24
+754,Type1 Diabetes Mellitus,1,24
+755,SYSTEMIC SCLERODERMA ALLOGENEIC MESENCHYMAL STEM CELLS ADULT,1,20
+756,Crohn Colitis,1,24
+757,Supraspinatus Tear,1,24
+758,Keloid,1,24
+759,"Infertility, Female",1,24
+760,Heart Disease Ischemic Heart Disease Coronary Artery Disease Coronary Artery Disease (CAD),1,24
+761,Hematopoietic and Lymphoid Cell Neoplasm Steroid Refractory Graft Versus Host Disease,1,24
+762,HBV,1,24
+763,Spinal Cord Injuries Tendinopathy Rotator Cuff Tears Shoulder Pain,1,24
+764,Renal Transplantation Mesenchymal Stem Cells,1,24
+765,Dystrophy,1,21
+766,Temporomandibular Joint Disorders Temporomandibular Disorder Temporomandibular Joint Osteoarthritis Temporomandibular Joint Pain Temporomandibular Joint Effusion,1,20
+767,Coronavirus Disease 2019 (COVID-19),1,20
+768,Osteoarthritis Spinal Arthritis,1,20
+769,Kidney Transplant Chronic Allograft Nephropathy,1,20
+770,Diabetes,1,20
+771,COVID-19 Acute Respiratory Distress Syndrome Respiratory Distress Syndrome,1,20
+772,Hepatic Cirrhosis,1,20
+773,MSCs,1,20
+774,Cartilage Damage Degenerative Osteoarthritis,1,20
+775,"Myocardial Ischemia Ventricular Dysfunction, Left",1,20
+776,Idiopathic Interstitial Pneumonia Interstitial Lung Disease Idiopathic Pulmonary Fibrosis,1,20
+777,Acute Respiratory Distress Syndrome COVID-19 Pneumonia,1,20
+778,Pregnancy Related Physical Activity,1,20
+779,"Bone Loss, Osteoclastic Bone Loss, Alveolar Alveolar Bone Loss Alveolar Bone Atrophy Grafting Bone",1,20
+780,SARS-CoV-2 Infection( COVID-19 ),1,20
+781,Blood And Marrow Transplantation Adult Respiratory Distress Syndrome,1,20
+782,Testicular Injury Oligospermia,1,20
+783,Liver Transplant Rejection,1,20
+784,"Infertility, Female Endometrium",1,20
+785,Recurrent Pregnancy Loss,1,20
+786,"Diabetes Mellitus Diabetes Mellitus, Type 1 Diabetes Mellitus, Insulin-Dependent",1,20
+787,Post-Concussion Syndrome,1,20
+788,Systemic Sclerosis Mesenchymal Stem Cells,1,20
+789,Primary Sclerosing Cholangitis,1,20
+790,Segmental Fracture - Bone Loss,1,20
+791,Pseudoarthrosis,1,12
+792,Intervertebral Disc Disease,1,15
+793,Endothelial Dysfunction Metabolic Syndrome Chronic Inflammation,1,14
+794,Crohn Disease Fistula Perianal,1,14
+795,"Alzheimer Disease Dementia Brain Diseases Central Nervous System Diseases Nervous System Diseases Tauopathies Neurodegenerative Diseases Delirium, Dementia, Amnestic, Cognitive Disorders Mental Disorders",1,14
+796,Coronary Disease Heart Transplant,1,14
+797,Acute Stroke,1,14
+798,Skin Burn Degree Second,1,15
+799,"Osteoarthritis, Knee Knee Injuries Joint Diseases Rheumatic Diseases Cartilage Diseases",1,15
+800,Osteochondritis of the Femoral Head,1,15
+801,End Stage Renal Disease,1,15
+802,Ischemia Reperfusion Injury,1,15
+803,Atopic Dermatitis,1,13
+804,T2D,1,15
+805,Perianal Fistula Cryptoglandular Perianal Fistula,1,15
+806,Liver Transplantation,1,15
+807,Ophthalmological Disorder Corneal Dystrophy Treatment Therapy Keratoconus,1,15
+808,Bradykinesia,1,15
+809,Chronic Obstructive Pulmonary Disease,1,15
+810,Lupus,1,15
+811,Epidermal Necrolysis Lyell Syndrome Toxic Epidermal Necrolysis Overlap Syndrome Mesenchymal Stromal Cells Adipose Derived Stromal Cells,1,15
+812,Mesenchymal Stem Cells Diabetic Nephropathy,1,15
+813,COVID Corona Virus Infection COVID19,1,14
+814,"Articular Cartilage Disorder of Knee Osteoarthritis, Knee",1,13
+815,Cytopenia,1,15
+816,Type I Diabetes Mellitus With Ulcer Type II Diabetes Mellitus With Ulcer,1,12
+817,Stem Cell Transplant Complications,1,12
+818,Xerostomia Head and Neck Cancer,1,12
+819,Autism Spectrum Disorder Autism,1,12
+820,Osteogenesis Imperfecta Osteogenesis Imperfecta Type III,1,12
+821,"GVHD,Acute",1,12
+822,Diminished Ovarian Response,1,12
+823,Partially Edentulous Maxilla Alveolar Bone Atrophy Alveolar Bone Loss,1,12
+824,"Diffuse Intrinsic Pontine Glioma Medulloblastoma, Childhood, Recurrent",1,12
+825,Chronic Nasal Septum Perforation,1,12
+826,Pelvic Radiation Therapy Radiation-induced Hemorrhagic Cystitis,1,12
+827,"Erectile Dysfunction Stem Cells Diabetes Mellitus, Type 1",1,13
+828,"Osteoarthritis, Knee Knee Degenerative Disease Knee Osteoarthritis",1,12
+829,Autism Autism Spectrum Disorder ASD,1,12
+830,Frontotemporal Dementia,1,12
+831,Hereditary Corneal Dystrophy Keratoconus,1,12
+832,Degeneration Articular Cartilage Knee,1,12
+833,Autism Spectrum Disorder,1,12
+834,Urologic Diseases Erectile Dysfunction With Diabetes Mellitus,1,12
+835,Liver Cirrhoses,1,12
+836,Bone Atrophy,1,13
+837,"Multiple System Atrophy Parkinsonism Multiple System Atrophy, Parkinson Variant",1,15
+838,Dental Implants,1,15
+839,Peripheral Neuropathy Trigeminal Neuralgia,1,20
+840,Methanol Poisoning Toxic Optic Neuropathy Stem Cell Tyrosine Kinase 1 Y842X Magnetic Field Exposure,1,18
+841,Rotator Cuff Disease,1,18
+842,Mesenchymal Stromal Cells Cornea Safety Corneal Defect,1,18
+843,Degenerative Arthritis,1,18
+844,Trophic Ulcer,1,18
+845,Mesenchymal Stromal Cells Cornea Corneal Defect Corneal Epithelium Defect,1,18
+846,Multiple Sclerosis Progressive Multiple Sclerosis,1,18
+847,Thin Endometrium Intrauterine Adhesion,1,18
+848,Allergic Rhinitis,1,18
+849,Meniscus Injury,1,18
+850,Lung Transplant Reject Bronchiolitis Obliterans,1,19
+851,"Sclerosis, Systemic Mesenchymal Stem Cells",1,18
+852,Atrophic Nonunion of Fracture,1,19
+853,Graft Versus Host Disease Chronic and Expanded Graft Versus Host Disease Immune System Diseases,1,19
+854,Hypoplastic Left Heart Syndrome Atrioventricular Canal,1,19
+855,"Critical Limb Ischemia Peripheral Arterial Disease - PAD Ischemic Ulcer Ischemic Feet Diabetic Foot Scleroderma, Systemic Thrombo Angiitis Obliterans Ischemic Leg",1,20
+856,Second- or Third-degree Burns,1,20
+857,Implant Therapy,1,20
+858,Hepatitis B,1,20
+859,Difficult to Healing of Skin Ulcers,1,20
+860,"Stroke Infarction, Middle Cerebral Artery",1,20
+861,Spinal Cord Injury Cervical,1,18
+862,Acute Liver Failure,1,17
+863,Graft-vs-Host Disease (GVHD),1,15
+864,Chemical Burns,1,16
+865,Devic's Syndrome Devic's Neuromyelitis Optica Devic Syndrome Devic's Disease Devic Disease,1,15
+866,Complex Perianal Fistula,1,15
+867,Peripheral Vascular Diseases,1,15
+868,Hoarseness Dysphonia Aphonia Vocal Fold; Scar,1,15
+869,Thrombocytopenia Mesenchymal Stem Cells,1,15
+870,Organ Transplantation,1,15
+871,Buerger's Disease,1,15
+872,Ischemic Heart Disease Lung Injury Non-cardiac Surgery,1,16
+873,Lupus Nephritis Mesenchymal Stem Cells,1,16
+874,Faecal Incontinence,1,16
+875,Covid19 Corona Virus Infection SARS-CoV Infection ARDS Coronavirus,1,17
+876,"Pneumonia, Viral Pneumonia, Ventilator-Associated",1,16
+877,Improved Healing of Scarred Vocal Folds Improved Vocal Fold Status Improved Vocal Fold Function,1,16
+878,Neutropenic Enterocolitis Myeloablative Chemotherapy Induced Bone Marrow Aplasia,1,16
+879,Adypose Mesenchimal Stem Cell Ligament Rupture Ligament Derived Conditined Medium,1,16
+880,Ischemia Peripheral Arterial Disease Peripheral Vascular Disease Vascular Disease Arterial Occlusive Disease Arteriosclerosis Atherosclerosis Cardiovascular Disease Pathologic Processes Orthopedic Procedures Amputation,1,16
+881,Rectal Fistula,1,16
+882,Traditional Chinese Medicine Drug Effect Drug Safety Psoriasis Mesenchymal Stromal Cells,1,16
+883,Musculoskeletal Pain Knee Osteoarthritis Cartilage Injury Cartilage Degeneration,1,16
+884,Intrabony Periodontal Defect,1,17
+885,"Acute Ischemic Stroke Mesenchymal Stem Cells Stroke, Acute Stroke/Brain Attack Stroke, Ischemic",1,0

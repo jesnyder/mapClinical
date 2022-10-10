@@ -211,6 +211,10 @@ def js_scatter_enrollment2():
 
         df = df[df['year'] > 2004]
 
+        print(df)
+        df = df.dropna()
+        print(df)
+
         x = list(df['year'])
         y = list(df['enroll'])
 
@@ -227,8 +231,19 @@ def js_scatter_enrollment2():
             else: ydel = (y[i] - min(y))*0.45/(ymean - min(y))
 
             inc = (random.random()*2*ydel - ydel)
+
+            """
+            print('x = ' + str(x))
+            print('y = ' + str(y))
+            print('sum(y) = ' + str(sum(y)))
+            print('ymean = ' + str(ymean))
+            print('max(y) = ' + str(max(y)))
+            print('y[i] = ' + str( y[i]))
+            print('ydel = ' + str(ydel))
             print('inc = ' + str(inc))
-            assert inc > -0.5 and inc <= 0.5
+            """
+
+            assert inc >= -0.5 and inc <= 0.5
             data = {}
             data['x'] = j + inc
             data['y'] = y[i]
@@ -353,7 +368,10 @@ def annual_sum():
                 if int(year_found) != int(year): continue
 
                 count = count + 1
-                enrolled = enrolled + int(trial['Enrollment'])
+                try:
+                    enrolled = enrolled + int(float((trial['Enrollment'])))
+                except:
+                    enrolled = enrolled
 
             counts.append(count)
             enrolleds.append(enrolled)

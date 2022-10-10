@@ -1,0 +1,77 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal RNL-Vascostem",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The purpose of this study is to investigate the efficacy and safety of autologous transplantation of Adipose Tissue derived Mesenchymal stem cells (MSCs) in patient with Buerger's disease."
+                        ],
+                        "BriefTitle": [
+                              "Autologous Adipose Tissue Derived Mesenchymal Stem Cells Transplantation in Patient With Buerger's Disease"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "December 2013"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Buerger's Disease"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000001157",
+                              "D000014652",
+                              "D000002318",
+                              "D000014657"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Arterial Occlusive Diseases",
+                              "Vascular Diseases",
+                              "Cardiovascular Diseases",
+                              "Vasculitis"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC14",
+                              "All",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT01302015"
+                        ]
+                  }
+            ]
+      }
+}

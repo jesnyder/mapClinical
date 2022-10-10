@@ -1,0 +1,429 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Longeveron Mesenchymal Stem Cells",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 8,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 8,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Study Group A",
+                              "Study Group B",
+                              "Study Group C",
+                              "Study Group D",
+                              "Study Group E"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Intravenously delivered",
+                              "Intravenously delivered"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Longeveron Mesenchymal Stem Cells (LMSCs)",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03169231"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "Cohort 1",
+                              "Cohort 2",
+                              "Cohort 3"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All",
+                              "ANeo"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals",
+                              "Antineoplastic Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M85407",
+                              "M8814"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Plasma-lyte 148",
+                              "Altretamine"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "via peripheral intravenous infusion",
+                              "via peripheral intravenous infusion"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Longeveron Mesenchymal Stem Cells",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02600130"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "Cohort A - Phase 1 (Open Label)",
+                              "Cohort B - Phase 2 Treatment Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Allogeneic bone marrow-derived mesenchymal stem cell"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Longeveron Mesenchymal Stem Cells"
+                        ],
+                        "InterventionOtherName": [
+                              "LMSCs"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03525418"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "InterventionArmGroupLabel": [
+                              "Double-Blind,Randomized,Placebo Phase",
+                              "Pilot Phase Cohort B & C",
+                              "Pilot Phase- Cohort A",
+                              "Double-Blind,Randomized,Placebo Phase",
+                              "Pilot Phase Cohort B & C",
+                              "Pilot Phase- Cohort A"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M16512",
+                              "M9336",
+                              "M3377"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Vaccines",
+                              "Immunoglobulins",
+                              "Antibodies"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Intravenously delivered",
+                              "Intramuscular injection"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Longeveron Mesenchymal Stem Cells (LMSCs)",
+                              "Fluzone High Dose Vaccine"
+                        ],
+                        "InterventionOtherName": [
+                              "Lomecel-B"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02982915"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "InterventionArmGroupLabel": [
+                              "LMSCs 10 million IV",
+                              "LMSCs 20 million IV",
+                              "LMSCs100 million IV",
+                              "Placebo (Plasmalyte A,HSA) IV"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All",
+                              "ANeo"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals",
+                              "Antineoplastic Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M85407",
+                              "M8814"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Plasma-lyte 148",
+                              "Altretamine"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Peripheral Intravenous (IV) infusion of LMSCs"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Peripheral Intravenous (IV) infusion of LMSCs"
+                        ],
+                        "InterventionOtherName": [
+                              "LMSCs",
+                              "Biological"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02587572"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "InterventionArmGroupLabel": [
+                              "Cohort 1 (SARS-CoV-2): Arm 1 (LMSCs)",
+                              "Cohort 2 (Flu): Arm 3 (LMSCs)",
+                              "Cohort (SARS-CoV-2): Arm 2 (Placebo)",
+                              "Cohort 2 (Flu): Arm 4 (Placebo)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Longeveron Mesenchymal Stem Cells (LMSCs)",
+                              "Placebo"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Longeveron Mesenchymal Stem Cells (LMSCs)",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04629105"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "InterventionArmGroupLabel": [
+                              "Group A - Allo-hMSCs",
+                              "Group B"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Allogeneic Human Mesenchymal Stem Cells",
+                              "Placebo"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allo-hMSCs",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "stem cells; Allogeneic Human Mesenchymal Stem Cells",
+                              "Placebo comparator"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02398604"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "InterventionArmGroupLabel": [
+                              "Addendum B - Antibiotic free cell Group",
+                              "Pilot Phase - Group 2",
+                              "Pilot Phase - Group 3",
+                              "Pilot phase - Group 1",
+                              "Randomized Phase - Group A",
+                              "Randomized Phase - Group C",
+                              "Randomized phase - Group B",
+                              "Randomized Phase - Group C",
+                              "Addendum B - Antibiotic free cell Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Hip Replacement",
+                              "Surface electromyography"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M3374",
+                              "M12469",
+                              "M3376",
+                              "M15249",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anti-Bacterial Agents",
+                              "Penicillins",
+                              "Antibiotics, Antitubercular",
+                              "Streptomycin",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "high",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Allogeneic Human Mesenchymal Stem Cells (allo-hMSCs) administered by peripheral intravenous infusion",
+                              "Placebo administered by peripheral intravenous infusion.",
+                              "Penicillin/Streptomycin-Free Allogeneic Human Mesenchymal Stem Cells (allo-hMSCs) administered by peripheral intravenous infusion."
+                        ],
+                        "InterventionMeshId": [
+                              "D000010406",
+                              "D000013307"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Penicillins",
+                              "Streptomycin"
+                        ],
+                        "InterventionName": [
+                              "Allogeneic Human Mesenchymal Stem Cells (allo-hMSCs)",
+                              "Placebo",
+                              "Penicillin/Streptomycin-Free Allogeneic Human Mesenchymal Stem Cells (allo-hMSCs)"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02065245"
+                        ]
+                  }
+            ]
+      }
+}

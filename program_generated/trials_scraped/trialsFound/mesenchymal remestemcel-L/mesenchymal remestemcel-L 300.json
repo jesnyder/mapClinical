@@ -1,0 +1,920 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal remestemcel-L",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 20,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 20,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The CDAI is a composite index of 8 disease variables (stool frequency, severity of abdominal pain, degree of general well-being, presence or absence of extra-intestinal manifestations or fistula, use or non-use of antidiarrheal agents, presence or absence of an abdominal mass, hematocrit, and body weight). Scores range from approximately 0 to 600, with a higher score indicating more disease activity.",
+                              "The IBDQ measures disease-specific quality of life by assessing bowel symptoms, systemic symptoms, emotional function, and social function. Subscores can range from 1 (worst) to 7 (best). The total IBDQ is calculated as the sum of the responses to the individual IBDQ questions. The total score ranges from 32 to 224. An increase in score from baseline indicates improvement.",
+                              "The CDAI is a composite index of 8 disease variables (stool frequency, severity of abdominal pain, degree of general well-being, presence or absence of extra-intestinal manifestations or fistula, use or non-use of antidiarrheal agents, presence or absence of an abdominal mass, hematocrit, and body weight). Scores range from approximately 0 to 600, with a higher score indicating more disease activity."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Number of Participants with Reduction in CDAI of at Least 70 points",
+                              "Improvement as Assessed by the Inflammatory Bowel Disease Questionnaire (IBDQ)",
+                              "Time to Improvement in IBDQ",
+                              "Number of Participants with Reduction of at Least 50% in Fistulas in Participants with Fistulas Draining Under Moderate Compression",
+                              "Number of Participants with Induction of Remission as Defined by Reduction of CDAI to Below 150",
+                              "Time to Reduction in CDAI of at Least 100 Points",
+                              "Time to Reduction in CDAI of at Least 70 Points",
+                              "Time to Induction of Remission as Defined by Reduction of CDAI to Below 150.",
+                              "Number of Participants with Adverse Events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "Up to approximately 2 years"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00294112"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Number of participants with clinical and endoscopic remission post-injection of 150 or 300 million bone marrow allogeneic derived mesenchymal stem cells for the treatment of medically refractory Ulcerative colitis.\n\nClinical and endoscopic remission is defined as:\n\nClinical remission: Mayo Clinic score of 2 or lower and no subscore higher than 1, and mucosal healing, defined as an endoscopic subscore of 0 or 1\n\nEndoscopic remission: Mayo Clinic scale endoscopic subscore of 0 or 1",
+                              "Number of participants with a clinical and endoscopic response post-injection of 150 or 300 million allogeneic bone marrow derived mesenchymal stem cells for the treatment of medically refractory Ulcerative colitis.\n\nClinical and endoscopic response is defined as:\n\nClinical response: Reduction in the Mayo Clinic score by 3 points and a decrease of at least 30% from the baseline score with a decrease of at least 2 points on the rectal bleeding subscale to an absolute rectal bleeding score of 1 or 2.\n\nEndoscopic response: Mayo Clinic scale endoscopic subscore decrease by at least one point",
+                              "Number of participants with a partial clinical and endoscopic response post-injection of 150 or 300 million allogeneic bone marrow derived mesenchymal stem cells for the treatment of medically refractory Ulcerative colitis.\n\nPartial clinical and endoscopic response is defined as:\n\nPartial clinical response: Reduction in the Mayo Clinic score that does not meet the following: by 3 points and a decrease of at least 30% from the baseline score with a decrease of at least 2 points on the rectal bleeding subscale to an absolute rectal bleeding score of 1 or 2\n\nPartial endoscopic response: No improvement in Mayo Clinic scale endoscopic subscore that stays the same or decreases",
+                              "Number of participants with a lack of response post-injection of 150 or 300 million allogeneic bone marrow derived mesenchymal stem cells for the treatment of medically refractory Ulcerative colitis.\n\nLack of response is defined as:\n\nClinical response: No improvement in Mayo Clinic score\n\nEndoscopic response: No improvement or worsening in Mayo Clinic scale endoscopic subscore",
+                              "Mayo clinic score will be used to measure quality of life in participants.\n\n*Score ranges from 0 (least severe) to 12(most severe)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Clinical and endoscopic remission",
+                              "Clinical and endoscopic response",
+                              "Partial clinical and endoscopic response",
+                              "Lack of response",
+                              "Mayo clinic score"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Month 3, Month 12",
+                              "Month 3, Month 12",
+                              "Month 3, Month 12",
+                              "Month 3, Month 12",
+                              "Month 1 through Month 24"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04543994"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Number of participants with complete clinical healing post-injection of 150 or 300 million bone marrow allogeneic derived mesenchymal stem cells for the treatment of medically refractory Crohn's colitis.\n\nComplete healing is defined as: Clinical and endoscopic remission\n\nClinical Healing: Normalization of CRP to <2.87 mg per liter, CDAI drops to <150\n\nRadiographic Healing: MR enterography with improvement of inflammation\n\nEndoscopic healing: Absence of mucosal ulceration and SES-CD score of 0-5",
+                              "Number of participants with clinical response post-injection of 150 or 300 million allogeneic bone marrow derived mesenchymal stem cell product for the treatment of medically refractory Crohn's colitis.\n\nClinical response is defined as:\n\nClinical Healing: Normalization of CRP to <2.87 mg per liter, CDAI drops to <150\n\nRadiographic Healing: MR enterography with improvement of inflammation\n\nEndoscopic healing: Absence of mucosal ulceration and SES-CD score of 0-5",
+                              "Number of participants with partial clinical response post-injection of 150 or 300 million allogeneic bone marrow derived mesenchymal stem cell product for the treatment of medically refractory Crohn's colitis.\n\nPartial clinical response is defined as:\n\nClinical Healing: >25% reduction of CRP, decrease in CDAI by <100 points\n\nRadiographic Healing: MR enterography with improvement in inflammation\n\nEndoscopic healing: Decreased SES-CD by >25% but < 50% or to score of 10-15",
+                              "Number of participants with lack of response post-injection of 150 or 300 million allogeneic bone marrow derived mesenchymal stem cell product for the treatment of medically refractory Crohn's colitis.\n\nLack of response is defined as:\n\nClinical Healing: No improvement\n\nRadiographic Healing: MR enterography without resolution of inflammation\n\nEndoscopic healing: No improvement in SES-CD",
+                              "Crohn's disease activity index will be used to measure quality of life in participants.\n\n*Remission of Crohn's disease is defined as CDAI below 150. Severe disease is defined as a value of greater than 450.",
+                              "Inflammatory bowel disease questionnaire will be used to measure quality of life in participants.\n\n*Score ranges from 32 (best health) to 224 (worst health)",
+                              "EuroQol 5 Dimensions survey will be used to measure quality of life in participants.\n\n*Score ranges from 5 (full health) to 25 (worst health).",
+                              "IBD-patient reported treatment impact survey will be used to measure quality of life in participants.\n\n*Score ranges from 3 (most satisfied) to 15 (least satisfied)",
+                              "Short Form 36 health survey will be used to measure quality of life in participants.\n\n*Score ranges from 0 (least favorable health state) to 3600 (most favorable health state)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Complete clinical healing",
+                              "Clinical response",
+                              "Partial clinical response",
+                              "Lack of response",
+                              "Crohn's disease activity index",
+                              "Inflammatory bowel disease questionnaire",
+                              "EuroQol 5 Dimensions survey",
+                              "Inflammatory bowel disease patient reported treatment impact survey",
+                              "Short Form 36 health survey"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Month 3, Month 12",
+                              "Month 3, Month 12",
+                              "Month 3, Month 12",
+                              "Month 3, Month 12",
+                              "Month 1 through Month 24",
+                              "Month 1 through Month 24",
+                              "Month 1 through Month 24",
+                              "Month 1 through Month 24",
+                              "Month 1 through Month 24"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04548583"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Protocol 260 - Partial Response or Improvement of GVHD by Day 28 in one or more organs involved with GVHD symptoms at Day 1,",
+                              "Protocol 260 - Time to best response of GVHD",
+                              "Protocol 260 - Time to improvement of GVHD in one or more organs",
+                              "Protocol 261 - Survival through study day 90"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "28 Days",
+                              "28 Days",
+                              "28 Days",
+                              "90 Days"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Click here for more information on Prochymal\u00ae for treatment of GVHD"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.osiristx.com"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00136903"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ResultsFirstSubmitDate": [
+                              "December 1, 2021"
+                        ],
+                        "ResultsFirstSubmitQCDate": [
+                              "February 18, 2022"
+                        ],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Overall survival rate was defined as percentage of participants who survived. OS was defined as the time to death from the start of drug therapy.",
+                              "Overall survival rate was defined as percentage of participants who survived. OS was defined as the time to death from the start of drug therapy.",
+                              "OS rate was defined as percentage of participants who survived. OS was defined as the time to death from the start of drug therapy. Maximum severity of acute GVHD was assessed by using International Bone Marrow Transplant Registry (IBMTR) index. The severity index was defined as: Grade A (skin Stage 1: extent of rash <25%); Grade B (skin Stage 2: extent of rash 25 to 50% or liver Stage 1 to 2: total bilirubin 34 to 102 micromoles per liter [mcmol/L] or intestinal tract Stage 1 to 2: volume of diarrhea 550 to 1500 milliliters per day [mL/day]); Grade C (skin Stage 3: extent of rash > 50% or liver Stage 3: total bilirubin 103 to 255 mcmol/L or intestinal tract Stage 3: volume of diarrhea >1500 mL/day); Grade D (skin Stage 4: extent of rash bullae or liver Stage 4: total bilirubin >255 or intestinal tract Stage 4: volume of diarrhea severe pain and ileus).",
+                              "OS rate was defined as percentage of participants who survived. OS was defined as the time to death from the start of drug therapy. The data was summarized for organ involvement: skin only, lower GI only, and multi-organ.",
+                              "OR rate was defined as the percentage of participants who had achieved overall response. Overall response was defined as CR plus PR as per aGVHD response criteria. CR was defined as resolution of aGVHD in all involved organs. PR was defined as organ improvement of at least 1 stage without worsening of any other organ."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Overall Survival (OS) Rate at Day 100 Post Initiation of Therapy",
+                              "OS Rate at Day 100 Post Initiation of Therapy, Stratified by Responder Status at Day 28",
+                              "OS Rate at Day 100 Post Initiation of Therapy, Stratified by Baseline aGVHD Grade",
+                              "OS Rate at Day 100 Post Initiation of Therapy, Stratified by Organ Involvement",
+                              "OR Rate at Day 56 and 100 Post Initiation of Therapy"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Day 100",
+                              "Day 100",
+                              "Day 100",
+                              "Day 100",
+                              "Day 56 and Day 100"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment"
+                        ],
+                        "NCTId": [
+                              "NCT02336230"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04366830"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Peak C-peptide response (MMTT)",
+                              "Basal C-peptide response",
+                              "Total daily insulin dose (units/kg)",
+                              "Glycosylated hemoglobin (HbA1c) levels",
+                              "Number of severe and documented hypoglycemic events",
+                              "Changes in levels of glutamic acid decarboxylase (GAD) or islet antigen 2 (IA-2) autoantibodies"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "2 years",
+                              "2 years",
+                              "2 years",
+                              "2 years",
+                              "2 years",
+                              "2 years"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00690066"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Percentage of participants who survived at 180 days post first infusion."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Overall Survival at 180 days Post First Infusion"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Day 180"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Description Click here for more information about this study: A Phase III Study to Evaluate the Efficacy and Safety of Prochymal\u00ae (Ex vivo Cultured Adult Human Mesenchymal Stem Cells) Infusion for the Treatment of Steroid-Refractory Acute GVHD"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.osiris.com"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00366145"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Improvement of GVHD by Day 28 in one or more organs involved with GVHD symptoms at day 1",
+                              "Best stage of each involved organ by Day 28",
+                              "Time to improvement or resolution of GVHD in one or more organs",
+                              "Adverse events",
+                              "Infusional toxicity",
+                              "Overall relapse of underlying disease",
+                              "Overall survival",
+                              "Formation of ectopic tissue foci",
+                              "Incidence of infection"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Day 1",
+                              "Day 28",
+                              "Up to approximately 12 months",
+                              "Up to approximately 12 months",
+                              "Up to approximately 12 months",
+                              "Up to approximately 12 months",
+                              "Up to approximately 12 months",
+                              "Up to approximately 12 months",
+                              "Up to approximately 12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00284986"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Number of days alive off mechanical ventilatory support calculated as the number of days, within the 60 days window, that patients were alive and free of mechanical ventilatory support.",
+                              "Safety analyses will be assessed by adverse event rates calculated as the ratio of the total number of events over 30 days divided by total patient-time at risk for the specific event from randomization.",
+                              "The number and percent of patients with resolution and/or improvement of ARDS at day 7",
+                              "The number and percent of patients with resolution and/or improvement of ARDS at day 14",
+                              "The number and percent of patients with resolution and/or improvement of ARDS at day 21",
+                              "The number and percent of patients with resolution and/or improvement of ARDS at day 30",
+                              "severity of ARDS according to Berlin Criteria at days 7 post-randomization Change from baseline of the severity of ARDS according to Berlin Criteria at days 7, 14, 21 and 30 post-randomization will be compared between treatment groups using a Cochran-Mantel-Haenszel test stratified by baseline severity.",
+                              "severity of ARDS according to Berlin Criteria at days 14 post-randomization Change from baseline of the severity of ARDS according to Berlin Criteria at days 7, 14, 21 and 30 post-randomization will be compared between treatment groups using a Cochran-Mantel-Haenszel test stratified by baseline severity.",
+                              "severity of ARDS according to Berlin Criteria at days 21 post-randomization Change from baseline of the severity of ARDS according to Berlin Criteria at days 7, 14, 21 and 30 post-randomization will be compared between treatment groups using a Cochran-Mantel-Haenszel test stratified by baseline severity.",
+                              "severity of ARDS according to Berlin Criteria at days 30 post-randomization Change from baseline of the severity of ARDS according to Berlin Criteria at days 7, 14, 21 and 30 post-randomization will be compared between treatment groups using a Cochran-Mantel-Haenszel test stratified by baseline severity.",
+                              "Hospital length of stay",
+                              "number of readmission",
+                              "Change from baseline in Clinical Improvement Scale at day 7. Clinical Improvement Scale full scale from 1 to 7, with higher score indicating more clinical improvement.",
+                              "Change from baseline in Clinical Improvement Scale at day 14. Full scale from 1 to 7, with higher score indicating more clinical improvement.",
+                              "Change from baseline in Clinical Improvement Scale at day 21. Clinical Improvement Scale full scale from 1 to 7, with higher score indicating more clinical improvement.",
+                              "Change from baseline in Clinical Improvement Scale at day 30. Clinical Improvement Scale full scale from 1 to 7, with higher score indicating more clinical improvement.",
+                              "Changes from baseline in plasma hs-CRP concentration at days 7",
+                              "Changes from baseline in plasma hs-CRP concentration at days 14",
+                              "Changes from baseline in plasma hs-CRP concentration at days 21",
+                              "Changes from baseline in serum hs-CRP concentration at days 30",
+                              "Changes from baseline in IL-6 inflammatory marker level at 7 days",
+                              "Changes from baseline in IL-6 inflammatory marker level at 14 days",
+                              "Changes from baseline in IL-6 inflammatory marker level at 21 days",
+                              "Changes from baseline in IL-6 inflammatory marker level at 30 days",
+                              "Changes from baseline in IL-6 inflammatory marker level at 7 days",
+                              "Changes from baseline in IL-6 inflammatory marker level at 21 days",
+                              "Changes from baseline in IL-6 inflammatory marker level at 14 days",
+                              "Changes from baseline in IL-6 inflammatory marker level at 30 days",
+                              "Changes from baseline in TNF-alpha inflammatory marker level at 7 days",
+                              "Changes from baseline in TNF-alpha inflammatory marker level at 14 days",
+                              "Changes from baseline in TNF-alpha inflammatory marker level at 21 days",
+                              "Changes from baseline in TNF-alpha inflammatory marker level at 30 days",
+                              "including the presence of emphysema, COPD, asthma, pulmonary fibrosis, other pulmonary disease, and the need for respiratory support will be reported by randomization",
+                              "including the presence of emphysema, COPD, asthma, pulmonary fibrosis, other pulmonary disease, and the need for respiratory support will be reported by randomization"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Number of days alive off mechanical ventilatory support",
+                              "Number of adverse events",
+                              "Number of participants alive at day 7",
+                              "Number of participants alive at day 14",
+                              "Number of participants alive at day 60",
+                              "Number of participants alive at day 90",
+                              "Number of participants alive at 12 Months",
+                              "Number of participants with resolution and/or improvement of ARDS",
+                              "Number of participants with resolution and/or improvement of ARDS",
+                              "Number of participants with resolution and/or improvement of ARDS",
+                              "Number of participants with resolution and/or improvement of ARDS",
+                              "Severity of ARDS",
+                              "Severity of ARDS",
+                              "Severity of ARDS",
+                              "Severity of ARDS",
+                              "Length of stay",
+                              "Readmissions",
+                              "Length of Stay in Intensive Care Unit",
+                              "Clinical Improvement Scale",
+                              "Clinical Improvement Scale",
+                              "Clinical Improvement Scale",
+                              "Clinical Improvement Scale",
+                              "Change in plasma hs-CRP concentration",
+                              "Change in plasma hs-CRP concentration",
+                              "Change in plasma hs-CRP concentration",
+                              "Change in serum hs-CRP concentration",
+                              "Change in IL-6 inflammatory marker level",
+                              "Change in IL-6 inflammatory marker level",
+                              "Change in IL-6 inflammatory marker level",
+                              "Change in IL-6 inflammatory marker level",
+                              "Change in IL-8 inflammatory marker level",
+                              "Change in IL-8 inflammatory marker level",
+                              "Change in IL-8 inflammatory marker level",
+                              "Change in IL-8 inflammatory marker level",
+                              "Change in TNF-alpha inflammatory marker level",
+                              "Change in TNF-alpha inflammatory marker level",
+                              "Change in TNF-alpha inflammatory marker level",
+                              "Change in TNF-alpha inflammatory marker level",
+                              "Pulmonary symptoms",
+                              "Pulmonary symptoms"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "60 days",
+                              "30 days",
+                              "7 days",
+                              "14 days",
+                              "60 days",
+                              "90 days",
+                              "12 Months",
+                              "7 days",
+                              "14 days",
+                              "21 days",
+                              "30 days",
+                              "baseline and 7 days",
+                              "baseline and 14 days",
+                              "baseline and 21 days",
+                              "baseline and 30 days",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "7 days",
+                              "14 days",
+                              "21 days",
+                              "30 days",
+                              "baseline and 7 days",
+                              "baseline and 14 days",
+                              "baseline and 21 days",
+                              "baseline and 30 days",
+                              "baseline and 7 days",
+                              "baseline and 14 days",
+                              "baseline and 21 days",
+                              "baseline and 30 days",
+                              "baseline and 7 days",
+                              "baseline and 21 days",
+                              "baseline and 14 days",
+                              "baseline and 30 days",
+                              "baseline and 7 days",
+                              "baseline and 14 days",
+                              "baseline and 21 days",
+                              "baseline and 30 days",
+                              "6 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04371393"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change from baseline in the total distance walked in 6 minutes was reported.",
+                              "The physician evaluated the subject's global status as improved, unchanged, or worsened from pretreatment.",
+                              "Changes in systemic inflammation was determined by C-Reactive Protein (CRP) assays."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change from Baseline in Pulmonary Function Test: Forced Expiratory Volume (FEV)1 at Year 1 and Year 2",
+                              "Change from Baseline in Pulmonary Function Test: Forced Expiratory Volume (FEV)1 %predicted at Year 1 and Year 2",
+                              "Change from Baseline in Pulmonary Function Test: Forced Vital Capacity (FVC) at Year 1 and Year 2",
+                              "Change from Baseline in Pulmonary Function Test: Forced Vital Capacity (FVC) %predicted at Year 1 and Year 2",
+                              "Change from Baseline in Pulmonary Function Test: Forced Expiratory Volume to Forced Vital Capacity Ratio (FEV1/FVC) at Year 1 and Year 2",
+                              "Change from Baseline in Diffusing capacity of the lung for carbon monoxide (DLCO) at Year 1 and Year 2",
+                              "Change from Baseline in Diffusing capacity of the lung for carbon monoxide (DLCO) %predicted at Year 1 and Year 2",
+                              "Change from Baseline in Alveolar Volume (VA) at Year 1 and Year 2",
+                              "Change from Baseline in Diffusing capacity of the lung for carbon monoxide to Alveolar Volume ratio (DLCO/VA)at Year 1 and Year 2",
+                              "Change from Baseline in Functional residual capacity (FRC) at Month 6",
+                              "Change from Baseline in Total Lung Capacity (TLC) at Month 6",
+                              "Change from Baseline in Residual Volume (RV) at Month 6",
+                              "Change from Baseline in Airway Resistance (RAW) at Month 6",
+                              "Change from Baseline in 6-Minute Walk Test at Year 1 and Year 2",
+                              "Change from Baseline in Borg Dyspnea Scale at Year 2",
+                              "Change from Baseline in Health-related quality of life: St George's Respiratory Questionnaire (SGRQ) at Year 1 and Year 2",
+                              "Change from Baseline in Physician Global Assessment Scale at Year 1 and Year 2",
+                              "Time to COPD Exacerbation",
+                              "Number of COPD Exacerbations",
+                              "Change from Baseline in Pulmonary Hypertension at Month 6",
+                              "Change from Baseline in Systemic Inflammation at Year 1 and Year 2"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline, Year 1, Year 2",
+                              "Baseline, Year 1, Year 2",
+                              "Baseline, Year 1, Year 2",
+                              "Baseline, Year 1, Year 2",
+                              "Baseline, Year 1, Year 2",
+                              "Baseline, Year 1, Year 2",
+                              "Baseline, Year 1, Year 2",
+                              "Baseline, Year 1, Year 2",
+                              "Baseline, Year 1, Year 2",
+                              "Baseline, Month 6",
+                              "Baseline, Month 6",
+                              "Baseline, Month 6",
+                              "Baseline, Month 6",
+                              "Baseline, Year 1, Year 2",
+                              "Baseline, Year 2",
+                              "Baseline, Year 1, Year 2",
+                              "Baseline, Year 1, Year 2",
+                              "Up to 2 Years",
+                              "Up to 2 Years",
+                              "Baseline, Month 6",
+                              "Baseline, Year 1 and Year 2"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00683722"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The Duke Activity Status Index (DASI) is a brief, self-administered questionnaire that provides a standardized assessment of functional status and quality-of-life that correlates well with an objective measure of maximal exercise capacity. The scale ranges from 0 (unable to perform any tasks) to 58.20 (able to perform all tasks). Higher scores indicate a greater ability to perform daily activities."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Left Ventricular End Systolic Volume",
+                              "Infarct Size",
+                              "Left Ventricular Ejection Fraction",
+                              "Left Ventricular End Diastolic Volume",
+                              "Number of Participants with Ventricular Arrhythmias",
+                              "Duke Activity Status Index (DASI) Assessment",
+                              "New York Heart Association (NYHA) Congestive Heart Failure Classification Status",
+                              "Maximal Symptom-limited Exercise Test (Treadmill)",
+                              "Number of Participants with Major Adverse Cardiac Events (MACE)",
+                              "Overall Survival",
+                              "Number of Participants with Adverse Events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months",
+                              "3 and 6 months",
+                              "3 and 6 months",
+                              "3 and 6 months",
+                              "3 and 6 months",
+                              "6, 12, and 24 months",
+                              "6, 12, 24, and 60 months",
+                              "6 and 12 months",
+                              "6, 12, 24, and 60 months",
+                              "60 months",
+                              "3,6,12,24,60 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00877903"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Disease improvement (Reduction by at least 100 points in CDAI)",
+                              "Improvement in quality of life (IBDQ)",
+                              "Reduction in number of draining fistulas"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "28 days",
+                              "28 days",
+                              "28 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00482092"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Improvement in quality of life (Inflammatory Bowel Disease Questionnaire [IBDQ] instrument)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00543374"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04456439"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00826046"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00759018"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "CDAI response to treatments is defined as a CDAI of 150 or below, or a reduction in CDAI of at least 100 points.",
+                              "IBDQ response to treatment is defined as IBDQ of 170 or above, or an increase in IBDQ of at least 16 points.",
+                              "Infusional toxicity will be evaluated by continuously monitoring the subject's vital signs and O2 saturation by pulse oximetry from the time of PROCHYMAL administration until two hours after infusion is complete."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Disease Improvement",
+                              "Improvement in Quality of Life (IBDQ)",
+                              "Number of Adverse events as a measure of safety",
+                              "Infusional toxicity as a measure of safety and tolerability"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "180 Days after first infusion in Protocol 603",
+                              "180 Days after first infusion in Protocol 603",
+                              "180 Days after first infusion in Protocol 603",
+                              "180 Days after first infusion in Protocol 603"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01233960"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01510431"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Overall Response was defined as participants who achieved complete response or partial response (CR+PR).",
+                              "Corticosteroid-related complications included hyperglycemia requiring insulin, corticosteroid myopathy and psychosis.",
+                              "Infectious complications included viral, fungal or bacterial complications."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Percentage of Participants with Overall Response",
+                              "Percentage of Participants with Induction of a 2-grade decrease in (Graft Versus Host Disease) GVHD by Study Day 28 with maintenance of a 2-grade decrease in GVHD through Study Day 56",
+                              "Percentage of Participants with Induction of CR lasting for greater than or equal to 14 Days",
+                              "Percentage of Participants with Induction of a CR after Study Day 28 and clinically managed with steroids with second line/escalation therapy through Study Day 56",
+                              "Percentage of Participants with Induction of PR during the first 28 days",
+                              "Time to achieve CR",
+                              "Number of CR per organ",
+                              "Total corticosteroid dose administered",
+                              "Number of corticosteroid-related complications",
+                              "Number of Infectious complications",
+                              "Number of Days of Hospitalization",
+                              "Average Daily Corticosteroid Dose"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Day 90",
+                              "Up to Day 56",
+                              "Day 14",
+                              "Up to Day 56",
+                              "Up to Day 28",
+                              "Up to Day 90",
+                              "Up to Day 90",
+                              "Up to Day 90",
+                              "Up to Day 90",
+                              "Up to Day 90",
+                              "Up to Day 90",
+                              "Up to Day 90"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Click here for more information about this study: A Phase III, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Prochymal\u00ae Infusion in Combination With Corticosteroids for the Treatment of Newly Diagnosed"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.osiris.com"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00562497"
+                        ]
+                  }
+            ]
+      }
+}

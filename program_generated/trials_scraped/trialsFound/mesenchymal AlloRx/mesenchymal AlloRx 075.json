@@ -1,0 +1,1938 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal AlloRx",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 28,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 28,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Nervous System Diseases",
+                              "Wounds and Injuries",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Spinal Cord Injury"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M15068",
+                              "M16837",
+                              "M15067",
+                              "M4894",
+                              "M21176"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Spinal Cord Injuries",
+                              "Wounds and Injuries",
+                              "Spinal Cord Diseases",
+                              "Central Nervous System Diseases",
+                              "Trauma, Nervous System"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000013119"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Spinal Cord Injuries"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05152290"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Infections",
+                              "Skin and Connective Tissue Diseases",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Arthritis",
+                              "Osteoarthritis",
+                              "Spinal Arthritis",
+                              "Spinal Arthritis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3628",
+                              "M12078",
+                              "M15113",
+                              "M22188",
+                              "M9773",
+                              "M11249",
+                              "M14197",
+                              "M5475",
+                              "M15071",
+                              "M4278",
+                              "M9435",
+                              "M5520",
+                              "M4281"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Arthritis",
+                              "Osteoarthritis",
+                              "Spondylitis",
+                              "Spondylarthritis",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases",
+                              "Spinal Diseases",
+                              "Bone Diseases",
+                              "Infections",
+                              "Communicable Diseases",
+                              "Bone Diseases, Infectious"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000013166",
+                              "D000001168",
+                              "D000010003",
+                              "D000025241"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Spondylitis",
+                              "Arthritis",
+                              "Osteoarthritis",
+                              "Spondylarthritis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05147675"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ulcer",
+                              "Skin Ulcer"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M16358",
+                              "M14838",
+                              "M14826"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000012883",
+                              "D000014456"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Skin Ulcer",
+                              "Ulcer"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05158127"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ConditionBrowseBranchName": [
+                              "Eye Diseases",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "Symptoms and General Pathology",
+                              "Nervous System Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Wounds and Injuries",
+                              "Nutritional and Metabolic Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Macular Degeneration",
+                              "Retinopathy",
+                              "Diabetic Retinopathy",
+                              "Eye Disease",
+                              "Glaucoma",
+                              "Atrophy",
+                              "Optic Neuropathy",
+                              "Retinitis",
+                              "Retinitis Pigmentosa",
+                              "Traumatic Optic Neuropathy",
+                              "Optic Atrophy",
+                              "Retinitis Pigmentosa"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10412",
+                              "M14151",
+                              "M6277",
+                              "M7423",
+                              "M8165",
+                              "M3741",
+                              "M11984",
+                              "M14160",
+                              "M14161",
+                              "M21200",
+                              "M11979",
+                              "M9176",
+                              "M11883",
+                              "M14149",
+                              "M21672",
+                              "M6272",
+                              "M16552",
+                              "M6267",
+                              "M25157",
+                              "M7014",
+                              "M17491",
+                              "M28260",
+                              "M22839",
+                              "M5757",
+                              "M21189",
+                              "M16837",
+                              "M8501",
+                              "M21176",
+                              "T4945"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Macular Degeneration",
+                              "Retinal Diseases",
+                              "Diabetic Retinopathy",
+                              "Eye Diseases",
+                              "Glaucoma",
+                              "Atrophy",
+                              "Optic Nerve Diseases",
+                              "Retinitis",
+                              "Retinitis Pigmentosa",
+                              "Optic Nerve Injuries",
+                              "Optic Atrophy",
+                              "Hypertension",
+                              "Ocular Hypertension",
+                              "Retinal Degeneration",
+                              "Pathological Conditions, Anatomical",
+                              "Diabetic Angiopathies",
+                              "Vascular Diseases",
+                              "Diabetes Mellitus",
+                              "Diabetes Complications",
+                              "Endocrine System Diseases",
+                              "Eye Diseases, Hereditary",
+                              "Retinal Dystrophies",
+                              "Genetic Diseases, Inborn",
+                              "Cranial Nerve Diseases",
+                              "Cranial Nerve Injuries",
+                              "Wounds and Injuries",
+                              "Craniocerebral Trauma",
+                              "Trauma, Nervous System",
+                              "Retinitis Pigmentosa"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009901",
+                              "D000009896",
+                              "D000020221",
+                              "D000005901",
+                              "D000008268",
+                              "D000012164",
+                              "D000003930",
+                              "D000005128",
+                              "D000012173",
+                              "D000012174",
+                              "D000001284"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Optic Nerve Diseases",
+                              "Optic Atrophy",
+                              "Optic Nerve Injuries",
+                              "Glaucoma",
+                              "Macular Degeneration",
+                              "Retinal Diseases",
+                              "Diabetic Retinopathy",
+                              "Eye Diseases",
+                              "Retinitis",
+                              "Retinitis Pigmentosa",
+                              "Atrophy"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05147701"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [
+                              "M3628"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Arthritis"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05018858"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ConditionBrowseBranchName": [],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [],
+                        "ConditionBrowseLeafName": [],
+                        "ConditionBrowseLeafRelevance": [],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05158933"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ConditionBrowseBranchName": [
+                              "Nervous System Diseases",
+                              "Heart and Blood Diseases",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Stroke"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M21459",
+                              "M4962",
+                              "M4356",
+                              "M4894",
+                              "M16552"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Stroke",
+                              "Cerebrovascular Disorders",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Vascular Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000020521"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Stroke"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05158101"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Congestive Heart Failure",
+                              "Heart Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M8571",
+                              "M3269"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Heart Diseases",
+                              "Angina Pectoris"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006333",
+                              "D000006331"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Heart Failure",
+                              "Heart Diseases"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05147766"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Nervous System Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Behaviors and Mental Disorders",
+                              "Neoplasms",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Syndrome",
+                              "Tourette Syndrome"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M15507",
+                              "M8143",
+                              "M24756",
+                              "M3926",
+                              "M15510",
+                              "M4356",
+                              "M4894",
+                              "M21285",
+                              "M15891",
+                              "M11181",
+                              "M21245",
+                              "M20711",
+                              "M22839",
+                              "M29797",
+                              "M13625",
+                              "M3967"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Syndrome",
+                              "Tourette Syndrome",
+                              "Ganglion Cysts",
+                              "Basal Ganglia Diseases",
+                              "Synovial Cyst",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Tics",
+                              "Tic Disorders",
+                              "Movement Disorders",
+                              "Heredodegenerative Disorders, Nervous System",
+                              "Neurodegenerative Diseases",
+                              "Genetic Diseases, Inborn",
+                              "Neurodevelopmental Disorders",
+                              "Psychotic Disorders",
+                              "Mental Disorders"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000005879",
+                              "D000013577"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Tourette Syndrome",
+                              "Syndrome"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05158439"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ConditionBrowseBranchName": [
+                              "Nervous System Diseases",
+                              "All Conditions",
+                              "Neoplasms",
+                              "Skin and Connective Tissue Diseases",
+                              "Nutritional and Metabolic Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Parkinson's Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M12365",
+                              "M21647",
+                              "M24756",
+                              "M3926",
+                              "M15510",
+                              "M4356",
+                              "M4894",
+                              "M11181",
+                              "M2217",
+                              "M20711"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Parkinson Disease",
+                              "Parkinsonian Disorders",
+                              "Ganglion Cysts",
+                              "Basal Ganglia Diseases",
+                              "Synovial Cyst",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Movement Disorders",
+                              "Synucleinopathies",
+                              "Neurodegenerative Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000010300"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Parkinson Disease"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05152394"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "Nutritional and Metabolic Diseases",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Osteoporosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M12099",
+                              "M4278",
+                              "M4282",
+                              "M11249",
+                              "M10791"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Osteoporosis",
+                              "Bone Diseases",
+                              "Bone Diseases, Metabolic",
+                              "Musculoskeletal Diseases",
+                              "Metabolic Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000010024"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Osteoporosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05152381"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ConditionBrowseBranchName": [
+                              "Nervous System Diseases",
+                              "Wounds and Injuries",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Brain Injury",
+                              "Traumatic Brain Injury"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M4359",
+                              "M628",
+                              "M16837",
+                              "M4356",
+                              "M4894",
+                              "M8501",
+                              "M21176"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Brain Injuries",
+                              "Brain Injuries, Traumatic",
+                              "Wounds and Injuries",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Craniocerebral Trauma",
+                              "Trauma, Nervous System"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001930",
+                              "D000070642"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Brain Injuries",
+                              "Brain Injuries, Traumatic"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05018832"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Kidney Disease",
+                              "Chronic Kidney Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9850",
+                              "M25871",
+                              "M25870",
+                              "M16471",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency",
+                              "Renal Insufficiency, Chronic",
+                              "Urologic Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000051436"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05018845"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Wounds and Injuries"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Oligospermia",
+                              "Injury"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11929",
+                              "M16837",
+                              "M9442",
+                              "M9444"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Oligospermia",
+                              "Wounds and Injuries",
+                              "Infertility",
+                              "Infertility, Male"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009845",
+                              "D000014947"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Oligospermia",
+                              "Wounds and Injuries"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05158114"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "ConditionBrowseBranchName": [
+                              "Behaviors and Mental Disorders",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Autism"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3775",
+                              "M206",
+                              "M5055",
+                              "M5054",
+                              "M29797",
+                              "M13625",
+                              "M3967"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Autistic Disorder",
+                              "Autism Spectrum Disorder",
+                              "Child Development Disorders, Pervasive",
+                              "Developmental Disabilities",
+                              "Neurodevelopmental Disorders",
+                              "Psychotic Disorders",
+                              "Mental Disorders"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001321"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Autistic Disorder"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05003960"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "ConditionBrowseBranchName": [
+                              "Nutritional and Metabolic Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Diabetes"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M6267",
+                              "M10791",
+                              "M24556",
+                              "M7014"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetes Mellitus",
+                              "Metabolic Diseases",
+                              "Glucose Metabolism Disorders",
+                              "Endocrine System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003920"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Diabetes Mellitus"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05003908"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "ConditionBrowseBranchName": [
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "All Conditions",
+                              "Immune System Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Obstructive Pulmonary Disease",
+                              "Chronic Obstructive Pulmonary Disease",
+                              "Pulmonary Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10322",
+                              "M22602",
+                              "M10320",
+                              "M3708",
+                              "M14129",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Lung Diseases, Obstructive",
+                              "Pulmonary Disease, Chronic Obstructive",
+                              "Lung Diseases",
+                              "Asthma",
+                              "Respiratory Tract Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008171",
+                              "D000008173",
+                              "D000029424"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Lung Diseases",
+                              "Lung Diseases, Obstructive",
+                              "Pulmonary Disease, Chronic Obstructive"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05147688"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "ConditionBrowseBranchName": [
+                              "Nervous System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Wounds and Injuries",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cerebral Palsy"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M12309",
+                              "M4948",
+                              "M4359",
+                              "M4354",
+                              "M4356",
+                              "M4894",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Paralysis",
+                              "Cerebral Palsy",
+                              "Brain Injuries",
+                              "Brain Damage, Chronic",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000002547"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Cerebral Palsy"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05018819"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "ConditionBrowseBranchName": [
+                              "Nervous System Diseases",
+                              "Immune System Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Multiple Sclerosis",
+                              "Sclerosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11212",
+                              "M14567",
+                              "M3781",
+                              "M21251",
+                              "M21247",
+                              "M6061",
+                              "M9352"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Multiple Sclerosis",
+                              "Sclerosis",
+                              "Autoimmune Diseases",
+                              "Demyelinating Autoimmune Diseases, CNS",
+                              "Autoimmune Diseases of the Nervous System",
+                              "Demyelinating Diseases",
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009103",
+                              "D000012598"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Multiple Sclerosis",
+                              "Sclerosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05003388"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases",
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Arthritis",
+                              "Rheumatoid Arthritis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3628",
+                              "M3632",
+                              "M9773",
+                              "M11249",
+                              "M14197",
+                              "M5475",
+                              "M5616",
+                              "M3781",
+                              "M9352"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Arthritis",
+                              "Arthritis, Rheumatoid",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases",
+                              "Connective Tissue Diseases",
+                              "Autoimmune Diseases",
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001168",
+                              "D000001172"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Arthritis",
+                              "Arthritis, Rheumatoid"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05003934"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Frailty"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M1175"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Frailty"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000073496"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Frailty"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05018767"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Sclerosis",
+                              "Systemic Sclerosis",
+                              "Systemic Sclerosis",
+                              "Systemic Sclerosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M14567",
+                              "M14564",
+                              "M24713",
+                              "M5616",
+                              "M14826",
+                              "T5565"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Sclerosis",
+                              "Scleroderma, Systemic",
+                              "Scleroderma, Diffuse",
+                              "Connective Tissue Diseases",
+                              "Skin Diseases",
+                              "Systemic Scleroderma"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000012595",
+                              "D000045743",
+                              "D000012598"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Scleroderma, Systemic",
+                              "Scleroderma, Diffuse",
+                              "Sclerosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05016804"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Bowel Disease",
+                              "Inflammatory Bowel Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9596",
+                              "M17069",
+                              "M8035",
+                              "M6407",
+                              "M8027"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Intestinal Diseases",
+                              "Inflammatory Bowel Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Gastroenteritis"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007410",
+                              "D000015212"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Intestinal Diseases",
+                              "Inflammatory Bowel Diseases"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05003947"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "ConditionBrowseBranchName": [
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Pulmonary Fibrosis",
+                              "Idiopathic Pulmonary Fibrosis",
+                              "Fibrosis",
+                              "Idiopathic Pulmonary Fibrosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M13664",
+                              "M27142",
+                              "M7637",
+                              "M10320",
+                              "M14129",
+                              "T3003"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Pulmonary Fibrosis",
+                              "Idiopathic Pulmonary Fibrosis",
+                              "Fibrosis",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Idiopathic Pulmonary Fibrosis"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000011658",
+                              "D000054990",
+                              "D000005355"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Pulmonary Fibrosis",
+                              "Idiopathic Pulmonary Fibrosis",
+                              "Fibrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05016817"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Nervous System Diseases",
+                              "Nutritional and Metabolic Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Sclerosis",
+                              "Lateral Sclerosis",
+                              "Amyotrophic Lateral Sclerosis",
+                              "Lateral Sclerosis",
+                              "Amyotrophic Lateral Sclerosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M14567",
+                              "M18031",
+                              "M3176",
+                              "M20711",
+                              "M11563",
+                              "M15067",
+                              "M4894",
+                              "M27912",
+                              "M27900",
+                              "M10791",
+                              "T4699",
+                              "T349"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Sclerosis",
+                              "Motor Neuron Disease",
+                              "Amyotrophic Lateral Sclerosis",
+                              "Neurodegenerative Diseases",
+                              "Neuromuscular Diseases",
+                              "Spinal Cord Diseases",
+                              "Central Nervous System Diseases",
+                              "TDP-43 Proteinopathies",
+                              "Proteostasis Deficiencies",
+                              "Metabolic Diseases",
+                              "Primary Lateral Sclerosis",
+                              "Amyotrophic Lateral Sclerosis"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000016472",
+                              "D000000690",
+                              "D000012598"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Motor Neuron Disease",
+                              "Amyotrophic Lateral Sclerosis",
+                              "Sclerosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05003921"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "ConditionBrowseBranchName": [
+                              "Nervous System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Mouth and Tooth Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Neuralgia",
+                              "Peripheral Neuropathy",
+                              "Trigeminal Neuralgia",
+                              "Trigeminal Neuralgia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11533",
+                              "M12584",
+                              "M16181",
+                              "M11563",
+                              "M12218",
+                              "M11556",
+                              "M21382",
+                              "M20242",
+                              "M7451",
+                              "M7450",
+                              "M11171",
+                              "M11169",
+                              "M5757",
+                              "T5717"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Neuralgia",
+                              "Peripheral Nervous System Diseases",
+                              "Trigeminal Neuralgia",
+                              "Neuromuscular Diseases",
+                              "Pain",
+                              "Neurologic Manifestations",
+                              "Trigeminal Nerve Diseases",
+                              "Facies",
+                              "Facial Neuralgia",
+                              "Facial Nerve Diseases",
+                              "Mouth Diseases",
+                              "Stomatognathic Diseases",
+                              "Cranial Nerve Diseases",
+                              "Trigeminal Neuralgia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000014277",
+                              "D000010523",
+                              "D000009437"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Trigeminal Neuralgia",
+                              "Peripheral Nervous System Diseases",
+                              "Neuralgia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05152368"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Behaviors and Mental Disorders",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Erectile Dysfunction",
+                              "Cystitis",
+                              "Interstitial Cystitis",
+                              "Peyronie's Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9369",
+                              "M5913",
+                              "M20056",
+                              "M12474",
+                              "M14698",
+                              "M21026",
+                              "M13625",
+                              "M3967",
+                              "M4178",
+                              "M16471",
+                              "M12472",
+                              "M5616"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Erectile Dysfunction",
+                              "Cystitis",
+                              "Cystitis, Interstitial",
+                              "Penile Induration",
+                              "Sexual Dysfunction, Physiological",
+                              "Sexual Dysfunctions, Psychological",
+                              "Psychotic Disorders",
+                              "Mental Disorders",
+                              "Urinary Bladder Diseases",
+                              "Urologic Diseases",
+                              "Penile Diseases",
+                              "Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007172",
+                              "D000003556",
+                              "D000018856",
+                              "D000010411"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Erectile Dysfunction",
+                              "Cystitis",
+                              "Cystitis, Interstitial",
+                              "Penile Induration"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05147779"
+                        ]
+                  },
+                  {
+                        "Rank": 28,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Syndrome",
+                              "Pitt Hopkins Syndrome"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M15507",
+                              "T4569"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Syndrome",
+                              "Pitt-Hopkins Syndrome"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000013577"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Syndrome"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Randomized Placebo Controlled Double Blinded"
+                        ],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05165017"
+                        ]
+                  }
+            ]
+      }
+}

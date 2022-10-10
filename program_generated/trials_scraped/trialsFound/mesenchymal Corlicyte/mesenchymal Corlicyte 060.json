@@ -1,0 +1,99 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Corlicyte",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "Study Objective:\n\nThe objective of this Phase 1 open-label study is to establish the safety and tolerability of Corlicyte mesenchymal stem cells (MSCs) in the treatment of patients with chronic diabetic foot ulcers (DFUs)."
+                        ],
+                        "BriefTitle": [
+                              "PHASE 1, OPEN-LABEL SAFETY STUDY OF UMBILICAL CORD LINING MESENCHYMAL STEM CELLS (CORLICYTE\u00ae) TO HEAL CHRONIC DIABETIC FOOT ULCERS"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "September 30, 2022"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Diabetic Foot Ulcer"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010335",
+                              "D000003925",
+                              "D000014652",
+                              "D000002318",
+                              "D000007871",
+                              "D000012883",
+                              "D000012871",
+                              "D000048909",
+                              "D000003920",
+                              "D000004700",
+                              "D000003929",
+                              "D000005534"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathologic Processes",
+                              "Diabetic Angiopathies",
+                              "Vascular Diseases",
+                              "Cardiovascular Diseases",
+                              "Leg Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases",
+                              "Diabetes Complications",
+                              "Diabetes Mellitus",
+                              "Endocrine System Diseases",
+                              "Diabetic Neuropathies",
+                              "Foot Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC14",
+                              "BC17",
+                              "BC19",
+                              "All",
+                              "BC23",
+                              "BC18",
+                              "BC10",
+                              "BC05",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT04104451"
+                        ]
+                  }
+            ]
+      }
+}

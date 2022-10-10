@@ -1,0 +1,98 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Ossium vBM-MSC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The purpose of this study is to determine the safety and feasibility of using Ossium vertebral Bone Marrow Derived Mesenchymal Stem Cells (vBM-MSC) to treat people with an ileal pouch anal anastomosis (IPAA) who develop a fistula in the setting of Crohn's disease of the pouch."
+                        ],
+                        "BriefTitle": [
+                              "Study of Ossium Mesenchymal Stem Cells for the Treatment of Pouch Fistulas in the Setting of Crohn's Disease"
+                        ],
+                        "CentralContactEMail": [
+                              "ibdstemcelltherapy@ccf.org",
+                              "ibdstemcelltherapy@ccf.org"
+                        ],
+                        "CentralContactName": [
+                              "Allison Bayles, AA",
+                              "Alex VanDenBossche"
+                        ],
+                        "CentralContactPhone": [
+                              "216-444=0887",
+                              "216-379-0307"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "INDUSTRY"
+                        ],
+                        "CollaboratorName": [
+                              "Ossium Health, Inc."
+                        ],
+                        "CompletionDate": [
+                              "November 15, 2024"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Pouch, Ileal",
+                              "Fistula"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000015212",
+                              "D000005759",
+                              "D000005767",
+                              "D000004066",
+                              "D000007410",
+                              "D000020763"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Inflammatory Bowel Diseases",
+                              "Gastroenteritis",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Intestinal Diseases",
+                              "Pathological Conditions, Anatomical"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC06",
+                              "All",
+                              "BC23"
+                        ],
+                        "NCTId": [
+                              "NCT05075811"
+                        ]
+                  }
+            ]
+      }
+}

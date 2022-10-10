@@ -1,0 +1,61 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal UMC119-01",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "UMC119-01 is ex vivo cultured human umbilical cord tissue-derived mensenchymal stem cells product which is intended for prevention of Bronchopulmonary dysplasia."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nNeonatal infants who fulfil all of the following criteria will be enrolled:\n\nSubjects of postnatal age between 3 to 30 days.\nAre male and female infants born at GA between 23 weeks to 29 weeks. The postmenstrual age of subject received UMC119-01 should be no more than PMA36 weeks.\nSubjects with birth weight between 501g to 1249 g.\nHave endotracheal tube in place as part of SoC for preterm infants with BPD at screening and on treatment visit (Day 0), and that they will have not been intubated for the purposes of this study.\nA subject who is intubated and receiving mechanical ventilation with a fraction of inspired oxygen (FiO2) of 0.25 or greater at Screening.\nA subject who has had either a deterioration or no change in the setting of mechanical ventilation within the 24 hours before trial enrollment.\nWritten informed consent has been provided by the subject's parents, legal guardians, or a legal representative, who agree to comply with all of the study procedures, including those in the long-term safety surveillance period.\n\nExclusion Criteria:\n\nNeonatal infants who meet any of the following criteria will be excluded:\n\nHave a major congenital abnormality, including neurological (including anencephaly and similar malformations), hepatic, renal, cardiovascular abnormality (except for patent ductus arteriosus, PDA).\nHave a known genetic syndrome.\nHave a condition that makes them ineligible for participation in this study, as determined by the investigator.\nHave C-reactive protein (CRP) >30 mg/L; or any infections including pneumonia, sepsis, or shock.\nHave pre-existing severe intraventricular hemorrhage (IVH) (grade \u22653).\nHave active pulmonary hemorrhage or air leak syndrome.\nHave abnormal hepatic (AST, ALT >150 U/L or direct bilirubin >2 mg/dL or total bilirubin >15 mg/dL) or renal function (serum creatinine >1 mg/dL or oliguria).\nAre known to be infected with HIV or CMV.\nAre expected to have surgery within 24 hours prior to and/or after UMC119 01 instillation.\nAre expected to receive any other intratracheal treatments, including surfactant within 72 hours prior to and/or after UMC119 01 instillation.\nAre currently participating in any other interventional clinical trial."
+                        ],
+                        "EnrollmentCount": [
+                              "9"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT03631420"
+                        ]
+                  }
+            ]
+      }
+}

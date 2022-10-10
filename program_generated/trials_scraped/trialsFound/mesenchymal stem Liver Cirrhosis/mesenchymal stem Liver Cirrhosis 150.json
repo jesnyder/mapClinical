@@ -1,0 +1,2517 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Liver Cirrhosis",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 55,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 55,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Mesenchymal stem cell"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Intravenous dose of Mesenchymal stem cell derived from human Bone Marrow & umbilical cord , IN 6 divided doses , at interval of 1 week ."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal stem cell"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01877759"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "MSC injection"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Hepatic artery catheterization and mesenchymal stem cell injection will be used in alcoholic liver cirrhosis. And before and 1 month after injection, change of liver cirrhosis and portal hypertension will be evaluated."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "mesenchymal stem cell injection"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01741090"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "human umbilical cord-derived mesenchymal stem cell transplantation for patients with liver cirrhosis"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Human umbilical cord-derived mesenchymal stem cell infusion in the management of adult liver cirrhosis"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Human umbilical cord-derived mesenchymal stem cell infusion"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05331872"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "InterventionArmGroupLabel": [
+                              "MSC group",
+                              "MSC group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "1x10E6 MSCs/kg body weight will be administered via peripheral vein for 3 times at week 0, 4 and 8",
+                              "mesenchymal stem cell infusion produced by Cell products of National Engineering Research Center(short for CPNERC), Tianjin, China"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "mesenchymal stem cell transplantation via peripheral vein",
+                              "mesenchymal stem cell"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03209986"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "InterventionArmGroupLabel": [
+                              "mesenchymal stem cells",
+                              "Conventional therapy"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Conventional therapy plus UC-MSC intravenous administration (4x107/40ml, once per three months, four times in one year)",
+                              "Conventional therapy without cell therapy"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "mesenchymal stem cells",
+                              "Conventional therapy"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01573923"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "InterventionArmGroupLabel": [
+                              "autologous mesenchymal stem cell transplantation"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Every patient is given 1x106 MSCs per kg infused via peripheral vein."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "autologous mesenchymal stem cell transplantation"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Genetic"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01499459"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "InterventionArmGroupLabel": [
+                              "intravenous injection of UC-MSC"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "All research samples will be treated by Intravenous injection of allogeneic mesenchymal stem cells and hemodynamic observation will be done for 24 hours after treated. Periodic post-treatment observation will be done on 1st month, 3rd month, and 6th month after therapy. The Independent variable in this research is Child-Pugh B Cirrhosis caused by Hepatitis B, while the dependent variable is the degree of liver function damage consisting of an examination of liver function, Child-Pugh score, and MELD score."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic Umbilical Cord Mesenchymal Stem Cell"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04357600"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "InterventionArmGroupLabel": [
+                              "stem cells group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "1.000.000 (one million) cells/kg, IV of dose in the Peripheral vein and 3.000.000 (three million) cells/kg of dose into the right hepatic artery)"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal Stem Cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02705742"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "InterventionArmGroupLabel": [
+                              "Control group",
+                              "MSC group 1",
+                              "MSC group 2"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Human umbilical cord mesenchymal stem cells have driven from Wharton's jelly and cultured with serum-free medium in Shandong Cell and tissue bank. All of the cells in this study within three passages. Before transfusion, the mesenchymal stem cells were subjected to quality control. The UC-MSC were stained with anti-CD90-FITC, Anti-CD44-FITC, Anti-CD34-FITC and anti-45-FITC."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "UC-MSC"
+                        ],
+                        "InterventionOtherName": [
+                              "Human umbilical cord mesenchymal stem cells"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03529136"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "InterventionArmGroupLabel": [
+                              "Comprehensive treatment plus UC-MSC treatment",
+                              "Comprehensive treatment"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "All",
+                              "Hemat",
+                              "Lipd",
+                              "Gast"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "All Drugs and Chemicals",
+                              "Hematinics",
+                              "Lipid Regulating Agents",
+                              "Gastrointestinal Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3374",
+                              "M10262",
+                              "M296",
+                              "M230376",
+                              "M3376",
+                              "M20308",
+                              "M1946",
+                              "M2823"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anti-Bacterial Agents",
+                              "Liver Extracts",
+                              "Tenofovir",
+                              "Entecavir",
+                              "Antibiotics, Antitubercular",
+                              "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+                              "Rifaximin",
+                              "Adrenergic beta-Antagonists"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Taken a dose of 1.0*10E6 UC-MSC/kg body weight intravenously three times at 3-week intervals, in addition to comprehensive treatment.",
+                              "All patients received anti-HBV treatment with NAs (entecavir (ETV), tenofovir disoproxil fumarate (TDF), or tenofovir alafenamide (TAF)).\nStrategies based on targeting abnormalities in gut-liver axis by antibiotic administration (i.e. rifaximin), improving the disturbed systemic circulatory function (i.e. longterm albumin administration), decreasing the inflammatory state (i.e. statins), and reducing portal hypertension (i.e. beta-blockers)."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "umbilical cord-derived mesenchymal stem cell",
+                              "Comprehensive treatment"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03945487"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "InterventionArmGroupLabel": [
+                              "umbilical cord mesenchymal stem cells",
+                              "Conserved therapy"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "All",
+                              "Hemat"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "All Drugs and Chemicals",
+                              "Hematinics"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3466",
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Antiviral Agents",
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Umbilical cord mesenchymal stem cells were infused to patients using interventional method via hepatic artery. After the catheter placed at proper hepatic artery was confirmed by angiography,umbilical cord MSCs were infused slowly for 15-20minutes.",
+                              "Oral or intravenous administration"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "umbilical cord Mesenchymal Stem Cells",
+                              "Conserved therapy"
+                        ],
+                        "InterventionOtherName": [
+                              "Mesenchymal Stem Cells",
+                              "Drug therapy"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01224327"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "InterventionArmGroupLabel": [
+                              "Umbilical cord blood - derived mesenchymal stem cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Umbilical Cord Derived Mesenchymal Stem Cell (UC -MSC) Transplantation for Children Suffering From Liver Cirrhosis Due to Biliary Atresia"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Umbilical Cord Derived Mesenchymal Stem Cell (UC -MSC) Transplantation"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04522869"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "InterventionArmGroupLabel": [
+                              "Conventional plus hUC-MSCs treatment (low dose)",
+                              "conventional therapy plus hUC-MSCs treatment \uff08medium dose\uff09",
+                              "conventional therapy plus hUC-MSCs treatment \uff08high dose\uff09"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "patients will receive the conventional therapy plus low dose hUC-MSCs treatment",
+                              "patients will receive conventional therapy plus medium dose hUC-MSCs treatment",
+                              "patients will receive conventional therapy plus high dose hUC-MSCs treatment"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "conventional therapy plus low dose hUC-MSCs treatment",
+                              "conventional therapy plus medium dose hUC-MSCs treatment",
+                              "conventional therapy plus high dose hUC-MSCs treatment"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01342250"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "InterventionArmGroupLabel": [
+                              "Conserved Therapy",
+                              "Interventional Therapy"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Conserved Therapy",
+                              "Patients with liver cirrhosis will be randomly divided into three groups. Umbilical cord MSCs will be infused to patients using interventional method via hepatic artery for one group. The catheter will be inserted to proper hepatic artery. After the catheter placement confirmed by angiography, umbilical cord MSCs will be infused slowly in 20-30 minutes. Umbilical cord MSCs will be infused intravenously slowly for 30-60 minutes in the intravenous infusion group. The control group will receive conserved therapy."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Conserved Therapy",
+                              "Hepatic artery infusion or Intravenous infusion"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01233102"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "InterventionArmGroupLabel": [
+                              "Human Umbilical Cord-derived Mesenchymal Stem Cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Human Umbilical Cord-derived Mesenchymal Stem Cells will be administered intravenously."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Human Umbilical Cord-derived Mesenchymal Stem Cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05227846"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "InterventionArmGroupLabel": [
+                              "Stem cells high dose",
+                              "Stem cells intermediate dose",
+                              "Stem cells low dose"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "High dose of Bone Marrow Derived Allogeneic Mesenchymal Stem Cells will be administered through the hepatic artery",
+                              "Intermediate dose of Bone Marrow Derived Allogeneic Mesenchymal Stem Cells will be administered through the hepatic artery",
+                              "Low dose of Bone Marrow Derived Allogeneic Mesenchymal Stem Cells will be administered through the hepatic artery"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic Mesenchymal Stem Cells",
+                              "Allogeneic Mesenchymal Stem Cells",
+                              "Allogeneic Mesenchymal Stem Cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01591200"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "InterventionArmGroupLabel": [
+                              "hUC-MSC treatment"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "A single dose of 2\u00d7107 hUC-MSC will be implanted to patients by intravenous infusion or Hepatic artery intervention, and repeated every week for four times."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Human umbilical cord mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "hUC-MSC"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02652351"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "InterventionArmGroupLabel": [
+                              "Group B (BMSC Transplantion)",
+                              "Group A(conserved therapy )"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "All",
+                              "Hemat"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "All Drugs and Chemicals",
+                              "Hematinics"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3466",
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Antiviral Agents",
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "10 ml autologous BMSCs(7~8log10 cells/ml) were infused to patients using interventional method via portal vein as well as conserved therapy for group B.",
+                              "Oral or intravenous administration"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous BMSCs transplantation",
+                              "Conserved therapy"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00993941"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "InterventionArmGroupLabel": [
+                              "allogenic mesenchymal stem cells (MSCs)",
+                              "ursodeoxycholic acid (UDCA)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Gast",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Gastrointestinal Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Ester"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M16481",
+                              "M8033"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Ursodeoxycholic Acid",
+                              "Gastrointestinal Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Mesenchymal stem cells,5-50 million/kg, Intravenous infusion, One dosage\uff0cwhether to give another dosage depending on patients' condition",
+                              "13-15 mg/kg/day, to the end of the study"
+                        ],
+                        "InterventionMeshId": [
+                              "D000014580"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Ursodeoxycholic Acid"
+                        ],
+                        "InterventionName": [
+                              "Biological: mesenchymal stem cell",
+                              "ursodeoxycholic acid"
+                        ],
+                        "InterventionOtherName": [
+                              "regenerative medicine:MSCs",
+                              "UDCA"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01440309"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "InterventionArmGroupLabel": [
+                              "UC-MSC transplantation",
+                              "conventional"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "All",
+                              "Hemat"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "All Drugs and Chemicals",
+                              "Hematinics"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3466",
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Antiviral Agents",
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "After enrolled, Participant will receive umbilical cord MSC transplantation of 1*10E6 cells/kg via hepatic artery. Participant will then be followed until 1 years study visit",
+                              "Participants will receive conventional treatment and antiviral treatment."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "UC-MSC transplantation",
+                              "conventional treatment"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01728727"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "InterventionArmGroupLabel": [
+                              "Interventional Therapy",
+                              "Conserved Therapy"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Patients with liver cirrhosis were randomly separated into two groups. Autologous MSCs were infused to patients using interventional method via hepatic artery for One group. The catheter was inserted to proper hepatic artery. After the catheter placed at proper hepatic artery was confirmed by angiography, autologous bone marrow MSCs were infused slowly for 20-30 minutes. The control group accepted conserved therapy.",
+                              "Conserved Therapy"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Hepatic artery infusion",
+                              "Conserved Therapy"
+                        ],
+                        "InterventionOtherName": [
+                              "interventional therapy",
+                              "interventional",
+                              "hepatic infusion"
+                        ],
+                        "InterventionType": [
+                              "Procedure",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00976287"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "InterventionArmGroupLabel": [
+                              "A",
+                              "B"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Arm A: 300 million cells will be infused one time through a peripheral vein/// Arm B: Infusion of placebo one time through a peripheral vein"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous mesenchymal stem cell transplantation"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00476060"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "injection of progenitor of hepatocyte drived from Mesenchymal stem cell"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00420134"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "InterventionArmGroupLabel": [
+                              "Treatment Arm"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "A total of 100-200ml will be harvested from the subject, in either a single or multiple punctures. This will be processed for autologous MSC infusion."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous BM MSC"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05080465"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "InterventionArmGroupLabel": [
+                              "Mesenchymal stem cell transplantation"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Bone marrow aspiration by clinical pathologist. Isolation, propagation and differentiation of stem cells will be done in stem cell center. After confirmation of the trans-differentiation into hepatocytes at the laboratory level, it will be infused into the portal vein under ultrasound guidance."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal stem cell transplantation"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02943889"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "InterventionArmGroupLabel": [
+                              "Intervention",
+                              "No intervention"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "All",
+                              "Hemat",
+                              "ANeo",
+                              "Gast"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "All Drugs and Chemicals",
+                              "Hematinics",
+                              "Antineoplastic Agents",
+                              "Gastrointestinal Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Inhibitor",
+                              "Ester"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M3466",
+                              "M10262",
+                              "M9559",
+                              "M16481",
+                              "M3366",
+                              "M8033"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Antiviral Agents",
+                              "Liver Extracts",
+                              "Interferons",
+                              "Ursodeoxycholic Acid",
+                              "Anti-Infective Agents",
+                              "Gastrointestinal Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "patients will receive conventional treatment,such as antiviral drugs, lowering aminotransferase and jaundice medicine.\n\nMenSCs transplantation: taken i.v., twice per week, at a dose of 1*10E6 MSC/kg body for 2 weeks.",
+                              "25 of the enrolled patients were assigned to receive comprehensive treatment including antiviral drugs, lowering aminotransferase and jaundice medicine."
+                        ],
+                        "InterventionMeshId": [
+                              "D000007372",
+                              "D000014580"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Interferons",
+                              "Ursodeoxycholic Acid"
+                        ],
+                        "InterventionName": [
+                              "conventional therapy plus MenSC transplantation",
+                              "Conventional therapy plus placebo treatment"
+                        ],
+                        "InterventionOtherName": [
+                              "Interferon",
+                              "Bifendatatum",
+                              "Ursodeoxycholic Acid",
+                              "Menstrual blood-derived stem cells(MenSCs)",
+                              "Interferon",
+                              "Bifendatatum",
+                              "Ursodeoxycholic Acid"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01483248"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "InterventionArmGroupLabel": [
+                              "autologous bone marrow mesenchymal stem cells transplantation",
+                              "mesenchymal stem cells transplantation",
+                              "stem cells transplantation",
+                              "autologous bone marrow mesenchymal stem cells transplantation",
+                              "mesenchymal stem cells transplantation",
+                              "stem cells transplantation"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Autologous MSCs were infused to patients using interventional method via hepatic artery . The catheter was inserted to proper hepatic artery. After the catheter placed at proper hepatic artery was confirmed by angiography, autologous bone marrow MSCs were infused slowly for 20-30 minutes."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "autologous bone marrow mesenchymal stem cells transplantation",
+                              "autologous bone marrow msenchymal stem cells transplantation"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01854125"
+                        ]
+                  },
+                  {
+                        "Rank": 28,
+                        "InterventionArmGroupLabel": [
+                              "Treatment Arm"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "A total of 100-200ml will be harvested from the subject, in either a single or multiple punctures. This will be processed for autologous MSC infusion."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous BM MSC"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03626090"
+                        ]
+                  },
+                  {
+                        "Rank": 29,
+                        "InterventionArmGroupLabel": [
+                              "Human Umbilical Cord-Mesenchymal Stem Cells (UC-MSCs)",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "3 does of UC-MSCs(6.0\u00d710E7cells per time) intravenously at week 0, week 4, week 8.",
+                              "3 does of placebo intravenously at week 0, week 4, week 8."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "UC-MSCs",
+                              "Saline containing 1% Human serum albumin\uff08solution without UC-MSCs\uff09"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05121870"
+                        ]
+                  },
+                  {
+                        "Rank": 30,
+                        "InterventionArmGroupLabel": [
+                              "Human Umbilical Cord-Mesenchymal Stem Cells (UC-MSCs)",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "3 doses of UC-MSCs intravenously at week 0, week 4, week 8.",
+                              "3 doses of placebo intravenously at week 0, week 4, week 8."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "UC-MSCs",
+                              "Placebo(solution without UC-MSCs)"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05224960"
+                        ]
+                  },
+                  {
+                        "Rank": 31,
+                        "InterventionArmGroupLabel": [
+                              "Mesenchymal stem cell"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Phase1 The dose of AD-MSCs are escalated from low to mid and high step by step. Each administration is one time via intravenous infusion for one hour.\n\nPhase2 The recommended dose of ADR-001 is administrated once a week 4 times. The administration route and time is same method with Phase 1."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal stem cell"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03254758"
+                        ]
+                  },
+                  {
+                        "Rank": 32,
+                        "InterventionArmGroupLabel": [
+                              "Treatment Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "6*10^7 cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Peripheral iv"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03826433"
+                        ]
+                  },
+                  {
+                        "Rank": 33,
+                        "InterventionArmGroupLabel": [
+                              "1-time injection group: Livercellgram",
+                              "2-time injection group: Livercellgram"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "CNSSti",
+                              "All",
+                              "Hemat",
+                              "Ot"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Central Nervous System Stimulants",
+                              "All Drugs and Chemicals",
+                              "Hematinics",
+                              "Other Dietary Supplements"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M4525",
+                              "M10262",
+                              "T370"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Caffeine",
+                              "Liver Extracts",
+                              "Caffeine"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Livercellgram\n\nDosage form and appearance: White cell suspension is filled in a clear plastic syringe, and fixed with an occlude on the prefilled syringe tip \u2461 Component: Autologous bone marrow-derived mesenchymal stem cell \u2462 Amount: 5X107 cells, 1-time or 2-time injection \u2463 Storage Method: Stored in airtight container at 20~25\u2103\n\nInjection Method: Directly inject into liver through hepatic artery"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Livercellgram"
+                        ],
+                        "InterventionOtherName": [
+                              "Autologous bone marrow-derived mesenchymal stem cell"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01875081"
+                        ]
+                  },
+                  {
+                        "Rank": 34,
+                        "InterventionArmGroupLabel": [
+                              "Combination MSC and HSC",
+                              "Standard of care for Cirrhosis management"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All",
+                              "Gast"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals",
+                              "Gastrointestinal Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M6563",
+                              "M9962"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Diuretics",
+                              "Lactulose"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Combination of stem cells",
+                              "Drugs used for Cirrhosis management such as Diuretics, Hepatoprotective agents and Lactulose"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "CD 34 and MSC infusion",
+                              "Standard of care for Cirrhosis management"
+                        ],
+                        "InterventionOtherName": [
+                              "Stem cell infusion"
+                        ],
+                        "InterventionType": [
+                              "Combination Product",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04243681"
+                        ]
+                  },
+                  {
+                        "Rank": 35,
+                        "InterventionArmGroupLabel": [
+                              "UC-MSC infusion"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "UC-MSC infusion by introvenus"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "UC-MSC infusion"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05106972"
+                        ]
+                  },
+                  {
+                        "Rank": 36,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "1.000.000(one million) cells/kg, IV (1/2 of dose in the Peripheral vein and 1/2 of dose into the right hepatic artery)"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "allogeneic mesenchymal stem cell transplantation"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Genetic"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01378182"
+                        ]
+                  },
+                  {
+                        "Rank": 37,
+                        "InterventionArmGroupLabel": [
+                              "Experimental",
+                              "Comparator"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All",
+                              "Infe"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013",
+                              "M3466"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions",
+                              "Antiviral Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Usage: The stem cell preparation in this study is used intravenously in the elbow.\n\nDose: The dose of stem cell injection in this clinical study is set at 1\u00d710^6/Kg/time per injection Duration: 5 injections per trial group for the entire duration of the course, at 1st treatment, 2-week, 4-week, 16-week, and 24-week respectively",
+                              "Usage: The saline solution in this study is used intravenously in the elbow. Dose: The dose of saline solution in this clinical study is set at 250ml/time per injection Duration: 5 injections per person for the entire duration of the course, at 1st treatment, 2-week, 4-week, 16-week, and 24-week respectively"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "UC-MSCs",
+                              "Saline solution"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05507762"
+                        ]
+                  },
+                  {
+                        "Rank": 38,
+                        "InterventionArmGroupLabel": [
+                              "conventional plus MSC treatment",
+                              "conventional plus placebo treatment"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "received conventional treatment and taken i.v., once per 4 week, at a dose of 0.5*10E6 MSC/kg body for 8 weeks.",
+                              "received conventional treatment and taken i.v., once per 4 week, at 50 ml saline for 8 weeks."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "conventional plus MSC treatment",
+                              "conventional plus placebo treatment"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT01220492"
+                        ]
+                  },
+                  {
+                        "Rank": 39,
+                        "InterventionArmGroupLabel": [
+                              "MSC group",
+                              "control"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "0.1-1x10E6 MSCs/kg body weight will be administered via peripheral vein for 3 times at week 0, 4 and 8 mesenchymal stem cell mesenchymal stem cell infusion produced by Cell products of National Engineering Research Center(short for CPNERC), Tianjin, China For control group, placebo infusions will be given to the participants at the same time points"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "mesenchymal stem cell transplantation or placebo infusion via peripheral vein"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03668145"
+                        ]
+                  },
+                  {
+                        "Rank": 40,
+                        "InterventionArmGroupLabel": [
+                              "Injection group: Cellgram-LC"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Patients will receive single injection of Cellgram-LC(mesenchymal stem cell) hepatic artery."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Cellgram-LC"
+                        ],
+                        "InterventionOtherName": [
+                              "Autologous bone marrow-derived mesenchymal stem cell"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04689152"
+                        ]
+                  },
+                  {
+                        "Rank": 41,
+                        "InterventionArmGroupLabel": [
+                              "Conventional plus MSC and Tregs treatment"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "conventional plus MSC and Tregs or placebo treatment"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "MSC and Tregs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03460795"
+                        ]
+                  },
+                  {
+                        "Rank": 42,
+                        "InterventionArmGroupLabel": [
+                              "Low dose umbilical cord mesenchymal stem cells (UCMSCs)",
+                              "Medium dose UCMSCs",
+                              "High dose UCMSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Patients will receive the conventional therapy plus low dose UCMSCs treatment (0.5\u00d710^6 UCMSCs/kg body)",
+                              "Patients will receive conventional therapy plus medium dose UCMSCs treatment (1\u00d710^6 UCMSCs/kg body)",
+                              "Patients will receive conventional therapy plus high dose UCMSCs treatment (2\u00d710^6 UCMSCs/kg body)"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Conventional therapy plus low dose UCMSCs treatment",
+                              "Conventional therapy plus medium dose UCMSCs treatment",
+                              "Conventional therapy plus high dose UCMSCs treatment"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05155657"
+                        ]
+                  },
+                  {
+                        "Rank": 43,
+                        "InterventionArmGroupLabel": [
+                              "Conventional therapy",
+                              "Injectable Collagen Scaffold + HUC-MSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Patients will receive the conventional therapy.",
+                              "Injectable collagen scaffold combined with HUC-MSCs was injected into left lateral segment, left medial segment, right anterior segment, right posterior segment and caudate lobe under B-mode ultrasound supervision, respectively. The total amount of HUC-MSCs was 5*10^8."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Conventional therapy",
+                              "Injectable Collagen Scaffold + HUC-MSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02786017"
+                        ]
+                  },
+                  {
+                        "Rank": 44,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "As this is a follow-up and an observation study, ADR-001 was administered in the previous study, not in this study."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal Stem Cell"
+                        ],
+                        "InterventionOtherName": [
+                              "ADR-001"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03472742"
+                        ]
+                  },
+                  {
+                        "Rank": 45,
+                        "InterventionArmGroupLabel": [
+                              "Conventional plus UC-MSC treatment",
+                              "Conventional plus placebo treatment"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M4101"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Bilirubin"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Received conventional treatment and taken i.v., once per 4 week, at a dose of 1*10E6 UC-MSC/kg body weight for 12 weeks.",
+                              "Received conventional treatment and taken i.v., once per 4 week, at 50 ml saline for 12 weeks"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "conventional plus UC-MSC treatment",
+                              "Conventional plus placebo treatment"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01662973"
+                        ]
+                  },
+                  {
+                        "Rank": 46,
+                        "InterventionArmGroupLabel": [
+                              "Cirrhotic Patients"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All",
+                              "Hypo"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals",
+                              "Hypoglycemic Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262",
+                              "M1693"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts",
+                              "Pioglitazone"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "MSCs introduced into portal vein"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Cell injection"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01454336"
+                        ]
+                  },
+                  {
+                        "Rank": 47,
+                        "InterventionArmGroupLabel": [
+                              "Cellgram\u2122 (Bone marrow-derived MSCs)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "CNSDep",
+                              "All",
+                              "Hemat"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Central Nervous System Depressants",
+                              "All Drugs and Chemicals",
+                              "Hematinics"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3259",
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anesthetics",
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Approximately 15 to 30 mL of bone marrow is aspirated from the posterior iliac crest of patients under local anesthesia. Approximately 30 days (\u00b17 days) after BM aspiration, the participant will return to the study center for admission and for the infusion Cellgram\u2122 (Bone marrow-derived MSCs)."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Cellgram\u2122 (Bone marrow-derived MSCs)"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03838250"
+                        ]
+                  },
+                  {
+                        "Rank": 48,
+                        "InterventionArmGroupLabel": [
+                              "adipose tissue derived stromal cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "dosage"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "adipose tissue derived stromal cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00913289"
+                        ]
+                  },
+                  {
+                        "Rank": 49,
+                        "InterventionArmGroupLabel": [
+                              "adipose tissue derived stromal cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "single administration of autologous adipose tissue derived stroma cells via intrahepatic arterial catheterization"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "adipose tissue derived stromal cells dosage"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01062750"
+                        ]
+                  },
+                  {
+                        "Rank": 50,
+                        "InterventionArmGroupLabel": [
+                              "Conventional plus MSC treatment"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "conventional plus MSC or placebo treatment"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "MSC"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03460223"
+                        ]
+                  },
+                  {
+                        "Rank": 51,
+                        "InterventionArmGroupLabel": [
+                              "High-dose group",
+                              "Low-dose group",
+                              "medium-dose group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Human umbilical cord mesenchymal stem cell preparation, 100ml/ bag, containing 2.5\u00d7107 cells, 5.0\u00d7107 cells, 1.0 x 108 cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "hUCMSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05442437"
+                        ]
+                  },
+                  {
+                        "Rank": 52,
+                        "InterventionArmGroupLabel": [
+                              "Autologous BMSCs",
+                              "Autologous BMSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Cultured autologous bone marrow-derived mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous BMSCs",
+                              "bone marrow-derived mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "BMSC"
+                        ],
+                        "InterventionType": [
+                              "Procedure",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02327832"
+                        ]
+                  },
+                  {
+                        "Rank": 53,
+                        "InterventionArmGroupLabel": [
+                              "Group B (BMSC Transplantion)",
+                              "Group A(conserved therapy )"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "All",
+                              "Hemat"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "All Drugs and Chemicals",
+                              "Hematinics"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3466",
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Antiviral Agents",
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "30ml allogenic bone marrow stem cells were infused to patients using interventional method via portal vein or hepatic artery as well as conserved therapy",
+                              "Oral or intravenous administration"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogenic bone marrow stem cells transplantation",
+                              "Conserved therapy"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01223664"
+                        ]
+                  },
+                  {
+                        "Rank": 54,
+                        "InterventionArmGroupLabel": [
+                              "A"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "600 million to 1 billion cells will be infused through the portal vein over 30 minutes. Infusion will be done one time."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Cellular transplantation"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00515307"
+                        ]
+                  },
+                  {
+                        "Rank": 55,
+                        "InterventionArmGroupLabel": [
+                              "MSC Kidney Transplantation",
+                              "MSC Liver Transplantation"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "ANeo",
+                              "All",
+                              "Hemat"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Antineoplastic Agents",
+                              "All Drugs and Chemicals",
+                              "Hematinics"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M11280",
+                              "M9336",
+                              "M3377",
+                              "M3374",
+                              "M10262",
+                              "M18102",
+                              "M9364"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Mycophenolic Acid",
+                              "Immunoglobulins",
+                              "Antibodies",
+                              "Anti-Bacterial Agents",
+                              "Liver Extracts",
+                              "Tacrolimus",
+                              "Immunosuppressive Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Third party MSC 1,5-3,010E6/kg. No HLA matching between MSC donor and the recipient or the liver/kidney donor. One infusion at day 3+/-2."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal Stem Cells"
+                        ],
+                        "InterventionOtherName": [
+                              "MSC"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01429038"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,124 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Alofisel",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "PrimaryOutcomeTimeFrame",
+                  "ReferenceCitation",
+                  "ReferencePMID",
+                  "ReferenceType",
+                  "RemovedCountry",
+                  "ResponsiblePartyInvestigatorAffiliation",
+                  "ResponsiblePartyInvestigatorFullName",
+                  "ResponsiblePartyInvestigatorTitle",
+                  "ResponsiblePartyOldNameTitle",
+                  "ResponsiblePartyOldOrganization",
+                  "ResponsiblePartyType",
+                  "ResultsFirstPostDate",
+                  "ResultsFirstPostDateType",
+                  "ResultsFirstPostedQCCommentsDate",
+                  "ResultsFirstPostedQCCommentsDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "PrimaryOutcomeTimeFrame": [
+                              "1 year"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "Medical University of Vienna"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Dr. Christopher Dawoud"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Dr. med. univ."
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT05322057"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "PrimaryOutcomeTimeFrame": [
+                              "Month 12"
+                        ],
+                        "ReferenceCitation": [
+                              "Alam A, Lin F, Fathallah N, Pommaret E, Aubert M, Lemarchand N, Abbes L, Spindler L, Portal A, de Parades V. FiLaC(\u00ae) and Crohn's disease perianal fistulas: a pilot study of 20 consecutive patients. Tech Coloproctol. 2020 Jan;24(1):75-78. doi: 10.1007/s10151-019-02134-3. Epub 2019 Dec 31.",
+                              "Ciccocioppo R, Klersy C, Leffler DA, Rogers R, Bennett D, Corazza GR. Systematic review with meta-analysis: Safety and efficacy of local injections of mesenchymal stem cells in perianal fistulas. JGH Open. 2019 Feb 13;3(3):249-260. doi: 10.1002/jgh3.12141. eCollection 2019 Jun. Review.",
+                              "Garc\u00eda-Olmo D, Garc\u00eda-Arranz M, Garc\u00eda LG, Cuellar ES, Blanco IF, Prianes LA, Montes JA, Pinto FL, Marcos DH, Garc\u00eda-Sancho L. Autologous stem cell transplantation for treatment of rectovaginal fistula in perianal Crohn's disease: a new cell-based therapy. Int J Colorectal Dis. 2003 Sep;18(5):451-4. Epub 2003 May 20.",
+                              "Mahadev S, Young JM, Selby W, Solomon MJ. Quality of life in perianal Crohn's disease: what do patients consider important? Dis Colon Rectum. 2011 May;54(5):579-85. doi: 10.1007/DCR.0b013e3182099d9e.",
+                              "Pan\u00e9s J, Garc\u00eda-Olmo D, Van Assche G, Colombel JF, Reinisch W, Baumgart DC, Dignass A, Nachury M, Ferrante M, Kazemi-Shirazi L, Grimaud JC, de la Portilla F, Goldin E, Richard MP, Diez MC, Tagarro I, Leselbaum A, Danese S; ADMIRE CD Study Group Collaborators. Long-term Efficacy and Safety of Stem Cell Therapy (Cx601) for Complex Perianal Fistulas in Patients With Crohn's Disease. Gastroenterology. 2018 Apr;154(5):1334-1342.e4. doi: 10.1053/j.gastro.2017.12.020. Epub 2017 Dec 24.",
+                              "Brochard C, Rabilloud ML, Hamonic S, Bajeux E, Pagenault M, Dabadie A, Gerfaud A, Viel JF, Tron I, Robaszkiewicz M, Bretagne JF, Siproudhis L, Bouguen G; Groupe ABERMAD. Natural History of Perianal Crohn's Disease: Long-term Follow-up of a Population-Based Cohort. Clin Gastroenterol Hepatol. 2022 Feb;20(2):e102-e110. doi: 10.1016/j.cgh.2020.12.024. Epub 2020 Dec 24.",
+                              "Ford AC, Sandborn WJ, Khan KJ, Hanauer SB, Talley NJ, Moayyedi P. Efficacy of biological therapies in inflammatory bowel disease: systematic review and meta-analysis. Am J Gastroenterol. 2011 Apr;106(4):644-59, quiz 660. doi: 10.1038/ajg.2011.73. Epub 2011 Mar 15. Review.",
+                              "Stellingwerf ME, van Praag EM, Tozer PJ, Bemelman WA, Buskens CJ. Systematic review and meta-analysis of endorectal advancement flap and ligation of the intersphincteric fistula tract for cryptoglandular and Crohn's high perianal fistulas. BJS Open. 2019 Jan 21;3(3):231-241. doi: 10.1002/bjs5.50129. eCollection 2019 Jun. Erratum in: BJS Open. 2020 Feb;4(1):166-167.",
+                              "Grimaud JC, Munoz-Bongrand N, Siproudhis L, Abramowitz L, S\u00e9n\u00e9joux A, Vitton V, Gambiez L, Flouri\u00e9 B, H\u00e9buterne X, Louis E, Coffin B, De Parades V, Savoye G, Soul\u00e9 JC, Bouhnik Y, Colombel JF, Contou JF, Fran\u00e7ois Y, Mary JY, L\u00e9mann M; Groupe d'Etude Th\u00e9rapeutique des Affections Inflammatoires du Tube Digestif. Fibrin glue is effective healing perianal fistulas in patients with Crohn's disease. Gastroenterology. 2010 Jun;138(7):2275-81, 2281.e1. doi: 10.1053/j.gastro.2010.02.013. Epub 2010 Feb 20.",
+                              "Sen\u00e9joux A, Siproudhis L, Abramowitz L, Munoz-Bongrand N, Desseaux K, Bouguen G, Bourreille A, Dewit O, Stefanescu C, Vernier G, Louis E, Grimaud JC, Godart B, Savoye G, Hebuterne X, Bauer P, Nachury M, Laharie D, Chevret S, Bouhnik Y; Groupe d'Etude Th\u00e9rapeutique des Affections Inflammatoires du tube Digestif [GETAID]. Fistula Plug in Fistulising Ano-Perineal Crohn's Disease: a Randomised Controlled Trial. J Crohns Colitis. 2016 Feb;10(2):141-8. doi: 10.1093/ecco-jcc/jjv162. Epub 2015 Sep 8.",
+                              "van Praag EM, Stellingwerf ME, van der Bilt JDW, Bemelman WA, Gecse KB, Buskens CJ. Ligation of the Intersphincteric Fistula Tract and Endorectal Advancement Flap for High Perianal Fistulas in Crohn's Disease: A Retrospective Cohort Study. J Crohns Colitis. 2020 Jul 9;14(6):757-763. doi: 10.1093/ecco-jcc/jjz181."
+                        ],
+                        "ReferencePMID": [
+                              "31893324",
+                              "31276044",
+                              "12756590",
+                              "21471759",
+                              "29277560",
+                              "33359730",
+                              "21407183",
+                              "31183438",
+                              "20178792",
+                              "26351393",
+                              "31696918"
+                        ],
+                        "ReferenceType": [
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT05177003"
+                        ]
+                  }
+            ]
+      }
+}

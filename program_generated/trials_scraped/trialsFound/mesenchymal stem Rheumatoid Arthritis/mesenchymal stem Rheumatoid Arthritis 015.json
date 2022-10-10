@@ -1,0 +1,636 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Rheumatoid Arthritis",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 18,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 18,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Autologous mesenchymal stem cells"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Autologous mesenchymal stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Refractory rheumatoid arthritis patients"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03333681"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [
+                              "RA"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Patients in UC-MSCs treatment will be infused umbilical cord-derived mesenchymal stem cells intravenously only.",
+                              "Patients will be treated by Rheumatoid Arthritis With Disease-Modifying Drugs (DMARDs).",
+                              "Patients will be treated in combination with UC-MSC and DMARDS."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Umbilical Cord-Derived Mesenchymal Stem Cells (UC-MSCs)",
+                              "Drug: Rheumatoid Arthritis With Disease-Modifying Drugs (DMARDs)",
+                              "Biological: UC-MSC+DMARDS"
+                        ],
+                        "ArmGroupLabel": [
+                              "UC-MSCs Treatment",
+                              "DMARDS",
+                              "UC-MSC+DMARDS"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01547091"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Patients will be treated in combination with hUC-MSC and DMARDs with a 12 months follow-up.",
+                              "Patients will be treated by Rheumatoid Arthritis With Disease-Modifying Drugs (DMARDs) with a 12 months follow-up."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: hUC-MSC + DMARDs",
+                              "Drug: DMARDs"
+                        ],
+                        "ArmGroupLabel": [
+                              "hUC-MSC + DMARDs",
+                              "DMARDs"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02643823"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Normal salin injection in patients with rheumatoid arthritis for resurfacing of articular cartilage of knee due to osteoarthritis.",
+                              "Mesenchymal stem cell transplantation in patients with rheumatoid arthritis for resurfacing of articular cartilage of knee due to osteoarthritis."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: placebo",
+                              "Biological: mesenchymal cell transplantation"
+                        ],
+                        "ArmGroupLabel": [
+                              "placebo",
+                              "mesencymal stem cell"
+                        ],
+                        "ArmGroupType": [
+                              "Placebo Comparator",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01873625"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [
+                              "Biological: Umbilical cord mesenchymal stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Umbilical cord mesenchymal stem cells"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01985464"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Cohort 1: Low-dose BC-U001 Cohort 2: Medium-dose BC-U001 Cohort 3: High-dose BC-U001"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: hUC-MSC infusion (BC-U001)"
+                        ],
+                        "ArmGroupLabel": [
+                              "hUC-MSC infusion (BC-U001)"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04971980"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "the participants will receive the single-dose UC-MSCs (1\u00d710^6 cells/kg ) in combined with the present treatment.",
+                              "the participants will receive the placebo in combined with the present treatment."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: UC-MSCs"
+                        ],
+                        "ArmGroupLabel": [
+                              "UC-MSCs treatment",
+                              "no UC-MSCs treatment"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03798028"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "Acronym": [
+                              "HB-adMSCs"
+                        ],
+                        "AgreementOtherDetails": [
+                              "In the protocol signature page, the investigator agreed to the following: \"I further agree to treat the results of this Study as confidential information and will not submit the results of the Study for publication without prior written authorization from Hope Biosciences. \""
+                        ],
+                        "AgreementPISponsorEmployee": [
+                              "No"
+                        ],
+                        "AgreementRestrictionType": [
+                              "OTHER"
+                        ],
+                        "AgreementRestrictiveAgreement": [
+                              "Yes"
+                        ],
+                        "ArmGroupDescription": [
+                              "Single IV administration of autologous adipose-derived mesenchymal stem cells Baseline laboratory data will be collected prior to infusion; follow up data will be compared against baseline at 1, 3, 6 and 12 months. Joint Assessment 68 will be administered at 1, 3, 6 and 12 months."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: HB-adMSCs"
+                        ],
+                        "ArmGroupLabel": [
+                              "Treatment Arm"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [
+                              "Female",
+                              "Male",
+                              "Hispanic or Latino",
+                              "Not Hispanic or Latino",
+                              "Unknown or Not Reported",
+                              "American Indian or Alaska Native",
+                              "Asian",
+                              "Native Hawaiian or Other Pacific Islander",
+                              "Black or African American",
+                              "White",
+                              "More than one race",
+                              "Unknown or Not Reported"
+                        ],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03691909"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Single intravenous infusion of 100 million cells"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: AlloRx"
+                        ],
+                        "ArmGroupLabel": [
+                              "Treatment Group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05003934"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "BX-U001 (hUC-MSC suspension) will be tested at dose of 0.75 or 1.5\u00d710^6 cells/kg of body weight via a single IV infusion using a blood transfusion kit.",
+                              "The control arm will be given placebo which contains the same cell suspension solution but without cells. Placebo will be given the same way as BX-U001 via a single IV infusion using a blood transfusion kit."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: hUC-MSC suspension",
+                              "Biological: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "hUC-MSC treatment",
+                              "Placebo control"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03828344"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "2 million human MSC (hMSC)/kg infusion versus placebo infusion",
+                              "4 million hMSC/kg infusion versus placebo infusion",
+                              "6 million hMSC/kg infusion versus placebo infusion"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: 2 million hMSC/kg",
+                              "Biological: placebo",
+                              "Biological: 4 million hMSC/kg",
+                              "Biological: placebo",
+                              "Biological: 6 million hMSC/kg",
+                              "Biological: placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "Cohort 1",
+                              "Cohort 2",
+                              "Cohort 3"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03186417"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "9 subjects receive dose escalation of autologous AdMSCs via Intravenous infusion in Phase 1",
+                              "30 subjects receive three doses of 2.0-2.86\u00d710^6 cells/kg on day 1, 4 and 7 via Intravenous infusion in Phase 2a",
+                              "15 subjects receive three doses of placebo on day 1, 4 and 7 via Intravenous infusion in Phase 2a"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: autologous adipose derived stem cells",
+                              "Biological: autologous adipose derived stem cells",
+                              "Biological: autologous adipose derived stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Phase 1 ARM 0",
+                              "Phase 2 ARM 1",
+                              "Phase 2 ARM 2"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04170426"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Autologous bone marrow-derived stem cell transplantation."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Stem Cell Transplantation"
+                        ],
+                        "ArmGroupLabel": [
+                              "Stem Cells"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03067870"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [
+                              "Biological: FURESTEM-RA Inj",
+                              "Other: sterile saline"
+                        ],
+                        "ArmGroupLabel": [
+                              "FURESTEM-RA Inj.",
+                              "Placebo Comparator: Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03618784"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Participants will receive conventional treatment plus a dose of UC-MSC from day 0 through the week 12 study visit.\n\nParticipants will then be followed until the week 48 study visit.",
+                              "Participants will receive conventional plus placebo treatment from day 0 through the week 12 study visit. Participants will then be followed until the week 48 study visit."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: conventional plus UC-MSC treatment",
+                              "Other: Conventional plus placebo treatment"
+                        ],
+                        "ArmGroupLabel": [
+                              "Conventional plus UC-MSC treatment",
+                              "Conventional plus placebo treatment"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01662973"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Participants will receive conventional treatment plus a dose of UC-MSC from day 0 through the week 12 study visit.\n\nParticipants will then be followed until the week 96 study visit.",
+                              "Participants will receive conventional plus placebo treatment from day 0 through the week 12 study visit. Participants will then be followed until the week 96 study visit."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: conventional plus UC-MSC treatment",
+                              "Other: Conventional plus placebo treatment"
+                        ],
+                        "ArmGroupLabel": [
+                              "Conventional plus UC-MSC treatment",
+                              "Conventional plus placebo treatment"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01661842"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "first cohort: 1 million stem cells/kg administered at days 1, 8 and 15\nsecond cohort: 2 million stem cells / kg administered at days 1, 8 and 15\nthird cohort: 4 million stem cells / kg administered at days 1, 8 and 15",
+                              "Lactate Ringer\u00b4s solution"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Genetic: Stem cells",
+                              "Genetic: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "Treatment",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01663116"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "AlloStem is the combination of the Mesenchymal Stem Cells (MSC) derived from adipose with demineralized bone.",
+                              "Autologous bone graft is recovered from the patient's own tibia or iliac crest, for transplantation in the subtalar joint."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Procedure: Subtalar Arthrodesis",
+                              "Procedure: Subtalar Arthrodesis"
+                        ],
+                        "ArmGroupLabel": [
+                              "AlloStem Live Cellular Allograft",
+                              "Control: Autologous Bone Marrow Aspirate"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01413061"
+                        ]
+                  }
+            ]
+      }
+}

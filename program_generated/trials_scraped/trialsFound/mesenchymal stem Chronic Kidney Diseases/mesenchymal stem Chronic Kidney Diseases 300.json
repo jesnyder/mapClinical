@@ -1,0 +1,840 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Chronic Kidney Diseases",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 22,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 22,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [
+                              "Mayo Clinic Clinical Trials"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.mayo.edu/research/clinical-trials"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05362786"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [
+                              "Mayo Clinic Clinical Trials"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.mayo.edu/research/clinical-trials"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04869761"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Changes in eGFR after 1, 3, 6, 9, and 12 months of administration of the investigational product compared to the baseline",
+                              "Changes in BUN after 1, 3, 6, 9, and 12 months of administration of the investigational product compared to the baseline",
+                              "Changes in Creatinine after 1, 3, 6, 9, and 12 months of administration of the investigational product compared to the baseline"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Changes in eGFR",
+                              "Changes in BUN",
+                              "Changes in Creatinine"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1, 3, 6, 9, and 12 months of administration of the investigational product",
+                              "1, 3, 6, 9, and 12 months of administration of the investigational product",
+                              "1, 3, 6, 9, and 12 months of administration of the investigational product"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05042206"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change of humoral immunity after stem cell treatment",
+                              "Change of humoral immunity after stem cell treatment",
+                              "Change of humoral immunity after stem cell treatment",
+                              "Change of humoral immunity after stem cell treatment",
+                              "Change of humoral immunity after stem cell treatment",
+                              "Changes in inflammatory and immunological serologic indicators after stem cell treatment",
+                              "Changes in inflammatory and immunological serologic indicators after stem cell treatment",
+                              "Changes in inflammatory and immunological serologic indicators after stem cell treatment",
+                              "To observe the change of urine test after stem cell treatment",
+                              "To observe the change of urine test after stem cell treatment",
+                              "To observe the change of urine test after stem cell treatment",
+                              "To observe the change of urine test after stem cell treatment",
+                              "The change of electrolytes was detected after treatment",
+                              "The change of hemoglobin was detected after treatment",
+                              "The change of albumin was detected after treatment",
+                              "To assess the incidence of complications in other organ systems, such as cardiovascular, skeletal, and hematopoietic systems",
+                              "To assess the incidence of complications in other organ systems, such as cardiovascular, skeletal, and hematopoietic systems",
+                              "To assess the incidence of complications in other organ systems, such as cardiovascular, skeletal, and hematopoietic systems",
+                              "To assess the incidence of complications in other organ systems, such as cardiovascular, skeletal, and hematopoietic systems"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "IgA",
+                              "IgG",
+                              "IgM",
+                              "C3",
+                              "C4",
+                              "CRP",
+                              "IL-6",
+                              "Peripheral hemolymocyte subsets",
+                              "Urine protein",
+                              "Urine RBC",
+                              "24-hour urine protein",
+                              "Urine albumin/creatinine",
+                              "Electrolytes",
+                              "Hemoglobin",
+                              "Albumin",
+                              "Heart ultrasound",
+                              "Carotid ultrasound",
+                              "NT-proBNP",
+                              "iPTH+1,25-VitD3"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "2 weeks after the first treatment, 1 month, 3 months, 6 months and 9 months, 12 months, 18 months, 24 months after the second treatment",
+                              "2 weeks after the first treatment, 1 month, 3 months, 6 months and 9 months, 12 months, 18 months, 24 months after the second treatment",
+                              "2 weeks after the first treatment, 1 month, 3 months, 6 months and 9 months, 12 months, 18 months, 24 months after the second treatment",
+                              "2 weeks after the first treatment, 1 month, 3 months, 6 months and 9 months, 12 months, 18 months, 24 months after the second treatment",
+                              "2 weeks after the first treatment, 1 month, 3 months, 6 months and 9 months, 12 months, 18 months, 24 months after the second treatment",
+                              "2 weeks after the first treatment, 1 month, 3 months, 6 months and 9 months, 12 months, 18 months, 24 months after the second treatment",
+                              "2 weeks after the first treatment, 1 month, 3 months, 6 months and 9 months, 12 months, 18 months, 24 months after the second treatment",
+                              "2 weeks after the first treatment, 1 month, 3 months, 6 months and 9 months, 12 months, 18 months, 24 months after the second treatment",
+                              "2 weeks after the first treatment, 1 month, 3 months, 6 months and 9 months, 12 months, 18 months, 24 months after the second treatment",
+                              "2 weeks after the first treatment, 1 month, 3 months, 6 months and 9 months, 12 months, 18 months, 24 months after the second treatment",
+                              "2 weeks after the first treatment, 1 month, 3 months, 6 months and 9 months, 12 months, 18 months, 24 months after the second treatment",
+                              "2 weeks after the first treatment, 1 month, 3 months, 6 months and 9 months, 12 months, 18 months, 24 months after the second treatment",
+                              "2 weeks after the first treatment, 1 month, 3 months, 6 months and 9 months, 12 months, 18 months, 24 months after the second treatment",
+                              "2 weeks after the first treatment, 1 month, 3 months, 6 months and 9 months, 12 months, 18 months, 24 months after the second treatment",
+                              "2 weeks after the first treatment, 1 month, 3 months, 6 months and 9 months, 12 months, 18 months, 24 months after the second treatment",
+                              "Baseline, 3 months, 6 months and 9 months, 12 months,18 months, 24 months after the second treatment",
+                              "Baseline, 3 months, 6 months and 9 months, 12 months, 18 months, 24 months after the second treatment",
+                              "Baseline, 2nd treatment, 1 months, 3 months, 6 months and 9 months, 12 months, 18 months, 24 months after the second treatment",
+                              "Baseline, 2nd treatment, 1 months, 3 months, 6 months and 9 months, 12 months, 18 months, 24 months after the second treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05512988"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "emission computed tomography",
+                              "blood oxygen level dependent magnetic resonance imaging"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "glomerular filtration rate",
+                              "apparent relaxation rate"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "after 3 months of adipose tissue-derived mesenchymal stem cells treatment",
+                              "after 3 months of adipose tissue-derived mesenchymal stem cells treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03321942"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluation the acceleration of Glomerular Filtration Rate (GFR) in patients after mesenchymal stem cell transplantation."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Glomerular Filtration Rate (GFR)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Related Info"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://Royaninstitute.org"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02166489"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluation the increase of GFR 6 months after cell transplantation with scan isotope ."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "GFR"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Related Info"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://Royaninstitute.org"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02195323"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "It will be completed for each follow up point.",
+                              "It will be completed for each follow up point."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy: creatinine levels",
+                              "Efficacy: changes in eGFR"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Four year follow-up",
+                              "Four year follow-up"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05018845"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Assessment of senescence markers in mesenchymal stem cells at baseline and day 14.",
+                              "Assessment of functional studies in mesenchymal stem cells at baseline and day 14. Number of subjects with change in stem cell function related to treatment.",
+                              "Assessment by Fried and other frailty criteria at baseline and day 14.",
+                              "Assessment by estimated and measured glomerular filtration rate at baseline, day 14, month 4, and month 12."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in proportion of senescent mesenchymal stem cells present",
+                              "Change in mesenchymal stem cell function",
+                              "Change in Frailty index score",
+                              "Change in kidney function"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline, Day 14",
+                              "Baseline, Day 14",
+                              "Baseline, Day 14",
+                              "Baseline, Day 14, Month 4, Month 12"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Mayo Clinic Clinical Trials"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.mayo.edu/research/clinical-trials"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02848131"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "To examine the effect of study drug (compared to placebo) on markers of physical frailty (frailty phenotype).",
+                              "To examine the effect of study drug (compared to placebo) on kidney function.",
+                              "To examine the effect of study drug (compared to placebo) on kidney function protein excretion",
+                              "To assess the safety and tolerability of study drug taken over two days (compared to placebo)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Effect on measures of Frailty including Fried Criteria",
+                              "Kidney function including estimated glomerular filtration rate",
+                              "Kidney function including urine protein excretion rate",
+                              "Number of participants with treatment-related adverse events including hospitalization"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "4 months",
+                              "4 months",
+                              "4 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Mayo Clinic Clinical Trials"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.mayo.edu/research/clinical-trials"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03325322"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02966717"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Weight in Kg will be recorded for each patient during each follow up",
+                              "Blood pressure will be measured in each patient during each follow up",
+                              "S. Creatinine level will be measured during each follow up.\nIn case of patients having dialysis Pre and Post dialysis S. Creatinine levels will be measured at or near follow up dates.",
+                              "Blood Urea will be measured in all patients during each follow up.",
+                              "Hemoglobin level will be measured in gm/dl and percentage\nNeed for blood transfusion will be recorded\nNeed for erythropoietin will be recorded",
+                              "Urinary Microalbumin and creatinine will be measured in each patient during each follow up",
+                              "HbA1C will be measured in each patient during each follow up",
+                              "RBS will be measured in each patient during each follow up",
+                              "All anti hypertensive medicines with their doses will be recorded including any changes in each patient during each follow up",
+                              "All hypoglycemic agents including their doses with any changes will be recorded for all diabetic patients during each follow up",
+                              "Urinary total protein and Creatinine ratio will be done in each patient during each follow up",
+                              "Urinary Protein and creatinine will be measured in each patient during each follow up",
+                              "Serum Alpha Feto protein will be measured as a tumour marker for Hepato-cellular carcinoma and also Tumour of Testis and Ovary.",
+                              "Serum CEA level will be measured as a tumour marker for Colo-rectal Carcinoma and also for Cancer of Stomach, pancreas, breast, lungs, thyroid and ovary.",
+                              "Serum C.A 19.9 level will be measured as a tumour marker for Pancreatic Carcinoma",
+                              "Serum LDH level will be measured as tumour marker for Lymphoma",
+                              "Serum Beta 2 Microglobulin level will be measured as a prognostic tool, as CKD patients invariably has a raised serum level.",
+                              "Serum C.A 125 level will be measured as a tumour marker for Ovarian Cancer",
+                              "Serum PSA level will be measured as a tumour marker for Prostatic Cancer"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change from baseline to all post-treatment visits in body weight",
+                              "Change from baseline to all post-treatment visits in Blood-pressure",
+                              "Change from baseline to all post-treatment visits in S.creatinine",
+                              "Change from baseline to all post-treatment visits in blood urea.",
+                              "Change from baseline to all post-treatment visits in Hemoglobin level",
+                              "Change from baseline to all post-treatment visits in urine microalbumin-to-creatinine ratio (UMCR)",
+                              "Change from baseline to all post-treatment visits in hemoglobin A1c",
+                              "Change from baseline to all post-treatment visits in random blood sugar (RBS)",
+                              "Change from baseline to all post-treatment visits in Anti-Hypertensive medication if there is any.",
+                              "Change from baseline to all post-treatment visits in Hypoglycemic agent if there is any.",
+                              "Change from baseline to post-treatment visits in urine total protein-creatinine ratio (UPCR)",
+                              "Change from baseline to all post-treatment visits in urinary Protein-to-creatinine ratio PCR)",
+                              "Change from baseline to post-treatment level of serum Alpha Feto Protein",
+                              "Change from baseline to post-treatment level of serum CEA level",
+                              "Change from baseline to post-treatment level of serum CA 19.9 level",
+                              "Change from baseline to post-treatment level LDH level",
+                              "Change from baseline to post-treatment level of Beta 2 Microglobulin level",
+                              "Change from baseline to post-treatment level of serum CA 125 level (in case of female patients)",
+                              "Change from baseline to post-treatment level of PSA level (in case of male patients)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Weeks 0, 2, 4, 12, 24, 36, 48",
+                              "Weeks 0, 2, 4, 12, 24, 36, 48",
+                              "Weeks 0, 2, 4, 12, 24, 36, 48",
+                              "Weeks 0, 2, 4, 12, 24, 36, 48",
+                              "Weeks 0, 2, 4, 12, 24, 36, 48",
+                              "Weeks 0, 2, 4, 12, 24, 36, 48",
+                              "Weeks 0, 2, 4, 12, 24, 36, 48",
+                              "Weeks 0, 2, 4, 12, 24, 36, 48",
+                              "Weeks 0, 2, 4, 12, 24, 36, 48",
+                              "Weeks 0, 2, 4, 12, 24, 36, 48",
+                              "Weeks 0, 24, 48",
+                              "Weeks 0, 2, 4, 12, 24, 36, 48",
+                              "Weeks 0, 24, 48",
+                              "Weeks 0, 24, 48",
+                              "Weeks 0, 24, 48",
+                              "Weeks 0, 24, 48",
+                              "Weeks 0, 24,48",
+                              "Weeks 0, 24, 48",
+                              "Weeks 0, 24,48"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03939741"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [
+                              "2021-A02135-36"
+                        ],
+                        "SecondaryIdDomain": [
+                              "ID-RCB"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Other Identifier"
+                        ],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04998461"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Assessed by pain visual analog scale (VAS). VAS Score is a horizontal line, 100 mm in length, anchored by word descriptors at each end. The subject marked the point on the line that represented his/her perception of his/her current pain status. VAS Score was determined by measuring in millimeters from the left hand end of the line (no pain) to the point that the subject marked. VAS Score range 0 (best) to 100 (Worst).",
+                              "The wound-quality of life(QoL) questionnaire measures the disease-specific, health related QoL of patients with chronic wounds. It consists of 17 items on impairments that are assessed in retrospect to the preceding 7 days and rated on a 0 (best) to 4 (worse) scale with possible responses from \"not at all\" to \"very much\". The total score is the average of the 17 responses.",
+                              "Assessed by serum hypersensitive C-reactive protein level(hCRP, mg/L). Increased serum hCRP levels above normal ranges indicate infection.",
+                              "Survival time from the hAMSCs treatment started(momths)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Wound Pain",
+                              "Measured Quality of Life",
+                              "Systemic Infection",
+                              "Survival State"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Up to 1 year.",
+                              "Up to 1 year.",
+                              "Up to 1 year.",
+                              "From date of treatment until the date of die, assessed up to 1 year."
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Related Info",
+                              "Related Info",
+                              "Related Info",
+                              "Related Info",
+                              "Related Info",
+                              "Related Info",
+                              "Related Info"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.nejm.org/doi/full/10.1056/NEJMra1505292",
+                              "http://www.ncbi.nlm.nih.gov/pubmed/30304522",
+                              "http://www.ncbi.nlm.nih.gov/pubmed/27712637",
+                              "http://www.ncbi.nlm.nih.gov/pubmed/31681640",
+                              "http://www.ncbi.nlm.nih.gov/pubmed/28603903",
+                              "http://www.ncbi.nlm.nih.gov/pubmed/30775620",
+                              "http://pubmed.ncbi.nlm.nih.gov/24075020/"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04592640"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "fuzhough0712"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Patient and graft survival [ Time Frame: At 1 years post-transplant ].",
+                              "The proportion of renal biopsy after 12 months",
+                              "The incidence of infectious complications",
+                              "Incidence of adverse events associated with MSC and immunosuppression"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "5",
+                              "2",
+                              "5",
+                              "5"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00659620"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Venous and tissue biomarkers of inflammation"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Decrease in Kidney inflammation"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "3 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Mayo Clinic Clinical Trials"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.mayo.edu/research/clinical-trials"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02266394"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Level of kidney function will be assessed as glomerular filtration rate by iothalamate clearance. Tissue oxygenation within each kidney will be measured by Blood Oxygen Level Dependent (BOLD) magnetic resonance."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Level of kidney function."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "2 years"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01840540"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Change in estimated glomerular filtration rate (eGFR) from baseline.",
+                              "Change in 24-hour urinary protein quantification from baseline.",
+                              "Change in urinary albumin/creatinine ratio from baseline",
+                              "The proportion of subjects in both groups who progressed to end-stage renal disease (ESRD) or doubled their serum creatinine.",
+                              "The MOS item short from health survey, SF-36 and changes per visit. As a concise health questionnaire, SF-36 comprehensively summarizes the quality of life of the surveyed from 8 aspects: physical functioning, role-physical, bodily pain, general health, vitality, social functioning, role emotional and mental health. Higher scores mean a better outcome.",
+                              "Change in Glycosylated Hemoglobin (HbA1c) from baseline."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Kidney function",
+                              "Kidney function",
+                              "Kidney function",
+                              "Kidney function",
+                              "SF-36 (The MOS item short from health survey)",
+                              "Change in HbA1c"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "From Baseline (0 W) to 48 weeks after treatment",
+                              "From Baseline (0 W) to 48 weeks after treatment",
+                              "From Baseline (0 W) to 48 weeks after treatment",
+                              "From Baseline (0 W) to 48 weeks after treatment",
+                              "From Baseline (0 W) to 48 weeks after treatment",
+                              "From Baseline (0 W) to 48 weeks after treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04562025"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Main evaluation index of curative effect:percentage changes in estimated glomerular filtration rate (eGFR), urinary albumin creatinine ratio, and 24-hour urinary protein quantification from baseline to 60 weeks of treatment. Other efficacy indicators included fasting blood glucose, blood glucose 2 hours after breakfast, HbA1c, blood and urine routine, liver and renal function, blood lipid, blood electrolyte, and daily insulin dosage."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Changes in eGFR before and after treatment; Changes in 24h urine protein quantification before and after treatment"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "60Weeks,but the major evaluated time is 12 weeks after the last treatment, compared with baseline (0W)"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04125329"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "RMM 091718 CT 001"
+                        ],
+                        "SecondaryIdDomain": [
+                              "Regenerative Medicine Minnesota"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Other Grant/Funding Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Change in measured glomerular filtration rate (mGFR). Measured as mL/min/BSA",
+                              "Change in estimated glomerular filtration rate (eGFR) slope. Measured as mL/min/1.73m^2/month"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Kidney Function",
+                              "Kidney Function"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "baseline, month 6",
+                              "pretreatment, month 12"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Diabetic Kidney Disease Stem Cell Trial - Mayo Clinic",
+                              "Stem Cells and Kidney Disease - Mayo Clinic",
+                              "Video of Stem Cell Trial in Diabetic Kidney Disease - Regenerative Medicine Minnesota"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.mayo.edu/research/clinical-trials/cls-20438442",
+                              "https://regenerativemedicineblog.mayoclinic.org/2018/10/26/stem-cells-and-chronic-kidney-disease/",
+                              "https://youtu.be/DQ7r3UFMDN8"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03840343"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "For assessment of knee function, pain,and stiffness.(5 items for pain ,2 items for stiffness and 7 items for functional limitation and when score is higher means more pain and more stiffness and more functional limitation, items like using stairs ,standing from setting, walking, getting in and out of acar ,lying in bed...)",
+                              "Laboratory test (serum sample)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "WOMAC (western Ontario and McMaster Universities Osteoarthritis Index",
+                              "IL-17"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Will be assessed before (at beginning of the trial at day 1),after 3 weeks,after 6 weeks and after 12 weeks(end of the trial)",
+                              "Will be measured before(at beginning of the trial )and at the end of the trial(after 12 weeks)"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05276895"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [
+                              "Mayo Clinic Clinical Trials"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.mayo.edu/research/clinical-trials"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04392206"
+                        ]
+                  }
+            ]
+      }
+}

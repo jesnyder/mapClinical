@@ -1,0 +1,861 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal allo-hMSCs",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 14,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 14,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05522569"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Reduction of Inflammation: Change in serum concentrations of high sensitivity C-Reactive Protein (hs-CRP)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Reduction of Inflammation"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Week 12"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02675556"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "1R01AA024933-01A1"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [
+                              "https://reporter.nih.gov/quickSearch/1R01AA024933-01A1"
+                        ],
+                        "SecondaryIdType": [
+                              "U.S. NIH Grant/Contract"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Change in serum concentrations of high sensitivity C-reactive protein. A serum sample will be collected to assess the change.",
+                              "Change in serum concentrations of inflammatory biomarkers, such as in TNF alpha and interleukin-6. A serum sample will be collected to assess the change.",
+                              "Montgomery and Asberg Depression Rating Scale (MADRS) is a ten item questionnaire with a total score ranging from 0-60 with a higher score indicating higher depressive symptoms.",
+                              "Clinical Global Improvement (CGI) is rated on a 7 point scale ranging from 1 (very much improved) to 7 (very much worse).",
+                              "30-day self report Timeline Follow Back (TLFB) questionnaire will be used to assess daily alcohol use.",
+                              "30-day self report Timeline Follow Back (TLFB) questionnaire will be used to assess frequency of daily alcohol use.",
+                              "Snaith Hamilton Pleasure Scale (SHAPS) is a 14 item questionnaire with a total score ranging from 0-56 with a higher score indicating increased anhedonic symptoms.",
+                              "Alcohol Urge Questionnaire (AUQ) is an 8 item questionnaire with total score ranging from 8-56 with a high score indicating increased cravings .",
+                              "Obsessive-Compulsive Drinking Scale (OCDS) is a 14 item questionnaire ranging from 0-56 with a higher score indicating increase cravings.",
+                              "Brief Assessment of Cognition for Affective Disorders (BAC-A) includes brief assessments of executive functions, verbal fluency, attention, verbal memory, working memory and motor speed. Z-scores are calculated from composite scores. Higher z-scores are indicative of better cognitive performance, lower z-scores are indicative of lower cognitive performance. Range of z-scores anticipated to be between -3 and 3.",
+                              "University of California of San Diego (UCSD) Performance Based Skills Assessment (UPSA-B) questionnaire has a total score from 0-100 with a higher score indication better functioning.",
+                              "Global Assessment of Functioning (GAF) questionnaire has a total score ranging from 1-100 with a higher score indicating of daily activities.",
+                              "Quality of Life Index (QOLI) questionnaire has a total score ranging from 10-100 with a higher score indicating higher quality of life."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in serum concentrations of high sensitivity C-reactive protein.",
+                              "Change in serum concentrations of inflammatory biomarkers",
+                              "Change in depressive symptoms as assessed by MADRS",
+                              "Change in Depressive symptoms as assessed by CGI",
+                              "Change in quantity of alcohol use as assessed by TLFB",
+                              "Change in frequency of alcohol use as assessed by TLFB",
+                              "Change in Anhedonia as measured by SHAPS",
+                              "Change in cravings as assessed by AUQ",
+                              "Change in cravings as assessed by OCDS",
+                              "Change in cognition as assessed by BAC-A",
+                              "Change in functioning as assessed by UPSA-B",
+                              "Change in functioning as assessed by GAF",
+                              "Change in quality of life as assessed by QOLI"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline, 12 weeks",
+                              "Baseline, 12 weeks",
+                              "Baseline, 12 weeks",
+                              "Baseline, 12 weeks",
+                              "Baseline, 12 weeks",
+                              "Baseline, 12 weeks",
+                              "Baseline, 12 weeks",
+                              "Baseline, 12 weeks",
+                              "Baseline, 12 weeks",
+                              "Baseline, 12 weeks",
+                              "Baseline, 12 weeks",
+                              "Baseline, 12 weeks",
+                              "Baseline, 12 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03265808"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "as measured by serial echocardiograms and MRI scans.",
+                              "Assessed through the number of participants with adverse events, hospitalizations, or transplantations.",
+                              "Changes in weight, height, and head circumference will be measured",
+                              "Assessment of cardiovascular mortality, all-cause morbidity, Cardiovascular morbidity, re-hospitalizations, need for transplantation."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Composite Change from baseline in right ventricular function, right ventricular end-diastolic volume, right ventricular end-systolic volume, right ventricular end-systolic diameter and tricuspid regurgitation",
+                              "Number of participants with incidence of mortality or need for transplantation after the BDCPA operation",
+                              "Composite Changes in somatic growth velocity over time (weight, height, head circumference) from the BDCPA operation",
+                              "Assessment of Co-morbidity"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "baseline, 24 weeks and 1 year",
+                              "One year after injections",
+                              "12 months post operative",
+                              "up to 12 months follow-up"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Interdisciplinary Stem Cell Institute"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://isci.med.miami.edu"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02398604"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "To monitor the number of draining fistulas, fistula healing efficiency, relapse rate among patients who achieved treatment success and amount local inflammation: Complete closure will be defined as absence of discharge and absence of collections of \u22652 cm directly related to the treated fistulas tracts as assessed by perianal examination. Partial closure will be defined as a reduction in >50% draining fistulas or no discharge on finger compression.",
+                              "Endoscopic ultrasound and Examination under anesthesia to evaluate baseline fistula state and during each intervention to assess tract closure and abscesses. Remission will be defined as healing of rectal ulcers and/or closure of fistula tracts by endoscopic ultrasonography.",
+                              "to examine number of tracts, inflammation in tracts, and extent of fibrosis or regenerative tissue via MRI assessment. Radiologic remission will be defined as substitution of tracts with fibrosis or regenerative tissue.",
+                              "Endoscopic ultrasound and MRI will be used to evaluate symptomatic patients.",
+                              "To evaluate the effect of local treatment with allogeneic bmMSCs on the quality of life of patients with fistulizing CD using the short Inflammatory Bowel Disease Questionnaire (sIBDQ)",
+                              "To evaluate the effect of local treatment with allogeneic bmMSCs on the quality of life of patients with fistulizing CD using the Short Form (SF)-36 score",
+                              "To summarize the changes from baseline compared to 12 weeks in serum C-reactive protein",
+                              "\u2022 Incidence of the Major Adverse Events endpoint, defined as the composite incidence of (1) death (2) hospitalization for worsening fistulizing disease (3) or infection caused by the intervention."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Clinically: to assess changes in the Crohn's Disease Activity Index (CDAI), the Perianal Disease Activity Index (PDAI).",
+                              "Endoscopic assessment of rectum using a limited simplified endoscopic activity score for Crohn's disease (SES-CD) to evaluate extent and severity of ulcers.",
+                              "Radiologic assessment using MRI",
+                              "Evaluate symptomatic patients.",
+                              "Evaluate the effect of local treatment with allogeneic bmMSCs using the short Inflammatory Bowel Disease Questionnaire (sIBDQ)",
+                              "Evaluate the effect of local treatment with allogeneic bmMSCs using the Short Form (SF)-36 score",
+                              "C-reactive protein (CRP)",
+                              "Major Adverse Events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "At each intervention and 7, 10, and 16 months after last intervention",
+                              "At each intervention and 7, 10, and 16 months after last intervention",
+                              "Baseline, Month 4, and 16 months only if fistula closure has not been achieved at month 4",
+                              "Month 4 and Month 16",
+                              "At each intervention and 7, 10, and 16 months after last intervention",
+                              "At each intervention and 7, 10, and 16 months after last intervention",
+                              "At each intervention and 7, 10, and 16 months after last intervention",
+                              "At each intervention and 7, 10, and 16 months after last intervention"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02677350"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ResultsFirstSubmitDate": [
+                              "August 30, 2013"
+                        ],
+                        "ResultsFirstSubmitQCDate": [
+                              "May 21, 2015"
+                        ],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "R01HL110737",
+                              "R01HL107110",
+                              "R01HL084275",
+                              "P20HL101443",
+                              "R01HL094849"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [
+                              "https://reporter.nih.gov/quickSearch/R01HL110737",
+                              "https://reporter.nih.gov/quickSearch/R01HL107110",
+                              "https://reporter.nih.gov/quickSearch/R01HL084275",
+                              "https://reporter.nih.gov/quickSearch/P20HL101443",
+                              "https://reporter.nih.gov/quickSearch/R01HL094849"
+                        ],
+                        "SecondaryIdType": [
+                              "U.S. NIH Grant/Contract",
+                              "U.S. NIH Grant/Contract",
+                              "U.S. NIH Grant/Contract",
+                              "U.S. NIH Grant/Contract",
+                              "U.S. NIH Grant/Contract"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Percentage change from 13-months post-catheterization to baseline.",
+                              "The Minnesota living with heart failure questionnaire uses a 6-point, zero to five, Likert scale. The total score is the sum of the 21 responses. The total score is considered the best measure of how heart failure and treatments impact a patients quality of life. The max score is 105, minimum score is 0. A lower score is considered a better quality of life."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "CT Infarct Size From Early Enhanced Defect: - Difference Between the Baseline and 13-month",
+                              "CT Measure of Left Ventricular Ejection Fraction",
+                              "CT Measure of End Diastolic Volume",
+                              "CT Measure of End Systolic Volume",
+                              "CT Measure of Scar Size as % of LV Mass",
+                              "Change in Distance Walked in 6-minutes From Baseline.",
+                              "Change in Minnesota Living With Heart Failure Total Score",
+                              "Change in New York Heart Association Class at 12-months"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline Month 13 post-catheterization",
+                              "Baseline Month 13 post-catheterization",
+                              "Baseline Month 13 post-catheterization",
+                              "Baseline Month 13 post-catheterization",
+                              "Baseline Month 13 post-catheterization",
+                              "12-months",
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [
+                              "Non-systematic Assessment",
+                              "Non-systematic Assessment",
+                              "Non-systematic Assessment",
+                              "Non-systematic Assessment",
+                              "Non-systematic Assessment",
+                              "Non-systematic Assessment",
+                              "Non-systematic Assessment",
+                              "Non-systematic Assessment"
+                        ],
+                        "NCTId": [
+                              "NCT01087996"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ResultsFirstSubmitDate": [
+                              "March 30, 2021"
+                        ],
+                        "ResultsFirstSubmitQCDate": [
+                              "March 30, 2021"
+                        ],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Community Healthy Activities Model Program for Seniors (CHAMPS) questionnaire measures duration of exercise-related activities (hours/week). The Duration variable can range from 0 - 399.75 hours per week. Higher scores indicate more activity.",
+                              "4-meter gait speed test measures the time (in seconds) taken to walk a distance of 4 meters. The total score has a range of 1 point - 4 points with the higher score indicating faster walk speed.",
+                              "Standard Physical Performance Battery (SPPB) Assessment has total score ranging from 0-4 with the higher score indicating better balance.",
+                              "Change in weight as measured in kilograms (kg).",
+                              "Hand grip strength as assessed by a dynamometer. Grip strength is recorded (in mmHg) three times for each hand. The average reading is reported for each hand.",
+                              "Multi-dimensional Fatigue Inventory (MFI) Questionnaire contains 20 questions with a 5-point scale. The MFI has total score ranging from 20-100 with the higher score indicating less fatigue.",
+                              "Investigating Choice Experiences for the Preferences of Older People (ICEpop) Capability measure for Older people (ICECAP) questionnaire has total score ranging from 5-20 with the higher score indicating greater quality of life.",
+                              "Short Form (SF)-36 Questionnaire has consists of eight scaled scores, which are the weighted sums of the questions in their section. Each scale is directly transformed into a 0-100 scale. Lower scores indicate the more disability, and higher scores indicate less disability.",
+                              "EuroQoL (EQ)- 5 Dimension (5D)- 3 levels (3L) Questionnaire has total score ranging from 0-10 for the 5 dimensions. Higher scores indicate better Quality of Life.",
+                              "EuroQoL - 5 Dimension - 3 levels (EQ-5D-3L) Overall health status question has a range of 0-100. Higher scores indicate better Quality of Life.",
+                              "University of Pennsylvania Smell Identification Test (UPSIT) smell test booklet has a total score ranging from 0-40 with higher scores indicating better olfaction.",
+                              "Any reported death from any cause.",
+                              "Change in dobutamine stress echocardiogram induced ejection fraction",
+                              "Change in inflammatory markers including C-Reactive Protein (CRP) and Fibrinogen serum samples as measured in mg/L.",
+                              "Change in inflammatory markers including Interleukin (IL)-6 and Tumor Necrosis Factor (TNF) Alpha from serum samples as measured in pg/mL.",
+                              "Change in inflammatory marker D-Dimer from serum samples as measured in mg/dL."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in Frailty as Assessed by CHAMPS Questionnaire",
+                              "Change in Slowing of Mobility as Measured by 4 Meter Gait Speed Test",
+                              "Change in Slowing of Mobility as Measured by SPPB",
+                              "Change in Weight",
+                              "Change in Diminished Hand Grip Strength",
+                              "Change in Exhaustion as Measured by the MFI Questionnaire",
+                              "Change in Quality of Life (QoL) as Measured by the ICECAP Questionnaire",
+                              "Change in Quality of Life (QoL) as Measured by the SF-36 Questionnaire",
+                              "Change in Quality of Life (QoL) as Measured by the EQ-5D-3L Questionnaire",
+                              "Change in Quality of Life (QoL) as Measured by the EQ-5D-3L Overall Health Status Scale.",
+                              "Change in Sense of Smell as Measured by UPSIT",
+                              "Death",
+                              "Change in Ejection Fraction (EF)",
+                              "Change in Inflammatory Markers Levels",
+                              "Change in Inflammatory Markers",
+                              "Change in Inflammatory Marker D-dimer Levels"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "At baseline and 6 month follow-up visit.",
+                              "At baseline and 6 month follow-up visit.",
+                              "At baseline and 6 month follow-up visit.",
+                              "At baseline and 6 month follow-up visit.",
+                              "At baseline and 6 month follow-up visit.",
+                              "At baseline and 6 month follow-up visit.",
+                              "At baseline and 6 month follow-up visit.",
+                              "At baseline and 6 month follow-up visit.",
+                              "At baseline and 6 month follow-up visit.",
+                              "At baseline and 6 month follow-up visit.",
+                              "At baseline and 6 month follow-up visit.",
+                              "Up to 12 months.",
+                              "At baseline and 6 month follow-up visit.",
+                              "At baseline and 6 month follow-up visit.",
+                              "At baseline and 6 month follow-up visit.",
+                              "At baseline and 6 month follow-up visit."
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Interdisciplinary Stem Cell Institute at the University of Miami Miller School of Medicine"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://isci.med.miami.edu"
+                        ],
+                        "SeriousEventAssessmentType": [
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment"
+                        ],
+                        "NCTId": [
+                              "NCT02065245"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Difference in subject quality of life assessment - SF-12 to assess if there is improvement in health via this health survey.",
+                              "Difference in subject quality of life assessment - Oswestry Low Back Pain where the scores are defined by percentage with 0 to 20% showing minimal disability and 81-100% showing severe disabling symptoms.",
+                              "Death from any cause.",
+                              "Change between baseline and 6 months in pain using the Numeric Rating Scale (NRS) scale. This is assessed on a scale from 0 to 10 with 0 being no pain and 10 being the worst pain."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Difference in subject quality of life assessment - SF-12",
+                              "Difference in subject quality of life assessment - Oswestry Low Back Pain",
+                              "Death from any cause.",
+                              "Change in pain using the Numeric rating scale"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline, Month 3, and Month 6",
+                              "Baseline, Month 3, and Month 6",
+                              "Baseline, Month 3, and Month 6",
+                              "Baseline and Month 6"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Interdisciplinary Stem Cell Institute website"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://ISCI.med.miami.edu"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03487731"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of:\n\n\u2022 Resting pulmonary function tests (PFTs) assessed via spirometry: forced vital capacity (FVC), forced expiratory volume in 1 second (FEV1), FEV1 to FVC ratio, and forced expiratory flow between 25 - 75% of VC (FEF25-75) measured in adherence to American Thoracic Society/European Respiratory Society guidelines.",
+                              "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of:\n\n\u2022 6-minute walk test (6MWT).",
+                              "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of:\n\n\u2022 Changes in body mass index",
+                              "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of:\n\nIncidence of investigator-defined pulmonary exacerbation: events meeting the modified Fuchs' criteria (at least 4 of 12 signs and symptoms with or without intravenous or oral antibiotic treatment).\nSemi-quantitative sputum cultures (change in colony forming units)\nProcalcitonin serum levels",
+                              "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of:\n\n\u2022 Serum Inflammatory markers (CBC with differential, TNF\u03b1, C-reactive protein, Interleukin-1, Interleukin-6, D-dimer, Fibrinogen).",
+                              "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of:\n\n\u2022 Sputum inflammatory markers",
+                              "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of:\n\n\u2022 Symptom Related Quality of Life",
+                              "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of:\n\n\u2022 Physical activity via the short form-36 questionnaires.",
+                              "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of: \u2022 Subject quality of life (QOL) assessments via:\n\n- Patient Health Questionnaire-9 (PHQ-9) for depression screening",
+                              "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of: \u2022 Subject quality of life (QOL) assessments via:\n\n- Cystic Fibrosis Questionnaire-Revised (CFQ-R)",
+                              "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of: \u2022 Subject quality of life (QOL) assessments via:\n\n- Generalized anxiety disorder 7 (GAD-7)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in Symptoms for pulmonary function test",
+                              "Change in Symptoms 6-minute walk test",
+                              "Change in Symptoms of body mass index",
+                              "Change in Rate of pulmonary exacerbations",
+                              "Change in Local and Systemic Inflammation in inflammatory markers",
+                              "Change in Local and Systemic Inflammation for sputum inflammatory markers",
+                              "Change in Local and Systemic Inflammation related to quality of life",
+                              "Change in Local and Systemic Inflammation via the short form-36",
+                              "Change in Local and Systemic Inflammation via the PHQ-9 Questionnaire",
+                              "Change in Local and Systemic Inflammation via the CFQ-R Questionnaire",
+                              "Change in Local and Systemic Inflammation via the GAD-7 Questionnaire"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "baseline to 12 months",
+                              "baseline to 12 months",
+                              "baseline to 12 months",
+                              "baseline to 12 months",
+                              "baseline to 12 months",
+                              "baseline to 12 months",
+                              "baseline to 12 months",
+                              "baseline to 12 months",
+                              "baseline to 12 months",
+                              "baseline to 12 months",
+                              "baseline to 12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Interdisciplinary stem cell institute (ISCI) at the University of Miami"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://isci.med.miami.edu"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03058068"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ResultsFirstSubmitDate": [
+                              "December 8, 2021"
+                        ],
+                        "ResultsFirstSubmitQCDate": [
+                              "April 18, 2022"
+                        ],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "1R01HL134558-01"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [
+                              "https://reporter.nih.gov/quickSearch/1R01HL134558-01"
+                        ],
+                        "SecondaryIdType": [
+                              "U.S. NIH Grant/Contract"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Endothelial Progenitor Cell Colony Forming Units (EPC-CFU) will be assessed from blood samples",
+                              "C-Reactive Protein (CRP) levels will be assessed from blood samples and reported in mg/L",
+                              "Circulating Angiogenic Factor levels including Vascular Endothelial Growth Factor (VEGF), Stem Cell Factor (SCF) and Stromal Cell-Derived Factor 1 (SDF-1) will be assessed from blood samples and reported in ng/mL",
+                              "FMD will be assessed using brachial artery ultrasound",
+                              "Circulating inflammatory marker levels including Interleukin (IL) -1 and IL-6 will be assessed from blood samples and reported in pg/mL",
+                              "Measured from blood samples (pg/mL)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "EPC-CFU Levels",
+                              "CRP Marker Levels",
+                              "Circulating Angiogenic Factor Levels",
+                              "Flow Mediated Diameter Percentage (FMD%)",
+                              "Circulating Inflammatory Marker Levels",
+                              "Tumor Necrosis Factor (TNF) Alpha Levels"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "At Baseline, Day 3, Day 7, Day 14, Day 28, Day 90, Day 180, Day 365",
+                              "At Baseline, Day 3, Day 7, Day 14, Day 28, Day 90, Day 180, Day 365",
+                              "At Baseline, Day 3, Day 7, Day 14, Day 28, Day 90, Day 180, Day 365",
+                              "At Baseline, Day 3, Day 7, Day 14, Day 28, Day 90, Day 180, Day 365",
+                              "At Baseline, Day 3, Day 7, Day 14, Day 28, Day 90, Day 180, Day 365",
+                              "At Baseline, Day 3, Day 7, Day 14, Day 28, Day 90, Day 180, Day 365"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Interdisciplinary stem cell institute at the University of Miami website"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://isci.med.miami.edu"
+                        ],
+                        "SeriousEventAssessmentType": [
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment"
+                        ],
+                        "NCTId": [
+                              "NCT02886884"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "- Difference in absolute decline of forced vital capacity (FVC) percent predicted.",
+                              "- Quality of Life endpoint tools to be used include: University of California San Diego-Shortness of breath (UCSD-SOBQ), short form - 36 (SF-36), and St. George's respiratory questionnaire (SGRQ) questionnaires.",
+                              "Defined as:\n\nNew or worsened dyspnea (<30 days).\nNew ground glass opacities on High Resolution CT (HRCT) superimposed on chronic findings.\nNew or worsened hypoxemia in the absence of other identifiable causes.",
+                              "Participants will be followed for the duration of the trial, which is an expected average of 60 weeks.",
+                              "- Difference in absolute decline of Diffusing capacity (DLCO)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "- To explore effects of allo hMSCs on lung function: forced vital capacity (FVC).",
+                              "To explore effects of allogenic human mesenchymal stem cells on symptom related quality of life.",
+                              "Difference in frequency of acute exacerbations of Idiopathic Pulmonary Fibrosis (IPF)",
+                              "Death from any cause.",
+                              "To explore effects of allogenic human mesenchymal stem cells on lung function: Diffusing Capacity (DLCO)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Participants will be followed from 12 weeks to an expected average of 60 weeks following infusion.",
+                              "Participants will be followed from 4 weeks to an expected average of 60 weeks following infusion.",
+                              "4 weeks following infusion",
+                              "60 weeks.",
+                              "Participants will be followed from 12 weeks to an expected average of 60 weeks following infusion."
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Interdisciplinary Stem Cell Institute University of Miami"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://isci.med.miami.edu/"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02013700"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ResultsFirstSubmitDate": [
+                              "October 19, 2017"
+                        ],
+                        "ResultsFirstSubmitQCDate": [
+                              "January 21, 2020"
+                        ],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Determined by delayed contrast enhanced Computed Tomography (CT) Scan",
+                              "Tissue perfusion measured by CT.",
+                              "Peak VO2 assessed via treadmill determination.",
+                              "A test that measures how far a patient can walk in 6 minutes.",
+                              "Changed in NYHA Functional Classification will be evaluated. Worsened: Documented increase in limitation in physical activity. Improved: Documented decrease in limitation in physical activity. Unchanged: No documented change in limitation in physical activity.",
+                              "Incidence of the Major Adverse Cardiac Events (MACE) endpoint, defined as the composite incidence of (1) death, (2) hospitalization for worsening heart failure, or (3) non-fatal recurrent MI.",
+                              "Incidence of Treatment Emergent Adverse Event defined as any untoward medical occurrence in a patient or clinical investigation subject temporally associated with the use of the study product.",
+                              "Minnesota Living with Heart Failure (MLHF) Questionnaire has a total score from 0 to 105. A higher score indicates that participant's heart failure is preventing them from living their life.",
+                              "Left ventricular end diastolic wall thickness as determined by echocardiogram.",
+                              "As determined by Computed Tomography Scan",
+                              "As determined by Computed Tomography Scan",
+                              "As determined by Computed Tomography Scan",
+                              "Change in 1-year LVEF by CT as compared to baseline.",
+                              "As assessed via ECHO",
+                              "Difference in left ventricular end diastolic and end systolic volume will be assessed via ECHO",
+                              "Difference in left ventricular end diastolic and end systolic volume will be assessed via CT",
+                              "As measured via myocardial mass by CT",
+                              "The number of participants with abnormal ECG readings via 24 hour ambulatory ECG recordings as assessed per treating physician discretion.",
+                              "Clinical significance of abnormal lab values will be assessed by treating physician",
+                              "Serial Troponin I values in ng/mL over time.",
+                              "The number of participants with abnormal reading post-cardiac catheterization. As assessed per treating physician discretion.",
+                              "CK-MB values in ng/mL over time."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Infarct Scar Size (ISS)",
+                              "Number of Participant With Reported Tissue Perfusion",
+                              "Peak Oxygen Consumption (VO2)",
+                              "Six-minute Walk Test.",
+                              "Changed in New York Heart Association (NYHA) Functional Classification Based on Patient's Self Reported Activity Level.",
+                              "Number of Incidents of Major Adverse Cardiac Events (MACE).",
+                              "Number of Participants With Treatment Emergent Adverse Event (AE)",
+                              "Minnesota Living With Heart Failure (MLHF) Questionnaire Scores",
+                              "Echocardiographic-derived Measures of Left Ventricular Function",
+                              "Difference Between Regional Left Ventricular Function (at the Site of Allogeneic Cell Injections)",
+                              "Difference Between the Regional Left Ventricular Wall Thickening",
+                              "Difference Between Left Ventricular End Diastolic Wall Thickness",
+                              "Difference Between the Left Ventricular Ejection Fraction (LVEF)",
+                              "Difference in LVEF",
+                              "Difference in Left Ventricular Volume",
+                              "Difference in Left Ventricular Volume",
+                              "Difference in Left Ventricular Regional Myocardial Perfusion",
+                              "Number of Participants With Abnormal Electrocardiogram (ECG) Reads.",
+                              "Number of Clinically Significant of Abnormal Lab Values.",
+                              "Serial Troponin I",
+                              "Number of Participants With Abnormal ECHO Reading",
+                              "Creatinine Kinase Muscle/Brain (CK-MB)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline, 12 months",
+                              "6 months, 12 months",
+                              "Baseline, 6 months, 12 months",
+                              "Baseline, 3 months, 6 months, 12 months",
+                              "Baseline to 3 months, Baseline to 6 months, Baseline to 12 months",
+                              "1 month, 6 months, 12 months post injection.",
+                              "6 months, 12 months",
+                              "Baseline, 3 months, 6 months, 12 months",
+                              "6 months, 12 months",
+                              "Baseline, 12 Months",
+                              "Baseline, Month 12",
+                              "Baseline, 12 Months",
+                              "Baseline, 12 months",
+                              "Baseline, 6 months, 12 months",
+                              "Baseline, 6 months, 12 months",
+                              "Baseline, 12 months",
+                              "Baseline, 12 months",
+                              "12 months",
+                              "12 months",
+                              "12 hours, 24 hours post cardiac catheterization",
+                              "6 hours post cardiac catheterization",
+                              "12 hours, 24 hours post cardiac catheterization"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Interdisciplinary Stem Cell Institute at the University of Miami Miller School of Medicine"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://isci.med.miami.edu"
+                        ],
+                        "SeriousEventAssessmentType": [
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment"
+                        ],
+                        "NCTId": [
+                              "NCT02013674"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ResultsFirstSubmitDate": [
+                              "August 3, 2017"
+                        ],
+                        "ResultsFirstSubmitQCDate": [
+                              "January 19, 2018"
+                        ],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "1R01HL110737-01"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [
+                              "https://reporter.nih.gov/quickSearch/1R01HL110737-01"
+                        ],
+                        "SecondaryIdType": [
+                              "U.S. NIH Grant/Contract"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Measurement of Peak oxygen consumption (Peak VO2) by treadmill determination during the 12 month follow-up period.",
+                              "Measurement of Six-minute walk test during the 12 month follow-up period",
+                              "Measurement of regional left ventricular function, end diastolic and end systolic volume, measured by MRI, and or CT, and echocardiogram.",
+                              "Measurement of New York Heart Association (NYHA) functional class during the 12 month follow-up period.",
+                              "Measurement of Minnesota Living with Heart Failure (MLHF) Questionnaire during the 12 month follow-up period. It measures the effects of symptoms, functional limitations, and psychological distress on an individual's quality of life. The response scale for all 21 items on the MLHF is based on a 6-point. The Maximum possible scores being 126 and the minimum 0. Higher scores indicate a worse or worsening quality of life, while lower scores or decreasing scores indicate a better quality of life."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Measurement of Changes in Peak VO2",
+                              "Measurement of Changes in 6 Minute Walk",
+                              "Measurement of Changes in Global Ejection Fraction",
+                              "Measurement of Changes in New York Heart Association (NYHA)",
+                              "Measurement of Changes in Minnesota Living With Heart Failure (MLHF) Questionnaire"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline, 6 month and 12 month",
+                              "Baseline, 6 month and 12 month",
+                              "Baseline, 6 month and 12 month",
+                              "Baseline, 6 month and 12 month",
+                              "Baseline, 6 month and 12 month"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Interdisciplinary Stem Cell Institute University of Miami"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://isci.med.miami.edu"
+                        ],
+                        "SeriousEventAssessmentType": [
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment"
+                        ],
+                        "NCTId": [
+                              "NCT01392625"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "CDMRP-PR191597",
+                              "20-02-134"
+                        ],
+                        "SecondaryIdDomain": [
+                              "US Department of Defense",
+                              "BRANY IRB"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Other Grant/Funding Number",
+                              "Other Identifier"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Change in global ventricular strain as assessed via cardiac Harmonic Phase (HARP) MRI",
+                              "Change in regional ventricular strain as assessed via cardiac HARP MRI",
+                              "The left ventricular function concordance will be measured as the Number of individuals who experienced an increase in left ventricular ejection fraction (LVEF) and a simultaneous decrease in both left ventricular end systolic volume index (LVESVI) and left ventricular end diastolic volume index (LVEDVI)",
+                              "Change in left ventricular end diastolic index (LVEDVI) as assessed via cardiac MRI",
+                              "Change in left ventricular end systolic index (LVESVI) as assessed via cardiac MRI",
+                              "Change in maximal oxygen consumption (peak VO2) as assessed via treadmill",
+                              "Change in exercise tolerance as assessed as the distance covered via the six-minute walk test",
+                              "Minnesota Living with Heart Failure Questionnaire (MLHFQ) is a 21-item questionnaire with a total score ranging from 0 to 105 with lower scores indicative of better outcome.",
+                              "NYHA Classifications of heart failure are as follows: Class I (no limitations); Class II (mild symptoms); Class III (marked limitations); Class IV (Severe limitations)",
+                              "Change in endothelial function will be reported as the percent change in flow mediated diameter assessed via flow mediated dilation (FMD).",
+                              "Change in endothelial function will be reported as the change in Endothelial Progenitor Cell Colony Forming Unit (EPC-CFU) assessed via blood sample assay",
+                              "Change in NT-proBNP as assessed via blooddraw",
+                              "Change in NT-proBNP as assessed via blooddraw",
+                              "Safety will be reported as the incidence of Major Adverse Cardiac Events (MACE) assessed by treating physician",
+                              "Safety will be reported as the incidence of Treatment Emergent Serious Adverse Events (TE-SAEs) assessed by treating physician"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in global ventricular strain",
+                              "Change in left regional strain",
+                              "Left ventricular function concordance",
+                              "Change in LVEDVI",
+                              "Change in LVESVI",
+                              "Change in Maximal oxygen consumption (peak VO2)",
+                              "Change in Exercise tolerance",
+                              "Change in Minnesota Living with Heart Failure Questionnaire (MLHFQ) Score",
+                              "Change in New York Heart Association (NYHA) Class",
+                              "Percent change in flow mediated diameter",
+                              "Change in EPC-CFU",
+                              "Change in N-Terminal Pro-Brain Natriuretic Peptide (NT-proBNP)",
+                              "Change in cytokines",
+                              "Incidence of MACE",
+                              "Incidence of TE-SAEs"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Baseline, 12 months",
+                              "Baseline, 12 months",
+                              "12 months",
+                              "Baseline, 12 months",
+                              "Baseline, 12 months",
+                              "Baseline, 12 months",
+                              "Baseline, 12 months",
+                              "Baseline, 12 months",
+                              "Baseline, 12 months",
+                              "Baseline, 12 months",
+                              "Baseline, 12 months",
+                              "Baseline, 12 months",
+                              "Baseline, 12 months",
+                              "12 months",
+                              "Day 30"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Cardiovascular Cell Therapy Research Network",
+                              "Information on stem cells from the National Institutes of Health",
+                              "DCM II Trial"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.cctrn.org",
+                              "https://www.nih.gov/about-nih/what-we-do/nih-turning-discovery-into-health/stem-cells",
+                              "http://www.dcmii.org"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04476901"
+                        ]
+                  }
+            ]
+      }
+}

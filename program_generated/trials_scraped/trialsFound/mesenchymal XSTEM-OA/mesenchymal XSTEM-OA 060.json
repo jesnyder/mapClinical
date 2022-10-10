@@ -1,0 +1,89 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal XSTEM-OA",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The aim of the study is to assess safety, tolerability and preliminary efficacy of XSTEM-OA when administered as a single intra-articular injection to patients with symptomatic knee osteoarthritis. The study is divided into two parts; a dose escalation (Part A) and a dose expansion part (Part: B). Three dose levels are planned to be evaluated in Part A and selected dose level(s) will be further expanded in Part B."
+                        ],
+                        "BriefTitle": [
+                              "A First-in-Human Study of XSTEM-OA in Patients With Knee Osteoarthritis"
+                        ],
+                        "CentralContactEMail": [
+                              "clinicaltrials@xintela.se"
+                        ],
+                        "CentralContactName": [
+                              "Central contact"
+                        ],
+                        "CentralContactPhone": [
+                              "+46 (0)734 122045"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "INDUSTRY"
+                        ],
+                        "CollaboratorName": [
+                              "Xintela AB"
+                        ],
+                        "CompletionDate": [
+                              "December 2024"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Osteoarthritis, Knee"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000001168",
+                              "D000007592",
+                              "D000009140",
+                              "D000012216"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Arthritis",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC05",
+                              "All",
+                              "BC17"
+                        ],
+                        "NCTId": [
+                              "NCT05344157"
+                        ]
+                  }
+            ]
+      }
+}

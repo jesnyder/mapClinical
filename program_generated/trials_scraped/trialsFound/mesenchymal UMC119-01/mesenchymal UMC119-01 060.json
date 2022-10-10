@@ -1,0 +1,84 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal UMC119-01",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The clinical study with UMC119-01 is designed to investigate the safety in patients with bronchopulmonary dysplasia (\"BPD\"). This will be a dose escalation, open-label, single-center study in infants at high risk for BPD."
+                        ],
+                        "BriefTitle": [
+                              "Mesenchymal Stem Cells for Prevention of Bronchopulmonary Dysplasia in Infants"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "July 31, 2025"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000055397",
+                              "D000055370",
+                              "D000008171",
+                              "D000012140",
+                              "D000007235",
+                              "D000007232"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC08",
+                              "BC16",
+                              "All",
+                              "BC26",
+                              "BXS",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT03631420"
+                        ]
+                  }
+            ]
+      }
+}

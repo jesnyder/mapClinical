@@ -1,0 +1,1723 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Bronchopulmonary Dysplasia",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 21,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 21,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Wounds and Injuries",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Bronchopulmonary Dysplasia",
+                              "Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M4425",
+                              "M9168",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M25022",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Bronchopulmonary Dysplasia",
+                              "Hyperplasia",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Premature Birth",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997",
+                              "D000006965"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia",
+                              "Hyperplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03601416"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Symptoms and General Pathology",
+                              "Wounds and Injuries",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Bronchopulmonary Dysplasia",
+                              "Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M25022",
+                              "M4425",
+                              "M9168",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Premature Birth",
+                              "Bronchopulmonary Dysplasia",
+                              "Hyperplasia",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997",
+                              "D000006965"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia",
+                              "Hyperplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03558334"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ConditionBrowseBranchName": [
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Wounds and Injuries",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Bronchopulmonary Dysplasia",
+                              "Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M4425",
+                              "M9168",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M25022",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Bronchopulmonary Dysplasia",
+                              "Hyperplasia",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Premature Birth",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997",
+                              "D000006965"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia",
+                              "Hyperplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03645525"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ConditionBrowseBranchName": [
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Wounds and Injuries",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Bronchopulmonary Dysplasia",
+                              "Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M4425",
+                              "M9168",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M25022",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Bronchopulmonary Dysplasia",
+                              "Hyperplasia",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Premature Birth",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997",
+                              "D000006965"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia",
+                              "Hyperplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04062136"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Wounds and Injuries",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Bronchopulmonary Dysplasia",
+                              "Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9176",
+                              "M4266",
+                              "M9179",
+                              "M25022",
+                              "M4425",
+                              "M9168",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Hypertension",
+                              "Body Weight",
+                              "Hypertension, Pulmonary",
+                              "Premature Birth",
+                              "Bronchopulmonary Dysplasia",
+                              "Hyperplasia",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997",
+                              "D000006965"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia",
+                              "Hyperplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Other"
+                        ],
+                        "NCTId": [
+                              "NCT02443961"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Symptoms and General Pathology",
+                              "Wounds and Injuries",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Bronchopulmonary Dysplasia",
+                              "Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M25022",
+                              "M4425",
+                              "M9168",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Premature Birth",
+                              "Bronchopulmonary Dysplasia",
+                              "Hyperplasia",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997",
+                              "D000006965"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia",
+                              "Hyperplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03873506"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ConditionBrowseBranchName": [
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "All Conditions",
+                              "Wounds and Injuries",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Bronchopulmonary Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M4425",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M25022",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Bronchopulmonary Dysplasia",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Premature Birth",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03683953"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ConditionBrowseBranchName": [
+                              "Diseases and Abnormalities at or Before Birth",
+                              "All Conditions",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Symptoms and General Pathology",
+                              "Wounds and Injuries",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Congenital Anomalies",
+                              "Bronchopulmonary Dysplasia",
+                              "Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M12",
+                              "M25022",
+                              "M4425",
+                              "M9168",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Congenital Abnormalities",
+                              "Premature Birth",
+                              "Bronchopulmonary Dysplasia",
+                              "Hyperplasia",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997",
+                              "D000000013",
+                              "D000006965"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia",
+                              "Congenital Abnormalities",
+                              "Hyperplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01207869"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ConditionBrowseBranchName": [
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "All Conditions",
+                              "Wounds and Injuries",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Bronchopulmonary Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M4425",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M25022",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Bronchopulmonary Dysplasia",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Premature Birth",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03378063"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Wounds and Injuries",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Bronchopulmonary Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M25022",
+                              "M4425",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Premature Birth",
+                              "Bronchopulmonary Dysplasia",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03774537"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ConditionBrowseBranchName": [
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "All Conditions",
+                              "Wounds and Injuries",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Bronchopulmonary Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M4425",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M25022",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Bronchopulmonary Dysplasia",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Premature Birth",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Prevention"
+                        ],
+                        "NCTId": [
+                              "NCT03631420"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ConditionBrowseBranchName": [
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "All Conditions",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Symptoms and General Pathology",
+                              "Wounds and Injuries",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Premature",
+                              "Bronchopulmonary Dysplasia",
+                              "Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10320",
+                              "M25022",
+                              "M4425",
+                              "M9168",
+                              "M9924",
+                              "M9916",
+                              "M13279",
+                              "M27296",
+                              "M27305",
+                              "M14129",
+                              "M9431",
+                              "M9428",
+                              "T874",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Lung Diseases",
+                              "Premature Birth",
+                              "Bronchopulmonary Dysplasia",
+                              "Hyperplasia",
+                              "Obstetric Labor, Premature",
+                              "Obstetric Labor Complications",
+                              "Pregnancy Complications",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Respiratory Tract Diseases",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997",
+                              "D000047928",
+                              "D000006965"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia",
+                              "Premature Birth",
+                              "Hyperplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Prevention"
+                        ],
+                        "NCTId": [
+                              "NCT02381366"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Symptoms and General Pathology",
+                              "Wounds and Injuries",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Premature",
+                              "Bronchopulmonary Dysplasia",
+                              "Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M25022",
+                              "M4425",
+                              "M9168",
+                              "M9924",
+                              "M9916",
+                              "M13279",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Premature Birth",
+                              "Bronchopulmonary Dysplasia",
+                              "Hyperplasia",
+                              "Obstetric Labor, Premature",
+                              "Obstetric Labor Complications",
+                              "Pregnancy Complications",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997",
+                              "D000047928",
+                              "D000006965"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia",
+                              "Premature Birth",
+                              "Hyperplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01297205"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Wounds and Injuries",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Bronchopulmonary Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M25022",
+                              "M4425",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Premature Birth",
+                              "Bronchopulmonary Dysplasia",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Sequential Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03857841"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Wounds and Injuries",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Premature",
+                              "Bronchopulmonary Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M25022",
+                              "M4425",
+                              "M9924",
+                              "M9916",
+                              "M13279",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Premature Birth",
+                              "Bronchopulmonary Dysplasia",
+                              "Obstetric Labor, Premature",
+                              "Obstetric Labor Complications",
+                              "Pregnancy Complications",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997",
+                              "D000047928"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia",
+                              "Premature Birth"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01828957"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "ConditionBrowseBranchName": [
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "All Conditions",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Symptoms and General Pathology",
+                              "Wounds and Injuries",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Premature",
+                              "Bronchopulmonary Dysplasia",
+                              "Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10320",
+                              "M25022",
+                              "M4425",
+                              "M9168",
+                              "M9428",
+                              "M27296",
+                              "M27305",
+                              "M9431",
+                              "M9924",
+                              "M9916",
+                              "M13279",
+                              "M14129",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Lung Diseases",
+                              "Premature Birth",
+                              "Bronchopulmonary Dysplasia",
+                              "Hyperplasia",
+                              "Infant, Newborn, Diseases",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Infant, Premature, Diseases",
+                              "Obstetric Labor, Premature",
+                              "Obstetric Labor Complications",
+                              "Pregnancy Complications",
+                              "Respiratory Tract Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997",
+                              "D000047928",
+                              "D000006965"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia",
+                              "Premature Birth",
+                              "Hyperplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Case-Only"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT01632475"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Wounds and Injuries",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Bronchopulmonary Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M25022",
+                              "M4425",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Premature Birth",
+                              "Bronchopulmonary Dysplasia",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04003857"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Wounds and Injuries",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Bronchopulmonary Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M25022",
+                              "M4425",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Premature Birth",
+                              "Bronchopulmonary Dysplasia",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01897987"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "ConditionBrowseBranchName": [
+                              "Infections",
+                              "All Conditions",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Symptoms and General Pathology",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Wounds and Injuries",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Respiratory Tract Infections",
+                              "Premature Birth",
+                              "Bronchopulmonary Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9435",
+                              "M14130",
+                              "M5520",
+                              "M25022",
+                              "M4425",
+                              "M9924",
+                              "M9916",
+                              "M13279",
+                              "M14129",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Infections",
+                              "Respiratory Tract Infections",
+                              "Communicable Diseases",
+                              "Premature Birth",
+                              "Bronchopulmonary Dysplasia",
+                              "Obstetric Labor, Premature",
+                              "Obstetric Labor Complications",
+                              "Pregnancy Complications",
+                              "Respiratory Tract Diseases",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000012141",
+                              "D000001997",
+                              "D000047928"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Respiratory Tract Infections",
+                              "Bronchopulmonary Dysplasia",
+                              "Premature Birth"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Case-Only"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT02023788"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Wounds and Injuries",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Bronchopulmonary Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M25022",
+                              "M4425",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Premature Birth",
+                              "Bronchopulmonary Dysplasia",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Prevention"
+                        ],
+                        "NCTId": [
+                              "NCT03392467"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Symptoms and General Pathology",
+                              "Wounds and Injuries",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Bronchopulmonary Dysplasia",
+                              "Dysplasia",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M25022",
+                              "M4425",
+                              "M9168",
+                              "M27296",
+                              "M27305",
+                              "M10320",
+                              "M14129",
+                              "M9431",
+                              "M9428",
+                              "T874"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Premature Birth",
+                              "Bronchopulmonary Dysplasia",
+                              "Hyperplasia",
+                              "Lung Injury",
+                              "Ventilator-Induced Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Bronchopulmonary Dysplasia"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001997",
+                              "D000006965"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Bronchopulmonary Dysplasia",
+                              "Hyperplasia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Prevention"
+                        ],
+                        "NCTId": [
+                              "NCT04255147"
+                        ]
+                  }
+            ]
+      }
+}

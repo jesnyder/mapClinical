@@ -4,27 +4,27 @@ const config_Phases_grouped = {
     "type": "doughnut",
     "data": {
         "labels": [
-            "Phase 1|Phase 2",
+            "Phase 1 Phase 2",
             "Phase 1",
             "Phase 2",
             "Not Applicable",
             "Phase 3",
             "Early Phase 1",
-            "Phase 2|Phase 3",
+            "Phase 2 Phase 3",
             "Phase 4"
         ],
         "datasets": [
             {
                 "label": "allo_count",
                 "data": [
-                    105,
-                    109,
-                    65,
-                    15,
-                    21,
-                    10,
-                    6,
-                    0
+                    242,
+                    201,
+                    139,
+                    36,
+                    26,
+                    19,
+                    17,
+                    1
                 ],
                 "backgroundColor": [
                     "rgb(153,102,255)",
@@ -40,13 +40,13 @@ const config_Phases_grouped = {
             {
                 "label": "auto_count",
                 "data": [
-                    59,
-                    53,
-                    38,
-                    25,
+                    123,
+                    97,
+                    74,
+                    50,
+                    21,
                     9,
-                    4,
-                    2,
+                    8,
                     2
                 ],
                 "backgroundColor": [
@@ -63,13 +63,13 @@ const config_Phases_grouped = {
             {
                 "label": "both_count",
                 "data": [
-                    1,
-                    1,
-                    3,
+                    29,
+                    9,
+                    14,
+                    10,
                     4,
                     1,
-                    0,
-                    0,
+                    1,
                     0
                 ],
                 "backgroundColor": [
@@ -86,14 +86,14 @@ const config_Phases_grouped = {
             {
                 "label": "undeclared_count",
                 "data": [
-                    100,
-                    91,
-                    56,
-                    42,
-                    15,
-                    7,
-                    8,
-                    3
+                    48,
+                    63,
+                    30,
+                    43,
+                    6,
+                    6,
+                    6,
+                    2
                 ],
                 "backgroundColor": [
                     "rgb(153,102,255)",

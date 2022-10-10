@@ -1,0 +1,127 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal XCEL-MT-OSTEO-ALPHA",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "MaximumAge",
+                  "MinimumAge",
+                  "NCTId",
+                  "NCTIdAlias",
+                  "OfficialTitle",
+                  "OrgClass",
+                  "OrgFullName",
+                  "OrgStudyId",
+                  "OrgStudyIdDomain",
+                  "OrgStudyIdLink",
+                  "OrgStudyIdType",
+                  "OtherEventAssessmentType",
+                  "OtherEventNotes",
+                  "OtherEventOrganSystem",
+                  "OtherEventSourceVocabulary"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "MaximumAge": [
+                              "65 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT02230514"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Phase IIa, Single Center, Prospective, Randomized, Parallel, Two-arms, Single-dose, Open-label With Blinded Assessor Pilot Clinical Trial to Assess ex Vivo Expanded Adult Autologous Mesenchymal Stromal Cells Fixed in Allogeneic Bone Tissue (XCEL-MT-OSTEO-ALPHA) in Non Hypertrophic Pseudoarthrosis of Long Bones"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "Banc de Sang i Teixits"
+                        ],
+                        "OrgStudyId": [
+                              "XCEL-PSART-01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 2,
+                        "MaximumAge": [
+                              "50 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT01605383"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Pilot Clinical Trial of \"ex Vivo\" Expanded Autologous Bone Marrow Mesenchymal Stem Cells Fixed in Allogenic Human Bone Tissue (XCEL-MT-OSTEO- ALPHA) in Osteonecrosis of the Femoral Head"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "Banc de Sang i Teixits"
+                        ],
+                        "OrgStudyId": [
+                              "XCEL-MT-10-01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 3,
+                        "MaximumAge": [
+                              "85 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT01552707"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "\"Ex Vivo\" Expanded Autologous Bone Marrow Mesenchymal Stem Cells Fixed in Allogenic Human Bone Tissue for Spinal Fusion in Spine Degenerative Disease"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "Banc de Sang i Teixits"
+                        ],
+                        "OrgStudyId": [
+                              "XCEL-MT-10-02"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  }
+            ]
+      }
+}

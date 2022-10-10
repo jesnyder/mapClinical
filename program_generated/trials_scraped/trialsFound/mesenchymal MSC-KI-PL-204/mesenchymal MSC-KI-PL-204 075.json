@@ -1,0 +1,117 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal MSC-KI-PL-204",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Ear, Nose, and Throat Diseases",
+                              "Nervous System Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Dysphonia",
+                              "Dysphonia",
+                              "Aphonia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M5312",
+                              "M8900",
+                              "M27211",
+                              "M3508",
+                              "M16727",
+                              "M9987",
+                              "M14129",
+                              "M12113",
+                              "M11556",
+                              "M14109",
+                              "M14775"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Cicatrix",
+                              "Hoarseness",
+                              "Dysphonia",
+                              "Aphonia",
+                              "Voice Disorders",
+                              "Laryngeal Diseases",
+                              "Respiratory Tract Diseases",
+                              "Otorhinolaryngologic Diseases",
+                              "Neurologic Manifestations",
+                              "Respiration Disorders",
+                              "Signs and Symptoms, Respiratory"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000055154",
+                              "D000006685",
+                              "D000001044"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Dysphonia",
+                              "Hoarseness",
+                              "Aphonia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "This is a phase I/IIa open, single-arm clinical study evaluating the safety and tolerability as well as the influence on VF function, of local injection of the autologous MSC product KI-MSC-PL-204, in patients suffering from chronic VF dysfunction."
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04290182"
+                        ]
+                  }
+            ]
+      }
+}

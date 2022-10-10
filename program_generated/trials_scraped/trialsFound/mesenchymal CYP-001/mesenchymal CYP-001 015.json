@@ -1,0 +1,99 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal CYP-001",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Mesenchymoangioblast-derived mesenchymal stem cells (CYP-001) at a dose of 1 million cells/kg (up to a maximum of 100 million cells) by IV infusion on two occasions (Day 0 and Day 7)",
+                              "Mesenchymoangioblast-derived mesenchymal stem cells (CYP-001) at a dose of 2 million cells/kg (up to a maximum of 200 million cells) by IV infusion on two occasions (Day 0 and Day 7)"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Mesenchymoangioblast-derived mesenchymal stem cells",
+                              "Biological: Mesenchymoangioblast-derived mesenchymal stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Cohort A",
+                              "Cohort B"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02923375"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [
+                              "MEND"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "The investigational medicinal product used in this study is known as CYP-001. The active agent in CYP-001 is Cymerus\u2122 MSCs. CYP-001 is supplied as 100 million Cymerus MSCs formulated in 20 mL cryoprotectant medium. On D1 and D3, each participant randomised to receive CYP-001 will receive an IV infusion of 2 million Cymerus MSCs/kg of body weight (up to a maximum of 200 million cells per infusion).",
+                              "Control participants will be randomised to received standard of care treatment."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: CYP-001"
+                        ],
+                        "ArmGroupLabel": [
+                              "CYP-001",
+                              "Standard of care"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04537351"
+                        ]
+                  }
+            ]
+      }
+}

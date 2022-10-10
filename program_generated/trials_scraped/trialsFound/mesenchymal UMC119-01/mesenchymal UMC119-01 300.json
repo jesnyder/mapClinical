@@ -1,0 +1,77 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal UMC119-01",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The percentage of subjects who died from any cause during the study.",
+                              "Changes from baseline of the oxygen saturation.",
+                              "Changes from baseline to 3 months of chest x-ray findings in participants before and after administration.",
+                              "Changes from baseline of inflammatory markers (pg/ml) .",
+                              "Comparison of the incidence and severity of preterm children's complications in participants before and after administration.",
+                              "The number of days of intubation, or where ventilator or oxygen therapy.",
+                              "Incidence of moderate/severe BPD or death at 36 weeks postmenstrual age (PMA)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "The percentage of subjects who died from any cause during the study.",
+                              "Changes of the oxygen saturation.",
+                              "Changes of chest x-ray findings in participants before and after administration.",
+                              "Changes of inflammatory markers (pg/ml) before and after administration.",
+                              "Comparison of the incidence and severity of preterm children's complications in participants before and after administration.",
+                              "The number of days of intubation, or where ventilator or oxygen therapy.",
+                              "Incidence of moderate/severe BPD or death at 36 weeks postmenstrual age (PMA)."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "3 months from the day of administration",
+                              "3 months from the day of administration",
+                              "3 months from the day of administration",
+                              "3 days and 7 days after administration",
+                              "3 months from the day of administration",
+                              "3 months from the day of administration",
+                              "36 weeks postmenstrual age (PMA)"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03631420"
+                        ]
+                  }
+            ]
+      }
+}

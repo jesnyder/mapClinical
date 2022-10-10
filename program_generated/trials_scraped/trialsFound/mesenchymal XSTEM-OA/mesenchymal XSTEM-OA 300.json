@@ -1,0 +1,71 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal XSTEM-OA",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Preliminary efficacy: Changes in Visual Analogue Scale (VAS) for pain compared to baseline",
+                              "Preliminary efficacy: Changes in Knee injury and Osteoarthritis Outcome Score (KOOS) compared to baseline",
+                              "Preliminary efficacy: Change in EuroQoL 5 Dimension 5 Level test (EQ-5D-5L) compared to baseline",
+                              "Preliminary efficacy: Change in 40 m fast paced walk test compared to baseline",
+                              "Preliminary efficacy: Change in cartilage structure compared to baseline, based on MRI assessment of cartilage volume and composition",
+                              "Preliminary efficacy: Change in whole knee health compared to baseline, based on MRI assessment by the MRI Osteoarthritis Knee Score (MOAKS)",
+                              "Preliminary efficacy: Change in inflammatory activity compared to baseline, based on MRI assessment of synovial thickness and synovial blood flow",
+                              "Preliminary efficacy: Changes in joint space narrowing based on x-ray compared to baseline"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "From start of study until 18 months after injection",
+                              "From start of study until 18 months after injection",
+                              "From start of study until 18 months after injection",
+                              "From start of study until 18 months after injection",
+                              "From start of study until 18 months after injection",
+                              "From start of study until 18 months after injection",
+                              "From start of study until 18 months after injection",
+                              "From start of study until 18 months after injection"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05344157"
+                        ]
+                  }
+            ]
+      }
+}

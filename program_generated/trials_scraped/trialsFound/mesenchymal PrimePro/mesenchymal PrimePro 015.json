@@ -1,0 +1,138 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal PrimePro",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "13 COVID-19 infected subjects (Patients admitted to hospital suffering complications from COVID-19) will be randomized and equally distributed between placebo and experimental intervention.",
+                              "13 COVID-19 infected subjects (Patients admitted to hospital suffering complications from COVID-19) will be randomized and equally distributed between placebo and experimental intervention.",
+                              "7 healthy subjects (healthcare providers following patients admitted to hospital suffering complications from COVID-19) will be randomized and equally distributed between placebo and experimental intervention.",
+                              "7 healthy subjects (healthcare providers following patients admitted to hospital suffering complications from COVID-19) will be randomized and equally distributed between placebo and experimental intervention."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: PrimePro",
+                              "Other: Placebo",
+                              "Biological: PrimePro",
+                              "Other: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "COVID-19 Patients Experimental",
+                              "COVID-19 Patients Placebo",
+                              "Healthcare Providers Experimental",
+                              "Healthcare Providers Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator",
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04573270"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Purpose is to evaluate an amniotic and umbilical cord stem cell rich tissue substance for autoimmune conditions. Outcomes will be compared to results in peer-reviewed literature for several conditions.",
+                              "Purpose is to evaluate an amniotic and umbilical cord stem cell rich tissue substance for cardiovascular disorders and conditions. Outcomes will be compared to results in peer-reviewed literature for several conditions.",
+                              "Purpose is to evaluate an amniotic and umbilical cord stem cell rich tissue substance for diabetes complications. Outcomes will be compared to results in peer-reviewed literature for several conditions.",
+                              "Purpose is to evaluate an amniotic and umbilical cord stem cell rich tissue substance for integumentary diseases and conditions. Outcomes will be compared to results in peer-reviewed literature for several conditions.",
+                              "Purpose is to evaluate an amniotic and umbilical cord stem cell rich tissue substance for orthopedic and musculoskeletal conditions. Outcomes will be compared to results in peer-reviewed literature for several conditions.",
+                              "Purpose is to evaluate an amniotic and umbilical cord stem cell rich tissue substance for neurologic and neurodegenerative disorders. Outcomes will be compared to results in peer-reviewed literature for several conditions.",
+                              "Purpose is to evaluate an amniotic and umbilical cord stem cell rich tissue substance for pulmonary disorders. Outcomes will be compared to results in peer-reviewed literature for several conditions.",
+                              "Purpose is to evaluate an amniotic and umbilical cord stem cell rich tissue substance for sexual dysfunction conditions. Outcomes will be compared to results in peer-reviewed literature for several conditions.",
+                              "Purpose is to evaluate an amniotic and umbilical cord stem cell rich tissue substance for urologic conditions. Outcomes will be compared to results in peer-reviewed literature for several conditions.",
+                              "Purpose is to evaluate an amniotic and umbilical cord stem cell rich tissue substance for viral illnesses. Outcomes will be compared to results in peer-reviewed literature for several conditions."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: PrimePro\u2122/ PrimeMSK\u2122",
+                              "Biological: PrimePro\u2122/ PrimeMSK\u2122",
+                              "Biological: PrimePro\u2122/ PrimeMSK\u2122",
+                              "Biological: PrimePro\u2122/ PrimeMSK\u2122",
+                              "Biological: PrimePro\u2122/ PrimeMSK\u2122",
+                              "Biological: PrimePro\u2122/ PrimeMSK\u2122",
+                              "Biological: PrimePro\u2122/ PrimeMSK\u2122",
+                              "Biological: PrimePro\u2122/ PrimeMSK\u2122",
+                              "Biological: PrimePro\u2122/ PrimeMSK\u2122",
+                              "Biological: PrimePro\u2122/ PrimeMSK\u2122"
+                        ],
+                        "ArmGroupLabel": [
+                              "Arm 1: Autoimmune Diseases",
+                              "Arm 2: Cardiovascular Disorders",
+                              "Arm 3: Diabetes Complications",
+                              "Arm 4: Integumentary Disease",
+                              "Arm 5: Musculoskeletal Disorders",
+                              "Arm 6: Neurodegenerative Disorders",
+                              "Arm 7: Pulmonary Disorders",
+                              "Arm 8: Sexual Dysfunction",
+                              "Arm 9: Urologic Disorders",
+                              "Arm 10: Viral Illnesses"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Experimental",
+                              "Experimental",
+                              "Experimental",
+                              "Experimental",
+                              "Experimental",
+                              "Experimental",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04684602"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,12 +1,13 @@
 import numpy as np
 
+from build_dataset import build_dataset
 from list_trials import list_trials
-from list_trials import query_trials
 from query_openmaps import query_openmaps
 from assign_groups import assign_groups
 from write_geojson import write_geojson
 from year_counts import year_counts
 from summarize_fields import summarize_fields
+from prepare_html import prepare_html
 
 
 def main():
@@ -15,11 +16,11 @@ def main():
     Map clinical trials
     """
 
-    tasks = [1, 2, 3, 4, 5]
+    tasks = [2, 3, 4, 5, 6]
     #tasks = np.arange(1,6,1)
     #tasks.append('openmaps')
 
-    if 0 in tasks: query_trials()
+    if 0 in tasks: build_dataset()
 
     # list trials
     if 1 in tasks: list_trials()
@@ -38,6 +39,9 @@ def main():
 
     # summarize fields
     if 5 in tasks: summarize_fields()
+
+    # prepare html
+    if 6 in tasks: prepare_html()
 
 
 if __name__ == "__main__":

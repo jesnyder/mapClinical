@@ -1,0 +1,129 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Stempeucel",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This is an open label, non-randomized, dose ranging study to evaluate the safety and efficacy of different doses of Stempeucel in critical limb ischemia patients."
+                        ],
+                        "BriefTitle": [
+                              "A Clinical Trial to Study the Efficacy and Safety of Different Doses of Bone Marrow Derived Mesenchymal Stem Cells in Patients With Critical Limb Ischemia Due to Buergers Disease"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "March 2016"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Critical Limb Ischemia",
+                              "Buerger's Disease"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010335",
+                              "D000001157",
+                              "D000014652",
+                              "D000002318",
+                              "D000014657"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathologic Processes",
+                              "Arterial Occlusive Diseases",
+                              "Vascular Diseases",
+                              "Cardiovascular Diseases",
+                              "Vasculitis"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC14",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT01484574"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "BriefSummary": [
+                              "This study is being conducted as an extension of the phase II clinical trial SRPL/CLI/10-11/001 (NCT01484574). The CDSCO has recommended flexibility for continued clinical study in consultation with ICMR, as per recommendation of Cellular biology based therapeutic drug evaluation committee (CBBTDEC)."
+                        ],
+                        "BriefTitle": [
+                              "A Clinical Trial to Study the Efficacy and Safety of Stempeucel\u00ae in Patients With CLI Due to Buergers Disease"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "October 2019"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Critical Limb Ischemia Due to Buerger's Disease"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010335",
+                              "D000001157",
+                              "D000014652",
+                              "D000002318",
+                              "D000014657"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathologic Processes",
+                              "Arterial Occlusive Diseases",
+                              "Vascular Diseases",
+                              "Cardiovascular Diseases",
+                              "Vasculitis"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC14",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT03056742"
+                        ]
+                  }
+            ]
+      }
+}

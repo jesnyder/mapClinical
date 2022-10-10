@@ -1,0 +1,111 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Chondrochymal",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Ming-Chau chang, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "September 10, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Change from baseline in the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) pain score on the target knee at Week 24.\n\nThe Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC LK 3.1) is applied extensively to patients with osteoarthritis of the hip or knee. It is a 24-item patient-reported questionnaire with a total score ranging from 0 to 96. The sub-scores range from 0 to 4 for each item with a higher score indicating a more severe OA symptom. The WOMAC includes 3 domains: (1) Pain: 5 items (score range: 0 to 20), (2) Stiffness: 2 items (score range: 0 to 8), and (3) Functional limitation: 17 items (score range: 0 to 68).\n\nFor ease of interpretation, WOMAC scores (including total scores and sub-scores) will be linearly transformed to a 0 to 100 scale."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Efficacy-Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) assessment"
+                        ],
+                        "NCTId": [
+                              "NCT05027581"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "OverallOfficialName": [
+                              "Ming-Chau Chang, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "May 3, 2019"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "treatment-related adverse events assessed by CTCAE v4.0"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Number of participants with adverse events as measure of safety and tolerability"
+                        ],
+                        "NCTId": [
+                              "NCT03589287"
+                        ]
+                  }
+            ]
+      }
+}

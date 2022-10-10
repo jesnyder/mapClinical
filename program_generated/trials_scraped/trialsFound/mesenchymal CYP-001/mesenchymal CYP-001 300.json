@@ -1,0 +1,135 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal CYP-001",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2016-000070-38"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Proportion of participants who show a Complete Response (absence of any signs or symptoms of GvHD) by Day 28",
+                              "Proportion of participants who show a Partial Response (improvement in the severity of GvHD by at least one grade compared to baseline) by Day 28",
+                              "Proportion of participants who survive until Day 28",
+                              "Proportion of participants who show a Complete Response by Day 100",
+                              "Proportion of participants who show a Partial Response by Day 100",
+                              "Proportion of participants who survive until Day 100"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Complete Response by Day 28",
+                              "Partial Response by Day 28",
+                              "Overall Survival at Day 28",
+                              "Complete Response by Day 100",
+                              "Partial Response by Day 100",
+                              "Overall Survival at Day 100"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "100 days",
+                              "100 days",
+                              "100 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02923375"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Assessment of safety",
+                              "Circulating biomarker of inflammation",
+                              "Not hospitalised, with resumption of normal activities = 1; Not hospitalised, but unable to resume normal activities = 2; Hospitalised, not requiring supplemental oxygen = 3; Hospitalised, requiring supplemental oxygen = 4; Hospitalised, requiring humidified nasal high-flow oxygen therapy, non-invasive mechanical ventilation, or both = 5; Hospitalised, requiring invasive mechanical ventilation, extracorporeal membrane oxygenation or both = 6; Death = 7",
+                              "Assessment of respiratory dysfunction",
+                              "Assessment of respiratory dysfunction",
+                              "Assessment of respiratory dysfunction",
+                              "Assessment of respiratory dysfunction",
+                              "Assessment of respiratory dysfunction",
+                              "Number of days from the time of initiating unassisted breathing to D28, assuming survival for at least 48 hours after initiating unassisted breathing and continued unassisted breathing to D28",
+                              "Quality of life assessment",
+                              "Disability assessment"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Incidence and severity of treatment-emergent adverse events",
+                              "Change in C-reactive protein (CRP) levels",
+                              "Proportional differences between groups on the Clinical Improvement Scale",
+                              "Changes in P/F ratio",
+                              "Changes in respiratory rate",
+                              "Changes in oxygenation index",
+                              "Changes in respiratory compliance (the change in lung volume per unit change in transmural pressure gradient)",
+                              "Changes in positive end-expiratory pressure",
+                              "Ventilator-free days",
+                              "Proportional differences between groups on the SF-36",
+                              "Proportional differences between groups on the mini mental state examination"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "28 days",
+                              "7 days",
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "28 days",
+                              "28 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04537351"
+                        ]
+                  }
+            ]
+      }
+}

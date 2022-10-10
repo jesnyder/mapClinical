@@ -1,0 +1,956 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal ALLO-ASC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 22,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 22,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "1 million cells/ml of ALLO-ASC",
+                              "10 million cells/ml of ALLO-ASC"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC(allogeneic adipose derived mesenchymal stem cell) injection"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01856140"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "High concentration of Allo-ASC group",
+                              "Low concentration of Allo-ASC group",
+                              "High concentration of Allo-ASC group",
+                              "Low concentration of Allo-ASC group",
+                              "Placebo Comparator (Fibrin) group",
+                              "Placebo Comparator (Fibrin) group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All",
+                              "Coag"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals",
+                              "Coagulants"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Isoflurane"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M21013",
+                              "M17443",
+                              "M8728",
+                              "M5411"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions",
+                              "Fibrin Tissue Adhesive",
+                              "Hemostatics",
+                              "Coagulants"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "10 million cells of Allo-ASC 0.5cc",
+                              "1 million cells of Allo-ASC 0.5cc",
+                              "Fibrin glue 0.5cc",
+                              "Normal saline 0.5cc"
+                        ],
+                        "InterventionMeshId": [
+                              "D000015718"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Fibrin Tissue Adhesive"
+                        ],
+                        "InterventionName": [
+                              "High concentration of Allo-ASC",
+                              "Low concentration of Allo-ASC",
+                              "Fibrin glue",
+                              "Normal saline"
+                        ],
+                        "InterventionOtherName": [
+                              "Fibrin sealant",
+                              "0.9% Sodium Chloride Solution"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03449082"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASC group",
+                              "Normal saline group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Coag",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Coagulants",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Isoflurane"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M17443",
+                              "M8728",
+                              "M5411"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Fibrin Tissue Adhesive",
+                              "Hemostatics",
+                              "Coagulants"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Allogenic-adipose-derived mesenchymal stem cells (ALLO-ASC) injection to the anal sphincter of patients with fecal incontinence",
+                              "0.9% normal saline with fibrin glue injection to the anal sphincter of patients with fecal incontinence"
+                        ],
+                        "InterventionMeshId": [
+                              "D000015718"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Fibrin Tissue Adhesive"
+                        ],
+                        "InterventionName": [
+                              "ALLO-ASC injection",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "ALLO-ASC",
+                              "Normal saline with fibrin glue injection"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02384499"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASC-SHEET",
+                              "Hydrogel SHEET(Vehicle control)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Hydrogel sheet containing Allogenic Mesenchymal Stem Cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC-SHEET"
+                        ],
+                        "InterventionOtherName": [
+                              "Hydrogel sheet containing Allogenic Mesenchymal Stem Cells"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04497805"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASC-DFU",
+                              "Standard therapy"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Application of ALLO-ASC-DFU sheet to diabetic foot ulcer",
+                              "Standard therapy conducted for patients with diabetic foot ulcer"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC-DFU",
+                              "Standard therapy"
+                        ],
+                        "InterventionOtherName": [
+                              "Allogeneic mesenchymal stem cells"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02619877"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASC-DFU",
+                              "Hydrogel SHEET(Vehicle control)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Application of ALLO-ASC-DFU Sheet to diabetic foot ulcer",
+                              "Application of Hydrogel SHEET to diabetic foot ulcer"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC-DFU",
+                              "Hydrogel SHEET(Vehicle control)"
+                        ],
+                        "InterventionOtherName": [
+                              "Hydrogel sheet containing Allogenic Mesenchymal Stem Cells",
+                              "Hydrogel sheet without Allogenic Mesenchymal Stem Cells"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03754465"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASC-DFU",
+                              "Conventional Therapy"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Dressing for Second Deep degree Burn injury",
+                              "Typical therapy conducted for burn injury patients"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC-DFU",
+                              "Conventional Therapy"
+                        ],
+                        "InterventionOtherName": [
+                              "Allogeneic mesenchymal stem cells"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Device"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02619851"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASC-DFU",
+                              "Vehicle Sheet"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Application of ALLO-ASC-DFU sheet to diabetic foot ulcer",
+                              "Application of Vehicle sheet to diabetic foot ulcer"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC-DFU",
+                              "Vehicle sheet"
+                        ],
+                        "InterventionOtherName": [
+                              "Hydrogel sheet containing allogenic mesenchymal stem cells",
+                              "Hydrogel sheet without Allogenic mesenchymal stem cell"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03370874"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASC-DFU treatment"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3369",
+                              "M11052",
+                              "M17833"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anti-Inflammatory Agents",
+                              "Mitogens",
+                              "Endothelial Growth Factors"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "ALLO-ASC-DFU is a hydrogel sheet containing allogenic adipose-derived mesenchymal stem cells. Adipose-derived stem cells have anti-inflammatory effect and release growth factors such as vascular endothelial growth factor (VEGF) and hepatocyte growth factor (HGF), which can enhance wound healing and regeneration of new tissue, finally may provide an new option in treating a diabetic foot ulcer.\n\nThis study is a follow-up study without intervention."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC-DFU"
+                        ],
+                        "InterventionOtherName": [
+                              "Allogenic adipose-derived mesenchymal stem cells"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT03183726"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASC-CD injection"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "ALLO-ASC-CD is intravenous infusion containing allogenic adipose-derived mesenchymal stem cells. Adipose-derived stem cells are directed to injured tissue, and reduce inflammation. Furthermore their immunomodulatory effects are significant for treating immune-related disease. Finally, ALLO-ASC-CD may provide a new option in treating a crohn's disease. This study is a follow-up study without intervention."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC-CD"
+                        ],
+                        "InterventionOtherName": [
+                              "Allogenic adipose-derived mesenchymal stem cell"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT03183661"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "InterventionArmGroupLabel": [
+                              "Mesenchymal stem cell group",
+                              "Active control (fibrin glue) group",
+                              "Control (normal saline )group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Coag",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Coagulants",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Isoflurane"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M17443",
+                              "M8728",
+                              "M5411"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Fibrin Tissue Adhesive",
+                              "Hemostatics",
+                              "Coagulants"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Intervention will be done with stem cell injection, 0.5cc (Total: 10 million cells), fibrin glue injection 0.5cc and range of motion exercise.",
+                              "Total 1cc of fibin glue and normal saline mixture injection and range of motion exercise",
+                              "Total 1cc of normal saline injection and range of motion exercise"
+                        ],
+                        "InterventionMeshId": [
+                              "D000015718"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Fibrin Tissue Adhesive"
+                        ],
+                        "InterventionName": [
+                              "allogenic adipose stem cell injection",
+                              "fibrin glue/normal saline injection",
+                              "normal saline injection"
+                        ],
+                        "InterventionOtherName": [
+                              "experimental group",
+                              "active control group",
+                              "placebo group"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02298023"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASC-DFU",
+                              "Standard therapy"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Application of ALLO-ASC-DFU sheet to diabetic foot ulcer. This study is a follow-up study without intervention.",
+                              "Standard therapy conducted for patients with diabetic foot ulcer. This study is a follow-up study without intervention."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC-DFU",
+                              "Standard therapy"
+                        ],
+                        "InterventionOtherName": [
+                              "Allogeneic mesenchymal stem cells"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT03183804"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3374",
+                              "M3376"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anti-Bacterial Agents",
+                              "Antibiotics, Antitubercular"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "1). Cryopreserved cell suspension of early passages of cultured allogeneic MSCs isolated from SVF obtained from lipoaspirate, a total of 10 mln. of cultured cells; 2).The TE-construct consisting of collagen- or fibrin-derived hydrogels and cells of early passages (up to P5) suspension of allogeneic cultured MSCs isolated from SVF obtained from lipoaspirate; Biological is applied by surface application over perforated (1:3) autologous skin graft following the covering with hypoadhesive bandage. This procedure is carried out twice - once simultaneously with a skin grafting procedure and 2-3 days following autodermoplasty, while bandaging."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASCs"
+                        ],
+                        "InterventionOtherName": [
+                              "Allogeneic adipose-derived stem cells"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03113747"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASC-DFU",
+                              "Conventional Therapy"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Dressing for Dystrophic Epidermolysis Bullosa wound.",
+                              "Dressing for Dystrophic Epidermolysis Bullosa wound."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic mesenchymal stem cells",
+                              "Polyurethene Film"
+                        ],
+                        "InterventionOtherName": [
+                              "ALLO-ASC-DFU"
+                        ],
+                        "InterventionType": [
+                              "Other",
+                              "Device"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02579369"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASC"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Infusion for Crohn's disease"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC"
+                        ],
+                        "InterventionOtherName": [
+                              "ALLO-ASC-CD"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02580617"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASC-DFU"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC-DFU"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02394886"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASC-DFU"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Dressing for second-degree burn wound."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC-DFU"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02394873"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASC-DFU treatment"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3369",
+                              "M11052",
+                              "M17833"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anti-Inflammatory Agents",
+                              "Mitogens",
+                              "Endothelial Growth Factors"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "ALLO-ASC-DFU is a hydrogel sheet containing allogenic adipose-derived mesenchymal stem cells. Adipose-derived stem cells have anti-inflammatory effect and release growth factors such as vascular endothelial growth factor(VEGF) and hepatocyte growth factor (HGF), which can enhance wound healing and regeneration of new tissue, finally may provide a new option in treating a burn.\n\nThis tudy is a follow-up study without intervention.\n\nOther Names:\n\nAllogenic adipose-derived mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC-DFU"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03183622"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3369",
+                              "M11052",
+                              "M17833"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anti-Inflammatory Agents",
+                              "Mitogens",
+                              "Endothelial Growth Factors"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "ALLO-ASC-DFU is a hydrogel sheet containing allogenic adipose-derived mesenchymal stem cells. Adipose-derived stem cells have anti-inflammatory effect and release growth factors such as vascular endothelial growth factor(VEGF) and hepatocyte growth factor (HGF), which can enhance wound healing and regeneration of new tissue, finally may provide a new option in treating a burn.\n\nThis tudy is a follow-up study without intervention.\n\nOther Names:\n\nAllogenic adipose-derived mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC-DFU"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03183648"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASC-DFU",
+                              "Vehicle sheet"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Application of ALLO-ASC-DFU sheet to Diabetic Wagner grade 2 Foot Ulcer",
+                              "Application of Vehicle sheet to Diabetic Wagner grade 2 Foot Ulcer"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC-DFU",
+                              "Vehicle Sheet"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04569409"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3369",
+                              "M11052",
+                              "M17833"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anti-Inflammatory Agents",
+                              "Mitogens",
+                              "Endothelial Growth Factors"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "ALLO-ASC-DFU is a hydrogel sheet containing allogenic adipose-derived mesenchymal stem cells. Adipose-derived stem cells have anti-inflammatory effect and release growth factors such as vascular endothelial growth factor(VEGF) and hepatocyte growth factor (HGF), which can enhance wound healing and regeneration of new tissue, finally may provide a new option in treating a Dystrophic Epidermolysis Bullosa.\n\nThis study is a follow-up study without intervention.\n\nOther Names:\n\nAllogenic adipose-derived mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC-DFU"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT03183934"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "InterventionArmGroupLabel": [
+                              "ALLO-ASC-SHEET",
+                              "Conventional Therapy"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Weekly administration",
+                              "Weekly administration"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ALLO-ASC-SHEET",
+                              "Vehicle Control"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05157958"
+                        ]
+                  }
+            ]
+      }
+}

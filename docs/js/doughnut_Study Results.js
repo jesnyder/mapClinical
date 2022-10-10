@@ -3,21 +3,12 @@
 const config_Study Results = {
     "type": "doughnut",
     "data": {
-        "labels": [
-            "No Results Available",
-            "Has Results"
-        ],
+        "labels": [],
         "datasets": [
             {
                 "label": "all",
-                "data": [
-                    44227,
-                    1471
-                ],
-                "backgroundColor": [
-                    "rgb(212,178,212)",
-                    "rgb(255,105,140)"
-                ]
+                "data": [],
+                "backgroundColor": []
             }
         ]
     },

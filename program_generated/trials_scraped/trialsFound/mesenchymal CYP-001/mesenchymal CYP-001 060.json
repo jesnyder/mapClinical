@@ -1,0 +1,156 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal CYP-001",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The purpose of this study is to assess the safety, tolerability and efficacy of two infusions of CYP-001 in adults with steroid-resistant GvHD."
+                        ],
+                        "BriefTitle": [
+                              "A Study of CYP-001 for the Treatment of Steroid-Resistant Acute Graft Versus Host Disease"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "June 30, 2020"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Graft vs Host Disease"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000007154"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC20",
+                              "All",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT02923375"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "BriefSummary": [
+                              "This is a pilot, multi-centre, open-label randomised controlled study to assess the early efficacy of intravenous (IV) administration of CYP-001 in adults admitted to an intensive care unit (ICU) with respiratory failure"
+                        ],
+                        "BriefTitle": [
+                              "The MEseNchymal coviD-19 Trial: MSCs in Adults With Respiratory Failure Due to COVID-19 or Another Underlying Cause"
+                        ],
+                        "CentralContactEMail": [
+                              "clinical@cynata.com"
+                        ],
+                        "CentralContactName": [
+                              "Cynata Project Manager"
+                        ],
+                        "CentralContactPhone": [
+                              "+ 613 9824 5254"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "Cerebral Palsy Alliance"
+                        ],
+                        "CompletionDate": [
+                              "December 31, 2022"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Covid19",
+                              "Acute Respiratory Distress Syndrome"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000012141",
+                              "D000007239",
+                              "D000011024",
+                              "D000011014",
+                              "D000014777",
+                              "D000018352",
+                              "D000003333",
+                              "D000030341",
+                              "D000012327",
+                              "D000008171",
+                              "D000012140",
+                              "D000012120",
+                              "D000007235",
+                              "D000007232",
+                              "D000055370"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Respiratory Tract Infections",
+                              "Infections",
+                              "Pneumonia, Viral",
+                              "Pneumonia",
+                              "Virus Diseases",
+                              "Coronavirus Infections",
+                              "Coronaviridae Infections",
+                              "Nidovirales Infections",
+                              "RNA Virus Infections",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Respiration Disorders",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Lung Injury"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC01",
+                              "BC08",
+                              "All",
+                              "BC23",
+                              "BC16",
+                              "BC26",
+                              "BXS",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT04537351"
+                        ]
+                  }
+            ]
+      }
+}

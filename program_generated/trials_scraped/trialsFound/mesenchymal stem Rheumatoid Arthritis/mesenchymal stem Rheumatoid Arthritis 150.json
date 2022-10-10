@@ -1,0 +1,821 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Rheumatoid Arthritis",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 18,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 18,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Refractory rheumatoid arthritis patients"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "A single intravenous administration of autologous bone marrow derived mesenchymal stem cells(1000000 to 2000000 cells/Kg)"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03333681"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "UC-MSCs Treatment",
+                              "DMARDS",
+                              "UC-MSC+DMARDS"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "ARhu",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Antirheumatic Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Home exercise program"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M19757"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Antirheumatic Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high"
+                        ],
+                        "InterventionDescription": [
+                              "-The UC-MSCs will be infused intravenously(single dose, 4x10^7 cells).The interval time is 3 months, and the study lasts for 12 months with 4 times infusion.",
+                              "-Patients will be treated by conventional drugs (DMARDS) for alleviating disease.",
+                              "The UC-MSCs will be infused intravenously(single dose, 4x10^7 cells).The interval time is 3 months, and the study lasts for 12 months with 4 times infusion.Meanwhile,patients will be treated by conventionally drugs if the disease is still not alleviated."
+                        ],
+                        "InterventionMeshId": [
+                              "D000018501"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Antirheumatic Agents"
+                        ],
+                        "InterventionName": [
+                              "Umbilical Cord-Derived Mesenchymal Stem Cells (UC-MSCs)",
+                              "Rheumatoid Arthritis With Disease-Modifying Drugs (DMARDs)",
+                              "UC-MSC+DMARDS"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Drug",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01547091"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "hUC-MSC + DMARDs",
+                              "DMARDs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "ANeo",
+                              "ARhu",
+                              "Derm",
+                              "Repr",
+                              "All",
+                              "Micro",
+                              "Hemat",
+                              "Vi"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Antineoplastic Agents",
+                              "Antirheumatic Agents",
+                              "Dermatologic Agents",
+                              "Reproductive Control Agents",
+                              "All Drugs and Chemicals",
+                              "Micronutrients",
+                              "Hematinics",
+                              "Vitamins"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Into",
+                              "Home exercise program"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M10855",
+                              "M19757",
+                              "M3433",
+                              "M6226",
+                              "M7770",
+                              "M16698",
+                              "M7771",
+                              "M9364",
+                              "M9353",
+                              "T447",
+                              "T446",
+                              "T448",
+                              "T475"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Methotrexate",
+                              "Antirheumatic Agents",
+                              "Antimetabolites",
+                              "Dermatologic Agents",
+                              "Folic Acid",
+                              "Vitamin B Complex",
+                              "Folic Acid Antagonists",
+                              "Immunosuppressive Agents",
+                              "Immunologic Factors",
+                              "Folinic Acid",
+                              "Folic Acid",
+                              "Folate",
+                              "Vitamin B9"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Patients will be treated by conventional drugs (DMARDs) for alleviating disease. Combinated with a single dose of 2\u00d7107 hUC-MSC will treated to patients, IV, Repeat every weeks for four times.",
+                              "Patients will be treated by conventional drugs (DMARDs) for alleviating disease."
+                        ],
+                        "InterventionMeshId": [
+                              "D000008727",
+                              "D000018501"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Methotrexate",
+                              "Antirheumatic Agents"
+                        ],
+                        "InterventionName": [
+                              "hUC-MSC + DMARDs",
+                              "DMARDs"
+                        ],
+                        "InterventionOtherName": [
+                              "Human Umbilical Cord-Mesenchymal Stem Cells",
+                              "NSAIDs",
+                              "Methotrexate"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02643823"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "InterventionArmGroupLabel": [
+                              "mesencymal stem cell",
+                              "placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Mesenchymal stem cell transplantation in patients with rheumatoid arthritis for resurfacing of articular cartilage of knee due to osteoarthritis."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "mesenchymal cell transplantation",
+                              "placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01873625"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "InterventionArmGroupLabel": [
+                              "Umbilical cord mesenchymal stem cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "ARhu",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Antirheumatic Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M19757"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Antirheumatic Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Umbilical cord mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01985464"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "InterventionArmGroupLabel": [
+                              "hUC-MSC infusion (BC-U001)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "The participants are intravenously administered a single infusion of hUC-MSC at 0.5x10^6 cells/kg body weight, 1.0x10^6 cells/kg body weight, 1.5x10^6 cells/kg body weight for low-dose cohort, medium-dose cohort and high-dose cohort respectively."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "hUC-MSC infusion (BC-U001)"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04971980"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "InterventionArmGroupLabel": [
+                              "UC-MSCs treatment"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "The UC-MSCs will be administrated by intravenous injection at the dose of 1\u00d710^6 cells/kg."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "UC-MSCs"
+                        ],
+                        "InterventionOtherName": [
+                              "placebo"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03798028"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "InterventionArmGroupLabel": [
+                              "Treatment Arm"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Hope Biosciences autologous adipose-derived mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HB-adMSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03691909"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "InterventionArmGroupLabel": [
+                              "Treatment Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "cultured allogeneic adult umbilical cord derived mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "AlloRx"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05003934"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "InterventionArmGroupLabel": [
+                              "hUC-MSC treatment",
+                              "Placebo control"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Patients will be treated at dose of 0.75\u00d710^6 cells/kg of body weight (Cohort 1) or 1.5\u00d710^6 cells/kg of body weight (Cohort 2) via a single IV infusion using a blood transfusion kit.",
+                              "Placebo contains the same cell suspension as BX-U001 but without cells."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "hUC-MSC suspension",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "BX-U001"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03828344"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "InterventionArmGroupLabel": [
+                              "Cohort 1",
+                              "Cohort 2",
+                              "Cohort 3",
+                              "Cohort 1",
+                              "Cohort 2",
+                              "Cohort 3"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "2 million hMSCs/kg infusion",
+                              "4 million hMSC/kg infusion",
+                              "6 million hMSC/kg infusion",
+                              "placebo infusion"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "2 million hMSC/kg",
+                              "4 million hMSC/kg",
+                              "6 million hMSC/kg",
+                              "placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03186417"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "InterventionArmGroupLabel": [
+                              "Phase 1 ARM 0",
+                              "Phase 2 ARM 1",
+                              "Phase 2 ARM 2"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Culture expanded mesenchymal stem cells isolated from patient's own abdominal fat tissue"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "autologous adipose derived stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "Celltex-AdMSCs"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04170426"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "InterventionArmGroupLabel": [
+                              "Stem Cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Intravenous administration of autologous bone marrow derived stem cells for immunomodulation.\nTransplantation of autologous bone marrow derived stem cells in joints."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Stem Cell Transplantation"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT03067870"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "InterventionArmGroupLabel": [
+                              "FURESTEM-RA Inj.",
+                              "Placebo Comparator: Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "The allogeneic umbilical cord blood-derived mesenchymal stem cells of each dose level as below were mixed into an IV bag containing 100 ml of sterile saline solution and the IV bag was gently massaged to obtain homogeneous mixture of the cell suspension.\n\nAdminister the constituted cell suspension by IV infusion to a subject. The infusion should be completed in 60 minutes using infusion pump.\n\nDose level 1: 5.0 x 10^7 cells /body 3 repeated intravenous injection at 4 week intervals\nDose level 2: 1.0 x 10^8 cells /body 3 repeated intravenous injection at 4 week intervals",
+                              "sterile saline 3 repeated intravenous injection at 4 week intervals\n\nPlacebo were mixed into an IV bag containing 100 ml of sterile saline solution and the IV bag was gently massaged to obtain homogeneous mixture of the cell suspension.\n\nAdminister the constituted cell suspension by IV infusion to a subject. The infusion should be completed in 60 minutes using infusion pump."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "FURESTEM-RA Inj",
+                              "sterile saline"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03618784"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "InterventionArmGroupLabel": [
+                              "Conventional plus UC-MSC treatment",
+                              "Conventional plus placebo treatment"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M4101"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Bilirubin"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Received conventional treatment and taken i.v., once per 4 week, at a dose of 1*10E6 UC-MSC/kg body weight for 12 weeks.",
+                              "Received conventional treatment and taken i.v., once per 4 week, at 50 ml saline for 12 weeks"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "conventional plus UC-MSC treatment",
+                              "Conventional plus placebo treatment"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01662973"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "InterventionArmGroupLabel": [
+                              "Conventional plus UC-MSC treatment",
+                              "Conventional plus placebo treatment"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All",
+                              "Hemat"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals",
+                              "Hematinics"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M9336",
+                              "M3377",
+                              "M10262",
+                              "M18269",
+                              "M9274"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Immunoglobulins",
+                              "Antibodies",
+                              "Liver Extracts",
+                              "Immunoglobulins, Intravenous",
+                              "Immunoglobulin G"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Received conventional treatment and taken i.v., once per 4 week, at a dose of 1\u00d7106 UC-MSC/kg body weight for 12 weeks.",
+                              "Received conventional treatment and taken i.v., once per 4 week, at 50 ml saline for 12 weeks"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "conventional plus UC-MSC treatment",
+                              "Conventional plus placebo treatment"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01661842"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "InterventionArmGroupLabel": [
+                              "Treatment",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "first cohort: 1 million stem cells/kg administered at days 1, 8 and 15\nsecond cohort: 2 million stem cells / kg administered at days 1, 8 and 15\nthird cohort: 4 million stem cells / kg administered at days 1, 8 and 15",
+                              "first cohort: 20 ml administered at days 1, 8 and 15\nsecond cohort: 40 ml administered at days 1, 8 and 15\nthird cohort: 80 ml administered at days 1, 8 and 15"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Stem cells",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Genetic",
+                              "Genetic"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01663116"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "InterventionArmGroupLabel": [
+                              "AlloStem Live Cellular Allograft",
+                              "Control: Autologous Bone Marrow Aspirate"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Subtalar Arthrodesis"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT01413061"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,828 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Critical Limb Ischemia",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 27,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 27,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Care Provider",
+                              "Investigator"
+                        ],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nMales or females with non-child bearing potential in the age group of 18-60 yrs of Indian origin.\nEstablished CLI, clinically and hemodynamically confirmed as per Rutherford- II-4, III-5, or III-6; Patients having Infra-inguinal arterial occlusive disease with rest pain or ischemic ulcer/necrosis, who are not eligible for or have failed traditional revascularization treatment (No option patients)\nAnkle Brachial Pressure Index (ABPI) \u2264 0.6 or ankle pressure \u2264 70 mm Hg or TcPO2 \u2264 60 mmHg in the foot\nPatients if having associated Type II Diabetes, should be on medication and well controlled (HbA1c \u2264 8%) without complications\nPatients who are able to understand the requirements of the study, and willing to provide voluntary written informed consent, abide by the study requirements, and agree to return for required follow-up visits\nNormal liver and renal function\nOn regular medication for hypertension if any\n\nExclusion Criteria:\n\nPatients with CLI suitable for surgical or percutaneous revascularization as determined by the surgeon performing vascular procedure and patients with any acute/chronic inflammatory condition\nCLI patient requiring amputation proximal to trans-metatarsal level\nPatients with gait disturbance for reasons other than CLI.\nType I diabetes\nPatients having respiratory complications/left ventricular ejection fraction < 25%f) Stroke or myocardial infarction within last 3 months\nPatients who are contraindicated for MRA\nHave clinically serious and/or unstable inter-current infection, medical illnesses or conditions that are uncontrolled or whose control, in the opinion of the Investigator, may be jeopardized by participation in this study or by the complications of this therapy\nDocumented terminal illness or cancer or any concomitant disease process with a life expectancy of less than 1 year\nPatients already enrolled in another investigational drug trial or completed within 3 months.\nHistory of severe alcohol or drug abuse within 3 months of screening.\nHb% < 10 gm%, Serum Creatinine \u2265 2mg%, Serum Total Bilirubin \u22652mg%, HbA1c > 8%\nWomen with child bearing potential, pregnant and lactating women.\nPatients tested positive for HIV 1, HCV, HBV,"
+                        ],
+                        "EnrollmentCount": [
+                              "20"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT00883870"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "This clinical trial is designed as a Phase 1/2a clinical trial targeting patients with critical limb ischemia. The trial is composed of Phase 1 to assess the tolerability and safety and Phase 2a to assess the safety and efficacy of the investigational product.\n\nPhase 1: Open-label, 3 + 3 design, single-center This phase is conducted in a 3 + 3 design by dose level to evaluate the tolerability of the investigational product.\n\nIf the subject voluntarily agrees signs the informed consent formin writing to participate in this clinical trial, the subjects who had necessary check-ups and tests and meet the inclusion criteria after subject conformity assessment are registered in the clinical trial.The subjects receive the investigational product once and are checked for adverse events through day 1 and then discharged. The safety and efficacy assessments are conducted through visits at week 4, week 12, and week 24 after administration.\n\nSubjects are evaluated for adverse events up to week 4 after the administration of the investigational product by registering 3 subjects each at the dosing phase. This evaluation is conducted according to the number of persons subjects who developed Grade 3 or higher adverse drug reactions (ADRs) according to CTCAE Version_5.0 in which a causal relation with the investigational product cannot be ruled out.\n\nIf the maximum tolerated dose (MTD) is determined with the test group 2 (high dose) in the Phase 1 clinical trial, the Phase 2a clinical trial will be conducted with the two groups, test group 2 and test group 1.\n\nHowever, if adverse events occur in 1 of 6 subjects, the test group 2 will be decided considered as the maximum tolerated dose (MTD), or but only the test group 1 will proceed to Phase 2a.\n\nIf adverse events occur in 2 or more subjects out of 6 subjects, a dose smaller than test group 1 (low dose) is determined to be the maximum tolerated dose. The Phase 2a clinical trial will not proceed and the clinical trial will end.\n\nPhase 2a: Open-label, sequential assignment, single-center If tolerability and safety are secured 4 weeks after administration of the investigational product of Phase 1, Phase 2a is conducted.\n\nOnly those subjects meeting the final inclusion criteria are sequentially assigned, admitted by the same procedure, and administered the investigational product once. Subjects are checked for adverse events through day 1 and discharged. Safety and efficacy assessments are performed at week 4, week 12, and week 24 after administration. All subjects are tested with the same schedule, excluding their doses.\n\nThe subjects enrolled in Phase 1 are analyzed for efficacy through visits at week 12 and week 24 so that all subjects (Phase 1 and Phase 2a) are assessed and analyzed for efficacy."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAdults aged 19 or older\nA person diagnosed with critical limb ischemia due to peripheral artery stenosis or obstructive occlusive disease (Rutherford category 4, 5, 6)\nPatients with critical limb ischemia where symptoms do not improve even after medication treatment for more than 3 months[1]\nPersons who voluntarily agreed to participate in this clinical trial\n\nExclusion Criteria:\n\nPersons whose life expectancy is less than 6 months\nPatients who underwent surgery and interventional procedures (percutaneous vascular intervention, vascular reconstruction, etc.) in the same disease within 3 months of screening\nPatients in need of interventional procedure or surgery\nPatients with a history of administration of other cell therapy products\nPersons who have received systemic immunosuppression treatment within 3 months of screening\nPersons with a history of a malignant tumor within 5 years of screening (However, non-metastatic basal cell skin carcinoma, squamous cell carcinoma of the skin or carcinoma in situ of the cervix that does not recur for at least 1 year before the registration are excluded)\nPersons with a hematologic disease with major bleeding or bleeding predisposition within 3 months of screening\n\nWomen who are pregnant, breastfeeding or planning to become pregnant during the clinical trial period or women of childbearing potential who do not use medically acceptable birth control\n\n*Medically acceptable contraception:\n\nMedicine: Oral contraceptives, skin patches or progestin medications (Transplant or injection)\nDiaphragm: Condoms, diaphragms, intrauterine devices (IUDs), vaginal suppositories\nAbstinence: Absolute abstinence (However, periodic abstinence (e.g., calendar method, ovulation method, sympto-thermal method) and control are not considered acceptable contraceptive methods.)\nPersons who participated in other clinical trials within 3 months of screening\nPersons who were administered prohibited concomitant medications related to this clinical trial\nPersons with alanine aminotransferase (ALT) or aspartate aminotransferase (AST) levels more than twice the normal upper limit at the time of screening\nPersons identified with estimated glomerular filtration rate (eGFR) levels < 30 mL/min/1.73 m2 at the time of screening\nPersons with a history of allergies or hypersensitivity to the investigational product or its components\nPersons who are judged to be inadequate to participate in clinical trials by other investigators"
+                        ],
+                        "EnrollmentCount": [
+                              "20"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04661644"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [
+                              "When the long blood vessels supplying blood to the arms and legs become blocked (ischemic), patient will experience painful sensations in their calves when they walked which slowly become excruciating painful at rest. When the condition worsens, the patients will not be able to feel any pain from their legs and they will not know if there are any small ulcers or cuts on their legs. As a result, a small ulcer which goes unnoticed becomes bigger and can sometimes become infected. In the worst situations, infection might lead towards gangrene and septicaemia. Severe rest pain and/or ulcerations of ischemic limbs are defined as the state of chronic critical limb ischemia and at this point, amputation of the affected limb is suggested.\n\nConventional treatments include angioplasty/bypass operation to remove blood vessel blockage to restore blood supply, the use of prescribed medicines to aid in ulcer recovery and clear infection and debridement of damaged/infected tissue. Some procedures have to be performed multiple times. Amputation is inevitable in many cases because some blood capillaries cannot be corrected and restenosis of vessels is very common. Cell therapy with mononuclear cells and mesenchymal stem cells from bone marrow is promising because these stem cells are capable of stimulating and regenerating capillaries and blood vessels."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nClinical diagnosis of critical limb ischemia leading to ischemic ulcers in which amputation is indicated\nNot suitable for, or remain symptomatic despite angioplasty, bypass operation or collateralization\n\nExclusion Criteria:\n\nContraindication to epidural anesthesia and bone marrow aspiration\nContraindication to contrast angiography\nEvidence of neoplasia and bone marrow diseases\nAny acute or chronic communicable diseases including Hepatitis B, Hepatitis C and HIV\nPatients with a limited life expectancy (< 1 year)\nPatients with myocardial infarction or stroke within 6 months\nPatients with coronary intervention within 6 months\nRenal impairment indicated by serum creatinine greater than two times upper limit of the normal range\nLiver impairment indicated by serum aspartate transaminase and alanine transaminase greater than two times upper limit of normal\nAny other co-morbidity which the physician deems as a contraindication to stem cell transplantation"
+                        ],
+                        "EnrollmentCount": [
+                              "50"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT01456819"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant"
+                        ],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nMales or females in the age group of 18-80 yrs of Caucasian origin.\nPeripheral artery disease (PAD) against the background of atherosclerosis and diabetes mellitus (DM)\nCritical lower limb ischemia (stages 3-4 by Fontaine-Pokrovsky or stages 4-6 by Rutherford)\nPatients with remaining symptoms of critical limb ischemia (CLI) in spite of the performed surgical (endovascular or open) treatment and continuing conservative therapy\nPatients with absent emergency indications to major amputation\nPatients planned for the reconstructive surgery with a questionable remote outcome due to compromised blood outflow\nAnkle Brachial Pressure Index (ABPI) \u2264 0.5 or ankle pressure \u2264 70 mm Hg\nPatients, if having associated Type II Diabetes, should be on medication and well controlled (HbA1c \u2264 8.5 %)\nOn regular medication for hypertension if needed\nNormal liver and renal function (or having clinically insignificant deviations, according to the treating physician's opinion)\nPatients who are able to understand the requirements of the study, and willing to provide voluntary written informed consent, abide by the study requirements, and agree to return for required follow-up visits\n\nExclusion Criteria:\n\nHumid gangrene or acute/chronic infection of lower limb.\nDry gangrene with extensive foot lesion (> 1\\2).\nAcute arterial failure.\nLife-threatening conditions and predicted life expectancy of < 6 months.\nPresence of neoplasm or bone marrow disease\nSigns of active or chronic, including latent, haemorrhage\nAny acute or chronic infectious disease\nRenal failure determined as twofold or higher elevation of serum creatinine as compared to the upper normal limit\nHepatic failure determined as the bilirubin, alanine aminotransferase (ALT) or aspartate aminotransferase (AST) levels elevated by two and more times over the upper normal limits\nThrombocytopenia (platelet counts < 50,000 /\u00b5l), leukocytopenia (WBC < 4,000/\u00b5l), immunosuppressive therapy\nPronounced neurological deficit\nPatients with gait disturbance for reasons other than CLI\nPatients not suitable for cell therapy, by the treating physician's opinion\nCLI patients requiring amputation at the proximal to the trans-metatarsal level\nPatients with Type I diabetes\nPatients having respiratory complications/left ventricular ejection fraction < 25%\nStroke or myocardial infarction within last 3 months\nPatients who are contraindicated for X-ray angiography\nHistory of severe alcohol or drug abuse within 3 months of screening\nPregnant and lactating women.\nPatients tested positive for HIV 1, hepatitis C virus (HCV), hepatitis B virus (HBV)\nUnsigned informed consent"
+                        ],
+                        "EnrollmentCount": [
+                              "40"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT03239535"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "If the participant voluntarily agrees to participate in the clinical trial before registration, the investigator conducts a screening test to evaluate the participant's suitability.\n\nA participant that satisfies all inclusion and exclusion criteria is assigned a test group(2-time injection group).\n\nParticipants conduct cell therapy within 30 days after bone marrow aspiration, and will re-inject autologous mesenchymal stem cells within 30 days after first injection.\n\nParticipants will make a total of 5 hospital visits after registration, and Safety and Efficacy will be evaluated based on a fixed procedure on every visit."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAge from 20 to 80 years\nPatients with resting pain or ulceration of limb (Rutherford's class: II-4, III-5 or III-6)\nAnkle Brachial Pressure Index (ABPI) \u2264 0.6 or TCPO2 \u2264 60mmHg in the foot\nPatients who were unsuitability for percutaneous transluminal angioplasty or a bypass operation\nPatients who are not expected other treatments for at least 6 months\nPatients who can agree to participate in the clinical trial by oneself or by one's legal representative\nPatients who can conduct the clinical trial according to the protocol\n\nExclusion Criteria:\n\nBuerger's disease\nHistory of hematologic disease\nPatients who are at risk of embolism due to atrial fibrillation\nPrimary hematologic disease, including hypercoagulable states\nEntrapment syndrome\nPatients with osteomyelitis\nPatients whose blood serum AST(Aspartate transaminase)/ALT(Alanine Transaminase) rates are more than three times the normal maximum rate, or whose creatinine rates are more than 1.5 times the normal maximum rate\nPatients with history of anaphylaxis to gentamicin\nPatients with hypersensitivity of bovine-derived ingredients\nPatients with chronic heart failure, Glomerular disease and Obstructive pulmonary disease\nPatients with Stroke or transient ischemic attack within 6 months prior to registration\nPatients tested positive for HIV(Human Immunodeficiency Virus), HCV(Hepatitis C Virus), HBV(Hepatitis B Virus) and Syphilis\nPatients with history of aorta and artery bypass operation, or angioplasty within 2 months recently\nPatients in need of a immediate amputation and have a potentially life-threatening complications of critical ischemia\nPatients with history of cell therapy\nType I diabetes\nUncontrolled diabetes mellitus (HgbA1C>8%)\nUncontrolled hypertension\nHas a medical record of solid cancer, or diagnosed with solid cancer and currently receiving cancer treatment\nPositive of tumor markers test(AFP((Alpha fetoprotein), CEA(Carcinoembryonic antigen), CA15-3(Cancer antigen 15-3 for breast cancer) and PSA(Prostate-specific antigen), or have received a diagnosis of cancer based on National cancer screening program\nPregnancy, possible candidate for pregnancy or lactating women\nInfectious disease\nAdministrating of immunosuppressive agents, corticosteroid formulation and cell toxicity formulation, or requiring administration of the test period\nPatients already enrolled in another clinical trials or completed within 3 months\nPatients who cannot adapt to the protocol and follow-up observation\nPatients who has experienced drug abuse for the past 1 year\nPatients with any disease or condition which the investigator fell would interfere with trial or the safety of the subject"
+                        ],
+                        "EnrollmentCount": [
+                              "0"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT02477540"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nBuerger's disease as diagnosed by Shionoya criteria\nMales or females (willing to use accepted methods of contraception during the course of the study) in the age group of 18-65 yrs\nEstablished CLI in the study limb, clinically and hemodynamically confirmed as per Rutherford- III-5\nPatients in Rutherford- III-6 if gangrene extending maximally up to the head of metatarsal but limited to toes (Patients with wet gangrene must undergo wound debridement / amputation before screening)\nPatients having infrapopliteal occlusive disease with rest pain and ischemic ulcer/necrosis, who are not eligible for or have failed traditional revascularization treatment as per the investigators judgment (No option patients)\nAnkle Brachial Pressure Index (ABPI) \u2264 0.6 or ankle pressure \u2264 50 mm Hg or TcPO2 \u2264 40 mmHg in the foot of the study limb\nPatients who are able to understand the requirements of the study, and willing to provide voluntary written informed consent and video consent, abide by the study requirements, and agree to return for required follow-up visits\n\nExclusion Criteria:\n\nPatients with CLI indicated for major amputation during screening\nAtherosclerotic PAD\nUlcers with exposure of tendon and/bone in the shin region\nPrevious above transmetatarsal amputation in study limb\nAny Lumbar sympathectomy procedure performed less than 90 days prior to the screening\nPatients with gait disturbance for reasons other than CLI\nDiagnosis of diabetes mellitus (type 1 or type 2)\nPatients having left ventricular ejection fraction < 35%\nPatients suffering from clinically relevant peripheral neuropathy\nHistory of Stroke or myocardial infarction\nPatients who are contraindicated for MRA\nPatients with deep vein thrombosis in any limb\nPatients who have clinically serious and/or unstable inter-current infection, medical illnesses or conditions that are uncontrolled or whose control, in the opinion of the Investigator, may be jeopardized by participation in this study or by the complications of this therapy\nDocumented terminal illness or cancer or any concomitant disease process with a life expectancy of <1 year\nPatients already enrolled in another investigational drug trial or completed within 3 months or those who have participated in any stem cell clinical trial\nPatient with known hypersensitivity to the constituents of the IMP - dimethyl sulfoxide (DMSO) or human serum albumin (HSA)\nHistory of severe alcohol or drug abuse within 3 months of screening\nHb% < 10 gm% for males, Hb% < 9 gm% for females, serum creatinine \u2265 2mg%, serum Total Bilirubin \u22652mg%\nPregnant and lactating women\nPatients tested positive for HIV 1, HCV, HBV, CMV, RPR"
+                        ],
+                        "EnrollmentCount": [
+                              "90"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT01484574"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "Demographics, baseline and follow-up characteristics: descriptive statistics. Primary analysis: Descriptive statistics for the rate of patients with high grade AEs (grade 2 and more), related to the cell implantation will be computed in each arm, with its two-sided 95% CIs.\n\nEach dose arm will be compared to the control arm by computing the absolute difference and the relative risk between the active dose arm and the control arm, together with their 95% two-sided CIs.\n\nThe p-values for the comparisons of the difference between the observed absolute rate to 0 and of the relative risk to 1 will be computed, but it is not expected that the study will have sufficient power to detect a significant difference on either of the two statistics (absolute difference or relative risk).\n\nPrimary efficacy analysis: The primary efficacy criterion (TcPO2) will be compared between each dose group versus the control group to test for a superiority of MSC over control.\n\nThe tested hypotheses are:\n\nNull hypothesis: mean (MSC dose i) \u2264 mean (Control)\nAlternative hypothesis: mean (MSC dose i) > mean (Control) A mixed - model for repeated measures will be used to model the evolution of TcPO2 over time. The significance of the time by treatment interaction will be used to test the two hypotheses. Model adjusted means (LS means) and their differences between treatment arms will be computed at each timepoint.\n\nThe LS-Means for change from baseline to 180 days will be used as the primary efficacy endpoint.\n\nOther efficacy analyses: the same analysis model (mixed - model for repeated measures) will be used for all the other continuous efficacy endpoints."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nThe patient is suffering from critical limb ischemia due to atheromatous arteriopathy, and defined as existence of chronic pain at rest or trophic disorders, with a systolic pressure inferior to 50 mm Hg at the ankle or inferior to 30 mm Hg at the toe (respectively 70 and 50 mm Hg in case of trophic disorder), or a transcutaneous measure of oxygen pressure (TcPO2) at the back of the foot in decubitus inferior to 30 mm Hg, and is being subject to a revascularization procedure, associated or not to minimally invasive surgery.\n\nInclusion confirmation will be performed after the revascularization procedure, and treatment planned within 48 hours to 2 weeks after the revascularization procedure.\n\nThe patient (or his/her legal representative(s)) is capable to understand and comply with study requirements and to provide written informed consent prior to any study procedure for participation in the study and transmission of personal \"anonymized\" data, which signifies an agreement to enter the study and comply with the restrictions and requirements listed in the informed consent form (ICF).\nMale or female patients aged \u226518 years at the time of signing the ICF.\nA female patient is eligible to participate if she is of non-childbearing potential, defined as pre-menopausal females with a documented tubal ligation or hysterectomy; or post-menopausal females defined as 12 months of spontaneous amenorrhea. Females on hormone replacement therapy (HRT) will be required to use one of the treatment methods that does not modify hemostasis parameters (eg chlormadinone acetate [Lut\u00e9ran]) or must discontinue HRT to allow confirmation of post-menopausal status prior to being enrolled in the study.\nDiabetic patients with an eye fundus examination of less than 3 months excluding proliferative retinopathy\nPatient with a life expectancy >12 months\n\nExclusion Criteria:\n\nPatients presenting a failure of the revascularization procedure, with technical failure defined as the inability to perform the intended procedure, i.e.\n\nin the case where femoropopliteal bypass was intended, inability to perform the bypass for any reason\n\nin the case where endovascular procedure was intended:\n\ninability to cross the arterial lesion with a guidewire and to catheterize the target vessel\ninability to cross the arterial lesion with any endovascular treatment device such as balloons or stents\nresidual stenosis > 50%\nPatient with non atheromatous arteriopathy The patient has, or has a history of, any significant disease or disorder that would increase the risk for the patient if they were enrolled in the study or would affect study procedures or outcomes.\nThe patient is mentally or legally incapacitated.\nPatient protected by law.\nPatient who does not benefit from the national health insurance coverage.\nThe patient has been involved in a previous trial with the investigational product.\nHistory of cancer excepting basocellular epithelioma during the past 5 years.\nPatient necessitating chronic hemodialysis or creatinine clearance inferior to 30 mL/min.\nHistory of stroke or myocardial infarction of less than 3 months.\nHemostasis disorder with contra-indication of intramuscular injections.\nPatients receiving dual antiplatelet therapy that cannot be temporarily discontinued at least 4 days before and until 6 hours after cell implantation.\nPatient receiving an antiplatelet therapy with an adenosine diphosphate receptor inhibitor (ADP/P2Y12 inhibitor) that cannot be temporarily discontinued at least 4 days before and until 6 hours after cell implantation.\nPatient receiving an anticoagulant treatment that cannot be temporarily discontinued until 2 days after the study treatment injection.\nPatients subject to a below the knee femoro-popliteal bypass procedure or to a femoro-tibial bypass procedure\nPatients included in another therapeutic trial"
+                        ],
+                        "EnrollmentCount": [
+                              "30"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT03994666"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nDiabetes, type 1 or 2\nCritical Limb Ischemia (Rutherford Becker Class II,III or IV)of at least one limb.\nNo options for target limb revascularization.\n\nExclusion Criteria:\n\nCancer antecedent in the last two years\nCurrent limb infection or limb gangrene"
+                        ],
+                        "EnrollmentCount": [
+                              "33"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT01257776"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAt least 6 months since the onset CLI(Chronic ASO or Buerger disease)\nPatients with luminal stenosis > 50% by leg angiography\nAge is between 20 and 80\nPatients whose Rutherford's class is II-4, III-5 or III-6 (Patients with rest pain or ischemic ulcer/necrosis)\nPatients for whom angioplasty and bypass surgery are not indicated because of anatomical or procedural reasons or frequent reocclusion/restenosis following traditional revascularization\nPatients who can give informed consent themselves in writing\n\nExclusion Criteria:\n\nPrevious or current history of neoplasm or comorbidity that could impact the patient's survival\nDetection of proximal source of emboli including atrial fibrillation\nPrimary hematologic disease, including hypercoagulable states\nDetection of proliferative retinopathy\nEntrapment syndrome\nAlcohol abuse, cocaine amphetamine etc.\nDetection of osteomyelitis\nUncontrolled DM"
+                        ],
+                        "EnrollmentCount": [
+                              "20"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT01663376"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Investigator",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [
+                              "RESEARCH DESIGN AND METHODS Written informed consent was obtained from all subjects. Type 2 diabetic patients with bilateral critical limb ischemia (ankle-brachial index, ABI from 0.30 to 0.60) and at least with one foot ulcer, but without malignant tumor or gangrene above the ankle and/or severe coronary, cerebral and renal vascular disease, were eligible for the participation in this trial. Eligible patients took part in this study on a voluntary basis. They were randomized into the A and B group by use of a randomization table. One lower limb in A group or in B group was selected randomly for BMMSCs or BMMNCs transplantation as BMMSCs or BMMNCs group, the other lower limb in the same patient was selected for placebo\uff08normal saline ,NS\uff09injection as NS group. The whole procedures of this clinical trial were blinded to both patients and investigators.\n\nPreparation of Human Autologous Serum Preparation of MSCs and MNCs Flow Cytometric Analysis Examination of cells Safety Administration of therapy 5.0*108~5.0*109 MSCs and MNCs were transplant into impaired lower limbs by intramuscular injection.\n\nobservation index and assessment guidelines Statistical analysis"
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAge from 40 to 70 years\nType 2 diabetic patients\nbilateral critical limb ischemia(ABI from 0.30 to 0.60)\nat least with one foot ulcer\n\nExclusion Criteria:\n\ndry gangrene above the ankle or moist gangrene\nmalignant tumor\nsevere coronary,cerebral and renal vascular disease"
+                        ],
+                        "EnrollmentCount": [
+                              "40"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT00955669"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "A prospective, multicenter, open, randomized, parallel-group controlled study for two levels of dose.\n\nThe study population will consist of 30 non-diabetic patients with critical chronic ischemia in at least one of the lower limbs (CLI) and without possibility of revascularization, from whom results can clinically be evaluable, of whom, 20 patients will be included in the experimental group (10 for each dose level) and 10 in the control group.\n\nIn each of the two dose levels to be used in the study, 15 patients will be included, who will be randomized to the experimental group or the control group according to a distribution 2:1 (2 patients in the experimental group and 1 in control group), thus at each dose level, we will have 10 patients in the experimental group (treated with mesenchymal cells of adipose tissue) and 5 patients in the control group (conventional treatment, including the use of prostaglandins per protocol).\n\nPatients who are randomized to experimental treatment Group with CeTMAd may receive one of the following dose levels:\n\n0.5x106 cells / kg of patient weight\n1x106 cells / kg of patient weight\n\nThe recruitment will be done with escalating doses, starting at the lower dose. To switch to the higher dose will require a favorable opinion of the Ethics Committee of the H. Universitario Virgen Macarena to evaluate the clinical status of patients and therapeutic safety and study procedures.\n\nPatients who are randomized to the treatment control group will continue with conventional treatment which they were performing at the time of inclusion in the study (including the use of prostaglandins as protocol).\n\nSTUDY OBJECTIVE: To evaluate the safety and feasibility of regenerative treatment with mesenchymal stem cells from adipose tissue (CeTMAd), administered intraarterial in nondiabetic patients with chronic critical ischemia of at least one lower limb without possibilities of revascularization or alternative therapies. We will analyze the complications from regenerative therapy and / or study procedures.\n\nMain objectives:\n\nSecurity: It will be studied the possible complications due to the procedure in the first 24 hours of administration of CeTMAd, 1 month, 3 months, 6 months, 9 months and 12 months.\nEfficiency: It will be studied the generation of new vessels (vasculogenesis) and enhancement of collateral circulation (angiogenesis / arteriogenesis).\nSecondary objectives:\n\nIt will be studied the evolution of ankle brachial index, transcutaneous oxygen pressure, degree of Rutherford-Becker, ulcer size, calf perimeter, the score of pain and intermittent claudication (walking test).\n\nDuration of the clinical trial: From the infusion to the patient of the Mesenchymal Stem Cells from Adipose Tissue to the end of the monitoring, there will be 12 months."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nPatients of both sexes aged \u2265 18 and \u2264 89 years.\nNondiabetic.\nInfrapopliteal atherosclerotic vascular disease of severe grade with either severe claudication or Rutherford-Becker grade II-III-IV, of at least one lower limb. It is defined critical ischemia of the lower limb as persistent/recurrent pain requiring analgesia and / or non-healing present ulcers > 4 weeks, with no evidence of improvement with conventional therapies and / or walking test (stress test) between 1-6 minutes in two exercise tests separated by at least 2 weeks and / or ankle-brachial index at rest <0.8.\nInability of surgical or endovascular revascularization as recommended by the TransAtlantic InterSociety Consensus (TASC).\nFailure in the revascularization surgery performed at least 30 days before, with persistence or entry in critical ischemia phase.\nLife expectancy> 2 years.\nNot expected major amputation in the limb to treat in the next 12 months after inclusion.\n\nNormal biochemical parameters defined by:\n\nLeukocytes \u2265 3000\nNeutrophils \u2265 1500\nPlatelets \u2265 100,000\nAspartate aminotransferase (AST) / Alanine aminotransferase (ALT) \u2264 2.5 standard range institution\nCreatinine \u2264 2.5 mg / dl.\nPatients give their written informed consent to participate in the study.\nWomen of childbearing potential must have negative results on a pregnancy test done at the time of inclusion in the study and agree to use a medically approved method of contraception for the duration of the study.\n\nExclusion Criteria:\n\nHistory of malignancy or hematologic disease (myeloproliferative disease, myelodysplastic syndrome or leukemia) in the last two years.\nPatients with uncontrolled hypertension (defined as blood pressure> 180/110 on more than one occasion).\nSevere heart failure (New York Heart Association class IV) or ejection fraction of the left ventricle less than 30%.\nPatients with malignant ventricular arrhythmias or unstable angina at the time of infusion.\nDiagnosis of deep vein thrombosis in the previous 3 months.\nActive infection or wet gangrene at day of infusion of Mesenchymal Stem Cells from Adipose Tissue.\nConcomitant therapy including hyperbaric oxygen. It is allowed the use of antiplatelet agents.\nBody mass index>40 kg/m2.\nPatients with a diagnosis of alcoholism at the time of inclusion.\nUntreated proliferative retinopathy.\nConcomitant disease that reduces life expectancy to less than a year.\nPredicted impossibility to obtain a biopsy providing 10 g of adipose tissue.\nhuman immunodeficiency virus, hepatitis B virus or hepatitis C virus.\nDifficulty in monitoring.\nStroke or myocardial infarction within the last 3 months.\nAnemia (hemoglobin <7.9 mg / dl).\nLeukopenia.\nThrombocytopenia (<100,000 platelets / ul).\nPregnant women or women of childbearing age who do not have adequate contraception.\nPatients who participated in a clinical trial within the last 3 months prior to inclusion in this clinical trial."
+                        ],
+                        "EnrollmentCount": [
+                              "33"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT01745744"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Care Provider",
+                              "Investigator"
+                        ],
+                        "DetailedDescription": [
+                              "Disease or disorder under study: Critical ischemia of the lower limbs in diabetic patients without the possibility of revascularization.\n\nMain valuation variable: Proportion of Adverse Events related to treatment."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nPatients must meet ALL of the following criteria to be included in the study:\n\nPatients of both sexes.\nAge between 40 and 90 years.\nSevere grade vascular arteriosclerosis (category RB 4 and 5 mono or bilateral).\nImpossibility of surgical or endovascular revascularization or failure in revascularization surgery performed, at least 30 days before inclusion in the study, defining failure as direct non-arrival of vessels to the plantar arch.\n\nNormal biochemical parameters defined by:\n\nLeukocytes> 3000 / mm3\nNeutrophils> 1500 / mm3\nPlatelets> 100,000 / mm3\nAST / ALT <2.5x upper limit of normal\nIn patients with an ischemic ulcer, it must be stable for at least 1 week.\nPatients under conventional medical treatment for CLI.\nWomen of childbearing age must obtain a negative result in a urine pregnancy test performed at the time of inclusion in the study and commit to using an effective contraceptive method during their participation in the study.\nPatients who have not participated in any other clinical trial during the 3 months prior to the inclusion visit.\nPatients who sign the informed consent.\n\nExclusion Criteria:\n\nPatients who present SOME of the following criteria may not be selected to participate in this study:\n\nCLI with tissue loss in the target member (category 6 of RB).\nPrevious major amputation in the target member.\nUncontrolled hypertension (defined as PAS> 180 or PAD> 110 in at least 2 determinations during the selection period).\nPatients with severe heart failure or ejection fraction less than 30%.\nPatients with a previous diagnosis of ventricular arrhythmias or unstable angina.\nPatients with septicemia.\nPatients diagnosed with deep vein thrombosis in the 3 months prior to their inclusion in the study.\nConcomitant therapy that includes hyperbaric oxygen, angiogenic agents or Cox II inhibitors.\nContraindication to perfusion NMR.\nProliferative retinopathy without treatment.\nDiabetic nephropathy in hemodialysis.\nPatients previously treated with cell therapy, gene therapy or growth factors in the last year.\nConcomitant disease that limits life expectancy to 1 year or that does not ensure the follow-up period.\nPatients who have suffered a stroke or myocardial infarction in the 3 months prior to the inclusion visit.\nSevere anemia (hemoglobin <7.9g / dl) in the inclusion analysis.\nPatients with a previous diagnosis of chronic alcoholism.\nAny clinically significant anomaly detected in the Selection Period and which, in the opinion of the investigator, constitutes an impediment to the correct participation of the patient in the study or the fulfillment of the procedures established therein."
+                        ],
+                        "EnrollmentCount": [
+                              "90"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04466007"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "Adipose Derived Stromal Vascular Fraction (ADSVF) Stromal Vascular Fraction (SVF) obtained from tumescent liposuction. The SVF contains a variety of cells such as pre-adipocytes, endothelial cells, smooth muscle cells, pericytes, fibroblasts, and adult stem cells (ASCs). In addition, the SVF also contains blood cells from the capillaries supplying the fat cells. These include erythrocytes or red blood cells, B and T cells, macrophages, monocytes, mast cells, natural killer (NK) cells, hematopoietic stem cells and endothelial progenitor cells, to name a few. It also contains growth factors such as transforming growth factor beta (TGF-\u03b2), platelet-derived growth factor (PDGF), and fibroblast growth factor (FGF), among others. This is consistent with the secretions of cells in the presence of an extracellular matrix. The SVF also contains the various proteins present in the adipose tissue extracellular matrix of which laminin is of interest due to its ability to help in neural regeneration.Entire procedure for SVF preparation and isolation of SVF cells will be carried out in cGMP compliance clean room.\n\nPure stromal vascular fraction to the tune of 99% will be isolated for this clinical trial eliminating other unnecessary cells such as RBC and leukocytes.\n\nAdipose Derived Mesenchymal Stem Cells (ADMSC) Human mesenchymal stem cells (MSCs) are present as a rare population of cells in adipose tissue which is almost 30-40% of the nucleated cells, but they can rapidly grow in culture without losing their stemness. MSCs can be expanded in vitro \u2265 2 million -fold and retain their ability to differentiate into several mesenchymal lineages. MSCs have several characteristics such as Ease of isolation, High expansion potential,Genetic stability,Reproducible attributes from isolate to isolate,Reproducible characteristics, Compatibility with tissue engineering principles, Potential to enhance repair in many vital tissues, Uniform dose and Better quality control and release criteria.\n\nBeside autologous use MSC can also be used for allogenic therapy. Several studies have used allo-MSC in vivo and experience suggests that the allo-MSCs are not rejected and many have positive effects on engraftment.MSC's can be isolated from various tissues, cultured ex vivo, and expanded many fold.18 Cultured-expanded MSC's appear to represent a homogeneous population by flow cytometric measures of cell-surface markers. These cell retain the ability to undergo in vitro differentiation to osteogenic, adipogenic and chondrogenic lineages, even when clonally expanded.19 Human adipose tissue derived MSCs are capable of differentiating into endothelial cells in vitro and later form capillary-like structures in semisolid medium and suggest differentiation potential of MSCs is not restricted to mesodermal lineages but also transdifferentiation of MSCs into other lineages like endothelial could be realized in vitro and in vivo8 MSCs are known to give rise to limb-bud mesoderm (osteoblasts, chondrocytes, adipocytes, stroma cells, and skeletal myoblasts) and can also differentiate into cells of visceral mesoderm (endothelial cells).9 MSCs can facilitate vasculogenesis by increasing vascular endothelial growth factor (VEGF) levels. After MSCs are intramyocardially injected into the infarct zone, local VEGF levels rise, vascular density and regional blood flow increases, and contractility improves.\n\nMSCs are having anti-fibrotic activity and hence may be excellent source to tackle pulmonary fibrosis and hence could be explored for their therapeutic potential for treating Idiopathic pulmonary fibrosis. MSC's also display membrane-bound and insoluble secreted molecules involved with cell attachment to neighboring cells and to the extra cellular matrix.18 This cell surface configuration may enable mesenchymal stem cells to home from bloodstream to mesenchymal tissue."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\n1. Critical limb ischemia (rest pain, un-healing wound/ulcer lasting more than 4 weeks)\n\n2. Category 4 & 5 Rutherford-Becker peripheral vascular disease affecting at least one limb with or without un-healing ulcer/wound of grade I or II on the Wagner scale\n\n3. Ankle -brachial index <0.6\n\n4. TcpO2 < 45 mm Hg measured at toe\n\n5. Life expectancy more than 2 years\n\n6. Subjects (male and female), aged 18 to 65 years (both inclusive)\n\n7. Glycosylated hemoglobin (HbA1C) \u22647 %\n\n8. INR value of below 2 before liposuction procedure\n\n9. Subject should be compliant to the treatment regimen follow like insulin, anti-diabetic drugs for the entire duration of the clinical study\n\n10. Subject who are not currently on or have discontinued treatment with immune-suppressants and/or corticosteroids within at least 20 days prior to screening\n\n11. Subject willing to give Informed Consent\n\nExclusion Criteria:\n\nUncontrolled high blood pressure\nUncontrolled diabetes with Glycosylated hemoglobin (HbA1C) > 7%\nSevere cardiac insufficiency (Ejection fraction < 35%)\nFrank infected ulcers with purulent discharge resulting in excessive infections, ulcers with exposed bone, fascia, joints, ligaments or tendons (Category 6 Rutherford-Becker peripheral vascular disease)\nSubject diagnosed with cancer undergoing chemotherapy.\nPoor nutritional status as measured by serum albumin <3.0 g/dL.\nSevere anemia Hb < 7g/dl.\nSubject had a leg revascularization surgery or history of amputation within the last 6 months or be a candidate for revascularization surgery during the course of the study.\nOther unusual or rare forms of diabetes mellitus, or history of diabetic ketoacidosis or osteomyletis.\nSubject unfit to undergo lipoaspiration as determined by the surgeon.\nSubject has a history of bleeding disorder or clotting disorder\nHave any condition, disease, disorder, or clinically significant laboratory abnormality that, in the opinion of the Investigator, would jeopardize the subjects' appropriate participation in this study or obscure the effects of treatment.\nPregnant or lactating women or women of child-bearing potential not using medically acceptable methods of contraception or women with positive urine pregnancy test (UPT) at screening\nSubjects unwilling or unable to comply with the study procedures\n\nHave received treatment with any investigational product (IP) or participated in any investigational study within 30 days or 5 half-lives of the IP, whichever is longer, before the Screening Visit.\n\n-"
+                        ],
+                        "EnrollmentCount": [
+                              "60"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT02145897"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nPatients with peripheral arterial occlusive disease (symptomatic PAOD), diagnosis of CLI defined as persistent, recurring ischemic rest pain for at least 2 weeks, and/or ulceration or gangrene of the foot or toe, with an ABPI </= 0.5,\nPatients with staging of \u2265III according to Fontaine and \u22654 according to Rutherford categories,\nPatients fulfilling the criteria for an invasive re-vascularisation procedure (PTA) at the discretion of the investigator,\nPatients without major amputation of the lower extremities within the period of 6 months after inclusion in the opinion of the investigator,\n\nExclusion Criteria:\n\nPatients with wounds of a severity of greater than grade 2 on the Wagner Scale,\nPatients with life-threatening ventricular arrhythmia,\nPatients with unstable angina pectoris,\nPatients with severe congestive heart failure (i.e. NYHA Stage IV),\nPatients with uncontrolled hypertension (defined as diastolic blood pressure >110 mmHg or systolic blood pressure >180 mmHg during screening),\nPatients with an uncontrolled diabetes mellitus (HbA1c > 9%),\nPatients having any history of malignant tumour in the anamnesis or are currently on tumour treatment,\nPatients who are unsuitable for a MSC stem cell therapy in the opinion of the investigator,"
+                        ],
+                        "EnrollmentCount": [
+                              "25"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT01351610"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Investigator"
+                        ],
+                        "DetailedDescription": [
+                              "Ischemic limb disease remains one of the major causes of morbidity and mortality in the industrialized world despite the development of several new therapeutic modalities. Based on experimental data demonstrating that infusion or injection of stem/progenitor cells enhances blood flow in models of cardiovascular diseases, clinical trials were initiated in 2001 to treat patients with critical limb ischemia or cardiac ischemia with circulating blood or bone marrow-derived cells. Despite all promises, pending uncertainties and practical limitations attenuate the therapeutic use of stem/progenitor cells for ischemic limb disease. The main theme and method in the current program project, based on expertise, track record, and preliminary results of PI's laboratory, is to focus on clinical studies of using allogenic mesenchymal stem cells (MSCs), expanded under hypoxic conditions (1% O2), in treating ischemic limbs. This project is an integrated and coordinated effort aimed to overcome the regulation of cell product, and the barriers of preclinical and clinical studies. For the purposes, we have specially set up the core laboratory for stem/progenitor cells production and quality control in Cell Therapy Clean Room on the 9th floor of Medical Science Technology Building in Taipei Veterans General Hospital. We have also completed the preclinical studies in using allogenic hypoxic mouse MSCs in treating limb ischemia. In the current project, bone marrow MSCs will be isolated from allogenic donors, expanded under hypoxic conditions using medium containing no serum or animal-derived reagents, and applies for Phase \u2160/\u2161 study in treating 18 recipients with ischemic limb diseases in three years."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nFontaine stage > II, total walking distance < 100 m, stair < 1 floor, or ulcer / necrosis\nEstablished critical limb ischemia, clinically and hemodynamically confirmed as per Rutherford- \u2161-4, \u2162-5, or \u2162-6; Patients having Infra-inguinal arterial occlusive disease with rest pain or ischemic ulcer/necrosis, who are not eligible for or have failed traditional revascularization treatment\nAnkle Brachial Pressure Index (ABPI) \u2264 0.8\uff0cankle pressure \u2264 70 mm Hg, or TcPO2 \u2264 70 mmHg in the foot\nNo response to medication (aspirin and cilostazol)\nNormal liver and renal function\nOn regular medication for hypertension if any\n\nExclusion Criteria:\n\nThe above mentioned patients combined with infection or systemic septicemia. (ps, patients with poor control of diabetes, hypertension and hyperlipidemia will also be excluded\nPatient with Immunocompromised or immunosuppressed\nType I Diabetes\nPatients having stroke or myocardial infarction within last 3 months\nHb% < 10 gm%, Serum Creatinine \u2265 2mg%, Serum Total Bilirubin \u22652mg%, HbA1c > 8%"
+                        ],
+                        "EnrollmentCount": [
+                              "18"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT02336646"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "This is a phase 1b, open label, uncontrolled, non-randomized dose-escalation study to examine the safety of intramuscular autologous transplantation of escalating doses of mesenchymal stem cells to patients with no option critical limb ischemia.\n\nTrial Aims and Objectives: To examine the safety of intramuscular transplantation of escalating doses of autologous bone marrow derived mesenchymal stem cells to patients with no option critical limb ischemia.\n\nPatient Population: Patients with critical limb ischemia who are not candidates for revascularization.\n\nTrial Setting:HRB Clinical Research Facility Galway and Galway University Hospitals.\n\nTrial Intervention:Intramuscular delivery of autologous bone marrow-derived mesenchymal stem cells to patients with no option critical limb ischemia.\n\nStudy Design: Open label, uncontrolled, non-randomized, dose escalation study. Sample Size: 9 Method of Participant Assignment:Sequential administration of 3 escalating doses of autologous bone marrow-derived mesenchymal stem cells.\n\nExamination Points: Day 0, 7, 30, 90, 180, 365 and 730 Primary Outcome: Serious adverse events that are attributable to intervention. Secondary Outcomes :Amputation free survival, median time to amputation, TcPo2, ABI, pain scale, ulcer healing, quality of life assessments, collateral vessel formation detected by MRI at 12 months."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nEach patient must meet all of the following inclusion criteria to be enrolled into the study\n\nMen and women between the ages of 18 and 85\nVoluntary written informed consent, given before performance of any study-related procedure not part of standard medical care, and with the understanding that consent may be withdrawn at any time without prejudice to future medical care\nPresented with CLI with rest pain or ulceration with no option for revascularization agreed by an expert panel including an interventional radiologist and vascular surgeon; CLI defined as persistent ischemic rest pain for greater than or equal to 2 weeks and/or ulceration or gangrene of the toe or foot\nEstimated life expectancy > 6 months as deemed by patient's clinician and/or investigator\nSuitable candidate for a bone marrow aspiration, deemed by Consultant Haematologist\nChronic critical limb ischaemia with rest pain (Rutherford Class 4) or mild-to-moderate tissue loss (Rutherford Class 5) who are not candidates for revascularisation\nMedically fit to undergo bone marrow harvest and stem cell intramuscular injection\nOne of the following haemodynamic parameters: ankle systolic pressure < 70 mmHg or ABI <0.9 TBI <0 .6 TcPO2 <60mmHg on room air\n\nExclusion Criteria:\n\nPatients meeting any of the following exclusion criteria are not to be enrolled in the study:\n\nHas received prior therapy with MSCs\nHas had previous amputation of the talus or above\nHas failed revascularization within 2 weeks before entry to the study\nKnown Aortoiliac disease with > 50% stenosis\nContraindication to intramuscular procedure, including active infection in the affected limb, or wet gangrene or exposed bone or tendon in lower limb with CLI, or in the opinion of the attending clinician, is unsuitable for intramuscular procedure\nSevere co-morbidity limiting 6 month survival of patients\nAbnormal liver function as defined by AST and ALT > 2.5 fold the ULN and total bilirubin > 1.5 ULN\nSignificant cognitive impairment (Mini Mental Status Examination <22)\nPresence of proliferative retinopathy (in participants with diabetes mellitus only)\nPresence of poorly controlled diabetes mellitus with HbAIc > 10% within previous 3 months\nHIV or HBsAg positive\nPresence of acute coronary syndrome\nPatient has known active malignancy\nPregnancy\nLikely inability to comply with the protocol or cooperate fully with the investigator and site personnel\nPatient taking other investigational drugs at the time of enrolment or within 28 days of enrolment\nRutherford class 6 CLI\nSignificant bone marrow dysfunction, based on assessment by Haematologist or an established diagnosis of myelodysplasia, or myeloproliferative disorder etc.\nBleeding diathesis, coagulopathy, thrombocytopenia etc.\nPatients in whom delay incurred by attempts at limb salvage using MSCs will adversely affect prognosis in the opinion of the responsible attending clinician\n\nPatients with known allergy to foetal bovine serum or trypsin\n\n-"
+                        ],
+                        "EnrollmentCount": [
+                              "12"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT03455335"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "Type 2 diabetic patients with diabetic foot were enrolled and randomized to either transplanted group or control group. Patients in transplanted group received the stem cells treatment,Patients in control group received the standard treatment. After culture in vitro, umbilical cord mesenchymal stem cells should go through safety evaluation which include culture and check of pathogenic microorganisms (bacteria, mycoplasma, chlamydia, eumycete and viruses) of the cells medium and karyotype analysis of the mesenchymal stem cells. Only the safe cells were harvested and transplanted by multiple intramuscular injections into the impaired lower limbs. Follow-up index include: efficacy (pain,ulcer healing rate, lower limb amputation rate and ,ankle-brachial index,magnetic resonance angiography,electromyogram) and safety (infection of the injection site, fever, and tumour generation)."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nDiabetes mellitus Type 2\nAge 18 - 75 years\nSubject has an Ankle-brachial index < 0.9\nSubject has had previous conservative treatment which resulted in little or no improvement\nSubject has had no stem cell treatment within the past 6 months\nNo sufficient response to best standard care delivered for six weeks.\nNo surgical or radiological interventional option for revascularisation as confirmed by a vascular surgeon and an interventional radiologist\nSigned informed consent\nAbsence of life-threatening complications from the ischemic limb\nLife expectancy more than 2 years\nNegative pregnancy test when applicable\n\nExclusion Criteria:\n\nDiabetic retinopathy\nHistory of neoplasm or hematological disease\nUncontrolled high blood pressure (>180/110)\nSevere cardiac insufficiency (New York Heart Association [NYHA] IV) or ejection fraction<30%\nMalignant ventricular arrythmia\nDeep venous thrombosis during the last 3 months\nActive bacterial infection\nBody mass index > 35 Kg/m2\nStroke or myocardial infarction during the last 3 months"
+                        ],
+                        "EnrollmentCount": [
+                              "50"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT01216865"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "The primary endpoint of safety and feasibility study will be done when the patient has received treatment at 12 months after implantation. It defines that the process is safe when in the development and monitoring of the trial there has been no adverse events that may be related to the proposed therapy in the trial. All adverse events will be collected during the same time monitoring the clinical evaluation. The main objective will be assessed the cumulative incidence of adverse effects attributed to the study therapy.\n\nSecondary endpoints: As part of the evaluation of the quality of life of patients and clinical evaluation of the treatment will be at 6, 9 and 12 months after implantation a Test SF-12, a magnetic resonance angiography, and tissue oximetry records ankle-brachial index"
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nInformed Consent.\n> 18 years.\nChronic arterial ischemia grades IV-V of Rutherford that affects at least one limb.\nArterial occlusion direct flow or distal femoropopliteal level.\nNo option for surgical or endovascular revascularization.\nLife expectancy exceeding two years.\nHigh probability of need for major amputation at 6 months (CLI nonrevascularizable).\nNegative pregnancy test if applicable.\n\nExclusion Criteria:\n\nBackground of hematologic neoplasia or unresolved.\nHipertensi\u00f3n uncontrolled blood (> 180/110).\nSevere heart Insuficiencia (New York Heart Association [NYHA] IV) or ejection fraction <30%.\nMalignant ventricular, Arritmias.\nTrombosis of deep vein the past three months.\nactive infection.\nInfarto infarction or stroke the previous three months.\nMedical or psychiatric illness of any kind which, in the opinion of the investigator, may be a reason for exclusion from the study.\nSubjects with congenital or acquired immunodeficiencies. Hepatitis B and / or C or tuberculosis diagnosed at the time of inclusion, treponema.\nMajor surgery or severe trauma of the subject in the previous semester.\nAdministration of any investigational drug at present to three months prior to enrollment for this trial.\nPulmonary heart disease, in the opinion of the investigator, be unstable or is sufficiently serious to dismiss the patient from the study.\nInfants or pregnant women.\nAdult women of childbearing potential not using effective contraception during the trial"
+                        ],
+                        "EnrollmentCount": [
+                              "10"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT01824069"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Care Provider",
+                              "Investigator",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [
+                              "It is planned to enroll 105 patients into N-O CLI trial with randomization into active (CardioCell) therapy and sham procedure/placebo administration with 2:1 ratio.\n\nThe primary research question of this project is to check if the administration of CardioCell could improve the clinical outcomes in patients with N-O CLI.\n\nThere are several secondary questions, defined by secondary endpoints, e.g.: if the investigated treatment is possible to administered, if the investigated treatment is safe in each studied indication and way of CardioCell administration, if it is possible to define any selected subgroup in which the treatment results are significantly different than in whole group."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nPatients able to walk\nMale and female patients, aged 18-80 years\nNo-option CLI (definition: exhausted revascularization options including surgery or endovascular treatment) in Rutherford stage 4-5\nIn case of bilateral N-O CLI, the limb with shorter claudication distance will be treated\nPresence of adequate inflow (patent iliac and common femoral arteries)\nRun-off through at least one (even partially seen) below-the-knee (BTK) artery\nSigned informed consent\n\nExclusion Criteria:\n\nMalignancy\nModerate or severe immunodeficiency\nAcute or chronic bacterial or viral infectious disease\nSoft tissue disease or local infection in a place of required artery puncture\nPregnancy or breastfeeding\nAny objective or subjective reason for inability to attend follow-up visits\nFemales of childbearing potential, who does not want to use a highly effective method of contraception\nFemales of childbearing potential who does not have a menstrual period confirmed and a negative highly sensitive urine or serum pregnancy test\nParticipation in any other clinical research study that has not reached the primary efficacy endpoint or otherwise would interfere with the patient's participation in this project\nLife expectancy < 1 year\nAny concurrent disease or condition that, in the opinion of the investigator, would make the patient unsuitable for participation in the project"
+                        ],
+                        "EnrollmentCount": [
+                              "50"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT03423732"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "The purpose of the trial is to determine safety of intramuscularly derived menstrual mesenchymal stem cells (otherwise known as Endometrial Regenerative Cells, or ERC) in patients with critical limb ischemia ineligible for revascularization. Safety will be defined as freedom from treatment associated adverse events. Efficacy parameters will comprise endpoints of changes in ankle-brachial index, toe-brachial index, TcPO2, ulcer healing, rest pain, quality of life, and reduction in amputation.\n\nPatients will receive 25, 50, or 100 million menstrual derived mesenchymal stem cells (Endometrial Regenerative Cells: ERC) in ten injections of 2.5, 5, or 10 million mesenchymal stem cells suspended in a volume of 1 ml per injection. Injections will be spaced at least 2 centimeters apart from each other in the gastrocnemius muscle above the failed vascular perfusion area."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nNon-pregnant patients with critical limb ischemia, Rutherford IV-V, manifested as rest pain or tissue loss, or with disabling claudication, manifested as exercise induced thigh or calf pain that impairs activities of daily living, who are not candidates for surgical bypass or angioplasty due to unfavorable arterial anatomy or absence of adequate autogenous vein for a below-knee bypass.\nPatients over 18 years of age with an expected survival of more than one year after treatment.\nUnreconstructable arterial disease will be determined by a vascular surgeon who is not participating in the study. Unreconstructable arterial disease is defined by atherocclusive lesions within the arterial tree of the extremity that due to extent or morphology are not amenable to surgical bypass or PTCA and stenting.\nPatients with a maximum of 3 non-healing 'flat' surface or 'transdermal' ulcers Grades 1-2, no ulcer bigger than 2 centimeters (2)\nPatients with unfavorable anatomy or who are medically unfit to undergo bypass as determined by a vascular surgeon who is not participating in the study.\nVascular imaging (eg angiogram or MRA) to determine vascular anatomy must be conducted within 3 months of study entry.\nPatients with low/absent perfusion in the area at or below the gastrocnemius muscle\nObjective evidence of severe peripheral arterial disease will include an ankle brachial index (ABI) of less than 0.55, and/or a resting toe brachial index (TBI) of less than 40.\nPatients must be competent to give consent.\nNo history of malignant disease except for nonmelanoma skin cancer, no suspicious findings on chest x-ray, mammography (women over age 35) , Papanicolaou smear (women over age 40), a normal fecal occult blood (over age 50) and a normal prostate specific antigen (men over age 45).\nPatients must have a prothrombin Time (PT) between 12-14 seconds, a partial thromboplastin time (PTT) of 18-28 seconds, and platelet count >100,000/microliter\nPatients must have white blood cell count (4.1-10.9x10(3) cells/\u00b5L)\nNormal liver function tests (AST 8 - 20 U/L, ALT 8 - 20 U/L, and total bilirubin 0.1 - 1.0 mg/dL)\nPatients must be male or post menopausal women.\n\nExclusion Criteria:\n\nPatients with evidence of active proliferative retinopathy.\nPatients with poorly controlled diabetes mellitus (HbA1C > 8.5%).\nPatients with renal insufficiency (Creatinine > 2.5) or failure.\nInfection as evidenced by WBC count of >15,000 k/cumm and/or temperature >38C.\nCellulitis in the afflicted limb that in the opinion of the investigators would require the use of antibiotics or evidence of osteomyelitis corroborated by radiographic or scintigraphic examination.\nPregnant women (women capable of childbearing must have a negative pregnancy test)\nCognitively impaired adult\nLower extremity venous disease with pitting edema.\nHistory of organ transplant.\nPatients with ulcer exudates, dry gangrene or exposed bone.\nAllergies to beta-lactam antibiotics, amphotericin B, or streptomycin\n\nCardiovascular conditions:\n\nExercise limiting angina (Canadian Cardiovascular Society Class > 3\nCongestive heart failure (New York Heart Association class > 3\nUnstable angina\nAcute ST elevation myocardial infarction (MI) within 1month\nTransient ischemic attack or stroke within 1 month\nSevere valvular disease"
+                        ],
+                        "EnrollmentCount": [
+                              "15"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT01558908"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "To study the effect of the stem cells therapy autologous mononuclear from the bone marrow, autologous progenitor endothelial CD133 cells from the bone marrow and autologous mesenchymal stem cells from adipose tissue on the inflammatory cytokines, the resistance to insulin and the decrease of the needs of insulin, besides evaluates the safety, viability and efficiency of the intra-arterial infusion of stem cells in diabetic patients type 2.\n\nDiabetic patients will include with critical ischemia chronicle of at least a low member limb (CLI) and without possibilities of revascularization. 48 evaluable patients will be included, of which 36 patients will be included in the experimental group (12 for every cellular group) and 12 in the group control by conventional treatment. The population to studying will be constituted by 48 evaluable patients."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAge \u226518 and \u2264 85 years\nDiabetic type 2, in treatment with insulin at least 3 previous months.\nVascular disease infrapopliteal atherosclerotic of severe degree (Patients with category Rutherford-Becker \u2265 4), pretty or bilateral. The critical ischemia of the foot is defined as a persistent / persistent pain that needs analgesia and / or not healing present sores> 4 weeks, without evidence of improvement with conventional therapies and / or walking test between 1-6 minutes in two ergometries separated at least for 2 weeks and / or index ankle - arm in rest <0,8.\nImpossibility of revascularization surgical or endovascular or I fail in the surgery of revascularization performed at least 30 days before, with persistence or entry in phase of critical ischemia\nLife expectancy > 2 years.\nMajor amputation is not foreseen in any of the members in the next 6 months after the incorporation.\n\nNormal Biochemical and bone marrow parameters defined for:\n\nLeukocytes \u2265 3000\nNeutrophils \u2265 1500\nPlatelets \u2265 140000\nAST/ALT \u2264 2,5 standard range institution\nCreatinine \u22642,5 mg/dl and explanation of creatinine \u2264 30 ml/min (MDRD4)\nThe women in fertile age will have to obtain negative results in a pregnancy test realized in the moment of the incorporation in the study and promise to use a contraceptive method medically approved while the study lasts.\nPatients who give his Informed Consent in writing for the participation in the study. 10. Patients who have not taken part in another clinical trial in the last 3 months before the incorporation.\n\nExclusion Criteria:\n\nPrecedent of neoplasia or hematologic disease (disease myeloproliferative, syndrome myelodysplasic or leukaemia) in the last 2 years.\nMajor previous amputation.\nPatients with arterial uncontrolled hypertension (defined as arterial tension> 180/110 in more than one occasion).\nCardiac severe insufficiency (NYHA the IVth) or Fraction of Ejection of left ventricle (FAITH) lower than 30 %.\nPatients with ventricular malignant arrhythmias or unstable angina.\nDiagnosis of venous deep thrombosis in 3 previous months.\nPatients with genotype DD of the ECA or genotype E4 of the apo E.\nConcomitant therapy that includes oxygen hyperbaric, vasoactive substances, agents against angiogenesis or inhibiting Cox-II. The agents use is allowed antiplatelets.\nIndex of corporal mass> 40 Kg/m2.\nPatients with the diagnosis of alcoholism in the moment of the incorporation.\nProliferative Retinopathy without possibility of treatment.\nDiabetic Nephropathy with haemodialysis\nConcomitant disease that reduces the life expectancy to less than 1 years.\nImpossibility foreseen to obtain the inhaled one of 100ml of bone marrow.\nInfection for HIV, Hepatitis B or Hepatitis C.\nImpede in the follow-up.\nACV or heart attack of myocardium in the last 3 months\nAnaemia (Haemoglobin <7.9 g/dl)\nPatients before treated with cellular therapy."
+                        ],
+                        "EnrollmentCount": [
+                              "20"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT02287974"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "This study will evaluate the safety and efficacy of intramuscular injection of stempeucel(R) (Ex vivo cultured adult bone marrow derived allogeneic mesenchymal stem cells) in Critical Limb Ischemia due to Buerger's Disease"
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nBuerger's disease as diagnosed by Shionoya criteria\nMales or females (willing to use accepted methods of contraception during the course of the study) in the age group of 18-65 yrs.\nEstablished CLI in the study limb, clinically and hemodynamically confirmed as per Rutherford- III-5;\nPatients in Rutherford- III-6 if gangrene extending maximally up to the head of metatarsal but limited to toes (patients with wet gangrene must undergo wound debridement / amputation before screening) .\nPatients having infrapopliteal occlusive disease with rest pain and ischemic ulcer/necrosis (patients should have at least one measureable ulcer), who are not eligible for or have failed traditional revascularization treatment as per the investigators judgment (No option patients) .\nABPI \u2264 0.6 or ankle pressure \u2264 50 mm Hg.\nPatients who are able to understand the requirements of the study, and willing to provide voluntary written informed consent and video consent, abide by the study requirements, and agree to return for required follow-up visits.\n\nExclusion Criteria:\n\nPatients with CLI indicated for major amputation during screening\nAtherosclerotic PAD\nUlcers with exposure of tendon and/bone in the shin region.\nPrevious above trans metatarsal amputation in study limb\nAny Lumbar sympathectomy procedure performed less than 90 days prior to the screening\nPatients with gait disturbance for reasons other than CLI\nDiagnosis of diabetes mellitus (type 1 or type 2)\nPatients having left ventricular ejection fraction < 35%\nPatients suffering from clinically relevant peripheral neuropathy\nHistory of stroke or myocardial infarction\nPatients who are contraindicated for MRA\nPatients with DVT in any limb.\nPatients who have clinically serious and/or unstable inter-current infection, medical illnesses or conditions that are uncontrolled or whose control, in the opinion of the Investigator, may be jeopardized by participation in this study or by the complications of this therapy\nDocumented terminal illness or cancer or any concomitant disease process with a life expectancy of <1 year\nPatients already enrolled in another investigational drug trial or completed within 3 months or those who have received stem cells in the past\nPatient with known hypersensitivity to the constituents of the stempeucel\u00ae- dimethyl sulfoxide (DMSO) or human serum albumin (HSA)\nHistory of severe alcohol or drug abuse within 3 months of screening\nHb% < 10 gm% for males, Hb% < 9 gm% for females, serum creatinine \u2265 2mg%, serum Total Bilirubin \u22652mg%\nPregnant and lactating women\nPatients tested positive for HIV 1 & 2, HCV, HBV, CMV, RPR antibodies and for HBsAg antigen"
+                        ],
+                        "EnrollmentCount": [
+                              "0"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT03056742"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "Lower limbs arteries are a frequent localization of atheroma in elderly people (15-20% after 70 years). The most severe stage of the disease, critical limb ischemia (CLI), defined clinically by the presence of rest pain or ischemic ulcer, has a dramatic prognosis at 12 months, with 30% of the patients alive with an amputation, 20% mortality and only 20% of patients with a resolved disease, independently from the treatment. The only validated treatment for this disease is revascularization by endovascular procedures or open surgery. Patients with no option or poor option (high risk) for revascularization have the worst prognosis.\n\nCurrent research is focusing on the development of cell-based therapies using different sources of stem cells which can provide revascularization and oxygenation of the tissues. A specific form of stem cells, called Adipose-derived Stem/Stroma Cells (ASC), has shown promise for recovering from ischemic disease like critical limb ischemia (CLI) in preclinical trial and trial in phase I. This study will confirm the efficacy autologous transplantation of adipose tissue derived mesenchymal cells in patients with critical limb ischemia with poor options or no option for revascularization.\n\nThis study is a phase II, prospective, multicentric, open trial and no comparative. A maximum of 43 patients will be included in two-stage to receive 90*106 intramuscular injection of ASC. Patients will be followed-up for 6 months.\n\nThe primary endpoint is the number of patients alive without major amputation and without critical limb ischemia (defined as the presence of rest pain or ischemic ulcer and ankle pressures less than 70 mmHg or toe systolic pressure less than 50 mmHg or TcPO2 of less than 30 mmHg, at six month).\n\nThe secondary endpoints are to evaluate:\n\nthe number of new vessels in the treated limb by standardized angiographic magnetic resonance\nthe blood flow by laser Doppler, transcutaneous pressure of oxygen (TcPO2), ankle pressure\nthe percentage reduction of wound surface and percentage of complete ulcer healing\nthe pain reduction by standardized evaluation (visual scale and drug consumption)\nthe percentage of wound infection and irritative dermatitis (expected adverse events)\ninterleukin-1, interleukin-2, interleukin-4, interleukin-6, interleukin-10, interleukin-12, Tumor Necrosis Factor alpha (TNF\u03b1)measurements in blood samples\nMesenchymal stem cells MSC trophic factors and immune- modulators (Hepatocyte growth factor (HGF), Vascular Endothelial Growth Factor (VEGF), indoleamine 2, 3-dioxygenase (IDO), Human Leucocyte Antigen G (HLA-G)) in vitro."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nPatients over 18 years old,\nRest pain or ischemic ulcers /gangrene of the lower limb, present for at least 15 days, requiring analgesic absorption, with ankle pressures less than 70 mmHg or toe systolic pressure less than 50 mmHg or TcPO2 of less than 30 mmHg\n\nPatient with persistent CLI after revascularization will be included if :\n\nthey have severe cardiac, respiratory or renal disease who are at increased risk of complication from surgery or anesthesia, e.g. moderately severe or severe heart failure (NYHA class III or IV), severe or very severe Chronic Obstructive Pulmonary disease or severe renal disease (creatinine clearance <30 mL/minute).\n\nOR\n\nthere is no option for endovascular or open surgery revascularization ; or poor option (defined by: need for an infra-popliteal by-pass without the availability of autologous great saphenous vein, need for use of great saphenous vein <3 mm in diameter for tibial level bypass based on venous duplex ultrasound, or calcified or small (<2 mm) distal target vessel, or open wound on the receiving site or infrapopliteal PAD)\n\nPatients who signed the informed consent,\nPatient affiliated to a social security system\n\nExclusion Criteria:\n\nHistory of cancer\nNeed of a major amputation (amputation at or above the ankle) within 2 weeks,\nUlcers with exposure of tendons, osteomyelitis, or clinically uncontrolled infection,\nTcPO2 <10 mmHg at rest and < 30 mmHg sitting with legs dependent (very poor vascular reserve),\nPatient under judicial protection,\nPregnant women,\nWomen of childbearing age without effective contraception.\nRefusal of the patient to participate in the study,\nPositive HIV-1 or 2, Human T Leukemia virus (HTLV)-1 or 2, Hepatite B Virus (HBV) (except vaccine profile), Syphilis (except inactive disease), or Hepatite C Virus (HCV)\nPatients necessitating drugs with inhibitory or stimulatory effect on the growth and multiplication of cells or drugs with immunosuppressive effect: Cyclosporine, Mycophenolate mofetil, Azathioprine, Tacrolimus (systemic), Anthracyclines, Neupogen or equivalent, Etanercept, Interferons, Corticoids at anti-inflammatory doses.\nNo possibility of adipose tissue harvest and cell injection in the leg\nAnother clinical trial participation (except non interventional studies),\nPatient under judicial protection,\nPregnant and breastfeeding women,\nWomen of childbearing age without effective contraception,\nLack in understanding the nature and aims of the study and/or difficulties in communication with the investigator."
+                        ],
+                        "EnrollmentCount": [
+                              "43"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT03968198"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "The ADIPOCLI trial is an interventional monocentric trial in which the investigators will evaluate the safety, feasibility and potential efficacy of local administration of autologous adipose derived stromal/stem (ASCs) cell as treatment for pain and ulcers caused by CLI. If the results confirm safety, feasibility and show potential beneficial effects of the intervention regarding clinical parameters, a larger clinical research with longer follow up will be initiated focusing on efficacy. The objective of this clinical trial is to assess the efficacy and safety of ASCs inoculation in peri-tibial area, though reducing pain significantly in patients with CLI not eligible for revascularization.\n\nAutologous fat grafting is widely used for soft-tissue augmentation and replacement in reconstructive and aesthetic surgery providing a biocompatible, natural and inexpensive method. Noteworthy, recent reports have identified adipose tissue as the tissue in the body that contains the highest percentage of adult stem cells. These adipose derived stem cells (ADSCs) can undergo multilineage differentiation and may be crucial for the surgery purpose of healing ulcers as they have potent regenerative effects on endothelium and immunomodulatory properties.\n\nAdipose-derived stromal/stem cells (ASCs) are considered to be an attractive alternative to pluripotent cells with characteristics similar to BMMSCs. Compared with these latter cells, ASCs offer several advantages, including ease of isolation, less donor morbidity, relative abundance, and rapidity of expansion. Preliminary attempts with ASC cell therapy have been made to induce healing of ulcers developed in peripheral vascular diseases of some animal models and human disorders.\n\nThe benefits of peritibial inoculation of autologous adipose tissue are the reduction of ischemic pain, the improvement of skin and muscle perfusion, the suspension of major amputation interventions and the healing of trophic lesions if present.\n\nThe result of the intervention varies from individual to individual and depends on the engraftment of the transplanted material. In some cases the pain completely disappears. In others, the transplanted material may undergo varying degrees of reabsorption (from 50% to 70%) and therefore a new transplant may be necessary after some time (6-12 months).\n\nThe risks are linked to local complications of the procedure such as edema, ecchymosis, pain in the district of surgical aggression (the extent of these three manifestations varies from patient to patient, but are generally modest), dehiscence, bleeding of the wound, site infection surgical.\n\nThe study has a total duration of 24 months. The recruitment phase lasts 18 months. After the surgical procedure, the patient will be followed for 6 months, during which he will undergo outpatient visits at 7 and 21 days; then at 1, 3, and 6 months. At each visit, the patient will be assessed for the amount of pain and the transcutaneous oximetry value. As in the usual clinical practice and in the diagnostic-therapeutic path of the arteriopathic patient, instrumental examinations (measurement of the ankle-brachial pressure index - ABI, arterial ultrasound Doppler lower limbs) are performed at the enrollment, at the twenty-first day and 6 months after the procedure .\n\nThe investigators will include 20 patients with CLI who satisfy the inclusion criteria. Inclusion and exclusion criteria were designed to select patients with CLI, not suitable for revascularization and who are in reasonable health condition to allow trial participation. Study participants are recruited from our own outpatient population or emergency room. Baseline characteristics are collected during the first visit and include medical examination, ABI and TcPO2 evaluation and Doppler ultrasonography to study the arterial axis of the limb. If CLI is diagnosed, the patient is hospitalized and undergoes an angiography study. Quality of Lyfe test is administered at hospitalization and at follow up.\n\nAfter angiogram, treatment of choice will be selected during the multidisciplinary vascular conference taking the individual condition of patients into account. Patients eligible for revascularization are submitted to open/endovascular surgery. Patient with CLI unsuitable for revascularization continue hospitalization being given best medical therapy, i.e. pain-killer drugs and prostanoids. Only to these class of patients an adjunctive treatment with local fat grafting is proposed. Information sheet is given to every patient after interview with investigators and informed consent is taken before the procedure."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAge > 18\nEstablished diagnosis of CLI according to TransAtlantic InterSociety Consensus (TASC II) guidelines\nAnkle oxygen partial pressure < 40 mmHg with no ischaemic lesions or < 60 mmHg with ischaemic lesions\nTibial injections site free from ulcers\nAbsence of comorbidities responsible for life expectancy < 6 months\nNon suitability for surgery (comorbidities or angiographic results)\nInformed consent taken\n\nExclusion Criteria:\n\nAge < 18 years\nInability of understanding and signing informed consent\nTibial injections sites involved by ulcers\nLife expectancy < 6 months\nUnwillingness to attend follow up\nAny of the following: women who are or may be pregnant or women hoping to become pregnant; women who are breastfeeding; men whose partners hope to become pregnant during the treatment period"
+                        ],
+                        "EnrollmentCount": [
+                              "20"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04746599"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "Diabetic foot (DF) is a concomitant illness of diabetes mellitus. Diabetes is one of the main causes of non-traumatic amputation worldwide due to severe peripheral arterial occlusive disease with chronic critical limb ischemia being the most abundant problem. Ulceration occurs as failure of oxygenation, nutrient supply and progressive occlusion of larger blood vessels often exacerbates pre-existing microvascular abnormalities.\n\nPurified bone marrow mononuclear cells or expanded bone marrow cells enriched in Cluster of Differentiation 90+ (CD90+) mesenchymal stem cells (named tissue repair cells, [TRCs]) are used in the treatment of diabetic ulcers in comparison to bone marrow derived stem cells to induce revascularization of the affected limb and to enhance local perfusion. Cells are administered intramuscular or intraarterial. A control group of patients treated according national guidelines without stem cells serves as comparator.\n\nDiabetic foot patients with chronic limb ischemia and without the option for surgical or interventional revascularization were recruited and randomized to the transplant groups or the control group within this clinical trial. To measure the therapeutic effects of the various treatment arms patients were evaluated for (ankle brachial index (ABI), transcutaneous oxygen partial pressure (TcPO2), and reactive hyperemia (Blood Oxygen Level Dependent [BOLD]). Patients also underwent imaging with angiographic methods."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nDiabetes mellitus Type 1 or 2\nPeripheral occlusive arterial disease stage III or IV (Fontaine) with chronical ischemia, chronic foot ulcer, degree of severity <5 (Wagner), older than 6 weeks, without acute wound infection\nUlcer size 1 - 30cm2, in case of osteomyelitis only one bone should be affected no trend towards healing in the ulcer after one week of standard treatment\nAngiopathic or angioneuropathic diabetic foot syndrome with no possible option of operative or interventional revascularisation\nAge 18 - 80 years\nDeclaration of patient consent"
+                        ],
+                        "EnrollmentCount": [
+                              "30"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT01065337"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nPatient signed informed consent.\nAdult males or females between 18 and 81 years of age with diabetes mellitus type 1 or type 2.\nPatient has one Diabetic Foot Ulcer (DFU) on the treated leg. The size of the DFU is no greater than 10 cm2 .\nThe Diabetic Foot Ulcer (DFU) is neuropathic: The patient is checked by a 5.27 mm Monofilament, and doesn't have a sensation in at least 4 of 9 points in the foot.\nNo endovascular or surgical interventions are planned.\nPatient isn't in an immediate life threat.\n\nNormal organ and marrow function as defined:\n\nLeukocytes \u22653,000/\u03bcL\nAbsolute neutrophil count \u22651,500/\u03bcL\nPlatelets \u2265140,000/\u03bcL\nAST (SGOT)/ALT (SGPT) \u22642.5 X institutional standards range\nCreatinine \u2264 2.5 mg/dL\nPatients with controlled blood pressure (defined as a systolic blood pressure \u2264180 and/or a diastolic blood pressure of \u2264110 mmHg) and established anti-hypertensive therapy as necessary prior to entry into the study.\n\nExclusion Criteria:\n\nPatient weight is greater than 120 Kg.\nPatients with poorly controlled diabetes mellitus (HbA1c > 10%).\nPresence of osteomyelitis (stage B grade 3 and stage D grade 3 on the UT Scale).\nMore than one ulcer in the treated foot.\nPatients with a known failed ipsilateral revascularization procedure within 4 weeks prior to enrollment.\nPatients with ABI <= 0.3\nPatients receiving treatment with hematopoietic growth factors.\n(Actively) infected ulcer.\nInfection of the involved extremity(ies) in the intended region of injection. Patient will be included (injected) if there is a safe zone of 10 cm from any soft tissue infection, manifested by fever, purulence and severe cellulitis.\nActive wet gangrenous tissue.\nPatients who require uninterrupted anticoagulation or anti-platelet therapy [i.e. anticoagulation therapy (e.g. Coumadin) that cannot be stopped for 72 hours prior to intramuscular injections.\nPatients with a blood clotting disorder not caused by medication.\nPatients with known cancer undergoing treatment including chemotherapy, radiotherapy or immunotherapy.\nPatients with end stage renal disease requiring dialysis.\nPatients who are pregnant or lactating.\nHistory of regular alcohol consumption exceeding 2 drinks/day (1 drink = 5 oz [150mL] of wine or 12 oz [360mL] of beer or 1.5 oz [45mL] of hard liquor) within 6 months of screening and/or history of illicit drug use.\nKnown allergies to protein products (horse or bovine serum, or porcine trypsin) used in the cell production process.\nPatients receiving experimental medications or participating in another clinical study within 30 days of screening.\nImmune deficient patients.\nPatients with positive blood tests for Hepatitis B or Hepatitis C or HIV or Syphilis at the time of screening.\nPatients treated by Ilomedin (Iloprost).\nPatients having received a new chronic pharmacologic treatment regimen within 4 weeks prior to enrollment.\nPatients undergoing hyperbaric oxygen treatment within 4 weeks of inclusion and/or required throughout the trial.\nConcomitant wound treatments that include growth factors or tissue engineered products.\nIn the opinion of the investigator, the patient is unsuitable for cellular therapy.\nPatients receiving systemic or direct target limb injection of antiangiogenic drugs."
+                        ],
+                        "EnrollmentCount": [
+                              "12"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT01686139"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Care Provider",
+                              "Investigator",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAge > 18 years\n\nSevere Peripheral Artery Disease (PAD; Fontaine class III and / or IV):\n\nFontaine III (Rutherford 4): persistent, recurring rest pain requiring analgesia\nFontaine IV (Rutherford 5): non-healing ulcers present for > 4 weeks without evidence of improvement in response to conventional therapies\nAnkle brachial index < 0.6 or unreliable (non-compressible or not in proportion to the Fontaine classification)\nNot eligible for surgical or endovascular revascularization\nWritten informed consent.\n\nExclusion Criteria:\n\nHistory of neoplasm or malignancy in the past 10 years\nSerious known concomitant disease with life expectancy of less than one year\nRutherford 6 in which amputation on the short term (within 1-2 weeks) is inevitable\nPregnancy or unwillingness to use adequate contraception during study\nUncontrolled acute or chronic infection with systemic symptoms\nFollow-up impossible."
+                        ],
+                        "EnrollmentCount": [
+                              "60"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT03042572"
+                        ]
+                  }
+            ]
+      }
+}

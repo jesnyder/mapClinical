@@ -1,0 +1,2063 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Myocardial Infarction",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 46,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 46,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Mesenchymal stem cell treatment group",
+                              "Control group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Antipy",
+                              "Infl",
+                              "ARhu",
+                              "FiAg",
+                              "Analg",
+                              "PlAggInh",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Antipyretics",
+                              "Anti-Inflammatory Agents",
+                              "Antirheumatic Agents",
+                              "Fibrinolytic Agents",
+                              "Analgesics",
+                              "Platelet Aggregation Inhibitors",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3700",
+                              "M1669"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Aspirin",
+                              "Clopidogrel"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Route : intracoronary injection Frequency : single dose of autologous bone-marrow derived mesenchymal stem cells Dosage : 1x1000000 cells/kg Duration : mean injection duration approximately 4 weeks after primary percutaneous coronary intervention",
+                              "No additional treatment of mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal stem cell",
+                              "Control group"
+                        ],
+                        "InterventionOtherName": [
+                              "Hearticellgram-AMI"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01392105"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "BM-MSCs group",
+                              "BM-MSCs group",
+                              "Control group",
+                              "BM-MSCs group",
+                              "Control group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Inject the BM-MSCs into the infarct-related arterial hypertension through the central cavity of the guide wire balloon catheter under the complete blockage of the target blood vessel. Each time the balloon continues to fill for 2 minutes to block blood flow, then resume perfusion for 2 minutes. The above process is repeated 6 ~ 8 times",
+                              "Refer to the latest medication guidelines and give the best medication to the patients",
+                              "Percutaneous coronary intervention"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Bone marrow mesenchymal stem cells transfer",
+                              "Best medical treatment",
+                              "Percutaneous coronary intervention"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Drug",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04421274"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "WJ-MSC"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "intracoronary infusion of WJ-MSCs or placebo medium into the infarct artery 4-7 days after successful reperfusion therapy."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "intracoronary human umbilical WJ-MSC transfer"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Genetic"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01291329"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "InterventionArmGroupLabel": [
+                              "Provacel: Cohort 1",
+                              "Provacel: Cohort 2",
+                              "Provacel: Cohort 3",
+                              "Provacel: Cohort 4",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "ex vivo cultured adult mesenchymal stem cells",
+                              "Placebo"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Provacel",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT00114452"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "InterventionArmGroupLabel": [
+                              "UMSC01"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "UMSC01 cells will be one single IC infusion followed by one single IV infusion with 12 months of follow up after treatment."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic umbilical cord mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04056819"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "InterventionArmGroupLabel": [
+                              "Intracoronary Group",
+                              "Intravenous Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "The UC-MSCs from a donor will be cultured in a clinical grade laboratory with xeno-free medium. Maximum passage of expanded-UC MSCs was VI and doubling population is less than 30. To assure the quality of our expanded-UC MSCs at ProSTEM the following tests are done: cell adherence, cell surface marker, in vitro differentiation, cell viability, sterility, Mycoplasma, endotoxin, and karyotyping."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal Stem Cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04340609"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "InterventionArmGroupLabel": [
+                              "Group 1 (PCI+SC implantation)",
+                              "Group 2 (PCI+Placebo)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Conventional percutaneous coronary intervention after acute myocardial infarction. Harvest of bone marrow from iliac crest. Mesenchymal autologous stem cells preparation (7-10 days after PCI). LV mapping with Noga system (7-10 days after PCI). Randomization 1:1. Stem Cells or placebo implantation."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "PCI and Stem Cells or Placebo injections"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01394432"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "InterventionArmGroupLabel": [
+                              "Single dose of Hearticellgram-AMI"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "FiAg",
+                              "AnCoag",
+                              "All",
+                              "Antipy",
+                              "Infl",
+                              "ARhu",
+                              "Analg",
+                              "PlAggInh",
+                              "Lipd",
+                              "Infe",
+                              "ANeo"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Fibrinolytic Agents",
+                              "Anticoagulants",
+                              "All Drugs and Chemicals",
+                              "Antipyretics",
+                              "Anti-Inflammatory Agents",
+                              "Antirheumatic Agents",
+                              "Analgesics",
+                              "Platelet Aggregation Inhibitors",
+                              "Lipid Regulating Agents",
+                              "Anti-Infective Agents",
+                              "Antineoplastic Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M8733",
+                              "M3700",
+                              "M1669",
+                              "M8731",
+                              "M45326",
+                              "M19305",
+                              "M1943",
+                              "M6563",
+                              "M20308",
+                              "M3286",
+                              "M28069",
+                              "M2823",
+                              "M273811",
+                              "M15898"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Heparin, Low-Molecular-Weight",
+                              "Aspirin",
+                              "Clopidogrel",
+                              "Heparin",
+                              "Calcium heparin",
+                              "Dalteparin",
+                              "Tinzaparin",
+                              "Diuretics",
+                              "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+                              "Angiotensin-Converting Enzyme Inhibitors",
+                              "Angiotensin Receptor Antagonists",
+                              "Adrenergic beta-Antagonists",
+                              "polysaccharide-K",
+                              "Ticlopidine"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Hearticellgram-AMI"
+                        ],
+                        "InterventionOtherName": [
+                              "(Autologous bone marrow derived mesenchymal stem cells)"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01652209"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "InterventionArmGroupLabel": [
+                              "Experimental group",
+                              "Control group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "A matrix-cell construct (PeriCord) will be placed on the ischemic area of the non-candidate revascularization area during a surgery by sternotomy to perform the surgical revascularization of the arteries candidates for revascularization.",
+                              "The patient will undergo surgery by sternotomy to perform the surgical revascularization of the arteries candidates for revascularization. No additional procedure will be performed only the by-pass."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "PeriCord: Expanded and cryopreserved allogeneic umbilical cord Wharton\u00b4s jelly-derived adult mesenchymal stem cells colonized on human pericardial matrix.",
+                              "Surgery by sternotomy"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Combination Product",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03798353"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "InterventionArmGroupLabel": [
+                              "stem cells",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "CAB"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M85407",
+                              "M21013",
+                              "M11966"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Plasma-lyte 148",
+                              "Pharmaceutical Solutions",
+                              "Ophthalmic Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "IV infusion of stem cells",
+                              "IV infusion"
+                        ],
+                        "InterventionMeshId": [
+                              "C000012499"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Plasma-lyte 148"
+                        ],
+                        "InterventionName": [
+                              "Stem cell",
+                              "Plasmalyte A"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00883727"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "InterventionArmGroupLabel": [
+                              "Prochymal\u00ae",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "1440"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Intravenous infusion of ex vivo cultured adult human mesenchymal stem cells",
+                              "Intravenous infusion of excipients of Prochymal\u00ae"
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "Prochymal\u00ae",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "Remestemcel-L"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT00877903"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "InterventionArmGroupLabel": [
+                              "Stem Cells",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "human Allogeneic Low Oxygen mesenchymal stem cells; Ischemia tolerant",
+                              "Lactated Ringer's Solution"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Stem cells",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "Allogeneic Low Oxygen mesenchymal stem cells"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02672267"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "InterventionArmGroupLabel": [
+                              "Placebo PBS",
+                              "WJMScs",
+                              "Placebo PBS",
+                              "WJMScs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3369"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anti-Inflammatory Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Intravenous infusion placebo or WJMSCs in patients with AMI",
+                              "Intravenous infusion WJMSCs or placebo in patients with AMI"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Intravenous infusion placebo",
+                              "Intravenous infusion WJMSCs"
+                        ],
+                        "InterventionOtherName": [
+                              "PBS",
+                              "WJMSCs"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04551443"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "InterventionArmGroupLabel": [
+                              "Phase A: Atorvastatin",
+                              "Phase A: High dose BMMSC",
+                              "Phase A: Low dose BMMSC",
+                              "Phase A: Middle dose BMMSC",
+                              "Phase B: Atorvastatin",
+                              "Phase B: Atorvastatin+Transplantation",
+                              "Phase B: Intensive Atorvastatin",
+                              "Phase B: Intensive Atorvastatin+Transplantation",
+                              "Phase A: Low dose BMMSC",
+                              "Phase A: Middle dose BMMSC",
+                              "Phase A: High dose BMMSC",
+                              "Phase B: Atorvastatin+Transplantation",
+                              "Phase B: Intensive Atorvastatin+Transplantation"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Lipd",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Lipid Regulating Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Failure"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M351",
+                              "M20308",
+                              "M3395",
+                              "M3430",
+                              "M3433",
+                              "M28036"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Atorvastatin",
+                              "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+                              "Anticholesteremic Agents",
+                              "Hypolipidemic Agents",
+                              "Antimetabolites",
+                              "Lipid Regulating Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Routine dose of Atorvastatin therapy",
+                              "Intensive dose of Atorvastatin therapy",
+                              "Low dose autologous Bone Marrow Mesenchymal Stem Cells transplantation",
+                              "Middle dose autologous Bone Marrow Mesenchymal Stem Cells transplantation",
+                              "High dose autologous Bone Marrow Mesenchymal Stem Cells transplantation",
+                              "Optimal dose autologous Bone Marrow Mesenchymal Stem Cells transplantation"
+                        ],
+                        "InterventionMeshId": [
+                              "D000069059"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Atorvastatin"
+                        ],
+                        "InterventionName": [
+                              "Atorvastatin",
+                              "Intensive Atorvastatin",
+                              "Low dose BMMSC",
+                              "Middle dose BMMSC",
+                              "High dose BMMSC",
+                              "Transplantation"
+                        ],
+                        "InterventionOtherName": [
+                              "Statin"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug",
+                              "Drug",
+                              "Drug",
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03047772"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "InterventionArmGroupLabel": [
+                              "Cohort 1",
+                              "Cohort 1",
+                              "Cohort 2 (Control Group)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Antipy",
+                              "Infl",
+                              "ARhu",
+                              "FiAg",
+                              "Analg",
+                              "PlAggInh",
+                              "All",
+                              "VaDiAg",
+                              "Lipd"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Antipyretics",
+                              "Anti-Inflammatory Agents",
+                              "Antirheumatic Agents",
+                              "Fibrinolytic Agents",
+                              "Analgesics",
+                              "Platelet Aggregation Inhibitors",
+                              "All Drugs and Chemicals",
+                              "Vasodilator Agents",
+                              "Lipid Regulating Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3700",
+                              "M1812",
+                              "M8254",
+                              "M20308",
+                              "M2823"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Aspirin",
+                              "Ticagrelor",
+                              "Nitroglycerin",
+                              "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+                              "Adrenergic beta-Antagonists"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Cell Tech Pharmed Company (Tehran, Iran) will provide us with cGMP grade WJ-MSCs. 10^7 WJ-MSCs will be delivered through the intracoronary route. WJ-MSCs will be infused at a rate of 2.5 ml/min across three portions.",
+                              "Beta-blocker, angiotensin-converting enzyme (ACE) inhibitor, aldosterone antagonist, aspirin, ticagrelor, statin, and glyceryl trinitrate plus cardiac rehabilitation."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Umbilical Cord-Derived Wharton's Jelly Mesenchymal Stem Cells (WJ-MSCs)",
+                              "Conventional Treatment"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05043610"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "InterventionArmGroupLabel": [
+                              "Group 1: 20 million Allogeneic hMSCs",
+                              "Group 2: 100 million Allogeneic hMSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Allogeneic Adult Human Mesenchymal Stem Cells (MSCs) delivered via injection"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic hMSCs"
+                        ],
+                        "InterventionOtherName": [
+                              "Allogeneic Adult Human Mesenchymal Stem Cells (MSCs)"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02013674"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "InterventionArmGroupLabel": [
+                              "Lower dose mesenchymal stem cell (MSC) injection",
+                              "(3) Placebo",
+                              "Higher dose MSC injection"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "ANeo",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Antineoplastic Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M8814"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Altretamine"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Participants will receive between 10 and 20 intramyocardial injections of 2 million MSCs per 0.25-0.5 cubic centimeter (cc) for a total of 2 x 10^7 cells. The injections will be administered following completion of CABG surgery.",
+                              "Participants will receive between 10 and 20 placebo injections that consist of phosphate buffered saline (PBS) and 1% human serum albumin (HSA).",
+                              "Participants will receive between 10 and 20 intramyocardial injections of 20 million MSCs per 0.25-0.5 cc for a total of 2 x 10^8 cells. The injections will be administered following completion of CABG surgery."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Lower dose mesenchymal stem cell (MSC) injection",
+                              "Placebo",
+                              "Higher dose MSC injection"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Genetic",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT00587990"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "InterventionArmGroupLabel": [
+                              "UC-MSC",
+                              "Control Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "0.25ml Shanghai Life UC-MSC injection is resuspended into 10ml of cell suspension and slowly infused into infarct-related blood vessels through an administration catheter in 2 minutes, and the number of cells transplanted each time is 5x10(6) cells. The UC-MSC products are manufactured by Shanghai Life with viability>80%, and endotoxin<0.1 EU\uff0c at the concentration of 2x10(7) cells/ml.",
+                              "Routine treatment without catheter infusion"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "UC-MSC",
+                              "Control Group"
+                        ],
+                        "InterventionOtherName": [
+                              "Transplantation Group"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03902067"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "InterventionArmGroupLabel": [
+                              "Active Group",
+                              "Control Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Patients in the AMI trial will receive one dose of IMP during the index procedure. The IMP administration will be performed by dedicated catheter into infarct related artery.\n\nActive IMP consist of 30 000 000 of Wharton's jelly mesenchymal stem cells (WJMSCs) in each IMP dose prepared for patients randomized into active treatment group.",
+                              "Patients randomized to the control group will receive 0.9% NaCl and 5% albumin injections (in the same volume as CardioCell) in the same manner.\n\nControl group will receive the same amount of fluid used for WJMSCs preparation, without cells."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Cardiac Drug",
+                              "Placebos"
+                        ],
+                        "InterventionOtherName": [
+                              "CardioCell administration",
+                              "Placebo administration"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03404063"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "InterventionArmGroupLabel": [
+                              "CABG with hUC-MSC treatment group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "CNSDep",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Central Nervous System Depressants",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3259"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anesthetics"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "In CABG with hUC-MSC treatment group, 1\u00d710^7 Human Umbilical Cord Mesenchymal Stem Cells were injected at the edge of the myocardial infarction area at 20 points at the same time in CABG"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic Human Umbilical Cord Mesenchymal Stem Cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04939077"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "InterventionArmGroupLabel": [
+                              "Auto-hMSCs",
+                              "Allo-hMSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Biological: Autologous human mesenchymal stem cells (Auto-hMSCs) Participants will receive 40 million cells/mL delivered in either a dose of 0.5 mL per injection x 1 injection for a total of 0.2 x 10^8 (20 million) Auto-hMSCs, a dose of 0.5 mL per injection x 5 injections for a total of 1 x 10^8 (100 million) Auto-hMSCs, or a dose of 0.5 mL per injection x 10 injections for a total of 2 x 10^8 (200 million) Auto-hMSCs. The injections will be administered transendocardially during cardiac catheterization using the Biocardia Helical Infusion Catheter.",
+                              "Biological: Allogeneic human mesenchymal stem cells (Allo-hMSCs) Participants will receive 40 million cells/mL delivered in either a dose of 0.5 mL per injection x 1 injection for a total of 0.2 x 10^8 (20 million) Allo-hMSCs, a dose of 0.5 mL per injection x 5 injections for a total of 1 x 10^8 (100 million) Allo-hMSCs, or a dose of 0.5 mL per injection x 10 injections for a total of 2 x 10^8 (200 million) Allo-hMSCs. The injections will be administered transendocardially during cardiac catheterization using the Biocardia Helical Infusion Catheter."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Auto-hMSCs",
+                              "Allo-hMSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01087996"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "InterventionArmGroupLabel": [
+                              "Control",
+                              "Stem Cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Allogeneic mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01770613"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "InterventionArmGroupLabel": [
+                              "UCMSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "umbilical cord mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02666391"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "InterventionArmGroupLabel": [
+                              "1",
+                              "2",
+                              "3"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M16126",
+                              "M16127",
+                              "M237968",
+                              "M209570"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Triamcinolone",
+                              "Triamcinolone Acetonide",
+                              "Triamcinolone hexacetonide",
+                              "Triamcinolone diacetate"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Participants will receive 40 million cells/mL delivered in either a dose of 0.25 mL per injection for a total of 1 x 108 (100 million) hMSCs x 10 injections or a dose of 0.5 mL per injection for a total of 2 x 108 (200 million) x 10 injections. The injections will be administered transendocardially during cardiac catheterization using the Biocardia Helical Infusion Catheter.",
+                              "Participants will receive 40 million cells/mL delivered in either a dose of 0.25 mL per injection for a total of 1 x 108 (100 million) hBMCs x 10 injections or a dose of 0.5 mL per injection for a total of 2 x 108 (200 million) x 10 injections. The injections will be administered transendocardially during cardiac catheterization using the Biocardia Helical Infusion Catheter.",
+                              "Participants will receive 0.5 mL injections of phosphate-buffered saline (PBS) and 1% human serum albumin (HAS) x 10 injections. The injections will be administered transendocardially during cardiac catheterization using the Biocardia Helical Infusion Catheter."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous human mesenchymal cells (hMSCs)",
+                              "Autologous human bone marrow cells (hBMCs)",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00768066"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "InterventionArmGroupLabel": [
+                              "Intracoronary infusion WJMSCs",
+                              "Intravenous infusion WJMSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "WJMSCs Vs. placebo",
+                              "WJMSCs Vs. placebo"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "WJMSCs Vs. placebo",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT02368587"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "InterventionArmGroupLabel": [
+                              "Group A - Autologous hMSCs",
+                              "Group B - Autologous Human C-Kit CSCs II",
+                              "Placebo",
+                              "Group A - Autologous hMSCs",
+                              "Group B - Autologous Human C-Kit CSCs II",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "ANeo",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Antineoplastic Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M8814"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Altretamine"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Autologous hMSCs: 40 million cells/ml delivered in 0.5 ml injection volumes times 10 injections for a total of 2 x 10^8 (200 million) hMSCs.",
+                              "Autologous hMSCs PLUS autologous C-Kit hCSCs: Mixture of 39.8 million hMSCs and 0.2 million C-Kit hCSCs/ml delivered in 0.5 ml injection volumes times 10 injections for a total of 1.99 x 10^8 (199 million) hMSCs and 1 million C-Kit hCSCs.",
+                              "Placebo (ten 0.5 ml injections of phosphate-buffered saline [PBS] and 1% human serum albumin [HSA]).",
+                              "Biosense Webster MyoStar NOGA Injection Catheter System will be used to administer the study drug"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous hMSCs",
+                              "Autologous Human C-Kit CSCs II",
+                              "Placebo",
+                              "Biosense Webster MyoStar NOGA Injection Catheter System"
+                        ],
+                        "InterventionOtherName": [
+                              "Autologous Human Mesenchymal Stem Cells (hMSCs)",
+                              "Autologous Human C-Kit Cardiac Stem Cells (CSCs) II",
+                              "NOGA"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug",
+                              "Drug",
+                              "Device"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02503280"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "InterventionArmGroupLabel": [
+                              "Intervention arm"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "60x106 MSCs Trans-endocardial intramyocardial injections (n=14-16)"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Genetic"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01076920"
+                        ]
+                  },
+                  {
+                        "Rank": 28,
+                        "InterventionArmGroupLabel": [
+                              "BMMSCs",
+                              "Controls",
+                              "pre-conditioned BMMSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "BMMSCs"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02504437"
+                        ]
+                  },
+                  {
+                        "Rank": 29,
+                        "InterventionArmGroupLabel": [
+                              "Stem cells implantation"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Intramyocardial implantation of a novel mesenchymal precursor cell type (iMP)."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Intramyocardial implantation of of a novel mesenchymal precursor cell type (iMP)."
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01753440"
+                        ]
+                  },
+                  {
+                        "Rank": 30,
+                        "InterventionArmGroupLabel": [
+                              "Intra parenchymal injection",
+                              "Intra parenchymal injection & Intra-arterial infusion",
+                              "Intra-arterial infusion"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Injection of Allogeneic adipose derived mesenchymal stem cells into the Kidney allograft"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic adipose derived mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04388761"
+                        ]
+                  },
+                  {
+                        "Rank": 31,
+                        "InterventionArmGroupLabel": [
+                              "Infusion WJMSCs multiple doses",
+                              "Placebo Infusion PBS",
+                              "Single dose Infusion WJMSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All",
+                              "Infl"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals",
+                              "Anti-Inflammatory Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M16512",
+                              "M3369"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Vaccines",
+                              "Anti-Inflammatory Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Randomised, Double-blind, Placebo-controlled, Intravenous Infusion HumanWharton' Jelly-derived Mesenchymal Stem Cells in Patients With Coronary Artery Disease"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Intravenous infusion human umbilical Wharton's jelly-derived mesenchymal stem Cell or placebo PBS"
+                        ],
+                        "InterventionOtherName": [
+                              "Intravenous infusion WJMSCs or placebo"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04551456"
+                        ]
+                  },
+                  {
+                        "Rank": 32,
+                        "InterventionArmGroupLabel": [
+                              "A"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "600 million to 1 billion cells will be infused through the portal vein over 30 minutes. Infusion will be done one time."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Cellular transplantation"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00515307"
+                        ]
+                  },
+                  {
+                        "Rank": 33,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [],
+                        "InterventionOtherName": [],
+                        "InterventionType": [],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04850469"
+                        ]
+                  },
+                  {
+                        "Rank": 34,
+                        "InterventionArmGroupLabel": [
+                              "Group A - Allo-hMSCs",
+                              "Group B"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Allogeneic Human Mesenchymal Stem Cells",
+                              "Placebo"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allo-hMSCs",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "stem cells; Allogeneic Human Mesenchymal Stem Cells",
+                              "Placebo comparator"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02398604"
+                        ]
+                  },
+                  {
+                        "Rank": 35,
+                        "InterventionArmGroupLabel": [
+                              "UCMSC group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Human umbilical cord MSCs are transplanted by intracoronary infusion(1\u00d710^7)"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "UCMSC group"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02439541"
+                        ]
+                  },
+                  {
+                        "Rank": 36,
+                        "InterventionArmGroupLabel": [
+                              "Cohort A - Phase 1 (Open Label)",
+                              "Cohort B - Phase 2 Treatment Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Allogeneic bone marrow-derived mesenchymal stem cell"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Longeveron Mesenchymal Stem Cells"
+                        ],
+                        "InterventionOtherName": [
+                              "LMSCs"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03525418"
+                        ]
+                  },
+                  {
+                        "Rank": 37,
+                        "InterventionArmGroupLabel": [
+                              "Autologous hMSCs",
+                              "Allogeneic hMSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Cells will be administered via the Biosense Webster MyoStar NOGA Injection Catheter System will be tested in 18 patients via transendocardial injection:\n\nGroup 1 (18 patients) Eighteen (18) patients will be treated with Auto-hMSCs: 20 million cells/ml delivered in a dose of 0.5 ml per injection x 10 injections for a total of 1 x 108 (100 million) Auto-hMSCs.",
+                              "Cells will be administered via the Biosense Webster MyoStar NOGA Injection Catheter System will be tested in 18 patients via transendocardial injection:\n\nGroup 2 (18 patients) Eighteen (18) patients will be treated with Allo-hMSCs: 20 million cells/ml delivered in a dose of 0.5 ml per injection x 10 injections for a total of 1 x 108 (100 million) Auto-hMSCs."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous hMSCs",
+                              "Allogeneic hMSCs"
+                        ],
+                        "InterventionOtherName": [
+                              "Biosense Webster MyoStar NOGA Injection Catheter System.",
+                              "Biosense Webster MyoStar NOGA Injection Catheter System."
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT01392625"
+                        ]
+                  },
+                  {
+                        "Rank": 38,
+                        "InterventionArmGroupLabel": [
+                              "Mesenchymal Stromal Stem Cells Infusion",
+                              "Placebo Infusion"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "CNSDep",
+                              "All",
+                              "Infe",
+                              "ANeo",
+                              "Ot"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Central Nervous System Depressants",
+                              "All Drugs and Chemicals",
+                              "Anti-Infective Agents",
+                              "Antineoplastic Agents",
+                              "Other Dietary Supplements"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3259",
+                              "M11280",
+                              "M4006",
+                              "M18102",
+                              "M1830",
+                              "T433"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anesthetics",
+                              "Mycophenolic Acid",
+                              "Benzocaine",
+                              "Tacrolimus",
+                              "Basiliximab",
+                              "Tannic Acid"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Investigational infusion bag containing autologous mesenchymal stromal cells wrapped to cover contents to maintain the blind.\n\nMesenchymal Stromal Stem Cells Infusion.",
+                              "Matching infusion containing normal saline wrapped to cover contents to maintain the blind.\n\nNormal Saline (Placebo) Infusion."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal Stromal Stem Cells (MSCs) Infusion",
+                              "Normal Saline (Placebo) Infusion"
+                        ],
+                        "InterventionOtherName": [
+                              "Investigational autologous biological product",
+                              "Matching placebo infusion bag"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03478215"
+                        ]
+                  },
+                  {
+                        "Rank": 39,
+                        "InterventionArmGroupLabel": [
+                              "Comparison/control group",
+                              "Experimental group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Revascularization surgery, placement of an extracellular matrix patch with WJ-MSCs cultured on the epicardial surface and injection of WJ-MSC around the infarcted zone."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Wharton's jelly-derived mesenchymal cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04011059"
+                        ]
+                  },
+                  {
+                        "Rank": 40,
+                        "InterventionArmGroupLabel": [
+                              "Maximal medical therapy and BM-MSCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Intracoronary implantation of bone marrow-derived mesencymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "BM-MSCs"
+                        ],
+                        "InterventionOtherName": [
+                              "Bone marrow-derived mesenchymal stem cells implantation"
+                        ],
+                        "InterventionType": [
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01720888"
+                        ]
+                  },
+                  {
+                        "Rank": 41,
+                        "InterventionArmGroupLabel": [
+                              "A",
+                              "B",
+                              "A",
+                              "B",
+                              "A",
+                              "B"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Coronary bypass operation is performed via sternotomy during cardiac arrest.",
+                              "The bone marrow is aspirated from the iliac crest (100ml). During the operation the aspirate is transported to the stem cell laboratory, where the sample is centrifugated through Ficoll(Registered Trademark).",
+                              "During the cardiac arrest, stem cells are directly injected to myocardium. The amount of the cells varies individually (5-1000 x 10e6 cells), the cells are diluted in autologous serum (5 ml)",
+                              "Intramyocardial injection of autologous serum is injected during cardiac arrest"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Coronary bypass operation",
+                              "Bone marrow aspiration (crista iliaca)",
+                              "Intramyocardial mesenchymal stem cell transplantation",
+                              "Intramyocardial injection of autologous serum"
+                        ],
+                        "InterventionOtherName": [
+                              "CABG",
+                              "Stem cell harvest",
+                              "Stem cell therapy",
+                              "Stem cell control therapy"
+                        ],
+                        "InterventionType": [
+                              "Procedure",
+                              "Procedure",
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00418418"
+                        ]
+                  },
+                  {
+                        "Rank": 42,
+                        "InterventionArmGroupLabel": [
+                              "SC Group",
+                              "SC Group",
+                              "SC Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M1945"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Lenograstim"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Peripheral blood stem cells will be mobilized by daily subcutaneous injections of filgrastim; CD34+ cells will be collected via apheresis and labeled with technetium. Patients will undergo myocardial perfusion scintigraphy for myocardial viability assessment and the collected CD34+ cells will be injected intracoronary in the artery supplying the segments of reduced tracer accumulation",
+                              "Patients will undergo filgrastim stimulation and viability assessment using the same protocol as in Arm 1. However, in this group, no intracoronary stem cell delivery will be performed; the patients will receive placebo (saline).",
+                              "In the SC group, CD34+ cells were mobilized by granulocyte colony-stimulating factor and collected via apheresis. Patients underwent myocardial scintigraphy and cells were injected in the artery supplying segments with the greatest perfusion defect"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "CD34+ autologous stem cell transplantation",
+                              "Bone Marrow Stimulation",
+                              "SC therapy"
+                        ],
+                        "InterventionOtherName": [
+                              "G-CSF stimulation"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Drug",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00629018"
+                        ]
+                  },
+                  {
+                        "Rank": 43,
+                        "InterventionArmGroupLabel": [
+                              "Allogeneic umbilical cord MSC group",
+                              "Autologous bone marrow-derived MNC group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Human allogeneic umbilical cord MSC or autologous BM-MNC transplantation"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "stem cell transplantation"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02323477"
+                        ]
+                  },
+                  {
+                        "Rank": 44,
+                        "InterventionArmGroupLabel": [
+                              "Differentiated stem cell therapy group",
+                              "undifferentiated stem cell therapy group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Differentiated stem cells to endometrium is deposited in the uterine cavity through an IUI catheter",
+                              "Undifferentiated MSC is deposited in the uterine cavity through an IUI catheter."
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01649752"
+                        ]
+                  },
+                  {
+                        "Rank": 45,
+                        "InterventionArmGroupLabel": [
+                              "Arm I (hMSCs IV)",
+                              "Arm II (hMSCs transendocardially)",
+                              "Arm III (standard of care)",
+                              "Arm I (hMSCs IV)",
+                              "Arm II (hMSCs transendocardially)",
+                              "Arm III (standard of care)",
+                              "Arm I (hMSCs IV)",
+                              "Arm II (hMSCs transendocardially)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Given standard of care",
+                              "Correlative studies",
+                              "Given IV",
+                              "Given transendocardially"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Best Practice",
+                              "Laboratory Biomarker Analysis",
+                              "Mesenchymal Stem Cell Transplantation",
+                              "Mesenchymal Stem Cell Transplantation"
+                        ],
+                        "InterventionOtherName": [
+                              "standard of care",
+                              "standard therapy"
+                        ],
+                        "InterventionType": [
+                              "Other",
+                              "Other",
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02962661"
+                        ]
+                  },
+                  {
+                        "Rank": 46,
+                        "InterventionArmGroupLabel": [
+                              "CSWT+BMMSCs",
+                              "CSWT+Sham operation"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "All participants will screened by D-SPECT to assess the myocardium viability. If the viable myocardium is detected, Patients will be randomized to receive cardiac shock wave therapy with an equipment (Modulith SLC; Storz Medical, Switzerland) followed the recommended protocol developed by Tohoku University of Japan and the protocol developed by the University of Essen, Germany. An over-the-wire catheter will be positioned in the target coronary artery and the cells resuspended in saline will be injected intracoronary.",
+                              "Patients randomized to this group will receive a routine cardiac shock wave therapy and coronary angiography. No cells will be administered via the coronary artery."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "CSWT+BMMSCs",
+                              "CSWT+Sham operation"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Combination Product",
+                              "Device"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03397095"
+                        ]
+                  }
+            ]
+      }
+}

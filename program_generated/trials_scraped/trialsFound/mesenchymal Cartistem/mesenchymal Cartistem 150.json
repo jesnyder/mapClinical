@@ -1,0 +1,301 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Cartistem",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 6,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 6,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Cartistem",
+                              "standard treatment"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "HB",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Herbal and Botanical",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "T63"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Astragalus"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Cartistem is allogenic umbilical cord blood-derived stem cell product. Cartistem is 500uL/cm2 applied according to the lesion."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Cartistem"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02338375"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "CARTISTEM\u00ae"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M9030"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Hyaluronic Acid"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "CARTISTEM\u00ae"
+                        ],
+                        "InterventionOtherName": [
+                              "human umbilical cord blood-derived mesenchymal stem cells"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01733186"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "Cartistem",
+                              "Microfracture treatment"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "allogeneic-unrelated umbilical cord blood-derived mesenchymal stem cell product"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Cartistem",
+                              "Microfracture treatment"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01041001"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "InterventionArmGroupLabel": [
+                              "CARTISTEM",
+                              "Microfracture"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "A single dose of 500\u3395/\u33a0 of cartilage defect",
+                              "Active control"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "CARTISTEM",
+                              "Microfracture"
+                        ],
+                        "InterventionOtherName": [
+                              "hUCB-MSCs",
+                              "Conventional surgical treatment"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT01626677"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "InterventionArmGroupLabel": [
+                              "ACL reconstruction + Cartistem(TM)",
+                              "ACL reconstruction + Hyaluronic acid",
+                              "ACL reconstruction + Cartistem(TM)",
+                              "ACL reconstruction + Hyaluronic acid",
+                              "ACL reconstruction only"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Compression"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M9030",
+                              "M2780",
+                              "M9353",
+                              "M27448",
+                              "M21022"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Hyaluronic Acid",
+                              "Adjuvants, Immunologic",
+                              "Immunologic Factors",
+                              "Viscosupplements",
+                              "Protective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "ACL reconstruction and injection of Cartstem(TM), human cord blood derived mesenchymal stem cell under arthroscopy.",
+                              "ACL reconstruction and injection of hyaluronic acid under arthroscopy.",
+                              "ACL reconstruction only without any injection under arthroscopy"
+                        ],
+                        "InterventionMeshId": [
+                              "D000006820"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Hyaluronic Acid"
+                        ],
+                        "InterventionName": [
+                              "Cartistem(TM)",
+                              "hyaluronic acid",
+                              "ACL reconstruction only"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02755376"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "InterventionArmGroupLabel": [
+                              "Microfracture + CARTISTEM\u00ae",
+                              "Microfracture"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "HB",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Herbal and Botanical",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "T63"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Astragalus"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "*Stratified randomization by lesion size below 1.5\u33a0 or more than 1.5\u33a0\n\nProcedure: Microfracture\nBiological: CARTISTEM\u00ae(Human Umbilical Cord Blood-derived Mesenchymal Stem Cell product)",
+                              "*Stratified randomization by lesion size below 1.5\u33a0 or more than 1.5\u33a0\n\n1. Procedure: Microfracture"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "CARTISTEM\u00ae",
+                              "Microfracture"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04310215"
+                        ]
+                  }
+            ]
+      }
+}

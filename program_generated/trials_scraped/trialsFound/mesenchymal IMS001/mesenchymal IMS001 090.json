@@ -1,0 +1,59 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal IMS001",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nProvides signed and dated informed consent in accordance with local regulations.\n18 to 65 years of age.\nDiagnosis of MS.\nHas had an inadequate response DMTs.\nEDSS within protocol parameters.\nAble and willing to undergo MRIs.\nMust be clinically stable for 1 month prior to Day 1.\n\nExclusion Criteria:\n\nHas a known or suspected hypersensitivity to human serum albumin, diphenhydramine, acetaminophen, methylprednisolone, or any of the components of IMS001.\nHas history of excluded medications, per protocol, prior to Day 1.\nHas a history of neoplastic disease except for basal cell carcinoma, non-metastatic squamous cell carcinoma of the skin that has been excised with clean margins, or adequately treated in-situ carcinoma of the cervix.\nPrior history of any other autoimmune disease, myelodysplasia, or hematologic disease.\nPrior treatment with any allogeneic cell therapy or tissue transplant.\nPrior history of smoking equivalent to \u02c320 cumulative pack years of cigarettes.\nRecent clinically significant infection during the Screening Phase.\nHas any medical or psychiatric condition that would impact outcome or participation in the study.\nHas clinically significant abnormal findings on the electrocardiogram (ECG) during the Screening Phase.\nHas known or documented human immunodeficiency virus (HIV) infection or active Hepatitis B, or C.\nHas an elevated liver function test abnormality during the Screening Phase.\nHas abnormalities of blood count during the Screening Phase.\nHas laboratory abnormalities of renal function during the Screening Phase.\nHas other clinically significant laboratory abnormalities during Screening Phase.\nBody weight \u2265120 kg.\nWomen pregnant, breast feeding, or planning to become pregnant during the study.\nIs unavailable for the duration of the trial, is likely to be noncompliant with the protocol, or is generally felt to be unsuitable by the principal investigator.\nCurrent or recent participation in any other clinical or device trials within 3 months prior to Day 1."
+                        ],
+                        "EnrollmentCount": [
+                              "30"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04956744"
+                        ]
+                  }
+            ]
+      }
+}

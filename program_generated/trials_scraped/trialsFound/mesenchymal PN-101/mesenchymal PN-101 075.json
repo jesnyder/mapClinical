@@ -1,0 +1,114 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal PN-101",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "Nervous System Diseases",
+                              "Skin and Connective Tissue Diseases",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Dermatomyositis",
+                              "Polymyositis",
+                              "Dermatomyositis",
+                              "Polymyositis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M6229",
+                              "M18731",
+                              "M11324",
+                              "M11244",
+                              "M11249",
+                              "M11563",
+                              "M5616",
+                              "M14826",
+                              "T1814",
+                              "T4623",
+                              "T3001"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Dermatomyositis",
+                              "Polymyositis",
+                              "Myositis",
+                              "Muscular Diseases",
+                              "Musculoskeletal Diseases",
+                              "Neuromuscular Diseases",
+                              "Connective Tissue Diseases",
+                              "Skin Diseases",
+                              "Dermatomyositis",
+                              "Polymyositis",
+                              "Idiopathic Inflammatory Myopathy"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003882",
+                              "D000017285"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Dermatomyositis",
+                              "Polymyositis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Sequential Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04976140"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,680 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal placental",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 26,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 26,
+            "FieldList": [
+                  "OutcomeMeasureParamType",
+                  "OutcomeMeasurePopulationDescription",
+                  "OutcomeMeasureReportingStatus",
+                  "OutcomeMeasureTimeFrame",
+                  "OutcomeMeasureTitle",
+                  "OutcomeMeasureType",
+                  "OutcomeMeasureTypeUnitsAnalyzed",
+                  "OutcomeMeasureUnitOfMeasure",
+                  "OutcomeMeasurementComment",
+                  "OutcomeMeasurementGroupId",
+                  "OutcomeMeasurementLowerLimit",
+                  "OutcomeMeasurementSpread",
+                  "OutcomeMeasurementUpperLimit",
+                  "OutcomeMeasurementValue",
+                  "OverallOfficialAffiliation",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "Beijing Tongren Hospital, CMU"
+                        ],
+                        "NCTId": [
+                              "NCT04464213"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "Department of Hematology of The 2nd Hospital of Shandong University"
+                        ],
+                        "NCTId": [
+                              "NCT01413035"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [],
+                        "NCTId": [
+                              "NCT05499156"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "OutcomeMeasureParamType": [
+                              "Number",
+                              "Median",
+                              "Median",
+                              "Median"
+                        ],
+                        "OutcomeMeasurePopulationDescription": [
+                              "Data from 8 participants was analyzed. (4 from each group)"
+                        ],
+                        "OutcomeMeasureReportingStatus": [
+                              "Posted",
+                              "Posted",
+                              "Posted",
+                              "Posted"
+                        ],
+                        "OutcomeMeasureTimeFrame": [
+                              "4 hours post-infusion",
+                              "6 months post MSC infusion",
+                              "Baseline and 6 months post MSC infusion",
+                              "6 months post MSC infusion"
+                        ],
+                        "OutcomeMeasureTitle": [
+                              "Number of Participants Who Demonstrated Acute Adverse Events Following Infusion",
+                              "Percentage Change in Lung Function as Assessed by FVC Compared to Baseline",
+                              "Percentage Change in 6 Minute Walk Distance Compared to Baseline",
+                              "Percentage Change in Lung Function as Assessed by DLCO Compared to Baseline"
+                        ],
+                        "OutcomeMeasureType": [
+                              "Primary",
+                              "Secondary",
+                              "Secondary",
+                              "Secondary"
+                        ],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [
+                              "participants",
+                              "percentage of baseline",
+                              "percentage of baseline",
+                              "percentage of baseline"
+                        ],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [
+                              "OG000",
+                              "OG001",
+                              "OG000",
+                              "OG001",
+                              "OG000",
+                              "OG001",
+                              "OG000",
+                              "OG001"
+                        ],
+                        "OutcomeMeasurementLowerLimit": [
+                              "92",
+                              "90",
+                              "103",
+                              "90",
+                              "96",
+                              "81"
+                        ],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [
+                              "104",
+                              "97",
+                              "114",
+                              "120",
+                              "138",
+                              "96"
+                        ],
+                        "OutcomeMeasurementValue": [
+                              "0",
+                              "0",
+                              "99",
+                              "94",
+                              "104",
+                              "104",
+                              "117",
+                              "86"
+                        ],
+                        "OverallOfficialAffiliation": [
+                              "The Prince Charles Hospital"
+                        ],
+                        "NCTId": [
+                              "NCT01385644"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [],
+                        "NCTId": [
+                              "NCT05402748"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "Z Urology"
+                        ],
+                        "NCTId": [
+                              "NCT02395029"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "Z Urology"
+                        ],
+                        "NCTId": [
+                              "NCT02398370"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "Institute of Cell Therapy"
+                        ],
+                        "NCTId": [
+                              "NCT04453111"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "UC Davis School of Medicine"
+                        ],
+                        "NCTId": [
+                              "NCT04652908"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "Department of Hematology of The 2nd Hospital of Shandong University"
+                        ],
+                        "NCTId": [
+                              "NCT01420432"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "Department of Hematology of The 2nd Hospital of Shandong University"
+                        ],
+                        "NCTId": [
+                              "NCT01182662"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "Department of Hematology of The 2nd Hospital of Shandong University"
+                        ],
+                        "NCTId": [
+                              "NCT01129739"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "Affiliated Hospital of Jiangsu University"
+                        ],
+                        "NCTId": [
+                              "NCT03028428"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [],
+                        "NCTId": [
+                              "NCT05387278"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "Institute of Cell Therapy"
+                        ],
+                        "NCTId": [
+                              "NCT04461925"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "Pennington Biomedical Research Center"
+                        ],
+                        "NCTId": [
+                              "NCT03489564"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [],
+                        "NCTId": [
+                              "NCT03337243"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "Charite University, Berlin, Germany"
+                        ],
+                        "NCTId": [
+                              "NCT00919958"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "Hadassah University Hospital"
+                        ],
+                        "NCTId": [
+                              "NCT00749164"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [],
+                        "NCTId": [
+                              "NCT00951210"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [],
+                        "NCTId": [
+                              "NCT04614025"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "The Prince Charles Hospital"
+                        ],
+                        "NCTId": [
+                              "NCT01795950"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [],
+                        "NCTId": [
+                              "NCT04389450"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "Duke University"
+                        ],
+                        "NCTId": [
+                              "NCT03635450"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "Pennington Biomedical Research Center"
+                        ],
+                        "NCTId": [
+                              "NCT02926079"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "OutcomeMeasureParamType": [],
+                        "OutcomeMeasurePopulationDescription": [],
+                        "OutcomeMeasureReportingStatus": [],
+                        "OutcomeMeasureTimeFrame": [],
+                        "OutcomeMeasureTitle": [],
+                        "OutcomeMeasureType": [],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [],
+                        "OverallOfficialAffiliation": [
+                              "Assistant Professor of Gynecology and Obstetrics"
+                        ],
+                        "NCTId": [
+                              "NCT01649752"
+                        ]
+                  }
+            ]
+      }
+}

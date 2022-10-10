@@ -1,0 +1,1761 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Myocardial Infarction",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 46,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 46,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [
+                              "SEED-MSC"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "All patients were required to have successful revascularization of an infarct-related artery on coronary angiography at the time of randomization. All patients received aspirin (300 mg loading dose, then 100 mg daily) and clopidogrel (600 mg loading dose, then 75 mg daily) with optimal medical therapy according to the American College of Cardiology (ACC)/ American Heart Association (AHA) guidelines for treatment of ST-segment elevation myocardial infarction (STEMI)"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Mesenchymal stem cell",
+                              "Drug: Control group"
+                        ],
+                        "ArmGroupLabel": [
+                              "Mesenchymal stem cell treatment group",
+                              "Control group"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01392105"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [
+                              "Bmmsct"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Receive the best medication, percutaneous coronary intervention, and bone marrow mesenchymal stem cells transfer(Intracoronary artery )",
+                              "Receive the best medication, percutaneous coronary intervention"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Bone marrow mesenchymal stem cells transfer",
+                              "Drug: Best medical treatment",
+                              "Procedure: Percutaneous coronary intervention",
+                              "Drug: Best medical treatment",
+                              "Procedure: Percutaneous coronary intervention"
+                        ],
+                        "ArmGroupLabel": [
+                              "BM-MSCs group",
+                              "Control group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Sham Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04421274"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "Acronym": [
+                              "WJ-MSC-AMI"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Wharton's jelly- Derived Mesenchymal Stem Cells Transfer"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Genetic: intracoronary human umbilical WJ-MSC transfer"
+                        ],
+                        "ArmGroupLabel": [
+                              "WJ-MSC"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01291329"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "ex vivo cultured adult mesenchymal stem cells",
+                              "ex vivo cultured adult mesenchymal stem cells",
+                              "ex vivo cultured adult mesenchymal stem cells",
+                              "ex vivo cultured adult mesenchymal stem cells",
+                              "ex vivo cultured adult mesenchymal stem cells"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Provacel",
+                              "Biological: Provacel",
+                              "Biological: Provacel",
+                              "Biological: Provacel",
+                              "Biological: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "Provacel: Cohort 1",
+                              "Provacel: Cohort 2",
+                              "Provacel: Cohort 3",
+                              "Provacel: Cohort 4",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Active Comparator",
+                              "Active Comparator",
+                              "Active Comparator",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT00114452"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "UMSC01 cells mixed with normal saline will be administered to patients after the onset of heart attack."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Allogeneic umbilical cord mesenchymal stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "UMSC01"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04056819"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "Acronym": [
+                              "AMI"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Dosage of intravenous route is 2 million MSCs/kg for each subject.",
+                              "Dosage of intracoronary route is \u00b150 million MSCs for each subject.",
+                              "Standard treatment of acute myocardia infarction"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Mesenchymal Stem Cells",
+                              "Biological: Mesenchymal Stem Cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Intravenous Group",
+                              "Intracoronary Group",
+                              "Control Group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04340609"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "Acronym": [
+                              "ESTIMATION"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Endocardial Stem cells implantation with Noga system",
+                              "Placebo"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Procedure: PCI and Stem Cells or Placebo injections",
+                              "Procedure: PCI and Stem Cells or Placebo injections"
+                        ],
+                        "ArmGroupLabel": [
+                              "Group 1 (PCI+SC implantation)",
+                              "Group 2 (PCI+Placebo)"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01394432"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "After implementing PCI, contemporary drug treatment is conducted.\n\n*Contemporary drug treatment is a general drug treatment (Unfractionated heparin, Low Molecular Weight Heparin, Glycoprotein llb/llla inhibitor, Aspirin, clopidogrel or Ticlopidine, Nitrate, ACE inhibitor or ARB, \u03b2-blocker, CCB, Diuretics, Statin, etc.)",
+                              "Within 30 days (+ / -7 days) after aspirating bone-marrow, approximately 1\u00d710^6/kg (refer to usage/dosage according to mass) of autologous bone marrow-derived mesenchymal stem cells are adminstered into the infarct coronary artery using balloon tipped catheter. Furthermore, contemporary drug treatment is conducted."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Hearticellgram-AMI"
+                        ],
+                        "ArmGroupLabel": [
+                              "Control",
+                              "Single dose of Hearticellgram-AMI"
+                        ],
+                        "ArmGroupType": [
+                              "No Intervention",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01652209"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "Acronym": [
+                              "PERISCOPE"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "The patient will undergo surgery by sternotomy to perform the surgical revascularization of the arteries candidates for revascularization.\n\nIn addition, the matrix-cell (PeriCord) construct will be placed on the ischemic area of the non-candidate revascularization area and will be fixed using surgical glue.\n\nPeriCord: Expanded and cryopreserved allogeneic umbilical cord Wharton\u00b4s jelly-derived adult mesenchymal stem cells colonized on human pericardial matrix .",
+                              "The patient will undergo surgery by sternotomy to perform the surgical revascularization of the arteries candidates for revascularization. No additional procedure will be performed."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Combination Product: PeriCord: Expanded and cryopreserved allogeneic umbilical cord Wharton\u00b4s jelly-derived adult mesenchymal stem cells colonized on human pericardial matrix.",
+                              "Procedure: Surgery by sternotomy"
+                        ],
+                        "ArmGroupLabel": [
+                              "Experimental group",
+                              "Control group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03798353"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [
+                              "Drug: Stem cell",
+                              "Drug: Plasmalyte A"
+                        ],
+                        "ArmGroupLabel": [
+                              "stem cells",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT00883727"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Participants will receive Prochymal\u00ae single intravenous (IV) infusion at a dose of 200 x 10^6 human mesenchymal stem cells (hMSC), reconstituted in 80 mL, delivered at a rate of 2 mL/min, with a maximum rate of 5.0 x 10^6 hMSC/minute, and the participants will be followed for 24 months and remain in the study for up to 60 months.",
+                              "Participants will receive Prochymal\u00ae placebo-matching single IV infusion at a dose of of 200 x 10^6 hMSC, reconstituted in 80 mL, delivered at a rate of 2 mL/min, with a maximum rate of 5.0 x 10^6 hMSC/minute, and the participants will be followed for 24 months and remain in the study for up to 60 months."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Prochymal\u00ae",
+                              "Drug: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "Prochymal\u00ae",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT00877903"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Experimental: Stem Cells ALLOGENEIC LOW OXYGEN MESENCHYMAL BONE MARROW CELLS Intervention: Biological: Stem cells",
+                              "Lactated Ringer's Solution"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Stem cells",
+                              "Other: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "Stem Cells",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02672267"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "Acronym": [
+                              "WAIAMI"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Standard therapy+Intravenous infusion PBS in patients with AMI",
+                              "Standard therapy+Intravenous infusion WJMSCs in patients with AMI"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Intravenous infusion placebo",
+                              "Biological: Intravenous infusion WJMSCs",
+                              "Biological: Intravenous infusion placebo",
+                              "Biological: Intravenous infusion WJMSCs"
+                        ],
+                        "ArmGroupLabel": [
+                              "Placebo PBS",
+                              "WJMScs"
+                        ],
+                        "ArmGroupType": [
+                              "Placebo Comparator",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04551443"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "Acronym": [
+                              "TEAM-AMI"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Atorvastatin routine dose + placebo transplantation",
+                              "Atorvastatin routine dose + low dose BMMSC Transplantation",
+                              "Atorvastatin routine dose + middle dose BMMSC Transplantation",
+                              "Atorvastatin routine dose + high dose BMMSC Transplantation",
+                              "Atorvastatin routine dose + placebo transplantation",
+                              "Atorvastatin routine dose+ Optimal dose BMMSC Transplantation",
+                              "Atorvastatin Intensive dose + placebo transplantation",
+                              "Atorvastatin Intensive dose + Optimal dose BMMSC Transplantation"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Atorvastatin",
+                              "Drug: Atorvastatin",
+                              "Drug: Low dose BMMSC",
+                              "Drug: Atorvastatin",
+                              "Drug: Middle dose BMMSC",
+                              "Drug: Atorvastatin",
+                              "Drug: High dose BMMSC",
+                              "Drug: Atorvastatin",
+                              "Drug: Atorvastatin",
+                              "Drug: Transplantation",
+                              "Drug: Intensive Atorvastatin",
+                              "Drug: Intensive Atorvastatin",
+                              "Drug: Transplantation"
+                        ],
+                        "ArmGroupLabel": [
+                              "Phase A: Atorvastatin",
+                              "Phase A: Low dose BMMSC",
+                              "Phase A: Middle dose BMMSC",
+                              "Phase A: High dose BMMSC",
+                              "Phase B: Atorvastatin",
+                              "Phase B: Atorvastatin+Transplantation",
+                              "Phase B: Intensive Atorvastatin",
+                              "Phase B: Intensive Atorvastatin+Transplantation"
+                        ],
+                        "ArmGroupType": [
+                              "Placebo Comparator",
+                              "Experimental",
+                              "Experimental",
+                              "Experimental",
+                              "Placebo Comparator",
+                              "Active Comparator",
+                              "Placebo Comparator",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03047772"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "Acronym": [
+                              "PREVENT-TAHA"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "In the experimental group, 3-7 days after an acute anterior myocardial infarction treated successfully with primary percutaneous coronary intervention, 120 patients will receive a single intracoronary infusion of 10^7 umbilical cord-derived Wharton's Jelly Mesenchymal Stem Cells (WJ-MSCs) alongside conventional treatment.",
+                              "In the control group, after an acute anterior myocardial infarction treated successfully with primary percutaneous coronary intervention, 120 patients will receive only conventional treatment."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Umbilical Cord-Derived Wharton's Jelly Mesenchymal Stem Cells (WJ-MSCs)",
+                              "Other: Conventional Treatment",
+                              "Other: Conventional Treatment"
+                        ],
+                        "ArmGroupLabel": [
+                              "Cohort 1",
+                              "Cohort 2 (Control Group)"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05043610"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "Acronym": [
+                              "Trident"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [
+                              "Yes"
+                        ],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Fifteen (15) patients to be treated with Allo-hMSCs: 4 million cells/ml delivered in a dose of 0.5 ml per injection x 10 injections for a total of 0.2x 10^8 (20 million) Allo-hMSCs.",
+                              "Fifteen (15) patients to be treated with Allo-hMSCs: 20 million cells/ml delivered in a dose of 0.5 ml per injection x 10 injections for a total of 1x 10^8 (100 million) Allo-hMSCs."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Allogeneic hMSCs",
+                              "Biological: Allogeneic hMSCs"
+                        ],
+                        "ArmGroupLabel": [
+                              "Group 1: 20 million Allogeneic hMSCs",
+                              "Group 2: 100 million Allogeneic hMSCs"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [
+                              "Female",
+                              "Male",
+                              "Hispanic or Latino",
+                              "Not Hispanic or Latino",
+                              "Unknown or Not Reported",
+                              "American Indian or Alaska Native",
+                              "Asian",
+                              "Native Hawaiian or Other Pacific Islander",
+                              "Black or African American",
+                              "White",
+                              "More than one race",
+                              "Unknown or Not Reported"
+                        ],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02013674"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "Acronym": [
+                              "PROMETHEUS"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [
+                              "Yes"
+                        ],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Participants will receive lower dose mesenchymal stem cell injections for a total of 2 x 10^7 cells",
+                              "Participants will receive higher dose of mesenchymal stem cell injections for a total of 2 x 10^8 cells",
+                              "Participants will receive placebo injections"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Lower dose mesenchymal stem cell (MSC) injection",
+                              "Biological: Higher dose MSC injection",
+                              "Genetic: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "Lower dose mesenchymal stem cell (MSC) injection",
+                              "Higher dose MSC injection",
+                              "(3) Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [
+                              "Female",
+                              "Male"
+                        ],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT00587990"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "UC-MSC transplantation",
+                              "Routine treatment"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: UC-MSC",
+                              "Biological: Control Group"
+                        ],
+                        "ArmGroupLabel": [
+                              "UC-MSC",
+                              "Control Group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03902067"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Patients randomized to the active treatment group will receive 30 000 000 WJMSCs suspended in 20mL 0.9% NaCl and 5% albumin administered via the IRA.",
+                              "Patients randomized to the control group will receive 0.9% NaCl and 5% albumin injections (in the same volume as CardioCell) in the same manner."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Cardiac Drug",
+                              "Drug: Placebos"
+                        ],
+                        "ArmGroupLabel": [
+                              "Active Group",
+                              "Control Group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03404063"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "In the CABG with hUC-MSC treatment group, 1\u00d710^7 human umbilical cord Mesenchymal Stem Cells were injected to the edge of the myocardial infarction area at 20 points at the same time in CABG.",
+                              "CABG was performed under general anesthesia."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Allogeneic Human Umbilical Cord Mesenchymal Stem Cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "CABG with hUC-MSC treatment group",
+                              "CABG group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04939077"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [
+                              "No"
+                        ],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [
+                              "No"
+                        ],
+                        "ArmGroupDescription": [
+                              "Participants will receive an injection of 20 million, 100 million or 200 million autologous human mesenchymal stem cells.",
+                              "Participants will receive an injection of 20 million, 100 million or 200 million allogeneic human mesenchymal stem cells."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Auto-hMSCs",
+                              "Biological: Allo-hMSCs"
+                        ],
+                        "ArmGroupLabel": [
+                              "Auto-hMSCs",
+                              "Allo-hMSCs"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [
+                              "<=18 years",
+                              "Between 18 and 65 years",
+                              ">=65 years",
+                              "Female",
+                              "Male"
+                        ],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01087996"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "ALLOGENEIC MESENCHYMAL BONE MARROW CELLS",
+                              "Lactated Ringer's Solution"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Stem cells",
+                              "Biological: Stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Stem Cells",
+                              "Control"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01770613"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Intracoronary infusion of umbilical cord mesenchymal stem cells (UCMSCs)",
+                              "Standard medical treatment without umbilical cord mesenchymal stem cells (UCMSCs) infusion"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: umbilical cord mesenchymal stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "UCMSCs",
+                              "controls"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02666391"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "Acronym": [
+                              "TAC-HFT"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [
+                              "No"
+                        ],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [
+                              "No"
+                        ],
+                        "ArmGroupDescription": [
+                              "Participants will receive an injection of 100 million or 200 million autologous human mesenchymal stem cells (hMSCs).",
+                              "Participants will receive an injection of 100 million or 200 million autologous human bone marrow cells (hBMCs).",
+                              "Participants will receive a placebo injection of phosphate-buffered saline (PBS) and 1% human serum albumin (HAS)."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Autologous human mesenchymal cells (hMSCs)",
+                              "Biological: Autologous human bone marrow cells (hBMCs)",
+                              "Biological: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "1",
+                              "2",
+                              "3"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [
+                              "Female",
+                              "Male",
+                              "Hispanic or Latino",
+                              "Not Hispanic or Latino",
+                              "Unknown or Not Reported",
+                              "American Indian or Alaska Native",
+                              "Asian",
+                              "Native Hawaiian or Other Pacific Islander",
+                              "Black or African American",
+                              "White",
+                              "More than one race",
+                              "Unknown or Not Reported"
+                        ],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT00768066"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "Acronym": [
+                              "WJ-ICMP Tria"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Intracoronary infusion WJMSCs or placebo in patients with ischemic heart failure",
+                              "Intravenous infusion WJMSCs or placebo in patients with ischemic heart failure."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: WJMSCs Vs. placebo",
+                              "Biological: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "Intracoronary infusion WJMSCs",
+                              "Intravenous infusion WJMSCs"
+                        ],
+                        "ArmGroupType": [
+                              "Placebo Comparator",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02368587"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "Acronym": [
+                              "TAC-HFT-II"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Autologous hMSCs: 40 million cells/ml delivered in 0.5 ml injection volumes times 10 injections for a total of 2 x 10^8 (200 million) hMSCs. The Biosense Webster MyoStar NOGA Injection Catheter System will be used in the delivery of the study drug.",
+                              "Autologous hMSCs PLUS autologous C-Kit hCSCs: Mixture of 39.8 million hMSCs and 0.2 million C-Kit hCSCs/ml delivered in 0.5 ml injection volumes times 10 injections for a total of 1.99 x 10^8 (199 million) hMSCs and 1 million C-Kit hCSCs.The Biosense Webster MyoStar NOGA Injection Catheter System will be used in the delivery of the study drug.",
+                              "Placebo (ten 0.5 ml injections of phosphate-buffered saline [PBS] and 1% human serum albumin [HSA]).The Biosense Webster MyoStar NOGA Injection Catheter System will be used in the delivery of the study drug."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Autologous hMSCs",
+                              "Device: Biosense Webster MyoStar NOGA Injection Catheter System",
+                              "Drug: Autologous Human C-Kit CSCs II",
+                              "Device: Biosense Webster MyoStar NOGA Injection Catheter System",
+                              "Drug: Placebo",
+                              "Device: Biosense Webster MyoStar NOGA Injection Catheter System"
+                        ],
+                        "ArmGroupLabel": [
+                              "Group A - Autologous hMSCs",
+                              "Group B - Autologous Human C-Kit CSCs II",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02503280"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "Acronym": [
+                              "MESAMI"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [
+                              "Genetic: Mesenchymal stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Intervention arm"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01076920"
+                        ]
+                  },
+                  {
+                        "Rank": 28,
+                        "Acronym": [
+                              "TPAABPIHD"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "autologous bone marrow mesenchymal stem cells (BMMSCs) with hypoxia pre-condition and endothelial pre-induction.",
+                              "autologous bone marrow mesenchymal stem cells (BMMSCs) without pre-condition.",
+                              "standard therapy without autologous bone marrow mesenchymal stem cells (BMMSCs) infusion."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: BMMSCs",
+                              "Biological: BMMSCs",
+                              "Biological: BMMSCs"
+                        ],
+                        "ArmGroupLabel": [
+                              "pre-conditioned BMMSCs",
+                              "BMMSCs",
+                              "Controls"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator",
+                              "Sham Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02504437"
+                        ]
+                  },
+                  {
+                        "Rank": 29,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Patients with severe coronary artery disease and chronic ischemic cardiomyopathy with a LVEF \u226440% who are scheduled for elective CABG according to accepted guidelines. Additional criteria include the following: age <75 years, history of myocardial infarction (not less than 14 days before the procedure), LVEF \u226440 % assessed with echocardiography, and a distinct area of dyskinetic or akinetic left ventricular myocardium corresponding with the infarct localization."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Procedure: Intramyocardial implantation of of a novel mesenchymal precursor cell type (iMP)."
+                        ],
+                        "ArmGroupLabel": [
+                              "Stem cells implantation"
+                        ],
+                        "ArmGroupType": [
+                              "Other"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01753440"
+                        ]
+                  },
+                  {
+                        "Rank": 30,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "5 subjects will receive AMSCs via direct injection into the kidney parenchyma only",
+                              "5 subjects will receive AMSCs via intra-arterial infusion only",
+                              "5 subjects will receive AMSCs via direct injection into the kidney parenchyma and intra-arterial infusion"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Allogeneic adipose derived mesenchymal stem cells",
+                              "Drug: Allogeneic adipose derived mesenchymal stem cells",
+                              "Drug: Allogeneic adipose derived mesenchymal stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Intra parenchymal injection",
+                              "Intra-arterial infusion",
+                              "Intra parenchymal injection & Intra-arterial infusion"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04388761"
+                        ]
+                  },
+                  {
+                        "Rank": 31,
+                        "Acronym": [
+                              "WANICHD"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "The investigators performed a double-blind, placebocontrolled trial, randomly assigning 100 patients with coronary artery disease to have standard of care plus placebo. Participants allocated to each study arm in a 1:1:1 ratio, to investigate the therapeutic efficacy and safety of WJMSCs in patients with coronary artery disease.\n\nAssigned Interventions:\n\nBiological/Vaccine: Biological/Vaccine: WJMSCs Vs.placebo",
+                              "The investigators performed a double-blind, placebocontrolled trial, randomly assigning 100 patients with coronary artery disease to compare standard of care plus placebo to standard of care plus one time or three times in doses of 1x106 /kg of WJMSCs. Participants allocated to each study arm in a 1:1:1 ratio, to investigate the therapeutic efficacy and safety of WJMSCs in patients with coronary artery disease.\n\nBiological/Vaccine:\n\nWJMSCs Vs.placebo",
+                              "The investigators performed a double-blind, placebocontrolled trial, randomly assigning 100 patients with coronary artery disease to compare standard of care plus placebo to one time or three times at 30-day intervals for equal doses of 1x106 /kg of WJMSCs. Participants allocated to each study arm in a 1:1:1 ratio, to investigate the therapeutic efficacy and safety of WJMSCs in patients with coronary artery disease.\n\nBiological/Vaccine:\n\nWJMSCs Vs.placebo"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Intravenous infusion human umbilical Wharton's jelly-derived mesenchymal stem Cell or placebo PBS",
+                              "Biological: Intravenous infusion human umbilical Wharton's jelly-derived mesenchymal stem Cell or placebo PBS",
+                              "Biological: Intravenous infusion human umbilical Wharton's jelly-derived mesenchymal stem Cell or placebo PBS"
+                        ],
+                        "ArmGroupLabel": [
+                              "Placebo Infusion PBS",
+                              "Single dose Infusion WJMSCs",
+                              "Infusion WJMSCs multiple doses"
+                        ],
+                        "ArmGroupType": [
+                              "Placebo Comparator",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04551456"
+                        ]
+                  },
+                  {
+                        "Rank": 32,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [
+                              "Procedure: Cellular transplantation"
+                        ],
+                        "ArmGroupLabel": [
+                              "A"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT00515307"
+                        ]
+                  },
+                  {
+                        "Rank": 33,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Mesenchymal Stem Cell-Derived Exosomes",
+                              "conventional treatment"
+                        ],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [
+                              "trial group",
+                              "control group"
+                        ],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04850469"
+                        ]
+                  },
+                  {
+                        "Rank": 34,
+                        "Acronym": [
+                              "ELPIS"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Group A: Fifteen (20) patients will be treated with Allogenic human mesenchymal stem cells (Allo-hMSCs): A concentration of 5 million cells/ml delivered in a dose of 2.5 x 10^5 cells per kg of recipient (5 million/20kg) Allo-hMSCs. The entire dose of the cells will be divided and delivered in 6-10 open intramyocardial injections during the BDCPA operation.",
+                              "Group B: Fifteen (10) patients will be treated with a placebo comparator. The placebo will be divided and delivered in 6-10 open intramyocardial injections during the BDCPA operation."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Allo-hMSCs",
+                              "Drug: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "Group A - Allo-hMSCs",
+                              "Group B"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02398604"
+                        ]
+                  },
+                  {
+                        "Rank": 35,
+                        "Acronym": [
+                              "UCMSC-Heart"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Patients in this arm received umbilical cord MSCs by intracoronary injection",
+                              "Patients in this arm did not receive any intervention."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: UCMSC group"
+                        ],
+                        "ArmGroupLabel": [
+                              "UCMSC group",
+                              "Control group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02439541"
+                        ]
+                  },
+                  {
+                        "Rank": 36,
+                        "Acronym": [
+                              "ELPIS"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "10 consecutive HLHS patients will be enrolled and treated with Longeveron Mesenchymal Stem Cells (LMSCs). A single administration of LMSCs will be performed via intramyocardial injections during the Stage II (BDCPA) surgery. Dosing is based on body weight. Each LMSC-treated patient will be given 2.5 x 105 LMSCs per kg of body weight. The entire dose of the cells will be roughly 600 microliters.",
+                              "Double-blinded, in which 20 HLHS patients will be randomized to either receive treatment with Longeveron Mesenchymal Stem Cells (LMSCs) (Cohort B, 10 patients) performed via intramyocardial injections during the Stage II (BDCPA) surgery, or will receive no cells and no injection (Cohort C, 10 patients) during the Stage II (BDCPA) surgery. The second stage is to obtain preliminary safety and efficacy data the will enable and guide a subsequent larger Phase 2 trial.",
+                              "Double-blinded, in which 20 HLHS patients will be randomized to either receive treatment with Longeveron Mesenchymal Stem Cells (LMSCs) (Cohort B, 10 patients) performed via intramyocardial injections during the Stage II (BDCPA) surgery, or will receive no cells and no injection (Cohort C, 10 patients) during the Stage II (BDCPA) surgery. The second stage is to obtain preliminary safety and efficacy data the will enable and guide a subsequent larger Phase 2 trial."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Longeveron Mesenchymal Stem Cells",
+                              "Biological: Longeveron Mesenchymal Stem Cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Cohort A - Phase 1 (Open Label)",
+                              "Cohort B - Phase 2 Treatment Group",
+                              "Cohort C - Phase 2 Control Group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03525418"
+                        ]
+                  },
+                  {
+                        "Rank": 37,
+                        "Acronym": [
+                              "PoseidonDCM"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [
+                              "Yes"
+                        ],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Group 1 (18 patients) Eighteen (18) patients will be treated with Auto-hMSCs: 20 million cells/ml delivered in a dose of 0.5 ml per injection x 10 injections for a total of 1 x 108 (100 million) Auto-hMSCs.",
+                              "Group 2 (18 patients) Eighteen (18) patients will be treated with allogeneic hMSCs (Allo-hMSCs): 20 million cells/ml delivered in a dose of 0.5 ml per injection x 10 injections for a total of 1 x 108 (100 million) Auto-hMSCs."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Autologous hMSCs",
+                              "Biological: Allogeneic hMSCs"
+                        ],
+                        "ArmGroupLabel": [
+                              "Autologous hMSCs",
+                              "Allogeneic hMSCs"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [
+                              "Female",
+                              "Male",
+                              "Hispanic or Latino",
+                              "Not Hispanic or Latino",
+                              "Unknown or Not Reported",
+                              "American Indian or Alaska Native",
+                              "Asian",
+                              "Native Hawaiian or Other Pacific Islander",
+                              "Black or African American",
+                              "White",
+                              "More than one race",
+                              "Unknown or Not Reported",
+                              "Class I - no limitation",
+                              "Class II - Slight Limitation of Physical Activity",
+                              "Class III - Marked Limitation of Physical Activity",
+                              "Class IV -Inability to carry on physical activity"
+                        ],
+                        "BaselineClassDenomCountGroupId": [
+                              "BG000",
+                              "BG001",
+                              "BG002",
+                              "BG000",
+                              "BG001",
+                              "BG002",
+                              "BG000",
+                              "BG001",
+                              "BG002",
+                              "BG000",
+                              "BG001",
+                              "BG002",
+                              "BG000",
+                              "BG001",
+                              "BG002",
+                              "BG000",
+                              "BG001",
+                              "BG002",
+                              "BG000",
+                              "BG001",
+                              "BG002",
+                              "BG000",
+                              "BG001",
+                              "BG002",
+                              "BG000",
+                              "BG001",
+                              "BG002"
+                        ],
+                        "NCTId": [
+                              "NCT01392625"
+                        ]
+                  },
+                  {
+                        "Rank": 38,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Intervention: Mesenchymal stromal stem cells infusion. This is the active investigational intervention, administered intravenously at surgery and day 4 post-transplant in a dose-escalation fashion beginning as 1x10^6 cells for the first dose group, 2x10^6 cells for the second dose group, or 3x10^6 cells for the last dose group. The infusion set-up will be covered to mask the group assignment.\n\nParticipants will also receive BASILIXIMAB (Simulect, for all subjects at a standard dose, 20mg reconstituted with normal saline or 5% dextrose) on the day of surgery and day 3 or 4 post-transplant administered by a member of the anesthesia team; TACROLIMUS (Prograf for maintenance therapy), MYCOPHENOLATE MOFETIL (Cellcept for maintenance therapy), and CORTICOSTEROIDS as routine care.",
+                              "Placebo: A normal saline infusion. This is the placebo intervention to occur at surgery and day 4 post-transplant. The infusion set-up will be covered to mask the group assignment. Participants will also receive BASILIXIMAB (Simulect, for all subjects at a standard dose, 20mg reconstituted with normal saline or 5% dextrose) on the day of surgery and day 3 or 4 post-transplant administered by a member of the anesthesia team; TACROLIMUS (Prograf for maintenance therapy), MYCOPHENOLATE MOFETIL (Cellcept for maintenance therapy), and CORTICOSTEROIDS as routine care."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Mesenchymal Stromal Stem Cells (MSCs) Infusion",
+                              "Other: Normal Saline (Placebo) Infusion"
+                        ],
+                        "ArmGroupLabel": [
+                              "Mesenchymal Stromal Stem Cells Infusion",
+                              "Placebo Infusion"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03478215"
+                        ]
+                  },
+                  {
+                        "Rank": 39,
+                        "Acronym": [
+                              "scorem-cells"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Revascularization surgery, placement of an extracellular matrix patch without WJ-MSCs and injection of culture medium without WJ-MSCs will be performed.",
+                              "Revascularization surgery, placement of an extracellular matrix patch with WJ-MSCs cultured on the epicardial surface and injection of WJ-MSCs around the infarcted zone will be performed."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Wharton's jelly-derived mesenchymal cells",
+                              "Biological: Wharton's jelly-derived mesenchymal cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Comparison/control group",
+                              "Experimental group"
+                        ],
+                        "ArmGroupType": [
+                              "Placebo Comparator",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04011059"
+                        ]
+                  },
+                  {
+                        "Rank": 40,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Maximal medical therapy which comprises of optimal pharmacological therapy",
+                              "Autologous Bone marrrow-derived mesenchymal stem cells implantation"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: BM-MSCs"
+                        ],
+                        "ArmGroupLabel": [
+                              "Maximal medical therapy",
+                              "Maximal medical therapy and BM-MSCs"
+                        ],
+                        "ArmGroupType": [
+                              "No Intervention",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01720888"
+                        ]
+                  },
+                  {
+                        "Rank": 41,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Patient group receiving the stem cell injections during the CABG",
+                              "The patient group receiving autologous serum injections during the CAGB operation"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Procedure: Coronary bypass operation",
+                              "Procedure: Bone marrow aspiration (crista iliaca)",
+                              "Biological: Intramyocardial mesenchymal stem cell transplantation",
+                              "Procedure: Coronary bypass operation",
+                              "Procedure: Bone marrow aspiration (crista iliaca)",
+                              "Biological: Intramyocardial injection of autologous serum"
+                        ],
+                        "ArmGroupLabel": [
+                              "A",
+                              "B"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT00418418"
+                        ]
+                  },
+                  {
+                        "Rank": 42,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [
+                              "Yes"
+                        ],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "SC therapy,'Bone Marrow Stimulation','CD34+ autologous stem cell transplantation':\n\nIn the SC group, CD34+ cells were mobilized by granulocyte colony-stimulating factor and collected via apheresis. Patients underwent myocardial scintigraphy and cells were injected in the artery supplying segments with the greatest perfusion defect",
+                              "Patients receiving no cell therapy."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: CD34+ autologous stem cell transplantation",
+                              "Drug: Bone Marrow Stimulation",
+                              "Biological: SC therapy"
+                        ],
+                        "ArmGroupLabel": [
+                              "SC Group",
+                              "Controls"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [
+                              "<=18 years",
+                              "Between 18 and 65 years",
+                              ">=65 years",
+                              "Female",
+                              "Male"
+                        ],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT00629018"
+                        ]
+                  },
+                  {
+                        "Rank": 43,
+                        "Acronym": [
+                              "HUC-HEART"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Allogeneic human umbilical cord MSCs will be transplanted to 39 male patients (age 30-80) intramyocardially during CABG in chronic ischemic cardiomyopathy (EF<%45)",
+                              "Autologous bone marrow-derived MNCs will be transplanted to 20 male patients (age 30-80) intramyocardially during CABG in chronic ischemic cardiomyopathy (EF<%45)",
+                              "20 male patients (age 30-80) undergoing CABG in chronic ischemic cardiomyopathy (EF<%45) whom will not received any further transplantation"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: stem cell transplantation",
+                              "Biological: stem cell transplantation"
+                        ],
+                        "ArmGroupLabel": [
+                              "Allogeneic umbilical cord MSC group",
+                              "Autologous bone marrow-derived MNC group",
+                              "Control group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02323477"
+                        ]
+                  },
+                  {
+                        "Rank": 44,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "After ovum pick-up, MSC differentiated to endometrium is deposited in the uterine cavity.Embryo transfer will be done at day 5 at the blastocyst stage.",
+                              "Immediately postmenstrual undifferentiated MSC is deposited in the uterine cavity. Ovum pick-up will be done as usual.Embryo transfer will be done at day 5 at the blastocyst stage.",
+                              "ovum pick-up as usual and embryo transfer at day 5 at the blastocyst stage."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Differentiated stem cells to endometrium is deposited in the uterine cavity through an IUI catheter",
+                              "Biological: Undifferentiated MSC is deposited in the uterine cavity through an IUI catheter."
+                        ],
+                        "ArmGroupLabel": [
+                              "Differentiated stem cell therapy group",
+                              "undifferentiated stem cell therapy group",
+                              "Control group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "No Intervention"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01649752"
+                        ]
+                  },
+                  {
+                        "Rank": 45,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Patients receive hMSCs IV over 10-20 minutes on days 1, 14, 21, and 28 and standard of care treatment for heart failure in the absence of disease progression or unacceptable toxicity.",
+                              "Patients receive hMSCs transendocardially for a total of 15 injections and standard of care treatment for heart failure in the absence of disease progression or unacceptable toxicity.",
+                              "Patients receive standard of care treatment for heart failure."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: Best Practice",
+                              "Other: Laboratory Biomarker Analysis",
+                              "Drug: Mesenchymal Stem Cell Transplantation",
+                              "Other: Best Practice",
+                              "Other: Laboratory Biomarker Analysis",
+                              "Drug: Mesenchymal Stem Cell Transplantation",
+                              "Other: Best Practice",
+                              "Other: Laboratory Biomarker Analysis"
+                        ],
+                        "ArmGroupLabel": [
+                              "Arm I (hMSCs IV)",
+                              "Arm II (hMSCs transendocardially)",
+                              "Arm III (standard of care)"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02962661"
+                        ]
+                  },
+                  {
+                        "Rank": 46,
+                        "Acronym": [
+                              "S-CURE"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Patients in CSWT+BMMSCs group will receive a 3-month cardiac shock wave therapy and then a total of 1 million/kg BMMSCs will be infused using the stop-flow technique through an over-the-wire balloon catheter positioned in a coronary artery or bypass graft supplying the targeting viable myocardium.",
+                              "Placebo group will receive a 3-month CSWT and a sham procedure."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Combination Product: CSWT+BMMSCs",
+                              "Device: CSWT+Sham operation"
+                        ],
+                        "ArmGroupLabel": [
+                              "CSWT+BMMSCs",
+                              "CSWT+Sham operation"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Sham Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03397095"
+                        ]
+                  }
+            ]
+      }
+}

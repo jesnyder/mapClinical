@@ -1,0 +1,76 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal wharton s jelly",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "EventGroupOtherNumAtRisk",
+                  "EventGroupSeriousNumAffected",
+                  "EventGroupSeriousNumAtRisk",
+                  "EventGroupTitle",
+                  "EventsDescription",
+                  "EventsFrequencyThreshold",
+                  "EventsTimeFrame",
+                  "ExpAccTypeIndividual",
+                  "ExpAccTypeIntermediate",
+                  "ExpAccTypeTreatment",
+                  "ExpandedAccessNCTId",
+                  "ExpandedAccessStatusForNCTId",
+                  "FDAAA801Violation",
+                  "FlowAchievementComment",
+                  "FlowAchievementGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "EventGroupOtherNumAtRisk": [],
+                        "EventGroupSeriousNumAffected": [],
+                        "EventGroupSeriousNumAtRisk": [],
+                        "EventGroupTitle": [],
+                        "EventsDescription": [],
+                        "EventsFrequencyThreshold": [],
+                        "EventsTimeFrame": [],
+                        "ExpAccTypeIndividual": [],
+                        "ExpAccTypeIntermediate": [
+                              "Yes"
+                        ],
+                        "ExpAccTypeTreatment": [],
+                        "ExpandedAccessNCTId": [],
+                        "ExpandedAccessStatusForNCTId": [],
+                        "FDAAA801Violation": [],
+                        "FlowAchievementComment": [],
+                        "FlowAchievementGroupId": [],
+                        "NCTId": [
+                              "NCT04432545"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "EventGroupOtherNumAtRisk": [],
+                        "EventGroupSeriousNumAffected": [],
+                        "EventGroupSeriousNumAtRisk": [],
+                        "EventGroupTitle": [],
+                        "EventsDescription": [],
+                        "EventsFrequencyThreshold": [],
+                        "EventsTimeFrame": [],
+                        "ExpAccTypeIndividual": [],
+                        "ExpAccTypeIntermediate": [],
+                        "ExpAccTypeTreatment": [],
+                        "ExpandedAccessNCTId": [],
+                        "ExpandedAccessStatusForNCTId": [],
+                        "FDAAA801Violation": [],
+                        "FlowAchievementComment": [],
+                        "FlowAchievementGroupId": [],
+                        "NCTId": [
+                              "NCT04651855"
+                        ]
+                  }
+            ]
+      }
+}

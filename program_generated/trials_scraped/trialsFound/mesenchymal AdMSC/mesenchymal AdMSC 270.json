@@ -1,0 +1,2487 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal AdMSC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 57,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 57,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Chuanjian Lu"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Active, not recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "August 20, 2019"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The proportion of the adverse events related to intervention in the treatment group.",
+                              "The proportion of the serious adverse events related to intervention in the treatment group."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Incidence of adverse events (AEs) related to intervention",
+                              "Incidence of serious adverse events (SAEs) related to intervention"
+                        ],
+                        "NCTId": [
+                              "NCT03265613"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "OverallOfficialName": [
+                              "Chuanjian Lu, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Enrolling by invitation"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 15, 2019"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The proportion of the improvement of PASI(Psoriasis Area and Severity Index) from baseline"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Improvement rate of PASI(Psoriasis Area and Severity Index)"
+                        ],
+                        "NCTId": [
+                              "NCT03392311"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "OverallOfficialName": [
+                              "Djamchid Lotfi, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Withdrawn"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "February 1, 2022"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "clinical lab evaluation of level of glucose in the blood (mg/dL)",
+                              "clinical lab evaluation of level of calcium in the blood (mg/dL)",
+                              "clinical lab evaluation of level of albumin in the blood (g/dL)",
+                              "clinical lab evaluation of level of protein in the blood (g/dL)",
+                              "clinical lab evaluation of level of sodium in the blood (mol/L)",
+                              "clinical lab evaluation of level of carbon dioxide in the blood (mmol/L)",
+                              "clinical lab evaluation of level of potassium in the blood (mmol/L)",
+                              "clinical lab evaluation of level of chloride in the blood (mmol/L)",
+                              "clinical lab evaluation of level of BUN in the blood (mg/dL)",
+                              "clinical lab evaluation of level of creatinine in the blood (mg/dL)",
+                              "clinical lab evaluation of level of alkaline phosphatase in the blood (IU/L)",
+                              "clinical lab evaluation of level of alanine aminotransferase in the blood (IU/L)",
+                              "clinical lab evaluation of level of aspartate aminotransferase in the blood (IU/L)",
+                              "clinical lab evaluation of level of bilirubin in the blood (mg/dL)",
+                              "clinical lab evaluation of level of white blood cells in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of level of red blood cells in the blood (x 10^6/uL)",
+                              "clinical lab evaluation of level of hemoglobin in the blood (g/dL)",
+                              "clinical lab evaluation of level of hematocrit in the blood (%)",
+                              "clinical lab evaluation of mean corpuscular volume in the blood (fL)",
+                              "clinical lab evaluation of mean corpuscular hemoglobin in the blood (pg)",
+                              "clinical lab evaluation of level of hemoglobin concentration in the blood (g/dL)",
+                              "clinical lab evaluation of distribution width in the blood (%)",
+                              "clinical lab evaluation of neutrophils in the blood (%)",
+                              "clinical lab evaluation of lymphocytes in the blood (%)",
+                              "clinical lab evaluation of monocytes in the blood (%)",
+                              "clinical lab evaluation of eosinophils in the blood (%)",
+                              "clinical lab evaluation of basophils in the blood (%)",
+                              "clinical lab evaluation of absolute neutrophils in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of absolute lymphocytes in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of absolute monocytes in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of absolute eosinophils in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of absolute basophils in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of granulocytes in the blood (%)",
+                              "clinical lab evaluation of absolute immature granulocytes in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of platelets in the blood (x 10^3/uL)",
+                              "clinical lab evaluation of time for blood to coagulate (seconds)",
+                              "clinical lab evaluation of international normalized ratio of blood coagulation (no unit)"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Glucose",
+                              "Calcium",
+                              "Albumin",
+                              "Total Protein",
+                              "Sodium",
+                              "Total carbon dioxide",
+                              "Potassium",
+                              "Chloride",
+                              "BUN",
+                              "Creatinine",
+                              "Alkaline phosphatase",
+                              "Alanine aminotransferase",
+                              "Aspartate aminotransferase",
+                              "Total Bilirubin",
+                              "White blood cell",
+                              "Red blood cell",
+                              "Hemoglobin",
+                              "Hematocrit",
+                              "Mean corpuscular volume",
+                              "Mean corpuscular hemoglobin",
+                              "Mean corpuscular hemoglobin concentration",
+                              "Red cell distribution width",
+                              "Neutrophils",
+                              "Lymphs",
+                              "Monocytes",
+                              "Eos",
+                              "Basophils",
+                              "Absolute neutrophils",
+                              "Absolute lymphs",
+                              "Absolute monocytes",
+                              "Absolute Eos",
+                              "Absolute Basos",
+                              "Immature granulocytes",
+                              "Absolute Immature granulocytes",
+                              "Platelets",
+                              "Prothrombin time",
+                              "INR"
+                        ],
+                        "NCTId": [
+                              "NCT04228666"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "OverallOfficialName": [
+                              "Tan Sinh Nguyen, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Not yet recruiting"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "November 1, 2022"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "FSH stimulates granulosa cells in the ovarian follicles to synthesize aromatase, which converts androgens produced by the thecal cells to estradiol. FSH peaks at the same time as the LH surge that causes ovulation. FSH then remains low throughout the luteal phase, preventing the development of new follicles. FSH levels is measured in the serum sample.",
+                              "Estrogen is a steroid hormone associated with the female reproductive organs and is responsible for the development of female sexual characteristics.",
+                              "The FSFI questionnaire consists of 19 close-ended questions related to sexual activity within the 4 weeks prior to the examination. Points are assigned for each answer (1-5 and 0-5 for questions 1-2 and questions 3-19, respectively), the sum of the scores for the domain is multiplied by the domain factor, the six domain scores are added up, and the total score may vary from 2.0 to 36.0 points.",
+                              "The UQOL is the first pure QOL measure of this new generation of instruments that can be applied to a menopausal population. Items are scaled using a Likert-type 1 to 5 rating."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Change of Follicle-stimulating hormone (FSH) hormone level",
+                              "Change of Estradiol (E2) hormone level",
+                              "Change in Quality of life using Female Sexual Function Index - FSFI questionaires",
+                              "Change in Quality of life using The Utian Quality of life Scale"
+                        ],
+                        "NCTId": [
+                              "NCT05329662"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "OverallOfficialName": [
+                              "Heri Suroto, MD,PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Not Applicable"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "July 30, 2021"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Shoulder: flexion, extension, abduction, adduction, external rotation, internal rotation. Elbow: flexion and extension. Forearm: pronation and supination. The tests are performed by two blinded assessor, and expressed in degrees.",
+                              "Shoulder: flexion, extension, abduction, adduction, external rotation, internal rotation. Elbow: flexion and extension. Forearm: pronation and supination. The tests are performed by two blinded assessor, and expressed in degrees.",
+                              "Measured by Medical Research Council (MRC) scale. The MRC scale consists of 6 values of motor power evaluation, ranging from 0 to 5 (0=No contraction, 1=Flicker or trace contraction, 2=Active movement but eliminated with gravity, 3=Active movement against gravity, 4=Active movement against gravity and resistance, 5=Normal power). The tests are performed by two blinded assessor. A higher score indicates better functional motor power outcome.",
+                              "Measured by Medical Research Council (MRC) scale. The MRC scale consists of 6 values of motor power evaluation, ranging from 0 to 5 (0=No contraction, 1=Flicker or trace contraction, 2=Active movement but eliminated with gravity, 3=Active movement against gravity, 4=Active movement against gravity and resistance, 5=Normal power). The tests are performed by two blinded assessor. A higher score indicates better functional motor power outcome."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Active range of motion (AROM) pre-surgery",
+                              "Active range of motion (AROM) at 12 months follow-up",
+                              "Functional motor power outcome pre-surgery",
+                              "Functional motor power outcome at 12 months follow-up"
+                        ],
+                        "NCTId": [
+                              "NCT04654286"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "OverallOfficialName": [
+                              "William Faubion, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Evaluate safety by assessment of adverse events defined as worsening (change in nature, severity, or frequency of bowel movements, bleeding per rectum, or tenesmus) of UC present at the time of the study, intercurrent illnesses, abnormal laboratory values (this includes clinically significant shifts from baseline within the range of normal that the investigator considers to be clinically significant) or clinically significant abnormalities in physical examination, vital signs, weight, frequency of bloody stools or change in stools."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Number of participants with treatment-related adverse events"
+                        ],
+                        "NCTId": [
+                              "NCT04312113"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "OverallOfficialName": [
+                              "Liem Nguyen, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "February 28, 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Comparison between Serum levels of follicle-stimulating hormone (FSH), Anti-Mullerian Hormone (AMH) and estradiol (E2) for female and testosterone level for male at pre and post AD-MSCs therapy"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Serum levels of follicle-stimulating hormone (FSH), Anti-Mullerian Hormone (AMH) and estradiol (E2) for female and testosterone level for male"
+                        ],
+                        "NCTId": [
+                              "NCT03346967"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "OverallOfficialName": [
+                              "Chuanjian Lu, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "September 30, 2022"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "PASI score improvement rate = (PASI score before intervention - PASI score after intervention)/PASI score before intervention \u00d7100% PASI scores the average redness, thickness, and scaliness of the lesions (0-4 scale), weighted by the area of involvement. PASI scores range from 0 to 72. The higher the score, the worse the disease."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "PASI score improvement rate"
+                        ],
+                        "NCTId": [
+                              "NCT04785027"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "OverallOfficialName": [
+                              "Thanh Cheng, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "November 24, 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Number of subjects that require hospitalization for COVID-19",
+                              "Number of subjects that develop symptoms associated with COVID-19, such as fever, shortness of breath/difficulty breathing, cough"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Incidence of hospitalization for COVID-19",
+                              "Incidence of symptoms for COVID-19"
+                        ],
+                        "NCTId": [
+                              "NCT04349631"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "OverallOfficialName": [
+                              "Philip Waller, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [
+                              "linette@hopebio.org"
+                        ],
+                        "PointOfContactOrganization": [
+                              "Hope Biosciences Stem Cell Research Foundation"
+                        ],
+                        "PointOfContactPhone": [
+                              "346-900-0340"
+                        ],
+                        "PointOfContactPhoneExt": [
+                              "102"
+                        ],
+                        "PointOfContactTitle": [
+                              "Linette Rehkopf RPh"
+                        ],
+                        "PrimaryCompletionDate": [
+                              "August 17, 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Total number of Adverse Events and Serious Adverse Events across all subjects over 12 months."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Total Number of Adverse Events and Serious Adverse Events"
+                        ],
+                        "NCTId": [
+                              "NCT03691909"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04087889"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "OverallOfficialName": [
+                              "Chuanjian Lu, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Enrolling by invitation"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Not Applicable"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "July 24, 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "PASI score improvement rate = (PASI score before intervention - PASI score after intervention)/PASI score before intervention \u00d7100%"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "PASI score improvement rate"
+                        ],
+                        "NCTId": [
+                              "NCT04275024"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "OverallOfficialName": [
+                              "Fermin Labayen Beraza, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "August 15, 2021"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [
+                              "Number of adverse events as a measure of safety and tolerability of a single dose of HCR040 when administered by intravenous injection"
+                        ],
+                        "NCTId": [
+                              "NCT04289194"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "OverallOfficialName": [
+                              "Hamid Gourabi, PhD",
+                              "Nasser Aghdami, MD,PhD",
+                              "Gholamreza Pourmand, MD",
+                              "Iraj Najafi, MD",
+                              "Sudabeh Alatab, MD",
+                              "Soroosh Shekarchian, MD",
+                              "Reza Moghadasali, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Study Chair",
+                              "Study Director",
+                              "Study Director",
+                              "Study Director",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "February 2017"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Evaluation the rate of systemic infection in patients with UFF after cell therapy.",
+                              "Evaluation the rate of hepatic failure in patients with UFF after cell therapy.",
+                              "Evaluation the rate of renal failure in patients with UFF after cell therapy."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Systemic infection",
+                              "Hepatic failure",
+                              "Renal failure"
+                        ],
+                        "NCTId": [
+                              "NCT02801890"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "OverallOfficialName": [
+                              "Marek Postula, MD, PhD",
+                              "Robert Smiegielski, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Study Director"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "March 1, 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Change in hip disability and osteoarthritis outcome score (HOOS) score. HOOS consists of 5 subscales: pain, other symptoms, function in activities of daily living (ADL), and function in sport and recreation (Sport/Rec), and hip-related quality of life (QOL). In total, 40 items: 10 items for pain, 5 items for other symptoms (3 for symptoms and 2 for stiff- ness), 17 items for function in ADL, 4 items for function in Sport/Rec, and 4 items for hip-related QOL. Standardized answer options are given (5 Likert boxes) and each question is scored from 0 to 4. Scores are summarized for each subscale and trans- formed to a 0-100 scale (0 indicating extreme problems and 100 indicating no problems).",
+                              "Change in Harris Hip Score (HHS) score. The domains covered are pain, function, absence of deformity, and range of motion. The pain domain measures pain severity and its effect on activities and need for pain medication. The function domain consists of daily activities (stair use, using public transportation, sitting, and managing shoes and socks) and gait (limp, support needed, and walking distance). Deformity takes into account hip flexion, adduction, internal rotation, and extremity length discrepancy. Range of motion measures hip flexion, abduction, external and internal rotation, and adduction. There are 10 items. The score has a maximum of 100 points (best possible outcome) covering pain (1 item, 0-44 points), function (7 items, 0-47 points), absence of deformity (1 item, 4 points), and range of motion (2 items, 5 points).",
+                              "Change in Knee injury and Osteoarthritis Outcome Score (KOOS). It holds 42 items in 5 separately scored subscales; Pain, other Symptoms, Function in daily living (ADL), Function in Sport and Recreation (Sport/Rec), and knee-related Quality of Life (QOL)\n\nThe five patient-relevant subscales of KOOS are scored separately: Pain (nine items); Symptoms (seven items); ADL Function (17 items); Sport and Recreation Function (five items); Quality of Life (four items). A Likert scale is used and all items have five possible answer options scored from 0 (No Problems) to 4 (Extreme Problems). Scores are transformed to a 0-100 scale, with zero representing extreme knee problems and 100 representing no knee problems as common in orthopaedic assessment scales and generic measures.",
+                              "Change in modified Harris Hip Score (mHHS) score. The domains covered are pain, function, absence of deformity, and range of motion. The pain domain measures pain severity and its effect on activities and need for pain medication. The function domain consists of daily activities (stair use, using public transportation, sitting, and managing shoes and socks) and gait (limp, support needed, and walking distance). Deformity takes into account hip flexion, adduction, internal rotation, and extremity length discrepancy. Range of motion measures hip flexion, abduction, external and internal rotation, and adduction. There are 10 items. The score has a maximum of 100 points (best possible outcome) covering pain (1 item, 0-44 points), function (7 items, 0-47 points), absence of deformity (1 item, 4 points), and range of motion (2 items, 5 points).",
+                              "Change in IKDC Questionnaire score. The questionnaire looks at 3 categories: symptoms, sports activity, and knee function. The symptoms subscale helps to evaluate things such as pain, stiffness, swelling and giving-way of the knee. Scores are obtained by summing the individual items, then transforming the crude total to a scaled number that ranges from 0 to 100. This final number is interpreted as a measure of function with higher scores representing higher levels of function\n\nThe transformed score is interpreted as a measure of function such that higher scores represent higher levels of function and lower levels of symptoms. A score of 100 is interpreted to mean no limitation with activities of daily living or sports activities and the absence of symptoms.",
+                              "Change in WOMAC score. WOMAC score is used to assess patients with osteoarthritis of the hip or knee using 24 parameters in 5 categories.\n\n1 Pain 2.Stiffness 3.Physical function 4.Social function 5. Emotional function\n\nScoring and Interpretation\n\nResponse : points none - 0 slight 1 moderate 2 severe 3 extreme 4\n\nscore = = summary (points for relevant items) average score = = (total score) / (number of items) Interpretation: minimum total score: 0 maximum total score: 96 minimum pain subscore: 0 maximum pain subscore: 20 minimum stiffness subscore: 0 maximum stiffness subscore: 8 minimum physical function subscore: 0 maximum physical function subscore: 6",
+                              "Change in DASH score. DASH outcome measure is a 30-item. The items enquire about the degree of difficulty in performing different physical activities because of arm, shoulder and hand problems (21 items), the severity of each of the symptoms of pain, activity-related pain, tingling, weakness and stiffness (five items) and the impact of the problem on social functioning, work, sleep and self-image (four items).\n\nThe scores are then used to calculate a scale score ranging from 0 (no disability) to 100 (most severe disability\n\nA minimum score is 30; a maximum is 150. The range of the scores, therefore-from 30 to 150-equals 120. The raw score is then transformed to a zero-to-100 scale with zero reflecting no disability (good function) and 100 reflecting maximum disability.",
+                              "Change in CMS score. CMS is a 100-points scale composed of a number of individual parameters. These parameters define the level of pain and the ability to carry out the normal daily activities of the patient\n\nThe test is divided into four subscales: pain (15 points), activities of daily living (20 points), strength (25 points) and range of motion: forward elevation, external rotation, abduction and internal rotation of the shoulder (40 points). The higher the score, the higher the quality of the function.",
+                              "Change in Visual Analog Scale (VAS) for pain in the target hip following completion of treatment cycles. Visual analogue scales (VAS) are psychometric measuring instruments designed to document the characteristics of disease-related symptom severity in individual patients and use this to achieve a rapid (statistically measurable and reproducible) classification of symptom severity and disease control The VAS is a commonly used tool in health outcome studies, when using it to assess importance of certain action or intervention, how we can interpret the results, on 1 to 10 line (where 1; the least and the 10; the highest)"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "HIP DISABILITY AND OSTEOARTHRITIS OUTCOME SCORE (HOOS)",
+                              "Harris Hip Score",
+                              "Knee injury and Osteoarthritis Outcome Score (KOOS)",
+                              "modified Harris Hip Score for knee",
+                              "The International Knee Documentation Committee (IKDC Questionnaire)",
+                              "WOMAC (for hip and knee)",
+                              "Disability of Arm, Shoulder and Hand [DASH]",
+                              "The Constant-Murley score (CMS)",
+                              "Visual Analog Scale (VAS)"
+                        ],
+                        "NCTId": [
+                              "NCT03869229"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Not yet recruiting"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "November 1, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Number of subjects with treatment related adverse events as assessed by analysis of adverse events including symptoms.",
+                              "Number of subjects with treatment related adverse events as assessed by analysis of adverse events including abnormal findings on physical examination, vital signs, ECG, and standard laboratory examination."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Incidence of adverse events",
+                              "Abnormalities of physical examination, vital signs, and laboratory test"
+                        ],
+                        "NCTId": [
+                              "NCT04527224"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "OverallOfficialName": [
+                              "Mohit Khera, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Withdrawn"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "March 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The analysis will allow us to assess if stem cells can improve IIEF scores. The IIEF will be given at the 3, 6, 9, and 12 month visits."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Improvements in IIEF scores of greater than 2"
+                        ],
+                        "NCTId": [
+                              "NCT02107118"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "OverallOfficialName": [
+                              "Thanh Cheng, MD",
+                              "Joseph Varon, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "July 9, 2021"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Number of subjects that must be hospitalized for COVID-19 during the conduct of this study",
+                              "Number of subjects who experience symptoms defined to be associated with COVID-19, such as fever, shortness of breath/difficulty breathing, cough."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Incidence of hospitalization for COVID-19",
+                              "Incidence of symptoms associated with COVID-19"
+                        ],
+                        "NCTId": [
+                              "NCT04348435"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "OverallOfficialName": [
+                              "james Q Yin, M.D.,Ph.D."
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "January 2017"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Absolute neutrophil count > 0.5 X 109/l and Platelet count > 20 X 109 /l without infusion of platelet for 7 days."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Engraftment at 42 days post AD-HSC transplantation for patients with severe aplastic anemia."
+                        ],
+                        "NCTId": [
+                              "NCT02407470"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "OverallOfficialName": [
+                              "Charles S Cox, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Active, not recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "May 27, 2022"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "clinical lab evaluation of level of glucose in the blood (mg/dL)",
+                              "clinical lab evaluation of level of calcium in the blood (mg/dL)",
+                              "clinical lab evaluation of level of albumin in the blood (g/dL)",
+                              "clinical lab evaluation of total protein in the blood (g/dL)",
+                              "clinical lab evaluation of total sodium in the blood (mmol/L)",
+                              "clinical lab evaluation of total carbon dioxide in the blood (mmol/L)",
+                              "clinical lab evaluation of potassium in the blood (mmol/L)",
+                              "clinical lab evaluation of chloride in the blood (mmol/L)",
+                              "clinical evaluation of blood urea nitrogen (BUN) (mg/dL)",
+                              "clinical evaluation of creatinine in blood (mg/dL)",
+                              "clinical evaluation of alkaline phosphatase (ALP) in blood (IU/L)",
+                              "clinical evaluation of alanine aminotransferase (ALT) in blood (IU/L)",
+                              "clinical evaluation of aspartate aminotransferase (AST) in blood (IU/L)",
+                              "clinical evaluation of total bilirubin in blood (mg/dL)",
+                              "clinical evaluation of white blood cells (WBC) in blood (x 10^3/uL)",
+                              "clinical evaluation of red blood cells (RBC) in blood (x 10^6/uL)",
+                              "clinical evaluation of hemoglobin in blood (g/dL)",
+                              "clinical evaluation of hematocrit in blood (%)",
+                              "clinical evaluation of mean corpuscular volume (MCV) in blood (fL)",
+                              "clinical evaluation of mean corpuscular hemoglobin (MCH) in blood (pg)",
+                              "clinical evaluation of mean corpuscular hemoglobin concentration (MCHC) in blood (g/dL)",
+                              "clinical evaluation of red cell distribution width (RDW) in blood (%)",
+                              "clinical evaluation of neutrophils in blood (%)",
+                              "clinical evaluation of lymphocytes in blood (%)",
+                              "clinical evaluation of monocytes in blood (%)",
+                              "clinical evaluation of eosinophils in blood (%)",
+                              "clinical evaluation of basophils in blood (%)",
+                              "clinical evaluation of absolute neutrophils in blood (x 10^3/uL)",
+                              "clinical evaluation of absolute lymphocytes in blood (x 10^3/uL)",
+                              "clinical evaluation of absolute monocytes in blood (x 10^3/uL)",
+                              "clinical evaluation of absolute eosinophils in blood (x 10^3/uL)",
+                              "clinical evaluation of absolute basophils in blood (x 10^3/uL)",
+                              "clinical evaluation of immature granulocytes in blood (%)",
+                              "clinical evaluation of absolute immature granulocytes in blood (x 10^3/uL)",
+                              "clinical evaluation of platelets in blood (x 10^3/uL)",
+                              "clinical evaluation of time for blood to coagulate (seconds)",
+                              "clinical evaluation of international normalized ratio of blood coagulation (no unit)",
+                              "clinical evaluation of human chorionic gonadotropin (hCG) in urine (positive/negative)"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Glucose",
+                              "Calcium",
+                              "Albumin",
+                              "Total Protein",
+                              "Sodium",
+                              "Total carbon dioxide",
+                              "Potassium",
+                              "Chloride",
+                              "BUN",
+                              "Creatinine",
+                              "Alkaline phosphatase",
+                              "Alanine aminotransferase",
+                              "Aspartate aminotransferase",
+                              "Total Bilirubin",
+                              "White blood cell",
+                              "Red blood cell",
+                              "Hemoglobin",
+                              "Hematocrit",
+                              "Mean corpuscular volume",
+                              "Mean corpuscular hemoglobin",
+                              "Mean corpuscular hemoglobin concentration",
+                              "Red cell distribution width",
+                              "Neutrophils",
+                              "Lymphs",
+                              "Monocytes",
+                              "Eos",
+                              "Basos",
+                              "Absolute Neutrophils",
+                              "Absolute Lymphs",
+                              "Absolute monocytes",
+                              "Absolute Eos",
+                              "Absolute Basos",
+                              "Immature Granulocytes",
+                              "Absolute Immature Granulocytes",
+                              "Platelets",
+                              "Prothrombin Time",
+                              "INR",
+                              "Urine Pregnancy"
+                        ],
+                        "NCTId": [
+                              "NCT04063215"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "OverallOfficialName": [
+                              "Liem T Nguyen, Prof"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "October 30, 2022"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Safety is recognized as number of adverse events (AE) and serious adverse events (SAE) appear from the time that patients sign in ICF"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Safety measure"
+                        ],
+                        "NCTId": [
+                              "NCT05308836"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "OverallOfficialName": [
+                              "Hamid Gourabi, PhD",
+                              "Nasser Aghdami, MD,PhD",
+                              "Hassan Otukesh, MD",
+                              "Rozita Hosseini, MD",
+                              "Soroosh Shekarchian, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Study Chair",
+                              "Study Director",
+                              "Study Director",
+                              "Principal Investigator",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "June 2017"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "increase of liver enzymes 2 weeks after cell injection.",
+                              "Decrease of serum creatinine 2 weeks after cell injection.",
+                              "Reduction in proteinuria to <200 to 300 mg/day will be assessed by Changes in 24 hour urine protein analysis."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Liver function",
+                              "Serum creatinine",
+                              "Proteinuria"
+                        ],
+                        "NCTId": [
+                              "NCT02382874"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Early Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "June 30, 2021"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "measurement of tensile strength of posterior cruciate ligament",
+                              "measurement value of Thrombosite Growth Factor - beta 1",
+                              "measurement value of basic fibroblast of growth factor"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "tensile strength of posterior cruciate ligament",
+                              "Thrombosite of Growth Factor - beta 1",
+                              "basic fibroblast of growth factor"
+                        ],
+                        "NCTId": [
+                              "NCT04889963"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "OverallOfficialName": [
+                              "Rajiv Thakur, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Terminated"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "September 30, 2021"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "change from baseline in interleukin-6",
+                              "Change from baseline in C Reactive protein",
+                              "change from baseline oxygenation (%)",
+                              "change from baseline in TNF alpha",
+                              "change from baseline level of IL-10 in the blood (pg/mL)",
+                              "Time to return to room air"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Interleukin-6",
+                              "C Reactive protein",
+                              "Oxygenation",
+                              "TNF alpha",
+                              "IL-10",
+                              "Return to room air (RTRA)"
+                        ],
+                        "NCTId": [
+                              "NCT04362189"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT03925649"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04029896"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2",
+                              "Phase 3"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "June 30, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Change from baseline in WOMAC function score at Week 48",
+                              "Change from baseline on Visual Analog Scale (VAS) score at Week 48"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Western Ontario and McMaster Universities Arthritis Index (WOMAC) function Score",
+                              "Visual Analog Scale (VAS) score"
+                        ],
+                        "NCTId": [
+                              "NCT04368806"
+                        ]
+                  },
+                  {
+                        "Rank": 28,
+                        "OverallOfficialName": [
+                              "Derek W Guillory, MD."
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Not yet recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "September 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "adverse events and severe adverse events",
+                              "adverse events and severe adverse events",
+                              "efficacy"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Tolerability and acute safety of AdMSC infusion by assessment of the total number of AEs/SAEs related and non-related with the medication",
+                              "The overall proportion of subjects who develop any AEs/SAEs related and non-related with the AdMSC infusions as compared to the control group",
+                              "COVID-19 incidence rates in both the study and control groups"
+                        ],
+                        "NCTId": [
+                              "NCT04428801"
+                        ]
+                  },
+                  {
+                        "Rank": 29,
+                        "OverallOfficialName": [
+                              "KANGIL KIM, M.D., Ph.D"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Not Applicable"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "May 22, 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "MRI perform to measure cartilage defect size change from baseline up to 27 weeks"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "MRI scan"
+                        ],
+                        "NCTId": [
+                              "NCT03000712"
+                        ]
+                  },
+                  {
+                        "Rank": 30,
+                        "OverallOfficialName": [
+                              "Djamchid Lotfi, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "July 20, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Movement Disorder Society Unified Parkinson's Disease Rating Scale (MDS-UPDRS) Part II.",
+                              "Treatment-emergent Adverse Event.",
+                              "SSAEs.",
+                              "Incidence of thromboembolic events.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including peripheral events defined as, thromboembolism of the extremities.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including infections.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including hypersensitivities.",
+                              "Clinically significant changes in CBC values.",
+                              "Number of Participants with changes in Laboratory CMP values",
+                              "Number of Participants with changes in Laboratory Coagulation Panel values.",
+                              "Number of Participants with Clinically significant changes in Respiratory Rate.",
+                              "Number of Participants with Clinically significant changes in Heart Rate.",
+                              "Number of participants with Clinically significant changes in Heart Rate.",
+                              "Number of Participants with Clinically significant changes in Blood Pressure.",
+                              "Number of Participants with Clinically significant changes in Weight in lb.",
+                              "Number of Participants with Clinically significant changes in general physical examination results.",
+                              "Number of Participants with Clinically significant changes in body systems physical examination results."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "1. Changes in the total score MDS-UPDRS Part II.",
+                              "2. Incidence of treatment-emergent Adverse Event (TEAEs).",
+                              "3. Incidence of treatment-emergent Serious Adverse Events (SAEs).",
+                              "4. AEs of special interest (serious or non-serious) - thromboembolic events.",
+                              "5. AEs of special interest (serious or non-serious) - thromboembolism of the extremities",
+                              "6. AEs of special interest (serious or non-serious) - infections",
+                              "7. AEs of special interest (serious or non-serious) - hypersensitivities.",
+                              "8. Laboratory value Complete Blood Count (CBC)",
+                              "9. Laboratory values Chemistry Metabolic Panel (CMP)",
+                              "10. Laboratory values Coagulation Panel; Prothrombin time, Partial Prothrombin time, and INtern",
+                              "11. Vital signs. - Respiratory Rate (breaths per minute)",
+                              "12. Vital signs. - Heart Rate (beats per minute)",
+                              "13. Vital signs. - Body Temperature (Fahrenheit )",
+                              "14. Vital signs. - Blood Pressure (mmHg)",
+                              "15. Weight in lb.",
+                              "16. Physical examination results. General",
+                              "17. Physical examination results. Body Systems."
+                        ],
+                        "NCTId": [
+                              "NCT04995081"
+                        ]
+                  },
+                  {
+                        "Rank": 31,
+                        "OverallOfficialName": [
+                              "Djamchid Lotfi, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "November 22, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The MSQOL-54 is a comprehensive health-related quality of life measure incorporating general and MS-specific questions into a single instrument.\n\nThe developers used the SF-36 as a base and added 18 questions to address MS-specific problems, including fatigue and cognitive function.\n\nThis 54-item questionnaire provides 12 sub-scales, two summary scores, and two extra single-item measures. The sub-scales are physical function, role limits-physical, emotional role restrictions, pain, emotional well-being, energy, health perceptions, social position, cognitive function, health distress, overall quality of life, and sexual function. There is no single overall score for MSQOL-54. Two summary scores - physical health and mental health - can be derived from a weighted combination of scale scores (scale scores range from 0 to 100 and a higher scale score indicates improved quality of life)."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "To investigate the efficacy of intravenous infusions of HB-adMSCs vs placebo in patients with Multiple Sclerosis as determined by improvements in the Multiple Sclerosis Quality of Life (MSQOL) 54 Instrument."
+                        ],
+                        "NCTId": [
+                              "NCT05116540"
+                        ]
+                  },
+                  {
+                        "Rank": 32,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Withdrawn"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Not Applicable"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "March 2014"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "To evaluate the change of treated lumbar intervertebral discs using Magnetic Resonance Imaging (MRI) at 6 months post injection of MSCs."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Magnetic Resonance Imaging"
+                        ],
+                        "NCTId": [
+                              "NCT01643681"
+                        ]
+                  },
+                  {
+                        "Rank": 33,
+                        "OverallOfficialName": [
+                              "Walter R Lowe, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04604288"
+                        ]
+                  },
+                  {
+                        "Rank": 34,
+                        "OverallOfficialName": [
+                              "Hamid Gourabi, PhD",
+                              "Nasser Aghdami, MD,PhD",
+                              "Mahdi Vahid Dastjerdi, MD",
+                              "Leila Arab, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Study Chair",
+                              "Study Director",
+                              "Study Director",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "November 2017"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Evaluation the presence of myalsia 1month after cell injection.",
+                              "Evaluation the probability of mass formation 6 months after cell injection."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Myalsia",
+                              "Mass formation"
+                        ],
+                        "NCTId": [
+                              "NCT02208713"
+                        ]
+                  },
+                  {
+                        "Rank": 35,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04064957"
+                        ]
+                  },
+                  {
+                        "Rank": 36,
+                        "OverallOfficialName": [
+                              "Hamid Gourabi, PhD",
+                              "Tahereh Madani, MD",
+                              "Mehri Mashayekhi, MD",
+                              "Elham sadat Mirzadeh, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Study Chair",
+                              "Study Director",
+                              "Study Director",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "June 2018"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Evaluation the formation of ovary mass by sonography up to one year after transplantation (patient will follow for any adverse event via follow up visits (24hr after transplantation, 1th , 2th , 4th , 8th , 12th week , 6th month and 12th month after cell transplantation.",
+                              "Evaluation the ovary abcess formation up to one year after transplantation (patient will follow for any adverse event via follow up visits (24hr after transplantation, 1th , 2th , 4th , 8th , 12th week , 6th month and 12th month after cell transplantation."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "ovary mass",
+                              "ovary abcess"
+                        ],
+                        "NCTId": [
+                              "NCT02603744"
+                        ]
+                  },
+                  {
+                        "Rank": 37,
+                        "OverallOfficialName": [
+                              "Djamchid Lotfi, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Active, not recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "May 28, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "MDS-UPDRS Part II.",
+                              "treatment-emergent Adverse Event.",
+                              "SSAEs.",
+                              "Incidence of thromboembolic events.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including peripheral events defined as, thromboembolism of the extremities.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including infections.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including hypersensitivities.",
+                              "Clinically significant changes in CBC values.",
+                              "Clinically significant changes in CMP values.",
+                              "Clinically significant changes in Coagulation Panel values.",
+                              "Clinically significant changes in Respiratory Rate.",
+                              "Clinically significant changes in Heart Rate.",
+                              "Clinically significant changes in Heart Rate.",
+                              "Clinically significant changes in Blood Pressure.",
+                              "Clinically significant changes in Weight in lb.",
+                              "Clinically significant changes in general physical examination results.",
+                              "Clinically significant changes in body systems physical examination results."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Changes in MDS-UPDRS Part II.",
+                              "Incidence of treatment-emergent Adverse Event (TEAEs).",
+                              "Incidence of treatment-emergent Serious Adverse Events (SAEs).",
+                              "AEs of special interest (serious or non-serious) - thromboembolic events.",
+                              "AEs of special interest (serious or non-serious) - thromboembolism of the extremities",
+                              "AEs of special interest (serious or non-serious) - infections",
+                              "AEs of special interest (serious or non-serious) - hypersensitivities.",
+                              "Laboratory values. CBC",
+                              "Laboratory values. CMP",
+                              "Laboratory values. Coagulation Panel",
+                              "Vital signs. - Respiratory Rate (breaths per minute)",
+                              "Vital signs. - Heart Rate (beats per minute)",
+                              "Vital signs. - Body Temperature (Fahrenheit )",
+                              "Vital signs. - Blood Pressure (mmHg)",
+                              "Weight in lb.",
+                              "Physical examination results. General",
+                              "Physical examination results. Body Systems."
+                        ],
+                        "NCTId": [
+                              "NCT04928287"
+                        ]
+                  },
+                  {
+                        "Rank": 38,
+                        "OverallOfficialName": [
+                              "Wenchun Qu, MD, MS, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Terminated"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "February 6, 2021"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "An adverse event is 1) Defined as any untoward or undesirable medical occurrence in the form of signs, symptoms, abnormal findings, or diseases that emerge or worsen relative to baseline during the study regardless of causal relationship."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Number of patients who experience adverse events (AEs)"
+                        ],
+                        "NCTId": [
+                              "NCT03461458"
+                        ]
+                  },
+                  {
+                        "Rank": 39,
+                        "OverallOfficialName": [
+                              "Derek W Guillory, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Not yet recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "November 1, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Incidence of treatment-related adverse events and severe adverse events during the study period",
+                              "Grouped by Medical Dictionary for Regulatory Activities (MedDRA)",
+                              "AdMSC treating group vs. control group"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Safety of AdMSC injection will be evaluated by assessment of the frequency and nature of adverse events occurring during the study based on the rate of all AdMSC-associated adverse events (AEs) in all subjects.",
+                              "Safety for AdMSCs based upon incidence of all AEs",
+                              "Compare the mortality rate"
+                        ],
+                        "NCTId": [
+                              "NCT05017298"
+                        ]
+                  },
+                  {
+                        "Rank": 40,
+                        "OverallOfficialName": [
+                              "Shuji Terai, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "June 2022"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Safety will be evaluated based on the medical review of adverse event reports and the results of clinical laboratory tests, vital sign, and physical examinations.",
+                              "Improvement rate of Child-Pugh score from the baseline will be evaluated."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Safety profile of ADR-001 including the incidence of adverse events (Phase 1)",
+                              "Improvement rate of Child-Pugh score (Phase 2)"
+                        ],
+                        "NCTId": [
+                              "NCT03254758"
+                        ]
+                  },
+                  {
+                        "Rank": 41,
+                        "OverallOfficialName": [
+                              "Carlos A Chiriboga, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 3"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "June 7, 2021"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "psychometric response scale which used in questionnaires. It is a measurement instrument for subjective characteristics of pain . Score from O to 10. O indicate no pain, and 10 indicate the worst pain.",
+                              "The Index contains 24 questions five items for pain (score range 0-20), two for stiffness (score range 0-8), and 17 for functional limitation (score range 0-68). Individual question responses are assigned a score of between 0 (extreme) and 4 (None). Individual question scores are then summed to form a raw score ranging from 0 (worst) to 96 (best). Finally, raw scores are normalized by multiplying each score by 100/96. This produces a reported WOMAC Score of between 0 (worst) to 100 (best)."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "knee pain assessed by Visual Analogue Scale.",
+                              "knee function assessed by WOMAC (Wester Ontario McMaster Osteoarthritis Index). quosteionary."
+                        ],
+                        "NCTId": [
+                              "NCT04351932"
+                        ]
+                  },
+                  {
+                        "Rank": 42,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 20, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Clinically significant changes in Visual Analog Scale - Extreme fatigue",
+                              "Clinically significant changes in Visual Analog Scale - Brain fog",
+                              "Clinically significant changes in Visual Analog Scale - Headache",
+                              "Clinically significant changes in Visual Analog Scale - Sleep disturbances",
+                              "Clinically significant changes in Visual Analog Scale - Loss of taste",
+                              "Clinically significant changes in Visual Analog Scale - Loss of smell",
+                              "Treatment-emergent Adverse Event.",
+                              "SSAEs",
+                              "Incidence of thromboembolic events.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including peripheral events defined as, thromboembolism of the extremities.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including infections.",
+                              "Incidence and risk of AEs of special interest (serious or non-serious), including hypersensitivities.",
+                              "Clinically significant changes in CBC values.",
+                              "Clinically significant changes in CMP values.",
+                              "Clinically significant changes in Coagulation Panel values.",
+                              "Clinically significant changes in Respiratory Rate.",
+                              "Clinically significant changes in Heart Rate.",
+                              "Clinically significant changes in Body Temperature.",
+                              "Clinically significant changes in Blood Pressure.",
+                              "Clinically significant changes in Weight.",
+                              "Clinically significant changes in general physical examination results.",
+                              "Clinically significant changes in Body Systems physical examination results."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Changes in Visual Analog Scale of Neurological Symptoms. - Extreme fatigue",
+                              "Changes in Visual Analog Scale of Neurological Symptoms. - Brain fog",
+                              "Changes in Visual Analog Scale of Neurological Symptoms. - Headache",
+                              "Changes in Visual Analog Scale of Neurological Symptoms. - Sleep disturbances",
+                              "Changes in Visual Analog Scale of Neurological Symptoms. - Loss of taste",
+                              "Changes in Visual Analog Scale of Neurological Symptoms. - Loss of smell",
+                              "Incidence of treatment-emergent Adverse Event (TEAEs).",
+                              "Incidence of treatment-emergent Serious Adverse Events (SAEs).",
+                              "AEs of special interest (serious or non-serious) - thromboembolic events.",
+                              "AEs of special interest (serious or non-serious) - thromboembolism of the extremities.",
+                              "AEs of special interest (serious or non-serious) - infections.",
+                              "AEs of special interest (serious or non-serious) - hypersensitivities.",
+                              "Changes in Laboratory values. - CBC.",
+                              "Changes in Laboratory values. - CMP.",
+                              "Changes in Laboratory values. - Coagulation Panel.",
+                              "Changes in Vital Signs. - Respiratory Rate (breaths per minute)",
+                              "Changes in Vital Signs. - Heart Rate (beats per minute)",
+                              "Changes in Vital Signs. - Body Temperature (Fahrenheit )",
+                              "Changes in Vital Signs. - Blood Pressure (mmHg)",
+                              "Changes in Weight in lb.",
+                              "Changes in Physical examination results. - General",
+                              "Changes in Physical examination results. - Body Systems"
+                        ],
+                        "NCTId": [
+                              "NCT05126563"
+                        ]
+                  },
+                  {
+                        "Rank": 43,
+                        "OverallOfficialName": [
+                              "Mohamad Bydon, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "October 22, 2019"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "An adverse event is defined any untoward or undesirable medical occurrence in the form of signs, symptoms, abnormal findings, or diseases that emerge or worsen relative to baseline (i.e., if present upon study entry) during the study regardless of causal relationship to the study drug"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Incidence of acute adverse events"
+                        ],
+                        "NCTId": [
+                              "NCT03308565"
+                        ]
+                  },
+                  {
+                        "Rank": 44,
+                        "OverallOfficialName": [
+                              "Djamchid Lotfi, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04711811"
+                        ]
+                  },
+                  {
+                        "Rank": 45,
+                        "OverallOfficialName": [
+                              "Rajiv Thakur, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04514952"
+                        ]
+                  },
+                  {
+                        "Rank": 46,
+                        "OverallOfficialName": [
+                              "Inbo Han, MD, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 2017"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The transplantation will be considered to be safe and tolerable, in the absence of the following types of counter evidence.\n\n- Adverse events of grade 3 (NCI grading system) or above related to the cell products/ any evidence that the cells were contaminated by pollutants / any evidence that the cells exhibit tumorigenic potential.\n\nAdverse events will be reported at 1, 3, 6, 9, and 12 months"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Evaluation of Safety and Tolerability (Adverse events)"
+                        ],
+                        "NCTId": [
+                              "NCT02338271"
+                        ]
+                  },
+                  {
+                        "Rank": 47,
+                        "OverallOfficialName": [
+                              "Djamchid Lotfi, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04772378"
+                        ]
+                  },
+                  {
+                        "Rank": 48,
+                        "OverallOfficialName": [
+                              "Mohamad Bydon, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "June 2024"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The ASIA Impairment Scale describes a person's functional impairment (both motor and sensory) as a result of their spinal cord injury. The scale has 5 levels, ranging from A (complete) to E (normal)."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "\u2022Change in sensory and motor function following completion of treatment as measured by the American Spinal Injury Association (ASIA) Impairment Scale (AIS)"
+                        ],
+                        "NCTId": [
+                              "NCT04520373"
+                        ]
+                  },
+                  {
+                        "Rank": 49,
+                        "OverallOfficialName": [
+                              "Dr. Ashok A Mahashur, M.B.B.S.M.D.",
+                              "Dr. Pratibha S Singhal, M.B.B.S.M.D.",
+                              "Dr.Sujeet K Rajan, M.B.B.S.M.D.",
+                              "Dr. Kartik B Shah, M.B.B.S.M.D."
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "August 2015"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The Incidence of treatment emergent Adverse Event (AE) in the study."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Safety"
+                        ],
+                        "NCTId": [
+                              "NCT02135380"
+                        ]
+                  },
+                  {
+                        "Rank": 50,
+                        "OverallOfficialName": [
+                              "Thanh Cheng, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04798066"
+                        ]
+                  },
+                  {
+                        "Rank": 51,
+                        "OverallOfficialName": [
+                              "Dolores Herreros"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Not yet recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "June 1, 2025"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Number of complication associated with presurgery, surgery, IMP administration and postsurgery period",
+                              "according to RMI",
+                              "Change from baseline in Crohn's disease activity index (CDAI) score (0-1100 points).\n\nHigher scores mean a worse outcome.",
+                              "Change from baseline in inflammatory bowel disease questionnaire (IBDQ32 ). 140-200 points, higher scores mean a better outcome.",
+                              "number of patients with an obstructive episode who required resection surgery"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Percentage of complications",
+                              "Change from baseline length and diameter of the stenosis",
+                              "Crohn's disease activity index (CDAI) questionnaire score",
+                              "inflammatory bowel disease questionnaire (IBDQ32 )",
+                              "patients with an obstructive episode who required resection surgery"
+                        ],
+                        "NCTId": [
+                              "NCT05521672"
+                        ]
+                  },
+                  {
+                        "Rank": 52,
+                        "OverallOfficialName": [
+                              "Derek W Guillory, MD."
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Not yet recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "August 1, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "safety",
+                              "Safety"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "the frequency and nature of adverse events occurring during the study based on the annualized rate of all AdMSC-associated adverse events (AEs) in all subjects.",
+                              "Any organ damage or safety concerns determined by SMAC 20 blood test."
+                        ],
+                        "NCTId": [
+                              "NCT04448106"
+                        ]
+                  },
+                  {
+                        "Rank": 53,
+                        "OverallOfficialName": [
+                              "Djamchid Lotfi, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04825626"
+                        ]
+                  },
+                  {
+                        "Rank": 54,
+                        "OverallOfficialName": [
+                              "Djamchid Lotfi, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Temporarily not available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04825613"
+                        ]
+                  },
+                  {
+                        "Rank": 55,
+                        "OverallOfficialName": [
+                              "Thanh Cheng, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "No longer available"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [],
+                        "PrimaryCompletionDateType": [],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [],
+                        "NCTId": [
+                              "NCT04064983"
+                        ]
+                  },
+                  {
+                        "Rank": 56,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [
+                              "tin50@stemcellbio.com"
+                        ],
+                        "PointOfContactOrganization": [
+                              "Nature Cell co., ltd"
+                        ],
+                        "PointOfContactPhone": [
+                              "02-545-4137"
+                        ],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [
+                              "Project Manager"
+                        ],
+                        "PrimaryCompletionDate": [
+                              "March 12, 2018"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Comparing the baseline and 6-month WOMAC scores in JointStem group Score range: 0-2,400 A score of 2,400 represents the most severe impairment and 0 represents the least impairment",
+                              "Comparing the baseline and 6-month VAS scores in JointStem group Score range: 0-100 A score of 100 represents the most severe pain and 0 represents the least pain.",
+                              "Comparing the baseline and 6-month MRI improvement values in JointStem group MRI Improvement Evaluation was conducted by an MRI analysis company called 'Qmetrics'. The main radiological features evaluated were bone marrow edema, osteophytes, and cartilage. Certain features, such as the appearance of a new cartilage defect or increase in the size of existing cartilage defects or osteophytes, is generally considered an indication of osteoarthritic progression. Similarly, the diminishing in severity or size of existing abnormalities would generally be considered to be a healing(improving) response."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Change From Baseline on Western Ontario and McMaster Universities Arthritis Index (WOMAC) Score in JointStem Group",
+                              "Change From Baseline on Visual Analog Scale (VAS) in JointStem Group",
+                              "MRI Improvement Evaluation in JointStem Group"
+                        ],
+                        "NCTId": [
+                              "NCT02674399"
+                        ]
+                  },
+                  {
+                        "Rank": 57,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [
+                              "tin50@stemcellbio.com"
+                        ],
+                        "PointOfContactOrganization": [
+                              "Nature Cell co., ltd"
+                        ],
+                        "PointOfContactPhone": [
+                              "02-545-4137"
+                        ],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [
+                              "Project Manager"
+                        ],
+                        "PrimaryCompletionDate": [
+                              "June 26, 2019"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Number of subjects with treatment related adverse events as assessed by analysis of adverse events including symptoms, and abnormal findings on physical examination, vital signs, ECG, and standard laboratory examination results",
+                              "Change of ADAS-Cog (Alzheimer's Disease Assessment Scale-cognitive subscale) from Baseline at Week 30 Score range: 0-70 A score of 70 represents the most severe impairment and 0 represents the least impairment"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Treatment Related Adverse Events",
+                              "ADAS-Cog (Alzheimer's Disease Assessment Scale-cognitive Subscale)"
+                        ],
+                        "NCTId": [
+                              "NCT03117738"
+                        ]
+                  }
+            ]
+      }
+}

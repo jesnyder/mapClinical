@@ -1,0 +1,329 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal ExoFlo",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 9,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 9,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [
+                              "EXIT-ARDS"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Saline",
+                              "ExoFlo (Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles)",
+                              "ExoFlo (Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles)"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: Saline",
+                              "Drug: Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles",
+                              "Drug: Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles"
+                        ],
+                        "ArmGroupLabel": [
+                              "Placebo Saline",
+                              "10mL Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles",
+                              "15mL Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles"
+                        ],
+                        "ArmGroupType": [
+                              "Placebo Comparator",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05127122"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Arm 1: IV administration of study agent at Day 0, Day 2, Day 4, Week 2, Week 6 and every 8 weeks thereafter to week 46 (n=5), (total # doses = 10).",
+                              "Arm 2: IV administration of study agent at Day 0, Day 2, Day 4, Week 2, Week 6 and every 4 weeks thereafter to week 46 (n=5), (total # doses = 15)."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Bone Marrow MSC Derived Extracellular Vesicle Isolate",
+                              "Drug: Bone Marrow MSC Derived Extracellular Vesicle Isolate"
+                        ],
+                        "ArmGroupLabel": [
+                              "15ml of ExoFlo at Day 0, 2, 4 Week 2, 6, and every 8 weeks after that to week 46",
+                              "15ml of ExoFlo at Day 0, 2, 4 Week 2, 6, and every 4 weeks after that to week 46"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05130983"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "100ml normal saline",
+                              "10ml ExoFlo + 90ml normal saline",
+                              "15ml ExoFlo + 85ml normal saline"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: ExoFlo",
+                              "Drug: ExoFlo",
+                              "Drug: ExoFlo"
+                        ],
+                        "ArmGroupLabel": [
+                              "Placebo",
+                              "10ml ExoFlo",
+                              "15ml ExoFlo"
+                        ],
+                        "ArmGroupType": [
+                              "Placebo Comparator",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05125562"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "IV administration of study agent at Day 0, Day 2, Day 4, Week 2, Week 6 and every 8 weeks thereafter to week 46 (n=5), (total # doses = 10).",
+                              "IV administration of study agent at Day 0, Day 2, Day 4, Week 2, Week 6 and every 4 weeks thereafter to week 46 (n=5), (total # doses = 15)."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: ExoFlo",
+                              "Drug: ExoFlo"
+                        ],
+                        "ArmGroupLabel": [
+                              "15ml of ExoFlo at Day 0, 2, 4 Week 2, 6, and every 8 weeks after that to week 46",
+                              "15ml of ExoFlo at Day 0, 2, 4 Week 2, 6, and every 4 weeks after that to week 46"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05176366"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [],
+                        "ArmGroupLabel": [],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04657458"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Normal Saline 100 mL",
+                              "Normal saline 85 mL and ExoFlo 15 mL, which is 10.5 x 10^8 EV"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: Saline",
+                              "Biological: Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles"
+                        ],
+                        "ArmGroupLabel": [
+                              "Treatment Arm 1",
+                              "Treatment Arm 2"
+                        ],
+                        "ArmGroupType": [
+                              "Placebo Comparator",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05116761"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "PLACEBO Normal saline 100 mL",
+                              "IP (ExoFlo) 15ml dose in Normal saline 85 mL, which is approximately 1.2 trillion EVs."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: EXOFLO",
+                              "Drug: EXOFLO"
+                        ],
+                        "ArmGroupLabel": [
+                              "Treatment Arm 1",
+                              "Treatment Arm 2"
+                        ],
+                        "ArmGroupType": [
+                              "Placebo Comparator",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05354141"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "1 AE, grade 2 skin hyperpigmentation at the infusion site, was reported; this was in DB-EF-EXPANDEDACCESS-001.\n\nClinical investigational use includes the following: Pilot study for COVID-19 IND #21669, DB-EF-PhaseII-001 (met target enrollment of N=121), and DB-EF-EXPANDEDACCESS-001 (enrolled 75 subjects; target enrollment = 100) as well as 13 single patient Emergency INDs for COVID-19 associated ARDS."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles Infusion Treatment"
+                        ],
+                        "ArmGroupLabel": [
+                              "No SAE attributable to IP in clinical investigational use to date."
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05215288"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "Acronym": [
+                              "EXIT-COVID19"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Normal saline 100 mL",
+                              "Normal saline 90 mL and ExoFlo 10 mL, which is 800 Billion Extracellular Vesicles.",
+                              "Normal saline 85 mL and ExoFlo 15 mL, which is 1.2 Trillion Extracellular Vesicles."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: Intravenous normal saline",
+                              "Biological: DB-001",
+                              "Biological: DB-001"
+                        ],
+                        "ArmGroupLabel": [
+                              "Placebo",
+                              "Experimental Dose 1",
+                              "Experimental Dose 2"
+                        ],
+                        "ArmGroupType": [
+                              "Placebo Comparator",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04493242"
+                        ]
+                  }
+            ]
+      }
+}

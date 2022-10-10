@@ -1,0 +1,671 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal stem Rheumatoid Arthritis",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 18,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 18,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "122"
+                        ],
+                        "SecondaryIdDomain": [
+                              "Council for Stem Cell Sciences and Technologies"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Other Grant/Funding Number"
+                        ],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03333681"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Rheumatoid Factor, C-reactive protein"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "RA Serology",
+                              "Disease Activity Score (DAS 28) Index Mean Change From Baseline",
+                              "Patient's assessment of pain."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1, 3 and 6 months",
+                              "1, 3 and 6 months",
+                              "1, 3 and 6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01547091"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Rheumatoid Factor, C-reactive protein"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "RA Serology",
+                              "Disease Activity Score (DAS 28) Index"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1, 3 ,6 and 12 months",
+                              "1, 3, 6 and 12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02643823"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluation the resurfacing of articular cartilage after mesenchymal transplantation by MRI and radio logic assessment."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Imaging"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Related Info"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://RoyanInstitute.org"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01873625"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Number of participants with a change in disease activity index as measured by 28-DAS Score",
+                              "Number of participants with a change in current disease activity as measured by EULAR Response Criteria",
+                              "Change from baseline quality of life measure (based on Stanford HAQ)",
+                              "Change from baseline C-reactive protein",
+                              "Change from baseline erythrocyte sedimentation rate (ESR)",
+                              "Change from baseline anti-citrulline antibody measure",
+                              "Change from baseline rheumatoid factor (RF)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01985464"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Percentage of participants achieving ACR20",
+                              "Percentage of participants achieving ACR50",
+                              "Percentage of participants achieving ACR70",
+                              "Change from baseline of the disease activity score based on DAS28-CRP",
+                              "Change from baseline of the disease activity score based on DAS28-ESR",
+                              "EULAR response",
+                              "Change from baseline of the health assessment questionnaire(HAQ) score",
+                              "Change from baseline of the simplified disease activity index (SDAI) score",
+                              "Change from baseline of the clinical disease activity index (CDAI) score",
+                              "Change from baseline of TNF-\u03b1 level",
+                              "Change from baseline of IL-6 level"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Up to day 28\u00b13",
+                              "Up to day 28\u00b13",
+                              "Up to day 28\u00b13",
+                              "Up to day 28\u00b13",
+                              "Up to day 28\u00b13",
+                              "Up to day 28\u00b13",
+                              "Up to day 28\u00b13",
+                              "Up to day 28\u00b13",
+                              "Up to day 28\u00b13",
+                              "Up to day 28\u00b13",
+                              "Up to day 28\u00b13"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04971980"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The patients achieves 20%, 50%, or 70% remission according to American College of Rheumatology (ACR) criteria.",
+                              "White blood cell count increases to the 3.5\u00d710^9/L and platelet count increases to 80\u00d710^ 9.",
+                              "The HGB increases by 10 g compared to the baseline is considered improvement.",
+                              "FVC increases by 0.5% and DLCO increases by 10% compared to baseline",
+                              "The area change of image of lung."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "The remission rates of American College of Rheumatology (ACR) 20, ACR 50 and ACR 70.",
+                              "White blood cell count and platelet count improved compared to the baseline.",
+                              "Improvement rate of blood routine hemoglobin (HGB) compared to baseline.",
+                              "Improvement rate of forced vital capacity (FVC) and/or carbon monoxide",
+                              "Image improvement of lung on high resolution CT.",
+                              "Improvement of 6-minute walking distance compared to baseline."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 weeks and 24 weeks",
+                              "12 weeks and 24 weeks",
+                              "12 weeks",
+                              "12 weeks",
+                              "24 weeks",
+                              "12 weeks and 24 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03798028"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ResultsFirstSubmitDate": [
+                              "August 19, 2021"
+                        ],
+                        "ResultsFirstSubmitQCDate": [
+                              "February 24, 2022"
+                        ],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Efficacy is a secondary endpoint for this study and will be assessed by comparing the levels of Tumor Necrosis factor (TNF-a) (pg/mL) measured during trial.",
+                              "Efficacy is a secondary endpoint for this study and will be assessed by comparing the levels of interleukin 6 (IL-6) (pg/mL) during the trial",
+                              "Efficacy is a secondary endpoint for this study and will be assessed by comparing the levels of C-reactive protein (CRP) (mg/L) during the trial",
+                              "Efficacy is a secondary endpoint for this study and will be assessed by comparing the levels of erythrosedimentation rate (ESR) (mm/hr) during the trial.",
+                              "Efficacy is a secondary endpoint for this study and will be assessed by comparing the levels of Joint Count 66/68 (# joints - tender and swollen) during the trial."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "The Effect of Single Injection of HB-adMSCs on TNF-a in Patients With Acute RA",
+                              "The Effect of Single Injection of HB-adMSCs on IL-6 in Patients With Acute RA",
+                              "The Effect of Single Injection of HB-adMSCs on CRP in Patients With Acute RA",
+                              "The Effect of Single Injection of HB-adMSCs on ESR in Patients With Acute RA",
+                              "The Effect of Single Injection of HB-adMSCs on Joint Count in Patients With Acute RA."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment",
+                              "Systematic Assessment"
+                        ],
+                        "NCTId": [
+                              "NCT03691909"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "DAS 28 is used to determine the disease activity for RA. It will be completed for each follow up point.",
+                              "VAS is a scale that is used to measure pain. It will be completed for each follow up point."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy: the 28-joint disease activity score (DAS 28)",
+                              "Efficacy: visual analog scale (VAS)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Four year follow-up",
+                              "Four year follow-up"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05003934"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The ACR20 is a composite measure defined as both improvement of 20% in the number of tender and number of swollen joints, and a 20% improvement in three of the following five criteria: patient global assessment, physician global assessment, functional ability measure [Health Assessment Questionnaire (HAQ)], visual analog pain scale, and erythrocyte sedimentation rate or C-reactive protein (CRP).",
+                              "The ACR50 is a composite measure defined as both improvement of 50% in the number of tender and number of swollen joints, and a 50% improvement in three of the following five criteria: patient global assessment, physician global assessment, functional ability measure [Health Assessment Questionnaire (HAQ)], visual analog pain scale, and erythrocyte sedimentation rate or C-reactive protein (CRP).",
+                              "The ACR70 is a composite measure defined as both improvement of 70% in the number of tender and number of swollen joints, and a 70% improvement in three of the following five criteria: patient global assessment, physician global assessment, functional ability measure [Health Assessment Questionnaire (HAQ)], visual analog pain scale, and erythrocyte sedimentation rate or C-reactive protein (CRP).",
+                              "The DAS28-CRP is a composite measure of inflammation in Rheumatoid Arthritis and incorporates a tender and swollen joint count, CRP and Patient Global Assessment of Disease Activity expressed in a Gaussian distribution of variables ranging from 0 to 10. A DAS28-CRP score of <3.2 suggests a low level of disease activity, while a score of >5.1 suggests a high level of disease activity.",
+                              "The HAQ-DI questionnaire assesses the participant's self-perception on the degree of difficulty when performing daily activities. Each question asks on a scale ranging from 0 to 3 if the categories can be performed without any difficulty (scale 0) up to cannot be done at all (scale 3).",
+                              "The SDAI is the numerical sum of five outcome parameters: tender joint count and swollen joint count based on a 28-joint assessment, patient global health assessment and physician global health assessment (from 0=best to 10=worst), and C-reactive protein (CRP). SDAI total score= 0 to 86. SDAI <=3.3 indicates disease remission, >3.3 to 11 = low disease activity, >11 to 26 = moderate disease activity, and >26 = high disease activity.",
+                              "Rheumatoid factor blood test result.",
+                              "Anti-CCP blood test result."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Percentage of participants achieving ACR20 from Baseline at Week 12 and Week 24",
+                              "Percentage of participants achieving ACR50 response from Baseline at Week 12 and Week 24",
+                              "Percentage of participants achieving ACR70 response from Baseline at Week 12 and Week 24",
+                              "Change from Baseline in the disease activity score 28-joint count using C reactive protein (DAS28-CRP) at Week 12 and Week 24",
+                              "Change from Baseline in the health assessment questionnaire disability index (HAQ-DI) score at Week 12 and Week 24",
+                              "Percentage of participants achieving remission by Simplified Disease Activity Index (SDAI) based criteria at Week 12 and Week 24",
+                              "Change from Baseline of rheumatoid factor at Week 12 and Week 24",
+                              "Change from Baseline of anti-cyclic citrullinated peptide (anti-CCP) at Week 12 and Week 24"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 weeks and 24 weeks after infusion",
+                              "12 weeks and 24 weeks after infusion",
+                              "12 weeks and 24 weeks after infusion",
+                              "12 weeks and 24 weeks after infusion",
+                              "12 weeks and 24 weeks after infusion",
+                              "12 weeks and 24 weeks after infusion",
+                              "12 weeks and 24 weeks after infusion",
+                              "12 weeks and 24 weeks after infusion"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03828344"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "R21AR069226"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [
+                              "https://reporter.nih.gov/quickSearch/R21AR069226"
+                        ],
+                        "SecondaryIdType": [
+                              "U.S. NIH Grant/Contract"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "2. Change in patient reported outcomes (PROMIS CAT and legacy [RAPID 3 / SF36] -questionnaires)",
+                              "Changes in DAS28-CRP"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in patient reported outcomes",
+                              "DAS28-CRP"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Up to day 28 after infusion",
+                              "Week 52"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03186417"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Proportion of ACR 20 patients (swollen joints, tender joints, patient assessment of pain, RAPID3, DAS28-CRP and blood inflammatory panel tests) in comparison between baseline and post-treatment follow-up data."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy of Celltex AdMSCs"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "52 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04170426"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Evaluation of the Physical Activity measure by WOMAC scoring",
+                              "Evaluation the resurfacing of articular cartilage by MRI"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 month",
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03067870"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "DAS range is from \u2265 3.2 (inactive) , >3.2 but \u2264 5.1(moderate), >5.1(very active)",
+                              "KHAQ range is from 0 (clear) to 60 (severe)",
+                              "CDAI range is from 0 (clear) to 76 (severe)",
+                              "100mm Pain VAS range is from 0 (clear) to 100 (severe)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy as measured by ACR(American College of Rheumatology)20,50,70 reaction rate",
+                              "Efficacy as measured by EULAR (European League Against Rheumatism)reaction rate",
+                              "Efficacy as measured by DAS(Disease activity scores)28-ESR",
+                              "Efficacy as measured by KHAQ(Korean Health assessment questionnaire)",
+                              "Efficacy as measured by CDAI (clinical disease activity index)",
+                              "Efficacy as measured by 100mm Pain VAS(Visual analogue scale)",
+                              "Total number of use and consumed amount of rescue medicine",
+                              "Change in Cytokine(TNF-a, Interleukin (IL)-1b, IL-4,IL-6,IL-8,IL-10,IL-13,IL-17A,IL-21,IL-22)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "16 weeks follow-up after treatment",
+                              "16 weeks follow-up after treatment",
+                              "16 weeks follow-up after treatment",
+                              "16 weeks follow-up after treatment",
+                              "16 weeks follow-up after treatment",
+                              "16 weeks follow-up after treatment",
+                              "16 weeks follow-up after treatment",
+                              "16 weeks follow-up after treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03618784"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "clinical symptoms including fatigue (Fatigue Impact Score, FIS) and pruritus ( Visual Analog Scale ,VAS)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Histological changes in liver biopsies",
+                              "Serum Bilirubin",
+                              "Serum AST",
+                              "Mayo risk score",
+                              "Number of patients with Portal Hypertension after 12 weeks treatment",
+                              "MELD score",
+                              "Number of participants with improvement of clinical symptoms"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "baseline and 48 weeks",
+                              "At base line and at week 4,8,12,24,36 and 48",
+                              "At base line and at week 4,8,12,24,36 and 48",
+                              "At base line and at week 4,8,12,24,36 and 48",
+                              "At base line and at week 12,24,36 and 48",
+                              "At base line and at week 4,8,12,24,36 and 48",
+                              "At base line and at week 4,8,12,24,36 and 48"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01662973"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "weight gain, acne, facial rounding, dorsal hump formation, hirsutism, osteopenia and diabetes mellitus, et al",
+                              "diffuse arthralgias, fatigue, generalized malaise, jaundice, abdominal pain, nausea, and loss of appetite"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Serum AST",
+                              "Serum Tbil",
+                              "Serum immunoglobulin G (IgG)",
+                              "Serum \u03b3-globulin",
+                              "MELD score",
+                              "Number of participants with treatment side effects",
+                              "Number of participants with improvement of clinical symptoms"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "At baseline and at week 12, 24, 36, 48, 72, 96",
+                              "At baseline and at week 12, 24, 36, 48, 72, 96",
+                              "At baseline and at week 12, 24, 36, 48, 72, 96",
+                              "At baseline and at week 12, 24, 36, 48, 72, 96",
+                              "At base line and at week 12, 24, 36, 48, 72, 96",
+                              "At base line and at week 12, 24, 36, 48, 72, 96",
+                              "At base line and at week 12, 24, 36, 48, 72, 96"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01661842"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Proportion of ACR20 patients/ACR50 patients/ACR70 patients (swollen joints*, tender joints**, physician global assessment***, patient global assessment***, patient\u00b4s assessment of pain ***, ESR/CRP, HAQ score)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "At selection and screening visit, and once per month during 6 months after the last administration"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01663116"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Radiographic outcome assessments",
+                              "FFI-R, SF-12",
+                              "AOFAS"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Radiographic outcome assessments",
+                              "Functional outcome measurements",
+                              "Functional outcome measurements"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Pre-operatively, 6 weeks, 3, 6, 12 and 24 months",
+                              "Pre-operatively, 6 weeks, 3, 6, 12 and 24 months",
+                              "Pre-operatively, 3, 6, 12 and 24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01413061"
+                        ]
+                  }
+            ]
+      }
+}

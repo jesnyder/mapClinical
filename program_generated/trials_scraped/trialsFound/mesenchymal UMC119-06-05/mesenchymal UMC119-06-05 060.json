@@ -1,0 +1,147 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal UMC119-06-05",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The clinical study with UMC119-06-05 is designed to investigate the safety in patients with frailty syndrome. This will be a dose escalation, open label, single-center study in adult with frailty syndrome. UMC119-06-05 is ex vivo cultured human umbilical cord tissue-derived mesenchymal stem cells product which is intended for treatment of frailty syndrome."
+                        ],
+                        "BriefTitle": [
+                              "Mesenchymal Stem Cells for The Treatment of Frailty Syndrome"
+                        ],
+                        "CentralContactEMail": [
+                              "Mandy.Li@meridigen.com",
+                              "Katherine.Huang@meridigen.com"
+                        ],
+                        "CentralContactName": [
+                              "Mandy Li, MS",
+                              "Katherine Huang, MS"
+                        ],
+                        "CentralContactPhone": [
+                              "+886-2-2627-5175",
+                              "+886-2-2627-5175"
+                        ],
+                        "CentralContactPhoneExt": [
+                              "19933",
+                              "19926"
+                        ],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "July 2023"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Frailty Syndrome"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000004194",
+                              "D000010335"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Disease",
+                              "Pathologic Processes"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All"
+                        ],
+                        "NCTId": [
+                              "NCT04914403"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "BriefSummary": [
+                              "The clinical study with UMC119-06-05 is designed to investigate the safety in patients with mild to moderate knee osteoarthritis (KOA). This will be a dose escalation, open label, single-center study in adult with mild to moderate knee osteoarthritis. UMC119-06-05 is ex vivo cultured human umbilical cord tissue-derived mesenchymal stem cells product which is intended for treatment of knee osteoarthritis."
+                        ],
+                        "BriefTitle": [
+                              "Mesenchymal Stem Cells for The Treatment of Knee Osteoarthritis (KOA)."
+                        ],
+                        "CentralContactEMail": [
+                              "julie.wen@meridigen.com",
+                              "Katherine.Huang@meridigen.com"
+                        ],
+                        "CentralContactName": [
+                              "Julie Wen, MS",
+                              "Katherine Huang, MS"
+                        ],
+                        "CentralContactPhone": [
+                              "+886-2-2627-5175",
+                              "+886-2-2627-5175"
+                        ],
+                        "CentralContactPhoneExt": [
+                              "19922",
+                              "19926"
+                        ],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "June 2023"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Osteoarthritis, Knee"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000001168",
+                              "D000007592",
+                              "D000009140",
+                              "D000012216"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Arthritis",
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC05",
+                              "All",
+                              "BC17"
+                        ],
+                        "NCTId": [
+                              "NCT04893174"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,114 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal it-hMSC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "0.5 \u00d7 10 ^ 6 / kg (body weight) of it-hMSC per person",
+                              "1 \u00d7 10 ^ 6 / kg (body weight) of it-hMSC per person",
+                              "2 \u00d7 10 ^ 6 / kg (body weight) of it-hMSC per person",
+                              "Highest dose of it-hMSC",
+                              "Sub high dose of it-hMSC",
+                              "placebo"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: it-hMSC",
+                              "Biological: it-hMSC",
+                              "Biological: it-hMSC",
+                              "Biological: it-hMSC",
+                              "Biological: it-hMSC",
+                              "Biological: it-hMSC"
+                        ],
+                        "ArmGroupLabel": [
+                              "Low dose group",
+                              "Middle dose group",
+                              "High dose group",
+                              "Highest dose cell group",
+                              "Sub high dose cell group",
+                              "placebo group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Experimental",
+                              "Experimental",
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04953663"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Single intravenous infusion of 0.5\u00d710^6, 1\u00d710^6, 2\u00d710^6 it-hMSC/kg",
+                              "Single intravenous infusion of 1 ml/kg placebo"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: it-hMSC",
+                              "Drug: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "Experimental: it-hMSC",
+                              "Placebo-controlled: Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04590118"
+                        ]
+                  }
+            ]
+      }
+}

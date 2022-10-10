@@ -53,6 +53,7 @@ def count_fields_grouped():
         if 'Age' in filename: continue
         if 'Completion Date' in filename: continue
         if 'Condition' in filename: continue
+        if 'desc' in str(filename): continue
         if 'Enrollment' in filename: continue
         if 'First Posted' in filename: continue
         if 'Interventions' in filename: continue
@@ -108,7 +109,11 @@ def count_fields_grouped():
                         df.at[i, col_name] = value
 
                         col_name = str(col + '_enroll')
-                        enroll = int(trial['Enrollment'])
+                        try:
+                            enroll = int(float(trial['Enrollment']))
+                        except:
+                            enroll = 0
+
                         value = df.at[i, col_name] + enroll
                         df.at[i, col_name] = value
 
@@ -117,74 +122,6 @@ def count_fields_grouped():
 
         fil_dst = os.path.join(retrieve_path('summary_group'), filename)
         df.to_csv(fil_dst)
-
-
-
-    """
-
-    keys = trials[0].keys()
-
-    # for each of the trial fields
-    for key in keys:
-
-
-
-            df_group_specific = df_group[df_group[col] > 0]
-            urls = list(df_group_specific['url'])
-            print(len(urls))
-
-            # for each of the trials
-            for trial in trials:
-
-                if trial['URL'] not in urls:
-                    continue
-
-
-
-
-                values = []
-                enrolled = []
-
-            for trial in trials:
-
-                if trial not in urls: continue
-
-                value = trial[key]
-                values.append(value)
-                enrolled.append(int(trial['Enrollment']))
-
-            df_temp = pd.DataFrame()
-            df_temp[str('term_' + col)] = values
-            df_temp[str('enrollment_' + col)] = enrolled
-
-
-        terms, counts, enrolled = [], [], []
-        for value in list(df_temp['term']):
-
-            if value in terms: continue
-
-            df_value = df_temp[df_temp['term'] == value]
-
-            terms.append(value)
-
-            count = list(df_temp['term']).count(value)
-            counts.append(count)
-
-            enroll = sum(list(df_value['enrollment']))
-            enrolled.append(enroll)
-
-
-        df = pd.DataFrame()
-        df[key] = terms
-        df['count'] = counts
-        df['enrolled'] = enrolled
-        key_name = key.replace('/','_')
-        print('key_name = ' + str(key_name))
-        file_dst = os.path.join(retrieve_path('summary'), key_name + '.csv')
-        df = reset_df(df.sort_values(by='count', ascending=False))
-        df.to_csv(file_dst)
-
-    """
 
 
 def write_grouped_doughnut_js():
@@ -370,7 +307,11 @@ def count_fields():
 
             value = trial[key]
             values.append(value)
-            enrolled.append(int(trial['Enrollment']))
+
+            try:
+                enrolled.append(int(float((trial['Enrollment']))))
+            except:
+                enrolled.append(0)
 
         df_temp = pd.DataFrame()
         df_temp['term'] = values

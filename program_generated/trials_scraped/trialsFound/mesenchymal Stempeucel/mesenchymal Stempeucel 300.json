@@ -1,0 +1,108 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Stempeucel",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Pain free walking distance",
+                              "Major amputation free survival",
+                              "Ankle brachial pressure index (ABPI) - measured by Doppler",
+                              "Increase in transcutaneous partial oxygen pressure (TcPO2)",
+                              "Quality of life by King's College VascuQOL questionnaire",
+                              "Angiogenesis - collateral blood vessels by Magnetic resonance angiogram (MRA)",
+                              "The type of adverse events AE(s), number of AE(s) and proportion of patients with AE(s).",
+                              "Assessment of clinical laboratory parameters",
+                              "Physical examination findings and assessment of vital signs",
+                              "Assessment of electrocardiogram (ECG) parameters"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 and 24 months",
+                              "6 and 24 months",
+                              "6 and 24 months",
+                              "6 and 24 months",
+                              "6 and 24 months",
+                              "6 and 24 months",
+                              "6 and 24 months",
+                              "6 and 24 months",
+                              "6 and 24 months",
+                              "6 and 24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01484574"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Total walking distance",
+                              "Major amputation free survival",
+                              "Ankle brachial pressure index (ABPI) - measured by Doppler",
+                              "Quality of life (QOL) by King's College VascuQOL questionnaire",
+                              "Angiogenesis - collateral blood vessels by Magnetic resonance angiogram (MRA)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months and 24 months",
+                              "6 months and 24 months",
+                              "6 months and 24 months",
+                              "6 months and 24 months",
+                              "6 months and 24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03056742"
+                        ]
+                  }
+            ]
+      }
+}

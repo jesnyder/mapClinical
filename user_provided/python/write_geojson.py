@@ -18,6 +18,7 @@ from admin import retrieve_json
 from admin import retrieve_path
 from admin import  retrieve_ref
 from admin import save_json
+from admin import save_value
 
 from list_trials import list_location
 
@@ -36,6 +37,7 @@ def write_geojson():
         print('col = ' + str(col))
 
         if 'url' == col: continue
+        #if 'all' == col: continue
 
         df = retrieve_df('groups')
         df_new = df[df[col] > 0]
@@ -81,14 +83,17 @@ def write_geojson():
 
                 # save the group as js
                 dst_json = os.path.join(retrieve_path('js'), col + '.js')
-                print('dst_json = ' + str(dst_json))
+                #print('dst_json = ' + str(dst_json))
                 with open(dst_json, "w") as f:
                     f.write('var ' + ' group' + col + ' = ')
                     json.dump(features_dict, f, indent = 4)
                 f.close()
                 #print('dst_json = ' + str(dst_json))
+                save_value('geojson entry count ' + col, len(features))
 
                 year, month, day = find_date(trial)
+
+                # save all trials
                 if year < 2020: continue
 
                 features_recent.append(feature)
@@ -100,11 +105,15 @@ def write_geojson():
 
                 # save the group as js
                 dst_json = os.path.join(retrieve_path('js'), col + '_recent' + '.js')
-                print('dst_json = ' + str(dst_json))
+                #print('dst_json = ' + str(dst_json))
                 with open(dst_json, "w") as f:
                     f.write('var ' + ' group' + col + '_recent' + ' = ')
                     json.dump(features_dict, f, indent = 4)
                 f.close()
+
+                save_value('geojson entry count ' + col + '_recent', len(features_recent))
+                save_value('geojson recent percent ' + col, round(len(features_recent)/len(features)*100,2))
+
 
 
     time_end = datetime.datetime.today()
@@ -160,8 +169,6 @@ def get_random_increment(col):
     return(inc)
 
 
-
-
 def write_prop(trial, loc, fillColor, col):
     """
     return geojson for prop field
@@ -173,19 +180,40 @@ def write_prop(trial, loc, fillColor, col):
     prop['name'] = trial['Title']
     prop['aff'] = loc
     prop['url'] = trial['URL']
-    prop['enrolled'] = int(trial['Enrollment'])
+    prop['status'] = trial['Status']
+
+    try:
+        prop['enrolled'] = int(float(trial['Enrollment']))
+    except:
+        prop['enrolled'] = 0
 
     # marker properties
     prop['radius'] = 10
     if 'Enrollment' in trial.keys():
-        enrolled = float(trial['Enrollment'])
+
+        try:
+            enrolled = int(float(trial['Enrollment']))
+        except:
+            print('no enrolled found: ')
+            print(trial['URL'])
+            enrolled = 0
+
         radius = int(math.sqrt(enrolled) + 10)
         prop['radius'] = radius
 
     prop['color'] = "rgb(100, 100, 100)"
     prop['fillColor'] = fillColor
-    prop['opacity'] = 0.8
-    prop['fillOpacity'] = 0.8
+
+
+    status = trial['Status']
+    preferred_status = ['Active, not recruiting', 'Available', 'Completed', 'Enrolling by invitation', 'Recruiting']
+    if status in preferred_status:
+        prop['opacity'] = 0.8
+        prop['fillOpacity'] = 0.8
+    else:
+        print('Outside preferred status: ' + str(trial['URL']))
+        prop['opacity'] = 0.4
+        prop['fillOpacity'] = 0.4
 
     z_offset = 0
     if col == 'all': z_offset = 1
@@ -220,34 +248,41 @@ def find_date(trial):
 
     month_names = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Sep', 'Oct', 'Nov', 'Dec']
 
-    date_fields = ['Start Date']
+    date_fields = ['Start Date', 'First Posted', 'Last Update Posted', 'Results First Posted']
 
     for field in date_fields:
 
         date = trial[field]
+
         date = re.sub(r'[^a-zA-z0-9\s_]+', ' ', date)
         date = date.split(' ')
 
+
+        # find the year
+        if date[-1].isdigit():
+            year = date[-1]
+            if len(year) == 2:
+                if year > 25: year = 2000 + year
+                if year >= 25: year = 1900 + year
+
+        # find the month
         for item in date:
-
-            if item.isdigit():
-
-                if len(item) == 4:
-                    year = item
-
-                else:
-                    day = item
-
-
             for name in month_names:
                 if str(name) in str(item):
                     i = month_names.index(name) + 1
                     month = i
 
-            if int(year) > 1900:
-                if month == 0: month = 1
-                if day == 0: day = 1
-                return(int(year), int(month), int(day))
+        # find the day
+        if date[0].isdigit(): day = date[0]
+        else: day = 1
+
+
+        if int(year) > 1900:
+            #print('year = ' + str(year))
+            if day > 0:
+                if month != 0:
+                    return(int(year), int(month), int(day))
+
 
     if month == 0: month = 1
     if day == 0: day = 1

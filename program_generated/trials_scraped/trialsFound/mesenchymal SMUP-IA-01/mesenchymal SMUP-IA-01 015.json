@@ -1,0 +1,143 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal SMUP-IA-01",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "A single knee administration of SMUP-IA-01 (low-dose, 4.0 x 10^6 cells/2mL) (2 ml of 1% sodium hyaluronate injection is administered before administration of SMUP-IA-01)",
+                              "A single knee administration of SMUP-IA-01 (mid-dose, 1.0 x 10^7 cells/2mL) (2 ml of 1% sodium hyaluronate injection is administered before administration of SMUP-IA-01)",
+                              "A single knee administration of SMUP-IA-01 (high-dose, 2.0 x 10^7 cells/2mL) (2 ml of 1% sodium hyaluronate injection is administered before administration of SMUP-IA-01)"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: SMUP-IA-01(low-dose)",
+                              "Biological: SMUP-IA-01(mid-dose)",
+                              "Biological: SMUP-IA-01(high-dose)"
+                        ],
+                        "ArmGroupLabel": [
+                              "SMUP-IA-01(low-dose)",
+                              "SMUP-IA-01(mid-dose)",
+                              "SMUP-IA-01(high-dose)"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04339504"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "A single knee administration of SMUP-IA-01 (low-dose, 4.0 x 10^6 cells/2mL) (2 ml of 1% sodium hyaluronate injection is administered before administration of SMUP-IA-01)",
+                              "A single knee administration of SMUP-IA-01 (mid-dose, 1.0 x 10^7 cells/2mL) ( 2 ml of 1% sodium hyaluronate injection is administered before administration of SMUP-IA-01)",
+                              "A single knee administration of SMUP-IA-01 (high-dose, 2.0 x 10^7 cells/2mL) (2 ml of 1% sodium hyaluronate injection is administered before administration of SMUP-IA-01)"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: SMUP-IA-01(low-dose)",
+                              "Biological: SMUP-IA-01(mid-dose)",
+                              "Biological: SMUP-IA-01(high-dose)"
+                        ],
+                        "ArmGroupLabel": [
+                              "SMUP-IA-01(low-dose)",
+                              "SMUP-IA-01(mid-dose)",
+                              "SMUP-IA-01(high-dose)"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04037345"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Investigational Product - 4.0\u00d710^6 cells/2 mL of SMUP-IA-01 (2 ml of 1% sodium hyaluronate injection is administered before administration of SMUP-IA-01)",
+                              "Investigational Product - 1.0\u00d710^7 cells/2 mL of SMUP-IA-01 (2 ml of 1% sodium hyaluronate injection is administered before administration of SMUP-IA-01)",
+                              "Investigational Product - 2 ml of 1% sodium hyaluronate (2 ml of sodium chloride injection is administered before administration of 1% sodium hyaluronate)"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: SMUP-IA-01(low dose)",
+                              "Biological: SMUP-IA-01(mid dose)",
+                              "Drug: Active Control Group Sodium chloride"
+                        ],
+                        "ArmGroupLabel": [
+                              "Study Group 1: SMUP-IA-01 (low dose)",
+                              "Study Group 2:SMUP-IA-01 (mid dose)",
+                              "Active Control Group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05182034"
+                        ]
+                  }
+            ]
+      }
+}

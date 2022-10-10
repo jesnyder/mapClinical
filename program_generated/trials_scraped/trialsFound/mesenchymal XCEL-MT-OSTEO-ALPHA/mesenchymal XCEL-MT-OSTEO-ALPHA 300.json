@@ -1,0 +1,177 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal XCEL-MT-OSTEO-ALPHA",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2013-005025-23"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Safety will be assessed by collecting adverse events throughout the experimental phase which includes a follow-up of 12 month.",
+                              "Characteristics of the callus by tomography and Characteristics of the callus by standard x-ray in both treatment arms",
+                              "Quality of life will be measured by EUROQOL-5D test"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Safety assessment of XCEL-MT-OSTEO-ALPHA in non-union fractures",
+                              "Efficacy assessment of XCEL-MT-OSTEO-ALPHA in non-union fractures by imaging procedures",
+                              "Efficacy assessment by quality of life test"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 month",
+                              "6 month",
+                              "12 month"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Banc de Sang i Teixits (Blood and Tissue Bank of Catalonia)",
+                              "Hospital ASEPEYO Sant Cugat"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.bancsang.net/",
+                              "http://www.asepeyo.es/hospital-sant-cugat"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02230514"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2010-023998-18"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "The necrotic angle will be measured using imaging procedures (magnetic resonance imaging MRI).",
+                              "Dynamic changes of signal intensity after Gd enhancement in the necrotic areas of the femoral head",
+                              "Pain measurement by VAS",
+                              "This clinical outcome will measure the quality of life by the self-reported quality of life questionnaire SF-36",
+                              "To assess the extent by which a person's functional level is restricted by the WOMAC index"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Bone regeneration by measuring the necrotic angle using the modified Kerboul method",
+                              "Dynamic changes of signal intensity",
+                              "Clinical outcomes (pain) by Visual Analogue Scale (VAS)",
+                              "Clinical outcomes (SF-36)",
+                              "Clinical outcome (WOMAC)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 and 12 months",
+                              "6 and 12 months",
+                              "7 days and at 3, 6 and 12 months",
+                              "3, 6 and 12 months",
+                              "3, 6 and 12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Banc de Sang i Teixits. Xcelia-Divisi\u00f3n de Terapias Avanzadas.",
+                              "Hospital Universitari Vall d'Hebron, Barcelona"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.bancsang.net/",
+                              "http://www.vhebron.net/"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01605383"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Spinal fusion will be assessed by spinal X-Ray",
+                              "Spinal fusion will be assessed by the presence of solid bonny bridges using computerized helicoidal tomography.",
+                              "Pain measurement by visual analogue scale (VAS)",
+                              "This clinical outcome will measure the quality of life by the self-reported quality of life questionnaire SF-36",
+                              "To assess the extent by which a person's functional level is restricted by disability by the Oswestry Disability Index"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy spinal fusion by imaging procedures (X-Ray).",
+                              "Efficacy spinal fusion by imaging procedures (computerized helicoidal tomography)",
+                              "Clinical outcomes (VAS)",
+                              "Clinical outcomes (SF-36)",
+                              "Clinical outcome (Oswestry Disability Index)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "3, 6 and 12 months",
+                              "6 and 12 months",
+                              "7 days and at 3, 6 and 12 months",
+                              "3, 6 and 12 months",
+                              "3, 6 and 12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Banc de Sang i Teixits. Xcelia, Divisi\u00f3n de Terapias Avanzadas.",
+                              "Institut Catal\u00e0 de Traumatologia i Medicina de l'Esport (Institut Universitari Dexeus)",
+                              "Hospital Universitari Vall d'Hebron, Barcelona",
+                              "Hospital Universitari Germans Trias i Pujol, Badalona",
+                              "Hospital Parc de Salut Mar, Barcelona",
+                              "Hospital de la Santa Creu i Sant Pau, Barcelona"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.bancsang.net",
+                              "http://www.icatme.com",
+                              "http://www.vhebron.net",
+                              "http://www.gencat.cat/ics/germanstrias/",
+                              "http://www.parcdesalutmar.cat",
+                              "http://www.santpau.es/"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01552707"
+                        ]
+                  }
+            ]
+      }
+}

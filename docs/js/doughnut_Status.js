@@ -5,26 +5,44 @@ const config_Status = {
     "data": {
         "labels": [
             "Completed",
+            "Unknown status",
             "Recruiting",
             "Not yet recruiting",
             "Active, not recruiting",
-            "Enrolling by invitation"
+            "Terminated",
+            "Withdrawn",
+            "Suspended",
+            "No longer available",
+            "Enrolling by invitation",
+            "Available",
+            "Temporarily not available"
         ],
         "datasets": [
             {
                 "label": "all",
                 "data": [
-                    17769,
-                    19677,
-                    4663,
-                    2932,
-                    657
+                    17191,
+                    19936,
+                    19185,
+                    4606,
+                    2792,
+                    993,
+                    0,
+                    749,
+                    0,
+                    537,
+                    0,
+                    0
                 ],
                 "backgroundColor": [
                     "rgb(212,178,212)",
                     "rgb(255,105,140)",
                     "rgb(92,141,255)",
                     "rgb(127,212,85)",
+                    "rgb(89,212,126)",
+                    "rgb(85,212,212)",
+                    "rgb(89,212,126)",
+                    "rgb(212,81,177)",
                     "rgb(89,212,126)"
                 ]
             }

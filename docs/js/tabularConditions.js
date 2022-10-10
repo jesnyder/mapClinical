@@ -10,7 +10,7 @@ var tabledata = [
 
 var tabledata = tableConditions;
 
-var table = new Tabulator("#condition-table", {
+var table = new Tabulator("#tabularConditions", {
     data:tabledata,           //load row data from array
     layout:"fitColumns",      //fit columns to width of table
     responsiveLayout:"hide",  //hide columns that dont fit on the table
