@@ -1,0 +1,61 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal MR-MC-01",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Interstitial cystitis patients who receive submucosal injection of hESC-MSCs"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: MR-MC-01"
+                        ],
+                        "ArmGroupLabel": [
+                              "Stem cell group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04610359"
+                        ]
+                  }
+            ]
+      }
+}

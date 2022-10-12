@@ -1,0 +1,91 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04179760",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "MaximumAge",
+                  "MinimumAge",
+                  "NCTId",
+                  "NCTIdAlias",
+                  "OfficialTitle",
+                  "OrgClass",
+                  "OrgFullName",
+                  "OrgStudyId",
+                  "OrgStudyIdDomain",
+                  "OrgStudyIdLink",
+                  "OrgStudyIdType",
+                  "OtherEventAssessmentType",
+                  "OtherEventNotes",
+                  "OtherEventOrganSystem",
+                  "OtherEventSourceVocabulary"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "MaximumAge": [],
+                        "MinimumAge": [
+                              "19 Years"
+                        ],
+                        "NCTId": [
+                              "NCT04179760"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Randomized, Phase I/II Trial to Evaluate the Safety and Efficacy of SCM-AGH in Subjects With Moderate to Severe Atopic Dermatitis"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "SCM Lifescience Co., LTD."
+                        ],
+                        "OrgStudyId": [
+                              "ADT2002"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 2,
+                        "MaximumAge": [],
+                        "MinimumAge": [
+                              "19 Years"
+                        ],
+                        "NCTId": [
+                              "NCT04185584"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Long-Term Safety Follow-Up Study of SCM AGH in Subjects Who Participated in the ADT2002 Study"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "SCM Lifescience Co., LTD."
+                        ],
+                        "OrgStudyId": [
+                              "ADT2002-LTFU"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  }
+            ]
+      }
+}

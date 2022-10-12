@@ -1,0 +1,99 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Descartes-30",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "Emergency study to test the safety of Descartes-30 cells in patients with moderate-to-severe acute respiratory distress syndrome (ARDS) AND COVID-19"
+                        ],
+                        "BriefTitle": [
+                              "Study of Descartes-30 in Acute Respiratory Distress Syndrome"
+                        ],
+                        "CentralContactEMail": [
+                              "trials@cartesiantx.com"
+                        ],
+                        "CentralContactName": [
+                              "Adam S Chowdhury, MD, MBA"
+                        ],
+                        "CentralContactPhone": [
+                              "3026486497"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "September 25, 2022"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Acute Respiratory Distress Syndrome",
+                              "Covid19"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000004194",
+                              "D000010335",
+                              "D000008171",
+                              "D000012140",
+                              "D000012120",
+                              "D000007235",
+                              "D000007232",
+                              "D000055370"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Disease",
+                              "Pathologic Processes",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Respiration Disorders",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Lung Injury"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC01",
+                              "BC08",
+                              "All",
+                              "BC23",
+                              "BC16",
+                              "BC26",
+                              "BXS",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT04524962"
+                        ]
+                  }
+            ]
+      }
+}

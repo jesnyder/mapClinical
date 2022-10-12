@@ -1,0 +1,133 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal patient-derived",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Lower Dose MSC",
+                              "Higher Dose MSC"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Two MSC infusions of 2.5x10^5 cells/kg at time zero and three months; single kidney, intra-arterial delivery",
+                              "Two MSC infusions of 5.0x10^5 cells/kg at time zero and three months; single kidney, intra-arterial delivery"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous adipose-derived mesenchymal stem/stromal cells (MSC) Lower Dose",
+                              "Autologous adipose-derived mesenchymal stem/stromal cells (MSC) Higher Dose"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03840343"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "Kabuki syndrome/ unaffected parents"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "The intervention includes primary cultured cells, reprograming them into mesenchymal stem cells and CRISPR/Case9 gene therapy treatment on patients' cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Intervention on primary cultured cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Genetic"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03855631"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Co-incubation of patient-derived whole blood samples with mesenchymal stem cell derived exosomes and read-out of biomarkers, RNA and immune phenotypes after 24h."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Application of exosomes in a whole blood assay"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05191381"
+                        ]
+                  }
+            ]
+      }
+}

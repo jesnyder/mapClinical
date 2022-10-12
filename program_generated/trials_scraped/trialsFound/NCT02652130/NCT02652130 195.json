@@ -1,0 +1,63 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02652130",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "MaximumAge",
+                  "MinimumAge",
+                  "NCTId",
+                  "NCTIdAlias",
+                  "OfficialTitle",
+                  "OrgClass",
+                  "OrgFullName",
+                  "OrgStudyId",
+                  "OrgStudyIdDomain",
+                  "OrgStudyIdLink",
+                  "OrgStudyIdType",
+                  "OtherEventAssessmentType",
+                  "OtherEventNotes",
+                  "OtherEventOrganSystem",
+                  "OtherEventSourceVocabulary"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "MaximumAge": [
+                              "17 Years"
+                        ],
+                        "MinimumAge": [
+                              "2 Months"
+                        ],
+                        "NCTId": [
+                              "NCT02652130"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Safety Follow-up Through 180 Days of Treatment With Remestemcel-L in Study MSB-GVHD001 in Pediatric Patients Who Have Failed to Respond to Steroid Treatment for Acute GVHD"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Mesoblast, Ltd."
+                        ],
+                        "OrgStudyId": [
+                              "MSB-GVHD002"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  }
+            ]
+      }
+}

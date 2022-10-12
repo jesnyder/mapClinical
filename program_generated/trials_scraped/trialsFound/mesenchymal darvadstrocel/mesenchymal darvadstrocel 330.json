@@ -1,0 +1,86 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal darvadstrocel",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "StudyFirstSubmitQCDate",
+                  "StudyPopulation",
+                  "StudyType",
+                  "SubmissionMCPReleaseN",
+                  "SubmissionReleaseDate",
+                  "SubmissionResetDate",
+                  "SubmissionUnreleaseDate",
+                  "TargetDuration",
+                  "UnpostedEventDate",
+                  "UnpostedEventType",
+                  "UnpostedResponsibleParty",
+                  "VersionHolder",
+                  "WhyStopped",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "StudyFirstSubmitQCDate": [
+                              "January 13, 2022"
+                        ],
+                        "StudyPopulation": [
+                              "Patiens with perianal Crohn\u00b4s Disease who do not respond to current therapies."
+                        ],
+                        "StudyType": [
+                              "Observational"
+                        ],
+                        "SubmissionMCPReleaseN": [],
+                        "SubmissionReleaseDate": [],
+                        "SubmissionResetDate": [],
+                        "SubmissionUnreleaseDate": [],
+                        "TargetDuration": [
+                              "2 Years"
+                        ],
+                        "UnpostedEventDate": [],
+                        "UnpostedEventType": [],
+                        "UnpostedResponsibleParty": [],
+                        "VersionHolder": [
+                              "October 10, 2022"
+                        ],
+                        "WhyStopped": [],
+                        "NCTId": [
+                              "NCT05210309"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "StudyFirstSubmitQCDate": [
+                              "April 3, 2022"
+                        ],
+                        "StudyPopulation": [
+                              "14 patients with Crohn's disease and complex fistula got enrolled in this study."
+                        ],
+                        "StudyType": [
+                              "Observational"
+                        ],
+                        "SubmissionMCPReleaseN": [],
+                        "SubmissionReleaseDate": [],
+                        "SubmissionResetDate": [],
+                        "SubmissionUnreleaseDate": [],
+                        "TargetDuration": [],
+                        "UnpostedEventDate": [],
+                        "UnpostedEventType": [],
+                        "UnpostedResponsibleParty": [],
+                        "VersionHolder": [
+                              "October 10, 2022"
+                        ],
+                        "WhyStopped": [],
+                        "NCTId": [
+                              "NCT05322057"
+                        ]
+                  }
+            ]
+      }
+}

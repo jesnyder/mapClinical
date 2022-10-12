@@ -1,0 +1,90 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03912480",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "To evaluate the safety and efficacy of Stem cells from human exfoliated teeth transplantation in patients with Islet function decreased significantly to provides scientific basis for further clinical studies to verify the safety and efficacy. On the basis of maintaining the original treatment, intravenous drip of dental pulp mesenchymal stem cells."
+                        ],
+                        "BriefTitle": [
+                              "Stem Cells From Human Exfoliated Teeth in Treatment of Diabetic Patients With Significantly Reduced Islet Function"
+                        ],
+                        "CentralContactEMail": [
+                              "qxinyi1220@163.com"
+                        ],
+                        "CentralContactName": [
+                              "Qin Huang, Doctor"
+                        ],
+                        "CentralContactPhone": [
+                              "13818333125"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "March 31, 2021"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Type1diabetes"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000003920",
+                              "D000044882",
+                              "D000008659",
+                              "D000004700",
+                              "D000001327",
+                              "D000007154"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Diabetes Mellitus",
+                              "Glucose Metabolism Disorders",
+                              "Metabolic Diseases",
+                              "Endocrine System Diseases",
+                              "Autoimmune Diseases",
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC18",
+                              "BC19",
+                              "All",
+                              "BC20"
+                        ],
+                        "NCTId": [
+                              "NCT03912480"
+                        ]
+                  }
+            ]
+      }
+}

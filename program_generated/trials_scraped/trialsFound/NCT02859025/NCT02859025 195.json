@@ -1,0 +1,59 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02859025",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "MaximumAge",
+                  "MinimumAge",
+                  "NCTId",
+                  "NCTIdAlias",
+                  "OfficialTitle",
+                  "OrgClass",
+                  "OrgFullName",
+                  "OrgStudyId",
+                  "OrgStudyIdDomain",
+                  "OrgStudyIdLink",
+                  "OrgStudyIdType",
+                  "OtherEventAssessmentType",
+                  "OtherEventNotes",
+                  "OtherEventOrganSystem",
+                  "OtherEventSourceVocabulary"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "MaximumAge": [],
+                        "MinimumAge": [],
+                        "NCTId": [
+                              "NCT02859025"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Lateral Ramus Cortical Bone Plate in Alveolar Cleft Osteoplasty: Concomitant Use of Buccal Fat Pad Derived Cells and Autogenous Bone in a Preliminary Study"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "Shahid Beheshti University of Medical Sciences"
+                        ],
+                        "OrgStudyId": [
+                              "sbmu9221"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  }
+            ]
+      }
+}

@@ -1,0 +1,98 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03913910",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Fistula",
+                              "Perianal Fistula"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M7684",
+                              "M13997",
+                              "M21672",
+                              "M9598",
+                              "M17768",
+                              "M8035",
+                              "M6407",
+                              "M9596",
+                              "M13996"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Fistula",
+                              "Rectal Fistula",
+                              "Pathological Conditions, Anatomical",
+                              "Intestinal Fistula",
+                              "Digestive System Fistula",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Intestinal Diseases",
+                              "Rectal Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000012003",
+                              "D000005402"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Rectal Fistula",
+                              "Fistula"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Case-Control"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT03913910"
+                        ]
+                  }
+            ]
+      }
+}

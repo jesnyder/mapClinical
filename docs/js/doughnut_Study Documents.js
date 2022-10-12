@@ -15,11 +15,11 @@ const config_Study Documents = {
             {
                 "label": "all",
                 "data": [
-                    40578,
-                    21778,
+                    41797,
+                    23186,
                     3135,
                     385,
-                    31,
+                    96,
                     82
                 ],
                 "backgroundColor": [

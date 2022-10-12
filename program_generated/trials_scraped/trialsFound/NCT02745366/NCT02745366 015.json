@@ -1,0 +1,65 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02745366",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "The combination of BFPSC+FDBA+PRF is utilized in cortical tenting technique with block graft obtained from lateral ramus for posterior mandible augmentation procedure.",
+                              "The combination of FDBA+PRF is utilized in cortical tenting technique with block graft obtained from lateral ramus for posterior mandible augmentation procedure"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Procedure: BFPSC+FDBA+PRF",
+                              "Procedure: FDBA+PRF"
+                        ],
+                        "ArmGroupLabel": [
+                              "BFPSC+",
+                              "BFPSC-"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02745366"
+                        ]
+                  }
+            ]
+      }
+}

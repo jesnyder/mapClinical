@@ -1,0 +1,61 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02742857",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "FlowRecruitmentDetails",
+                  "FlowTypeUnitsAnalyzed",
+                  "Gender",
+                  "GenderBased",
+                  "GenderDescription",
+                  "HasExpandedAccess",
+                  "HealthyVolunteers",
+                  "IPDSharing",
+                  "IPDSharingAccessCriteria",
+                  "IPDSharingDescription",
+                  "IPDSharingInfoType",
+                  "IPDSharingTimeFrame",
+                  "IPDSharingURL",
+                  "InterventionAncestorId",
+                  "InterventionAncestorTerm",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "FlowRecruitmentDetails": [],
+                        "FlowTypeUnitsAnalyzed": [],
+                        "Gender": [
+                              "All"
+                        ],
+                        "GenderBased": [],
+                        "GenderDescription": [],
+                        "HasExpandedAccess": [
+                              "No"
+                        ],
+                        "HealthyVolunteers": [
+                              "Accepts Healthy Volunteers"
+                        ],
+                        "IPDSharing": [
+                              "Yes"
+                        ],
+                        "IPDSharingAccessCriteria": [],
+                        "IPDSharingDescription": [],
+                        "IPDSharingInfoType": [],
+                        "IPDSharingTimeFrame": [],
+                        "IPDSharingURL": [],
+                        "InterventionAncestorId": [],
+                        "InterventionAncestorTerm": [],
+                        "NCTId": [
+                              "NCT02742857"
+                        ]
+                  }
+            ]
+      }
+}

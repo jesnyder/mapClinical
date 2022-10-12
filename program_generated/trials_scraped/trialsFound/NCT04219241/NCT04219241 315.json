@@ -1,0 +1,68 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04219241",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "SeriousEventNotes",
+                  "SeriousEventOrganSystem",
+                  "SeriousEventSourceVocabulary",
+                  "SeriousEventStatsGroupId",
+                  "SeriousEventStatsNumAffected",
+                  "SeriousEventStatsNumAtRisk",
+                  "SeriousEventStatsNumEvents",
+                  "SeriousEventTerm",
+                  "StartDate",
+                  "StartDateType",
+                  "StatusVerifiedDate",
+                  "StdAge",
+                  "StudyFirstPostDate",
+                  "StudyFirstPostDateType",
+                  "StudyFirstSubmitDate",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "SeriousEventNotes": [],
+                        "SeriousEventOrganSystem": [],
+                        "SeriousEventSourceVocabulary": [],
+                        "SeriousEventStatsGroupId": [],
+                        "SeriousEventStatsNumAffected": [],
+                        "SeriousEventStatsNumAtRisk": [],
+                        "SeriousEventStatsNumEvents": [],
+                        "SeriousEventTerm": [],
+                        "StartDate": [
+                              "February 10, 2020"
+                        ],
+                        "StartDateType": [
+                              "Actual"
+                        ],
+                        "StatusVerifiedDate": [
+                              "June 2021"
+                        ],
+                        "StdAge": [
+                              "Adult",
+                              "Older Adult"
+                        ],
+                        "StudyFirstPostDate": [
+                              "January 7, 2020"
+                        ],
+                        "StudyFirstPostDateType": [
+                              "Actual"
+                        ],
+                        "StudyFirstSubmitDate": [
+                              "December 11, 2019"
+                        ],
+                        "NCTId": [
+                              "NCT04219241"
+                        ]
+                  }
+            ]
+      }
+}

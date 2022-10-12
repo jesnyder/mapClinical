@@ -1,0 +1,63 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01366911",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This is a pilot study to provide preliminary data of the association between bone mineral denity adjacent to acetabular implants, as measured by quanitative computed tomography (QCT), at least 2 years post Total Hip Arthoplasty (THA) surgery with Mesechymal stem cell assays, obtained at time of surgery, and to begin to evaluate if stem cells can predict orthopaedic surgical outcomes."
+                        ],
+                        "BriefTitle": [
+                              "Stem Cells Predicting Orthopedic Outcomes"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "January 10, 2014"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Hip Arthroplasty"
+                        ],
+                        "ConditionAncestorId": [],
+                        "ConditionAncestorTerm": [],
+                        "ConditionBrowseBranchAbbrev": [],
+                        "NCTId": [
+                              "NCT01366911"
+                        ]
+                  }
+            ]
+      }
+}

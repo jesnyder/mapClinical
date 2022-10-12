@@ -1,0 +1,83 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04557514",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "Best method in management of facial burn scar"
+                        ],
+                        "BriefTitle": [
+                              "Comparative Study Between Fat Injection And Platelet Rich Plasma In Post Burn Facial Scar"
+                        ],
+                        "CentralContactEMail": [
+                              "abdelrahmanshehata084@gmail.com",
+                              "Yossef66@aun.edu.eg"
+                        ],
+                        "CentralContactName": [
+                              "abdelrahman mostafa shehata, doctor",
+                              "youssef saleh, professor"
+                        ],
+                        "CentralContactPhone": [
+                              "01020905498",
+                              "01001166118"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "December 1, 2023"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Burn Scar"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000014947"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Wounds and Injuries"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC26",
+                              "All",
+                              "BC23"
+                        ],
+                        "NCTId": [
+                              "NCT04557514"
+                        ]
+                  }
+            ]
+      }
+}

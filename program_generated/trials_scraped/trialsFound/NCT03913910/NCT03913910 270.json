@@ -1,0 +1,67 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03913910",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [
+                              "No"
+                        ],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 31, 2019"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Closing of the fistula tract (internal and external orifice)"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Healing"
+                        ],
+                        "NCTId": [
+                              "NCT03913910"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,69 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02859025",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "PrimaryOutcomeTimeFrame",
+                  "ReferenceCitation",
+                  "ReferencePMID",
+                  "ReferenceType",
+                  "RemovedCountry",
+                  "ResponsiblePartyInvestigatorAffiliation",
+                  "ResponsiblePartyInvestigatorFullName",
+                  "ResponsiblePartyInvestigatorTitle",
+                  "ResponsiblePartyOldNameTitle",
+                  "ResponsiblePartyOldOrganization",
+                  "ResponsiblePartyType",
+                  "ResultsFirstPostDate",
+                  "ResultsFirstPostDateType",
+                  "ResultsFirstPostedQCCommentsDate",
+                  "ResultsFirstPostedQCCommentsDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "PrimaryOutcomeTimeFrame": [
+                              "before the surgery and 6 months after the surgery"
+                        ],
+                        "ReferenceCitation": [
+                              "Khojasteh A, Kheiri L, Behnia H, Tehranchi A, Nazeman P, Nadjmi N, Soleimani M. Lateral Ramus Cortical Bone Plate in Alveolar Cleft Osteoplasty with Concomitant Use of Buccal Fat Pad Derived Cells and Autogenous Bone: Phase I Clinical Trial. Biomed Res Int. 2017;2017:6560234. doi: 10.1155/2017/6560234. Epub 2017 Dec 12."
+                        ],
+                        "ReferencePMID": [
+                              "29379800"
+                        ],
+                        "ReferenceType": [
+                              "derived"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "Shahid Beheshti University of Medical Sciences"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Arash Khojasteh"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Associate professor"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT02859025"
+                        ]
+                  }
+            ]
+      }
+}

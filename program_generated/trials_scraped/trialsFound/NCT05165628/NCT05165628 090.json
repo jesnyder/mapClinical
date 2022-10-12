@@ -1,0 +1,61 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT05165628",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAdults at least 18 years of age up to 80 years of age, inclusive.\nHave a current diagnosis of diabetes mellitus (DM)\nWith at least one non-healing cutaneous ulcer on the foot or the lower legs\nWith ankle brachial index (ABI) \u2265 0.4 and/or toe pressure >30 mmHg on the limb with the study ulcer.\nParticipant co-morbidities are adequately managed, and the participant has a life expectancy of at least 6 months as determined by the Investigator based on medical history, physical examination, vital signs, or clinical laboratory tests, etc.\nA negative pregnancy test, (i.e. for female participants with childbearing potential).\nWilling to comply with birth control measures, to prevent female participants becoming pregnant for six months following administration of the study treatment.\nAble to follow the Investigator's instruction on ulcer care (in the opinion of the Investigator).\nAgrees to provide written informed consent.\n\nExclusion Criteria:\n\nPlanned vascular surgery, angioplasty, thrombolysis or amputation of the affected limb in the next six months.\nPregnant or breastfeeding.\nActive infection in the study ulcer.\nAny sign of osteomyelitis associated with the study ulcer.\nStudy ulcer extends to bone or periosteum (ulcers that reach a ligament, joint capsule, fascia, or tendon are not excluded).\nKnown autoimmune disease other than diabetes, including but not limited to lupus erythematosus, multiple sclerosis.\nTreatment with systemic immunosuppressants within 90 days of screening.\nActive malignancy or history of malignancy within five years prior to screening (with the exception of a past history of basal or squamous cell carcinomas).\nSerum GGT, AST or ALT > 5 \u00d7 upper limit of the normal range (ULN).\n. Known history of HIV infection\nPrior administration of any cell-based treatment to the limb affected by the study ulcer.\nReceived any investigational research agent within 60 days or within five half-lives of the last treatment (if the half-life of the investigational agent is known to be longer than 12 days) prior to the planned initiation of study treatment.\nAny other medical condition or laboratory abnormality judged as clinically significant by the Investigator or study Medical Monitor which could confound the evaluation of the trial treatment.\nWith history of sensitivity to materials of bovine, porcine origin, or human serum albumin."
+                        ],
+                        "EnrollmentCount": [
+                              "30"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT05165628"
+                        ]
+                  }
+            ]
+      }
+}

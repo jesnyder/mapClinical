@@ -1,0 +1,62 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT00512434",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Control in arm fields",
+                              "IMOCA"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Nail or external fixator Intervention 'Osteosynthesis'"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Osteosynthesis"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00512434"
+                        ]
+                  }
+            ]
+      }
+}

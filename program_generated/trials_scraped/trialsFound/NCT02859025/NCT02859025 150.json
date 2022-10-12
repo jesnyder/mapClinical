@@ -1,0 +1,69 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02859025",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "A:Iiac",
+                              "B:MSCs+LRCP",
+                              "C:MSCs+liac"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Anterior iliac crest spongy bone filled the defects followed by coverage with collagen membrane.",
+                              "ramus cortical bone cage created a protected healing space and BFPSCs cultured over NBBM were put over the graft.",
+                              "Anterior iliac crest spongy bone filled the defects and BFPSCs cultured over NBBM were put over the spongy bone."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "anterior iliac crest graft",
+                              "lateral ramus cortical bone+BFPSC+NBBM",
+                              "anterior iliac crest graft+BFPSC+NBBM"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02859025"
+                        ]
+                  }
+            ]
+      }
+}

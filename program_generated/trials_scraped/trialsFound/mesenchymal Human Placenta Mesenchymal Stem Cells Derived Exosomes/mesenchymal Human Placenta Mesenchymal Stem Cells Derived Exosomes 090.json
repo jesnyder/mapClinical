@@ -1,0 +1,95 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal Human Placenta Mesenchymal Stem Cells Derived Exosomes",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Investigator",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAge between 18-70 years old\nOccurrence of complex perianal fistula\nInformed consent\n\nExclusion Criteria:\n\nActive inflammatory bowel disease\nSynchronous perianal abscess\nAlcohol,narcotic and stimulant consumption\nHaving active Hepatitis B,C,HIV or TB\nPeregnancy and lactation\nUncontrolled diabetes mellitus\nEvidence of surgical contraindication\nPsychological disorders and noncooperative patient"
+                        ],
+                        "EnrollmentCount": [
+                              "80"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT05402748"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [
+                              "All patients who were enrolled in our study had refractory disease. These patients were previously treated and had unhealed cryptoglandular fistulas. The patients who were enrolled in this study were those who did not make any improvement after administration of 10 mg/kg of intravenous infliximab and seton placement. Patients were excluded if they had anti-TNF \u03b1 treatment for less than six months, had no prior surgical interventions, or had a history of malignancies or immunodeficiency diseases. Pregnant patients were also excluded.\n\nMSCs in third passage 3 were cultured in T175 flasks with D-MEM F12 culture medium (Gibco) supplemented with Pen/Strep, Strep, and 10 % exosome depleted FBS(Gibco) for 48 hours at 37 \u00b0C with a CO2 concentration of 5% at and humidity of 90 % humidity. Under 5% CO2. The conditioned media of MSCs (CM) were collected and centrifuged for 10 min at 400\u00d7g to eliminate suspended cells, 30 min at 2500\u00d7g to remove debris and apoptotic bodies, and then ultracentrifuged for 120 min at 100000\u00d7g (Beckman, USA). The supernatants were collected and further ultracentrifuged for 120 min at 100000\u00d7g. Then the pellets containing exosomes were dissolved in PBS.\n\nTo verify The production of MSC- derived exosomes, vesicle protein content was measured by Bradford colorimetric assay (BCA) from 100 ml of CM. The size distribution of MSC- derived exosomes were determined by dynamic light scattering (DLS). Moreover, to assess the expression of CD9, CD63 and CD81 were confirmed with flow cytometry and western blot., FITC mouse anti-CD63 (BD Pharmingen) and PE mouse anti-CD81 (BD Pharmingen) were used as reagents. Furthermore, the morphology and size of isolated exosomes were assessed using TEM by the previously set protocol in the previous study.\n\nThe procedure was undertaken in the operation room, and the patients were NPO 6 hours before the operation with intravenous sedation and oxygen supplementation with a mask. The patients, placed were placed in a lithotomy position. The external fistula opening was inspected, the tract was palpated, and using an Eisenhammer Retractor, the internal orifice was exposed seen. The lot was irrigated with saline several times using a small catheter to clear the pus and fecal material. After irrigation, a flexible fistula probe was inserted into the tract. Using the probe as a guide, we injected 5 mL of exosome solution into the tissue surrounding the lot. The injection depth was about 2about 2-3 mm of the soft tissue and sphincters of the anus. After the injection, the tract probe was extracted, the patients were under observation in the operation recovery rooming room recovery for 3 hours, and vital signs were monitored. The patients were then transferred to the surgery ward and were observed for 48 hours. The patients were again examined under sedation in the operation room for further evaluation six months after injection."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAge between 18-70 years old\nOccurrence of complex perianal fistula\nInformed consent\n\nExclusion Criteria:\n\nActive inflammatory bowel disease\nSynchronous perianal abscess\nAlcohol,narcotic and stimulant consumption\nHaving active Hepatitis B,C,HIV or TB\nPeregnancy and lactation\nUncontrolled diabetes mellitus\nEvidence of surgical contraindication\nPsychological disorders and noncooperative patient"
+                        ],
+                        "EnrollmentCount": [
+                              "80"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT05499156"
+                        ]
+                  }
+            ]
+      }
+}

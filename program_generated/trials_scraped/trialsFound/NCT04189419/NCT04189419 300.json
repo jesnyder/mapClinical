@@ -1,0 +1,95 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04189419",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "SOFA score is used to track a person's status during the stay in an intensive care unit (ICU) to determine the extent of a person's organ function or rate of failure. The score is based on six different scores, one each for the respiratory, cardiovascular, hepatic, coagulation, renal and neurological systems.",
+                              "The modified marshall score is 0 or 1 for all organ in respiratory, cardiovascular and renal.",
+                              "Number of days for stay duration at ICU. The duration is from the day of hospitalization to day of discharge.",
+                              "CTSI is the sum of Balthazar grade and necrosis score. The scoring is defined by evaluation of abdominal Computed Tomography(CT).",
+                              "Pancreatic complication will be evaluated by abdominal CT.",
+                              "Requirement of drainage due to intra-abdominal catastrophe or necrosis and surgery due to hemorrhage, perforation or abdominal compartment syndrome will be evaluated until Day 28.",
+                              "The even of infection such as infected pancreatic necrosis, bacteremia and pneumonia. The several tests for diagnosis can be conducted per investigator's decision."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Percentage of subjects whose organ failure was resolved at 3 days, 7 days, 14 days and 28 days",
+                              "The change from baseline in modified Marshall score at each assessment point up to Day 28",
+                              "The change from baseline in sequential organ failure assessment (SOFA) at each assessment point up to Day 28",
+                              "Duration of Systemic inflammatory response syndrome (SIRS)",
+                              "Time to resolution of organ failure",
+                              "The change from baseline value of C-Reactive Protein(CRP) which is inflammatory marker on Day 1, 2, 3, 5, 7, and 14",
+                              "The change from baseline value of Tumor Necrosis Factor(TNF)-\u03b1 which is inflammatory marker on Day 1, 2, 3, 5, 7, and 14",
+                              "The change from baseline value of interleukin(IL)-6 which is inflammatory marker on Day 1, 2, 3, 5, 7, and 14",
+                              "The change from baseline value of interleukin(IL)-8 which is inflammatory marker on Day 1, 2, 3, 5, 7, and 14",
+                              "The change from baseline value of lymphocyte count ratio which is inflammatory marker on Day 1, 2, 3, 5, 7, and 14",
+                              "Duration of intensive care unit (ICU) stay",
+                              "The change from baseline in Computed Tomography Severity Index(CTSI) on Day 28",
+                              "Incidence of pancreatic complication",
+                              "Requirement of drainage or surgery",
+                              "Rate of infection",
+                              "Mortality on Day 28 and 90"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Day 3, Day 7, Day 14 and Day 28 or the day of discharge",
+                              "Day 1, Day 2, Day 3, Day 4, Day 5, Day 6, Day 7, Day 14, Day 21, Day 28",
+                              "Day 1, Day 2, Day 3, Day 4, Day 5, Day 6, Day 7, Day 14, Day 21, Day 28 or the day of discharge",
+                              "Day 0, Day 1, Day 2, Day 3, Day 4, Day 5, Day 6, Day 7, Day 14, Day 21, Day 28 or the day of discharge",
+                              "Day 1, Day 2, Day 3, Day 4, Day 5, Day 6, Day 7, Day 14, Day 21, Day 28",
+                              "Day 1, Day 2, Day 3, Day 5, Day 7, Day 14",
+                              "Day 1, Day 2, Day 3, Day 5, Day 7, Day 14",
+                              "Day 1, Day 2, Day 3, Day 5, Day 7, Day 14",
+                              "Day 1, Day 2, Day 3, Day 5, Day 7, Day 14",
+                              "Day 1, Day 2, Day 3, Day 5, Day 7, Day 14",
+                              "Day 28 or the day of discharge",
+                              "Day 28 or the day of discharge",
+                              "Day 28 or the day of discharge",
+                              "Day 28 or the day of discharge",
+                              "Day 28 or the day of discharge",
+                              "Day 28 or the day of discharge and Day 90"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04189419"
+                        ]
+                  }
+            ]
+      }
+}

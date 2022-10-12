@@ -1,0 +1,81 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04397796",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "BM-Allo.MSC",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M85407"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Plasma-lyte 148"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "BM-Allo.MSC for Infusion, is manufactured from normal donor derived bone marrow product and are phenotypically CD73+, CD90+, CD105+, and negative for CD14-, CD34-, CD45-, HLA-DR-.",
+                              "plasmalyte and human albumin"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "BM-Allo.MSC",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04397796"
+                        ]
+                  }
+            ]
+      }
+}

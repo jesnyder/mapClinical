@@ -1,0 +1,69 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04132076",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [
+                              "No"
+                        ],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "March 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Foot and Ankle Outcome Score (FAOS) is a patient reported instrument that may be useful for assessing changes in foot/ankle pathology over time, with or without treatment. It assesses patient pain (9 items), other symptoms (7 items), function in daily living (17 items), function in sport and recreation (5 items), and foot/ankle related quality of life (4 items). Scores range from 0 to 100 with a score of 0 indicating the worst possible foot/ankle symptoms and 100 indicating no foot/ankle symptoms.",
+                              "EQ-5D is a standardized instrument for measuring generic health status. Health status is measured in terms of five dimensions (5D); mobility, self-care, usual activities, pain/discomfort, and anxiety/depression. The scale used in the health state description part has three-level; having no problems, having some or moderate problems, being unable to do/having extreme problems. Rated level can be coded as a number 1, 2, or 3, which indicates having no problems for 1, having some problems for 2, and having extreme problems for 3. As a result, a person's health status can be defined by a 5-digit number, ranging from 11111 (having no problems in all dimensions) to 33333 (having extreme problems in all dimensions).",
+                              "Tegner activity score is a graduated list of activities of daily living, recreation, and competitive sports. The patient is asked to select the level of participation that best describes their current level of activity. The score varies from 0-10. A score of 0 represents sick leave or disability pension, whereas a score of 10 corresponds to participation in national and international elite competitive sports."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "FAOS questionnaire",
+                              "EQ-5D questionnaire",
+                              "Tegner activity score"
+                        ],
+                        "NCTId": [
+                              "NCT04132076"
+                        ]
+                  }
+            ]
+      }
+}

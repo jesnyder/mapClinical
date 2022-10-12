@@ -1,0 +1,82 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02918123",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Skin and Connective Tissue Diseases",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Psoriasis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M13574",
+                              "M14826",
+                              "M18865"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Psoriasis",
+                              "Skin Diseases",
+                              "Skin Diseases, Papulosquamous"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000011565"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Psoriasis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02918123"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,71 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02079324",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Minsik Kim, M.D.",
+                              "Hyun-Tak Jin, ph.D."
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Study Director"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "September 2016"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [
+                              "MTD after GX-051 intratumoral injection"
+                        ],
+                        "NCTId": [
+                              "NCT02079324"
+                        ]
+                  }
+            ]
+      }
+}

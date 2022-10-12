@@ -1,0 +1,100 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04179760",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "SCM-AGH",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "SCM-AGH will be administrated 3 times with 2-week intervals by IV infusion to subjects at Weeks 0, 2 and 4 (Visits 2, 3 and 4).",
+                              "Placebo will be administrated 3 times with 2-week intervals by IV infusion to subjects at Weeks 0, 2 and 4 (Visits 2, 3 and 4)."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "SCM-AGH",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04179760"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Not Applicable (Observational Study)"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Not Applicable (Observational Study)"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04185584"
+                        ]
+                  }
+            ]
+      }
+}

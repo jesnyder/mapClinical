@@ -1,0 +1,92 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01270139",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "EventGroupOtherNumAtRisk",
+                  "EventGroupSeriousNumAffected",
+                  "EventGroupSeriousNumAtRisk",
+                  "EventGroupTitle",
+                  "EventsDescription",
+                  "EventsFrequencyThreshold",
+                  "EventsTimeFrame",
+                  "ExpAccTypeIndividual",
+                  "ExpAccTypeIntermediate",
+                  "ExpAccTypeTreatment",
+                  "ExpandedAccessNCTId",
+                  "ExpandedAccessStatusForNCTId",
+                  "FDAAA801Violation",
+                  "FlowAchievementComment",
+                  "FlowAchievementGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "EventGroupOtherNumAtRisk": [
+                              "42",
+                              "34",
+                              "40"
+                        ],
+                        "EventGroupSeriousNumAffected": [
+                              "8",
+                              "17",
+                              "18"
+                        ],
+                        "EventGroupSeriousNumAtRisk": [
+                              "42",
+                              "34",
+                              "40"
+                        ],
+                        "EventGroupTitle": [
+                              "Nano Group",
+                              "Ferro Group",
+                              "Stenting Control"
+                        ],
+                        "EventsDescription": [
+                              "Only parameters related to event free survival were assessed in patients who have completed the trial with the final follow-up. Some patients were excluded (64/180, a 35.6% of the intention-to-treat population) during the trial due to non-compliance, broken randomization codes or violations of the protocol."
+                        ],
+                        "EventsFrequencyThreshold": [
+                              "0"
+                        ],
+                        "EventsTimeFrame": [
+                              "12 months"
+                        ],
+                        "ExpAccTypeIndividual": [],
+                        "ExpAccTypeIntermediate": [],
+                        "ExpAccTypeTreatment": [],
+                        "ExpandedAccessNCTId": [],
+                        "ExpandedAccessStatusForNCTId": [],
+                        "FDAAA801Violation": [],
+                        "FlowAchievementComment": [
+                              "Intention-to-treat population",
+                              "Intention-to-treat population",
+                              "Intention-to-treat population",
+                              "Pre-treatment evaluable population",
+                              "Pre-treatment evaluable population",
+                              "Pre-treatment evaluable population"
+                        ],
+                        "FlowAchievementGroupId": [
+                              "FG000",
+                              "FG001",
+                              "FG002",
+                              "FG000",
+                              "FG001",
+                              "FG002",
+                              "FG000",
+                              "FG001",
+                              "FG002"
+                        ],
+                        "NCTId": [
+                              "NCT01270139"
+                        ]
+                  }
+            ]
+      }
+}

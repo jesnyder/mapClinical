@@ -1,0 +1,62 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02131077",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Investigator"
+                        ],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nOlder than 19 years.\nPatients who are diagnosed as lateral epicondylitis (Pain\u22654 of VAS during activity).\nPatients who has sustained pain more than 6 months\nPatients who lasting for pain in spite of conservative therapy\nPatients who have one lesion under ultrasonic photography\nNegative for urine beta-HCG for women of childbearing age\nPatient who is able to give written informed consent prior to study start and to comply with the study requirements\n\nExclusion Criteria:\n\nPatients who has been experienced steroid and prolotherapy or other treatment within 3 months at screening time\nPatients who have lesion size of width and length more than 1 cm using ultrasonic photography test\nPatients who were accompanied by the disease as follows: A. Arthritis of related joint to the target lesion (ex, cubital osteo- arthritis), B.Synovitis of related joint to the target lesion, C.Entrapment of related nerve to the target lesion(ex, radial tunnel syndrome), D.Generalized pain syndrome, E.Radiculopathy related to the target lesion(ex, cervical spodylosis ,cervical radicular syndrome), F.Rheumatoid arthritis, G.Previous fracture of arm causing limitations in arm function, H.Impaired sensibility, I.Paralysis\nPatients who are pregnant or breast-feeding\nPatients who have allergic or hypersensitive reaction to bovine-derived proteins or fibrin glue\nPatients who have history of fracture and dislocation at Ipsilateral upper extremity within 2 years recently\nPatients who have operation history in tendon, ligament and bone at Ipsilateral upper extremity within 2 years recently\nPatients who are unwilling to use an \"effective\" method of contraception during the study\nPatients who have a clinically relevant history of abuse of alcohol or drugs\nPatients who are considered not suitable for the study by investigator\nPatients who have experienced treatment with stem cell before this study\nPatients who currently enrolled in another investigational drug study within 30 days of screening"
+                        ],
+                        "EnrollmentCount": [
+                              "30"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT02131077"
+                        ]
+                  }
+            ]
+      }
+}

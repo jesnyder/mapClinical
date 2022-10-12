@@ -1,0 +1,63 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT01771913",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "MaximumAge",
+                  "MinimumAge",
+                  "NCTId",
+                  "NCTIdAlias",
+                  "OfficialTitle",
+                  "OrgClass",
+                  "OrgFullName",
+                  "OrgStudyId",
+                  "OrgStudyIdDomain",
+                  "OrgStudyIdLink",
+                  "OrgStudyIdType",
+                  "OtherEventAssessmentType",
+                  "OtherEventNotes",
+                  "OtherEventOrganSystem",
+                  "OtherEventSourceVocabulary"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "MaximumAge": [
+                              "70 Years"
+                        ],
+                        "MinimumAge": [
+                              "20 Years"
+                        ],
+                        "NCTId": [
+                              "NCT01771913"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Immunophenotyping of Fresh Stromal Vascular Fraction From Adipose Derived Stem Cells (ADSC) Enriched Fat Grafts for Refinements of Reconstructed Breasts"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "University of Sao Paulo"
+                        ],
+                        "OrgStudyId": [
+                              "boosteredADSCs"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  }
+            ]
+      }
+}

@@ -1,0 +1,63 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02131077",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "MaximumAge",
+                  "MinimumAge",
+                  "NCTId",
+                  "NCTIdAlias",
+                  "OfficialTitle",
+                  "OrgClass",
+                  "OrgFullName",
+                  "OrgStudyId",
+                  "OrgStudyIdDomain",
+                  "OrgStudyIdLink",
+                  "OrgStudyIdType",
+                  "OtherEventAssessmentType",
+                  "OtherEventNotes",
+                  "OtherEventOrganSystem",
+                  "OtherEventSourceVocabulary"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "MaximumAge": [
+                              "90 Years"
+                        ],
+                        "MinimumAge": [
+                              "19 Years"
+                        ],
+                        "NCTId": [
+                              "NCT02131077"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Multi-center, Randomized, Placebo-controlled, Double-blind, Parallel-group, Phase I/II Clinical Study to Evaluate Safety and Efficacy of Allogeneic Adipose-derived Stem Cells for the Treatment of Lateral Epicondylitis"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Anterogen Co., Ltd."
+                        ],
+                        "OrgStudyId": [
+                              "ALLO-ASC-TI-201"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  }
+            ]
+      }
+}

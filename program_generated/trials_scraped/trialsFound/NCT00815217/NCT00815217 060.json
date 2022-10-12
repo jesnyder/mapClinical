@@ -1,0 +1,86 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT00815217",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "A prospective, single blinded randomized clinical study will be performed to determine if the injection of lipoaspirate into diabetic or venous stasis wounds promotes wound healing or wound closure at a faster rate than conventional treatment."
+                        ],
+                        "BriefTitle": [
+                              "The Role of Lipoaspirate Injection in the Treatment of Diabetic Lower Extremity Wounds and Venous Stasis Ulcers"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "February 2010"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Diabetic Wounds",
+                              "Venous Stasis Wounds"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000014648",
+                              "D000014652",
+                              "D000002318",
+                              "D000007871",
+                              "D000012883",
+                              "D000012871"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Varicose Veins",
+                              "Vascular Diseases",
+                              "Cardiovascular Diseases",
+                              "Leg Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC18",
+                              "BC19",
+                              "All",
+                              "BC26",
+                              "BC14",
+                              "BC17",
+                              "BC23"
+                        ],
+                        "NCTId": [
+                              "NCT00815217"
+                        ]
+                  }
+            ]
+      }
+}

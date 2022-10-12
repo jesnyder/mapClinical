@@ -1,0 +1,76 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01860495",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "One of the most important elements suggested to be provided through membrane perforations to augment regeneration are cell released growth factors from the overlying periosteal and gingival cells. A direct correlation could exist between the number of such cells and their available released growth factors. To test this assumption, this study was designed to evaluate levels of bone morphogenetic protein-2 in gingival crevicular fluid (GCF) during the early stages of healing for sites treated by MPM compared to that of the occlusive barrier membranes."
+                        ],
+                        "BriefTitle": [
+                              "Gingival Crevicular Fluid Bone Morphogenetic Protein - 2 Release Profile Following the Use of Perforated Membrane"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "December 2012"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Periodontal Pocket"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010518",
+                              "D000010510",
+                              "D000009059",
+                              "D000009057"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Periodontitis",
+                              "Periodontal Diseases",
+                              "Mouth Diseases",
+                              "Stomatognathic Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC07",
+                              "All"
+                        ],
+                        "NCTId": [
+                              "NCT01860495"
+                        ]
+                  }
+            ]
+      }
+}

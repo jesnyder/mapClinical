@@ -1,0 +1,100 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal AVB-114",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "A Phase II study to assess the safety and efficacy of AVB-114 in treatment of complex Crohn's perianal fistulas in subjects with quiescent rectal disease and whose fistula has failed to respond to biologic or conventional therapy. Combined remission of treated perianal fistula in the investigational treatment arm will be compared to a standard of care control arm.\n\nThe study has 2 parts:\n\nPart 1: All required study visits for subjects who initially receive study treatment and those who receive standard of care therapy (control arm).\n\nPart 2: Subjects who are enrolled in the control arm may receive treatment with AVB-114 following week 36. Those subjects then will be followed as specified in the clinical protocol."
+                        ],
+                        "BriefTitle": [
+                              "Seeded Cells on Matrix Plug Treating Crohn's Perianal Fistulas (STOMP-II)"
+                        ],
+                        "CentralContactEMail": [
+                              "STOMP2PM@alimentiv.com"
+                        ],
+                        "CentralContactName": [
+                              "Alimentiv Inc"
+                        ],
+                        "CentralContactPhone": [
+                              "(226) 270-7566"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "Alimentiv Inc."
+                        ],
+                        "CompletionDate": [
+                              "January 2025"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Perianal Fistula",
+                              "Crohn's Disease"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000015212",
+                              "D000005759",
+                              "D000005767",
+                              "D000004066",
+                              "D000007410",
+                              "D000020763",
+                              "D000007412",
+                              "D000016154",
+                              "D000012002"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Inflammatory Bowel Diseases",
+                              "Gastroenteritis",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Intestinal Diseases",
+                              "Pathological Conditions, Anatomical",
+                              "Intestinal Fistula",
+                              "Digestive System Fistula",
+                              "Rectal Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC06",
+                              "All",
+                              "BC23"
+                        ],
+                        "NCTId": [
+                              "NCT04847739"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,63 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT00225095",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "MaximumAge",
+                  "MinimumAge",
+                  "NCTId",
+                  "NCTIdAlias",
+                  "OfficialTitle",
+                  "OrgClass",
+                  "OrgFullName",
+                  "OrgStudyId",
+                  "OrgStudyIdDomain",
+                  "OrgStudyIdLink",
+                  "OrgStudyIdType",
+                  "OtherEventAssessmentType",
+                  "OtherEventNotes",
+                  "OtherEventOrganSystem",
+                  "OtherEventSourceVocabulary"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "MaximumAge": [
+                              "60 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT00225095"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Phase I/II, Randomized, Controlled, Double Blind, Study of Chondrogen - Adult Universal Cell Delivered by Intra-Articular Injection Following Meniscectomy in Patients 18-60 Years"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "Mesoblast, Ltd."
+                        ],
+                        "OrgStudyId": [
+                              "Osiris 550"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  }
+            ]
+      }
+}

@@ -1,0 +1,75 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02396056",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Occlusive Membrane (OM)",
+                              "Modified Perforated Membrane (MPM)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M11052"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Mitogens"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Biomend Extend is a resorbable collagen membrane used for guided tissue and bone regeneration.",
+                              "Biomend Extend is a resorbable collagen membrane used for guided tissue and bone regeneration. This membrane will be perforated to allow the passage of cells and growth factors that can potentially enhanced bone augmentation."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "BioMend Extend",
+                              "Modified BioMend Extend"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02396056"
+                        ]
+                  }
+            ]
+      }
+}

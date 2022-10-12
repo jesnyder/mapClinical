@@ -8,7 +8,7 @@ getreqs:
 
 
 .PHONY: pythonanalysis
-pythonanalysis: 
+pythonanalysis:
 	python3  user_provided/python/main.py
 
 

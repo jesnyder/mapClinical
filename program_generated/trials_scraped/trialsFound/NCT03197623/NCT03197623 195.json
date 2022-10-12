@@ -1,0 +1,63 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03197623",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "MaximumAge",
+                  "MinimumAge",
+                  "NCTId",
+                  "NCTIdAlias",
+                  "OfficialTitle",
+                  "OrgClass",
+                  "OrgFullName",
+                  "OrgStudyId",
+                  "OrgStudyIdDomain",
+                  "OrgStudyIdLink",
+                  "OrgStudyIdType",
+                  "OtherEventAssessmentType",
+                  "OtherEventNotes",
+                  "OtherEventOrganSystem",
+                  "OtherEventSourceVocabulary"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "MaximumAge": [
+                              "85 Years"
+                        ],
+                        "MinimumAge": [
+                              "20 Years"
+                        ],
+                        "NCTId": [
+                              "NCT03197623"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Phase 1, Randomized, Double-Blind, Placebo-Controlled Single and Multiple Ascending Dose Study of the Safety and Tolerability of Intravenous LLP2A-Alendronate in Adult Men and Women With Osteopenia Secondary to Glucocorticoids"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "University of California, Davis"
+                        ],
+                        "OrgStudyId": [
+                              "20161825"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  }
+            ]
+      }
+}

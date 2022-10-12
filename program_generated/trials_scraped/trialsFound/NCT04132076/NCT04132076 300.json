@@ -1,0 +1,61 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04132076",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Kellgren and Lawrence score is a common method of classifying the severity of osteoarthritis (OA) using five grades.\n\ngrade 0: no radiographic features of OA are present grade 1: doubtful joint space narrowing (JSN) and possible osteophytic lipping grade 2: definite osteophytes and possible JSN on anteroposterior weight-bearing radiograph grade 3: multiple osteophytes, definite JSN, sclerosis, possible bony deformity grade 4: large osteophytes, marked JSN, severe sclerosis and definite bony deformity"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Kellgren and Lawrence score"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "36 months after operation"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04132076"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,68 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03197623",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "LLP2A-001"
+                        ],
+                        "SecondaryIdDomain": [
+                              "UC Davis"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Other Identifier"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Fever, myalgia, nausea/vomit, headache, flu like symptoms in \u2265 2 subjects receiving LLP2A-Ale",
+                              "serum creatinine greater than 1.5 - 3.0 x baseline; greater than 1.5 - 3.0 x upper limit of normal (CTCAE v4.0) in \u2265 1 patient."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Severe infusion reactions",
+                              "Grade 2 elevated creatinine"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Duration of the study, average of 4 years",
+                              "Duration of the study, average of 4 years"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03197623"
+                        ]
+                  }
+            ]
+      }
+}

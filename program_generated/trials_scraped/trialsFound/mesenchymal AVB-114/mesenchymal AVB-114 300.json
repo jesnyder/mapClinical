@@ -1,0 +1,91 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal AVB-114",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Length of time fistula meets clinical remission definition.",
+                              "Perianal Disease Activity Index (PDAI). Possible scores range from 0-20, with a higher score indicating more severe perianal disease activity",
+                              "Short Crohn's Disease Activity Index (sCDAI). Possible scores range from 44 to >450, with a higher score representing more severe disease activity",
+                              "Euroqol 5 Dimension 5, level measure of health status (EQ-5D-5L). The scale ranges in scores from 0 to 100, with a higher score indicating a more severe health status.",
+                              "Inflammatory Bowel Disease Questionnaire (IBDQ). Possible scores range from 32-224, with a higher score indicating a better health-related quality of life.",
+                              "Days of missed work or activity and reason why will be captured.",
+                              "Number and type of healthcare resources utilized will be captured."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in proportions of subjects with fistula clinical remission between the AVB-114 and standard of care groups.",
+                              "Change in the means of durability of clinical remission between the AVB-114 and standard of care groups.",
+                              "Change in means of time to clinical remission between the AVB-114 and standard of care groups.",
+                              "Change in proportions of subjects with fistula relapse between the AVB-114 and standard of care groups.",
+                              "Change in means of time to fistula relapse between the AVB-114 and standard of care groups.",
+                              "Change in proportions of radiologic response of treated fistula between the AVB-114 and standard of care groups.",
+                              "Change in means of disease activity index scores using the Perianal Disease Activity Index (PDAI) between the AVB-114 and standard of care groups.",
+                              "Change in means of disease activity index scores using the short Crohn's Disease Activity Index (sCDAI) between the AVB-114 and standard of care groups.",
+                              "Change in means of patient quality of life assessment scores using the Euroqol 5 Diumention 5, level measure of health status (Eq-5Q-5L) between the AVB-114 and standard of care groups.",
+                              "Change in means of patient quality of life assessment scores using the Inflammatory Bowel Disease Questionnaire (IBDQ) between the AVB-114 and standard of care groups.",
+                              "Change in patient assessment of impact to daily functionality related to treated fistula between the AVB-114 and standard of care groups.",
+                              "Change in the evaluations of patient care trajectory related to treated fistula between the AVB-114 and standard of care groups.",
+                              "Change in number of adverse events between the AVB-114 and standard of care groups.",
+                              "Change in number of serious adverse events between the AVB-114 and standard of care groups."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Week 12 to Week 104",
+                              "Week 12 to Week 104",
+                              "Week 12 to Week 104",
+                              "Week 12 to Week 104",
+                              "Week 12 to Week 104",
+                              "Baseline, Week 12 to Week 52",
+                              "Baseline, Week 36",
+                              "Baseline, Week 36",
+                              "Baseline, Week 36",
+                              "Baseline, Week 36",
+                              "Baseline, Week 12 to Week 36",
+                              "Week 12 to Week 36",
+                              "Day 1 to Week 104",
+                              "Day 1 to Week 104"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04847739"
+                        ]
+                  }
+            ]
+      }
+}

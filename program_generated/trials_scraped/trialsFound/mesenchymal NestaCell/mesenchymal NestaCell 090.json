@@ -1,0 +1,66 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal NestaCell",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Care Provider",
+                              "Investigator",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [
+                              "The number of infections of COVID-19 worldwide has killed thousands and is continually rising. The novel coronavirus attacks the human body by attaching to the angiotensin-converting enzyme-2 (ACE2), a protective enzyme against lung damage. In addition, the cellular serine protease TMPRSS2 for HCoV-19 Spike protein priming is also essential for the host cell entry and spread. Coronaviruses can be deadly, in large part because they cause \"cytokine storms.\" These storms result from imbalances between pro-inflammatory and anti-inflammatory proteins called cytokines, which can cause extreme inflammation and respiratory complications. Respiratory distress kills hundreds of thousands of people each year worldwide, and hundreds of clinical trials are testing drugs to treat it.\n\nMSCs have been widely used in cell-based therapy, from basic research to clinical trials Safety and effectiveness have been clearly documented in many clinical trials, especially in the immune-mediated inflammatory diseases.\n\nNestaCell\u00ae is a mesenchymal stem cell therapy produced by Cellavita and proved to be safe in previous clinical trials.\n\nThe aim of this study is assess the efficacy of NestCell\u00ae as an add-on therapy to standard treatment to treat patients with severe COVID-19 pneumonia. .\n\nPatients included will be randomized to receive 2x10^7 cells (20 million cells) on days 1, 3, 5 and 7."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\n1. Male or female, aged \u2265 18 years 2. Present a confirmed or pending diagnosis of COVID-19, but with tomographic and clinical signs strongly suggestive of SARS-CoV-2 infection (COVID-19), with pulmonary impairment greater than or equal to 50% and: i. Oxygen saturation <95%; ii. CURB-65 rating \u2265 a 4; d) Participants with a score on WHO ordinal scale that measures illness severity over time equal to 5 (Hospitalized with non-invasive ventilation or high-flow oxygen).\n\nExclusion Criteria:\n\nPatients with autoimmune diseases in the past or screening;\nThose who have serious basic diseases that affect their survival, including: malignant tumor, hematopathy, malignant fluid, active hemorrhage, severe malnutrition, etc. which have not been controlled and can not be removed due to multiple metastasis;\nKnown or self-reported HIV or syphilis infected persons;\nHave participated in stem cell clinical research;\nPregnant or lactating women or those who have fertility plans in the past year;\nThe estimated life cycle is less than 48 hours;\nOther conditions that the researcher thinks are not suitable for participating in the experiment.\nShock\nContinuous use of immunosuppressive agents or organ transplants in the past 6 months;"
+                        ],
+                        "EnrollmentCount": [
+                              "90"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04315987"
+                        ]
+                  }
+            ]
+      }
+}

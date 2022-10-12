@@ -1,0 +1,68 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:11 17:12:16.352",
+            "Expression": "mesenchymal AlloStem",
+            "NStudiesAvail": 430425,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "SeriousEventNotes",
+                  "SeriousEventOrganSystem",
+                  "SeriousEventSourceVocabulary",
+                  "SeriousEventStatsGroupId",
+                  "SeriousEventStatsNumAffected",
+                  "SeriousEventStatsNumAtRisk",
+                  "SeriousEventStatsNumEvents",
+                  "SeriousEventTerm",
+                  "StartDate",
+                  "StartDateType",
+                  "StatusVerifiedDate",
+                  "StdAge",
+                  "StudyFirstPostDate",
+                  "StudyFirstPostDateType",
+                  "StudyFirstSubmitDate",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "SeriousEventNotes": [],
+                        "SeriousEventOrganSystem": [],
+                        "SeriousEventSourceVocabulary": [],
+                        "SeriousEventStatsGroupId": [],
+                        "SeriousEventStatsNumAffected": [],
+                        "SeriousEventStatsNumAtRisk": [],
+                        "SeriousEventStatsNumEvents": [],
+                        "SeriousEventTerm": [],
+                        "StartDate": [
+                              "June 2010"
+                        ],
+                        "StartDateType": [
+                              "Actual"
+                        ],
+                        "StatusVerifiedDate": [
+                              "April 2018"
+                        ],
+                        "StdAge": [
+                              "Adult",
+                              "Older Adult"
+                        ],
+                        "StudyFirstPostDate": [
+                              "August 10, 2011"
+                        ],
+                        "StudyFirstPostDateType": [
+                              "Estimate"
+                        ],
+                        "StudyFirstSubmitDate": [
+                              "August 8, 2011"
+                        ],
+                        "NCTId": [
+                              "NCT01413061"
+                        ]
+                  }
+            ]
+      }
+}

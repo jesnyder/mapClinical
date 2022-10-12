@@ -1,0 +1,99 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT00710411",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Wounds and Injuries",
+                              "Infections"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Multiple Trauma"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M14729",
+                              "M15507",
+                              "M16837",
+                              "M9445",
+                              "M9435",
+                              "M20017",
+                              "M16021",
+                              "M5520",
+                              "M11213",
+                              "M19971"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Shock",
+                              "Syndrome",
+                              "Wounds and Injuries",
+                              "Inflammation",
+                              "Infections",
+                              "Sepsis",
+                              "Toxemia",
+                              "Communicable Diseases",
+                              "Multiple Trauma",
+                              "Systemic Inflammatory Response Syndrome"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009104"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Multiple Trauma"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Case-Control"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT00710411"
+                        ]
+                  }
+            ]
+      }
+}

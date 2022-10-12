@@ -1,0 +1,57 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02918123",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OtherEventStatsGroupId",
+                  "OtherEventStatsNumAffected",
+                  "OtherEventStatsNumAtRisk",
+                  "OtherEventStatsNumEvents",
+                  "OtherEventTerm",
+                  "OtherOutcomeDescription",
+                  "OtherOutcomeMeasure",
+                  "OtherOutcomeTimeFrame",
+                  "OutcomeAnalysisCILowerLimit",
+                  "OutcomeAnalysisCILowerLimitComment",
+                  "OutcomeAnalysisCINumSides",
+                  "OutcomeAnalysisCIPctValue",
+                  "OutcomeAnalysisCIUpperLimit",
+                  "OutcomeAnalysisCIUpperLimitComment",
+                  "OutcomeAnalysisDispersionType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OtherEventStatsGroupId": [],
+                        "OtherEventStatsNumAffected": [],
+                        "OtherEventStatsNumAtRisk": [],
+                        "OtherEventStatsNumEvents": [],
+                        "OtherEventTerm": [],
+                        "OtherOutcomeDescription": [],
+                        "OtherOutcomeMeasure": [
+                              "number of adverse events, safety lab tests, physical examination, vital signs"
+                        ],
+                        "OtherOutcomeTimeFrame": [
+                              "144 weeks follow-up after treatment (Extension study)"
+                        ],
+                        "OutcomeAnalysisCILowerLimit": [],
+                        "OutcomeAnalysisCILowerLimitComment": [],
+                        "OutcomeAnalysisCINumSides": [],
+                        "OutcomeAnalysisCIPctValue": [],
+                        "OutcomeAnalysisCIUpperLimit": [],
+                        "OutcomeAnalysisCIUpperLimitComment": [],
+                        "OutcomeAnalysisDispersionType": [],
+                        "NCTId": [
+                              "NCT02918123"
+                        ]
+                  }
+            ]
+      }
+}

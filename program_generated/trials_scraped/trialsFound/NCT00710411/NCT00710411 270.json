@@ -1,0 +1,67 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT00710411",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Manfred M Weiss, MD, MBA"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "October 2015"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [
+                              "Inflammatory pattern of complement activation, biomarkers and complement-regulating proteins (CRegs)on leukocytes"
+                        ],
+                        "NCTId": [
+                              "NCT00710411"
+                        ]
+                  }
+            ]
+      }
+}

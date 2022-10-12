@@ -1,0 +1,90 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04261335",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The purpose of this study is to evaluate the safety and the tolerability of CL2020 cells in hypoxic ischemic encephalopathy neonates with hypothermia therapy. In addition, we will evaluate the efficacy of CL2020 cells for infant development."
+                        ],
+                        "BriefTitle": [
+                              "The Clinical Trial of CL2020 Cells for Neonatal Hypoxic Ischemic Encephalopathy"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "UNKNOWN"
+                        ],
+                        "CollaboratorName": [
+                              "Life Science Institute, Inc."
+                        ],
+                        "CompletionDate": [
+                              "September 2023"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Hypoxia-Ischemia, Brain"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010335",
+                              "D000012818",
+                              "D000002493",
+                              "D000009422",
+                              "D000002561",
+                              "D000014652",
+                              "D000002318",
+                              "D000002534"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathologic Processes",
+                              "Signs and Symptoms, Respiratory",
+                              "Central Nervous System Diseases",
+                              "Nervous System Diseases",
+                              "Cerebrovascular Disorders",
+                              "Vascular Diseases",
+                              "Cardiovascular Diseases",
+                              "Hypoxia, Brain"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC10",
+                              "BC14"
+                        ],
+                        "NCTId": [
+                              "NCT04261335"
+                        ]
+                  }
+            ]
+      }
+}

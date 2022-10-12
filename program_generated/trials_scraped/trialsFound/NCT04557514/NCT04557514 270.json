@@ -1,0 +1,69 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04557514",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "wagdi mohamed, lecturer"
+                        ],
+                        "OverallOfficialRole": [
+                              "Study Director"
+                        ],
+                        "OverallStatus": [
+                              "Not yet recruiting"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Not Applicable"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "October 1, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Pigmentation (0-2) Normal 0 Hypopigmentation 1 Hyperpigmentation 2 Vascularity (0-3) Normal 0 Pink 1 Red 2 Purple 3 Pliability (0-5) Normal 0 Supple 1 Yielding 2 Firm 3 Banding 4 Contracture 5 Height (0-3) Normal (flat) 0 0-2 mm 1 2-5 mm 2 >5 mm 3"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "vancouver scale"
+                        ],
+                        "NCTId": [
+                              "NCT04557514"
+                        ]
+                  }
+            ]
+      }
+}

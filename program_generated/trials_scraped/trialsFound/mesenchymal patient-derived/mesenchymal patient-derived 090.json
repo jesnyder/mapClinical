@@ -1,0 +1,123 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal patient-derived",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "This is a single center, open-label dose-escalating study assessing safety, tolerability, dosing effect, and early signals of efficacy of intra-arterially delivered autologous (from self) adipose tissue-derived mesenchymal stem/stromal cells (MSC) in 30 patients with progressive diabetic kidney disease (DKD). DKD will be defined as chronic kidney disease (CKD; estimated glomerular filtration rate; eGFR<60 mL/min/1.73m2) in the setting of diabetes mellitus (type 2; on anti-diabetes therapy) without overt etiologies of CKD beyond concomitant hypertension. Progressive DKD will be considered as eGFR 25-55 ml/min/1.73m2 with a) eGFR decline of 5 ml/min over 18 months or 10 ml/min over 3 years or b) an intermediate or high 5-year risk of progression to end-stage kidney failure (dialysis or transplant) based on the validated Tangri 4-variable (age, sex, eGFR, urinary albumin-creatinine ratio) kidney failure risk equation. Fifteen subjects will be placed in one of two cell dosage arms in a parallel design with single-kidney MSC administration at Day 0 and Month 3. Subjects will be followed a total of 15 months from time of initial cell administration."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nDiabetes mellitus (on anti-diabetes drug therapy)\nAge 45-75 years\neGFR 25-55 ml/min/1.73m2 at time of consent with: a) eGFR decline of 5 ml/min over 18 months or 10 ml/min over 3 years or b) an intermediate or high 5-year risk of progression to end-stage kidney failure (dialysis or transplant) based on the validated Tangri 4-variable (age, sex, eGFR, urinary albumin-creatinine ratio) kidney failure risk equation https://kidneyfailurerisk.com/\nPrimary cause of kidney disease is diabetes without suspicion of concomitant kidney disease beyond hypertension\nSpot urine albumin:creatinine \u226530 mg/g unless on RAAS inhibition\nAbility to give informed consent\n\nExclusion Criteria:\n\nHemoglobin A1c\u226511%\nPregnancy\nActive malignancy\nActive Immunosuppression therapy\nKidney transplantation history\nConcomitant glomerulonephritis\nNephrotic syndrome\nSolid organ transplantation history\nAutosomal dominant or recessive polycystic kidney disease\nKnown renovascular disease\nKidney failure (hemodialysis, peritoneal dialysis, or kidney transplantation)\nActive tobacco use\nBody weight >150 kg or BMI>50\nUncontrolled hypertension: Systolic blood pressure (SBP) >180 mmHg despite antihypertensive therapy\nRecent cardiovascular event (myocardial infarction, stroke, congestive heart failure within 6 months\nEvidence of hepatitis B or C, or HIV infection, chronic\nAnticoagulation therapy requiring heparin bridging for procedures.\nHistory of methicillin-resistant staphylococcus aureus colonization\nRecent plastic, chemical or surgical manipulation of adipose tissue for cosmetic purposes within 6 months\nInability to give informed consent\nPotentially unreliable subjects and those judged by the investigator to be unsuitable for the study"
+                        ],
+                        "EnrollmentCount": [
+                              "30"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT03840343"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "DesignTimePerspective": [
+                              "Prospective"
+                        ],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "Main and secondary objectives :\n\nThe main objective is to study the pathological role of ML mutations in KS to facilitate the identification and characterization of therapeutic strategies to improve the symptoms of patients with KS. Due to the lack of treatment in the KS, the aim is to develop a model of this disease from fibroblasts from patients and reprogram them into mesenchymal stem cells. This approach will generate a KS-specific stem cell bio-bank, allowing the identification of common disturbances caused by the loss of function (LoF) of KMT2D. The impact of the KMT2D LoF on transcription but also the epigenetic mechanisms activated during MSC differentiation will be described. Finally, the therapeutic potential of an epigenome \"editing\" approach to increase the expression of the wild KMT2D allele to restore the functional activity of MLL4 in treated MSCs will be evaluated.\n\nThe secondary objective is to evaluate the ability to return to normal after CRISPR/Case9 gene therapy treatment on patients' cells\n\nMethodology (design study, population, description of groups (if applicable), inclusion criteria, non-inclusion, main and secondary judgment criteria, number of subjects to be included, statistical analysis...) :\n\nStarting from primary cells isolated from affected patients, an in vitro model of the disease will be developed. An integrative but alternative strategy approach to obtain mesenchymal stem cells derived from patients to define normal and abnormal transcription and epigenetic circuits during KMT2D LoF will be adopted. By combining the autonomous renewal potential of MSCs with CRISPR/Cas9 technology, an approach to \"editing\" the epigenome for therapeutic purposes to restore MLL4 activity will be developed.\n\nThis project will represent a step forward in understanding the molecular mechanisms responsible for KS. The in vitro model will provide the scientific community with an experimental system to study KS. Finally, the aim is to define the molecular basis of KS and develop a therapeutic strategy to improve certain symptoms in patients with KS.\n\nProcess (number of visits, duration of inclusions, duration of follow-up):\n\n8 people will be included: 4 patients with Kabuki syndrome authenticated by the molecular genetics study of the KMT2D gene.\n\n4 parents of the same sex as the patient\n\nFeasibility :\n\nIn the clinical genetics department of the Montpellier University Hospital, more than 40 patients with Kabuki syndrome are followed.\n\nImpacts / prospects :\n\nThe identification of the consequences of mutations in the KMT2D gene on epigenetic mark changes and cellular structural changes as well as the attempt at gene correction by CRISPR/Cas9 will provide a better understanding of the disease (and the genes that are deregulated by post-KMT2D epigenetic changes) and will also open a promising path for gene therapy by CRISPR/Cas9 method."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nFor the patient = to have a Kabuki syndrome authenticated by molecular genetics (proof of mutation in the KMT2D gene)\nFor parents = having the same sex as your child\nTo be affiliated to a French social security system\nAuthorize the participation of the study\n\nExclusion Criteria:\n\nNot be affiliated to a social security scheme (CMU is included)\nExistence of a significant coagulation ruble (especially thrombocytopenic purpura in Kabuki patients with platelet counts < 20,000 Units).\nGenetic skin disease responsible for poor healing\nRefusal to participate in the child's and/or parent's study"
+                        ],
+                        "EnrollmentCount": [
+                              "8"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT03855631"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "DesignTimePerspective": [
+                              "Prospective"
+                        ],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "Critically ill patients with COVID-19 may develop lung failure and require extracorporal oxygenation due to hyperinflammation and progressive lung fibrosis. The anti-inflammatory and immune modulatory function of mesenchymal stem cells will be investigated by whole blood stimulation experiments using stem cell derived exosomes. Exosome preparations have been characterized by miRNA and protein expression patterns and suggest their tissue regenerative capacity.\n\nThe hypothesis of the present study is that mesenchymal stem cell derived exosomes attenuate inflammation and support anti-fibrotic pathways."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nCritically ill COVID-19 patients with lung dysfunction\nCOVID-19 WHO severity degree >= 4, ARDS (WHO Definition 13 March 2020)\nBody weight > 50 kg\nInformed consent\n\nExclusion Criteria:\n\nPregnant or breast feeding women"
+                        ],
+                        "EnrollmentCount": [
+                              "40"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT05191381"
+                        ]
+                  }
+            ]
+      }
+}

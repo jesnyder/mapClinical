@@ -1,0 +1,63 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04138017",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [
+                              "ViviGen"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Patients will receive the vivigen cellular bone matrix"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Device: ViviGen"
+                        ],
+                        "ArmGroupLabel": [
+                              "ViviGen Cellular Bone Matrix"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04138017"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,79 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT01771913",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Nivaldo Alonso, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Study Chair"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [
+                              "latissiani@gmail.com"
+                        ],
+                        "PointOfContactOrganization": [
+                              "Faculdade de Medicina - Universidade de Sao Paulo"
+                        ],
+                        "PointOfContactPhone": [
+                              "55-11-981798707"
+                        ],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [
+                              "Dr. Luiz Alexandre Lorico Tissiani"
+                        ],
+                        "PrimaryCompletionDate": [
+                              "September 2014"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Volumetry of the reconstructed breasts will be accomplished through MRI and OsiriX software. Osirix software allows breast volume calculation through the determination of regions of interest (ROIs) on an MRI sequence. Once the pre (V1) and postoperative (V2) volumes were determined the following formula was applied: (V2 - V1) X 100/graft volume. The result, expressed in percentage, expresses graft volume persistence."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Volume Maintenance"
+                        ],
+                        "NCTId": [
+                              "NCT01771913"
+                        ]
+                  }
+            ]
+      }
+}

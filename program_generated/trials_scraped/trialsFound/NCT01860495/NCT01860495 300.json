@@ -1,0 +1,61 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT01860495",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Clinical and radiographic measurements (pocket depth, attachement level, gingival index , plaque index, intrabony level) were reassessed at 3, 6, and 9 months after surgery."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "intrabony components (defect bony filling)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "9 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01860495"
+                        ]
+                  }
+            ]
+      }
+}

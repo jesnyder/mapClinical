@@ -1,0 +1,67 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal MR-MC-01",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "PrimaryOutcomeTimeFrame",
+                  "ReferenceCitation",
+                  "ReferencePMID",
+                  "ReferenceType",
+                  "RemovedCountry",
+                  "ResponsiblePartyInvestigatorAffiliation",
+                  "ResponsiblePartyInvestigatorFullName",
+                  "ResponsiblePartyInvestigatorTitle",
+                  "ResponsiblePartyOldNameTitle",
+                  "ResponsiblePartyOldOrganization",
+                  "ResponsiblePartyType",
+                  "ResultsFirstPostDate",
+                  "ResultsFirstPostDateType",
+                  "ResultsFirstPostedQCCommentsDate",
+                  "ResultsFirstPostedQCCommentsDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "PrimaryOutcomeTimeFrame": [
+                              "One month after stem cell injection",
+                              "Three months after stem cell injection",
+                              "Six months after stem cell injection",
+                              "Nine months after stem cell injection",
+                              "Twelve months after stem cell injection"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "Asan Medical Center"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Myung-Soo Choo"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Professor"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT04610359"
+                        ]
+                  }
+            ]
+      }
+}

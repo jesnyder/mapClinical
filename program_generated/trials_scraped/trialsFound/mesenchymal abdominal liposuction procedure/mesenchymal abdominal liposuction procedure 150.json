@@ -1,0 +1,223 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal abdominal liposuction procedure",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 4,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 4,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Stem cells therapy"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "CNSDep",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Central Nervous System Depressants",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3259"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anesthetics"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Participants will be exposed to e abdominal liposuction procedure under local anesthesia for stem cells harvesting. Stem cells will be separated from fat cells in the adipose tissue then activated in Tissue Culture Lab at Research Center- Jeddah. The activated stem cells will be injected into the knee joint via 22G spinal needle. The intra-articular stem cells injections will be performed under Ultrasound guidance at the theater under spinal anesthesia. Each patient will receive 1.0\u00d7 108 stem cells in 3 mL of normal saline."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03308006"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "Autologous adipose-derived mesenchymal stem cells",
+                              "Autologous adipose-derived mesenchymal stem cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Autologous adipose-derived mesenchymal stem cells is extracted from human abdominal fat, which is crushed, filtered and immediately returned to the articular cavity through a specific device.",
+                              "50 ml abdominal fat was extracted by abdominal liposuction to prepare autologous adipose-derived mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous adipose-derived mesenchymal stem cells",
+                              "abdominal liposuction"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03956719"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "AMSCs plus PRP group",
+                              "PRP group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "150 mL subcutaneous abdominal adipose tissue will be harvested via liposuction . AMSCs will be isolated and cultured from adipose tissue. Before injection, 30 mL of blood will be collected from each patient to produce 3ml PRP by cenrifugation.Cultured AMSCs will be collected and suspended by 3ml autologous PRP.",
+                              "30 mL of blood will be collected from each patient to produce 3ml PRP by cenrifugation."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Auotologous AMSCs plus autologous PRP",
+                              "Auotologous PRP"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04212728"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "InterventionArmGroupLabel": [
+                              "Osseous sliding genioplasty",
+                              "PEEK",
+                              "autogenous fat"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "AnArAg",
+                              "ChanBlk",
+                              "CNSDep",
+                              "All",
+                              "PhSol",
+                              "VaCoAg",
+                              "Resp"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Arrhythmia Agents",
+                              "Channel Blockers",
+                              "Central Nervous System Depressants",
+                              "All Drugs and Chemicals",
+                              "Pharmaceutical Solutions",
+                              "Vasoconstrictor Agents",
+                              "Respiratory System Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10166",
+                              "M3259",
+                              "M21013",
+                              "M7144",
+                              "M29524",
+                              "M211051"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Lidocaine",
+                              "Anesthetics",
+                              "Pharmaceutical Solutions",
+                              "Epinephrine",
+                              "Racepinephrine",
+                              "Epinephryl borate"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "The procedure will be done under general anesthesia; the donor site lower abdomen, flank, lateral thigh, or inner thigh will be infused using a solution that consisted of 100 ml of normal saline with 50 mg (0.05%) of lidocaine and 0.1 ml of epinephrine. Liposuction will be performed using a 2-mm blunt cannula. A 20-cc syringe will be used to collect the fat. The fat will be injected into the chin in a supraperiosteal (subcutaneous) plane with a blunt 2-mm cannula using a fanning technique."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "fat filler,PEEK,sliding genioplasty"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03747822"
+                        ]
+                  }
+            ]
+      }
+}

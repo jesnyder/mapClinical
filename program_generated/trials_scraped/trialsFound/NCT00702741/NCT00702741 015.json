@@ -1,0 +1,69 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT00702741",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Chondrogen (low dose)",
+                              "Chondrogen (high dose)",
+                              "Hyaluronan"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Chondrogen",
+                              "Drug: Chondrogen",
+                              "Drug: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "A",
+                              "B",
+                              "C"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT00702741"
+                        ]
+                  }
+            ]
+      }
+}

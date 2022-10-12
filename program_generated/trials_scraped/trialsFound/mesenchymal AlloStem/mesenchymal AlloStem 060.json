@@ -1,0 +1,85 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:11 17:12:16.352",
+            "Expression": "mesenchymal AlloStem",
+            "NStudiesAvail": 430425,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The purpose of this clinical trial is to evaluate the outcome of implanting AlloStem\u00ae graft with appropriate rigid internal fixation hardware as an alternative to autograft bone graft with rigid fixation in subtalar arthrodesis procedures. The primary objective of this clinical trial is to compare the overall fusion rate of the investigational to the control treatment. Fusion will be determined by clinical findings, radiographs and computed tomography (CT) of the subtalar joint 24 weeks (6 months) after the trial surgery."
+                        ],
+                        "BriefTitle": [
+                              "Study of Subtalar Arthrodesis Using AlloStem\u00ae Versus Autologous Bone Graft"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "March 2018"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Degenerative Osteoarthritis",
+                              "Post-traumatic; Arthrosis",
+                              "Rheumatoid Arthritis & Other Inflammatory Polyarthropathies",
+                              "Rheumatoid Arthritis of Subtalar Joint"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000007592",
+                              "D000009140",
+                              "D000012216",
+                              "D000003240",
+                              "D000001327",
+                              "D000007154"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Connective Tissue Diseases",
+                              "Autoimmune Diseases",
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC05",
+                              "All",
+                              "BC17",
+                              "BC20"
+                        ],
+                        "NCTId": [
+                              "NCT01413061"
+                        ]
+                  }
+            ]
+      }
+}

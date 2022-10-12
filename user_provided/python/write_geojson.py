@@ -115,7 +115,6 @@ def write_geojson():
                 save_value('geojson recent percent ' + col, round(len(features_recent)/len(features)*100,2))
 
 
-
     time_end = datetime.datetime.today()
     print('completed assign_groups ' + str(time_end))
 
@@ -188,18 +187,7 @@ def write_prop(trial, loc, fillColor, col):
         prop['enrolled'] = 0
 
     # marker properties
-    prop['radius'] = 10
-    if 'Enrollment' in trial.keys():
-
-        try:
-            enrolled = int(float(trial['Enrollment']))
-        except:
-            print('no enrolled found: ')
-            print(trial['URL'])
-            enrolled = 0
-
-        radius = int(math.sqrt(enrolled) + 10)
-        prop['radius'] = radius
+    prop['radius'] = define_radius(trial)
 
     prop['color'] = "rgb(100, 100, 100)"
     prop['fillColor'] = fillColor
@@ -237,6 +225,28 @@ def write_prop(trial, loc, fillColor, col):
     prop['end'] = "2023-09-30"
 
     return(prop)
+
+
+def define_radius(trial):
+    """
+    return radius
+    """
+
+    #prop = write_prop(trial, '', '', '')
+
+    #prop['radius'] = 10
+    if 'Enrollment' in trial.keys():
+        try:
+            enrolled = int(float(trial['Enrollment']))
+        except:
+            print('no enrolled found: ')
+            print(trial['URL'])
+            enrolled = 0
+
+    radius = int(math.sqrt(enrolled) + 10)
+
+    return(radius)
+
 
 
 def find_date(trial):

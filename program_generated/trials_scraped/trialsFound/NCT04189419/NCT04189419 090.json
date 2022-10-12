@@ -1,0 +1,66 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04189419",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Care Provider",
+                              "Investigator",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [
+                              "Phase I (Multicenter in Korea, Non-Randomized, Open-label, Single Arm, 3+3 design): Three and up to six patients with severe Acute Pancreatitis are planned to recruit from 12 sites in Korea, but additional three patients can be enrolled by an assessment of Adverse Drug Reaction(ADR) from first three subjects .\n\nSubjects will be administered with SCM-AGH as an intravenous (IV) infusion once a day for 3 days. Efficacy and safety are assessed daily for the first week, and then weekly on 3 occasions (Day 14, 21, and 28). Survival is followed up until Day 90.\n\nPhase II (Multicenter in Korea, Randomized, Double-blind, 2-arm, Placebo-controlled, Parallel arm): Eligible patients will be randomized to the SCM-AGH group or placebo group at 1:1 ratio. Total 36 patients with Moderate to Severe Acute Pancreatitis are planned to be enrolled from 12 sites in Korea. Subjects will receive SCM-AGH on Day 0, 1, and 2. Existing standard of care is permitted. Efficacy and safety are assessed daily for the first week, and then weekly on 3 occasions (Day 14, 21, and 28). Survival is followed up until Day 90."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\n>=19 years of age\n\n[Phase I]\n\nPatient with acute pancreatitis with organ failure which has been determined as severe acute pancreatitis prior to assignment(randomization) (1) Organ failure: 2 points of Modified Marshall Score in one or more of the respiratory system, renal system and cardiovascular system (2) Acute pancreatitis: at least 2 of the following 3 conditions are met\n\nTypical abdominal pain indicating acute pancreatitis\nIncreased blood level of pancreatic enzyme (amylase or lipase >= three times of upper limit of normal)\n\nFinding acute pancreatitis in imaging test (contrast enhanced computerized tomography, abdominal magnetic resonance imaging, or abdominal sonography) (3) Severe: at least 1 of following organ failures lasting for > 48 hours according to the 2012 Atlanta Classification\n\n- Respiratory system: PaO2/FiO2 =< 300\n\n- Renal system: Creatinine >= 1.9 mg/dL\n\nCardiovascular system: low systolic blood pressure persists despite fluid replacement (SBP < 90 mmHg. off inotropic support)\nPatient who or whose representative voluntarily agrees to participate in this study and has given a written informed consent\n\n[Phase II] 2) Patient with acute pancreatitis with organ failure or CTSI score >= 4 which has been determined as moderate to severe acute pancreatitis prior to assignment(randomization)\n\nOrgan failure: 2 points of Modified Marshall Score in one or more of the respiratory system, renal system and cardiovascular system\nCTSI: Sum of Balthazar grade and Necrosis score. CTSI 1-3: Mild / CTSI 4-6: Moderate / CTSI 7-10: Severe\n\nAcute pancreatitis: at least 2 of the following 3 conditions are met\n\na.Typical abdominal pain indicating acute pancreatitis b. Increased blood level of pancreatic enzyme (amylase or lipase >= three times of upper limit of normal) c. Finding acute pancreatitis in imaging test (contrast enhanced computerized tomography, abdominal magnetic resonance imaging, or abdominal sonography)\n\nModerate to Severe at least 1 of following organ failures lasting according to the 2012 Atlanta Classification - Respiratory system: PaO2/FiO2 =< 300 - Renal system: Creatinine >= 1.9 mg/dL\n\nCardiovascular system: low systolic blood pressure persists despite fluid replacement (SBP < 90 mmHg. off inotropic support)\n\n[Moderately Severe]\n\norgan failures lasting for < 48 hours according to the 2012 Atlanta Classification or CTSI 4-8,\n\n[Severe]\n\norgan failures lasting for >= 48 hours according to the 2012 Atlanta Classification\n\n3) Patient who or whose representative voluntarily agrees to participate in this study and has given a written informed consent\n\nExclusion Criteria:\n\nPatient with allergic or hypersensitivity reaction to investigational product, drug of similar class or ingredients (bovine serum, dimethyl sulfoxide)\nPatient who cannot undergo contrast-enhanced computerized tomography due to allergic reaction to contrast medium\nPatient past >72 hours after the onset of organ failure at assignment (randomization)\nPatient with condition that may develop acute abdominal pain\nPatient with pancreatitis resulting from trauma, surgery, or neoplasm\nPatient with unstable ventilation due to underlying disease other than pancreatitis\nPatient with active infection such as non-pancreatic infection, septicemia, or pneumonia resulting from other disease\nPatient requiring urgent surgery within 7 days\nPatient with severe comorbidity (chronic renal disease, hepatic cirrhosis, chronic obstructive lung disease, bronchial asthma, congestive heart failure)\nPatient with evidence of chronic pancreatitis (recurrent, obstructive and chronic; autoimmune and chronic; marked pancreatic insufficiency such as steatorrhea)\nPregnant woman, breastfeeding woman, or woman and man of reproductive potential not willing to use contraceptive measures during the study period\nPatient who received other investigational product/device within 30 days prior to screening\nPatient not eligible for study participation in the opinion of the investigator\nPatient with current or past malignancy"
+                        ],
+                        "EnrollmentCount": [
+                              "36"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04189419"
+                        ]
+                  }
+            ]
+      }
+}

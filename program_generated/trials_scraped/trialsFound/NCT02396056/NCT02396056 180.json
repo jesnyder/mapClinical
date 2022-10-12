@@ -1,0 +1,79 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02396056",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "October 13, 2016"
+                        ],
+                        "LeadSponsorClass": [
+                              "OTHER"
+                        ],
+                        "LeadSponsorName": [
+                              "Stony Brook University"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Stony Brook"
+                        ],
+                        "LocationContactEMail": [
+                              "julio.carrion@stonybrook.edu"
+                        ],
+                        "LocationContactName": [
+                              "Julio A Carrion, DMD, PhD"
+                        ],
+                        "LocationContactPhone": [
+                              "631-632-9443"
+                        ],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [
+                              "Contact"
+                        ],
+                        "LocationCountry": [
+                              "United States"
+                        ],
+                        "LocationFacility": [
+                              "School of Dental Medicine of Stony Brook University"
+                        ],
+                        "LocationState": [
+                              "New York"
+                        ],
+                        "LocationStatus": [
+                              "Recruiting"
+                        ],
+                        "LocationZip": [
+                              "11794"
+                        ],
+                        "NCTId": [
+                              "NCT02396056"
+                        ]
+                  }
+            ]
+      }
+}

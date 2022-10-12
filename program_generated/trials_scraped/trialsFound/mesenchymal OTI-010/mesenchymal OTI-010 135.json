@@ -1,0 +1,103 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal OTI-010",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "FlowRecruitmentDetails",
+                  "FlowTypeUnitsAnalyzed",
+                  "Gender",
+                  "GenderBased",
+                  "GenderDescription",
+                  "HasExpandedAccess",
+                  "HealthyVolunteers",
+                  "IPDSharing",
+                  "IPDSharingAccessCriteria",
+                  "IPDSharingDescription",
+                  "IPDSharingInfoType",
+                  "IPDSharingTimeFrame",
+                  "IPDSharingURL",
+                  "InterventionAncestorId",
+                  "InterventionAncestorTerm",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "FlowRecruitmentDetails": [],
+                        "FlowTypeUnitsAnalyzed": [],
+                        "Gender": [
+                              "All"
+                        ],
+                        "GenderBased": [],
+                        "GenderDescription": [],
+                        "HasExpandedAccess": [
+                              "No"
+                        ],
+                        "HealthyVolunteers": [
+                              "No"
+                        ],
+                        "IPDSharing": [],
+                        "IPDSharingAccessCriteria": [],
+                        "IPDSharingDescription": [],
+                        "IPDSharingInfoType": [],
+                        "IPDSharingTimeFrame": [],
+                        "IPDSharingURL": [],
+                        "InterventionAncestorId": [
+                              "D000007166",
+                              "D000007155",
+                              "D000045505",
+                              "D000018501",
+                              "D000018906",
+                              "D000000477",
+                              "D000045504",
+                              "D000000970",
+                              "D000019653",
+                              "D000000020",
+                              "D000000019",
+                              "D000012102",
+                              "D000000964",
+                              "D000000963",
+                              "D000003879",
+                              "D000004791",
+                              "D000005493",
+                              "D000019384",
+                              "D000000935",
+                              "D000000890",
+                              "D000065095"
+                        ],
+                        "InterventionAncestorTerm": [
+                              "Immunosuppressive Agents",
+                              "Immunologic Factors",
+                              "Physiological Effects of Drugs",
+                              "Antirheumatic Agents",
+                              "Antineoplastic Agents, Alkylating",
+                              "Alkylating Agents",
+                              "Molecular Mechanisms of Pharmacological Action",
+                              "Antineoplastic Agents",
+                              "Myeloablative Agonists",
+                              "Abortifacient Agents, Nonsteroidal",
+                              "Abortifacient Agents",
+                              "Reproductive Control Agents",
+                              "Antimetabolites, Antineoplastic",
+                              "Antimetabolites",
+                              "Dermatologic Agents",
+                              "Enzyme Inhibitors",
+                              "Folic Acid Antagonists",
+                              "Nucleic Acid Synthesis Inhibitors",
+                              "Antifungal Agents",
+                              "Anti-Infective Agents",
+                              "Calcineurin Inhibitors"
+                        ],
+                        "NCTId": [
+                              "NCT00081055"
+                        ]
+                  }
+            ]
+      }
+}

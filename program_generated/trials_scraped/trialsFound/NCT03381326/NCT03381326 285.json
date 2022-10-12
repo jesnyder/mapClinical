@@ -1,0 +1,66 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03381326",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "PrimaryOutcomeTimeFrame",
+                  "ReferenceCitation",
+                  "ReferencePMID",
+                  "ReferenceType",
+                  "RemovedCountry",
+                  "ResponsiblePartyInvestigatorAffiliation",
+                  "ResponsiblePartyInvestigatorFullName",
+                  "ResponsiblePartyInvestigatorTitle",
+                  "ResponsiblePartyOldNameTitle",
+                  "ResponsiblePartyOldOrganization",
+                  "ResponsiblePartyType",
+                  "ResultsFirstPostDate",
+                  "ResultsFirstPostDateType",
+                  "ResultsFirstPostedQCCommentsDate",
+                  "ResultsFirstPostedQCCommentsDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "PrimaryOutcomeTimeFrame": [
+                              "36 months"
+                        ],
+                        "ReferenceCitation": [
+                              "Gurioli G, Conteduca V, Brighi N, Scarpi E, Basso U, Fornarini G, Mosca A, Nicodemo M, Banna GL, Lolli C, Schepisi G, Ravaglia G, Bondi I, Ulivi P, De Giorgi U. Circulating tumor cell gene expression and plasma AR gene copy number as biomarkers for castration-resistant prostate cancer patients treated with cabazitaxel. BMC Med. 2022 Jan 31;20(1):48. doi: 10.1186/s12916-022-02244-0.",
+                              "Conteduca V, Wetterskog D, Castro E, Scarpi E, Romero-Laorden N, Gurioli G, Jayaram A, Lolli C, Schepisi G, Wingate A, Casadei C, Lozano R, Brighi N, Arag\u00f3n IM, Marin-Aguilera M, Gonzalez-Billalabeitia E, Mellado B, Olmos D, Attard G, De Giorgi U. Plasma androgen receptor and response to adapted and standard docetaxel regimen in castration-resistant prostate cancer: A multicenter biomarker study. Eur J Cancer. 2021 Jul;152:49-59. doi: 10.1016/j.ejca.2021.04.025. Epub 2021 May 30."
+                        ],
+                        "ReferencePMID": [
+                              "35101049",
+                              "34077818"
+                        ],
+                        "ReferenceType": [
+                              "derived",
+                              "derived"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT03381326"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,108 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT00815217",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Nutritional and Metabolic Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions",
+                              "Wounds and Injuries",
+                              "Heart and Blood Diseases",
+                              "Skin and Connective Tissue Diseases",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Wound",
+                              "Venous Stasis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M6267",
+                              "M16837",
+                              "M16547",
+                              "M16358",
+                              "M16548",
+                              "M16552",
+                              "M10035",
+                              "M14838",
+                              "M14826"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetes Mellitus",
+                              "Wounds and Injuries",
+                              "Varicose Ulcer",
+                              "Ulcer",
+                              "Varicose Veins",
+                              "Vascular Diseases",
+                              "Leg Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000014647",
+                              "D000014947"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Varicose Ulcer",
+                              "Wounds and Injuries"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00815217"
+                        ]
+                  }
+            ]
+      }
+}

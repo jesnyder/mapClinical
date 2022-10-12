@@ -1,0 +1,81 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04137562",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Seongjun Seo, M.D, Ph.D",
+                              "Sanguk Son, M.D, Ph.D",
+                              "Soyeon Jo, M.D, Ph.D",
+                              "Young-joon Seo, M.D, Ph.D",
+                              "Donghun Lee, M.D, Ph.D",
+                              "Mingyeong Shin, M.D, Ph.D"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "February 14, 2025"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Percentage of subjects whose EASI score decreased by 50% or more at 16 weeks compared to baseline"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "EASI-50"
+                        ],
+                        "NCTId": [
+                              "NCT04137562"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,170 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04400032",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Infections",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Wounds and Injuries",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "COVID-19",
+                              "Syndrome",
+                              "Respiratory Distress Syndrome",
+                              "Respiratory Distress Syndrome",
+                              "Acute Respiratory Distress Syndrome",
+                              "Respiratory Distress Syndrome",
+                              "Acute Respiratory Distress Syndrome"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M2562",
+                              "M15507",
+                              "M14117",
+                              "M14116",
+                              "M27297",
+                              "M27296",
+                              "M9435",
+                              "M14130",
+                              "M5520",
+                              "M13056",
+                              "M13066",
+                              "M16674",
+                              "M19643",
+                              "M5707",
+                              "M22838",
+                              "M14301",
+                              "M10320",
+                              "M14129",
+                              "M14109",
+                              "M25022",
+                              "M9431",
+                              "M9428",
+                              "T4927",
+                              "T192",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "COVID-19",
+                              "Syndrome",
+                              "Respiratory Distress Syndrome",
+                              "Respiratory Distress Syndrome, Newborn",
+                              "Acute Lung Injury",
+                              "Lung Injury",
+                              "Infections",
+                              "Respiratory Tract Infections",
+                              "Communicable Diseases",
+                              "Pneumonia",
+                              "Pneumonia, Viral",
+                              "Virus Diseases",
+                              "Coronavirus Infections",
+                              "Coronaviridae Infections",
+                              "Nidovirales Infections",
+                              "RNA Virus Infections",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Respiration Disorders",
+                              "Premature Birth",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Respiratory Distress Syndrome, Infant",
+                              "Acute Respiratory Distress Syndrome",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000086382",
+                              "D000012128",
+                              "D000012127",
+                              "D000055371",
+                              "D000013577"
+                        ],
+                        "ConditionMeshTerm": [
+                              "COVID-19",
+                              "Respiratory Distress Syndrome",
+                              "Respiratory Distress Syndrome, Newborn",
+                              "Acute Lung Injury",
+                              "Syndrome"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Sequential Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "CIRCA-1901 is is a dose-escalating and safety trial using a 3+3+3 design to determine the safety, and maximum feasible tolerated dose (MFTD) of intravenously (IV) delivered umbilical cord derived MSCs (UC-MSCs). If no safety issues are identified, we will continue to the Phase 2a trial.\n\nCIRCA-1902 is a single-arm, open-label extension of the CIRCA-1901 trial to assess early signs of efficacy (major morbidity and mortality). The Phase 2a trial (CIRCA-1902) will enroll 12 patients to assess early signals of benefit on mortality and major morbidity in a high risk, high mortality population."
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04400032"
+                        ]
+                  }
+            ]
+      }
+}

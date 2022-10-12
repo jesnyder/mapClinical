@@ -1,0 +1,111 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04735185",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Musculoskeletal Diseases",
+                              "Nervous System Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Back Pain",
+                              "Low Back Pain",
+                              "Degenerative Disc Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3866",
+                              "M18585",
+                              "M27558",
+                              "M12218",
+                              "M11556",
+                              "M15071",
+                              "M4278",
+                              "M11249",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Back Pain",
+                              "Low Back Pain",
+                              "Intervertebral Disc Degeneration",
+                              "Pain",
+                              "Neurologic Manifestations",
+                              "Spinal Diseases",
+                              "Bone Diseases",
+                              "Musculoskeletal Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000055959",
+                              "D000001416",
+                              "D000017116"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Intervertebral Disc Degeneration",
+                              "Back Pain",
+                              "Low Back Pain"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "We are trying to determine whether intradiscal injection of autologous BMC (bone marrow-derived mesenchymal stem cells) will decrease pain and improve function compared with intradiscal steroid."
+                        ],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04735185"
+                        ]
+                  }
+            ]
+      }
+}

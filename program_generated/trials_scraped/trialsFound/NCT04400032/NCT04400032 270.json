@@ -1,0 +1,72 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04400032",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Duncan J Stewart, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "April 22, 2021"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Number of Participants With Treatment-Related Adverse Events as Assessed by CTCAE v4.0 to determine the maximum feasible tolerated dose (MFTD) of UC-MSCs given to patients with COVID-19"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Number of Participants With Treatment-Related Adverse Events as Assessed by CTCAE v4.0"
+                        ],
+                        "NCTId": [
+                              "NCT04400032"
+                        ]
+                  }
+            ]
+      }
+}

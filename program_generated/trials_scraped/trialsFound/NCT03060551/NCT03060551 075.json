@@ -1,0 +1,102 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03060551",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Sclerosis",
+                              "Systemic Sclerosis",
+                              "Systemic Sclerosis",
+                              "Systemic Sclerosis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M14567",
+                              "M14564",
+                              "M24713",
+                              "M5616",
+                              "M14826",
+                              "T5565"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Sclerosis",
+                              "Scleroderma, Systemic",
+                              "Scleroderma, Diffuse",
+                              "Connective Tissue Diseases",
+                              "Skin Diseases",
+                              "Systemic Scleroderma"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000012595",
+                              "D000045743",
+                              "D000012598"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Scleroderma, Systemic",
+                              "Scleroderma, Diffuse",
+                              "Sclerosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Systemic sclerosis patients with hand disability, planning 24 weeks of follow-up period Autologous adipose tissue-derived stromal vascular fraction(SVF) injected into the subcutaneous tissue of each finger in contact with neurovascular pedicles."
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03060551"
+                        ]
+                  }
+            ]
+      }
+}

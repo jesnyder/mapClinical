@@ -1,0 +1,81 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03339973",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "allo-APZ2-PAOD",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Suspension of ABCB5-positive mesenchymal stem cells in pre-filled syringe",
+                              "Solution for injection in pre-filled syringe"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "allo-APZ2-PAOD",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03339973"
+                        ]
+                  }
+            ]
+      }
+}

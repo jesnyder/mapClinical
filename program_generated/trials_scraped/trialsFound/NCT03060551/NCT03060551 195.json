@@ -1,0 +1,73 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03060551",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "MaximumAge",
+                  "MinimumAge",
+                  "NCTId",
+                  "NCTIdAlias",
+                  "OfficialTitle",
+                  "OrgClass",
+                  "OrgFullName",
+                  "OrgStudyId",
+                  "OrgStudyIdDomain",
+                  "OrgStudyIdLink",
+                  "OrgStudyIdType",
+                  "OtherEventAssessmentType",
+                  "OtherEventNotes",
+                  "OtherEventOrganSystem",
+                  "OtherEventSourceVocabulary"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "MaximumAge": [],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT03060551"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Safety, Tolerability and Potential Efficacy of Injection of Autologous Adipose-derived Stromal Vascular Fraction in the Finger of Systemic Sclerosis Patients"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "Seoul St. Mary's Hospital"
+                        ],
+                        "OrgStudyId": [
+                              "SVF treatment in SSc"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [
+                              "Non-systematic Assessment",
+                              "Non-systematic Assessment",
+                              "Non-systematic Assessment"
+                        ],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [
+                              "Injury, poisoning and procedural complications",
+                              "Injury, poisoning and procedural complications",
+                              "Injury, poisoning and procedural complications"
+                        ],
+                        "OtherEventSourceVocabulary": [
+                              "MedDRA (10.0)",
+                              "MedDRA (10.0)",
+                              "MedDRA (10.0)"
+                        ]
+                  }
+            ]
+      }
+}

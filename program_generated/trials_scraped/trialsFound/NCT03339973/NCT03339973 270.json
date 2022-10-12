@@ -1,0 +1,74 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03339973",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Oliver M\u00fcller, Prof. Dr."
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Terminated"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "May 15, 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Percent change from baseline to week 12 in total wound size of the target leg will be evaluated. The total wound size of the target leg is calculated as sum of the wound sizes of all relevant ulcers of the target leg.",
+                              "All AEs occurring during the clinical trial will be registered, documented and evaluated."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Percent change from baseline to week 12 in total wound size of the target leg",
+                              "Assessment of adverse event (AE) occurrence"
+                        ],
+                        "NCTId": [
+                              "NCT03339973"
+                        ]
+                  }
+            ]
+      }
+}

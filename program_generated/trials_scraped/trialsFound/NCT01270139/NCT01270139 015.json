@@ -1,0 +1,97 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01270139",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [
+                              "NANOM-FIM"
+                        ],
+                        "AgreementOtherDetails": [
+                              "This project and manuscript were not prepared or funded in any part by a commercial organization. Nanoparticles and biomedical facilities were supplied free for the study by the non-profit Agiko Foundation (Yekaterinburg, Russia). All rights of authors are reserved by the Russian Law. The access of the non-russian international and alien academic and governmental organizations to the essential and primary documents of the trial is restricted by the Russian government."
+                        ],
+                        "AgreementPISponsorEmployee": [
+                              "Yes"
+                        ],
+                        "AgreementRestrictionType": [
+                              "OTHER"
+                        ],
+                        "AgreementRestrictiveAgreement": [
+                              "Yes"
+                        ],
+                        "ArmGroupDescription": [
+                              "60 patients in Nano group were treated with transplantation of nanoparticles (NP), particularly with a bioengineered patch that was grown with allogenous stem cells pre-cultivated in the medium with NP. After the admission, patients were examined with QCA, and allocated to the trial. The implantation of the patch onto the artery was undergone by the minimally invasive cardiac surgery (MICS CABG) with fixation of the graft to the epicardial myocardium. MICS CABG implies a beating-heart multi-vessel heart surgery performed through several small incisions under direct vision through an anterolateral mini-thoracotomy in the 4th-6th intercostal spaces. The patients can expect high quality of life resuming all everyday activities within a few weeks of their operation. NP were activated with NIR laser at 7 days after the intervention. Patients were treated with bolus of bivalirudin on the day of NP detonation.",
+                              "60 patients in Ferro group were managed with transplantation of iron-bearing nanoparticles (NP), particularly with intracoronary infusion of allogenous stem cells or CD68 targeted micro-bubbles pre-cultivated in the medium with iron-bearing NP. Cells and/ or micro-bubbles were infused with QCA- and IVUS-guidance to the target coronary artery via micro-catheter on the day of admission. The destruction of CD68 targeted micro-bubbles was obtained by using a Sonos 5500 machine with an S3 transducer operating in ultraharmonic mode (transmit, 1.3MHz/ receive, 3.6 MHz) with a mechanical index of 1.5 and a depth of 4 cm. The AXIOM Artis dBC (Siemens) magnetic navigation system was used for precise delivery of NP to the atheroma through two permanent computer-controlled external magnets generating a navigational magnetic field of 0.08 Tesla in any direction. NP were detonated with NIR laser under the protection of anti-platelet therapy.",
+                              "In case of control group (stenting control), XIENCE V stent was implanted to 60 patients. Patients with a single de novo native coronary stenosis of less than 12 mm lesion length, more than 50% stenosis and reference diameter of 3.0 mm as assessed by online QCA were stented by a single stent of 3.0 x 18 mm. The procedure of implantation had to be performed according to common interventional practices including the administration of intracoronary nitroglycerine 0.2 mg of glycerol trinitrate or isosorbide dinitrate and intra-arterial heparin (50-100 U/kg body weight). Predilation with a conventional balloon catheter was recommended before DES deployment according to the manufacturer's recommendation. The protocol recommended the study stent should cover 2 mm of non-diseased tissue on either side of the target lesion. Postdilatation was allowed with a balloon that was shorter than was the study device."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Procedure: Transplantation of nanoparticles",
+                              "Procedure: Transplantation of iron-bearing nanoparticles",
+                              "Device: Stenting"
+                        ],
+                        "ArmGroupLabel": [
+                              "Nano group",
+                              "Ferro group",
+                              "Stenting control"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator",
+                              "Other"
+                        ],
+                        "AvailIPDComment": [
+                              "This is a protocol of NANOM-FIM trial released in Mendeley Datasets.",
+                              "There is Atomic Force Microscopy data from random patients."
+                        ],
+                        "AvailIPDId": [
+                              "doi: 10.17632/rkz98ttjrd.1",
+                              "doi: 10.17632/5hzb3249hn.1"
+                        ],
+                        "AvailIPDType": [
+                              "Study Protocol",
+                              "Individual Participant Data Set"
+                        ],
+                        "AvailIPDURL": [
+                              "https://data.mendeley.com/datasets/rkz98ttjrd/1",
+                              "https://data.mendeley.com/datasets/5hzb3249hn/1"
+                        ],
+                        "BaselineCategoryTitle": [
+                              "<=18 years",
+                              "Between 18 and 65 years",
+                              ">=65 years",
+                              "Female",
+                              "Male"
+                        ],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01270139"
+                        ]
+                  }
+            ]
+      }
+}

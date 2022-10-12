@@ -1,0 +1,78 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT00710411",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "PrimaryOutcomeTimeFrame",
+                  "ReferenceCitation",
+                  "ReferencePMID",
+                  "ReferenceType",
+                  "RemovedCountry",
+                  "ResponsiblePartyInvestigatorAffiliation",
+                  "ResponsiblePartyInvestigatorFullName",
+                  "ResponsiblePartyInvestigatorTitle",
+                  "ResponsiblePartyOldNameTitle",
+                  "ResponsiblePartyOldOrganization",
+                  "ResponsiblePartyType",
+                  "ResultsFirstPostDate",
+                  "ResultsFirstPostDateType",
+                  "ResultsFirstPostedQCCommentsDate",
+                  "ResultsFirstPostedQCCommentsDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "PrimaryOutcomeTimeFrame": [
+                              "0, 1, 4, 12, 24, 48, 96, 120 und 240 h after trauma"
+                        ],
+                        "ReferenceCitation": [
+                              "Huber-Lang M, Denk S, Fulda S, Erler E, Kalbitz M, Weckbach S, Schneider EM, Weiss M, Kanse SM, Perl M. Cathepsin D is released after severe tissue trauma in vivo and is capable of generating C5a in vitro. Mol Immunol. 2012 Feb;50(1-2):60-5. doi: 10.1016/j.molimm.2011.12.005. Epub 2012 Jan 14.",
+                              "Unnewehr H, Rittirsch D, Sarma JV, Zetoune F, Flierl MA, Perl M, Denk S, Weiss M, Schneider ME, Monk PN, Neff T, Mihlan M, Barth H, Gebhard F, Ward PA, Huber-Lang M. Changes and regulation of the C5a receptor on neutrophils during septic shock in humans. J Immunol. 2013 Apr 15;190(8):4215-25. doi: 10.4049/jimmunol.1200534. Epub 2013 Mar 11.",
+                              "Denk S, Wiegner R, H\u00f6nes FM, Messerer DA, Radermacher P, Weiss M, Kalbitz M, Ehrnthaller C, Braum\u00fcller S, McCook O, Gebhard F, Weckbach S, Huber-Lang M. Early Detection of Junctional Adhesion Molecule-1 (JAM-1) in the Circulation after Experimental and Clinical Polytrauma. Mediators Inflamm. 2015;2015:463950. doi: 10.1155/2015/463950. Epub 2015 Oct 18.",
+                              "Kozarcanin H, Lood C, Munthe-Fog L, Sandholm K, Hamad OA, Bengtsson AA, Skjoedt MO, Huber-Lang M, Garred P, Ekdahl KN, Nilsson B. The lectin complement pathway serine proteases (MASPs) represent a possible crossroad between the coagulation and complement systems in thromboinflammation. J Thromb Haemost. 2016 Mar;14(3):531-45. doi: 10.1111/jth.13208. Epub 2016 Feb 15."
+                        ],
+                        "ReferencePMID": [
+                              "22244896",
+                              "23479227",
+                              "26556956",
+                              "26614707"
+                        ],
+                        "ReferenceType": [
+                              "result",
+                              "result",
+                              "result",
+                              "result"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "University of Ulm"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Manfred Weiss"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Professor, MD, MBA"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT00710411"
+                        ]
+                  }
+            ]
+      }
+}

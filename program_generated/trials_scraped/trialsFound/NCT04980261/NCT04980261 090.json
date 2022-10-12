@@ -1,0 +1,65 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04980261",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Investigator",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [
+                              "The gold standard for treating bone defect conditions is autologous bone graft (autograft). Autograft promotes bone healing due to its osteoconductive (serving as a foundation that facilitates bone growth), osteoinductive (stimulates progenitor cells), and osteogenesis (acting as a precursor of osteoblasts and osteoclasts) properties. However, donor site morbidity and persisting pain following harvest remains a major problem. Hence, we attempt to investigate the efficacy of other bone substitutes, i.e., bovine hydroxyapatite/secretome composite, to treat long bone defects and other bone healing disorders in the lower extremities.\n\nBovine hydroxyapatite (BHA) is a xenograft (animal-derived graft) with osteoconductive properties. Simultaneously, the secretome of the mesenchymal stem cells contains cytokines, chemokines, and growth factors, which possess osteoinductive properties. Thus, we hypothesize that the combination (composite) of BHA/secretome (in the form of freeze-dried (FD) BHA/secretome composite) will promote bone healing ability that is equal to autografts while eliminating donor-site morbidity in the patient."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nPatients presenting with bone defects (less than 5 cm) in the diaphysis of the long bones of the lower extremities due to trauma and other bone healing disorders\nNo history of comorbid diseases\nWilling to be involved in the clinical trial\n\nExclusion Criteria:\n\nPatients with bone defects or impaired bone healing caused by tumors, infections, and metabolic diseases\nSuffered from multiple fractures and multitrauma patients\nLoss to follow-up"
+                        ],
+                        "EnrollmentCount": [
+                              "32"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04980261"
+                        ]
+                  }
+            ]
+      }
+}

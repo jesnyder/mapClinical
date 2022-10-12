@@ -1,0 +1,57 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04713436",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BaselineMeasureDispersionType",
+                  "BaselineMeasureParamType",
+                  "BaselineMeasurePopulationDescription",
+                  "BaselineMeasureTitle",
+                  "BaselineMeasureUnitOfMeasure",
+                  "BaselineMeasurementComment",
+                  "BaselineMeasurementGroupId",
+                  "BaselineMeasurementLowerLimit",
+                  "BaselineMeasurementSpread",
+                  "BaselineMeasurementUpperLimit",
+                  "BaselineMeasurementValue",
+                  "BaselinePopulationDescription",
+                  "BaselineTypeUnitsAnalyzed",
+                  "BioSpecDescription",
+                  "BioSpecRetention",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [
+                              "Tissue samples were obtained from the apex of the extracted third molar teeth of young adult patients aged between 16-22 (N=7)."
+                        ],
+                        "BioSpecRetention": [
+                              "Samples Without DNA"
+                        ],
+                        "NCTId": [
+                              "NCT04713436"
+                        ]
+                  }
+            ]
+      }
+}

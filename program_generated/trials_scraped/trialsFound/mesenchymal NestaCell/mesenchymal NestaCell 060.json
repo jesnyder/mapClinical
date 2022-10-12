@@ -1,0 +1,108 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal NestaCell",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This is phase II study to assess the efficacy of NestaCell\u00ae (mesenchymal stem cell) to treat severe COVID-19 pneumonia."
+                        ],
+                        "BriefTitle": [
+                              "NestaCell\u00ae Mesenchymal Stem Cell to Treat Patients With Severe COVID-19 Pneumonia"
+                        ],
+                        "CentralContactEMail": [
+                              "florentino.cardoso@hospitalcare.com.br",
+                              "luciana.ferrara@azidusbrasil.com.br"
+                        ],
+                        "CentralContactName": [
+                              "Florentino de Araujo Cardoso Filho",
+                              "Luciana Ferrara"
+                        ],
+                        "CentralContactPhone": [
+                              "+55 19 991232882",
+                              "+55 19 981428814"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "OTHER",
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "Cellavita Pesquisa Cient\u00edfica Ltda",
+                              "Hospital Vera Cruz"
+                        ],
+                        "CompletionDate": [
+                              "August 2020"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "COVID-19 Pneumonia"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000012141",
+                              "D000007239",
+                              "D000011024",
+                              "D000014777",
+                              "D000018352",
+                              "D000003333",
+                              "D000030341",
+                              "D000012327",
+                              "D000008171",
+                              "D000012140"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Respiratory Tract Infections",
+                              "Infections",
+                              "Pneumonia, Viral",
+                              "Virus Diseases",
+                              "Coronavirus Infections",
+                              "Coronaviridae Infections",
+                              "Nidovirales Infections",
+                              "RNA Virus Infections",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC01",
+                              "BC08",
+                              "All",
+                              "BC23"
+                        ],
+                        "NCTId": [
+                              "NCT04315987"
+                        ]
+                  }
+            ]
+      }
+}

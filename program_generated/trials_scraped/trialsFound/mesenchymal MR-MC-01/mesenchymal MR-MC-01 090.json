@@ -1,0 +1,59 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal MR-MC-01",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nFemale, aged >= 20 years\nInterstitial cystitis symptom duration more than 6 months\nPresence of Hunner lesions in outpatient cystoscopy (within one months of screening), with size < 2cm, number <= 2\nVAS (Visual pain analogue scale) >=4 in screening symptom questionnaire\n\nThose who are suitable for stem cell transplantation\n\nnormal laboratory findings (hematological, chemical)\nno history of drug abuse\nnegative HIV, HBV, HCV serology tests\nNo history of malignancies\nwilling to contraception\nno plan for blood, tissue donation\nWho can understand consent form and willing to participate in the study\n\nExclusion Criteria:\n\nrecurrent urinary tract infection ( more than twice per past six months or more than three times per past one year) or active urinary tract infection\nany active or past history of tuberculosis or systemic infection\nAnatomical abnormality of lower urinary tract\n\nHistory of following procedures\n\nstem cell transplantation In past 6 months,\ntransurethral resection/fulguration of Hunner lesion or hydrodistension of bladder\nintravesical instillation of ialuril\nhysterectomy, anti-incontinence surgery, transvaginal surgery, pelvic organ prolapse repair, vagina delivery or C/sec\nany neurological conditions including cerebrovascular disease, multiple sclerosis, spinal cord injury, Parkinson disease\nindwelling Foley catheter or intermittent catheterization\nany plans for electrostimulation, neuromodulation, physiotherapy or operation for other organs\nany history of malignancy\nhistory of myocardiac infarction in past 12 months\nUncontrolled diabetes (HbAlc >= 7.2%) or diabetes requiring insulin injection\nUncontrolled hypertension (systolic >170mmHg or <90mmHg, diastolic >100mmHg or <50mmHg)\nImmunodeficiency\nPositive HBV, HCV, HIV, syphilis\npregnant or on breast feeding\nany history of drug, alcohol abuse. mis-use\nAny significant signs, symptoms or previous diagnosis of psychological disorder\nImpossible to follow scheduled visits\nCurrently participating or participated in other clinical studies within past 3 months\nAllergic to protein products (serum), antibiotics (gentamicin), DMSO (Dimethyl sulfoxide)\nAny circumstances that is not suitable for participating or continuing clinical study or participants who clinical investigator considers not suitable for participation"
+                        ],
+                        "EnrollmentCount": [
+                              "3"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04610359"
+                        ]
+                  }
+            ]
+      }
+}

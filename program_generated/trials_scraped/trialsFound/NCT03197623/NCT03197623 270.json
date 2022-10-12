@@ -1,0 +1,73 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03197623",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Nancy E Lane, MD",
+                              "Nancy E Lane, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Study Director"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "March 15, 2021"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Incidence of dose limiting or intolerable treatment related adverse events (AEs) including A serious drug-related adverse event in \u2265 1 subject receiving LLP2A-Ale and/or Severe drug related adverse events in \u2265 2 subjects receiving LLP2A-Ale"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Dose limiting Adverse events"
+                        ],
+                        "NCTId": [
+                              "NCT03197623"
+                        ]
+                  }
+            ]
+      }
+}

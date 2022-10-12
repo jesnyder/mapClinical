@@ -1,0 +1,65 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal Dental Implant with PRFM and PBMSCs",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Investigator",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [
+                              "The addition of molecules or growth factors to the implant surface is an approach to enhance bone to implant contact (BIC).1 Platelet rich fibrin matrix (PRFM) is an autologous concentrated platelet-rich thrombin free fibrin matrix, prepared by two step centrifugation of blood. Platelets isolated, remain intact and retain their growth factor compliment. This allows a more effective, sustained release of growth factors to the wound site following PRFM application.2 During the second spin, a cross-linking of fibrin takes place, resulting in the formation of a dense fibrin matrix, within which a concentration of viable platelets can be found. Having an organized fibrin matrix at the start of healing accelerates the speed of vascular ingress into the wound compared to non-accelerated healing, which requires a longer time for fibrin formation and the development of vascularity. The earlier the vascularity is established, faster is the migration of the bone-forming cells at the wound site and initiation of bone formation. Therapeutic applications of platelet-rich products have led to improved bone regeneration and faster titanium implant osseointegration, which improve the stability and maintenance of dental implants by increasing BIC.1 Mesenchymal stem cells (MSCs) is a multipotent stromal cell with prominent regenerative functions. MSCs were first identified and isolated from bone marrow and then found in various tissues including umbilical cord, adipose tissue and peripheral blood. Among these sources peripheral blood MSCs draw increasing attention as they share similar biological characteristics with MSCs derived from bone marrow or adipose tissue. Bone marrow derived mesenchymal stem cells(BMMSCs) are multipotent cells capable of differentiating into osteoblasts, chondrocytes, adipocytes , fibroblasts, tenocytes, and myoblasts , which are considered as a cell source for various tissue repair and regenerating bone defects.3 The requirements of aspiration of bone marrow from the patient will cause pain and morbidity of the donor sites. It will be very convenient if peripheral blood mesenchymal stem cells (PBMSCs) could be harvested and expanded to enough numbers, with their osteogenic capacity maintained in a clinical permitted period.\n\nThe literature search does not show any human clinical trial conducted till date to assess the regenerative potential of this new modality i.e. PRFM and peripheral blood mesenchymal stem cells. This study therefore aims at the evaluation of PRFM and PBMSCs as regenerative materials for implant stability."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nPatient with age group between 25-50 years\nRadiographic imaging(IOPA/OPG/CBCT/RVG) of the area of interest showing sufficient residual bone volume to receive two or more adjacent implants of \u2265 3.5 mm in diameter and 11.0 mm in length\nExtraction at least 6 months prior to the study.\n\nExclusion Criteria:\n\nPara-functional habits\nSmoking more than 10 cigarettes per day\nExcessive consumption of alcohol\nPatient's with systemic diseases contraindicated for surgery\nLocalized radiotherapy, Antitumor chemotherapy of the oral cavity\nLiver, blood, and/or kidney diseases\nImmunosuppression\nCurrent corticosteroid or bisphosphonate use;\nPregnancy\nMucocutaneous diseases involving the oral cavity and\nPoor oral hygiene."
+                        ],
+                        "EnrollmentCount": [
+                              "15"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT03044119"
+                        ]
+                  }
+            ]
+      }
+}

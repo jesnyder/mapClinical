@@ -1,0 +1,53 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04980261",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "FlowAchievementNumSubjects",
+                  "FlowAchievementNumUnits",
+                  "FlowDropWithdrawComment",
+                  "FlowDropWithdrawType",
+                  "FlowGroupDescription",
+                  "FlowGroupId",
+                  "FlowGroupTitle",
+                  "FlowMilestoneComment",
+                  "FlowMilestoneType",
+                  "FlowPeriodTitle",
+                  "FlowPreAssignmentDetails",
+                  "FlowReasonComment",
+                  "FlowReasonGroupId",
+                  "FlowReasonNumSubjects",
+                  "FlowReasonNumUnits",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "FlowAchievementNumSubjects": [],
+                        "FlowAchievementNumUnits": [],
+                        "FlowDropWithdrawComment": [],
+                        "FlowDropWithdrawType": [],
+                        "FlowGroupDescription": [],
+                        "FlowGroupId": [],
+                        "FlowGroupTitle": [],
+                        "FlowMilestoneComment": [],
+                        "FlowMilestoneType": [],
+                        "FlowPeriodTitle": [],
+                        "FlowPreAssignmentDetails": [],
+                        "FlowReasonComment": [],
+                        "FlowReasonGroupId": [],
+                        "FlowReasonNumSubjects": [],
+                        "FlowReasonNumUnits": [],
+                        "NCTId": [
+                              "NCT04980261"
+                        ]
+                  }
+            ]
+      }
+}

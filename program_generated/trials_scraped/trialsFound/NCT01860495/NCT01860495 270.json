@@ -1,0 +1,77 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT01860495",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Ahmed Y Gamal, PhD",
+                              "Mohamed M Aziz, BCH",
+                              "Mohamed M Helmy, MSD",
+                              "Vencint J Iacono, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Study Director",
+                              "Study Director",
+                              "Study Chair"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [
+                              "Yes"
+                        ],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "May 2012"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Using capillary tube (5 \u00b5l), gingival cervicular fluid (GCF) samples were collected (Sueda et al, 1969) by a single examiner (MA) who was masked to the attribution of the sites to MPM or OM. Following the isolation and drying of the selected site with cotton rolls, a fisher brand disposable micropipettes \u20ac, placed intrasulculary at the mesiofacial line angle of the selected site to a maximum depth of 2 mm below the gingival margin. Micropipettes were left in place until 5ul of fluid was collected. Gingival cervicular fluid (GCF) samples were collected one day, 3, 7, 14, 21, and 30 days after therapy and diluted in saline solution (50 \u00b5l) for bone morphogenetic protein-2 level evaluation. Samples were labeled, carried in a dark container and kept at -80 C until used."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "gingival cervicular fluid BMP-2 level"
+                        ],
+                        "NCTId": [
+                              "NCT01860495"
+                        ]
+                  }
+            ]
+      }
+}

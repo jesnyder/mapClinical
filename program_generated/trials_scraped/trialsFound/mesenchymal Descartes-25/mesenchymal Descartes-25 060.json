@@ -1,0 +1,113 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal Descartes-25",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This is a Phase I/IIa dose-escalation study to evaluate the safety, tolerability, and preliminary efficacy of an allogeneic Mesenchymal Stem Cell (Descartes-25) product secreting a bispecific protein and other proteins in patients with Relapsed/Refractory Multiple Myeloma."
+                        ],
+                        "BriefTitle": [
+                              "Descartes-25 in Relapsed/Refractory Multiple Myeloma"
+                        ],
+                        "CentralContactEMail": [
+                              "adam.chowdhury@cartesiantx.com",
+                              "milos@cartesiantx.com"
+                        ],
+                        "CentralContactName": [
+                              "Adam Chowdhury, MD, MBA",
+                              "Milo Miljkovic, MD, MS"
+                        ],
+                        "CentralContactPhone": [
+                              "2404238999"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "January 2023"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Multiple Myeloma",
+                              "Relapse Multiple Myeloma"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000009370",
+                              "D000009369",
+                              "D000020141",
+                              "D000014652",
+                              "D000002318",
+                              "D000010265",
+                              "D000001796",
+                              "D000006402",
+                              "D000006474",
+                              "D000008232",
+                              "D000007160",
+                              "D000007154",
+                              "D000020969",
+                              "D000010335"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Neoplasms by Histologic Type",
+                              "Neoplasms",
+                              "Hemostatic Disorders",
+                              "Vascular Diseases",
+                              "Cardiovascular Diseases",
+                              "Paraproteinemias",
+                              "Blood Protein Disorders",
+                              "Hematologic Diseases",
+                              "Hemorrhagic Disorders",
+                              "Lymphoproliferative Disorders",
+                              "Immunoproliferative Disorders",
+                              "Immune System Diseases",
+                              "Disease Attributes",
+                              "Pathologic Processes"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC04",
+                              "BC14",
+                              "BC15",
+                              "BC20",
+                              "All",
+                              "BC23",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT05113342"
+                        ]
+                  }
+            ]
+      }
+}

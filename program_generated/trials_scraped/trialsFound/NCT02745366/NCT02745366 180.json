@@ -1,0 +1,77 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02745366",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "October 13, 2016"
+                        ],
+                        "LeadSponsorClass": [
+                              "OTHER"
+                        ],
+                        "LeadSponsorName": [
+                              "Shahid Beheshti University of Medical Sciences"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Tehran"
+                        ],
+                        "LocationContactEMail": [
+                              "arashkhojasteh@yahoo.com"
+                        ],
+                        "LocationContactName": [
+                              "Arash Khojasteh, DDS, OMFS"
+                        ],
+                        "LocationContactPhone": [
+                              "00989121060032"
+                        ],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [
+                              "Contact"
+                        ],
+                        "LocationCountry": [
+                              "Iran, Islamic Republic of"
+                        ],
+                        "LocationFacility": [
+                              "School of Dentristry at Shahid Beheshti University of Medical Sciences"
+                        ],
+                        "LocationState": [],
+                        "LocationStatus": [
+                              "Recruiting"
+                        ],
+                        "LocationZip": [
+                              "19839"
+                        ],
+                        "NCTId": [
+                              "NCT02745366"
+                        ]
+                  }
+            ]
+      }
+}

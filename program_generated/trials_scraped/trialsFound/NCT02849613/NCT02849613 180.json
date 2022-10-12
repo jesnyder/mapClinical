@@ -1,0 +1,67 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02849613",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "September 28, 2021"
+                        ],
+                        "LeadSponsorClass": [
+                              "OTHER"
+                        ],
+                        "LeadSponsorName": [
+                              "University Hospital, Grenoble"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Grenoble"
+                        ],
+                        "LocationContactEMail": [],
+                        "LocationContactName": [],
+                        "LocationContactPhone": [],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [],
+                        "LocationCountry": [
+                              "France"
+                        ],
+                        "LocationFacility": [
+                              "University Grenoble Hospital / EFS"
+                        ],
+                        "LocationState": [],
+                        "LocationStatus": [],
+                        "LocationZip": [
+                              "38043"
+                        ],
+                        "NCTId": [
+                              "NCT02849613"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,72 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal Provacel",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "PrimaryOutcomeTimeFrame",
+                  "ReferenceCitation",
+                  "ReferencePMID",
+                  "ReferenceType",
+                  "RemovedCountry",
+                  "ResponsiblePartyInvestigatorAffiliation",
+                  "ResponsiblePartyInvestigatorFullName",
+                  "ResponsiblePartyInvestigatorTitle",
+                  "ResponsiblePartyOldNameTitle",
+                  "ResponsiblePartyOldOrganization",
+                  "ResponsiblePartyType",
+                  "ResultsFirstPostDate",
+                  "ResultsFirstPostDateType",
+                  "ResultsFirstPostedQCCommentsDate",
+                  "ResultsFirstPostedQCCommentsDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "PrimaryOutcomeTimeFrame": [
+                              "6 months"
+                        ],
+                        "ReferenceCitation": [
+                              "Orlic D, Hill JM, Arai AE. Stem cells for myocardial regeneration. Circ Res. 2002 Dec 13;91(12):1092-102. Review.",
+                              "Pittenger MF, Martin BJ. Mesenchymal stem cells and their potential as cardiac therapeutics. Circ Res. 2004 Jul 9;95(1):9-20. Review.",
+                              "Shake JG, Gruber PJ, Baumgartner WA, Senechal G, Meyers J, Redmond JM, Pittenger MF, Martin BJ. Mesenchymal stem cell implantation in a swine myocardial infarct model: engraftment and functional effects. Ann Thorac Surg. 2002 Jun;73(6):1919-25; discussion 1926.",
+                              "Hare JM, Traverse JH, Henry TD, Dib N, Strumpf RK, Schulman SP, Gerstenblith G, DeMaria AN, Denktas AE, Gammon RS, Hermiller JB Jr, Reisman MA, Schaer GL, Sherman W. A randomized, double-blind, placebo-controlled, dose-escalation study of intravenous adult human mesenchymal stem cells (prochymal) after acute myocardial infarction. J Am Coll Cardiol. 2009 Dec 8;54(24):2277-86. doi: 10.1016/j.jacc.2009.06.055."
+                        ],
+                        "ReferencePMID": [
+                              "12480809",
+                              "15242981",
+                              "12078791",
+                              "19958962"
+                        ],
+                        "ReferenceType": [
+                              "background",
+                              "background",
+                              "background",
+                              "derived"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT00114452"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,84 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal Alofisel",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "StudyFirstSubmitQCDate",
+                  "StudyPopulation",
+                  "StudyType",
+                  "SubmissionMCPReleaseN",
+                  "SubmissionReleaseDate",
+                  "SubmissionResetDate",
+                  "SubmissionUnreleaseDate",
+                  "TargetDuration",
+                  "UnpostedEventDate",
+                  "UnpostedEventType",
+                  "UnpostedResponsibleParty",
+                  "VersionHolder",
+                  "WhyStopped",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "StudyFirstSubmitQCDate": [
+                              "April 3, 2022"
+                        ],
+                        "StudyPopulation": [
+                              "14 patients with Crohn's disease and complex fistula got enrolled in this study."
+                        ],
+                        "StudyType": [
+                              "Observational"
+                        ],
+                        "SubmissionMCPReleaseN": [],
+                        "SubmissionReleaseDate": [],
+                        "SubmissionResetDate": [],
+                        "SubmissionUnreleaseDate": [],
+                        "TargetDuration": [],
+                        "UnpostedEventDate": [],
+                        "UnpostedEventType": [],
+                        "UnpostedResponsibleParty": [],
+                        "VersionHolder": [
+                              "October 10, 2022"
+                        ],
+                        "WhyStopped": [],
+                        "NCTId": [
+                              "NCT05322057"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "StudyFirstSubmitQCDate": [
+                              "December 31, 2021"
+                        ],
+                        "StudyPopulation": [
+                              "Patient with inactive or minimally active Crohn's disease associated with one or more complex ano-perineal fistula(s) that has not responded to at least one conventional biologic therapy, managed for their fistula(s) by mesenchymal stem cell injection between July 1, 2020 and July 30, 2021 at one of the participating centers."
+                        ],
+                        "StudyType": [
+                              "Observational"
+                        ],
+                        "SubmissionMCPReleaseN": [],
+                        "SubmissionReleaseDate": [],
+                        "SubmissionResetDate": [],
+                        "SubmissionUnreleaseDate": [],
+                        "TargetDuration": [],
+                        "UnpostedEventDate": [],
+                        "UnpostedEventType": [],
+                        "UnpostedResponsibleParty": [],
+                        "VersionHolder": [
+                              "October 10, 2022"
+                        ],
+                        "WhyStopped": [],
+                        "NCTId": [
+                              "NCT05177003"
+                        ]
+                  }
+            ]
+      }
+}

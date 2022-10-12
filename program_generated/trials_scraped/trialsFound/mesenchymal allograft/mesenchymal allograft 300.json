@@ -1,0 +1,1194 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal allograft",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 36,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 36,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "fuzhough0712"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Patient and graft survival [ Time Frame: At 1 years post-transplant ].",
+                              "The proportion of renal biopsy after 12 months",
+                              "The incidence of infectious complications",
+                              "Incidence of adverse events associated with MSC and immunosuppression"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "5",
+                              "2",
+                              "5",
+                              "5"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00659620"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [
+                              "Mayo Clinic Clinical Trials"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.mayo.edu/research/clinical-trials"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04388761"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Defined as fall in FEV1 > 10% from the baseline (screening visit) FEV1",
+                              "BOS grade 3 is defined as FEV1 <50% of the best-post-transplant FEV1",
+                              "Defined as any death felt by the investigator to be at least partially related to CLAD.",
+                              "Acute rejection defined as any biopsy proven episode of acute vascular (A1-A4) or airway (B1R or B2R) rejection.",
+                              "An anti-HLA antibody (any mean fluorescent intensity level) with specificity for a donor HLA type at 3 months which was not present prior to IMP treatment",
+                              "CLAD progression is defined as fall in FEV1 > 10% from the baseline (screening visit) FEV1 at 12 months.",
+                              "Rate of FEV1 decline is defined as the slope of the regression line for FEV1 between the screening visit and week 54",
+                              "Rate of FVC decline is defined as the slope of the regression line for FVC between the screening visit and week 54",
+                              "Change in 6MWD is defined as the difference between the 6MWD at screening and the week 54 visit. Patients who have died by week 54 will receive a 6MWD of 0.",
+                              "Change in SGRQ is defined as the difference between the total SGRQ at screening and the week 54 visit. Patients who have died by week 54 will receive a SGRQ of 0.",
+                              "This is defined as the aggregate of inpatient bed-days between the screening visit and week 54."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Time to fall in FEV1 > 10%",
+                              "Freedom from Bronchiolitis Obliterans Syndrome (BOS) grade 3",
+                              "All cause mortality",
+                              "CLAD-specific mortality",
+                              "Freedom from acute rejection",
+                              "Freedom from the development of new donor specific anti-HLA antibodies",
+                              "Freedom from CLAD progression",
+                              "Rate of FEV1 decline",
+                              "Rate of FVC decline",
+                              "Change in 6-minute walk distance (6MWD)",
+                              "Change in St George's Respiratory Questionnaire (SGRQ) Score",
+                              "Inpatient bed-days"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "From the baseline (screening) visit",
+                              "Week 54",
+                              "Week 54",
+                              "Week 54",
+                              "From baseline to week 54",
+                              "From baseline to week 14",
+                              "From baseline to week 54",
+                              "From baseline to week 54",
+                              "From baseline to week 54",
+                              "From baseline to week 54",
+                              "From baseline to week 54",
+                              "From baseline to week 54"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02709343"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Patient and graft survival and prevalence of adverse events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "At 1 year post-transplant"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00658073"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "NL21298.000.08"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Secondary endpoints: 1 Presence of late acute rejection (in the 6 month biopsy compared with the 4 week biopsy). 2 Sirius red staining for renal cortical matrix accumulation. 3 Immunologic response before and after MSC infusion."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "2 years"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00734396"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01603836"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04739930"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "UM1AI109565",
+                              "NIAID CRMS ID#: 20676"
+                        ],
+                        "SecondaryIdDomain": [
+                              "DAIT NIAID"
+                        ],
+                        "SecondaryIdLink": [
+                              "https://reporter.nih.gov/quickSearch/UM1AI109565"
+                        ],
+                        "SecondaryIdType": [
+                              "U.S. NIH Grant/Contract",
+                              "Other Identifier"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "For the duration of their study participation, after completion of immunosuppression withdrawal (ISW).",
+                              "Resumption of immunosuppressive therapy post completion of Immunosuppression Withdrawal (ISW), per standard of care.",
+                              "Belatacept monotherapy, defined as remaining on belatacept as the sole maintenance regimen for 48 weeks with:\n\nNo evidence of biopsy-proven allograft rejection, while on belatacept monotherapy;\nAcceptable renal function, defined as an estimated GFR > 60 ml/min/1.73m^2 calculated using the CKD-EPI equation or a serum creatinine that has increased no more than 25% above baseline, as assessed at week 48 on belatacept monotherapy;\nNo evidence of sustained transplant renal derived pathologic proteinuria, defined as a persistent protein creatinine ratio of greater than 0.5, while on belatacept monotherapy; and\nNo Donor Specific Antibodies (DSA) at any time while on belatacept monotherapy.",
+                              "This analysis will include all participants who provide informed consent for study participation and receive any form of study therapy including alemtuzumab, sirolimus, belatacept, or MSC infusions.",
+                              "Kaplan-Meier Analysis of time-to-occurrence to the first episode of kidney allograft rejection.",
+                              "Participants that Develop de novo Anti-Human Leukocyte Antigen (HLA) Antibody or Donor Specific Antibodies (DSA).",
+                              "According to medical assessment/outcomes, investigator's brochure for MSCs, literature et al.",
+                              "Select AEs include:\n\nInfection\nMalignancy\nWound complications, defined as wound dehiscence, hernia or lymphocele",
+                              "New onset diabetes status post transplant (posttransplantation diabetes mellitus [PTDM])",
+                              "Using the 2017 Banff Classification of Renal Allograft Pathology.",
+                              "Using the 2017 Banff Classification of Renal Allograft Pathology.\n\nAs measured by the incidence of biopsy-proven chronic allograft nephropathy/IF/TA"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Proportion of Participants who Remain Off Immunosuppression",
+                              "Proportion of Participants who Return to Immunosuppression",
+                              "Proportion of Participants who Achieve Belatacept Monotherapy",
+                              "Proportion of Participants who Die",
+                              "Time from Transplant to the First Episode of Rejection",
+                              "Incidence of Participants who Develop Donor Specific Antibody (DSA)",
+                              "Incidence of Adverse Events Attributable to Mesenchymal Stromal Cells (MSC) Administration",
+                              "Frequency of Select Adverse Events (AEs)",
+                              "Incidence of Post-Transplant Diabetes",
+                              "Frequency of Antibody-Mediated Acute Cellular Rejection",
+                              "Frequency of Antibody-Mediated Chronic Rejection"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "From ISW completion to end of study participation (up to approximately 5 years)",
+                              "From ISW completion to end of study participation (up to approximately 5 years)",
+                              "48 weeks from the time of last sirolimus dose",
+                              "From kidney transplant with alemtuzumab induction to to completion of study (up to approximately 6.5 years)",
+                              "From kidney transplantation to completion of study (up to approximately 7 years)",
+                              "From study enrollment to completion of study (up to approximately 7 years)",
+                              "From initial MCS infusion (day 42 post kidney transplant) to end of study participation (up to 7 years)",
+                              "From kidney transplantation to completion of study (up to approximately 7 years)",
+                              "From post kidney transplantation to completion of study (up to approximately 7 years)",
+                              "From kidney transplant to completion of study (up to approximately 7 years)",
+                              "From kidney transplant to completion of study (up to approximately 7 years)"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "National Institute of Allergy and Infectious Diseases (NIAID) website",
+                              "Division of Allergy, Immunology, and Transplantation (DAIT) website",
+                              "Immune Tolerance Network (ITN) website",
+                              "ITN's website for the study"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.niaid.nih.gov/",
+                              "https://www.niaid.nih.gov/about/dait",
+                              "http://www.immunetolerance.org/",
+                              "http://www.teachstudy.org/"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03504241"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The collection of functional outcomes score HHS at 6 weeks. The HHS is a measure of dysfunction so the higher the score, the better the outcome for the individual. The maximum score possible is 100. Results can be interpreted with the following: <70 as poor result; 70-80 as fair, 80-90 as good, and 90-100 as excellent results.",
+                              "The collection of functional outcomes score HHS at 3 month after surgery. The HHS is a measure of dysfunction so the higher the score, the better the outcome for the individual. The maximum score possible is 100. Results can be interpreted with the following: <70 as poor result; 70-80 as fair, 80-90 as good, and 90-100 as excellent results",
+                              "The collection of functional outcomes score HHS at 6 month after surgery. The HHS is a measure of dysfunction so the higher the score, the better the outcome for the individual. The maximum score possible is 100. Results can be interpreted with the following: <70 as poor result; 70-80 as fair, 80-90 as good, and 90-100 as excellent results.",
+                              "The collection of functional outcomes score HHS at 12 month after surgery. The HHS is a measure of dysfunction so the higher the score, the better the outcome for the individual. The maximum score possible is 100. Results can be interpreted with the following: <70 as poor result; 70-80 as fair, 80-90 as good, and 90-100 as excellent results."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Harris Hip Score",
+                              "Harris Hip Score",
+                              "Harris Hip Score",
+                              "Harris Hip Score"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 weeks after surgery",
+                              "3 months after surgery",
+                              "6 months after surgery",
+                              "12 months after surgery"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04210440"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Patient and graft survival, and prevalence of adverse events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "48 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01690247"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Change from baseline of weight",
+                              "Change of muscle diameter (circumferential measurements) from baseline",
+                              "Change from baseline of Pulmonary Maximum Expiratory Pressure",
+                              "Change from baseline of Pulmonary Forced Vital Capacity",
+                              "Maximum Change from baseline of Predicted Inspiratory Pressure %",
+                              "Change from baseline of Predicted Maximum Expiratory Pressure %",
+                              "Change from baseline of Predicted Forced Vital Capacity %"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "3 months after final treatment",
+                              "3 months after final treatment",
+                              "3 months after final treatment",
+                              "3 months after final treatment",
+                              "3 months after final treatment",
+                              "3 months after final treatment",
+                              "3 months after final treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02235844"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [
+                              "Mayo Clinic Clinical Trials"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.mayo.edu/research/clinical-trials"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05456243"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Anterior tibial translation measured by (Knee laxity Testing device) KT-1000 Arthrometer",
+                              "Patient reported outcome measure for patients receiving arthroscopic knee surgery",
+                              "Patient reported outcome measure for patients receiving arthroscopic knee surgery",
+                              "Patient reported outcome measure for patients receiving arthroscopic knee surgery"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Side to side difference in anterior tibial translation",
+                              "Patient reported outcomes- Tegner Score",
+                              "Patient reported outcomes- Knee Injury and Osteoarthritis Outcome Score for Joint Replacement (KOOS Jr)",
+                              "Patient reported outcomes- International Knee Documentation Committee (IKDC) Score"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 weeks, 3 months, 6 months, 9 months, 1 year",
+                              "3 months, 6 months, 9 months, 12 months, 24 months",
+                              "3 months, 6 months, 9 months, 12 months, 24 months",
+                              "3 months, 6 months, 9 months, 12 months, 24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04650568"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2017-002766-50"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Insulin doses and measured plasma glucose values are written down in the subject's diary every day by the subject. Amount of insulin, recorded plasma glucose values, time and date will be included",
+                              "Insulin doses and measured plasma glucose values are written down in the subject's diary every day by the subject. Amount of insulin, recorded plasma glucose values, time and date will be included",
+                              "Insulin doses and measured plasma glucose values are written down in the subject's diary every day by the subject. Amount of insulin, recorded plasma glucose values, time and date will be included",
+                              "Measurements of HbA1c will be performed to assess metabolic control during study.",
+                              "Measurements of HbA1c will be performed to assess metabolic control during study.",
+                              "Measured at day 372 compared to before start of treatment",
+                              "Measured at day 372 compared to before start of treatment"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Number of patients insulin independent (ADA criteria) at days 187 and 372",
+                              "Number of patients with daily insulin needs <0.25U/kg at days 187 and 372",
+                              "Insulin requirement/kg BW at days 187 and 372",
+                              "HbA1c at days 187 and 372.",
+                              "Glucose variability at day 372",
+                              "Delta change of levels of fasting C-peptide at day 372",
+                              "Numbers of patients with peak C-peptide >0.20 nmol/l, in response to the MMTT, at day 372"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Days 187 and 372 following WJMSC/Placebo infusion",
+                              "Days 187 and 372 following WJMSC/Placebo infusion",
+                              "Days 187 and 372 following WJMSC/Placebo infusion",
+                              "Days 187 and 372 following WJMSC/Placebo infusion",
+                              "Day 372 following WJMSC/Placebo infusion",
+                              "Day 372 following WJMSC/Placebo infusion",
+                              "Day 372 following WJMSC/Placebo infusion"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03406585"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05215288"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Progression of renal allograft fibrosis between 3 months and one year posttransplantation Renal allograft function at 3 year posttransplantation"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Renal allograft nephropathy"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "4 years"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01380847"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02745379"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2014-003561-15"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "measured by tacrolimus trough levels [ng/ml] and prednisolon dosage [mg/kgBW/day]. Tapering of tacrolimus and steroids will be performed according to a step-wise tapering protocol after day 180.",
+                              "Protocol liver biopsy will be performed on day 180 post LT. Additional biopsies will be taken whenever clinically necessary.",
+                              "[Participants with positive DSA]",
+                              "[Death, Re-Transplantation]"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Individual need for immunosuppressive medication",
+                              "Time to first biopsy-proven acute rejection (BPAR)",
+                              "Immune monitoring: donor-specific antibodies (DSA)",
+                              "Patient and graft survival at 1 and 2 years after liver transplantation"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Two years",
+                              "Two years",
+                              "Two years",
+                              "up to Two years"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02957552"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "fuzhough0712"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "liver function",
+                              "kidney function",
+                              "Portal vein Ultrasound",
+                              "autoantibodies",
+                              "Complete Blood Count"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "5",
+                              "5",
+                              "1",
+                              "5",
+                              "5"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00646724"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2013-000819-25"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Renal function and proteinuria",
+                              "Number of participants with CMV and BK infection an other opportunistic infections between groups",
+                              "Number of participants with adverse events",
+                              "composite end point efficacy failure (biopsy proven acute rejection, graft loss or death)",
+                              "Presence of donor specific antibodies and immunologic monitoring",
+                              "Progression of subclinical cardiovascular disease in the different treatment groups bij assessing echocardiographic parameters"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02057965"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02745366"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Improvement in scores: Ankle-Hindfoot Scale (AHS), Visual Analog Scale (VAS), and Health Survey (SF-36v2)."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00988338"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Changes in renal function as determined by estimated glomerular filtration rate (eGFR) and proteinuria (>1g)",
+                              "Incidence of acute rejection (biopsy confirmed acute rejection)",
+                              "Incidence of delayed graft function (defined as need for post-transplant dialysis within one week)",
+                              "Allograft survival at 1 year post transplant",
+                              "Incidence of death, allograft loss, and hospitalization due to infection at 1 year.",
+                              "Incidence of grade 3 and above non-hematologic toxicities"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Changes in renal function as determined by eGFR and proteinuria",
+                              "Incidence of Acute rejection",
+                              "Incidence of delayed graft function (DGF)",
+                              "Allograft survival",
+                              "SAE (severe adverse effects)",
+                              "non-hematologic toxicities"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year",
+                              "1 year",
+                              "3 months",
+                              "1 year",
+                              "1 year",
+                              "1 year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02492490"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "ResultsFirstSubmitDate": [
+                              "February 14, 2017"
+                        ],
+                        "ResultsFirstSubmitQCDate": [
+                              "May 9, 2017"
+                        ],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "We will also compare the change in iGFR (as well as estimated GFR) from time of conversion to 12 and 24 months of follow up by paired t-test between groups."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Change in iGFR"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01166724"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Difference in chronic Banff scores between spironolactone and retrospective control group at 12 months, eGFR at 6 and 12 months, urinary protein/creatinine ratio and urinary albumin/creatinine ratio at 6 and 12 months"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6-12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01510795"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03337243"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "eGFR up to 12 months post-transplant"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Incidence of slow graft function",
+                              "Incidence of delayed graft function",
+                              "Proportion of normal renal function recovery",
+                              "Time to renal function recovery",
+                              "Patient survival",
+                              "Renal graft survival",
+                              "Incidence of acute rejection",
+                              "Severe adverse events",
+                              "Estimated glomerular filtration rate"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Previous publication"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.ncbi.nlm.nih.gov/pubmed/23263506"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02561767"
+                        ]
+                  },
+                  {
+                        "Rank": 28,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "U1111-1169-2289"
+                        ],
+                        "SecondaryIdDomain": [
+                              "Universal Trial Number"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Other Identifier"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Rejection will be determined as biopsy-proven allograft rejection (BPAR). Graft loss will be counted when the patient loses kidney function to the point that they require chronic renal replacement therapy (e.g., dialysis for more than 8 weeks or a re-transplant)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Number of participants without any acute rejection, graft loss, or death at 6 months post transplant."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months post transplant"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03478215"
+                        ]
+                  },
+                  {
+                        "Rank": 29,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01301664"
+                        ]
+                  },
+                  {
+                        "Rank": 30,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01378182"
+                        ]
+                  },
+                  {
+                        "Rank": 31,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "eGFR up to 12 months post transplant",
+                              "Acute rejection rate according to Banff 2013 criteria up to 12 months post transplant",
+                              "patient and graft survival rate up to 12 months post transplantation",
+                              "Incidence of severe adverse events up to 12 months post transplantation"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Estimated glomerular filtration rate",
+                              "Proportion of normal renal function recovery",
+                              "Time to renal function recovery (days)",
+                              "acute rejection rate",
+                              "patient and graft survival rate",
+                              "Incidence of severe adverse events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Previous publication"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.ncbi.nlm.nih.gov/pubmed/23263506"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02563366"
+                        ]
+                  },
+                  {
+                        "Rank": 32,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "patient survival rate at month 12 after enrollment",
+                              "graft survival rate at month 12 after enrollment",
+                              "Change of DSA level up to 12 months after enrollment",
+                              "Change of pathological scores according to Banff 2013 criteria"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Patient survival rate",
+                              "Graft survival rate",
+                              "Donor specific antibody (DSA) level",
+                              "Pathological manifestation",
+                              "Severe adverse events"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Previous publication"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.ncbi.nlm.nih.gov/pubmed/23263506"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02563340"
+                        ]
+                  },
+                  {
+                        "Rank": 33,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Volumetric measurements with CBCT"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "pre- and 6 months post treatment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02396056"
+                        ]
+                  },
+                  {
+                        "Rank": 34,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "SF-12 Health Survey",
+                              "EQ-5D Quality Adjusted Life Years"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Screening to 24 months",
+                              "Screening to 24 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02529566"
+                        ]
+                  },
+                  {
+                        "Rank": 35,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "VISIA-CR 2D photography\nPRIMOS 3D images of face and neck\nVECTRA 3D photography\nPunch biopsy from the lateral canthal area to examine changes in decorin, fibrillin, elastin, MMPI, and procollagen-1\nSubject self-assessment\nIndependent evaluator assessment\nPrincipal investigator assessment\nChanges in RNA sequencing (from blood specimens)\nChanges in MMP-1, Ang-2, VEGF and FGF (from blood specimens)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "MSC Efficacy"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01771679"
+                        ]
+                  },
+                  {
+                        "Rank": 36,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "- AGVHD grade"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "100 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00823316"
+                        ]
+                  }
+            ]
+      }
+}

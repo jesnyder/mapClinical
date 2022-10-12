@@ -1,0 +1,65 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03252535",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Investigator",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [
+                              "This is a phase II dose-response study in which participants with HD will receive three intravenous injections of the investigational product or placebo (one every month for three months) a total of three cycles. The subjects will be randomized in 2: 2: 1 ratio for the groups G1: lower dose (1x10^6 cells/weight range), G2: higher dose (2x10^6 cells/weight range) or G3: placebo. To identify the dose of the product that will provide the best clinical response, motor assessment will be performed with UHDRS scale and improvement will be evaluated by correlating before and after treatment scores. Additionally, also will be performed the combined score through the cUHDRS. Secondary evidences of efficacy will be evaluated through the data of functional state, total functional capacity, functional independence, psychiatric symptoms and cognition from UHDRS scale. Additionally, related data to clinical worsening, change of Body Mass Index (BMI), risk of suicide attempt and neurological image improvement will be evaluated. Safety evaluation will included the incidence and classification of the adverse events experienced by the subjects during the study."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nProvide a written, signed and dated Informed Consent Form;\nMale and female subjects aged \u2265 21 and \u2264 65 years;\nHave a confirmatory diagnosis report (PCR) of Huntington's disease with a number of CAG repeats in chromosome 4 higher than or equal to 40, and lower than or equal to 50 (if the subject did not perform the exam and/or if he/she does not have an available result for this exam, a new exam must be performed);\nA score of 5 points or higher for the motor evaluation of the UHDRS scale (Unified Huntington's Disease Rating Scale) at enrollment;\nScore of 8 to 11 points for the functional capacity of the UHDRS scale at enrollment.\n\nExclusion Criteria:\n\nSubject who participated in clinical trials protocols within the last twelve (12) months (Resolution CNS 251, August 7, 1997, item III, subitem J), unless, at the investigator's opinion, the subject would have a direct benefit from it;\nDiagnosis of juvenile Huntington's disease;\nDiagnosis of epilepsy;\nDiagnosis of major cognitive disorder;\nActive decompensated psychiatric illness;\nCurrent or prior history of neoplasm;\nCurrent history of gastrointestinal, hepatic, renal, endocrine, pulmonary, hematological, immunological, metabolic pathology or severe uncontrolled cardiovascular diseases;\nDiagnosis of any active infection, whether viral, bacterial, fungal or caused by another pathogen;\nSubject with contraindication to the exams performed in this study, for example, with pacemaker or surgical clip; Alcohol and drugs abuse (previously diagnosed according to the Diagnostic and Statistical Manual of Mental Disorders - DSM V criteria);\nUse of illegal drugs;\nTabagism;\nSmoker or quit smoking for less than 6 months;\nPositive result in one of the serum tests: HIV 1 and 2 (Anti-HIV-1,2), HTLV I and II, HBV (HBsAg, Anti-HBc), HCV (anti-HCV-Ab) and FTA-ABS (Treponema pallidum);\nHistory of drug allergy, including to contrast agents used in imaging tests or bovine-derived products;\nUsing or expects to use immunosuppressant drugs or forbidden drugs (item 5.3) during the first three months after the first administration of the investigational product;\nAny clinical change that the investigator considers a risk to subject's enrollment in the study."
+                        ],
+                        "EnrollmentCount": [
+                              "35"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT03252535"
+                        ]
+                  }
+            ]
+      }
+}

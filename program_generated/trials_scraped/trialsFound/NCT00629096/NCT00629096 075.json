@@ -1,0 +1,104 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT00629096",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cardiomyopathy",
+                              "Dilated Cardiomyopathy",
+                              "Dilated Cardiomyopathy"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11306",
+                              "M4719",
+                              "M8571",
+                              "M8572",
+                              "M2393",
+                              "M22839",
+                              "T1876",
+                              "T1877"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Cardiomyopathies",
+                              "Cardiomyopathy, Dilated",
+                              "Heart Diseases",
+                              "Cardiomegaly",
+                              "Laminopathies",
+                              "Genetic Diseases, Inborn",
+                              "Dilated Cardiomyopathy",
+                              "Dilated Cardiomyopathy 1A"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009202",
+                              "D000002311"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Cardiomyopathies",
+                              "Cardiomyopathy, Dilated"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00629096"
+                        ]
+                  }
+            ]
+      }
+}

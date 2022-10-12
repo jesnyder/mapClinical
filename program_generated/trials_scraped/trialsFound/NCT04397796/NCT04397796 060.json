@@ -1,0 +1,92 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04397796",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This is a phase 1b randomized, double-blind, placebo-controlled study in adult subjects with Coronavirus Disease 2019 (COVID-19). This clinical trial will evaluate the preliminary safety and efficacy of BM-Allo.MSC vs placebo in treating subjects with severe disease requiring ventilator support during COVID 19 infection."
+                        ],
+                        "BriefTitle": [
+                              "Study of the Safety of Therapeutic Tx With Immunomodulatory MSC in Adults With COVID-19 Infection Requiring Mechanical Ventilation"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "June 2022"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "COVID"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000007239",
+                              "D000012141",
+                              "D000011024",
+                              "D000011014",
+                              "D000014777",
+                              "D000018352",
+                              "D000003333",
+                              "D000030341",
+                              "D000012327",
+                              "D000008171",
+                              "D000012140"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Infections",
+                              "Respiratory Tract Infections",
+                              "Pneumonia, Viral",
+                              "Pneumonia",
+                              "Virus Diseases",
+                              "Coronavirus Infections",
+                              "Coronaviridae Infections",
+                              "Nidovirales Infections",
+                              "RNA Virus Infections",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC01",
+                              "BC08",
+                              "All",
+                              "BC23"
+                        ],
+                        "NCTId": [
+                              "NCT04397796"
+                        ]
+                  }
+            ]
+      }
+}

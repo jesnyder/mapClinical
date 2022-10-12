@@ -1,0 +1,65 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT01771913",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "centrifuged fat graft",
+                              "ADSCs enriched centrifuged fat graft"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "fat from the abdominal subcutaneous tissue will be taken by vacuum assisted lipectomy and immediately prepared to be grafted in the reconstructed breast that presents contour irregularities and/or volume insufficiency. No adipose derived stem cells will enrich the fat grafts in this group.",
+                              "fat from the abdominal subcutaneous tissue will be taken by suction assisted lipectomy and stromal vascular fraction will be isolated and immediately added to the fat graft that will be employed to improve contour irregularities and volume insufficiency of reconstructed breasts."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "centrifuged fat graft",
+                              "ADSCs enriched fat graft"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Genetic",
+                              "Genetic"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01771913"
+                        ]
+                  }
+            ]
+      }
+}

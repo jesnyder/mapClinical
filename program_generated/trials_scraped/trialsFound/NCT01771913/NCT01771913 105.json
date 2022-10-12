@@ -1,0 +1,76 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01771913",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "EventGroupOtherNumAtRisk",
+                  "EventGroupSeriousNumAffected",
+                  "EventGroupSeriousNumAtRisk",
+                  "EventGroupTitle",
+                  "EventsDescription",
+                  "EventsFrequencyThreshold",
+                  "EventsTimeFrame",
+                  "ExpAccTypeIndividual",
+                  "ExpAccTypeIntermediate",
+                  "ExpAccTypeTreatment",
+                  "ExpandedAccessNCTId",
+                  "ExpandedAccessStatusForNCTId",
+                  "FDAAA801Violation",
+                  "FlowAchievementComment",
+                  "FlowAchievementGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "EventGroupOtherNumAtRisk": [
+                              "8",
+                              "11"
+                        ],
+                        "EventGroupSeriousNumAffected": [
+                              "0",
+                              "0"
+                        ],
+                        "EventGroupSeriousNumAtRisk": [
+                              "8",
+                              "11"
+                        ],
+                        "EventGroupTitle": [
+                              "Centrifuged Fat Graft",
+                              "ADSCs Enriched Centrifuged Fat Graft"
+                        ],
+                        "EventsDescription": [],
+                        "EventsFrequencyThreshold": [
+                              "0"
+                        ],
+                        "EventsTimeFrame": [
+                              "from fat grafting to 3 years (average) for ADSC arm and 16 months for the centrifuged arm."
+                        ],
+                        "ExpAccTypeIndividual": [],
+                        "ExpAccTypeIntermediate": [],
+                        "ExpAccTypeTreatment": [],
+                        "ExpandedAccessNCTId": [],
+                        "ExpandedAccessStatusForNCTId": [],
+                        "FDAAA801Violation": [],
+                        "FlowAchievementComment": [],
+                        "FlowAchievementGroupId": [
+                              "FG000",
+                              "FG001",
+                              "FG000",
+                              "FG001",
+                              "FG000",
+                              "FG001"
+                        ],
+                        "NCTId": [
+                              "NCT01771913"
+                        ]
+                  }
+            ]
+      }
+}

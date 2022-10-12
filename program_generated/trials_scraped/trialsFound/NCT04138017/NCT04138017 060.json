@@ -1,0 +1,78 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04138017",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "To evaluate the fusion status of the hindfoot bones after receiving the ViviGen graft, an FDA approved cellular bone matrix. This is used in a population indicated for hindfoot arthrodesis as an alternative to an autograft."
+                        ],
+                        "BriefTitle": [
+                              "ViviGen Cellular Bone Matrix for Hindfoot or Ankle Arthrodesis"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "INDUSTRY"
+                        ],
+                        "CollaboratorName": [
+                              "DePuy Synthes"
+                        ],
+                        "CompletionDate": [
+                              "January 2024"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Ankle Deformity",
+                              "Ankle Arthritis"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000007592",
+                              "D000009140"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC05",
+                              "All",
+                              "BC16"
+                        ],
+                        "NCTId": [
+                              "NCT04138017"
+                        ]
+                  }
+            ]
+      }
+}

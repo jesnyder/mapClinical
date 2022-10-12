@@ -1,0 +1,93 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03961243",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This study is a Phase I trial using an advanced lentiviral vector to deliver a functional gene for human clotting factor IX into patients with hemophilia B, to evaluate the safety and efficacy of infusion of lentiviral gene modified autologous stem cells in patients."
+                        ],
+                        "BriefTitle": [
+                              "Lentiviral FIX Gene Therapy"
+                        ],
+                        "CentralContactEMail": [
+                              "c@szgimi.org"
+                        ],
+                        "CentralContactName": [
+                              "Lung-Ji Chang, PhD"
+                        ],
+                        "CentralContactPhone": [
+                              "86-075586725195"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "June 1, 2022"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Hemophilia B"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000025861",
+                              "D000001778",
+                              "D000006402",
+                              "D000020147",
+                              "D000006474",
+                              "D000030342",
+                              "D000040181"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Blood Coagulation Disorders, Inherited",
+                              "Blood Coagulation Disorders",
+                              "Hematologic Diseases",
+                              "Coagulation Protein Disorders",
+                              "Hemorrhagic Disorders",
+                              "Genetic Diseases, Inborn",
+                              "Genetic Diseases, X-Linked"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC15",
+                              "BC16",
+                              "All",
+                              "BC14",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT03961243"
+                        ]
+                  }
+            ]
+      }
+}

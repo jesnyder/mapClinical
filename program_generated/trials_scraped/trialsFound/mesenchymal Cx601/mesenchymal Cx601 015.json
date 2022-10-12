@@ -1,0 +1,125 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Cx601",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [
+                              "ALOASCU"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Treatment consists in a cell suspension (5 million cells/mL) in aseptic buffered solution containing human expanded adipose-derived stem cells (eASCs) of allogeneic origin in disposable vials with no preservative agents. The cells will be given in different sites within the affected colonic submucosa at a total dose of 60 million cells with the use of a colonoscope."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Allogeneic adipose tissue-derived mesenchymal stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "allogeneic ASCs"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01914887"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "14 patients with Crohn's disease refractory to standard treatment for complex perianal fistula got enrolled in this study."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Darvadstrocel"
+                        ],
+                        "ArmGroupLabel": [
+                              "patients with Crohn's disease and complex perianal fistula"
+                        ],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05322057"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "Acronym": [
+                              "ADMIRE-CD"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Cx601 is a cell suspension in aseptic buffered solution containing human expanded adipose-derived stem cells (eASCs) of allogeneic origin in disposable vials with no preservative agents. The cells will be given at a dose of 120 million cells (5 million cells / mL) for intralesional injection.",
+                              "Placebo (saline solution) will be given also for intralesional injection at the same quantity (volume, 24 mL) and following the same schedule."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: Cx601",
+                              "Other: Saline solution"
+                        ],
+                        "ArmGroupLabel": [
+                              "Treatment Arm",
+                              "Placebo-control group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01541579"
+                        ]
+                  }
+            ]
+      }
+}

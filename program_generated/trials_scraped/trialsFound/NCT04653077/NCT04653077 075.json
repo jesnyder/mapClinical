@@ -1,0 +1,97 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04653077",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Nervous System Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Wounds and Injuries",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cerebral Palsy"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M12309",
+                              "M4948",
+                              "M4359",
+                              "M4354",
+                              "M4356",
+                              "M4894",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Paralysis",
+                              "Cerebral Palsy",
+                              "Brain Injuries",
+                              "Brain Damage, Chronic",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000002547"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Cerebral Palsy"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04653077"
+                        ]
+                  }
+            ]
+      }
+}

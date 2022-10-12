@@ -1,5 +1,5 @@
 var  groupundeclared = {
-    "feature_count": 292,
+    "feature_count": 277,
     "type": [
         "FeatureCollection"
     ],
@@ -7,9 +7,9 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Using Mesenchymal Stem Cells to Fill Bone Void Defects in Patients With Benign Bone Lesions",
-                "aff": "Emory University, Atlanta, Georgia, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT00851162",
+                "name": "Mesenchymal Stem Cells In Cisplatin-Induced Acute Renal Failure In Patients With Solid Organ Cancers",
+                "aff": "Unit of Oncology - Ospedali Riuniti of Bergamo, Bergamo, BG, Italy",
+                "url": "https://ClinicalTrials.gov/show/NCT01275612",
                 "status": "Withdrawn",
                 "enrolled": 0,
                 "radius": 10,
@@ -19,14 +19,14 @@ var  groupundeclared = {
                 "fillOpacity": 0.4,
                 "zindex": 10990,
                 "paneLabel": "pane10990",
-                "start": "2009-03-01",
+                "start": "2010-10-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -84.31723780466274,
-                    33.80045465
+                    9.6698727,
+                    45.6944947
                 ]
             }
         },
@@ -59,9 +59,9 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Mesenchymal Stem Cell Injection in Amyotrophic Lateral Sclerosis",
-                "aff": "Neurosciences Research Center, Isfahan, Iran, Islamic Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT02116634",
+                "name": "The Effects of Stromal Vascular Fraction and Mesenchymal Stem Cells as Intra-articular Injection in Knee Joint Osteoarthritis",
+                "aff": "SCARM Institute, Tabriz, Iran, Islamic Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT03164083",
                 "status": "Withdrawn",
                 "enrolled": 0,
                 "radius": 10,
@@ -71,7 +71,7 @@ var  groupundeclared = {
                 "fillOpacity": 0.4,
                 "zindex": 10990,
                 "paneLabel": "pane10990",
-                "start": "2015-05-01",
+                "start": "2019-10-01",
                 "end": "2023-09-30"
             },
             "geometry": {
@@ -111,9 +111,9 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "The Effects of Stromal Vascular Fraction and Mesenchymal Stem Cells as Intra-articular Injection in Knee Joint Osteoarthritis",
-                "aff": "SCARM Institute, Tabriz, Iran, Islamic Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT03164083",
+                "name": "Mesenchymal Stem Cell Injection in Amyotrophic Lateral Sclerosis",
+                "aff": "Neurosciences Research Center, Isfahan, Iran, Islamic Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT02116634",
                 "status": "Withdrawn",
                 "enrolled": 0,
                 "radius": 10,
@@ -123,7 +123,7 @@ var  groupundeclared = {
                 "fillOpacity": 0.4,
                 "zindex": 10990,
                 "paneLabel": "pane10990",
-                "start": "2019-10-01",
+                "start": "2015-05-01",
                 "end": "2023-09-30"
             },
             "geometry": {
@@ -137,9 +137,9 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Mesenchymal Stem Cells In Cisplatin-Induced Acute Renal Failure In Patients With Solid Organ Cancers",
-                "aff": "Unit of Oncology - Ospedali Riuniti of Bergamo, Bergamo, BG, Italy",
-                "url": "https://ClinicalTrials.gov/show/NCT01275612",
+                "name": "Using Mesenchymal Stem Cells to Fill Bone Void Defects in Patients With Benign Bone Lesions",
+                "aff": "Emory University, Atlanta, Georgia, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT00851162",
                 "status": "Withdrawn",
                 "enrolled": 0,
                 "radius": 10,
@@ -149,14 +149,14 @@ var  groupundeclared = {
                 "fillOpacity": 0.4,
                 "zindex": 10990,
                 "paneLabel": "pane10990",
-                "start": "2010-10-01",
+                "start": "2009-03-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.6698727,
-                    45.6944947
+                    -84.31723780466274,
+                    33.80045465
                 ]
             }
         },
@@ -215,6 +215,32 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Intestinal Mesenchymal Stem Stells and Inflammatory Bowel Diseases",
+                "aff": "Hopital St Eloi, Montpellier, France",
+                "url": "https://ClinicalTrials.gov/show/NCT03115749",
+                "status": "Terminated",
+                "enrolled": 2,
+                "radius": 11,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10989,
+                "paneLabel": "pane10989",
+                "start": "2018-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8651257,
+                    43.6291502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Mesenchymal Stem Cell Based Therapy for the Treatment of Osteogenesis Imperfecta",
                 "aff": "Hospital Universitario Cruces, Barakaldo, Bizkaia, Spain ",
                 "url": "https://ClinicalTrials.gov/show/NCT02172885",
@@ -267,35 +293,9 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Intestinal Mesenchymal Stem Stells and Inflammatory Bowel Diseases",
-                "aff": "Hopital St Eloi, Montpellier, France",
-                "url": "https://ClinicalTrials.gov/show/NCT03115749",
-                "status": "Terminated",
-                "enrolled": 2,
-                "radius": 11,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10989,
-                "paneLabel": "pane10989",
-                "start": "2018-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.8651257,
-                    43.6291502
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Osteogenic Effects in Human Mesenchymal Stem Cells Enhanced by Wnt Signaling",
-                "aff": "China Medical Universty Hospital, Taichung, Taiwan",
-                "url": "https://ClinicalTrials.gov/show/NCT01323894",
+                "name": "The Effects of Antibiotic Combinations on Stem Cells",
+                "aff": "Eski\u015fehir Osmangazi University, Eski\u015fehir, Turkey",
+                "url": "https://ClinicalTrials.gov/show/NCT04713436",
                 "status": "Completed",
                 "enrolled": 3,
                 "radius": 11,
@@ -305,14 +305,40 @@ var  groupundeclared = {
                 "fillOpacity": 0.8,
                 "zindex": 10989,
                 "paneLabel": "pane10989",
-                "start": "2011-03-01",
+                "start": "2014-01-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.6478282,
-                    24.163162
+                    34.9249653,
+                    38.9597594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "University of Wisconsin hMSC Cell Bank: Bone Marrow Donor Protocol",
+                "aff": "University of Wisconsin-Madison, Madison, Wisconsin, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT01463475",
+                "status": "Completed",
+                "enrolled": 3,
+                "radius": 11,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10989,
+                "paneLabel": "pane10989",
+                "start": "2011-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.43095871991434,
+                    43.080274450000005
                 ]
             }
         },
@@ -475,35 +501,9 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Safety of Human Embryonic Stem Cell (hESC)-Derived Mesenchymal Stem Cells in Interstitial Cystitis",
-                "aff": "Department of Urology, Asan Medical Center, Seoul, Korea, Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT04610359",
-                "status": "Recruiting",
-                "enrolled": 3,
-                "radius": 11,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10989,
-                "paneLabel": "pane10989",
-                "start": "2020-09-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.10332700284027,
-                    37.50771705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "University of Wisconsin hMSC Cell Bank: Bone Marrow Donor Protocol",
-                "aff": "University of Wisconsin-Madison, Madison, Wisconsin, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT01463475",
+                "name": "Osteogenic Effects in Human Mesenchymal Stem Cells Enhanced by Wnt Signaling",
+                "aff": "China Medical Universty Hospital, Taichung, Taiwan",
+                "url": "https://ClinicalTrials.gov/show/NCT01323894",
                 "status": "Completed",
                 "enrolled": 3,
                 "radius": 11,
@@ -513,40 +513,14 @@ var  groupundeclared = {
                 "fillOpacity": 0.8,
                 "zindex": 10989,
                 "paneLabel": "pane10989",
-                "start": "2011-08-01",
+                "start": "2011-03-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -89.43095871991434,
-                    43.080274450000005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mesenchymal Stem Cells Under Basiliximab/Low Dose RATG to Induce Renal Transplant Tolerance",
-                "aff": "Nephrology Unit, Bergamo, BG, Italy",
-                "url": "https://ClinicalTrials.gov/show/NCT00752479",
-                "status": "Terminated",
-                "enrolled": 4,
-                "radius": 12,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10988,
-                "paneLabel": "pane10988",
-                "start": "2008-05-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.6698727,
-                    45.6944947
+                    120.6478282,
+                    24.163162
                 ]
             }
         },
@@ -579,11 +553,11 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Validation of a Production Method of Stem Cell Isolated From the Nasal Cavity for an Innovative Cell Therapy of Cleft Palate",
-                "aff": "Assistance Publique H\u00f4pitaux de Marseille, Marseille, France",
-                "url": "https://ClinicalTrials.gov/show/NCT02900014",
-                "status": "Unknown status",
-                "enrolled": 5,
+                "name": "Mesenchymal Stem Cells Under Basiliximab/Low Dose RATG to Induce Renal Transplant Tolerance",
+                "aff": "Nephrology Unit, Bergamo, BG, Italy",
+                "url": "https://ClinicalTrials.gov/show/NCT00752479",
+                "status": "Terminated",
+                "enrolled": 4,
                 "radius": 12,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
@@ -591,14 +565,14 @@ var  groupundeclared = {
                 "fillOpacity": 0.4,
                 "zindex": 10988,
                 "paneLabel": "pane10988",
-                "start": "2016-08-01",
+                "start": "2008-05-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.3699525,
-                    43.2961743
+                    9.6698727,
+                    45.6944947
                 ]
             }
         },
@@ -631,52 +605,26 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Mesenchymal Stem Cells (MSC) for Ovarian Cancer",
-                "aff": "University of Texas MD Anderson Cancer Center, Houston, Texas, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT02530047",
-                "status": "Completed",
+                "name": "Validation of a Production Method of Stem Cell Isolated From the Nasal Cavity for an Innovative Cell Therapy of Cleft Palate",
+                "aff": "Assistance Publique H\u00f4pitaux de Marseille, Marseille, France",
+                "url": "https://ClinicalTrials.gov/show/NCT02900014",
+                "status": "Unknown status",
                 "enrolled": 5,
                 "radius": 12,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
                 "zindex": 10988,
                 "paneLabel": "pane10988",
-                "start": "2016-05-01",
+                "start": "2016-08-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.39782993506569,
-                    29.7076703
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Use of Mesenchymal Stem Cells for Alveolar Bone Tissue Engineering for Cleft Lip and Palate Patients",
-                "aff": "Hospital S\u00edrio Liban\u00eas, S\u00e3o Paulo, Brazil",
-                "url": "https://ClinicalTrials.gov/show/NCT01932164",
-                "status": "Completed",
-                "enrolled": 5,
-                "radius": 12,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10988,
-                "paneLabel": "pane10988",
-                "start": "2013-05-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -53.2,
-                    -10.3333333
+                    5.3699525,
+                    43.2961743
                 ]
             }
         },
@@ -709,11 +657,11 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Mesenchymal Stem Cell Transplantation in Osteoarthritis of Hip Joint",
-                "aff": "Royan Institute, Tehran, Iran, Islamic Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT01499056",
+                "name": "Mesenchymal Stem Cells (MSC) for Ovarian Cancer",
+                "aff": "University of Texas MD Anderson Cancer Center, Houston, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT02530047",
                 "status": "Completed",
-                "enrolled": 6,
+                "enrolled": 5,
                 "radius": 12,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
@@ -721,14 +669,14 @@ var  groupundeclared = {
                 "fillOpacity": 0.8,
                 "zindex": 10988,
                 "paneLabel": "pane10988",
-                "start": "2010-06-01",
+                "start": "2016-05-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    51.41666085836621,
-                    35.7447916
+                    -95.39782993506569,
+                    29.7076703
                 ]
             }
         },
@@ -787,9 +735,9 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Treatment Of Bone Cyst With Bone Marrow Mesenchymal Cell Transplantation",
+                "name": "Articular Cartilage Resurfacing With Mesenchymal Stem Cells In Osteoarthritis Of Knee Joint",
                 "aff": "Royan Institute, Tehran, Iran, Islamic Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT01207193",
+                "url": "https://ClinicalTrials.gov/show/NCT01207661",
                 "status": "Completed",
                 "enrolled": 6,
                 "radius": 12,
@@ -799,7 +747,7 @@ var  groupundeclared = {
                 "fillOpacity": 0.8,
                 "zindex": 10988,
                 "paneLabel": "pane10988",
-                "start": "2009-09-01",
+                "start": "2010-08-01",
                 "end": "2023-09-30"
             },
             "geometry": {
@@ -807,6 +755,58 @@ var  groupundeclared = {
                 "coordinates": [
                     51.41666085836621,
                     35.7447916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stem Cell Transplantation in Osteoarthritis of Hip Joint",
+                "aff": "Royan Institute, Tehran, Iran, Islamic Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT01499056",
+                "status": "Completed",
+                "enrolled": 6,
+                "radius": 12,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10988,
+                "paneLabel": "pane10988",
+                "start": "2010-06-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.41666085836621,
+                    35.7447916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety Evaluation of Cellavita HD Administered Intravenously in Participants With Huntington's Disease",
+                "aff": "Azidus Brasil Pesquisa Cient\u00edfica e Desenvolvimento Ltda., Valinhos, S\u00e3o Paulo, Brazil",
+                "url": "https://ClinicalTrials.gov/show/NCT02728115",
+                "status": "Active, not recruiting",
+                "enrolled": 6,
+                "radius": 12,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10988,
+                "paneLabel": "pane10988",
+                "start": "2017-09-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.99583,
+                    -22.97056
                 ]
             }
         },
@@ -865,9 +865,9 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Articular Cartilage Resurfacing With Mesenchymal Stem Cells In Osteoarthritis Of Knee Joint",
+                "name": "Treatment Of Bone Cyst With Bone Marrow Mesenchymal Cell Transplantation",
                 "aff": "Royan Institute, Tehran, Iran, Islamic Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT01207661",
+                "url": "https://ClinicalTrials.gov/show/NCT01207193",
                 "status": "Completed",
                 "enrolled": 6,
                 "radius": 12,
@@ -877,7 +877,7 @@ var  groupundeclared = {
                 "fillOpacity": 0.8,
                 "zindex": 10988,
                 "paneLabel": "pane10988",
-                "start": "2010-08-01",
+                "start": "2009-09-01",
                 "end": "2023-09-30"
             },
             "geometry": {
@@ -969,36 +969,10 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Comparison of Phicogenic vs. Xenogeneic Biomaterial for Maxillary Sinus Floor Elevation",
-                "aff": "Facultad de Odontolog\u00eda, Granada, Spain",
-                "url": "https://ClinicalTrials.gov/show/NCT03682315",
-                "status": "Completed",
-                "enrolled": 8,
-                "radius": 12,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10988,
-                "paneLabel": "pane10988",
-                "start": "2016-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.5995337,
-                    37.1734995
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Efficacy of Wharton Jelly in Erectile Dysfunction",
-                "aff": "Cell Therapy Center, Amman, Jordan",
-                "url": "https://ClinicalTrials.gov/show/NCT03751735",
-                "status": "Completed",
+                "name": "The Clinical Trial of ADR-001 for IgA Nephropathy",
+                "aff": "Kasugai Municipal Hospital, Kasugai, Aichi, Japan ",
+                "url": "https://ClinicalTrials.gov/show/NCT04342325",
+                "status": "Active, not recruiting",
                 "enrolled": 9,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
@@ -1007,24 +981,24 @@ var  groupundeclared = {
                 "fillOpacity": 0.8,
                 "zindex": 10987,
                 "paneLabel": "pane10987",
-                "start": "2017-01-01",
+                "start": "2020-06-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    35.9239625,
-                    31.9515694
+                    137.007459,
+                    35.273804
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Safety of Wharton Jelly in Erectile Dysfunction",
-                "aff": "Cell Therapy Center, Amman, Jordan",
-                "url": "https://ClinicalTrials.gov/show/NCT02945449",
-                "status": "Completed",
+                "name": "The Clinical Trial of ADR-001 for IgA Nephropathy",
+                "aff": " Nagoya University Hospital, Nagoya, Aichi, Japan",
+                "url": "https://ClinicalTrials.gov/show/NCT04342325",
+                "status": "Active, not recruiting",
                 "enrolled": 9,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
@@ -1033,40 +1007,14 @@ var  groupundeclared = {
                 "fillOpacity": 0.8,
                 "zindex": 10987,
                 "paneLabel": "pane10987",
-                "start": "2017-01-01",
+                "start": "2020-06-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    35.9239625,
-                    31.9515694
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety Study and Preliminary Efficacy of Infusion Haploidentical Mesenchymal Stem Cells Derived From Bone Marrow for Treating Recessive Dystrophic Epidermolysis Bullosa",
-                "aff": "Hospital Universitario La Paz, Madrid, Spain",
-                "url": "https://ClinicalTrials.gov/show/NCT04153630",
-                "status": "Unknown status",
-                "enrolled": 9,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2018-05-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.6872531870474874,
-                    40.48144225
+                    136.9212989,
+                    35.1573568
                 ]
             }
         },
@@ -1125,58 +1073,6 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "The Clinical Trial of ADR-001 for IgA Nephropathy",
-                "aff": "Kasugai Municipal Hospital, Kasugai, Aichi, Japan ",
-                "url": "https://ClinicalTrials.gov/show/NCT04342325",
-                "status": "Active, not recruiting",
-                "enrolled": 9,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2020-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    137.007459,
-                    35.273804
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "The Clinical Trial of ADR-001 for IgA Nephropathy",
-                "aff": " Nagoya University Hospital, Nagoya, Aichi, Japan",
-                "url": "https://ClinicalTrials.gov/show/NCT04342325",
-                "status": "Active, not recruiting",
-                "enrolled": 9,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2020-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    136.9212989,
-                    35.1573568
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Mesenchymal Stem Cells Therapy in Patients With Recent Intracerebral Hemorrhage",
                 "aff": "Mayo Clinic in Florida, Jacksonville, Florida, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT03371329",
@@ -1203,11 +1099,11 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "A Study to Collect Bone Marrow for Process Development and Production of BM-MSC to Treat Severe COVID19 Pneumonitis",
-                "aff": "Cambridge University Hospitals NHS Foundation Trust, Cambridge, Cambridgeshire, United Kingdom",
-                "url": "https://ClinicalTrials.gov/show/NCT04397471",
+                "name": "Safety of FURESTEM-CD Inj. in Patients With Moderate to Severe Plaque-type Psoriasis",
+                "aff": "The Catholic Univ. Korea Seoul, St. Marry's Hospital, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT02918123",
                 "status": "Unknown status",
-                "enrolled": 10,
+                "enrolled": 9,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
@@ -1215,215 +1111,33 @@ var  groupundeclared = {
                 "fillOpacity": 0.4,
                 "zindex": 10987,
                 "paneLabel": "pane10987",
-                "start": "2020-05-01",
+                "start": "2018-01-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.1379119791331526,
-                    52.17369755
+                    127.10332700284027,
+                    37.50771705
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Use of Wharton Jelly Derived Mesenchymal Stem Cells for Knee Osteoarthrosis",
-                "aff": "Cell Therapy Center, Amman, Jordan",
-                "url": "https://ClinicalTrials.gov/show/NCT02963727",
-                "status": "Recruiting",
-                "enrolled": 10,
+                "name": "Safety Study and Preliminary Efficacy of Infusion Haploidentical Mesenchymal Stem Cells Derived From Bone Marrow for Treating Recessive Dystrophic Epidermolysis Bullosa",
+                "aff": "Hospital Universitario La Paz, Madrid, Spain",
+                "url": "https://ClinicalTrials.gov/show/NCT04153630",
+                "status": "Unknown status",
+                "enrolled": 9,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
                 "zindex": 10987,
                 "paneLabel": "pane10987",
-                "start": "2017-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    35.9239625,
-                    31.9515694
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Progenitor Potential of Mesenchymal Stem Cells in Palatal Tissue Harvested From Molar and Premolar Sites",
-                "aff": "UAB School of Dentistry Department of Periodontology, Birmingham, Alabama, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT03570333",
-                "status": "Active, not recruiting",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2018-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.8024326,
-                    33.5206824
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Evaluation of Maximum Tolerated Dose, Safety and Efficiency of MSC11FCD Therapy to Recurrent Glioblastoma Patients",
-                "aff": "Bundang CHA Medical Center, Seongnam, Kyunggido, Korea, Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT04657315",
-                "status": "Enrolling by invitation",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2020-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    49.132971,
-                    55.8215537
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clinical Study on the Use of Symbios Xenograft for Sinus Floor Elevation",
-                "aff": "Universidad de Granada, Granada, Spain",
-                "url": "https://ClinicalTrials.gov/show/NCT03797963",
-                "status": "Completed",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2019-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.608422252542611,
-                    37.1808234
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Bone Marrow Aspirate Concentrate (BMAC)Treatment for Knee Osteoarthritis",
-                "aff": "University of California San Diego Koman Outpatient Pavilion, La Jolla, California, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04716803",
-                "status": "Recruiting",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2020-07-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -117.2740777,
-                    32.8401623
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mesenchymal Stem Cell Therapy for Bronchopulmonary Dysplasia in Preterm Babies",
-                "aff": "Hospital Universitario A Coru\u00f1a, A Coru\u00f1a, Spain ",
-                "url": "https://ClinicalTrials.gov/show/NCT02443961",
-                "status": "Active, not recruiting",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2019-04-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -8.73668,
-                    42.22529
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mesenchymal Stem Cell Therapy for Bronchopulmonary Dysplasia in Preterm Babies",
-                "aff": " Hospital Cl\u00ednico San Carlos, Madrid, Spain ",
-                "url": "https://ClinicalTrials.gov/show/NCT02443961",
-                "status": "Active, not recruiting",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2019-04-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.7035825,
-                    40.4167047
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mesenchymal Stem Cell Therapy for Bronchopulmonary Dysplasia in Preterm Babies",
-                "aff": " Hospital Universitario La Paz, Madrid, Spain ",
-                "url": "https://ClinicalTrials.gov/show/NCT02443961",
-                "status": "Active, not recruiting",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2019-04-01",
+                "start": "2018-05-01",
                 "end": "2023-09-30"
             },
             "geometry": {
@@ -1437,10 +1151,10 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Mesenchymal Stem Cell Therapy for Bronchopulmonary Dysplasia in Preterm Babies",
-                "aff": " Hospital Universitario y Polit\u00e9cnico La Fe, Valencia, Spain",
-                "url": "https://ClinicalTrials.gov/show/NCT02443961",
-                "status": "Active, not recruiting",
+                "name": "Evaluate Safety of Adipose Derived Mesenchymal Stem Cell Transplantation for Type 1 Diabetes Treatment",
+                "aff": "Vinmec Research Institute of Stem Cell and Gene Technology, Hanoi, Vietnam",
+                "url": "https://ClinicalTrials.gov/show/NCT05308836",
+                "status": "Recruiting",
                 "enrolled": 10,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
@@ -1449,23 +1163,23 @@ var  groupundeclared = {
                 "fillOpacity": 0.8,
                 "zindex": 10987,
                 "paneLabel": "pane10987",
-                "start": "2019-04-01",
+                "start": "2021-09-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.3763353,
-                    39.4697065
+                    105.8544441,
+                    21.0294498
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Use of Adipose Tissue Derived Mesenchymal Stem Cells for Knee Osteoarthrosis",
+                "name": "Use of Wharton Jelly Derived Mesenchymal Stem Cells for Knee Osteoarthrosis",
                 "aff": "Cell Therapy Center, Amman, Jordan",
-                "url": "https://ClinicalTrials.gov/show/NCT02966951",
+                "url": "https://ClinicalTrials.gov/show/NCT02963727",
                 "status": "Recruiting",
                 "enrolled": 10,
                 "radius": 13,
@@ -1515,140 +1229,10 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Evaluate Safety of Adipose Derived Mesenchymal Stem Cell Transplantation for Type 1 Diabetes Treatment",
-                "aff": "Vinmec Research Institute of Stem Cell and Gene Technology, Hanoi, Vietnam",
-                "url": "https://ClinicalTrials.gov/show/NCT05308836",
-                "status": "Recruiting",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2021-09-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    105.8544441,
-                    21.0294498
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "A Study to Evaluate the Potential of Mesenchymal Stromal Cells to Treat Obliterative Bronchiolitis After Lung Transplantation",
-                "aff": "TPCH, Brisbane, Queensland, Australia ",
-                "url": "https://ClinicalTrials.gov/show/NCT01175655",
-                "status": "Completed",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2010-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.0234991,
-                    -27.4689682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "A Study to Evaluate the Potential of Mesenchymal Stromal Cells to Treat Obliterative Bronchiolitis After Lung Transplantation",
-                "aff": " RPH, Perth, Western Australia, Australia",
-                "url": "https://ClinicalTrials.gov/show/NCT01175655",
-                "status": "Completed",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2010-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    115.8605801,
-                    -31.9558964
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mesenchymal Stem Cells and Myocardial Ischemia",
-                "aff": "University Hospital (Rangueil), Toulouse, France",
-                "url": "https://ClinicalTrials.gov/show/NCT01076920",
-                "status": "Completed",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2009-09-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.4442469,
-                    43.6044622
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Tolerability Study of MSC Exosome Ointment",
-                "aff": "National University Hospital, Singapore, Singapore",
-                "url": "https://ClinicalTrials.gov/show/NCT05523011",
-                "status": "Completed",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2022-03-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    103.8194992,
-                    1.357107
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "CD49 in Optimization The Cologenicity of Mesenchymal Stem Cell Culture Passage",
-                "aff": "Sohag University Hospital, Sohag, Egypt",
-                "url": "https://ClinicalTrials.gov/show/NCT05093725",
-                "status": "Not yet recruiting",
+                "name": "Transplantation of Bone Marrow Mesenchymal Stem Cell in Crohn's Disease",
+                "aff": "Royan Institute, Tehran, Iran, Islamic Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT01874015",
+                "status": "Unknown status",
                 "enrolled": 10,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
@@ -1657,14 +1241,40 @@ var  groupundeclared = {
                 "fillOpacity": 0.4,
                 "zindex": 10987,
                 "paneLabel": "pane10987",
-                "start": "2021-10-01",
+                "start": "2013-02-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.090993613434186,
-                    26.76246285
+                    51.41666085836621,
+                    35.7447916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Evaluation of Maximum Tolerated Dose, Safety and Efficiency of MSC11FCD Therapy to Recurrent Glioblastoma Patients",
+                "aff": "Bundang CHA Medical Center, Seongnam, Kyunggido, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04657315",
+                "status": "Enrolling by invitation",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2020-06-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.132971,
+                    55.8215537
                 ]
             }
         },
@@ -1749,62 +1359,10 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Mesenchymal Stem Cells; Donor and Role in Management and Reconstruction of Nonunion Fracture",
-                "aff": "RSCM, Jakarta, Indonesia",
-                "url": "https://ClinicalTrials.gov/show/NCT01626625",
-                "status": "Unknown status",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2010-04-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    106.8465678,
-                    -6.1985508
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mesenchymal Stem Cell in Patients With Acute Severe Respiratory Failure",
-                "aff": "Asan Medical Center, Seoul, Korea, Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT02112500",
-                "status": "Unknown status",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2014-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.10332700284027,
-                    37.50771705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clinical Trials of Regeneration for Periodontal Tissue",
-                "aff": "\uff29\uff4estitute of Biomedical Research and Innovation, Kobe, Hyogo Pref., Japan",
-                "url": "https://ClinicalTrials.gov/show/NCT00221130",
-                "status": "Completed",
+                "name": "Progenitor Potential of Mesenchymal Stem Cells in Palatal Tissue Harvested From Molar and Premolar Sites",
+                "aff": "UAB School of Dentistry Department of Periodontology, Birmingham, Alabama, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT03570333",
+                "status": "Active, not recruiting",
                 "enrolled": 10,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
@@ -1813,92 +1371,14 @@ var  groupundeclared = {
                 "fillOpacity": 0.8,
                 "zindex": 10987,
                 "paneLabel": "pane10987",
-                "start": "2004-07-01",
+                "start": "2018-08-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    134.8541822,
-                    34.9074897
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Linagliptin and Mesenchymal Stem Cells: A Pilot Study",
-                "aff": "University of Nevada School of Medicine, Reno, Nevada, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT02442817",
-                "status": "Completed",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2015-03-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -119.8126581,
-                    39.5261206
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "The Pilot Experimental Study of the Neuroprotective Effects of Exosomes in Extremely Low Birth Weight Infants",
-                "aff": "Federal State Budget Institution Research Center for Obstetrics, Gynecology and Perinatology Ministry of Healthcare, Moscow, Russian Federation",
-                "url": "https://ClinicalTrials.gov/show/NCT05490173",
-                "status": "Not yet recruiting",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2022-09-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.6174943,
-                    55.7504461
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Transplantation of Bone Marrow Mesenchymal Stem Cell in Crohn's Disease",
-                "aff": "Royan Institute, Tehran, Iran, Islamic Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT01874015",
-                "status": "Unknown status",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2013-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    51.41666085836621,
-                    35.7447916
+                    -86.8024326,
+                    33.5206824
                 ]
             }
         },
@@ -2009,6 +1489,344 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Safety and Tolerability Study of MSC Exosome Ointment",
+                "aff": "National University Hospital, Singapore, Singapore",
+                "url": "https://ClinicalTrials.gov/show/NCT05523011",
+                "status": "Completed",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2022-03-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8194992,
+                    1.357107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Pilot Experimental Study of the Neuroprotective Effects of Exosomes in Extremely Low Birth Weight Infants",
+                "aff": "Federal State Budget Institution Research Center for Obstetrics, Gynecology and Perinatology Ministry of Healthcare, Moscow, Russian Federation",
+                "url": "https://ClinicalTrials.gov/show/NCT05490173",
+                "status": "Not yet recruiting",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2022-09-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6174943,
+                    55.7504461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Trials of Regeneration for Periodontal Tissue",
+                "aff": "\uff29\uff4estitute of Biomedical Research and Innovation, Kobe, Hyogo Pref., Japan",
+                "url": "https://ClinicalTrials.gov/show/NCT00221130",
+                "status": "Completed",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2004-07-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.8541822,
+                    34.9074897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Linagliptin and Mesenchymal Stem Cells: A Pilot Study",
+                "aff": "University of Nevada School of Medicine, Reno, Nevada, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT02442817",
+                "status": "Completed",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2015-03-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.8126581,
+                    39.5261206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stem Cell in Patients With Acute Severe Respiratory Failure",
+                "aff": "Asan Medical Center, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT02112500",
+                "status": "Unknown status",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2014-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stem Cells; Donor and Role in Management and Reconstruction of Nonunion Fracture",
+                "aff": "RSCM, Jakarta, Indonesia",
+                "url": "https://ClinicalTrials.gov/show/NCT01626625",
+                "status": "Unknown status",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2010-04-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.8465678,
+                    -6.1985508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Study to Evaluate the Potential of Mesenchymal Stromal Cells to Treat Obliterative Bronchiolitis After Lung Transplantation",
+                "aff": "TPCH, Brisbane, Queensland, Australia ",
+                "url": "https://ClinicalTrials.gov/show/NCT01175655",
+                "status": "Completed",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2010-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.0234991,
+                    -27.4689682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Study to Evaluate the Potential of Mesenchymal Stromal Cells to Treat Obliterative Bronchiolitis After Lung Transplantation",
+                "aff": " RPH, Perth, Western Australia, Australia",
+                "url": "https://ClinicalTrials.gov/show/NCT01175655",
+                "status": "Completed",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2010-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.8605801,
+                    -31.9558964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Study to Collect Bone Marrow for Process Development and Production of BM-MSC to Treat Severe COVID19 Pneumonitis",
+                "aff": "Cambridge University Hospitals NHS Foundation Trust, Cambridge, Cambridgeshire, United Kingdom",
+                "url": "https://ClinicalTrials.gov/show/NCT04397471",
+                "status": "Unknown status",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2020-05-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1379119791331526,
+                    52.17369755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stem Cell Therapy for Bronchopulmonary Dysplasia in Preterm Babies",
+                "aff": "Hospital Universitario A Coru\u00f1a, A Coru\u00f1a, Spain ",
+                "url": "https://ClinicalTrials.gov/show/NCT02443961",
+                "status": "Active, not recruiting",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2019-04-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.73668,
+                    42.22529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stem Cell Therapy for Bronchopulmonary Dysplasia in Preterm Babies",
+                "aff": " Hospital Cl\u00ednico San Carlos, Madrid, Spain ",
+                "url": "https://ClinicalTrials.gov/show/NCT02443961",
+                "status": "Active, not recruiting",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2019-04-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7035825,
+                    40.4167047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stem Cell Therapy for Bronchopulmonary Dysplasia in Preterm Babies",
+                "aff": " Hospital Universitario La Paz, Madrid, Spain ",
+                "url": "https://ClinicalTrials.gov/show/NCT02443961",
+                "status": "Active, not recruiting",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2019-04-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6872531870474874,
+                    40.48144225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stem Cell Therapy for Bronchopulmonary Dysplasia in Preterm Babies",
+                "aff": " Hospital Universitario y Polit\u00e9cnico La Fe, Valencia, Spain",
+                "url": "https://ClinicalTrials.gov/show/NCT02443961",
+                "status": "Active, not recruiting",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2019-04-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3763353,
+                    39.4697065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Safety Study of Bone-marrow Derived Mesenchymal Stromal Cells Associated With Endobronchial Valves in Emphysema",
                 "aff": "Pontificia Universidade Catolica do Parana, Curitiba, PR, Brazil ",
                 "url": "https://ClinicalTrials.gov/show/NCT01872624",
@@ -2087,6 +1905,58 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Use of Adipose Tissue Derived Mesenchymal Stem Cells for Knee Osteoarthrosis",
+                "aff": "Cell Therapy Center, Amman, Jordan",
+                "url": "https://ClinicalTrials.gov/show/NCT02966951",
+                "status": "Recruiting",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2017-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.9239625,
+                    31.9515694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stem Cells and Myocardial Ischemia",
+                "aff": "University Hospital (Rangueil), Toulouse, France",
+                "url": "https://ClinicalTrials.gov/show/NCT01076920",
+                "status": "Completed",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2009-09-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4442469,
+                    43.6044622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Mesenchymal Stromal Cells as Treatment of Chronic Graft-versus-host Disease",
                 "aff": "Hematology Center, Karolinska University Hospital Huddinge, Stockholm, Sweden",
                 "url": "https://ClinicalTrials.gov/show/NCT01522716",
@@ -2113,6 +1983,32 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Safety of ADSTEM Injection in Patients With Moderate to Severe Subacute and Chronic Atopic Dermatitis",
+                "aff": "Chungnam National University Hospital, Daejeon, Chungcheongnam-do, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT03252340",
+                "status": "Active, not recruiting",
+                "enrolled": 11,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2017-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10837297022098,
+                    36.1119884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Salivary Gland Autotransplantation for Treatment of XRT Induced Xerostomia",
                 "aff": "University of Wisconsin Carbone Cancer Center, Madison, Wisconsin, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT04007081",
@@ -2133,6 +2029,32 @@ var  groupundeclared = {
                 "coordinates": [
                     -89.3837613,
                     43.074761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Genetically Modified Mesenchymal Stem Cell Theraopeutic Against Head and Neck Cancer",
+                "aff": "Seoul St.Mary's Hospital of the Catholic University of Korea, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT02079324",
+                "status": "Unknown status",
+                "enrolled": 12,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2014-03-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
                 ]
             }
         },
@@ -2217,26 +2139,52 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Therapeutic Strategy and the Role of Mesenchymal Stromal Cells for ABO Incompatible Liver Transplantation",
-                "aff": "The Third Affiliated Hospital,Sun Yat-sen University, Guangzhou, Guangdong, China",
-                "url": "https://ClinicalTrials.gov/show/NCT02706132",
-                "status": "Unknown status",
+                "name": "Haploidentical Stem Cell Transplantation in Neuroblastoma",
+                "aff": "Lund University Hospital, Department of Pediatric Oncology and Bone Marrow Transplantation, Lund, Sweden",
+                "url": "https://ClinicalTrials.gov/show/NCT00790413",
+                "status": "Active, not recruiting",
                 "enrolled": 15,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
                 "zindex": 10987,
                 "paneLabel": "pane10987",
-                "start": "2014-02-01",
+                "start": "2008-10-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    113.29235087324346,
-                    23.09960335
+                    13.1929449,
+                    55.7029296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ViviGen Cellular Bone Matrix for Hindfoot or Ankle Arthrodesis",
+                "aff": "University of Virginia, Charlottesville, Virginia, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04138017",
+                "status": "Enrolling by invitation",
+                "enrolled": 15,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2018-09-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.499060670954,
+                    38.0324342
                 ]
             }
         },
@@ -2269,9 +2217,9 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "The Effect of Platelet Rich Fibrin Matrix With and Without Peripheral Blood Mesenchymal Stem Cells on Implant Stability",
-                "aff": "Kle Society'S Institute of Dental Sciences, Bengaluru, Karnataka, India",
-                "url": "https://ClinicalTrials.gov/show/NCT03044119",
+                "name": "Therapeutic Strategy and the Role of Mesenchymal Stromal Cells for ABO Incompatible Liver Transplantation",
+                "aff": "The Third Affiliated Hospital,Sun Yat-sen University, Guangzhou, Guangdong, China",
+                "url": "https://ClinicalTrials.gov/show/NCT02706132",
                 "status": "Unknown status",
                 "enrolled": 15,
                 "radius": 13,
@@ -2281,14 +2229,66 @@ var  groupundeclared = {
                 "fillOpacity": 0.4,
                 "zindex": 10987,
                 "paneLabel": "pane10987",
-                "start": "2018-03-01",
+                "start": "2014-02-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    77.590082,
-                    12.9767936
+                    113.29235087324346,
+                    23.09960335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gingival Crevicular Fluid Bone Morphogenetic Protein - 2 Release Profile Following the Use of Perforated Membrane",
+                "aff": "Al azhar universty, Cairo Governorate, Egypt",
+                "url": "https://ClinicalTrials.gov/show/NCT01860495",
+                "status": "Completed",
+                "enrolled": 15,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2012-03-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.56216510229193,
+                    30.0332516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phase I/II Study of AloCelyvir in Patients With Metastatic Uveal Melanoma",
+                "aff": "ICO Hospitalet, Hospitalet de Llobregat, Barcelona, Spain",
+                "url": "https://ClinicalTrials.gov/show/NCT05047276",
+                "status": "Not yet recruiting",
+                "enrolled": 16,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2021-09-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.110545,
+                    41.345614
                 ]
             }
         },
@@ -2347,9 +2347,9 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Evaluation the Treatment of Nonunion of Long Bone Fracture of Lower Extremities (Femur and Tibia) Using Mononuclear Stem Cells From the Iliac Wing Within a 3-D Tissue Engineered Scaffold",
-                "aff": "Emdai Kamyab Hospital, Mashhad, Khorasan, Iran, Islamic Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT01958502",
+                "name": "Safety Observation on hESC Derived MSC Like Cell for the Meniscus Injury",
+                "aff": "Tongji Hospital, Tongji Medical College of Science and Technology, Wuhan, Hubei, China",
+                "url": "https://ClinicalTrials.gov/show/NCT03839238",
                 "status": "Unknown status",
                 "enrolled": 18,
                 "radius": 14,
@@ -2359,40 +2359,14 @@ var  groupundeclared = {
                 "fillOpacity": 0.4,
                 "zindex": 10986,
                 "paneLabel": "pane10986",
-                "start": "2013-07-01",
+                "start": "2019-01-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    59.5875443,
-                    36.2964599
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Knee Osteoarthritis Treatment With Adipose-derived Stem Cells: Phase II Clinical Trial",
-                "aff": "King Faisal Sepcialist Hospital and Research Center, Jeddah, Saudi Arabia",
-                "url": "https://ClinicalTrials.gov/show/NCT03308006",
-                "status": "Unknown status",
-                "enrolled": 18,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2018-11-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.1653612,
-                    21.5810088
+                    114.2999353,
+                    30.5951051
                 ]
             }
         },
@@ -2425,9 +2399,9 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Safety Observation on hESC Derived MSC Like Cell for the Meniscus Injury",
-                "aff": "Tongji Hospital, Tongji Medical College of Science and Technology, Wuhan, Hubei, China",
-                "url": "https://ClinicalTrials.gov/show/NCT03839238",
+                "name": "Evaluation the Treatment of Nonunion of Long Bone Fracture of Lower Extremities (Femur and Tibia) Using Mononuclear Stem Cells From the Iliac Wing Within a 3-D Tissue Engineered Scaffold",
+                "aff": "Emdai Kamyab Hospital, Mashhad, Khorasan, Iran, Islamic Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT01958502",
                 "status": "Unknown status",
                 "enrolled": 18,
                 "radius": 14,
@@ -2437,14 +2411,40 @@ var  groupundeclared = {
                 "fillOpacity": 0.4,
                 "zindex": 10986,
                 "paneLabel": "pane10986",
-                "start": "2019-01-01",
+                "start": "2013-07-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    114.2999353,
-                    30.5951051
+                    59.5875443,
+                    36.2964599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Efficacy of Mesenchymal Stem Cells for Stimulate the Union in Treatment of Non-united Tibial and Femoral Fractures in Shahid Kamyab Hospital",
+                "aff": "Emdai Kamyab Hospital, Mashhad, Khorasan, Iran, Islamic Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT01788059",
+                "status": "Completed",
+                "enrolled": 19,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2013-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.5875443,
+                    36.2964599
                 ]
             }
         },
@@ -2503,87 +2503,9 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "The Efficacy of Mesenchymal Stem Cells for Stimulate the Union in Treatment of Non-united Tibial and Femoral Fractures in Shahid Kamyab Hospital",
-                "aff": "Emdai Kamyab Hospital, Mashhad, Khorasan, Iran, Islamic Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT01788059",
-                "status": "Completed",
-                "enrolled": 19,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2013-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    59.5875443,
-                    36.2964599
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mesenchymal Stromal Cell Therapy for Severe Covid-19 Infection",
-                "aff": "CHU de Li\u00e8ge, Li\u00e8ge, Belgium",
-                "url": "https://ClinicalTrials.gov/show/NCT04445454",
-                "status": "Recruiting",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2020-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.20776,
-                    53.6143224
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Treatment of Patients With Bone Tissue Defects Using Mesenchymal Stem Cells Enriched by Extracellular Vesicles",
-                "aff": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus, Minsk, Belarus",
-                "url": "https://ClinicalTrials.gov/show/NCT05520125",
-                "status": "Not yet recruiting",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2022-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.5618225,
-                    53.9024716
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "3D Tissue Engineered Bone Equivalent for Treatment of Traumatic Bone Defects",
-                "aff": "LIMITED LIABILITY COMPANY \"A.A. PARTNERS\" (Medical company ilaya\u00ae), Kiev, Ukraine",
-                "url": "https://ClinicalTrials.gov/show/NCT03103295",
+                "name": "Bone Marrow-Derived Mesenchymal Stem Cell Treatment for Severe Patients With Coronavirus Disease 2019 (COVID-19)",
+                "aff": "Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04346368",
                 "status": "Unknown status",
                 "enrolled": 20,
                 "radius": 14,
@@ -2593,92 +2515,14 @@ var  groupundeclared = {
                 "fillOpacity": 0.4,
                 "zindex": 10986,
                 "paneLabel": "pane10986",
-                "start": "2015-10-01",
+                "start": "2020-04-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.5241361,
-                    50.4500336
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Isolation and Authentication of Mesenchymal Stem Cell-like Progenitor Cells From the Degenerated Intervertebral Disc of Lumbar Spine",
-                "aff": "Taipei Medical University - WanFang Hospital, Taipei, Taiwan",
-                "url": "https://ClinicalTrials.gov/show/NCT01213953",
-                "status": "Unknown status",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2010-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.5636796,
-                    25.0375198
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Use of Mesenchymal Stem Cells in Inflammatory Bowel Disease",
-                "aff": "Cell Therapy Center, Amman, Jordan",
-                "url": "https://ClinicalTrials.gov/show/NCT03299413",
-                "status": "Unknown status",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2017-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    35.9239625,
-                    31.9515694
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mesenchymal Stem Cell Infusion for COVID-19 Infection",
-                "aff": "NIBMT, Rawalpindi, Punjab, Pakistan",
-                "url": "https://ClinicalTrials.gov/show/NCT04444271",
-                "status": "Unknown status",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2020-05-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    73.048136,
-                    33.6038766
+                    113.2592945,
+                    23.1301964
                 ]
             }
         },
@@ -2711,6 +2555,32 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
+                "name": "3D Tissue Engineered Bone Equivalent for Treatment of Traumatic Bone Defects",
+                "aff": "LIMITED LIABILITY COMPANY \"A.A. PARTNERS\" (Medical company ilaya\u00ae), Kiev, Ukraine",
+                "url": "https://ClinicalTrials.gov/show/NCT03103295",
+                "status": "Unknown status",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2015-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5241361,
+                    50.4500336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Mesenchymal Stem Cells in Patients Diagnosed With COVID-19",
                 "aff": "Hospital Regional Lic Adolfo Lopez Mateos, Mexico City, Ciudad De Mexico CDMX (Mexico City), Mexico",
                 "url": "https://ClinicalTrials.gov/show/NCT04611256",
@@ -2737,9 +2607,9 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Mesenchymal Stem Cell-derived Pleiotropic Factor in the Treatment of Donor Sites",
-                "aff": "People's Liberation Army Central Air Force Hospital, Datong, Shanxi, China",
-                "url": "https://ClinicalTrials.gov/show/NCT04234750",
+                "name": "Mesenchymal Stem Cell Infusion for COVID-19 Infection",
+                "aff": "NIBMT, Rawalpindi, Punjab, Pakistan",
+                "url": "https://ClinicalTrials.gov/show/NCT04444271",
                 "status": "Unknown status",
                 "enrolled": 20,
                 "radius": 14,
@@ -2749,118 +2619,14 @@ var  groupundeclared = {
                 "fillOpacity": 0.4,
                 "zindex": 10986,
                 "paneLabel": "pane10986",
-                "start": "2019-09-01",
+                "start": "2020-05-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    113.2951122,
-                    40.0919817
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Effectivity of Mesenchymal Stem Cell on Vertebral Bone Defect Due to Mycobaterium Tuberculosis Infection",
-                "aff": "Cipto Mangunkusumo Hospital, Jakarta Pusat, DKI Jakarta, Indonesia",
-                "url": "https://ClinicalTrials.gov/show/NCT04493918",
-                "status": "Unknown status",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2017-05-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    106.84674005186504,
-                    -6.19720085
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Bone Marrow-Derived Mesenchymal Stem Cell Treatment for Severe Patients With Coronavirus Disease 2019 (COVID-19)",
-                "aff": "Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China",
-                "url": "https://ClinicalTrials.gov/show/NCT04346368",
-                "status": "Unknown status",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2020-04-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    113.2592945,
-                    23.1301964
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mesenchymal Stem Cell Treatment for Pneumonia Patients Infected With COVID-19",
-                "aff": "Beijing 302 Military Hospital of China, Beijing, China",
-                "url": "https://ClinicalTrials.gov/show/NCT04252118",
-                "status": "Unknown status",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2020-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    116.3912757,
-                    39.906217
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "A Study of ADR-001 in Patients With Severe Pneumonia Caused by SARS-CoV-2 Infection (COVID-19)",
-                "aff": "Osaka University Hospital, Suita, Osaka, Japan",
-                "url": "https://ClinicalTrials.gov/show/NCT04888949",
-                "status": "Recruiting",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2021-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.51735,
-                    34.764884
+                    73.048136,
+                    33.6038766
                 ]
             }
         },
@@ -2893,9 +2659,61 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Autogenous Mesenchymal Stem Cell Culture-Derived Signalling Molecules as Enhancers of Bone Formation in Bone Grafting",
-                "aff": "Pontificia Universidade Cat\u00f3lica do Rio Grande do Sul, Porto Alegre, RS, Brazil",
-                "url": "https://ClinicalTrials.gov/show/NCT04998058",
+                "name": "Mesenchymal Stem Cell-derived Pleiotropic Factor in the Treatment of Donor Sites",
+                "aff": "People's Liberation Army Central Air Force Hospital, Datong, Shanxi, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04234750",
+                "status": "Unknown status",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2019-09-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2951122,
+                    40.0919817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stem Cell Treatment for Pneumonia Patients Infected With COVID-19",
+                "aff": "Beijing 302 Military Hospital of China, Beijing, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04252118",
+                "status": "Unknown status",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2020-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.3912757,
+                    39.906217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Treatment of Patients With Bone Tissue Defects Using Mesenchymal Stem Cells Enriched by Extracellular Vesicles",
+                "aff": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus, Minsk, Belarus",
+                "url": "https://ClinicalTrials.gov/show/NCT05520125",
                 "status": "Not yet recruiting",
                 "enrolled": 20,
                 "radius": 14,
@@ -2905,25 +2723,51 @@ var  groupundeclared = {
                 "fillOpacity": 0.4,
                 "zindex": 10986,
                 "paneLabel": "pane10986",
-                "start": "2022-11-01",
+                "start": "2022-10-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -51.2303767,
-                    -30.0324999
+                    27.5618225,
+                    53.9024716
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Mesenchymal Stem Cells Therapy in Patients With COVID-19 Pneumonia",
-                "aff": "University of Health Sciences, Istanbul, Turkey",
-                "url": "https://ClinicalTrials.gov/show/NCT04713878",
-                "status": "Completed",
-                "enrolled": 21,
+                "name": "Effectivity of Mesenchymal Stem Cell on Vertebral Bone Defect Due to Mycobaterium Tuberculosis Infection",
+                "aff": "Cipto Mangunkusumo Hospital, Jakarta Pusat, DKI Jakarta, Indonesia",
+                "url": "https://ClinicalTrials.gov/show/NCT04493918",
+                "status": "Unknown status",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2017-05-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.84674005186504,
+                    -6.19720085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stromal Cell Therapy for Severe Covid-19 Infection",
+                "aff": "CHU de Li\u00e8ge, Li\u00e8ge, Belgium",
+                "url": "https://ClinicalTrials.gov/show/NCT04445454",
+                "status": "Recruiting",
+                "enrolled": 20,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
@@ -2931,14 +2775,92 @@ var  groupundeclared = {
                 "fillOpacity": 0.8,
                 "zindex": 10986,
                 "paneLabel": "pane10986",
-                "start": "2020-05-01",
+                "start": "2020-06-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.01972468459884,
-                    41.0039615
+                    -2.20776,
+                    53.6143224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Non-randomized, Open-labeled, Interventional, Single Group, Proof of Concept Study With Multi-modality Approach in Cases of Brain Death Due to Traumatic Brain Injury Having Diffuse Axonal Injury",
+                "aff": "Anupam Hospital, Rudrapur, Uttaranchal, India",
+                "url": "https://ClinicalTrials.gov/show/NCT02742857",
+                "status": "Completed",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2016-07-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3963951,
+                    28.974744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Study of ADR-001 in Patients With Severe Pneumonia Caused by SARS-CoV-2 Infection (COVID-19)",
+                "aff": "Osaka University Hospital, Suita, Osaka, Japan",
+                "url": "https://ClinicalTrials.gov/show/NCT04888949",
+                "status": "Recruiting",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2021-06-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.51735,
+                    34.764884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Isolation and Authentication of Mesenchymal Stem Cell-like Progenitor Cells From the Degenerated Intervertebral Disc of Lumbar Spine",
+                "aff": "Taipei Medical University - WanFang Hospital, Taipei, Taiwan",
+                "url": "https://ClinicalTrials.gov/show/NCT01213953",
+                "status": "Unknown status",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2010-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5636796,
+                    25.0375198
                 ]
             }
         },
@@ -2965,6 +2887,32 @@ var  groupundeclared = {
                 "coordinates": [
                     138.7669125,
                     37.6452283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stem Cells Therapy in Patients With COVID-19 Pneumonia",
+                "aff": "University of Health Sciences, Istanbul, Turkey",
+                "url": "https://ClinicalTrials.gov/show/NCT04713878",
+                "status": "Completed",
+                "enrolled": 21,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2020-05-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.01972468459884,
+                    41.0039615
                 ]
             }
         },
@@ -3023,6 +2971,240 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Stem Cell Therapy for Type 2 Diabetes Mellitus",
+                "aff": "Armed Police General Hospital, P.R. China, Beijing, China",
+                "url": "https://ClinicalTrials.gov/show/NCT01142050",
+                "status": "Unknown status",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2010-06-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.46671365574096,
+                    39.98388405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
+                "aff": "Inje University Haeundae Paik Hospital, Busan, Korea, Republic of ",
+                "url": "https://ClinicalTrials.gov/show/NCT02000362",
+                "status": "Unknown status",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2013-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.93246511484085,
+                    35.19259925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
+                "aff": " Yeungnam University Medical Center, Daegu, Korea, Republic of ",
+                "url": "https://ClinicalTrials.gov/show/NCT02000362",
+                "status": "Unknown status",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2013-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.132971,
+                    55.8215537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
+                "aff": " Seoul National Universtiy Bundang Hospital, Seongnam-si, Korea, Republic of ",
+                "url": "https://ClinicalTrials.gov/show/NCT02000362",
+                "status": "Unknown status",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2013-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.132971,
+                    55.8215537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
+                "aff": " Severance Hospital, Seoul, Korea, Republic of ",
+                "url": "https://ClinicalTrials.gov/show/NCT02000362",
+                "status": "Unknown status",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2013-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
+                "aff": " Asan Medical Center, Seoul, Korea, Republic of ",
+                "url": "https://ClinicalTrials.gov/show/NCT02000362",
+                "status": "Unknown status",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2013-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
+                "aff": " Soeul National University Hospital, Soeul, Korea, Republic of ",
+                "url": "https://ClinicalTrials.gov/show/NCT02000362",
+                "status": "Unknown status",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2013-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.132971,
+                    55.8215537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
+                "aff": " The Catholic University of Korea, St. Vincent'S Hospital., Suwon-si, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT02000362",
+                "status": "Unknown status",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2013-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.00921616567815,
+                    37.23512285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stem Cells From Human Exfoliated Teeth in Treatment of Diabetic Patients With Significantly Reduced Islet Function",
+                "aff": "Changhai hospital, Shanghai, Shanghai, China",
+                "url": "https://ClinicalTrials.gov/show/NCT03912480",
+                "status": "Unknown status",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2019-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52377446963636,
+                    31.3108477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Effects of ASC Secretome on Human Osteochondral Explants",
                 "aff": "IRCCS Istituto Ortopedico Galeazzi, Milano, MI, Italy",
                 "url": "https://ClinicalTrials.gov/show/NCT04223622",
@@ -3043,370 +3225,6 @@ var  groupundeclared = {
                 "coordinates": [
                     9.1896346,
                     45.4641943
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
-                "aff": "Inje University Haeundae Paik Hospital, Busan, Korea, Republic of ",
-                "url": "https://ClinicalTrials.gov/show/NCT02000362",
-                "status": "Unknown status",
-                "enrolled": 24,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2013-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    128.93246511484085,
-                    35.19259925
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
-                "aff": " Yeungnam University Medical Center, Daegu, Korea, Republic of ",
-                "url": "https://ClinicalTrials.gov/show/NCT02000362",
-                "status": "Unknown status",
-                "enrolled": 24,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2013-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    49.132971,
-                    55.8215537
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
-                "aff": " Seoul National Universtiy Bundang Hospital, Seongnam-si, Korea, Republic of ",
-                "url": "https://ClinicalTrials.gov/show/NCT02000362",
-                "status": "Unknown status",
-                "enrolled": 24,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2013-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    49.132971,
-                    55.8215537
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
-                "aff": " Severance Hospital, Seoul, Korea, Republic of ",
-                "url": "https://ClinicalTrials.gov/show/NCT02000362",
-                "status": "Unknown status",
-                "enrolled": 24,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2013-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.10332700284027,
-                    37.50771705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
-                "aff": " Asan Medical Center, Seoul, Korea, Republic of ",
-                "url": "https://ClinicalTrials.gov/show/NCT02000362",
-                "status": "Unknown status",
-                "enrolled": 24,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2013-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.10332700284027,
-                    37.50771705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
-                "aff": " Soeul National University Hospital, Soeul, Korea, Republic of ",
-                "url": "https://ClinicalTrials.gov/show/NCT02000362",
-                "status": "Unknown status",
-                "enrolled": 24,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2013-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    49.132971,
-                    55.8215537
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
-                "aff": " The Catholic University of Korea, St. Vincent'S Hospital., Suwon-si, Korea, Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT02000362",
-                "status": "Unknown status",
-                "enrolled": 24,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2013-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.00921616567815,
-                    37.23512285
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Long-term Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
-                "aff": "Inje University Haeundae Paik Hospital, Busan, Korea, Republic of ",
-                "url": "https://ClinicalTrials.gov/show/NCT02926300",
-                "status": "Unknown status",
-                "enrolled": 24,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2015-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    128.93246511484085,
-                    35.19259925
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Long-term Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
-                "aff": " Yeungnam University Medical Center, Daegu, Korea, Republic of ",
-                "url": "https://ClinicalTrials.gov/show/NCT02926300",
-                "status": "Unknown status",
-                "enrolled": 24,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2015-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    49.132971,
-                    55.8215537
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Long-term Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
-                "aff": " Seoul National Universtiy Bundang Hospital, Seongnam-si, Korea, Republic of ",
-                "url": "https://ClinicalTrials.gov/show/NCT02926300",
-                "status": "Unknown status",
-                "enrolled": 24,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2015-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    49.132971,
-                    55.8215537
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Long-term Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
-                "aff": " Severance Hospital, Seoul, Korea, Republic of ",
-                "url": "https://ClinicalTrials.gov/show/NCT02926300",
-                "status": "Unknown status",
-                "enrolled": 24,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2015-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.10332700284027,
-                    37.50771705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Long-term Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
-                "aff": " Asan Medical Center, Seoul, Korea, Republic of ",
-                "url": "https://ClinicalTrials.gov/show/NCT02926300",
-                "status": "Unknown status",
-                "enrolled": 24,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2015-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.10332700284027,
-                    37.50771705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Long-term Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
-                "aff": " Soeul National University Hospital, Soeul, Korea, Republic of ",
-                "url": "https://ClinicalTrials.gov/show/NCT02926300",
-                "status": "Unknown status",
-                "enrolled": 24,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2015-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    49.132971,
-                    55.8215537
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Long-term Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
-                "aff": " The Catholic University of Korea, St. Vincent'S Hospital., Suwon-si, Korea, Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT02926300",
-                "status": "Unknown status",
-                "enrolled": 24,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2015-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.00921616567815,
-                    37.23512285
                 ]
             }
         },
@@ -3439,9 +3257,9 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Stem Cell Therapy for Type 2 Diabetes Mellitus",
-                "aff": "Armed Police General Hospital, P.R. China, Beijing, China",
-                "url": "https://ClinicalTrials.gov/show/NCT01142050",
+                "name": "Long-term Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
+                "aff": "Inje University Haeundae Paik Hospital, Busan, Korea, Republic of ",
+                "url": "https://ClinicalTrials.gov/show/NCT02926300",
                 "status": "Unknown status",
                 "enrolled": 24,
                 "radius": 14,
@@ -3451,14 +3269,170 @@ var  groupundeclared = {
                 "fillOpacity": 0.4,
                 "zindex": 10986,
                 "paneLabel": "pane10986",
-                "start": "2010-06-01",
+                "start": "2015-10-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    116.46671365574096,
-                    39.98388405
+                    128.93246511484085,
+                    35.19259925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Long-term Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
+                "aff": " Yeungnam University Medical Center, Daegu, Korea, Republic of ",
+                "url": "https://ClinicalTrials.gov/show/NCT02926300",
+                "status": "Unknown status",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2015-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.132971,
+                    55.8215537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Long-term Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
+                "aff": " Seoul National Universtiy Bundang Hospital, Seongnam-si, Korea, Republic of ",
+                "url": "https://ClinicalTrials.gov/show/NCT02926300",
+                "status": "Unknown status",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2015-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.132971,
+                    55.8215537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Long-term Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
+                "aff": " Severance Hospital, Seoul, Korea, Republic of ",
+                "url": "https://ClinicalTrials.gov/show/NCT02926300",
+                "status": "Unknown status",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2015-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Long-term Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
+                "aff": " Asan Medical Center, Seoul, Korea, Republic of ",
+                "url": "https://ClinicalTrials.gov/show/NCT02926300",
+                "status": "Unknown status",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2015-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Long-term Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
+                "aff": " Soeul National University Hospital, Soeul, Korea, Republic of ",
+                "url": "https://ClinicalTrials.gov/show/NCT02926300",
+                "status": "Unknown status",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2015-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.132971,
+                    55.8215537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Long-term Safety and Efficacy of FURESTEM-CD Inj. in Patients With Moderately Active Crohn's Disease(CD)",
+                "aff": " The Catholic University of Korea, St. Vincent'S Hospital., Suwon-si, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT02926300",
+                "status": "Unknown status",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2015-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.00921616567815,
+                    37.23512285
                 ]
             }
         },
@@ -3485,58 +3459,6 @@ var  groupundeclared = {
                 "coordinates": [
                     7.6824892,
                     45.0677551
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Effects of Muscle Energy Technique in Knee Osteoarthritis Patients",
-                "aff": "Institute of Regenerative medicine, Islamabad, Pakistan",
-                "url": "https://ClinicalTrials.gov/show/NCT05349565",
-                "status": "Recruiting",
-                "enrolled": 26,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2022-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    73.0651511,
-                    33.6938118
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Effect of UMSCs Derived Exosomes on Dry Eye in Patients With cGVHD",
-                "aff": "Zhongshan Ophthalmic Center, Guangzhou, Guangdong, China",
-                "url": "https://ClinicalTrials.gov/show/NCT04213248",
-                "status": "Recruiting",
-                "enrolled": 27,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2020-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    113.2592945,
-                    23.1301964
                 ]
             }
         },
@@ -3595,6 +3517,32 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Mesenchymal Stem Cells (MSCs) - Like Cell Transplantation in Women With Primary Ovarian Insufficiency",
+                "aff": "The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, China",
+                "url": "https://ClinicalTrials.gov/show/NCT03877471",
+                "status": "Active, not recruiting",
+                "enrolled": 28,
+                "radius": 15,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10985,
+                "paneLabel": "pane10985",
+                "start": "2019-04-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.75609633361316,
+                    34.7982547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "iExosomes in Treating Participants With Metastatic Pancreas Cancer With KrasG12D Mutation",
                 "aff": "M D Anderson Cancer Center, Houston, Texas, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT03608631",
@@ -3621,11 +3569,37 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Mesenchymal Stem Cells (MSCs) - Like Cell Transplantation in Women With Primary Ovarian Insufficiency",
-                "aff": "The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, China",
-                "url": "https://ClinicalTrials.gov/show/NCT03877471",
-                "status": "Active, not recruiting",
-                "enrolled": 28,
+                "name": "Evaluation of Personalized Nutritional Intervention on Wound Healing of Cutaneous Ulcers in Diabetics",
+                "aff": "Hospital Universitario Reina Sof\u00eda de C\u00f3rdoba, C\u00f3rdoba, Andaluc\u00eda, Spain",
+                "url": "https://ClinicalTrials.gov/show/NCT05243368",
+                "status": "Not yet recruiting",
+                "enrolled": 30,
+                "radius": 15,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10985,
+                "paneLabel": "pane10985",
+                "start": "2022-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.8379791,
+                    39.3260685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stromal Cells and Osteoarthritis",
+                "aff": "University Hospital Dresden, Orthopaedic Department, Dresden, Germany",
+                "url": "https://ClinicalTrials.gov/show/NCT01038596",
+                "status": "Completed",
+                "enrolled": 30,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
@@ -3633,14 +3607,170 @@ var  groupundeclared = {
                 "fillOpacity": 0.8,
                 "zindex": 10985,
                 "paneLabel": "pane10985",
-                "start": "2019-04-01",
+                "start": "2009-01-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    113.75609633361316,
-                    34.7982547
+                    13.7381437,
+                    51.0493286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Proof of Concept Study for the DNA Repair Driven by the Mesenchymal Stem Cells in Critical COVID-19 Patients",
+                "aff": "Istinye University, Istanbul, Turkey ",
+                "url": "https://ClinicalTrials.gov/show/NCT04898088",
+                "status": "Completed",
+                "enrolled": 30,
+                "radius": 15,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10985,
+                "paneLabel": "pane10985",
+                "start": "2020-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5578947,
+                    45.7581012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Proof of Concept Study for the DNA Repair Driven by the Mesenchymal Stem Cells in Critical COVID-19 Patients",
+                "aff": " SB\u00dc Dr. Sadi Konuk E\u011fitim ve Ara\u015ft\u0131rma Hastanesi, Istanbul, Turkey",
+                "url": "https://ClinicalTrials.gov/show/NCT04898088",
+                "status": "Completed",
+                "enrolled": 30,
+                "radius": 15,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10985,
+                "paneLabel": "pane10985",
+                "start": "2020-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5578947,
+                    45.7581012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stem Cell-derived Pleiotropic Factor in Treating Non-healing Wounds",
+                "aff": "Chinese PLA General Hospital, Beijing, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04235868",
+                "status": "Unknown status",
+                "enrolled": 30,
+                "radius": 15,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10985,
+                "paneLabel": "pane10985",
+                "start": "2019-09-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.3912757,
+                    39.906217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stem Cell Conditioned Medium-derived Pleiotropic Factor in Treating Residual Burn Wound",
+                "aff": "PLA Central Theater Air Force Hospital, Datong, Shanxi, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04235296",
+                "status": "Unknown status",
+                "enrolled": 30,
+                "radius": 15,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10985,
+                "paneLabel": "pane10985",
+                "start": "2019-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2951122,
+                    40.0919817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gingiva Mesenchymal Stem Cells Treatment of Chronic Periodontitis",
+                "aff": "the First Hospital of Hebei Medical University, Shijiazhuang, Hebei, China",
+                "url": "https://ClinicalTrials.gov/show/NCT03137979",
+                "status": "Unknown status",
+                "enrolled": 30,
+                "radius": 15,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10985,
+                "paneLabel": "pane10985",
+                "start": "2017-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.5088385,
+                    38.0429742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NeuroRegen Scaffold\u2122 Combined With Stem Cells for Chronic Spinal Cord Injury Repair",
+                "aff": "Affiliated Hospital of Logistics Universtiy of CAPF, Tianjin, China",
+                "url": "https://ClinicalTrials.gov/show/NCT02688049",
+                "status": "Unknown status",
+                "enrolled": 30,
+                "radius": 15,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10985,
+                "paneLabel": "pane10985",
+                "start": "2016-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.1951073,
+                    39.0856735
                 ]
             }
         },
@@ -3725,188 +3855,6 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Study of Descartes-30 in Acute Respiratory Distress Syndrome",
-                "aff": "University of Alabama at Birmingham, Birmingham, Alabama, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT04524962",
-                "status": "Recruiting",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2021-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.80604756076488,
-                    33.5016153
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study of Descartes-30 in Acute Respiratory Distress Syndrome",
-                "aff": " University of California-Irvine, Irvine, California, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT04524962",
-                "status": "Recruiting",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2021-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -117.84016493553044,
-                    33.6431901
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study of Descartes-30 in Acute Respiratory Distress Syndrome",
-                "aff": " University of Iowa Hospitals and Clinics, Iowa City, Iowa, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT04524962",
-                "status": "Recruiting",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2021-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -91.5299106,
-                    41.6612561
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study of Descartes-30 in Acute Respiratory Distress Syndrome",
-                "aff": " University of Maryland Medical Center Medical Center, Baltimore, Maryland, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT04524962",
-                "status": "Recruiting",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2021-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.62439437177966,
-                    39.28827365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study of Descartes-30 in Acute Respiratory Distress Syndrome",
-                "aff": " Brigham and Women's Hospital, Boston, Massachusetts, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT04524962",
-                "status": "Recruiting",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2021-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.1060436296658,
-                    42.33568
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study of Descartes-30 in Acute Respiratory Distress Syndrome",
-                "aff": " University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04524962",
-                "status": "Recruiting",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2021-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.49863299224828,
-                    35.48428685
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mesenchymal Stem Cell-derived Pleiotropic Factor in Treating Non-healing Wounds",
-                "aff": "Chinese PLA General Hospital, Beijing, China",
-                "url": "https://ClinicalTrials.gov/show/NCT04235868",
-                "status": "Unknown status",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2019-09-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    116.3912757,
-                    39.906217
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Safety and Efficacy Study of Co-transfering of Mesenchymal Stem Cell and Regulatory T Cells in Treating End-stage Liver Disease",
                 "aff": "Nanjing Medical University, Nanjing, Jiangsu, China",
                 "url": "https://ClinicalTrials.gov/show/NCT03460795",
@@ -3933,58 +3881,6 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Endoscopic Ultrasound Radiofrequency Ablation for GISTs",
-                "aff": "Instituto Ecuatoriano de Enfermedades Digestivas (IECED), Guayaquil, Guayas, Ecuador",
-                "url": "https://ClinicalTrials.gov/show/NCT05453292",
-                "status": "Recruiting",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2022-07-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.8868741,
-                    -2.1900563
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Inflammation and Stem Cells in Diabetic and Chronic Kidney Disease",
-                "aff": "Mayo Clinic in Rochester, Rochester, Minnesota, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT03325322",
-                "status": "Recruiting",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2018-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -92.466607460917,
-                    44.0225389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Effect of Mesenchymal Stromal Cells on Sepsis and Septic Shock",
                 "aff": "Erciyes University, Kayseri, Turkey",
                 "url": "https://ClinicalTrials.gov/show/NCT05283317",
@@ -4005,214 +3901,6 @@ var  groupundeclared = {
                 "coordinates": [
                     35.53375656939036,
                     38.70739135
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Russian Clinical Trial of Mesenchymal Cells in Patients With Septic Shock and Severe Neutropenia",
-                "aff": "National Research Center for Hematology, Moscow, Russian Federation",
-                "url": "https://ClinicalTrials.gov/show/NCT01849237",
-                "status": "Unknown status",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2012-11-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.6174943,
-                    55.7504461
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Gingiva Mesenchymal Stem Cells Treatment of Chronic Periodontitis",
-                "aff": "the First Hospital of Hebei Medical University, Shijiazhuang, Hebei, China",
-                "url": "https://ClinicalTrials.gov/show/NCT03137979",
-                "status": "Unknown status",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2017-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    114.5088385,
-                    38.0429742
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Evaluation of Safety and Efficiency of Method of Exosome Inhalation in SARS-CoV-2 Associated Pneumonia.",
-                "aff": "Medical Centre Dinasty, Samara, Russian Federation",
-                "url": "https://ClinicalTrials.gov/show/NCT04491240",
-                "status": "Completed",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2020-07-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    50.113987,
-                    53.198627
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "A Proof of Concept Study for the DNA Repair Driven by the Mesenchymal Stem Cells in Critical COVID-19 Patients",
-                "aff": "Istinye University, Istanbul, Turkey ",
-                "url": "https://ClinicalTrials.gov/show/NCT04898088",
-                "status": "Completed",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2020-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.5578947,
-                    45.7581012
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "A Proof of Concept Study for the DNA Repair Driven by the Mesenchymal Stem Cells in Critical COVID-19 Patients",
-                "aff": " SB\u00dc Dr. Sadi Konuk E\u011fitim ve Ara\u015ft\u0131rma Hastanesi, Istanbul, Turkey",
-                "url": "https://ClinicalTrials.gov/show/NCT04898088",
-                "status": "Completed",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2020-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.5578947,
-                    45.7581012
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mesenchymal Stem Cell Conditioned Medium-derived Pleiotropic Factor in Treating Residual Burn Wound",
-                "aff": "PLA Central Theater Air Force Hospital, Datong, Shanxi, China",
-                "url": "https://ClinicalTrials.gov/show/NCT04235296",
-                "status": "Unknown status",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2019-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    113.2951122,
-                    40.0919817
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mesenchymal Stromal Cells and Osteoarthritis",
-                "aff": "University Hospital Dresden, Orthopaedic Department, Dresden, Germany",
-                "url": "https://ClinicalTrials.gov/show/NCT01038596",
-                "status": "Completed",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2009-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7381437,
-                    51.0493286
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Evaluation of Personalized Nutritional Intervention on Wound Healing of Cutaneous Ulcers in Diabetics",
-                "aff": "Hospital Universitario Reina Sof\u00eda de C\u00f3rdoba, C\u00f3rdoba, Andaluc\u00eda, Spain",
-                "url": "https://ClinicalTrials.gov/show/NCT05243368",
-                "status": "Not yet recruiting",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2022-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -4.8379791,
-                    39.3260685
                 ]
             }
         },
@@ -4271,9 +3959,9 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "NeuroRegen Scaffold\u2122 Combined With Stem Cells for Chronic Spinal Cord Injury Repair",
-                "aff": "Affiliated Hospital of Logistics Universtiy of CAPF, Tianjin, China",
-                "url": "https://ClinicalTrials.gov/show/NCT02688049",
+                "name": "Russian Clinical Trial of Mesenchymal Cells in Patients With Septic Shock and Severe Neutropenia",
+                "aff": "National Research Center for Hematology, Moscow, Russian Federation",
+                "url": "https://ClinicalTrials.gov/show/NCT01849237",
                 "status": "Unknown status",
                 "enrolled": 30,
                 "radius": 15,
@@ -4283,14 +3971,40 @@ var  groupundeclared = {
                 "fillOpacity": 0.4,
                 "zindex": 10985,
                 "paneLabel": "pane10985",
-                "start": "2016-01-01",
+                "start": "2012-11-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    117.1951073,
-                    39.0856735
+                    37.6174943,
+                    55.7504461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Inflammation and Stem Cells in Diabetic and Chronic Kidney Disease",
+                "aff": "Mayo Clinic in Rochester, Rochester, Minnesota, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT03325322",
+                "status": "Recruiting",
+                "enrolled": 30,
+                "radius": 15,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10985,
+                "paneLabel": "pane10985",
+                "start": "2018-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.466607460917,
+                    44.0225389
                 ]
             }
         },
@@ -4375,32 +4089,6 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Comparing Mesenchymal Stem Cell Counts in Unilateral vs. Bilateral Posterior Superior Iliac Spine Bone Marrow Aspiration",
-                "aff": "The Emory Clinic, Atlanta, Georgia, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT03014037",
-                "status": "Completed",
-                "enrolled": 35,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2017-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -84.3902644,
-                    33.7489924
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Mesenchymal Stem Cells: Alterations in Genome",
                 "aff": "nantes University Hospital, Nantes, France",
                 "url": "https://ClinicalTrials.gov/show/NCT00836732",
@@ -4453,6 +4141,84 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Clinical Extension Study for Safety and Efficacy Evaluation of Cellavita-HD Administration in Huntington's Patients.",
+                "aff": "Azidus Brasil Pesquisa Cient\u00edfica e Desenvolvimento Ltda., Valinhos, S\u00e3o Paulo, Brazil",
+                "url": "https://ClinicalTrials.gov/show/NCT04219241",
+                "status": "Active, not recruiting",
+                "enrolled": 35,
+                "radius": 15,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10985,
+                "paneLabel": "pane10985",
+                "start": "2020-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.99583,
+                    -22.97056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dose-response Evaluation of the Cellavita HD Product in Patients With Huntington's Disease",
+                "aff": "Azidus Brasil Pesquisa Cient\u00edfica e Desenvolvimento Ltda., Valinhos, S\u00e3o Paulo, Brazil",
+                "url": "https://ClinicalTrials.gov/show/NCT03252535",
+                "status": "Completed",
+                "enrolled": 35,
+                "radius": 15,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10985,
+                "paneLabel": "pane10985",
+                "start": "2018-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.99583,
+                    -22.97056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Comparing Mesenchymal Stem Cell Counts in Unilateral vs. Bilateral Posterior Superior Iliac Spine Bone Marrow Aspiration",
+                "aff": "The Emory Clinic, Atlanta, Georgia, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT03014037",
+                "status": "Completed",
+                "enrolled": 35,
+                "radius": 15,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10985,
+                "paneLabel": "pane10985",
+                "start": "2017-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3902644,
+                    33.7489924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Mesenchymal Stem Cells for Age-Related Frailty",
                 "aff": "Michael E. DeBakey VA Medical Center, Houston, TX, Houston, Texas, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT05284604",
@@ -4479,32 +4245,6 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "The Effects of Intra-articular Injection of Mesenchymal Stem Cells in Knee Joint Osteoarthritis",
-                "aff": "Royan Institute, Tehran, Iran, Islamic Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT01504464",
-                "status": "Completed",
-                "enrolled": 40,
-                "radius": 16,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10984,
-                "paneLabel": "pane10984",
-                "start": "2012-09-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    51.41666085836621,
-                    35.7447916
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Mesenchymal Stem Cells for Treatment of Refractory Acute Graft-versus-host Disease",
                 "aff": "Department of Hematology,Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, China",
                 "url": "https://ClinicalTrials.gov/show/NCT01765634",
@@ -4525,32 +4265,6 @@ var  groupundeclared = {
                 "coordinates": [
                     113.32967686736325,
                     23.1901971
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mesenchymal Stem Cells After Renal or Liver Transplantation",
-                "aff": "University Hospital Liege, Liege, Belgium",
-                "url": "https://ClinicalTrials.gov/show/NCT01429038",
-                "status": "Completed",
-                "enrolled": 40,
-                "radius": 16,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10984,
-                "paneLabel": "pane10984",
-                "start": "2012-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.5763075803943725,
-                    50.6407748
                 ]
             }
         },
@@ -4655,6 +4369,58 @@ var  groupundeclared = {
                 "coordinates": [
                     106.8296008,
                     -6.3724263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stem Cells After Renal or Liver Transplantation",
+                "aff": "University Hospital Liege, Liege, Belgium",
+                "url": "https://ClinicalTrials.gov/show/NCT01429038",
+                "status": "Completed",
+                "enrolled": 40,
+                "radius": 16,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10984,
+                "paneLabel": "pane10984",
+                "start": "2012-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5763075803943725,
+                    50.6407748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Effects of Intra-articular Injection of Mesenchymal Stem Cells in Knee Joint Osteoarthritis",
+                "aff": "Royan Institute, Tehran, Iran, Islamic Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT01504464",
+                "status": "Completed",
+                "enrolled": 40,
+                "radius": 16,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10984,
+                "paneLabel": "pane10984",
+                "start": "2012-09-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.41666085836621,
+                    35.7447916
                 ]
             }
         },
@@ -4863,6 +4629,32 @@ var  groupundeclared = {
                 "coordinates": [
                     -46.7060294,
                     -23.5082223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Study of the Safety of Therapeutic Tx With Immunomodulatory MSC in Adults With COVID-19 Infection Requiring Mechanical Ventilation",
+                "aff": "St. Francis Medical Center, Lynwood, California, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04397796",
+                "status": "Active, not recruiting",
+                "enrolled": 45,
+                "radius": 16,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10984,
+                "paneLabel": "pane10984",
+                "start": "2020-05-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.20337215547708,
+                    33.92988945
                 ]
             }
         },
@@ -5285,6 +5077,58 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Stem Cells Therapy for Fecal Incontinence in Children After Posterior Sagittal Ano-rectoplasty",
+                "aff": "Pediatric Surgery Outpatients Clinics - Al Hussien Hospital, Nasr City, Cairo, Egypt",
+                "url": "https://ClinicalTrials.gov/show/NCT02161003",
+                "status": "Unknown status",
+                "enrolled": 50,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2013-09-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.3587493,
+                    29.9841629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stem Cells Transplantation to Patients With Relapsed/Refractory Aplastic Anemia.",
+                "aff": "Guangzhou General Hospital of Guangzhou Military Command, Guangzhou, Guangdong, China",
+                "url": "https://ClinicalTrials.gov/show/NCT01305694",
+                "status": "Unknown status",
+                "enrolled": 50,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2011-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2592945,
+                    23.1301964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Clinical Study on Mesenchymal Stem Cells Used in the Reconstruction Surgery of the Supraspinatus Muscle Lesions",
                 "aff": "Petr \u0160m\u00edd, Znojmo, Czech Republic, Czechia",
                 "url": "https://ClinicalTrials.gov/show/NCT03068988",
@@ -5311,10 +5155,10 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Generation of Dendritic Cell Precursors From Cord Blood Stem Cells",
-                "aff": "National Taiwan University Hospital, Taipei, Taiwan",
-                "url": "https://ClinicalTrials.gov/show/NCT00731744",
-                "status": "Unknown status",
+                "name": "MSCs Therapy for Cerebral Palsy",
+                "aff": "Aljazeera( Al Gazeera) hospital, Giza, Egypt",
+                "url": "https://ClinicalTrials.gov/show/NCT04653077",
+                "status": "Not yet recruiting",
                 "enrolled": 50,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
@@ -5323,14 +5167,14 @@ var  groupundeclared = {
                 "fillOpacity": 0.4,
                 "zindex": 10983,
                 "paneLabel": "pane10983",
-                "start": "2007-01-01",
+                "start": "2020-11-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.5636796,
-                    25.0375198
+                    31.2118063,
+                    29.9870753
                 ]
             }
         },
@@ -5363,26 +5207,104 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Mesenchymal Stem Cells Transplantation to Patients With Relapsed/Refractory Aplastic Anemia.",
-                "aff": "Guangzhou General Hospital of Guangzhou Military Command, Guangzhou, Guangdong, China",
-                "url": "https://ClinicalTrials.gov/show/NCT01305694",
-                "status": "Unknown status",
-                "enrolled": 50,
+                "name": "Follow-up Study of Chondrogen\u00ae Delivered by Intra-Articular Injection Following Meniscectomy",
+                "aff": "University of Southern California Keck School of Medicine, Los Angeles, California, United States ",
+                "url": "https://ClinicalTrials.gov/show/NCT00702741",
+                "status": "Completed",
+                "enrolled": 55,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
                 "zindex": 10983,
                 "paneLabel": "pane10983",
-                "start": "2011-02-01",
+                "start": "2008-06-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    113.2592945,
-                    23.1301964
+                    -118.242766,
+                    34.0536909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Follow-up Study of Chondrogen\u00ae Delivered by Intra-Articular Injection Following Meniscectomy",
+                "aff": " OrthoIndy, Indianapolis, Indiana, United States ",
+                "url": "https://ClinicalTrials.gov/show/NCT00702741",
+                "status": "Completed",
+                "enrolled": 55,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2008-06-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.267461787303,
+                    39.90807075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Follow-up Study of Chondrogen\u00ae Delivered by Intra-Articular Injection Following Meniscectomy",
+                "aff": " TRIA Orthopaedic Center, Bloomington, Minnesota, United States ",
+                "url": "https://ClinicalTrials.gov/show/NCT00702741",
+                "status": "Completed",
+                "enrolled": 55,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2008-06-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.3204872,
+                    44.8322405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Follow-up Study of Chondrogen\u00ae Delivered by Intra-Articular Injection Following Meniscectomy",
+                "aff": " Unlimited Research, San Antonio, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT00702741",
+                "status": "Completed",
+                "enrolled": 55,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2008-06-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.4951405,
+                    29.4246002
                 ]
             }
         },
@@ -5441,11 +5363,11 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "MesenchYmal STROMAL CELL Therapy in Patients With Chronic Myocardial Ischemia (MyStromalCell Trial)",
-                "aff": "Rigshospitalet University Hospital Copenhagen, Copenhagen, Denmark",
-                "url": "https://ClinicalTrials.gov/show/NCT01449032",
+                "name": "Safety and Tolerability of Intravenous LLP2A-Alendronate for Osteopenia Secondary to Glucocorticoids",
+                "aff": "West Coast Clinical Trials (WCCT), Cypress, California, United States ",
+                "url": "https://ClinicalTrials.gov/show/NCT03197623",
                 "status": "Completed",
-                "enrolled": 60,
+                "enrolled": 58,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
@@ -5453,51 +5375,25 @@ var  groupundeclared = {
                 "fillOpacity": 0.8,
                 "zindex": 10983,
                 "paneLabel": "pane10983",
-                "start": "2010-04-01",
+                "start": "2016-09-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.5700724,
-                    55.6867243
+                    -118.0399368,
+                    33.8248235
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Human Mesenchymal Stem Cells in the Synovial Fluid of the Hip",
-                "aff": "Mayo Clinic, Rochester, Minnesota, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT02941666",
-                "status": "Recruiting",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2016-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -92.466607460917,
-                    44.0225389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety Study of Adult Mesenchymal Stem Cells (MSC) to Treat Acute Myocardial Infarction",
-                "aff": "Arizona Heart Institute, Phoenix, Arizona, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT00114452",
+                "name": "Safety and Tolerability of Intravenous LLP2A-Alendronate for Osteopenia Secondary to Glucocorticoids",
+                "aff": " Diablo Clinical Research, Walnut Creek, California, United States ",
+                "url": "https://ClinicalTrials.gov/show/NCT03197623",
                 "status": "Completed",
-                "enrolled": 60,
+                "enrolled": 58,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
@@ -5505,25 +5401,25 @@ var  groupundeclared = {
                 "fillOpacity": 0.8,
                 "zindex": 10983,
                 "paneLabel": "pane10983",
-                "start": "2005-03-01",
+                "start": "2016-09-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -112.04044389961952,
-                    33.4771107
+                    -122.0618702,
+                    37.9020731
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Safety Study of Adult Mesenchymal Stem Cells (MSC) to Treat Acute Myocardial Infarction",
-                "aff": " University of California - San Diego; Thornton, San Diego, California, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT00114452",
+                "name": "Safety and Tolerability of Intravenous LLP2A-Alendronate for Osteopenia Secondary to Glucocorticoids",
+                "aff": " Altoona Center for Clinical Research, Duncansville, Pennsylvania, United States ",
+                "url": "https://ClinicalTrials.gov/show/NCT03197623",
                 "status": "Completed",
-                "enrolled": 60,
+                "enrolled": 58,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
@@ -5531,25 +5427,25 @@ var  groupundeclared = {
                 "fillOpacity": 0.8,
                 "zindex": 10983,
                 "paneLabel": "pane10983",
-                "start": "2005-03-01",
+                "start": "2016-09-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -117.1627728,
-                    32.7174202
+                    -78.433903,
+                    40.4234058
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Safety Study of Adult Mesenchymal Stem Cells (MSC) to Treat Acute Myocardial Infarction",
-                "aff": " Washington Hospital Center, Washington, District of Columbia, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT00114452",
+                "name": "Safety and Tolerability of Intravenous LLP2A-Alendronate for Osteopenia Secondary to Glucocorticoids",
+                "aff": " Metroplex Clinical Research Center, Dallas, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT03197623",
                 "status": "Completed",
-                "enrolled": 60,
+                "enrolled": 58,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
@@ -5557,430 +5453,14 @@ var  groupundeclared = {
                 "fillOpacity": 0.8,
                 "zindex": 10983,
                 "paneLabel": "pane10983",
-                "start": "2005-03-01",
+                "start": "2016-09-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.01476928297282,
-                    38.9287492
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety Study of Adult Mesenchymal Stem Cells (MSC) to Treat Acute Myocardial Infarction",
-                "aff": " Rush University Medical Center, Chicago, Illinois, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT00114452",
-                "status": "Completed",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2005-03-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.66910060446992,
-                    41.87352605
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety Study of Adult Mesenchymal Stem Cells (MSC) to Treat Acute Myocardial Infarction",
-                "aff": " The Care Group, Indianapolis, Indiana, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT00114452",
-                "status": "Completed",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2005-03-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.1583502,
-                    39.7683331
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety Study of Adult Mesenchymal Stem Cells (MSC) to Treat Acute Myocardial Infarction",
-                "aff": " Jewish Hospital, Louisville, Kentucky, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT00114452",
-                "status": "Completed",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2005-03-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -85.75025023795756,
-                    38.2500543
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety Study of Adult Mesenchymal Stem Cells (MSC) to Treat Acute Myocardial Infarction",
-                "aff": " Johns Hopkins University, Baltimore, Maryland, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT00114452",
-                "status": "Completed",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2005-03-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.62185357858337,
-                    39.33020225
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety Study of Adult Mesenchymal Stem Cells (MSC) to Treat Acute Myocardial Infarction",
-                "aff": " Washington Adventist, Takoma Park, Maryland, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT00114452",
-                "status": "Completed",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2005-03-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.00002305629916,
-                    38.98617775
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety Study of Adult Mesenchymal Stem Cells (MSC) to Treat Acute Myocardial Infarction",
-                "aff": " Minneapolis Heart Institute, Minneapolis, Minnesota, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT00114452",
-                "status": "Completed",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2005-03-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.26112110540949,
-                    44.95249955
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety Study of Adult Mesenchymal Stem Cells (MSC) to Treat Acute Myocardial Infarction",
-                "aff": " Columbia Presbyterian Hospital, New York, New York, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT00114452",
-                "status": "Completed",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2005-03-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.17449463280128,
-                    36.1021436
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety Study of Adult Mesenchymal Stem Cells (MSC) to Treat Acute Myocardial Infarction",
-                "aff": " University of Rochester - Strong Memorial, Rochester, New York, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT00114452",
-                "status": "Completed",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2005-03-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.615214,
-                    43.157285
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety Study of Adult Mesenchymal Stem Cells (MSC) to Treat Acute Myocardial Infarction",
-                "aff": " University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT00114452",
-                "status": "Completed",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2005-03-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.49863299224828,
-                    35.48428685
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety Study of Adult Mesenchymal Stem Cells (MSC) to Treat Acute Myocardial Infarction",
-                "aff": " University of Pennsylvania Medical Center, Philadelphia, Pennsylvania, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT00114452",
-                "status": "Completed",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2005-03-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.1635262,
-                    39.9527237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety Study of Adult Mesenchymal Stem Cells (MSC) to Treat Acute Myocardial Infarction",
-                "aff": " Austin Heart Institute, Austin, Texas, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT00114452",
-                "status": "Completed",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2005-03-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.7436995,
-                    30.2711286
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety Study of Adult Mesenchymal Stem Cells (MSC) to Treat Acute Myocardial Infarction",
-                "aff": " Texas Medical School, Houston, Texas, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT00114452",
-                "status": "Completed",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2005-03-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.3676974,
-                    29.7589382
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Collecting Bone Graft During Spinal Decompression and Posterolateral Lumbar Fusion to Better Define Bone Making Cells",
-                "aff": "University of Utah Orthopaedic Center, Salt Lake City, Utah, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT01409954",
-                "status": "Enrolling by invitation",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2011-09-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -111.8330182648075,
-                    40.75642295
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clinical Study of Pulp Mesenchymal Stem Cells in the Treatment of Primary Mild to Moderate Knee Osteoarthritis",
-                "aff": "Changhai hospital, Shanghai, China",
-                "url": "https://ClinicalTrials.gov/show/NCT04130100",
-                "status": "Unknown status",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2019-04-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.52377446963636,
-                    31.3108477
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mesenchymal Stem Cells for Treatment of Refractory Chronic Graft-versus-host Disease",
-                "aff": "Department of Hematology,Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, China",
-                "url": "https://ClinicalTrials.gov/show/NCT01765660",
-                "status": "Unknown status",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2013-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    113.32967686736325,
-                    23.1901971
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mesenchymal Stem Cell Therapy for SARS-CoV-2-related Acute Respiratory Distress Syndrome",
-                "aff": "Royan Institute, Tehran, Iran, Islamic Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT04366063",
-                "status": "Unknown status",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2020-04-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    51.41666085836621,
-                    35.7447916
+                    -96.7968559,
+                    32.7762719
                 ]
             }
         },
@@ -6013,36 +5493,10 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Impact of Obesity, Chronic Kidney Disease and Type 2 Diabetes on Human Urinary Stem Cells",
-                "aff": "Centre Hospitalier Lyon SUD, Pierre-B\u00e9nite, France",
-                "url": "https://ClinicalTrials.gov/show/NCT04998461",
-                "status": "Not yet recruiting",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2021-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8883335,
-                    46.603354
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Transplantation of Bone Marrow Derived Mesenchymal Stem Cells in Affected Knee Osteoarthritis by Rheumatoid Arthritis",
-                "aff": "Royan Institute, Tehran, Iran, Islamic Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT01873625",
-                "status": "Completed",
+                "name": "MSC Intratissular Injection in Crohn Disease Patients",
+                "aff": "CHU de Li\u00e8ge, Li\u00e8ge, Belgium",
+                "url": "https://ClinicalTrials.gov/show/NCT03901235",
+                "status": "Recruiting",
                 "enrolled": 60,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
@@ -6051,14 +5505,14 @@ var  groupundeclared = {
                 "fillOpacity": 0.8,
                 "zindex": 10983,
                 "paneLabel": "pane10983",
-                "start": "2009-09-01",
+                "start": "2018-01-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    51.41666085836621,
-                    35.7447916
+                    -2.20776,
+                    53.6143224
                 ]
             }
         },
@@ -6143,9 +5597,35 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "MSC Intratissular Injection in Crohn Disease Patients",
-                "aff": "CHU de Li\u00e8ge, Li\u00e8ge, Belgium",
-                "url": "https://ClinicalTrials.gov/show/NCT03901235",
+                "name": "MesenchYmal STROMAL CELL Therapy in Patients With Chronic Myocardial Ischemia (MyStromalCell Trial)",
+                "aff": "Rigshospitalet University Hospital Copenhagen, Copenhagen, Denmark",
+                "url": "https://ClinicalTrials.gov/show/NCT01449032",
+                "status": "Completed",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2010-04-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5700724,
+                    55.6867243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Human Mesenchymal Stem Cells in the Synovial Fluid of the Hip",
+                "aff": "Mayo Clinic, Rochester, Minnesota, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT02941666",
                 "status": "Recruiting",
                 "enrolled": 60,
                 "radius": 17,
@@ -6155,30 +5635,342 @@ var  groupundeclared = {
                 "fillOpacity": 0.8,
                 "zindex": 10983,
                 "paneLabel": "pane10983",
-                "start": "2018-01-01",
+                "start": "2016-08-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -2.20776,
-                    53.6143224
+                    -92.466607460917,
+                    44.0225389
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Bone Tissue Engineering With Dental Pulp Stem Cells for Alveolar Cleft Repair",
-                "aff": "Hospital S\u00edrio-Libanes, S\u00e3o Paulo, Brazil",
-                "url": "https://ClinicalTrials.gov/show/NCT03766217",
+                "name": "A Phase I/II Study of Chondrogen Delivered by Intra-Articular Injection Following Meniscectomy",
+                "aff": "University of Southern California, Los Angeles, California, United States ",
+                "url": "https://ClinicalTrials.gov/show/NCT00225095",
                 "status": "Completed",
-                "enrolled": 62,
+                "enrolled": 60,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2005-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.28586662125,
+                    34.0218833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Phase I/II Study of Chondrogen Delivered by Intra-Articular Injection Following Meniscectomy",
+                "aff": " Orthopedic Center of Vero Beach, Vero Beach, Florida, United States ",
+                "url": "https://ClinicalTrials.gov/show/NCT00225095",
+                "status": "Completed",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2005-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3975399,
+                    27.6387163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Phase I/II Study of Chondrogen Delivered by Intra-Articular Injection Following Meniscectomy",
+                "aff": " Midwest Orthopaedics at Rush, Chicago, Illinois, United States ",
+                "url": "https://ClinicalTrials.gov/show/NCT00225095",
+                "status": "Completed",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2005-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6244212,
+                    41.8755616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Phase I/II Study of Chondrogen Delivered by Intra-Articular Injection Following Meniscectomy",
+                "aff": " Ortholndy, Indianapolis, Indiana, United States ",
+                "url": "https://ClinicalTrials.gov/show/NCT00225095",
+                "status": "Completed",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2005-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.1583502,
+                    39.7683331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Phase I/II Study of Chondrogen Delivered by Intra-Articular Injection Following Meniscectomy",
+                "aff": " Greater Chesapeake Associates, Baltimore, Maryland, United States ",
+                "url": "https://ClinicalTrials.gov/show/NCT00225095",
+                "status": "Completed",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2005-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.610759,
+                    39.2908816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Phase I/II Study of Chondrogen Delivered by Intra-Articular Injection Following Meniscectomy",
+                "aff": " TRIA Orthopaedic Center, Bloomington, Minnesota, United States ",
+                "url": "https://ClinicalTrials.gov/show/NCT00225095",
+                "status": "Completed",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2005-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.3204872,
+                    44.8322405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Phase I/II Study of Chondrogen Delivered by Intra-Articular Injection Following Meniscectomy",
+                "aff": " Triangle Orthopaedics Associates, P.A., Durham, North Carolina, United States ",
+                "url": "https://ClinicalTrials.gov/show/NCT00225095",
+                "status": "Completed",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2005-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.9018053,
+                    35.996653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Phase I/II Study of Chondrogen Delivered by Intra-Articular Injection Following Meniscectomy",
+                "aff": " Unlimited Research, San Antonio, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT00225095",
+                "status": "Completed",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2005-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.4951405,
+                    29.4246002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stem Cell Therapy for SARS-CoV-2-related Acute Respiratory Distress Syndrome",
+                "aff": "Royan Institute, Tehran, Iran, Islamic Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04366063",
+                "status": "Unknown status",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2020-04-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.41666085836621,
+                    35.7447916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stem Cells for Treatment of Refractory Chronic Graft-versus-host Disease",
+                "aff": "Department of Hematology,Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, China",
+                "url": "https://ClinicalTrials.gov/show/NCT01765660",
+                "status": "Unknown status",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2013-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32967686736325,
+                    23.1901971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Transplantation of Bone Marrow Derived Mesenchymal Stem Cells in Affected Knee Osteoarthritis by Rheumatoid Arthritis",
+                "aff": "Royan Institute, Tehran, Iran, Islamic Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT01873625",
+                "status": "Completed",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2009-09-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.41666085836621,
+                    35.7447916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Collecting Bone Graft During Spinal Decompression and Posterolateral Lumbar Fusion to Better Define Bone Making Cells",
+                "aff": "University of Utah Orthopaedic Center, Salt Lake City, Utah, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT01409954",
+                "status": "Enrolling by invitation",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2011-09-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.8330182648075,
+                    40.75642295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Study of Pulp Mesenchymal Stem Cells in the Treatment of Primary Mild to Moderate Knee Osteoarthritis",
+                "aff": "Changhai hospital, Shanghai, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04130100",
+                "status": "Unknown status",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
                 "zindex": 10983,
                 "paneLabel": "pane10983",
                 "start": "2019-04-01",
@@ -6187,8 +5979,34 @@ var  groupundeclared = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -53.2,
-                    -10.3333333
+                    121.52377446963636,
+                    31.3108477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stromal Cells for the Treatment of SARS-CoV-2 Induced Acute Respiratory Failure (COVID-19 Disease)",
+                "aff": "Houston Methodist Hospital, Houston, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04345601",
+                "status": "Recruiting",
+                "enrolled": 66,
+                "radius": 18,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10982,
+                "paneLabel": "pane10982",
+                "start": "2021-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.39926397738664,
+                    29.7108167
                 ]
             }
         },
@@ -6299,32 +6117,6 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Mesenchymal Stromal Cells for the Treatment of SARS-CoV-2 Induced Acute Respiratory Failure (COVID-19 Disease)",
-                "aff": "Houston Methodist Hospital, Houston, Texas, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04345601",
-                "status": "Recruiting",
-                "enrolled": 66,
-                "radius": 18,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10982,
-                "paneLabel": "pane10982",
-                "start": "2021-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.39926397738664,
-                    29.7108167
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Effect of NF-\u043aB Dependent Proinflammation on Osteogenic Differentiation of the Mesenchymal Stem Cells in Type 2 Diabetes",
                 "aff": "Mattabhorn Phornputkul, Chiang Mai, Thailand",
                 "url": "https://ClinicalTrials.gov/show/NCT02286128",
@@ -6351,52 +6143,52 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Safety and Efficacy of Injection of Human Placenta Mesenchymal Stem Cells Derived Exosomes for Treatment of Complex Anal Fistula",
-                "aff": "Division of Colorectal Surgery, Department of Surgery, Tehran University of Medical Sciences, Tehran, Iran, Tehran, Iran, Islamic Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT05402748",
+                "name": "The Long-term Effect of Perinatal Tissue Mesenchyme Stem Cells in the Treatment for Caesarean Section Scars",
+                "aff": "Maternal and Child Health Hospital of Foshan, Foshan, Guangdong, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04034615",
                 "status": "Recruiting",
-                "enrolled": 80,
-                "radius": 18,
+                "enrolled": 90,
+                "radius": 19,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
-                "zindex": 10982,
-                "paneLabel": "pane10982",
-                "start": "2021-11-01",
+                "zindex": 10981,
+                "paneLabel": "pane10981",
+                "start": "2021-05-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    51.41666085836621,
-                    35.7447916
+                    113.1159558,
+                    23.0239788
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Laparoscopic Endoscopic Cooperative Surgery in the Treatment of Gastric Stromal Tumors",
-                "aff": "First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, China",
-                "url": "https://ClinicalTrials.gov/show/NCT03601234",
-                "status": "Unknown status",
-                "enrolled": 80,
-                "radius": 18,
+                "name": "Perinatal Tissue Mesenchyme Stem Cells in the Treatment for Caesarean Section Scars",
+                "aff": "Maternal and Child Health Hospital of Foshan, Foshan, Guangdong, China",
+                "url": "https://ClinicalTrials.gov/show/NCT02772289",
+                "status": "Completed",
+                "enrolled": 90,
+                "radius": 19,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10982,
-                "paneLabel": "pane10982",
-                "start": "2018-04-01",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10981,
+                "paneLabel": "pane10981",
+                "start": "2016-10-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    108.9350839,
-                    34.3430507
+                    113.1159558,
+                    23.0239788
                 ]
             }
         },
@@ -6423,136 +6215,6 @@ var  groupundeclared = {
                 "coordinates": [
                     -51.2303767,
                     -30.0324999
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Efficiency of Method of Exosome Inhalation in COVID-19 Associated Pneumonia",
-                "aff": "Medical Centre Dinasty, Samara, Russian Federation",
-                "url": "https://ClinicalTrials.gov/show/NCT04602442",
-                "status": "Unknown status",
-                "enrolled": 90,
-                "radius": 19,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10981,
-                "paneLabel": "pane10981",
-                "start": "2020-09-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    50.113987,
-                    53.198627
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "NestaCell\u00ae Mesenchymal Stem Cell to Treat Patients With Severe COVID-19 Pneumonia",
-                "aff": "Hospital Vera Cruz, Campinas, S\u00e3o Paulo, Brazil ",
-                "url": "https://ClinicalTrials.gov/show/NCT04315987",
-                "status": "Unknown status",
-                "enrolled": 90,
-                "radius": 19,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10981,
-                "paneLabel": "pane10981",
-                "start": "2020-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -47.06083,
-                    -22.90556
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "NestaCell\u00ae Mesenchymal Stem Cell to Treat Patients With Severe COVID-19 Pneumonia",
-                "aff": " Hospital de Barueri, S\u00e3o Paulo, Brazil ",
-                "url": "https://ClinicalTrials.gov/show/NCT04315987",
-                "status": "Unknown status",
-                "enrolled": 90,
-                "radius": 19,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10981,
-                "paneLabel": "pane10981",
-                "start": "2020-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -53.2,
-                    -10.3333333
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "NestaCell\u00ae Mesenchymal Stem Cell to Treat Patients With Severe COVID-19 Pneumonia",
-                "aff": " IncCOR, S\u00e3o Paulo, Brazil ",
-                "url": "https://ClinicalTrials.gov/show/NCT04315987",
-                "status": "Unknown status",
-                "enrolled": 90,
-                "radius": 19,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10981,
-                "paneLabel": "pane10981",
-                "start": "2020-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -53.2,
-                    -10.3333333
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "NestaCell\u00ae Mesenchymal Stem Cell to Treat Patients With Severe COVID-19 Pneumonia",
-                "aff": " UNIFESP, S\u00e3o Paulo, Brazil",
-                "url": "https://ClinicalTrials.gov/show/NCT04315987",
-                "status": "Unknown status",
-                "enrolled": 90,
-                "radius": 19,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10981,
-                "paneLabel": "pane10981",
-                "start": "2020-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -53.2,
-                    -10.3333333
                 ]
             }
         },
@@ -6741,6 +6403,240 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
+                "name": "CTC, Free DNA, Stem Cells and EMT-related Antigens as Biomarkers of Activity of Cabazitaxel in CRPC.",
+                "aff": "Ospedali Riuniti Umberto I, Ancona, AN, Italy ",
+                "url": "https://ClinicalTrials.gov/show/NCT03381326",
+                "status": "Active, not recruiting",
+                "enrolled": 94,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10981,
+                "paneLabel": "pane10981",
+                "start": "2014-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45372299615882,
+                    43.602063900000005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CTC, Free DNA, Stem Cells and EMT-related Antigens as Biomarkers of Activity of Cabazitaxel in CRPC.",
+                "aff": " Istituto Scientifico Romagnolo per lo Studio e la Cura dei Tumori (IRST), Meldola, FC, Italy ",
+                "url": "https://ClinicalTrials.gov/show/NCT03381326",
+                "status": "Active, not recruiting",
+                "enrolled": 94,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10981,
+                "paneLabel": "pane10981",
+                "start": "2014-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0611527,
+                    44.1267212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CTC, Free DNA, Stem Cells and EMT-related Antigens as Biomarkers of Activity of Cabazitaxel in CRPC.",
+                "aff": " IRCCS AOU San martino IST, Genova, GE, Italy ",
+                "url": "https://ClinicalTrials.gov/show/NCT03381326",
+                "status": "Active, not recruiting",
+                "enrolled": 94,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10981,
+                "paneLabel": "pane10981",
+                "start": "2014-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9338624,
+                    44.40726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CTC, Free DNA, Stem Cells and EMT-related Antigens as Biomarkers of Activity of Cabazitaxel in CRPC.",
+                "aff": " Ospedale Civile degli Infermi, Rimini, RN, Italy ",
+                "url": "https://ClinicalTrials.gov/show/NCT03381326",
+                "status": "Active, not recruiting",
+                "enrolled": 94,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10981,
+                "paneLabel": "pane10981",
+                "start": "2014-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5684371,
+                    44.0593886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CTC, Free DNA, Stem Cells and EMT-related Antigens as Biomarkers of Activity of Cabazitaxel in CRPC.",
+                "aff": " Azienda Ospedaliera Cannizzaro, Catania, Italy ",
+                "url": "https://ClinicalTrials.gov/show/NCT03381326",
+                "status": "Active, not recruiting",
+                "enrolled": 94,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10981,
+                "paneLabel": "pane10981",
+                "start": "2014-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.118774566412217,
+                    37.5428366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CTC, Free DNA, Stem Cells and EMT-related Antigens as Biomarkers of Activity of Cabazitaxel in CRPC.",
+                "aff": " Ospedale Maggiore della Carit\u00e0, Novara, Italy ",
+                "url": "https://ClinicalTrials.gov/show/NCT03381326",
+                "status": "Active, not recruiting",
+                "enrolled": 94,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10981,
+                "paneLabel": "pane10981",
+                "start": "2014-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.545996970894572,
+                    45.58425005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CTC, Free DNA, Stem Cells and EMT-related Antigens as Biomarkers of Activity of Cabazitaxel in CRPC.",
+                "aff": " Istituto Oncologico del Veneto (IOV) - Universit\u00e0 di Padova, Padova, Italy ",
+                "url": "https://ClinicalTrials.gov/show/NCT03381326",
+                "status": "Active, not recruiting",
+                "enrolled": 94,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10981,
+                "paneLabel": "pane10981",
+                "start": "2014-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8734455,
+                    45.4077172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CTC, Free DNA, Stem Cells and EMT-related Antigens as Biomarkers of Activity of Cabazitaxel in CRPC.",
+                "aff": " Policlinico Universitario Campus Bio-Medico, Roma, Italy ",
+                "url": "https://ClinicalTrials.gov/show/NCT03381326",
+                "status": "Active, not recruiting",
+                "enrolled": 94,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10981,
+                "paneLabel": "pane10981",
+                "start": "2014-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.469603444543658,
+                    41.7703628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CTC, Free DNA, Stem Cells and EMT-related Antigens as Biomarkers of Activity of Cabazitaxel in CRPC.",
+                "aff": " Ospedale Sacro Cuore Don Calabria (Negrar), Verona, Italy",
+                "url": "https://ClinicalTrials.gov/show/NCT03381326",
+                "status": "Active, not recruiting",
+                "enrolled": 94,
+                "radius": 19,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10981,
+                "paneLabel": "pane10981",
+                "start": "2014-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.937400215567395,
+                    45.52979525000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Cord Blood Expansion on Mesenchymal Stem Cells",
                 "aff": "University of Texas MD Anderson Cancer Center, Houston, Texas, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT00498316",
@@ -6761,32 +6657,6 @@ var  groupundeclared = {
                 "coordinates": [
                     -95.39782993506569,
                     29.7076703
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Treatment of Chronic Renal Failure With Adipose Tissue-derived Mesenchymal Stem Cells",
-                "aff": "The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu, China",
-                "url": "https://ClinicalTrials.gov/show/NCT03321942",
-                "status": "Unknown status",
-                "enrolled": 100,
-                "radius": 20,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10980,
-                "paneLabel": "pane10980",
-                "start": "2017-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    117.1730344,
-                    34.2648755
                 ]
             }
         },
@@ -6871,6 +6741,58 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Mesenchymal Stem Cell Augmentation in Patients Undergoing Arthroscopic Rotator Cuff Repair",
+                "aff": "Rush University Medical Center, Chicago, Illinois, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT02484950",
+                "status": "Recruiting",
+                "enrolled": 100,
+                "radius": 20,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10980,
+                "paneLabel": "pane10980",
+                "start": "2015-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.66910060446992,
+                    41.87352605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Treatment of Chronic Renal Failure With Adipose Tissue-derived Mesenchymal Stem Cells",
+                "aff": "The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu, China",
+                "url": "https://ClinicalTrials.gov/show/NCT03321942",
+                "status": "Unknown status",
+                "enrolled": 100,
+                "radius": 20,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10980,
+                "paneLabel": "pane10980",
+                "start": "2017-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.1730344,
+                    34.2648755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Clonal Fetal Mesenchymal Stem Cells (cfMSCs) for the Control of Immune-related Disorders",
                 "aff": "Capital Institute of Pediatrics affiliated Children's hospital, Beijing, Beijing, China ",
                 "url": "https://ClinicalTrials.gov/show/NCT03123458",
@@ -6949,58 +6871,6 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Bone Marrow Aspirate Concentrate Versus Triamcinolone Injection For Hip Osteoarthritis",
-                "aff": "Cleveland Clinic Florida, Weston, Florida, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04990128",
-                "status": "Not yet recruiting",
-                "enrolled": 100,
-                "radius": 20,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10980,
-                "paneLabel": "pane10980",
-                "start": "2022-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.3682587,
-                    26.0819153
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mesenchymal Stem Cell Augmentation in Patients Undergoing Arthroscopic Rotator Cuff Repair",
-                "aff": "Rush University Medical Center, Chicago, Illinois, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT02484950",
-                "status": "Recruiting",
-                "enrolled": 100,
-                "radius": 20,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10980,
-                "paneLabel": "pane10980",
-                "start": "2015-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.66910060446992,
-                    41.87352605
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Mesenchymal Stem Cells for the Treatment of Pneumonia Post Haematopoietic Stem Cell Transplantation",
                 "aff": "Guangzhou Women and Children's Medical Center, Guangzhou, Guangdong, China",
                 "url": "https://ClinicalTrials.gov/show/NCT05131412",
@@ -7047,32 +6917,6 @@ var  groupundeclared = {
                 "coordinates": [
                     113.32967686736325,
                     23.1901971
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "the Laparoscopic and Endoscopic Cooperative Surgery of Gastrointestinal Stromal Tumor",
-                "aff": "First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, China",
-                "url": "https://ClinicalTrials.gov/show/NCT02763748",
-                "status": "Unknown status",
-                "enrolled": 120,
-                "radius": 20,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10980,
-                "paneLabel": "pane10980",
-                "start": "2016-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    108.9350839,
-                    34.3430507
                 ]
             }
         },
@@ -7313,32 +7157,6 @@ var  groupundeclared = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Prediction AlgoriThm for regeneraTive Medicine Approach in knEe OA: New Decision-making Process Based on Patient pRofiliNg",
-                "aff": "Humanitas Research Hospital, Rozzano, Milan, Italy",
-                "url": "https://ClinicalTrials.gov/show/NCT05447767",
-                "status": "Recruiting",
-                "enrolled": 240,
-                "radius": 25,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10975,
-                "paneLabel": "pane10975",
-                "start": "2021-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.1541309,
-                    45.3832366
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "A Pilot Study of MSCs Iufusion and Etanercept to Treat Ankylosing Spondylitis",
                 "aff": "Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China",
                 "url": "https://ClinicalTrials.gov/show/NCT02809781",
@@ -7359,214 +7177,6 @@ var  groupundeclared = {
                 "coordinates": [
                     113.29235087324346,
                     23.09960335
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "A Study on Non-invasive Early Diagnosis of Gastrointestinal Stromal Tumors and Differentiation of Benign and Malignant Nodules",
-                "aff": "First Affiliated Hospital of Nanjing Medical University, Nanjing, Jiangsu, China",
-                "url": "https://ClinicalTrials.gov/show/NCT04143048",
-                "status": "Unknown status",
-                "enrolled": 300,
-                "radius": 27,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10973,
-                "paneLabel": "pane10973",
-                "start": "2019-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    118.7915079,
-                    32.0615652
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "MIF Involvement in AML",
-                "aff": "Laboratoire d'h\u00e9matologie H\u00f4pital Saint Antoine, Paris, France",
-                "url": "https://ClinicalTrials.gov/show/NCT03918655",
-                "status": "Recruiting",
-                "enrolled": 300,
-                "radius": 27,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10973,
-                "paneLabel": "pane10973",
-                "start": "2019-07-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.3200410217200766,
-                    48.8588897
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Efficacy Study of Umbilical Mesenchymal Stem Cells for Liver Cirrhosis",
-                "aff": "The 302 Hospital of Chinese People's Liberation Army, Beijing, Beijing, China ",
-                "url": "https://ClinicalTrials.gov/show/NCT01573923",
-                "status": "Unknown status",
-                "enrolled": 320,
-                "radius": 27,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10973,
-                "paneLabel": "pane10973",
-                "start": "2014-07-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    116.3912757,
-                    39.906217
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Efficacy Study of Umbilical Mesenchymal Stem Cells for Liver Cirrhosis",
-                "aff": " the First Affiliated Hospital of Lanzhou University, Lanzhou, Gansu, China ",
-                "url": "https://ClinicalTrials.gov/show/NCT01573923",
-                "status": "Unknown status",
-                "enrolled": 320,
-                "radius": 27,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10973,
-                "paneLabel": "pane10973",
-                "start": "2014-07-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    103.8318566,
-                    36.0620781
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Efficacy Study of Umbilical Mesenchymal Stem Cells for Liver Cirrhosis",
-                "aff": " Hainan BOAO Life infinity international anti-aging medical center, Qionghai, Hainan, China ",
-                "url": "https://ClinicalTrials.gov/show/NCT01573923",
-                "status": "Unknown status",
-                "enrolled": 320,
-                "radius": 27,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10973,
-                "paneLabel": "pane10973",
-                "start": "2014-07-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    110.4703445,
-                    19.2592373
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Efficacy Study of Umbilical Mesenchymal Stem Cells for Liver Cirrhosis",
-                "aff": " The first people's hospital of Lianyungang, Lianyungang, Jiangsu, China ",
-                "url": "https://ClinicalTrials.gov/show/NCT01573923",
-                "status": "Unknown status",
-                "enrolled": 320,
-                "radius": 27,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10973,
-                "paneLabel": "pane10973",
-                "start": "2014-07-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.2171662,
-                    34.5933134
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Efficacy Study of Umbilical Mesenchymal Stem Cells for Liver Cirrhosis",
-                "aff": " Tongji Hospital of Tongji University, Shanghai, Shanghai, China ",
-                "url": "https://ClinicalTrials.gov/show/NCT01573923",
-                "status": "Unknown status",
-                "enrolled": 320,
-                "radius": 27,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10973,
-                "paneLabel": "pane10973",
-                "start": "2014-07-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.4452993,
-                    31.4015684
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Efficacy Study of Umbilical Mesenchymal Stem Cells for Liver Cirrhosis",
-                "aff": " The 323 Hospital of Chinese People's Liberation Army, Xi'an, Shanxi, China",
-                "url": "https://ClinicalTrials.gov/show/NCT01573923",
-                "status": "Unknown status",
-                "enrolled": 320,
-                "radius": 27,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10973,
-                "paneLabel": "pane10973",
-                "start": "2014-07-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    108.9350839,
-                    34.3430507
                 ]
             }
         },

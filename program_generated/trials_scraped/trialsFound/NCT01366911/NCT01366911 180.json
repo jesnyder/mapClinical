@@ -1,0 +1,74 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01366911",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "September 12, 2017"
+                        ],
+                        "LeadSponsorClass": [
+                              "OTHER"
+                        ],
+                        "LeadSponsorName": [
+                              "University of Nebraska"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Omaha",
+                              "Omaha"
+                        ],
+                        "LocationContactEMail": [],
+                        "LocationContactName": [],
+                        "LocationContactPhone": [],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [],
+                        "LocationCountry": [
+                              "United States",
+                              "United States"
+                        ],
+                        "LocationFacility": [
+                              "Dept of Orthopaedic Surgery at University of Nebraska Medical Center",
+                              "Dept. of Orthopaedic Surgery"
+                        ],
+                        "LocationState": [
+                              "Nebraska",
+                              "Nebraska"
+                        ],
+                        "LocationStatus": [],
+                        "LocationZip": [
+                              "68198",
+                              "68198"
+                        ],
+                        "NCTId": [
+                              "NCT01366911"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,74 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02161003",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "Azhar52980070"
+                        ],
+                        "SecondaryIdDomain": [
+                              "Al Azhar University"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Other Grant/Funding Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "This Including:\n\nClinical Assessment. Continence score.",
+                              "Maximum dry interval per day will be measured after injection at day 1, 30 and 90.",
+                              "MRI pelvic floor muscles study will be done after 90 days post injection.",
+                              "EMG study will be done after 90, 180 days post injection."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Assessment of Clinical Parameters",
+                              "Clinical Assessment",
+                              "Clinical Assessment",
+                              "Assessment of Urinary sphin Assessment of Urinary Sphincter (Electrophysiology Study)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "24 Weeks",
+                              "12 Weeks",
+                              "24 Weeks",
+                              "48 Weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02161003"
+                        ]
+                  }
+            ]
+      }
+}

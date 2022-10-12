@@ -1,0 +1,127 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal patient-derived",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "IsPPSD",
+                  "IsUSExport",
+                  "IsUnapprovedDevice",
+                  "Keyword",
+                  "LargeDocDate",
+                  "LargeDocFilename",
+                  "LargeDocHasICF",
+                  "LargeDocHasProtocol",
+                  "LargeDocHasSAP",
+                  "LargeDocLabel",
+                  "LargeDocTypeAbbrev",
+                  "LargeDocUploadDate",
+                  "LastKnownStatus",
+                  "LastUpdatePostDate",
+                  "LastUpdatePostDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "IsPPSD": [],
+                        "IsUSExport": [],
+                        "IsUnapprovedDevice": [],
+                        "Keyword": [
+                              "Mesenchymal Stem Cell",
+                              "Mesencymal Stromal Cell",
+                              "Stem Cell",
+                              "Regenerative Medicine",
+                              "Cell therapy",
+                              "Rejuvenation"
+                        ],
+                        "LargeDocDate": [],
+                        "LargeDocFilename": [],
+                        "LargeDocHasICF": [],
+                        "LargeDocHasProtocol": [],
+                        "LargeDocHasSAP": [],
+                        "LargeDocLabel": [],
+                        "LargeDocTypeAbbrev": [],
+                        "LargeDocUploadDate": [],
+                        "LastKnownStatus": [],
+                        "LastUpdatePostDate": [
+                              "March 15, 2022"
+                        ],
+                        "LastUpdatePostDateType": [
+                              "Actual"
+                        ],
+                        "NCTId": [
+                              "NCT03840343"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "IsPPSD": [],
+                        "IsUSExport": [],
+                        "IsUnapprovedDevice": [],
+                        "Keyword": [
+                              "Kabuki syndrome CRIPSR/Cas9 KMT2D"
+                        ],
+                        "LargeDocDate": [],
+                        "LargeDocFilename": [],
+                        "LargeDocHasICF": [],
+                        "LargeDocHasProtocol": [],
+                        "LargeDocHasSAP": [],
+                        "LargeDocLabel": [],
+                        "LargeDocTypeAbbrev": [],
+                        "LargeDocUploadDate": [],
+                        "LastKnownStatus": [],
+                        "LastUpdatePostDate": [
+                              "December 1, 2020"
+                        ],
+                        "LastUpdatePostDateType": [
+                              "Actual"
+                        ],
+                        "NCTId": [
+                              "NCT03855631"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "IsPPSD": [],
+                        "IsUSExport": [
+                              "Yes"
+                        ],
+                        "IsUnapprovedDevice": [],
+                        "Keyword": [
+                              "COVID-19",
+                              "Critical illness",
+                              "Hypercytokinemia",
+                              "Exosomes",
+                              "Mesenchymal stem cells",
+                              "Tissue reconstitution",
+                              "Immune modulation",
+                              "Sepsis"
+                        ],
+                        "LargeDocDate": [],
+                        "LargeDocFilename": [],
+                        "LargeDocHasICF": [],
+                        "LargeDocHasProtocol": [],
+                        "LargeDocHasSAP": [],
+                        "LargeDocLabel": [],
+                        "LargeDocTypeAbbrev": [],
+                        "LargeDocUploadDate": [],
+                        "LastKnownStatus": [],
+                        "LastUpdatePostDate": [
+                              "February 2, 2022"
+                        ],
+                        "LastUpdatePostDateType": [
+                              "Actual"
+                        ],
+                        "NCTId": [
+                              "NCT05191381"
+                        ]
+                  }
+            ]
+      }
+}

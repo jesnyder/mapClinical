@@ -1,0 +1,96 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03912480",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Nutritional and Metabolic Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions",
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Type 1 Diabetes"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M6267",
+                              "M6269",
+                              "M10791",
+                              "M24556",
+                              "M7014",
+                              "M3781",
+                              "M9352"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetes Mellitus",
+                              "Diabetes Mellitus, Type 1",
+                              "Metabolic Diseases",
+                              "Glucose Metabolism Disorders",
+                              "Endocrine System Diseases",
+                              "Autoimmune Diseases",
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003922"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Diabetes Mellitus, Type 1"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03912480"
+                        ]
+                  }
+            ]
+      }
+}

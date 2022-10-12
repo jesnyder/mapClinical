@@ -1,0 +1,59 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:11 17:12:16.352",
+            "Expression": "mesenchymal AlloStem",
+            "NStudiesAvail": 430425,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nMust be diagnosed with degenerative osteoarthritis, post-traumatic arthritis, inflammatory arthritis (ie: rheumatoid arthritis) or other conditions of the hindfoot requiring subtalar arthrodesis.\nPatients must be able to attend follow-up examinations for the duration of the trial.\nThe patient is at least 18 years of age and skeletally mature, or less than 80 years of age at the time of surgery.\nIs willing and able to comply with the clinical trial plan and able to understand and sign the Patient Informed Consent Form.\n\nExclusion Criteria:\n\nYounger than 18 years old or older than 80 years old.\nHas a condition that prevents ambulation or completion of any of the trial measurements.\nRequires fusion of additional hindfoot or ankle joints simultaneously (i.e. a pantalar, tibiotalocalcaneal or triple arthrodesis). Concomitant midfoot or forefoot procedures, such as osteotomies, tendon or metatarsal procedures are not exclusionary.\nHas treatment planned for the arthrodesis which does not require the use of screws.\nHas any active infection of the hindfoot, a systemic infection or bacteremia.\nHas received any treatment within the past 12 months which may interfere with bone metabolism [bisphosphonates (Fosamax, Actonel, Boniva, Reclast) and calcitonin (Miacalcin)].\nIs scheduled to have any surgical procedure on the contralateral foot within 6 weeks before or after the study procedure."
+                        ],
+                        "EnrollmentCount": [
+                              "140"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT01413061"
+                        ]
+                  }
+            ]
+      }
+}

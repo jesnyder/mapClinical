@@ -1,0 +1,69 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02742857",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "September 30, 2020"
+                        ],
+                        "LeadSponsorClass": [
+                              "INDUSTRY"
+                        ],
+                        "LeadSponsorName": [
+                              "Bioquark Inc."
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Rudrapur"
+                        ],
+                        "LocationContactEMail": [],
+                        "LocationContactName": [],
+                        "LocationContactPhone": [],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [],
+                        "LocationCountry": [
+                              "India"
+                        ],
+                        "LocationFacility": [
+                              "Anupam Hospital"
+                        ],
+                        "LocationState": [
+                              "Uttaranchal"
+                        ],
+                        "LocationStatus": [],
+                        "LocationZip": [
+                              "263153"
+                        ],
+                        "NCTId": [
+                              "NCT02742857"
+                        ]
+                  }
+            ]
+      }
+}

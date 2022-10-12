@@ -1,0 +1,63 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04713436",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [
+                              "Prospective"
+                        ],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "The purpose of this study was to evaluate the indirect effects of triple (TAP- ciprofloxacin, metronidazole and minocycline), double (DAP- ciprofloxacin and metronidazole) and modified triple antibiotic pastes (mTAP- ciprofloxacin, metronidazole and cefaclor) on mesenchmal stem cells derived from apical papilla (SCAP). SCAP were isolated from the impacted third molar teeth of the young adults. TAP, DAP and mTAP treatment (14-day medication and 28-day medication) were applied on SCAP and viability, proliferation and apoptosis of the cells were evaluated after four weeks. Osteocalcin (BGLAP), dentin sialo phosphoprotein (DSPP) and alkaline phosphatase (ALPP) gene expression levels were also evaluated."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nPatients with open apex third molar teeth for extraction indication\n\nExclusion Criteria:\n\nPatients with mature apex third molar teeth for extraction indication"
+                        ],
+                        "EnrollmentCount": [
+                              "3"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04713436"
+                        ]
+                  }
+            ]
+      }
+}

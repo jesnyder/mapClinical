@@ -1,0 +1,63 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT00710411",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [
+                              "Prospective"
+                        ],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "Polytraumatized patients are via a systemic inflammatory response syndrome at high risk for an uneventful outcome in the posttraumatic phase. One of the main functions of the inflammatory response is the recognition and elimination of damaged tissues and microorganisms. In polytraumatized patients, a huge amount of damaged cells occurs which has to be eliminated by programmed cell death (apoptosis)without damaging surrounding tissues. It remains unclear whether, when and how an interplay of complement system, NF-kB, danger and pattern recognition receptors, apoptosis, mesenchymal stem cells and their regulation may be beneficial and harmful. Differing activation of the complement system, pro-inflammatory biomarkers and predisposing polymorphisms of response and receptor genes are expected to lead to varying outcome. Therefore, this prospective observational study will enroll n=60 polytraumatized patients with an ISS>18 to monitor longitudinally their inflammatory response after trauma and to find out whether there is a discriminating pattern of the cross talk between complement system, biomarkers and apoptosis in patients with beneficial or harmful outcome."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nmultiple trauma injury, injury severity score (ISS) > 18 with\n\nisolated fractures of the extremities\nfractures of the extremities combined with blunt/penetrating visceral trauma\nfractures of the extremities combined with blunt/penetrating thoracic trauma\nisolated head injury with morphological changes in CCT\n\ncombination of points 1 - 4\n\nExclusion Criteria:\n\nlife expectancy < 24 hours\nparticipation in other trials\nISS < 18\ncardiopulmonary reanimation on the accident scene or dying immediately after hospital admission\nage < 18 years\nknown or suspected pregnancy\npatients with ray-treatment or chemotherapy within the last three months"
+                        ],
+                        "EnrollmentCount": [
+                              "48"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT00710411"
+                        ]
+                  }
+            ]
+      }
+}

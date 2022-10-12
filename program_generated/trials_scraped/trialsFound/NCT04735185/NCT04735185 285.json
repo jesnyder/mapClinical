@@ -1,0 +1,66 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04735185",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "PrimaryOutcomeTimeFrame",
+                  "ReferenceCitation",
+                  "ReferencePMID",
+                  "ReferenceType",
+                  "RemovedCountry",
+                  "ResponsiblePartyInvestigatorAffiliation",
+                  "ResponsiblePartyInvestigatorFullName",
+                  "ResponsiblePartyInvestigatorTitle",
+                  "ResponsiblePartyOldNameTitle",
+                  "ResponsiblePartyOldOrganization",
+                  "ResponsiblePartyType",
+                  "ResultsFirstPostDate",
+                  "ResultsFirstPostDateType",
+                  "ResultsFirstPostedQCCommentsDate",
+                  "ResultsFirstPostedQCCommentsDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "PrimaryOutcomeTimeFrame": [
+                              "Baseline and 3 months"
+                        ],
+                        "ReferenceCitation": [
+                              "Pettine KA, Murphy MB, Suzuki RK, Sand TT. Percutaneous injection of autologous bone marrow concentrate cells significantly reduces lumbar discogenic pain through 12 months. Stem Cells. 2015 Jan;33(1):146-56. doi: 10.1002/stem.1845.",
+                              "Noriega DC, Ardura F, Hern\u00e1ndez-Ramajo R, Mart\u00edn-Ferrero M\u00c1, S\u00e1nchez-Lite I, Toribio B, Alberca M, Garc\u00eda V, Moraleda JM, S\u00e1nchez A, Garc\u00eda-Sancho J. Intervertebral Disc Repair by Allogeneic Mesenchymal Bone Marrow Cells: A Randomized Controlled Trial. Transplantation. 2017 Aug;101(8):1945-1951. doi: 10.1097/TP.0000000000001484."
+                        ],
+                        "ReferencePMID": [
+                              "25187512",
+                              "27661661"
+                        ],
+                        "ReferenceType": [
+                              "background",
+                              "background"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT04735185"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,73 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03060551",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OtherEventStatsGroupId",
+                  "OtherEventStatsNumAffected",
+                  "OtherEventStatsNumAtRisk",
+                  "OtherEventStatsNumEvents",
+                  "OtherEventTerm",
+                  "OtherOutcomeDescription",
+                  "OtherOutcomeMeasure",
+                  "OtherOutcomeTimeFrame",
+                  "OutcomeAnalysisCILowerLimit",
+                  "OutcomeAnalysisCILowerLimitComment",
+                  "OutcomeAnalysisCINumSides",
+                  "OutcomeAnalysisCIPctValue",
+                  "OutcomeAnalysisCIUpperLimit",
+                  "OutcomeAnalysisCIUpperLimitComment",
+                  "OutcomeAnalysisDispersionType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OtherEventStatsGroupId": [
+                              "EG000",
+                              "EG000",
+                              "EG000"
+                        ],
+                        "OtherEventStatsNumAffected": [
+                              "1",
+                              "1",
+                              "3"
+                        ],
+                        "OtherEventStatsNumAtRisk": [
+                              "20",
+                              "20",
+                              "20"
+                        ],
+                        "OtherEventStatsNumEvents": [
+                              "1",
+                              "1",
+                              "3"
+                        ],
+                        "OtherEventTerm": [
+                              "Transient paresthesia in liposuction lesions",
+                              "Dizziness after lidocaine injection",
+                              "Transient pallor in finger after injection"
+                        ],
+                        "OtherOutcomeDescription": [],
+                        "OtherOutcomeMeasure": [],
+                        "OtherOutcomeTimeFrame": [],
+                        "OutcomeAnalysisCILowerLimit": [],
+                        "OutcomeAnalysisCILowerLimitComment": [],
+                        "OutcomeAnalysisCINumSides": [],
+                        "OutcomeAnalysisCIPctValue": [],
+                        "OutcomeAnalysisCIUpperLimit": [],
+                        "OutcomeAnalysisCIUpperLimitComment": [],
+                        "OutcomeAnalysisDispersionType": [],
+                        "NCTId": [
+                              "NCT03060551"
+                        ]
+                  }
+            ]
+      }
+}

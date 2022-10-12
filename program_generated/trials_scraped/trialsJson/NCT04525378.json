@@ -1,0 +1,643 @@
+{
+      "Rank": 80,
+      "Acronym": [],
+      "AgreementOtherDetails": [],
+      "AgreementPISponsorEmployee": [],
+      "AgreementRestrictionType": [],
+      "AgreementRestrictiveAgreement": [],
+      "ArmGroupDescription": [
+            "Patients will receive standard care.",
+            "Patients will receive standard care plus cell therapy.",
+            "Patients will receive standard care plus cell therapy.",
+            "Patients will receive standard care plus cell therapy."
+      ],
+      "ArmGroupInterventionName": [
+            "Other: Mesenchymal stromal cell-based therapy",
+            "Other: Mesenchymal stromal cell-based therapy",
+            "Other: Mesenchymal stromal cell-based therapy"
+      ],
+      "ArmGroupLabel": [
+            "Control",
+            "MSC - low dose (2.5x10\u02c67)",
+            "MSC - intermediate dose (5x10\u02c67)",
+            "MSC - high dose (10x10\u02c67)"
+      ],
+      "ArmGroupType": [
+            "No Intervention",
+            "Experimental",
+            "Experimental",
+            "Experimental"
+      ],
+      "AvailIPDComment": [],
+      "AvailIPDId": [],
+      "AvailIPDType": [],
+      "AvailIPDURL": [],
+      "BaselineCategoryTitle": [],
+      "BaselineClassDenomCountGroupId": [],
+      "NCTId": [
+            "NCT04525378"
+      ],
+      "BaselineClassDenomCountValue": [],
+      "BaselineClassDenomUnits": [],
+      "BaselineClassTitle": [],
+      "BaselineDenomCountGroupId": [],
+      "BaselineDenomCountValue": [],
+      "BaselineDenomUnits": [],
+      "BaselineGroupDescription": [],
+      "BaselineGroupId": [],
+      "BaselineGroupTitle": [],
+      "BaselineMeasureCalculatePct": [],
+      "BaselineMeasureDenomCountGroupId": [],
+      "BaselineMeasureDenomCountValue": [],
+      "BaselineMeasureDenomUnits": [],
+      "BaselineMeasureDenomUnitsSelected": [],
+      "BaselineMeasureDescription": [],
+      "BaselineMeasureDispersionType": [],
+      "BaselineMeasureParamType": [],
+      "BaselineMeasurePopulationDescription": [],
+      "BaselineMeasureTitle": [],
+      "BaselineMeasureUnitOfMeasure": [],
+      "BaselineMeasurementComment": [],
+      "BaselineMeasurementGroupId": [],
+      "BaselineMeasurementLowerLimit": [],
+      "BaselineMeasurementSpread": [],
+      "BaselineMeasurementUpperLimit": [],
+      "BaselineMeasurementValue": [],
+      "BaselinePopulationDescription": [],
+      "BaselineTypeUnitsAnalyzed": [],
+      "BioSpecDescription": [],
+      "BioSpecRetention": [],
+      "BriefSummary": [
+            "Considering the potential of mesenchymal stromal cells (MSCs) in the treatment of lung injuries by COVID-19, this pilot clinical trial evaluates the safety and potential efficacy of the cell therapy, administered intravenously, in patients with pneumonia associated with COVID-19-associated acute respiratory distress syndrome."
+      ],
+      "BriefTitle": [
+            "MSC-based Therapy in COVID-19-associated Acute Respiratory Distress Syndrome"
+      ],
+      "CentralContactEMail": [
+            "bruno.souza@hsr.com.br"
+      ],
+      "CentralContactName": [
+            "Bruno SF Souza, MD PHD"
+      ],
+      "CentralContactPhone": [
+            "+557132816455"
+      ],
+      "CentralContactPhoneExt": [],
+      "CentralContactRole": [
+            "Contact"
+      ],
+      "CollaboratorClass": [],
+      "CollaboratorName": [],
+      "CompletionDate": [
+            "October 31, 2020"
+      ],
+      "CompletionDateType": [
+            "Anticipated"
+      ],
+      "Condition": [
+            "Covid19",
+            "ARDS, Human"
+      ],
+      "ConditionAncestorId": [
+            "D000012141",
+            "D000007239",
+            "D000011024",
+            "D000011014",
+            "D000014777",
+            "D000018352",
+            "D000003333",
+            "D000030341",
+            "D000012327",
+            "D000008171",
+            "D000012140",
+            "D000012120",
+            "D000007235",
+            "D000007232",
+            "D000055370"
+      ],
+      "ConditionAncestorTerm": [
+            "Respiratory Tract Infections",
+            "Infections",
+            "Pneumonia, Viral",
+            "Pneumonia",
+            "Virus Diseases",
+            "Coronavirus Infections",
+            "Coronaviridae Infections",
+            "Nidovirales Infections",
+            "RNA Virus Infections",
+            "Lung Diseases",
+            "Respiratory Tract Diseases",
+            "Respiration Disorders",
+            "Infant, Premature, Diseases",
+            "Infant, Newborn, Diseases",
+            "Lung Injury"
+      ],
+      "ConditionBrowseBranchAbbrev": [
+            "BC01",
+            "BC08",
+            "All",
+            "BC23",
+            "BC16",
+            "BC26",
+            "BXS",
+            "Rare"
+      ],
+      "ConditionBrowseBranchName": [
+            "Infections",
+            "Respiratory Tract (Lung and Bronchial) Diseases",
+            "All Conditions",
+            "Symptoms and General Pathology",
+            "Diseases and Abnormalities at or Before Birth",
+            "Wounds and Injuries",
+            "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+            "Rare Diseases"
+      ],
+      "ConditionBrowseLeafAsFound": [
+            "COVID-19",
+            "Respiratory Distress Syndrome",
+            "Respiratory Distress Syndrome",
+            "Acute Respiratory Distress Syndrome",
+            "Respiratory Distress Syndrome",
+            "Acute Respiratory Distress Syndrome"
+      ],
+      "ConditionBrowseLeafId": [
+            "M2562",
+            "M15507",
+            "M14117",
+            "M14116",
+            "M27297",
+            "M27296",
+            "M9435",
+            "M14130",
+            "M5520",
+            "M13056",
+            "M13066",
+            "M16674",
+            "M19643",
+            "M5707",
+            "M22838",
+            "M14301",
+            "M10320",
+            "M14129",
+            "M14109",
+            "M25022",
+            "M9431",
+            "M9428",
+            "T4927",
+            "T192",
+            "T170"
+      ],
+      "ConditionBrowseLeafName": [
+            "COVID-19",
+            "Syndrome",
+            "Respiratory Distress Syndrome",
+            "Respiratory Distress Syndrome, Newborn",
+            "Acute Lung Injury",
+            "Lung Injury",
+            "Infections",
+            "Respiratory Tract Infections",
+            "Communicable Diseases",
+            "Pneumonia",
+            "Pneumonia, Viral",
+            "Virus Diseases",
+            "Coronavirus Infections",
+            "Coronaviridae Infections",
+            "Nidovirales Infections",
+            "RNA Virus Infections",
+            "Lung Diseases",
+            "Respiratory Tract Diseases",
+            "Respiration Disorders",
+            "Premature Birth",
+            "Infant, Premature, Diseases",
+            "Infant, Newborn, Diseases",
+            "Respiratory Distress Syndrome, Infant",
+            "Acute Respiratory Distress Syndrome",
+            "Acute Graft Versus Host Disease"
+      ],
+      "ConditionBrowseLeafRelevance": [
+            "high",
+            "low",
+            "high",
+            "high",
+            "high",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "high",
+            "high",
+            "low"
+      ],
+      "ConditionMeshId": [
+            "D000086382",
+            "D000012128",
+            "D000012127",
+            "D000055371"
+      ],
+      "ConditionMeshTerm": [
+            "COVID-19",
+            "Respiratory Distress Syndrome",
+            "Respiratory Distress Syndrome, Newborn",
+            "Acute Lung Injury"
+      ],
+      "DelayedPosting": [],
+      "DesignAllocation": [
+            "Randomized"
+      ],
+      "DesignInterventionModel": [
+            "Parallel Assignment"
+      ],
+      "DesignInterventionModelDescription": [],
+      "DesignMasking": [
+            "None (Open Label)"
+      ],
+      "DesignMaskingDescription": [],
+      "DesignObservationalModel": [],
+      "DesignPrimaryPurpose": [
+            "Treatment"
+      ],
+      "DesignTimePerspective": [],
+      "DesignWhoMasked": [],
+      "DetailedDescription": [],
+      "DispFirstPostDate": [],
+      "DispFirstPostDateType": [],
+      "DispFirstSubmitDate": [],
+      "DispFirstSubmitQCDate": [],
+      "EligibilityCriteria": [
+            "Inclusion Criteria:\n\nClinical diagnosis of COVID-19 confirmed by RT-PCR;\nThorax CT image suggestive of viral pneumonia;\nRespiratory failure (SaO2 <93% with O2 at 5L / min)\nTracheal intubation (first 48 h);\n\nExclusion Criteria:\n\nPregnancy or breastfeeding;\nPatients with a history of cancer, chemotherapy in the past 2 years;\nLife expectancy less than 6 months or in exclusive palliative care;\nSevere liver failure, with Child-Pugh score> 12;\nHigh probability of death in the following 48 h;\nPrevious renal failure: patients who were already on dialysis or patients with RFG <30ml / min / 1.73 m2;\nClinical or radiological suspicion of tuberculosis and bacterial pneumonia."
+      ],
+      "EnrollmentCount": [
+            "20"
+      ],
+      "EnrollmentType": [
+            "Anticipated"
+      ],
+      "EventGroupDeathsNumAffected": [],
+      "EventGroupDeathsNumAtRisk": [],
+      "EventGroupDescription": [],
+      "EventGroupId": [],
+      "EventGroupOtherNumAffected": [],
+      "EventGroupOtherNumAtRisk": [],
+      "EventGroupSeriousNumAffected": [],
+      "EventGroupSeriousNumAtRisk": [],
+      "EventGroupTitle": [],
+      "EventsDescription": [],
+      "EventsFrequencyThreshold": [],
+      "EventsTimeFrame": [],
+      "ExpAccTypeIndividual": [],
+      "ExpAccTypeIntermediate": [],
+      "ExpAccTypeTreatment": [],
+      "ExpandedAccessNCTId": [],
+      "ExpandedAccessStatusForNCTId": [],
+      "FDAAA801Violation": [],
+      "FlowAchievementComment": [],
+      "FlowAchievementGroupId": [],
+      "FlowAchievementNumSubjects": [],
+      "FlowAchievementNumUnits": [],
+      "FlowDropWithdrawComment": [],
+      "FlowDropWithdrawType": [],
+      "FlowGroupDescription": [],
+      "FlowGroupId": [],
+      "FlowGroupTitle": [],
+      "FlowMilestoneComment": [],
+      "FlowMilestoneType": [],
+      "FlowPeriodTitle": [],
+      "FlowPreAssignmentDetails": [],
+      "FlowReasonComment": [],
+      "FlowReasonGroupId": [],
+      "FlowReasonNumSubjects": [],
+      "FlowReasonNumUnits": [],
+      "FlowRecruitmentDetails": [],
+      "FlowTypeUnitsAnalyzed": [],
+      "Gender": [
+            "All"
+      ],
+      "GenderBased": [],
+      "GenderDescription": [],
+      "HasExpandedAccess": [
+            "No"
+      ],
+      "HealthyVolunteers": [
+            "No"
+      ],
+      "IPDSharing": [
+            "No"
+      ],
+      "IPDSharingAccessCriteria": [],
+      "IPDSharingDescription": [],
+      "IPDSharingInfoType": [],
+      "IPDSharingTimeFrame": [],
+      "IPDSharingURL": [],
+      "InterventionAncestorId": [],
+      "InterventionAncestorTerm": [],
+      "InterventionArmGroupLabel": [
+            "MSC - high dose (10x10\u02c67)",
+            "MSC - intermediate dose (5x10\u02c67)",
+            "MSC - low dose (2.5x10\u02c67)"
+      ],
+      "InterventionBrowseBranchAbbrev": [],
+      "InterventionBrowseBranchName": [],
+      "InterventionBrowseLeafAsFound": [],
+      "InterventionBrowseLeafId": [],
+      "InterventionBrowseLeafName": [],
+      "InterventionBrowseLeafRelevance": [],
+      "InterventionDescription": [
+            "Intravenous administration of MSCs, performed as single dose (high dose group) or repeated after 48 h (low doses; intermediate dose)"
+      ],
+      "InterventionMeshId": [],
+      "InterventionMeshTerm": [],
+      "InterventionName": [
+            "Mesenchymal stromal cell-based therapy"
+      ],
+      "InterventionOtherName": [],
+      "InterventionType": [
+            "Other"
+      ],
+      "IsFDARegulatedDevice": [
+            "No"
+      ],
+      "IsFDARegulatedDrug": [
+            "No"
+      ],
+      "IsPPSD": [],
+      "IsUSExport": [],
+      "IsUnapprovedDevice": [],
+      "Keyword": [],
+      "LargeDocDate": [],
+      "LargeDocFilename": [],
+      "LargeDocHasICF": [],
+      "LargeDocHasProtocol": [],
+      "LargeDocHasSAP": [],
+      "LargeDocLabel": [],
+      "LargeDocTypeAbbrev": [],
+      "LargeDocUploadDate": [],
+      "LastKnownStatus": [
+            "Recruiting"
+      ],
+      "LastUpdatePostDate": [
+            "August 26, 2020"
+      ],
+      "LastUpdatePostDateType": [
+            "Actual"
+      ],
+      "LastUpdateSubmitDate": [
+            "August 24, 2020"
+      ],
+      "LeadSponsorClass": [
+            "OTHER"
+      ],
+      "LeadSponsorName": [
+            "D'Or Institute for Research and Education"
+      ],
+      "LimitationsAndCaveatsDescription": [],
+      "LocationCity": [
+            "Salvador"
+      ],
+      "LocationContactEMail": [],
+      "LocationContactName": [
+            "Andre Gobatto, MD PHD"
+      ],
+      "LocationContactPhone": [],
+      "LocationContactPhoneExt": [],
+      "LocationContactRole": [
+            "Contact"
+      ],
+      "LocationCountry": [
+            "Brazil"
+      ],
+      "LocationFacility": [
+            "Hospital S\u00e3o Rafael"
+      ],
+      "LocationState": [
+            "Bahia"
+      ],
+      "LocationStatus": [
+            "Recruiting"
+      ],
+      "LocationZip": [
+            "41253-190"
+      ],
+      "MaximumAge": [],
+      "MinimumAge": [
+            "18 Years"
+      ],
+      "NCTIdAlias": [],
+      "OfficialTitle": [
+            "Mesenchymal Stromal Cell-based Therapy for COVID-19-associated Acute Respiratory Distress Syndrome: a Pilot Clinical Study"
+      ],
+      "OrgClass": [
+            "OTHER"
+      ],
+      "OrgFullName": [
+            "D'Or Institute for Research and Education"
+      ],
+      "OrgStudyId": [
+            "PCL02/2020"
+      ],
+      "OrgStudyIdDomain": [],
+      "OrgStudyIdLink": [],
+      "OrgStudyIdType": [],
+      "OtherEventAssessmentType": [],
+      "OtherEventNotes": [],
+      "OtherEventOrganSystem": [],
+      "OtherEventSourceVocabulary": [],
+      "OtherEventStatsGroupId": [],
+      "OtherEventStatsNumAffected": [],
+      "OtherEventStatsNumAtRisk": [],
+      "OtherEventStatsNumEvents": [],
+      "OtherEventTerm": [],
+      "OtherOutcomeDescription": [],
+      "OtherOutcomeMeasure": [],
+      "OtherOutcomeTimeFrame": [],
+      "OutcomeAnalysisCILowerLimit": [],
+      "OutcomeAnalysisCILowerLimitComment": [],
+      "OutcomeAnalysisCINumSides": [],
+      "OutcomeAnalysisCIPctValue": [],
+      "OutcomeAnalysisCIUpperLimit": [],
+      "OutcomeAnalysisCIUpperLimitComment": [],
+      "OutcomeAnalysisDispersionType": [],
+      "OutcomeAnalysisDispersionValue": [],
+      "OutcomeAnalysisEstimateComment": [],
+      "OutcomeAnalysisGroupDescription": [],
+      "OutcomeAnalysisGroupId": [],
+      "OutcomeAnalysisNonInferiorityComment": [],
+      "OutcomeAnalysisNonInferiorityType": [],
+      "OutcomeAnalysisOtherAnalysisDescription": [],
+      "OutcomeAnalysisPValue": [],
+      "OutcomeAnalysisPValueComment": [],
+      "OutcomeAnalysisParamType": [],
+      "OutcomeAnalysisParamValue": [],
+      "OutcomeAnalysisStatisticalComment": [],
+      "OutcomeAnalysisStatisticalMethod": [],
+      "OutcomeAnalysisTestedNonInferiority": [],
+      "OutcomeCategoryTitle": [],
+      "OutcomeClassDenomCountGroupId": [],
+      "OutcomeClassDenomCountValue": [],
+      "OutcomeClassDenomUnits": [],
+      "OutcomeClassTitle": [],
+      "OutcomeDenomCountGroupId": [],
+      "OutcomeDenomCountValue": [],
+      "OutcomeDenomUnits": [],
+      "OutcomeGroupDescription": [],
+      "OutcomeGroupId": [],
+      "OutcomeGroupTitle": [],
+      "OutcomeMeasureAnticipatedPostingDate": [],
+      "OutcomeMeasureCalculatePct": [],
+      "OutcomeMeasureDenomUnitsSelected": [],
+      "OutcomeMeasureDescription": [],
+      "OutcomeMeasureDispersionType": [],
+      "OutcomeMeasureParamType": [],
+      "OutcomeMeasurePopulationDescription": [],
+      "OutcomeMeasureReportingStatus": [],
+      "OutcomeMeasureTimeFrame": [],
+      "OutcomeMeasureTitle": [],
+      "OutcomeMeasureType": [],
+      "OutcomeMeasureTypeUnitsAnalyzed": [],
+      "OutcomeMeasureUnitOfMeasure": [],
+      "OutcomeMeasurementComment": [],
+      "OutcomeMeasurementGroupId": [],
+      "OutcomeMeasurementLowerLimit": [],
+      "OutcomeMeasurementSpread": [],
+      "OutcomeMeasurementUpperLimit": [],
+      "OutcomeMeasurementValue": [],
+      "OverallOfficialAffiliation": [],
+      "OverallOfficialName": [],
+      "OverallOfficialRole": [],
+      "OverallStatus": [
+            "Unknown status"
+      ],
+      "OversightHasDMC": [
+            "Yes"
+      ],
+      "PatientRegistry": [],
+      "Phase": [
+            "Phase 1"
+      ],
+      "PointOfContactEMail": [],
+      "PointOfContactOrganization": [],
+      "PointOfContactPhone": [],
+      "PointOfContactPhoneExt": [],
+      "PointOfContactTitle": [],
+      "PrimaryCompletionDate": [
+            "September 30, 2020"
+      ],
+      "PrimaryCompletionDateType": [
+            "Anticipated"
+      ],
+      "PrimaryOutcomeDescription": [],
+      "PrimaryOutcomeMeasure": [
+            "Intrahospital mortality"
+      ],
+      "PrimaryOutcomeTimeFrame": [
+            "28 days"
+      ],
+      "ReferenceCitation": [],
+      "ReferencePMID": [],
+      "ReferenceType": [],
+      "RemovedCountry": [],
+      "ResponsiblePartyInvestigatorAffiliation": [],
+      "ResponsiblePartyInvestigatorFullName": [],
+      "ResponsiblePartyInvestigatorTitle": [],
+      "ResponsiblePartyOldNameTitle": [],
+      "ResponsiblePartyOldOrganization": [],
+      "ResponsiblePartyType": [
+            "Sponsor"
+      ],
+      "ResultsFirstPostDate": [],
+      "ResultsFirstPostDateType": [],
+      "ResultsFirstPostedQCCommentsDate": [],
+      "ResultsFirstPostedQCCommentsDateType": [],
+      "ResultsFirstSubmitDate": [],
+      "ResultsFirstSubmitQCDate": [],
+      "RetractionPMID": [],
+      "RetractionSource": [],
+      "SamplingMethod": [],
+      "SecondaryId": [],
+      "SecondaryIdDomain": [],
+      "SecondaryIdLink": [],
+      "SecondaryIdType": [],
+      "SecondaryOutcomeDescription": [
+            "Exploratory evaluation of changes from baseline (percentage) in serum levels of CRP, LDH, Ferritin levels, a panel of cytokines, chemokines immune cell populations by flow cytometry"
+      ],
+      "SecondaryOutcomeMeasure": [
+            "Length of stay in the ICU and Hospital",
+            "Days without mechanical ventilation in 28 days",
+            "PaO2 / FiO2 ratio",
+            "Incidence of secondary infections",
+            "Incidence of adverse events",
+            "Quantification of inflammatory response markers"
+      ],
+      "SecondaryOutcomeTimeFrame": [
+            "28 days",
+            "28 days",
+            "Day 1, Day 2 and Day 7 after cell infusion",
+            "28 days",
+            "28 days",
+            "Day 1, Day 3 and Day 7 after cell infusion"
+      ],
+      "SeeAlsoLinkLabel": [],
+      "SeeAlsoLinkURL": [],
+      "SeriousEventAssessmentType": [],
+      "SeriousEventNotes": [],
+      "SeriousEventOrganSystem": [],
+      "SeriousEventSourceVocabulary": [],
+      "SeriousEventStatsGroupId": [],
+      "SeriousEventStatsNumAffected": [],
+      "SeriousEventStatsNumAtRisk": [],
+      "SeriousEventStatsNumEvents": [],
+      "SeriousEventTerm": [],
+      "StartDate": [
+            "July 1, 2020"
+      ],
+      "StartDateType": [
+            "Actual"
+      ],
+      "StatusVerifiedDate": [
+            "August 2020"
+      ],
+      "StdAge": [
+            "Adult",
+            "Older Adult"
+      ],
+      "StudyFirstPostDate": [
+            "August 25, 2020"
+      ],
+      "StudyFirstPostDateType": [
+            "Actual"
+      ],
+      "StudyFirstSubmitDate": [
+            "July 31, 2020"
+      ],
+      "StudyFirstSubmitQCDate": [
+            "August 22, 2020"
+      ],
+      "StudyPopulation": [],
+      "StudyType": [
+            "Interventional"
+      ],
+      "SubmissionMCPReleaseN": [],
+      "SubmissionReleaseDate": [],
+      "SubmissionResetDate": [],
+      "SubmissionUnreleaseDate": [],
+      "TargetDuration": [],
+      "UnpostedEventDate": [],
+      "UnpostedEventType": [],
+      "UnpostedResponsibleParty": [],
+      "VersionHolder": [
+            "October 10, 2022"
+      ],
+      "WhyStopped": []
+}

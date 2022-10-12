@@ -1,0 +1,98 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04261335",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "jRCT2043190112"
+                        ],
+                        "SecondaryIdDomain": [
+                              "Japan Registry of Clinical Trials"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Registry Identifier"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Incidence of composite endpoints is summarized.",
+                              "Mortality is summarized.",
+                              "Overall survival is summarized.",
+                              "Duration of continuous respiratory support is summarized.",
+                              "Duration of continuous use of vasopressors or pulmonary vasodilators is summarized.",
+                              "Each composite scores are summarized. The higher scores mean a better outcome.",
+                              "The developmental quotient is summarized. The higher scores mean a better outcome.",
+                              "Presence of each event is summarized.",
+                              "Presence of spasticity is summarized. Spasticity is the condition as below: increased muscle tone, or increased deep tendon reflex.",
+                              "Presence of spasticity is summarized. The definition of epilepsy is the condition based on the International League Against Epilepsy.",
+                              "MRI score is summarized. The scoring system is based on the report of Barkovich AJ, et al. (AJNR Am J Neuroradiol. 1998 ;19(1):143-9.) . The higher scores mean a worse outcome.",
+                              "GMFCS score is summarized. The gross motor function can be categorized into 5 different level. The higher scores mean a worse outcome."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Incidence of composite endpoints (death, continuous respiratory support, and continuous use of vasopressors or pulmonary vasodilators)",
+                              "Mortality",
+                              "Overall survival",
+                              "Duration of continuous respiratory support",
+                              "Duration of continuous use of vasopressors or pulmonary vasodilators",
+                              "The composite score of cognitive scale, language scale, motor scale, social-emotional scale, and adaptive behavior scale in Bayley Scales of Infant and Toddler Development Third edition",
+                              "The developmental quotient in Kyoto Scale of Psychological Development 2001",
+                              "Presence of 1) head control, 2) roll over, 3) sitting position, 4) crawl, 5) independent gait, and 6) meaningful words",
+                              "Presence of spasticity",
+                              "Presence of epilepsy",
+                              "MRI score",
+                              "Gross Motor Function Classification System (GMFCS) score"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "at 12, 26, 38, 52, and 78 weeks after administration",
+                              "all of the clinical trial period (up to 44 months)",
+                              "all of the clinical trial period (up to 44 months)",
+                              "up to 78 weeks",
+                              "up to 78 weeks",
+                              "78 weeks after administration",
+                              "78 weeks after administration",
+                              "at 26, 38, 52, and 78weeks after administration",
+                              "at 12, 26, 38, 52, and 78 weeks after administration",
+                              "until 78 weeks after administration",
+                              "at 2, and 78 weeks after administration",
+                              "at 78 weeks after administration"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04261335"
+                        ]
+                  }
+            ]
+      }
+}

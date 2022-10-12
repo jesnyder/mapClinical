@@ -1,0 +1,74 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT00702741",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Care Provider",
+                              "Investigator",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [
+                              "The long-term safety of human mesenchymal stem cells (hMSCs) (Chondrogen) has not yet been established. This 3-year follow-up study will provide additional data to gain understanding of the safety of the investigational agent. This study is designed to determine the safety of a single intra-articular injection of 50 million donor-derived hMSCs or 150 million donor-derived hMSCs in suspension with commercial sodium hyaluronan compared to an injection of vehicle (diluted hyaluronan) alone. The injections were performed under the initial study, Protocol No. 550."
+                        ],
+                        "DispFirstPostDate": [
+                              "January 11, 2022"
+                        ],
+                        "DispFirstPostDateType": [
+                              "Actual"
+                        ],
+                        "DispFirstSubmitDate": [
+                              "December 23, 2021"
+                        ],
+                        "DispFirstSubmitQCDate": [
+                              "January 7, 2022"
+                        ],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nSubject must have received an injection in Protocol No. 550\nSubject must have completed the 6-month and final 2-year visit in Protocol No. 550\nSubject must provide written informed consent for entry into the extension study\nSubject must provide authorization for use and disclosure of protected health information for entry into the extension study"
+                        ],
+                        "EnrollmentCount": [
+                              "55"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT00702741"
+                        ]
+                  }
+            ]
+      }
+}

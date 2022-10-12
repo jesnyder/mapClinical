@@ -1,0 +1,95 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal Human Placenta Mesenchymal Stem Cells Derived Exosomes",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "MaximumAge",
+                  "MinimumAge",
+                  "NCTId",
+                  "NCTIdAlias",
+                  "OfficialTitle",
+                  "OrgClass",
+                  "OrgFullName",
+                  "OrgStudyId",
+                  "OrgStudyIdDomain",
+                  "OrgStudyIdLink",
+                  "OrgStudyIdType",
+                  "OtherEventAssessmentType",
+                  "OtherEventNotes",
+                  "OtherEventOrganSystem",
+                  "OtherEventSourceVocabulary"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "MaximumAge": [
+                              "70 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT05402748"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Safety and Efficacy of Injection of Human Placenta Mesenchymal Stem Cells Derived Exosomes for Treatment of Complex Anal Fistula"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "Tehran University of Medical Sciences"
+                        ],
+                        "OrgStudyId": [
+                              "IRCT20211212053361N1"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 2,
+                        "MaximumAge": [
+                              "70 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT05499156"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Safety of Injection of Placental Mesenchymal Stem Cell Derived Exosomes for Treatment of Resistant Perianal Fistula in Crohn's Patients"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "Tehran University of Medical Sciences"
+                        ],
+                        "OrgStudyId": [
+                              "IRCT20200413047063N3"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  }
+            ]
+      }
+}

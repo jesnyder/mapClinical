@@ -1,0 +1,105 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04557514",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "fat injection in post burn facial scar",
+                              "platelet rich plasma injection in post burn facial scar",
+                              "fat injection in post burn facial scar",
+                              "platelet rich plasma injection in post burn facial scar"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "CNSDep",
+                              "All",
+                              "AnCoag",
+                              "Ot"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Central Nervous System Depressants",
+                              "All Drugs and Chemicals",
+                              "Anticoagulants",
+                              "Other Dietary Supplements"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3259",
+                              "M3261",
+                              "M20473",
+                              "M1837",
+                              "M3396",
+                              "M126057",
+                              "T382"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anesthetics",
+                              "Anesthetics, Local",
+                              "Citric Acid",
+                              "Sodium Citrate",
+                              "Anticoagulants",
+                              "Acid citrate dextrose",
+                              "Citrate"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "2 spins>>>\n\nst spin (separate plasma from blood) 2500 for 10 minutes\nnd spin (separate platelet rich part of plasma) 1500 for 10 minutes Taking lower part (platelet rich plasma ) Injection under scar after rigotomy",
+                              "Anesthesia : general or local Lipoaspirate from abdomen or thigh using adrenaline(1\\1000000) + ringer lactate + zylocaine Liposuction by canula no4 Sediment 3 layers : taking mid layer of fat and omit uppermost and lowermost layers Lipoinjection in fan shaped manner 10-20 cc according to site affected by canula no 1 ."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "platelet rich plasma injection in post burn facial scar",
+                              "fat injection in post burn facial scar"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04557514"
+                        ]
+                  }
+            ]
+      }
+}

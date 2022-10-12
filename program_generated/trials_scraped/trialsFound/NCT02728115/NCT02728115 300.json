@@ -1,0 +1,77 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02728115",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "51005115.9.0000.5412"
+                        ],
+                        "SecondaryIdDomain": [
+                              "CAAE"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Registry Identifier"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Will be evaluated by statistical comparison of the results of each UHDRS scale component: motor, cognitive and behavior. The global clinical response will be assessed by statistical comparison between baseline score observed by the Investigator before and after Cellavita HD treatment.",
+                              "Will be evaluated by statistical comparison of the inflammatory markers included IL-4, IL-6, IL-10 (interleukin IL) and TNF-alpha (tumoral necrosis factor alpha).",
+                              "The immunological response induced by Cellavita HD will be evaluated by statistical comparison between baseline results of CD4+ and CD8+ proliferation and the other evaluated times.",
+                              "Will be evaluated by statistical comparison of the CNS assessment through magnetic resonance image at cortical thickness measurements, volumes of different brain structures, especially the basal ganglia, with special attention to caudate and metabolic changes identified in proton spectroscopy.",
+                              "Will be evaluated by suicidal domain. The classificatory pontuation may correspond to mild depression (score: 8 to 13), moderate depression (score: 19 - 22) and severe depression (score: > 23)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Preliminary efficacy of Cellavita HD by UHDRS improvement and global clinical response (CIBIS)",
+                              "Preliminary efficacy of Cellavita HD by comparison of the inflammatory markers",
+                              "Immunological Response of Cellavita HD",
+                              "Preliminary efficacy of Cellavita HD by comparison of the CNS assessment",
+                              "Risk of suicidal ideation by Hamilton Depression Rating Scale (HDRS)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "first year and in the following 4 years",
+                              "first year",
+                              "first year",
+                              "first year",
+                              "first year and in the following 4 years"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02728115"
+                        ]
+                  }
+            ]
+      }
+}

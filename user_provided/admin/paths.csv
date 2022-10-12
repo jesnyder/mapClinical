@@ -11,6 +11,7 @@ search_terms,user_provided admin search_terms.csv
 search_fields,user_provided admin search_fields.json
 
 # query_trials created
+trials_json_id,program_generated trials_scraped trialsJson
 trials_found,program_generated trials_scraped  trialsFound
 nctids,program_generated trials_scraped nctids.csv
 scraped_trials,program_generated trials_scraped scraped_trials.json
@@ -34,6 +35,7 @@ geolocated_json,program_generated locations geolocated.json
 
 # write_geojson created
 geojson,program_generated geojson.json
+record_radius,program_generated geojson recod_radius.csv
 
 # assign_groups referenced
 allo_terms,user_provided admin allo_terms.csv

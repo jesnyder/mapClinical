@@ -1,0 +1,101 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT05120726",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Skin and Connective Tissue Diseases",
+                              "All Conditions",
+                              "Nutritional and Metabolic Diseases",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Pyoderma",
+                              "Pyoderma Gangrenosum",
+                              "Pyoderma Gangrenosum"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M13716",
+                              "M6035",
+                              "M18926",
+                              "M14826",
+                              "M16358",
+                              "M14838",
+                              "T4840"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Pyoderma",
+                              "Dehydration",
+                              "Pyoderma Gangrenosum",
+                              "Skin Diseases",
+                              "Ulcer",
+                              "Skin Ulcer",
+                              "Pyoderma Gangrenosum"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000011711",
+                              "D000017511"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Pyoderma",
+                              "Pyoderma Gangrenosum"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05120726"
+                        ]
+                  }
+            ]
+      }
+}

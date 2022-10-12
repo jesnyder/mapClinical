@@ -1,0 +1,76 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02742857",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "AAH -01-2016"
+                        ],
+                        "SecondaryIdDomain": [
+                              "Anupam Hospital"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Other Identifier"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "To signify any signs of aseptic or bacterial meningitis",
+                              "To signify any signs of aseptic or bacterial meningitis"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Cerebrospinal fluid (CSF) analysis of color consistency, cell counts, and microbial evaluation",
+                              "MRI analysis to analyze any changes in meninges",
+                              "Pulse",
+                              "O2 saturation",
+                              "Blood Pressure",
+                              "Respiration changes"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "15 days",
+                              "15 days",
+                              "15 days",
+                              "15 days",
+                              "15 days",
+                              "15 days"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02742857"
+                        ]
+                  }
+            ]
+      }
+}

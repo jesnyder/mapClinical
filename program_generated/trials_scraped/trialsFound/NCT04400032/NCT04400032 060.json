@@ -1,0 +1,115 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04400032",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The clinical picture of the novel corona virus 2 (SARS-CoV-2) disease (COVID-19) is rapidly evolving. Although infections may be mild, up to 25% of all patients admitted to hospital require admission to the intensive care unit, and as many as 40% will progress to develop severe problems breathing due to the acute respiratory distress syndrome (ARDS). ARDS often requires mechanical ventilation, with a 50% risk of mortality. Researchers at the Ottawa Hospital Research Institute (OHRI) have been studying the potential therapeutic role of mesenchymal stromal/stem cells, or MSCs, for the treatment of ARDS for over a decade. This has led to the world's first clinical trial using MSC therapy for patients with severe infections (sepsis) which is often associated with ARDS (NCT02421484). This trial demonstrated tolerability, and potential signs of efficacy. In addition, the investigators have established expertise in producing clinical-grade MSCs and have received approval from Health Canada for the use of MSCs in three different clinical studies.\n\nThis protocol consists of 2 sequential trials using the same trial infrastructure, noted as the Phase 1 trial 'CIRCA-1901' and the Phase 2a trial 'CIRCA-1902'. CIRCA-1901 is an open-label, dose-escalating and safety trial using a 3+3+3 design to determine the safety, and maximum feasible tolerated dose of repeated delivery of Umbilical Cord Mesenchymal Stromal Cells (UC-MSC) intravenously. The investigators will enroll up to 9 patients; each receiving repeated unit doses of UC-MSCs delivered by IV infusion on each of 3 consecutive days (24\u00b14 hours apart) according to the following dose-escalation schedule (3 patients per dose panel): (i) Panel 1: 25 million cells/unit dose (cumulative dose: 75 million MSCs), (ii) Panel 2: 50 million cells/unit dose (cumulative dose: 150 million MSCs), (iii) Panel 3: up to 90 million cells/unit dose (cumulative dose: up to 270 million MSCs). If no safety issues are identified, we will continue to the Phase 2a trial.\n\nCIRCA-1902 is a single-arm, open-label extension of the CIRCA-1901 trial to assess early signs of efficacy (major morbidity and mortality). The Phase 2a trial (CIRCA-1902) will enroll 12 patients to assess early signals of benefit on mortality and major morbidity in a high risk, high mortality population."
+                        ],
+                        "BriefTitle": [
+                              "Cellular Immuno-Therapy for COVID-19 Acute Respiratory Distress Syndrome"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "OTHER",
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "Stem Cell Network",
+                              "Ontario Research Fund"
+                        ],
+                        "CompletionDate": [
+                              "April 22, 2021"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Acute Respiratory Distress Syndrome",
+                              "Covid19"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000004194",
+                              "D000010335",
+                              "D000012141",
+                              "D000007239",
+                              "D000011024",
+                              "D000011014",
+                              "D000014777",
+                              "D000018352",
+                              "D000003333",
+                              "D000030341",
+                              "D000012327",
+                              "D000008171",
+                              "D000012140",
+                              "D000012120",
+                              "D000007235",
+                              "D000007232",
+                              "D000055370"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Disease",
+                              "Pathologic Processes",
+                              "Respiratory Tract Infections",
+                              "Infections",
+                              "Pneumonia, Viral",
+                              "Pneumonia",
+                              "Virus Diseases",
+                              "Coronavirus Infections",
+                              "Coronaviridae Infections",
+                              "Nidovirales Infections",
+                              "RNA Virus Infections",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Respiration Disorders",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Lung Injury"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC01",
+                              "BC08",
+                              "All",
+                              "BC23",
+                              "BC16",
+                              "BC26",
+                              "BXS",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT04400032"
+                        ]
+                  }
+            ]
+      }
+}

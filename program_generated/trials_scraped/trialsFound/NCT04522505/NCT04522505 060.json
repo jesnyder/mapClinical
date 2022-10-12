@@ -1,0 +1,89 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04522505",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This observation study is planned to evaluate the safety and efficacy of the subjects who received CS20AT04 in the phase 1 clinical trial.\n\nIf the subjects who participated in the phase 1 clinical trial voluntarily agree to participate in this observation study, visit 1 and visit 2 will be conducted every 3 months according to the clinical trial protocol until 6 months after administration of CS20AT04 in the phase 1 clinical trial. And Visit 3 after 6 months, Visit 4~Visit 7 will be conducted every 12 months. During each visit, subjects are assessed for the efficacy and occurrence of adverse events."
+                        ],
+                        "BriefTitle": [
+                              "Long-term Follow-up for Evaluating the Safety of CS20AT04 in Subject With Lupus Nephritis"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "Hanyang University"
+                        ],
+                        "CompletionDate": [
+                              "January 24, 2024"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Lupus Nephritis"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000007674",
+                              "D000014570",
+                              "D000005921",
+                              "D000008180",
+                              "D000003240",
+                              "D000001327",
+                              "D000007154"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Kidney Diseases",
+                              "Urologic Diseases",
+                              "Glomerulonephritis",
+                              "Lupus Erythematosus, Systemic",
+                              "Connective Tissue Diseases",
+                              "Autoimmune Diseases",
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC17",
+                              "BC20",
+                              "All",
+                              "BXS",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT04522505"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,80 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02652130",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [
+                              "Publications (abstracts, posters or presentations) must be presented to the Publication Steering Committee for review prior to submission or public display and are not allowed prior to the publication of the primary manuscript, or eighteen (18) months from the conclusion of the Study. PI shall provide Sponsor a copy of any proposed public disclosure at least 30 days prior to submission. Sponsor may ask PI to delay the disclosure for a maximum of 60 days to file proprietary protection."
+                        ],
+                        "AgreementPISponsorEmployee": [
+                              "No"
+                        ],
+                        "AgreementRestrictionType": [
+                              "OTHER"
+                        ],
+                        "AgreementRestrictiveAgreement": [
+                              "Yes"
+                        ],
+                        "ArmGroupDescription": [
+                              "All participants who were enrolled and had received at least 1 dose of remestemcel-L in Study MSB-GVHD001."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Remestemcel-L"
+                        ],
+                        "ArmGroupLabel": [
+                              "Safety population"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [
+                              "Female",
+                              "Male",
+                              "Hispanic or Latino",
+                              "Not Hispanic or Latino",
+                              "Unknown or Not Reported",
+                              "White",
+                              "Black or African American",
+                              "Asian",
+                              "American Indian or Alaska Native",
+                              "Other"
+                        ],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02652130"
+                        ]
+                  }
+            ]
+      }
+}

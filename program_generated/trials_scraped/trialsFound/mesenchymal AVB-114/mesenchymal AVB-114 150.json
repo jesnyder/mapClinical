@@ -1,0 +1,70 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal AVB-114",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Standard of Care Treatment",
+                              "Standard of Care Treatment + AVB-114",
+                              "Standard of Care Treatment + AVB-114"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "This treatment consists of inserting a seton (a soft flexible tube or nonabsorbable string) into the subject's perianal fistula. The seton will be removed by a study doctor at study visits as applicable.",
+                              "AVB-114 consists of stem cells taken from a subject's fat tissue seeded into a bioabsorbable plug. AVB-114 will be inserted into the subject's fistula by a study doctor on Day 0."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Seton Placement",
+                              "AVB-114"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04847739"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,544 @@
+{
+      "Rank": 235,
+      "Acronym": [
+            "ACE_CARD"
+      ],
+      "AgreementOtherDetails": [],
+      "AgreementPISponsorEmployee": [],
+      "AgreementRestrictionType": [],
+      "AgreementRestrictiveAgreement": [],
+      "ArmGroupDescription": [
+            "Experimental: Cohort 1 Low dose, 20M cells, 3 patients",
+            "Experimental: Cohort 2 Med dose, 100M cells, 3 patients",
+            "Experimental: Cohort 3 High dose, 200M cells, 3 patients"
+      ],
+      "ArmGroupInterventionName": [
+            "Biological: intravenous delivery of allogeneic bone marrow-derived MSCs",
+            "Biological: intravenous delivery of allogeneic bone marrow-derived MSCs",
+            "Biological: intravenous delivery of allogeneic bone marrow-derived MSCs"
+      ],
+      "ArmGroupLabel": [
+            "Low dose",
+            "Medium dose",
+            "High dose"
+      ],
+      "ArmGroupType": [
+            "Experimental",
+            "Experimental",
+            "Experimental"
+      ],
+      "AvailIPDComment": [],
+      "AvailIPDId": [],
+      "AvailIPDType": [],
+      "AvailIPDURL": [],
+      "BaselineCategoryTitle": [],
+      "BaselineClassDenomCountGroupId": [],
+      "NCTId": [
+            "NCT05491681"
+      ],
+      "BaselineClassDenomCountValue": [],
+      "BaselineClassDenomUnits": [],
+      "BaselineClassTitle": [],
+      "BaselineDenomCountGroupId": [],
+      "BaselineDenomCountValue": [],
+      "BaselineDenomUnits": [],
+      "BaselineGroupDescription": [],
+      "BaselineGroupId": [],
+      "BaselineGroupTitle": [],
+      "BaselineMeasureCalculatePct": [],
+      "BaselineMeasureDenomCountGroupId": [],
+      "BaselineMeasureDenomCountValue": [],
+      "BaselineMeasureDenomUnits": [],
+      "BaselineMeasureDenomUnitsSelected": [],
+      "BaselineMeasureDescription": [],
+      "BaselineMeasureDispersionType": [],
+      "BaselineMeasureParamType": [],
+      "BaselineMeasurePopulationDescription": [],
+      "BaselineMeasureTitle": [],
+      "BaselineMeasureUnitOfMeasure": [],
+      "BaselineMeasurementComment": [],
+      "BaselineMeasurementGroupId": [],
+      "BaselineMeasurementLowerLimit": [],
+      "BaselineMeasurementSpread": [],
+      "BaselineMeasurementUpperLimit": [],
+      "BaselineMeasurementValue": [],
+      "BaselinePopulationDescription": [],
+      "BaselineTypeUnitsAnalyzed": [],
+      "BioSpecDescription": [],
+      "BioSpecRetention": [],
+      "BriefSummary": [
+            "Allogeneic culture-expanded bone marrow-derived human mesenchymal stem cells (MSC) are the subject of the current study as they are supported by preclinical and clinical data for potential to provide a safe and effective treatment for patients with acute respiratory distress."
+      ],
+      "BriefTitle": [
+            "AllogeneiC Expanded Human MSC Therapy in Patients Recovering From COVID-19 Acute Respiratory Distress Trial"
+      ],
+      "CentralContactEMail": [
+            "plee@biocardia.com",
+            "paltman@biocardia.com"
+      ],
+      "CentralContactName": [
+            "Patrick S Lee, MS",
+            "Peter A Altman, PhD"
+      ],
+      "CentralContactPhone": [
+            "6505041915",
+            "6502554532"
+      ],
+      "CentralContactPhoneExt": [],
+      "CentralContactRole": [
+            "Contact",
+            "Contact"
+      ],
+      "CollaboratorClass": [],
+      "CollaboratorName": [],
+      "CompletionDate": [
+            "March 31, 2024"
+      ],
+      "CompletionDateType": [
+            "Anticipated"
+      ],
+      "Condition": [
+            "ARDS, Human"
+      ],
+      "ConditionAncestorId": [
+            "D000008171",
+            "D000012140",
+            "D000012120"
+      ],
+      "ConditionAncestorTerm": [
+            "Lung Diseases",
+            "Respiratory Tract Diseases",
+            "Respiration Disorders"
+      ],
+      "ConditionBrowseBranchAbbrev": [
+            "BC01",
+            "BC08",
+            "All",
+            "BC23",
+            "BC16",
+            "Rare"
+      ],
+      "ConditionBrowseBranchName": [
+            "Infections",
+            "Respiratory Tract (Lung and Bronchial) Diseases",
+            "All Conditions",
+            "Symptoms and General Pathology",
+            "Diseases and Abnormalities at or Before Birth",
+            "Rare Diseases"
+      ],
+      "ConditionBrowseLeafAsFound": [
+            "ARDS, Human",
+            "Acute Respiratory Distress"
+      ],
+      "ConditionBrowseLeafId": [
+            "M2562",
+            "M15507",
+            "M14117",
+            "M14116",
+            "M10320",
+            "M14129",
+            "M14109",
+            "T192",
+            "T170",
+            "T4927"
+      ],
+      "ConditionBrowseLeafName": [
+            "COVID-19",
+            "Syndrome",
+            "Respiratory Distress Syndrome",
+            "Respiratory Distress Syndrome, Newborn",
+            "Lung Diseases",
+            "Respiratory Tract Diseases",
+            "Respiration Disorders",
+            "Acute Respiratory Distress Syndrome",
+            "Acute Graft Versus Host Disease",
+            "Respiratory Distress Syndrome, Infant"
+      ],
+      "ConditionBrowseLeafRelevance": [
+            "low",
+            "low",
+            "high",
+            "low",
+            "low",
+            "low",
+            "low",
+            "high",
+            "low",
+            "low"
+      ],
+      "ConditionMeshId": [
+            "D000012128"
+      ],
+      "ConditionMeshTerm": [
+            "Respiratory Distress Syndrome"
+      ],
+      "DelayedPosting": [],
+      "DesignAllocation": [
+            "Non-Randomized"
+      ],
+      "DesignInterventionModel": [
+            "Sequential Assignment"
+      ],
+      "DesignInterventionModelDescription": [
+            "Dose finding study"
+      ],
+      "DesignMasking": [
+            "None (Open Label)"
+      ],
+      "DesignMaskingDescription": [],
+      "DesignObservationalModel": [],
+      "DesignPrimaryPurpose": [
+            "Treatment"
+      ],
+      "DesignTimePerspective": [],
+      "DesignWhoMasked": [],
+      "DetailedDescription": [
+            "The majority of Covid-19 cases either are asymptomatic or result in only mild disease. However, in a substantial percentage of patients, a respiratory illness requiring hospital care develops, and such infections can progress to critical illness with hypoxemic respiratory failure requiring prolonged ventilatory support (Zhou 2020) , (Chen 2020) , (Cao 2020) , (Ruan 2020) . Among patients with Covid-19 who have been admitted to hospitals in the United Kingdom, the case fatality rate has been approximately 26%, a percentage that has increased to more than 37% among patients who were undergoing invasive mechanical ventilation.(Docherty 2020) Although remdesivir has been shown to shorten the time until recovery in hospitalized patients, (Beigel 2020). Efforts to modulate inflammation-mediated lung injury and thereby reduce progression to respiratory failure and death have shown promising results.\n\nINVESTIGATIONAL PRODUCT The NK1R+ MSC cell therapy are allogeneic bone marrow-derived mesenchymal stem cells that will be delivered intravenously.\n\nDetails on cell culture and expansion of the cells are provided in the Chemistry Manufacturing and Controls Section of the IND.\n\nCells are provided cryopreserved and are thawed, washed, and prepared for IV delivery.\n\nSTUDY OBJECTIVES The objective of this clinical trial is to determine the safety and the optimal cell dose of the NK1R+ hMSC in patients recovering from ARDS.\n\n."
+      ],
+      "DispFirstPostDate": [],
+      "DispFirstPostDateType": [],
+      "DispFirstSubmitDate": [],
+      "DispFirstSubmitQCDate": [],
+      "EligibilityCriteria": [
+            "Inclusion Criteria:\n\nPatient > 18 years and \u2264 80 at age at consent\n\nPatient must have:\n\nHave a laboratory-confirmed COVID-19 diagnosis (nucleic acid-based assay (e.g., RTPCR) to establish the diagnosis of SARS-CoV-2 infection), who recovered from moderate to severe COVID-19 associated ARDS, as determined by Berlin Criteria and been weaned off the ventilator support.\"\nMeet the criteria for mild and moderate COVID-19 as described in COVID-19: Developing Drugs and Biological Products for Treatment or Prevention Guidance for Industry (Feb 2021).\nRecovery from moderate to severe ARDS, diagnosed based on Berlin Criteria, within past 7 days.\nPaO2/FiO2 > 100 to <200 mmHg with PEEP>5cm H2O\nPatient or legally authorized representative (LAR) provides written informed consent, except as noted in 21 CFR 50.23\nUnderstands and agrees to comply with planned study procedures\nAvailable for clinical follow-up for duration of the treatment and follow-up period\nWoman of childbearing potential must have a negative pregnancy test at admission or within 24 hours before starting treatment\nAgree not to become pregnant during treatment and for 1 months after receiving treatment\nUse at least 2 reliable forms of effective contraception, including 1 barrier method, during treatment and for 1 month after the treatment period\n\nExclusion Criteria:\n\nSevere chronic respiratory disease with a PaCO2 > 50 mm Hg or the use of home oxygen (chronic obstructive pulmonary disease or pulmonary fibrosis)\nBe an organ transplant recipient\nALT/AST \u2265 5 times the upper limit of normal\nBMI > 40\nStage 4 severe kidney disease or requiring dialysis (i.e. eGFR <30)\nAnticipated transfer to another hospital that is not a study site within 72 hours\nShock or on ECMO\nPregnant or nursing\nOn a ventilator at the time of enrollment\nHave received high dose corticosteroids at doses >20 mg per day (or prednisone equivalent) administered for \u226514 consecutive days in the month prior to study entry.\nHave been diagnosed with cancer\nDemonstrated inability to comply with the study procedures"
+      ],
+      "EnrollmentCount": [
+            "9"
+      ],
+      "EnrollmentType": [
+            "Anticipated"
+      ],
+      "EventGroupDeathsNumAffected": [],
+      "EventGroupDeathsNumAtRisk": [],
+      "EventGroupDescription": [],
+      "EventGroupId": [],
+      "EventGroupOtherNumAffected": [],
+      "EventGroupOtherNumAtRisk": [],
+      "EventGroupSeriousNumAffected": [],
+      "EventGroupSeriousNumAtRisk": [],
+      "EventGroupTitle": [],
+      "EventsDescription": [],
+      "EventsFrequencyThreshold": [],
+      "EventsTimeFrame": [],
+      "ExpAccTypeIndividual": [],
+      "ExpAccTypeIntermediate": [],
+      "ExpAccTypeTreatment": [],
+      "ExpandedAccessNCTId": [],
+      "ExpandedAccessStatusForNCTId": [],
+      "FDAAA801Violation": [],
+      "FlowAchievementComment": [],
+      "FlowAchievementGroupId": [],
+      "FlowAchievementNumSubjects": [],
+      "FlowAchievementNumUnits": [],
+      "FlowDropWithdrawComment": [],
+      "FlowDropWithdrawType": [],
+      "FlowGroupDescription": [],
+      "FlowGroupId": [],
+      "FlowGroupTitle": [],
+      "FlowMilestoneComment": [],
+      "FlowMilestoneType": [],
+      "FlowPeriodTitle": [],
+      "FlowPreAssignmentDetails": [],
+      "FlowReasonComment": [],
+      "FlowReasonGroupId": [],
+      "FlowReasonNumSubjects": [],
+      "FlowReasonNumUnits": [],
+      "FlowRecruitmentDetails": [],
+      "FlowTypeUnitsAnalyzed": [],
+      "Gender": [
+            "All"
+      ],
+      "GenderBased": [],
+      "GenderDescription": [],
+      "HasExpandedAccess": [
+            "No"
+      ],
+      "HealthyVolunteers": [
+            "No"
+      ],
+      "IPDSharing": [
+            "No"
+      ],
+      "IPDSharingAccessCriteria": [],
+      "IPDSharingDescription": [],
+      "IPDSharingInfoType": [],
+      "IPDSharingTimeFrame": [],
+      "IPDSharingURL": [],
+      "InterventionAncestorId": [],
+      "InterventionAncestorTerm": [],
+      "InterventionArmGroupLabel": [
+            "High dose",
+            "Low dose",
+            "Medium dose"
+      ],
+      "InterventionBrowseBranchAbbrev": [],
+      "InterventionBrowseBranchName": [],
+      "InterventionBrowseLeafAsFound": [],
+      "InterventionBrowseLeafId": [],
+      "InterventionBrowseLeafName": [],
+      "InterventionBrowseLeafRelevance": [],
+      "InterventionDescription": [
+            "MSCs"
+      ],
+      "InterventionMeshId": [],
+      "InterventionMeshTerm": [],
+      "InterventionName": [
+            "intravenous delivery of allogeneic bone marrow-derived MSCs"
+      ],
+      "InterventionOtherName": [
+            "allogeneic NK1R+MSC"
+      ],
+      "InterventionType": [
+            "Biological"
+      ],
+      "IsFDARegulatedDevice": [
+            "No"
+      ],
+      "IsFDARegulatedDrug": [
+            "Yes"
+      ],
+      "IsPPSD": [],
+      "IsUSExport": [],
+      "IsUnapprovedDevice": [],
+      "Keyword": [],
+      "LargeDocDate": [],
+      "LargeDocFilename": [],
+      "LargeDocHasICF": [],
+      "LargeDocHasProtocol": [],
+      "LargeDocHasSAP": [],
+      "LargeDocLabel": [],
+      "LargeDocTypeAbbrev": [],
+      "LargeDocUploadDate": [],
+      "LastKnownStatus": [],
+      "LastUpdatePostDate": [
+            "August 9, 2022"
+      ],
+      "LastUpdatePostDateType": [
+            "Actual"
+      ],
+      "LastUpdateSubmitDate": [
+            "August 5, 2022"
+      ],
+      "LeadSponsorClass": [
+            "INDUSTRY"
+      ],
+      "LeadSponsorName": [
+            "BioCardia, Inc."
+      ],
+      "LimitationsAndCaveatsDescription": [],
+      "LocationCity": [],
+      "LocationContactEMail": [],
+      "LocationContactName": [],
+      "LocationContactPhone": [],
+      "LocationContactPhoneExt": [],
+      "LocationContactRole": [],
+      "LocationCountry": [],
+      "LocationFacility": [],
+      "LocationState": [],
+      "LocationStatus": [],
+      "LocationZip": [],
+      "MaximumAge": [
+            "80 Years"
+      ],
+      "MinimumAge": [
+            "18 Years"
+      ],
+      "NCTIdAlias": [],
+      "OfficialTitle": [
+            "Phase I/IIa Study to Assess AllogeneiC Expanded Human Mesenchymal Stem Cell Therapy in Patients Recovering From COVID-19 Acute Respiratory Distress Trial (ACE CARD TRIAL)"
+      ],
+      "OrgClass": [
+            "INDUSTRY"
+      ],
+      "OrgFullName": [
+            "BioCardia, Inc."
+      ],
+      "OrgStudyId": [
+            "05539-A"
+      ],
+      "OrgStudyIdDomain": [],
+      "OrgStudyIdLink": [],
+      "OrgStudyIdType": [],
+      "OtherEventAssessmentType": [],
+      "OtherEventNotes": [],
+      "OtherEventOrganSystem": [],
+      "OtherEventSourceVocabulary": [],
+      "OtherEventStatsGroupId": [],
+      "OtherEventStatsNumAffected": [],
+      "OtherEventStatsNumAtRisk": [],
+      "OtherEventStatsNumEvents": [],
+      "OtherEventTerm": [],
+      "OtherOutcomeDescription": [],
+      "OtherOutcomeMeasure": [],
+      "OtherOutcomeTimeFrame": [],
+      "OutcomeAnalysisCILowerLimit": [],
+      "OutcomeAnalysisCILowerLimitComment": [],
+      "OutcomeAnalysisCINumSides": [],
+      "OutcomeAnalysisCIPctValue": [],
+      "OutcomeAnalysisCIUpperLimit": [],
+      "OutcomeAnalysisCIUpperLimitComment": [],
+      "OutcomeAnalysisDispersionType": [],
+      "OutcomeAnalysisDispersionValue": [],
+      "OutcomeAnalysisEstimateComment": [],
+      "OutcomeAnalysisGroupDescription": [],
+      "OutcomeAnalysisGroupId": [],
+      "OutcomeAnalysisNonInferiorityComment": [],
+      "OutcomeAnalysisNonInferiorityType": [],
+      "OutcomeAnalysisOtherAnalysisDescription": [],
+      "OutcomeAnalysisPValue": [],
+      "OutcomeAnalysisPValueComment": [],
+      "OutcomeAnalysisParamType": [],
+      "OutcomeAnalysisParamValue": [],
+      "OutcomeAnalysisStatisticalComment": [],
+      "OutcomeAnalysisStatisticalMethod": [],
+      "OutcomeAnalysisTestedNonInferiority": [],
+      "OutcomeCategoryTitle": [],
+      "OutcomeClassDenomCountGroupId": [],
+      "OutcomeClassDenomCountValue": [],
+      "OutcomeClassDenomUnits": [],
+      "OutcomeClassTitle": [],
+      "OutcomeDenomCountGroupId": [],
+      "OutcomeDenomCountValue": [],
+      "OutcomeDenomUnits": [],
+      "OutcomeGroupDescription": [],
+      "OutcomeGroupId": [],
+      "OutcomeGroupTitle": [],
+      "OutcomeMeasureAnticipatedPostingDate": [],
+      "OutcomeMeasureCalculatePct": [],
+      "OutcomeMeasureDenomUnitsSelected": [],
+      "OutcomeMeasureDescription": [],
+      "OutcomeMeasureDispersionType": [],
+      "OutcomeMeasureParamType": [],
+      "OutcomeMeasurePopulationDescription": [],
+      "OutcomeMeasureReportingStatus": [],
+      "OutcomeMeasureTimeFrame": [],
+      "OutcomeMeasureTitle": [],
+      "OutcomeMeasureType": [],
+      "OutcomeMeasureTypeUnitsAnalyzed": [],
+      "OutcomeMeasureUnitOfMeasure": [],
+      "OutcomeMeasurementComment": [],
+      "OutcomeMeasurementGroupId": [],
+      "OutcomeMeasurementLowerLimit": [],
+      "OutcomeMeasurementSpread": [],
+      "OutcomeMeasurementUpperLimit": [],
+      "OutcomeMeasurementValue": [],
+      "OverallOfficialAffiliation": [],
+      "OverallOfficialName": [],
+      "OverallOfficialRole": [],
+      "OverallStatus": [
+            "Not yet recruiting"
+      ],
+      "OversightHasDMC": [
+            "Yes"
+      ],
+      "PatientRegistry": [],
+      "Phase": [
+            "Phase 1"
+      ],
+      "PointOfContactEMail": [],
+      "PointOfContactOrganization": [],
+      "PointOfContactPhone": [],
+      "PointOfContactPhoneExt": [],
+      "PointOfContactTitle": [],
+      "PrimaryCompletionDate": [
+            "December 31, 2023"
+      ],
+      "PrimaryCompletionDateType": [
+            "Anticipated"
+      ],
+      "PrimaryOutcomeDescription": [
+            "Number of product related adverse events through the duration of the study."
+      ],
+      "PrimaryOutcomeMeasure": [
+            "Number of product related adverse events through the duration of the study."
+      ],
+      "PrimaryOutcomeTimeFrame": [
+            "3 months"
+      ],
+      "ReferenceCitation": [],
+      "ReferencePMID": [],
+      "ReferenceType": [],
+      "RemovedCountry": [],
+      "ResponsiblePartyInvestigatorAffiliation": [],
+      "ResponsiblePartyInvestigatorFullName": [],
+      "ResponsiblePartyInvestigatorTitle": [],
+      "ResponsiblePartyOldNameTitle": [],
+      "ResponsiblePartyOldOrganization": [],
+      "ResponsiblePartyType": [
+            "Sponsor"
+      ],
+      "ResultsFirstPostDate": [],
+      "ResultsFirstPostDateType": [],
+      "ResultsFirstPostedQCCommentsDate": [],
+      "ResultsFirstPostedQCCommentsDateType": [],
+      "ResultsFirstSubmitDate": [],
+      "ResultsFirstSubmitQCDate": [],
+      "RetractionPMID": [],
+      "RetractionSource": [],
+      "SamplingMethod": [],
+      "SecondaryId": [],
+      "SecondaryIdDomain": [],
+      "SecondaryIdLink": [],
+      "SecondaryIdType": [],
+      "SecondaryOutcomeDescription": [
+            "Number of participants with resolution and/or improvement of ARDS at 7 days, 14 days, 21 days, and 28 days according to the Berlin Criteria.\n\nChange in PF ratio from baseline to >200-300, and above >300\nAbsolute change in PF ratio"
+      ],
+      "SecondaryOutcomeMeasure": [
+            "Secondary Endpoint"
+      ],
+      "SecondaryOutcomeTimeFrame": [
+            "12 months"
+      ],
+      "SeeAlsoLinkLabel": [],
+      "SeeAlsoLinkURL": [],
+      "SeriousEventAssessmentType": [],
+      "SeriousEventNotes": [],
+      "SeriousEventOrganSystem": [],
+      "SeriousEventSourceVocabulary": [],
+      "SeriousEventStatsGroupId": [],
+      "SeriousEventStatsNumAffected": [],
+      "SeriousEventStatsNumAtRisk": [],
+      "SeriousEventStatsNumEvents": [],
+      "SeriousEventTerm": [],
+      "StartDate": [
+            "September 15, 2022"
+      ],
+      "StartDateType": [
+            "Anticipated"
+      ],
+      "StatusVerifiedDate": [
+            "August 2022"
+      ],
+      "StdAge": [
+            "Adult",
+            "Older Adult"
+      ],
+      "StudyFirstPostDate": [
+            "August 8, 2022"
+      ],
+      "StudyFirstPostDateType": [
+            "Actual"
+      ],
+      "StudyFirstSubmitDate": [
+            "August 5, 2022"
+      ],
+      "StudyFirstSubmitQCDate": [
+            "August 5, 2022"
+      ],
+      "StudyPopulation": [],
+      "StudyType": [
+            "Interventional"
+      ],
+      "SubmissionMCPReleaseN": [],
+      "SubmissionReleaseDate": [],
+      "SubmissionResetDate": [],
+      "SubmissionUnreleaseDate": [],
+      "TargetDuration": [],
+      "UnpostedEventDate": [],
+      "UnpostedEventType": [],
+      "UnpostedResponsibleParty": [],
+      "VersionHolder": [
+            "October 10, 2022"
+      ],
+      "WhyStopped": []
+}

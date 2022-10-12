@@ -1,0 +1,55 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:11 17:12:16.352",
+            "Expression": "mesenchymal AlloStem",
+            "NStudiesAvail": 430425,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "StudyFirstSubmitQCDate",
+                  "StudyPopulation",
+                  "StudyType",
+                  "SubmissionMCPReleaseN",
+                  "SubmissionReleaseDate",
+                  "SubmissionResetDate",
+                  "SubmissionUnreleaseDate",
+                  "TargetDuration",
+                  "UnpostedEventDate",
+                  "UnpostedEventType",
+                  "UnpostedResponsibleParty",
+                  "VersionHolder",
+                  "WhyStopped",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "StudyFirstSubmitQCDate": [
+                              "August 9, 2011"
+                        ],
+                        "StudyPopulation": [],
+                        "StudyType": [
+                              "Interventional"
+                        ],
+                        "SubmissionMCPReleaseN": [],
+                        "SubmissionReleaseDate": [],
+                        "SubmissionResetDate": [],
+                        "SubmissionUnreleaseDate": [],
+                        "TargetDuration": [],
+                        "UnpostedEventDate": [],
+                        "UnpostedEventType": [],
+                        "UnpostedResponsibleParty": [],
+                        "VersionHolder": [
+                              "October 12, 2022"
+                        ],
+                        "WhyStopped": [],
+                        "NCTId": [
+                              "NCT01413061"
+                        ]
+                  }
+            ]
+      }
+}

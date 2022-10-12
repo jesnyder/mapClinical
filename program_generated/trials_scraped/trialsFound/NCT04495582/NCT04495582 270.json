@@ -1,0 +1,73 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04495582",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Phil Hyu Lee, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Active, not recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [
+                              "No"
+                        ],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "November 2024"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Adverse events(AE): After the completion of the CS10BR05-MSA101 phase 1 trial, new adverse events, including tumor are assessed and detailed information is collected at each visit. Whole body PET test is performed for tumor observation at visit 7.\n\nLaboratory test: The following laboratory tests are performed at each visit.\n\nHematology test: WBC, RBC, Hemoglobin, Hematocrit, Platelets count, WBC Diffcount\nChemistry test: Na, K, Ca, Cl, BUN, Creatinine, Uric acid, Total bilirubin, Albumin, Total protein, Creatine Kinase, Cystatin-C, ALT, AST, r-GT, ALP, LDH, Glucose, Total cholesterol, Triglyceride\nUrine test: Protein, Glucose, Urobilinogen, WBC, RBC\nMeasuring vital signs (blood pressure in mmHg, heart rate in bpm, body temperature in Celsius) is performed at each visit.\nPhysical examination is performed at each visit. If clinically significant abnormal findings are recorded in the CRF and collected as AEs.",
+                              "The following tests are conducted at each visit to exploratively evaluate the efficacy. Evaluate the change of score of each tools.\n\n-UMSARS(Unified Multiple System Atrophy rating scale)\n\nThe scale comprises the following components:\n\nPart I, historical, 12 items; Part II, motor examination, 14 items; Part III, autonomic examination; and Part IV, global disability scale (total UMSARS with scores ranging from 1 to 109)\n\n-K-MMSE(Korea Mini-Mental Status Examination)\n\nThe scale comprises the following components:\n\nOrientation, memory, attention and calculation, naming and language, and drawing (total K-MMSE score of 30)\n\n-DSM-\u2163(Diagnostic and Statistical Manual of Mental Disorders)"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Safety assessment(evaluation)",
+                              "Efficacy assessment(evaluation)"
+                        ],
+                        "NCTId": [
+                              "NCT04495582"
+                        ]
+                  }
+            ]
+      }
+}

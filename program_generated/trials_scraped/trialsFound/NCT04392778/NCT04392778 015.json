@@ -1,0 +1,68 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04392778",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Group 1: patients that are not on a ventilator (n=10) No extra intervention will be done.",
+                              "Group 2: patients that are on a ventilator and will receive saline injections (n=10) as control for MSC transplantation group (3).",
+                              "Group 3: patients that are on a ventilator and will receive MSC transplantation injections (n=10)"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Saline Control",
+                              "Biological: MSC Treatment"
+                        ],
+                        "ArmGroupLabel": [
+                              "Untreated",
+                              "Saline Control",
+                              "Experimental UC-MSCs"
+                        ],
+                        "ArmGroupType": [
+                              "No Intervention",
+                              "Sham Comparator",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04392778"
+                        ]
+                  }
+            ]
+      }
+}

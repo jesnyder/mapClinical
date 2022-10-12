@@ -1,0 +1,63 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT00815217",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "MaximumAge",
+                  "MinimumAge",
+                  "NCTId",
+                  "NCTIdAlias",
+                  "OfficialTitle",
+                  "OrgClass",
+                  "OrgFullName",
+                  "OrgStudyId",
+                  "OrgStudyIdDomain",
+                  "OrgStudyIdLink",
+                  "OrgStudyIdType",
+                  "OtherEventAssessmentType",
+                  "OtherEventNotes",
+                  "OtherEventOrganSystem",
+                  "OtherEventSourceVocabulary"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "MaximumAge": [
+                              "80 Years"
+                        ],
+                        "MinimumAge": [
+                              "20 Years"
+                        ],
+                        "NCTId": [
+                              "NCT00815217"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "The Role of Lipoaspirate Injection in the Treatment of Diabetic Lower Extremity Wounds and Venous Stasis Ulcers"
+                        ],
+                        "OrgClass": [
+                              "FED"
+                        ],
+                        "OrgFullName": [
+                              "Washington D.C. Veterans Affairs Medical Center"
+                        ],
+                        "OrgStudyId": [
+                              "01194"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  }
+            ]
+      }
+}

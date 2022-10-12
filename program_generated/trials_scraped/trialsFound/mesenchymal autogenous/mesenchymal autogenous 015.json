@@ -1,0 +1,311 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal autogenous",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 8,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 8,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [
+                              "CLOSE"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Mesenchymal stem cells obtained from autogenous deciduous dental pulp associated with biomaterials. The stem cells will be obtained by enzimatic digestion in GMP laboratory and will be seed into the biomaterial (hydroxyapatite/collagen).",
+                              "Autogenous bone will be obtained from iliac crest. The prepare of the receptor area will be the same in both arms and will follow current recommendations."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Combination Product: Mesenchymal stem cells associated with biomaterials",
+                              "Combination Product: Iliac crest autogenous bone graft"
+                        ],
+                        "ArmGroupLabel": [
+                              "Mesenchymal stem cells associated with biomaterials",
+                              "Iliac crest autogenous bone graft"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03766217"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "one randomly assigned maxillary sinus grafted internally defined as control (bone substitute + saline solution) per subject.",
+                              "one randomly assigned maxillary sinus grafted internally defined as test (bone substitute + concentrated culture medium) per subject."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Procedure: Maxillary sinus floor elevation grafting with synthetic bone substitute.",
+                              "Procedure: Maxillary sinus floor elevation grafting with synthetic bone substitute."
+                        ],
+                        "ArmGroupLabel": [
+                              "Control (conventional graft procedure), bone substitute and saline solution.",
+                              "Test (modified graft), bone substitute and concentrated culture medium (CM)"
+                        ],
+                        "ArmGroupType": [
+                              "Placebo Comparator",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04998058"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [
+                              "Yes"
+                        ],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "5 Patients with cleft unilateral lip and palate that have already performed the alignment of dental arches through the recommended orthodontic treatment will be selected to be submited to alveolar bone tissue engineering surgery"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Procedure: maxillary alveolar graft by tissue engineering",
+                              "Procedure: Bone tissue engineering using mesenchymal stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "cleft lip and palate"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [
+                              "<=18 years",
+                              "Between 18 and 65 years",
+                              ">=65 years",
+                              "Female",
+                              "Male"
+                        ],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01932164"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "autogenous fat augmentation in deficient chin will be harvested from lower abdomen,inner or outer thigh",
+                              "Will use onlay PEEK augmentation in deficient chin.Virtual planning will be done using mimics software. A virtual osteotomy of the chin will be performed at the inferior border of the mandible same alignments as sliding genioplasty, then segmentation of the chin area will be done and according to the soft tissue analysis adjustment will be performed.",
+                              "Under general anesthesia, the preparation and the incision line will be performed same as PEEK augmentation .After complete exposure of the bone repositioning of the chin will be performed. Finally fixation will be obtained using x shape titanium plate."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Procedure: fat filler,PEEK,sliding genioplasty",
+                              "Procedure: fat filler,PEEK,sliding genioplasty",
+                              "Procedure: fat filler,PEEK,sliding genioplasty"
+                        ],
+                        "ArmGroupLabel": [
+                              "autogenous fat",
+                              "PEEK",
+                              "Osseous sliding genioplasty"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Active Comparator",
+                              "Other"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03747822"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "autogenous bone marrow derived and cultured stem cells loaded on collagen matrix was implanted in the alveolar cleft in the study group (1st arm)",
+                              "autogenous cortico-cancellous bone graft harvested from the anterior iliac crest was implanted in the alveolar cleft of the control group (2nd arm)"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: tissue engineered group",
+                              "Procedure: autogenous bone graft group"
+                        ],
+                        "ArmGroupLabel": [
+                              "tissue engineered group",
+                              "autogenous bone graft group"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03563495"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Porcine bone mineral (Symbios Xenograft) + autogenous cortical bone",
+                              "Anorganic bovine bone (BioOss Xenograft) + autogenous cortical bone"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Device: PBM+ACB",
+                              "Device: ABB+ACB"
+                        ],
+                        "ArmGroupLabel": [
+                              "PBM+ACB",
+                              "ABB+ACB"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03797963"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Biphasic phycogenic biomaterial and Autogenous cortical bone",
+                              "Xenograft bovine hydroxyapatite and Autogenous cortical bone"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Device: Biphasic phycogenic biomaterial",
+                              "Device: Xenograft bovine hydroxyapatite"
+                        ],
+                        "ArmGroupLabel": [
+                              "Biphasic phycogenic biomaterial",
+                              "Xenograft bovine hydroxyapatite"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03682315"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Treated with anterior iliac crest spongy bone to fill defects, followed by coverage with collagen membrane.",
+                              "Treated with lateral ramus cortical bone plate (LRCP) to create a protected healing space by fixing it to adjacent walls of the cleft defect. BFPScs were loaded on NBBM and delivered to the defect",
+                              "Treated with anterior iliac crest spongy bone as in Group 1, but BFP-derived mesenchymal stem cells (MSCs ) cultured over NBBM were put over the spongy bone and covered with a collagen membrane."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: anterior iliac crest graft",
+                              "Biological: lateral ramus cortical bone+BFPSC+NBBM",
+                              "Biological: anterior iliac crest graft+BFPSC+NBBM"
+                        ],
+                        "ArmGroupLabel": [
+                              "A:Iiac",
+                              "B:MSCs+LRCP",
+                              "C:MSCs+liac"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02859025"
+                        ]
+                  }
+            ]
+      }
+}

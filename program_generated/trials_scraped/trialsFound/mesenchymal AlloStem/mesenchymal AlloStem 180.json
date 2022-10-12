@@ -1,0 +1,89 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:11 17:12:16.352",
+            "Expression": "mesenchymal AlloStem",
+            "NStudiesAvail": 430425,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "April 11, 2018"
+                        ],
+                        "LeadSponsorClass": [
+                              "INDUSTRY"
+                        ],
+                        "LeadSponsorName": [
+                              "AlloSource"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Baltimore",
+                              "Grand Rapids",
+                              "Edina",
+                              "Hershey",
+                              "Germantown"
+                        ],
+                        "LocationContactEMail": [],
+                        "LocationContactName": [],
+                        "LocationContactPhone": [],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [],
+                        "LocationCountry": [
+                              "United States",
+                              "United States",
+                              "United States",
+                              "United States",
+                              "United States"
+                        ],
+                        "LocationFacility": [
+                              "Institute for Foot and Ankle Reconstruction at Mercy",
+                              "Orthopaedic Associates of Michigan",
+                              "Minnesota Orthopedic Sports Medicine Institute (MOSMI)",
+                              "Penn State Milton S. Hershey Medical Center",
+                              "Campbell Clinic"
+                        ],
+                        "LocationState": [
+                              "Maryland",
+                              "Michigan",
+                              "Minnesota",
+                              "Pennsylvania",
+                              "Tennessee"
+                        ],
+                        "LocationStatus": [],
+                        "LocationZip": [
+                              "21202",
+                              "49525",
+                              "55435",
+                              "17033",
+                              "38138"
+                        ],
+                        "NCTId": [
+                              "NCT01413061"
+                        ]
+                  }
+            ]
+      }
+}

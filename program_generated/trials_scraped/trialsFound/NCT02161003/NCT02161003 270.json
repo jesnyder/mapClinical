@@ -1,0 +1,86 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02161003",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Abdel-Wahab El-Okby, MD",
+                              "Naglaa Ali Gadallah, MD",
+                              "Sayed Bakry, PhD",
+                              "Refaat El-Badawy, MD",
+                              "Hala Gabr, MD",
+                              "Wael Wael Abu El Khier, MD",
+                              "Anthony Atala, MD",
+                              "Mostafa Elbahrawy, MSc"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Study Chair",
+                              "Study Director",
+                              "Study Chair",
+                              "Study Chair",
+                              "Study Chair",
+                              "Study Chair",
+                              "Study Chair"
+                        ],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "September 2016"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Incontinence Score"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Main outcome measures"
+                        ],
+                        "NCTId": [
+                              "NCT02161003"
+                        ]
+                  }
+            ]
+      }
+}

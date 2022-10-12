@@ -1,0 +1,72 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT05047276",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Josep M Piulats, MD, Phd"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Not yet recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "June 30, 2023"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Objective Response Rate (ORR) is defined as the proportion of patients with at least one visit response of CR or PR that is confirmed at least 4 weeks later. Where PR is at least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum of diameters as long as criteria for PD are not met and CR is disappearance of all target lesions. Any pathological lymph nodes selected as target lesions must have a reduction in short axis to <10mm.\n\nFollowing RECIST 1.1 criteria, for non-randomised trials where response is the primary endpoint, confirmation of PR and CR is required to ensure responses identified are not the result of measurement error. ORR defined in this manner is a direct measure of drug antitumor activity, which can be evaluated in a single-arm study, providing an accurate assessment of a subrogate efficacy endpoint."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Overall response rate"
+                        ],
+                        "NCTId": [
+                              "NCT05047276"
+                        ]
+                  }
+            ]
+      }
+}

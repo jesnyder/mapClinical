@@ -1,0 +1,65 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT00225095",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Investigator",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [
+                              "Chondrogen is a preparation of adult mesenchymal stem cells (MSCs) in a solution containing hyaluronic acid. Preclinical studies have shown that injection of Chondrogen aids in the repair of meniscal tissue following meniscectomy. In Chondrogen treated subjects, surgically removed meniscal tissue was regenerated, cartilage surface was protected, and joint damage was decreased in comparison to control subjects. These benefits persisted at least one year.\n\nThree groups of recent meniscectomy patients will be followed in this study, including patients that will receive placebo and patients that will be treated with one of two possible doses of Chondrogen."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAge 18 to 60, inclusive\nIn need of medial meniscectomy\nNormal axial alignment\nStable knee- previous ligament reconstruction, if stable\nRemoval of at least 50% of the affected portion of the medial meniscus\nIntact articular cartilage in posterior meniscal weight-bearing zone\nWillingness to follow normal post-operative rehabilitation\nWillingness to participate in follow-up for two years from the time of meniscectomy surgery\nAbility to understand and willingness to sign consent form\n\nExclusion Criteria:\n\nPregnant or lactating\nACL or other support structure damage confirmed at surgery\nGrade III or IV cartilage damage (Cartilage loss greater than 50% thickness in area >15mm on weight-bearing aspect of femoral condyle or tibial plateau)\nSynvisc, steroid, or corticosteroid injections in preceding 3 months\nDiffuse synovitis at time of arthroscopy\nInflammatory arthritis\nOral steroid, methotrexate therapy\nUnable to follow post-operative exercise regimen or return for evaluations\nActive alcohol or substance abuse within 6 months of study entry\nCurrent and active tobacco product use\nPatient is positive for HIV\nPatient is positive for hepatitis (past history of Hepatitis A is allowed)\nAny medical condition, which in the opinion of the clinical investigator, would interfere with the treatment or outcome of the patient\nIndwelling pacemaker\nCerebral aneurysm clips\nEar, eye and penile implants with avian components\nElectrical indwelling device such as bone stimulator\nIndwelling magnets as tissue expander for future implants\nKnown allergy to avian, bovine or porcine protein"
+                        ],
+                        "EnrollmentCount": [
+                              "60"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT00225095"
+                        ]
+                  }
+            ]
+      }
+}

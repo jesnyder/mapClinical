@@ -4,23 +4,23 @@ const config_Study Type = {
     "type": "doughnut",
     "data": {
         "labels": [
+            "Interventional",
+            "Observational",
+            "Expanded Access",
             "OTHER",
             "INDUSTRY",
-            "OTHER_GOV",
-            "NETWORK",
-            "NIH",
-            "FED"
+            "NIH"
         ],
         "datasets": [
             {
                 "label": "all",
                 "data": [
-                    40578,
-                    21778,
-                    3135,
-                    385,
-                    31,
-                    82
+                    63263,
+                    3575,
+                    0,
+                    631,
+                    1147,
+                    65
                 ],
                 "backgroundColor": [
                     "rgb(212,178,212)",

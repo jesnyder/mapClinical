@@ -1,0 +1,77 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02161003",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Stem Cells Isolation",
+                              "Stem Cells Isolation"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "CNSDep",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Central Nervous System Depressants",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3259"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anesthetics"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Injection of MSCs for the treatment of anal sphincter insufficiency is a potential alternative therapy for imperforate anus patients who have undergone primary PSARP with post-operative FI. In this study a single dose of 1.2 ml MSC will be divided into 12 part of 0.1ml of MSC, doses will be injected into the anal sphincter all around in 12 injection sites according to the clock meridian under general anesthesia without giving muscle relaxant.",
+                              "From the upper posterior iliac crest 10 ml bone marrow sample will be extracted from patients using a heparinized syringe, under general anesthesia, in a suitable clean operation room."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Stem Cells Injection Technique",
+                              "Stem Cell Isolation"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02161003"
+                        ]
+                  }
+            ]
+      }
+}

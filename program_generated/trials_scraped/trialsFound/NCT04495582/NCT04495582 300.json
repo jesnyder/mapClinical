@@ -1,0 +1,61 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04495582",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [],
+                        "SecondaryOutcomeTimeFrame": [],
+                        "SeeAlsoLinkLabel": [
+                              "Corestem Inc.",
+                              "Severance hospital Institutional Review Board"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://corestem.com/",
+                              "http://mdctc.yuhs.ac/HPC/Sinchon/IRB/IrbIntro"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04495582"
+                        ]
+                  }
+            ]
+      }
+}

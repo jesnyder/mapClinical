@@ -1,0 +1,935 @@
+{
+      "Rank": 144,
+      "Acronym": [],
+      "AgreementOtherDetails": [],
+      "AgreementPISponsorEmployee": [],
+      "AgreementRestrictionType": [],
+      "AgreementRestrictiveAgreement": [],
+      "ArmGroupDescription": [
+            "REDUCED INTENSITY CONDITIONING (RIC):\n\nFlu/Cy/TBI: Patients receive cyclophosphamide IV over 2 hours on day -6 and fludarabine phosphate IV on days -6 to -2 and undergo total-body irradiation on day -1.\n\nFlu/Mel: Patients receive fludarabine daily on days -5 to -2, a single dose of melphalan on day -2, and ATG on day -3 and day-2.\n\nGVHD PROPHYLAXIS: Patients receive cyclosporine PO or IV over 2 hours every 12 hours on beginning on days -5 to 100 with taper beginning on day 100 and mycophenolate mofetil IV or PO BID on days -5 to 100.\n\nTRANSPLANT: Patients undergo a co-transplantation of an intra-osseous umbilical cord blood transplantation and a mesenchymal stem cell transplantation on day 0."
+      ],
+      "ArmGroupInterventionName": [
+            "Drug: cyclophosphamide",
+            "Drug: fludarabine phosphate",
+            "Radiation: total-body irradiation",
+            "Drug: cyclosporine",
+            "Drug: mycophenolate mofetil",
+            "Procedure: umbilical cord blood transplantation",
+            "Procedure: mesenchymal stem cell transplantation"
+      ],
+      "ArmGroupLabel": [
+            "Treatment (intra-osseous UCB with hMSC co-transplant)"
+      ],
+      "ArmGroupType": [
+            "Experimental"
+      ],
+      "AvailIPDComment": [],
+      "AvailIPDId": [],
+      "AvailIPDType": [],
+      "AvailIPDURL": [],
+      "BaselineCategoryTitle": [],
+      "BaselineClassDenomCountGroupId": [],
+      "NCTId": [
+            "NCT02181478"
+      ],
+      "BaselineClassDenomCountValue": [],
+      "BaselineClassDenomUnits": [],
+      "BaselineClassTitle": [],
+      "BaselineDenomCountGroupId": [],
+      "BaselineDenomCountValue": [],
+      "BaselineDenomUnits": [],
+      "BaselineGroupDescription": [],
+      "BaselineGroupId": [],
+      "BaselineGroupTitle": [],
+      "BaselineMeasureCalculatePct": [],
+      "BaselineMeasureDenomCountGroupId": [],
+      "BaselineMeasureDenomCountValue": [],
+      "BaselineMeasureDenomUnits": [],
+      "BaselineMeasureDenomUnitsSelected": [],
+      "BaselineMeasureDescription": [],
+      "BaselineMeasureDispersionType": [],
+      "BaselineMeasureParamType": [],
+      "BaselineMeasurePopulationDescription": [],
+      "BaselineMeasureTitle": [],
+      "BaselineMeasureUnitOfMeasure": [],
+      "BaselineMeasurementComment": [],
+      "BaselineMeasurementGroupId": [],
+      "BaselineMeasurementLowerLimit": [],
+      "BaselineMeasurementSpread": [],
+      "BaselineMeasurementUpperLimit": [],
+      "BaselineMeasurementValue": [],
+      "BaselinePopulationDescription": [],
+      "BaselineTypeUnitsAnalyzed": [],
+      "BioSpecDescription": [],
+      "BioSpecRetention": [],
+      "BriefSummary": [
+            "This clinical trial studies intra-osseous donor umbilical cord blood and mesenchymal stromal cell co-transplant in treating patients with hematologic malignancies. Giving low doses of chemotherapy and total-body irradiation before a co-transplant of donor umbilical cord blood and mesenchymal stromal cells into the bone (intra-osseous) helps stop the growth of cancer cells. It may also stop the patient's immune system from rejecting the donor's stem cells. The donated stem cells may replace the patient's immune cells and help destroy any remaining cancer cells (graft-versus-tumor effect). Sometimes the transplanted cells from a donor can also make an immune response against the body's normal cells. Giving cyclosporine and mycophenolate mofetil at the time of transplant may stop this from happening."
+      ],
+      "BriefTitle": [
+            "Intra-Osseous Co-Transplant of UCB and hMSC"
+      ],
+      "CentralContactEMail": [],
+      "CentralContactName": [],
+      "CentralContactPhone": [],
+      "CentralContactPhoneExt": [],
+      "CentralContactRole": [],
+      "CollaboratorClass": [
+            "NIH"
+      ],
+      "CollaboratorName": [
+            "National Cancer Institute (NCI)"
+      ],
+      "CompletionDate": [
+            "February 7, 2020"
+      ],
+      "CompletionDateType": [
+            "Actual"
+      ],
+      "Condition": [
+            "Acute Lymphoblastic Leukemia",
+            "Acute Myelogenous Leukemia",
+            "Myelodysplastic Syndromes",
+            "Myelofibrosis",
+            "Relapsed Non-Hodgkin Lymphoma",
+            "Refractory Non-Hodgkin Lymphoma",
+            "Hodgkin Lymphoma",
+            "Refractory Hodgkin Lymphoma",
+            "Relapsed Chronic Lymphocytic Leukemia",
+            "Refractory Chronic Lymphocytic Leukemia",
+            "Lymphoid Malignancies",
+            "Chronic Myelogenous Leukemia"
+      ],
+      "ConditionAncestorId": [
+            "D000009370",
+            "D000009369",
+            "D000008232",
+            "D000008206",
+            "D000007160",
+            "D000007154",
+            "D000001855",
+            "D000006402",
+            "D000015448",
+            "D000009196"
+      ],
+      "ConditionAncestorTerm": [
+            "Neoplasms by Histologic Type",
+            "Neoplasms",
+            "Lymphoproliferative Disorders",
+            "Lymphatic Diseases",
+            "Immunoproliferative Disorders",
+            "Immune System Diseases",
+            "Bone Marrow Diseases",
+            "Hematologic Diseases",
+            "Leukemia, B-Cell",
+            "Myeloproliferative Disorders"
+      ],
+      "ConditionBrowseBranchAbbrev": [
+            "BC04",
+            "All",
+            "BC15",
+            "BC20",
+            "BC23",
+            "Rare"
+      ],
+      "ConditionBrowseBranchName": [
+            "Neoplasms",
+            "All Conditions",
+            "Blood and Lymph Conditions",
+            "Immune System Diseases",
+            "Symptoms and General Pathology",
+            "Rare Diseases"
+      ],
+      "ConditionBrowseLeafAsFound": [
+            "Leukemia",
+            "Acute Lymphoblastic Leukemia",
+            "Lymphocytic Leukemia",
+            "Chronic Lymphocytic Leukemia",
+            "Myelogenous Leukemia",
+            "Acute Myelogenous Leukemia",
+            "Lymphoma",
+            "Myelodysplastic Syndrome",
+            "Hodgkin Lymphoma",
+            "Chronic myelogenous leukemia",
+            "Non-Hodgkin's Lymphoma",
+            "Acute Lymphoblastic Leukemia",
+            "Chronic Lymphocytic Leukemia",
+            "Myelogenous Leukemia",
+            "Acute Myelogenous Leukemia",
+            "Acute Myelogenous Leukemia",
+            "Lymphoma",
+            "Myelodysplastic Syndrome",
+            "Hodgkin Lymphoma",
+            "Chronic myelogenous leukemia"
+      ],
+      "ConditionBrowseLeafId": [
+            "M10097",
+            "M26738",
+            "M10103",
+            "M15507",
+            "M17268",
+            "M27465",
+            "M10107",
+            "M17279",
+            "M10372",
+            "M13316",
+            "M11297",
+            "M8903",
+            "M17275",
+            "M10374",
+            "M11467",
+            "M10377",
+            "M10355",
+            "M9358",
+            "M9352",
+            "M4286",
+            "M8642",
+            "M17267",
+            "M11301",
+            "T175",
+            "T3533",
+            "T1308",
+            "T4705",
+            "T3995",
+            "T182",
+            "T188",
+            "T3543",
+            "T3993",
+            "T1303",
+            "T2817",
+            "T1309",
+            "T170",
+            "T1311"
+      ],
+      "ConditionBrowseLeafName": [
+            "Leukemia",
+            "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+            "Leukemia, Lymphoid",
+            "Syndrome",
+            "Leukemia, Lymphocytic, Chronic, B-Cell",
+            "Primary Myelofibrosis",
+            "Leukemia, Myeloid",
+            "Leukemia, Myeloid, Acute",
+            "Lymphoma",
+            "Preleukemia",
+            "Myelodysplastic Syndromes",
+            "Hodgkin Disease",
+            "Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+            "Lymphoma, Non-Hodgkin",
+            "Neoplasms by Histologic Type",
+            "Lymphoproliferative Disorders",
+            "Lymphatic Diseases",
+            "Immunoproliferative Disorders",
+            "Immune System Diseases",
+            "Bone Marrow Diseases",
+            "Hematologic Diseases",
+            "Leukemia, B-Cell",
+            "Myeloproliferative Disorders",
+            "Acute Lymphoblastic Leukemia",
+            "Lymphoblastic Lymphoma",
+            "Chronic Lymphocytic Leukemia",
+            "Primary Myelofibrosis",
+            "Myeloid Leukemia",
+            "Acute Myeloid Leukemia",
+            "Acute Non Lymphoblastic Leukemia",
+            "Lymphosarcoma",
+            "Myelodysplastic Syndromes",
+            "Chronic Graft Versus Host Disease",
+            "Hodgkin Lymphoma",
+            "Chronic Myeloid Leukemia",
+            "Acute Graft Versus Host Disease",
+            "Chronic Myeloproliferative Disorders"
+      ],
+      "ConditionBrowseLeafRelevance": [
+            "high",
+            "high",
+            "high",
+            "low",
+            "high",
+            "low",
+            "high",
+            "high",
+            "high",
+            "low",
+            "high",
+            "high",
+            "high",
+            "high",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "high",
+            "low",
+            "high",
+            "low",
+            "high",
+            "high",
+            "high",
+            "high",
+            "high",
+            "low",
+            "high",
+            "high",
+            "low",
+            "low"
+      ],
+      "ConditionMeshId": [
+            "D000008223",
+            "D000007938",
+            "D000008228",
+            "D000054198",
+            "D000007945",
+            "D000015451",
+            "D000006689",
+            "D000007951",
+            "D000015464",
+            "D000015470",
+            "D000009190"
+      ],
+      "ConditionMeshTerm": [
+            "Lymphoma",
+            "Leukemia",
+            "Lymphoma, Non-Hodgkin",
+            "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+            "Leukemia, Lymphoid",
+            "Leukemia, Lymphocytic, Chronic, B-Cell",
+            "Hodgkin Disease",
+            "Leukemia, Myeloid",
+            "Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+            "Leukemia, Myeloid, Acute",
+            "Myelodysplastic Syndromes"
+      ],
+      "DelayedPosting": [],
+      "DesignAllocation": [
+            "N/A"
+      ],
+      "DesignInterventionModel": [
+            "Single Group Assignment"
+      ],
+      "DesignInterventionModelDescription": [],
+      "DesignMasking": [
+            "None (Open Label)"
+      ],
+      "DesignMaskingDescription": [],
+      "DesignObservationalModel": [],
+      "DesignPrimaryPurpose": [
+            "Treatment"
+      ],
+      "DesignTimePerspective": [],
+      "DesignWhoMasked": [],
+      "DetailedDescription": [
+            "PRIMARY OBJECTIVES:\n\nI. To estimate the feasibility of combining intra-osseous umbilical cord blood (UCB) hematopoietic stem cells and human mesenchymal stromal cells (hMSC) following reduced intensity conditioning (RIC).\n\nSECONDARY OBJECTIVES:\n\nI. To estimate the time to engraftment of intra-osseous (IO) UCB transplant combined with hMSC following RIC.\n\nII. To estimate the safety profile of IO UBC transplant combined with hMSC.\n\nOUTLINE:\n\nREDUCED INTENSITY CONDITIONING: Patients receive cyclophosphamide intravenously (IV) over 2 hours on day -6 and fludarabine phosphate IV on days -6 to -2 and undergo total body irradiation (TBI) on day -1.\n\nGRAFT-VERSUS-HOST DISEASE (GVHD) PROPHYLAXIS: Patients receive cyclosporine orally (PO) or IV over 2 hours every 12 hours on beginning on days -5 to 100 with taper beginning on day 100 and mycophenolate mofetil IV or PO twice daily (BID) on days -5 to 100.\n\nTRANSPLANT: Patients undergo intra-osseous UCB and hMSC co-transplant on day 0.\n\nAfter completion of study treatment, patients are followed up at days 28 and 100, and then at 6, 9, and 12 months."
+      ],
+      "DispFirstPostDate": [],
+      "DispFirstPostDateType": [],
+      "DispFirstSubmitDate": [],
+      "DispFirstSubmitQCDate": [],
+      "EligibilityCriteria": [
+            "Inclusion Criteria:\n\nPatients must have one of the following malignancies:\n\nAcute myelogenous leukemia (AML): high-risk AML including:\n\nAntecedent hematological disease (e.g., myelodysplasia [MDS])\nTreatment-related leukemia\nComplete remission (first complete remission [CR1]) with poor-risk cytogenetics or molecular markers (e.g. fms-related tyrosine kinase 3 [Flt 3] mutation, 11q23, del 5, del 7, complex cytogenetics)\nSecond complete remission (CR2) or third complete remission (CR3)\n\nInduction failure or first relapse with either\n\n\u2264 10% blasts in the marrow and/or\n\u2264 5% blasts in the peripheral blood\n\nAcute lymphoblastic leukemia (ALL)\n\nHigh-risk CR1 including:\nPoor-risk cytogenetics (e.g., Philadelphia chromosome t(9;22)or 11q23 rearrangements)\nPresence of minimal disease by flow cytometry after 2 or more cycles of chemotherapy\nNo complete remission (CR) within 4 weeks of initial treatment\nInduction failure\n\nCR2 or CR3 with either:\n\n\u2264 10% blasts in the marrow and/or\n\u2264 5% blasts in the peripheral blood\nMyelodysplastic syndromes (MDS), Intermediate-1 (INT-1), intermediate-2 (INT-2) or high Revised International Prognostic Scoring System (IPSS-R) score that has failed at least 1 first line therapy\n\nMyelofibrosis (MF):\n\nIntermediate-2 or high risk by Dynamic International Prognostic Scoring System (DIPSS)-plus\nMonosomal karyotype\nPresence of inv(3)/i(17q) abnormalities\nOther unfavorable karyotype OR leukocytes \u226540 X 10^9/L AND\nCirculating blasts \u2264 9%\n\nRelapsed or refractory lymphoid malignancies (including non-Hodgkin lymphoma, Hodgkin lymphoma and chronic lymphocytic leukemia) meeting the following criteria:\n\nDisease status: stable disease, partial remission or 2nd and 3rd complete remission\n\nChronic myelogenous leukemia (CML) in second chronic phase after accelerated or blast crisis; blast crisis defined as:\n\nBlast count \u2265 20% in the peripheral blood or bone marrow\nLarge foci of blasts on bone marrow\nPresence of extra-medullary blastic infiltrate (myeloid sarcoma or chloroma)\nRecipients of prior autologous or allogeneic transplant are eligible, as long as at least 3 months have passed since the transplant, and the patient fulfills other eligibility criteria\nEastern Cooperative Oncology Group (ECOG) performance status \u22642\nCandidates for reduced intensity conditioning regimens\nPatients who do not have HLA-matched (defined as matched in HLA A, B, C, and DRB1) related or unrelated donors, those who elect to undergo UCB even if they have a MRD or MUD, or patients who require a UCB either for emergency indications such as primary graft failure.\n\nCord Blood Units available through NMDP with the following minimal criteria:\n\nHLA Match: 4/6 or better match (HLA A, B, DRB1)\nCell dose: Minimum of 2.0x107TNC/kg pre thaw\nConcurrent therapy for extramedullary leukemia or central nervous system (CNS) lymphoma: concurrent therapy or prophylaxis for testicular leukemia, CNS leukemia, and CNS lymphoma including standard intrathecal chemotherapy and/or radiation therapy will be allowed as clinically indicated; such treatment may continue until the planned course is completed; subjects must be in CNS remission at the time of protocol enrollment if there is a history of CNS involvement\nSubjects must have a back-up umbilical cord on the registry in addition to the umbilical cord being used in this study\nSubjects must have the ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\nPatients with inadequate Organ Function as defined by:\n\nCreatinine clearance < 30 ml/min\nBilirubin \u2265 2 x institutional upper limit of normal\nAspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT]) \u2265 2 x institutional upper limit of normal\nAlanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) \u2265 2 x institutional upper limit of normal\nCorrected diffusing capacity of the lung for carbon monoxide (DLCOcorr) < 40% normal\nLeft ventricular ejection fraction < 35%\nPatients with uncontrolled inter-current illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\nPregnant or breastfeeding women are excluded from this study"
+      ],
+      "EnrollmentCount": [
+            "6"
+      ],
+      "EnrollmentType": [
+            "Actual"
+      ],
+      "EventGroupDeathsNumAffected": [],
+      "EventGroupDeathsNumAtRisk": [],
+      "EventGroupDescription": [],
+      "EventGroupId": [],
+      "EventGroupOtherNumAffected": [],
+      "EventGroupOtherNumAtRisk": [],
+      "EventGroupSeriousNumAffected": [],
+      "EventGroupSeriousNumAtRisk": [],
+      "EventGroupTitle": [],
+      "EventsDescription": [],
+      "EventsFrequencyThreshold": [],
+      "EventsTimeFrame": [],
+      "ExpAccTypeIndividual": [],
+      "ExpAccTypeIntermediate": [],
+      "ExpAccTypeTreatment": [],
+      "ExpandedAccessNCTId": [],
+      "ExpandedAccessStatusForNCTId": [],
+      "FDAAA801Violation": [],
+      "FlowAchievementComment": [],
+      "FlowAchievementGroupId": [],
+      "FlowAchievementNumSubjects": [],
+      "FlowAchievementNumUnits": [],
+      "FlowDropWithdrawComment": [],
+      "FlowDropWithdrawType": [],
+      "FlowGroupDescription": [],
+      "FlowGroupId": [],
+      "FlowGroupTitle": [],
+      "FlowMilestoneComment": [],
+      "FlowMilestoneType": [],
+      "FlowPeriodTitle": [],
+      "FlowPreAssignmentDetails": [],
+      "FlowReasonComment": [],
+      "FlowReasonGroupId": [],
+      "FlowReasonNumSubjects": [],
+      "FlowReasonNumUnits": [],
+      "FlowRecruitmentDetails": [],
+      "FlowTypeUnitsAnalyzed": [],
+      "Gender": [
+            "All"
+      ],
+      "GenderBased": [],
+      "GenderDescription": [],
+      "HasExpandedAccess": [
+            "No"
+      ],
+      "HealthyVolunteers": [
+            "No"
+      ],
+      "IPDSharing": [],
+      "IPDSharingAccessCriteria": [],
+      "IPDSharingDescription": [],
+      "IPDSharingInfoType": [],
+      "IPDSharingTimeFrame": [],
+      "IPDSharingURL": [],
+      "InterventionAncestorId": [
+            "D000007166",
+            "D000007155",
+            "D000045505",
+            "D000018501",
+            "D000018906",
+            "D000000477",
+            "D000045504",
+            "D000000970",
+            "D000019653",
+            "D000000964",
+            "D000000963",
+            "D000004791",
+            "D000000935",
+            "D000000890",
+            "D000003879",
+            "D000065095",
+            "D000000903",
+            "D000000904",
+            "D000000995",
+            "D000000900"
+      ],
+      "InterventionAncestorTerm": [
+            "Immunosuppressive Agents",
+            "Immunologic Factors",
+            "Physiological Effects of Drugs",
+            "Antirheumatic Agents",
+            "Antineoplastic Agents, Alkylating",
+            "Alkylating Agents",
+            "Molecular Mechanisms of Pharmacological Action",
+            "Antineoplastic Agents",
+            "Myeloablative Agonists",
+            "Antimetabolites, Antineoplastic",
+            "Antimetabolites",
+            "Enzyme Inhibitors",
+            "Antifungal Agents",
+            "Anti-Infective Agents",
+            "Dermatologic Agents",
+            "Calcineurin Inhibitors",
+            "Antibiotics, Antineoplastic",
+            "Antibiotics, Antitubercular",
+            "Antitubercular Agents",
+            "Anti-Bacterial Agents"
+      ],
+      "InterventionArmGroupLabel": [
+            "Treatment (intra-osseous UCB with hMSC co-transplant)",
+            "Treatment (intra-osseous UCB with hMSC co-transplant)",
+            "Treatment (intra-osseous UCB with hMSC co-transplant)",
+            "Treatment (intra-osseous UCB with hMSC co-transplant)",
+            "Treatment (intra-osseous UCB with hMSC co-transplant)",
+            "Treatment (intra-osseous UCB with hMSC co-transplant)",
+            "Treatment (intra-osseous UCB with hMSC co-transplant)"
+      ],
+      "InterventionBrowseBranchAbbrev": [
+            "Infe",
+            "ARhu",
+            "Derm",
+            "All",
+            "ANeo"
+      ],
+      "InterventionBrowseBranchName": [
+            "Anti-Infective Agents",
+            "Antirheumatic Agents",
+            "Dermatologic Agents",
+            "All Drugs and Chemicals",
+            "Antineoplastic Agents"
+      ],
+      "InterventionBrowseLeafAsFound": [
+            "Impact",
+            "Impact",
+            "Bolus",
+            "Under",
+            "Tablet",
+            "Interview"
+      ],
+      "InterventionBrowseLeafId": [
+            "M18113",
+            "M5882",
+            "M11280",
+            "M283219",
+            "M5879",
+            "M10693",
+            "M6457",
+            "M225481",
+            "M1945",
+            "M9364",
+            "M9353",
+            "M19757",
+            "M20095",
+            "M2972",
+            "M3433",
+            "M3406",
+            "M5404",
+            "M10948",
+            "M3366",
+            "M6226",
+            "M29605",
+            "M3374",
+            "M3376",
+            "M3463"
+      ],
+      "InterventionBrowseLeafName": [
+            "Cyclosporine",
+            "Cyclosporins",
+            "Mycophenolic Acid",
+            "Fludarabine",
+            "Cyclophosphamide",
+            "Melphalan",
+            "Dimethyl Sulfoxide",
+            "Fludarabine phosphate",
+            "Lenograstim",
+            "Immunosuppressive Agents",
+            "Immunologic Factors",
+            "Antirheumatic Agents",
+            "Antineoplastic Agents, Alkylating",
+            "Alkylating Agents",
+            "Antimetabolites",
+            "Antifungal Agents",
+            "Clotrimazole",
+            "Miconazole",
+            "Anti-Infective Agents",
+            "Dermatologic Agents",
+            "Calcineurin Inhibitors",
+            "Anti-Bacterial Agents",
+            "Antibiotics, Antitubercular",
+            "Antitubercular Agents"
+      ],
+      "InterventionBrowseLeafRelevance": [
+            "high",
+            "high",
+            "high",
+            "high",
+            "high",
+            "low",
+            "low",
+            "high",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low"
+      ],
+      "InterventionDescription": [
+            "All patients will receive a single IV dose of 50 mg/kg of cyclophosphamide on day -6",
+            "Given by IV during prep at 40mg/m2 for 5 days",
+            "Undergo single fraction of reduced intensity conditioning (RIC) regimen of 200 cGy TBI without shielding on day -1",
+            "Initiated in patients on the day -5. Cyclosporine will be administered orally or intravenously at 2 mg/kg/dose every 12 hours for 2-hour period. Cyclosporine will continue until day +100",
+            "Given at 1g intravenously or orally twice daily from day -5 to +100, or as clinically indicated.",
+            "Following RIC, on day T+0, dimethylsulphoxide will be removed from the cord blood cells and given as transplant.",
+            "The total dosage of hMSC will be 2x10^6cells/kg (+/-20%)."
+      ],
+      "InterventionMeshId": [
+            "D000016572",
+            "D000009173",
+            "D000003520",
+            "C000024352",
+            "C000042382",
+            "D000003524"
+      ],
+      "InterventionMeshTerm": [
+            "Cyclosporine",
+            "Mycophenolic Acid",
+            "Cyclophosphamide",
+            "Fludarabine",
+            "Fludarabine phosphate",
+            "Cyclosporins"
+      ],
+      "InterventionName": [
+            "cyclophosphamide",
+            "fludarabine phosphate",
+            "total-body irradiation",
+            "cyclosporine",
+            "mycophenolate mofetil",
+            "umbilical cord blood transplantation",
+            "mesenchymal stem cell transplantation"
+      ],
+      "InterventionOtherName": [
+            "CPM",
+            "CTX",
+            "Cytoxan",
+            "Endoxan",
+            "Endoxana",
+            "2-F-ara-AMP",
+            "Beneflur",
+            "Fludara",
+            "TBI",
+            "ciclosporin",
+            "cyclosporin",
+            "cyclosporin A",
+            "CYSP",
+            "Sandimmune",
+            "Cellcept",
+            "MMF",
+            "cord blood transplantation",
+            "transplantation, umbilical cord blood",
+            "UCB transplantation",
+            "hMSC transplantation"
+      ],
+      "InterventionType": [
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
+      ],
+      "IsFDARegulatedDevice": [
+            "No"
+      ],
+      "IsFDARegulatedDrug": [
+            "Yes"
+      ],
+      "IsPPSD": [],
+      "IsUSExport": [],
+      "IsUnapprovedDevice": [],
+      "Keyword": [
+            "Total Body Irradiation",
+            "Human Mesenchymal Stromal Cells",
+            "hMSC",
+            "Cyclophosphamide",
+            "Fludarabine",
+            "Dimethyl Sulfoxide",
+            "DMSO",
+            "Cyclosporine",
+            "Mycophenolate Mofetil",
+            "MMF",
+            "Granulocyte- Colony Stimulating Factor",
+            "G-CSF",
+            "GVHD",
+            "Cancer",
+            "feasibility"
+      ],
+      "LargeDocDate": [],
+      "LargeDocFilename": [],
+      "LargeDocHasICF": [],
+      "LargeDocHasProtocol": [],
+      "LargeDocHasSAP": [],
+      "LargeDocLabel": [],
+      "LargeDocTypeAbbrev": [],
+      "LargeDocUploadDate": [],
+      "LastKnownStatus": [],
+      "LastUpdatePostDate": [
+            "December 4, 2020"
+      ],
+      "LastUpdatePostDateType": [
+            "Actual"
+      ],
+      "LastUpdateSubmitDate": [
+            "December 3, 2020"
+      ],
+      "LeadSponsorClass": [
+            "OTHER"
+      ],
+      "LeadSponsorName": [
+            "Case Comprehensive Cancer Center"
+      ],
+      "LimitationsAndCaveatsDescription": [],
+      "LocationCity": [
+            "Cleveland"
+      ],
+      "LocationContactEMail": [],
+      "LocationContactName": [],
+      "LocationContactPhone": [],
+      "LocationContactPhoneExt": [],
+      "LocationContactRole": [],
+      "LocationCountry": [
+            "United States"
+      ],
+      "LocationFacility": [
+            "Case Comprehensive Cancer Center"
+      ],
+      "LocationState": [
+            "Ohio"
+      ],
+      "LocationStatus": [],
+      "LocationZip": [
+            "44106-5065"
+      ],
+      "MaximumAge": [
+            "75 Years"
+      ],
+      "MinimumAge": [
+            "18 Years"
+      ],
+      "NCTIdAlias": [],
+      "OfficialTitle": [
+            "Intra-osseous Co-transplant of Cord Blood and Mesenchymal Stromal Cells: A Feasibility Study"
+      ],
+      "OrgClass": [
+            "OTHER"
+      ],
+      "OrgFullName": [
+            "Case Comprehensive Cancer Center"
+      ],
+      "OrgStudyId": [
+            "CASE1Z14"
+      ],
+      "OrgStudyIdDomain": [],
+      "OrgStudyIdLink": [],
+      "OrgStudyIdType": [],
+      "OtherEventAssessmentType": [],
+      "OtherEventNotes": [],
+      "OtherEventOrganSystem": [],
+      "OtherEventSourceVocabulary": [],
+      "OtherEventStatsGroupId": [],
+      "OtherEventStatsNumAffected": [],
+      "OtherEventStatsNumAtRisk": [],
+      "OtherEventStatsNumEvents": [],
+      "OtherEventTerm": [],
+      "OtherOutcomeDescription": [],
+      "OtherOutcomeMeasure": [],
+      "OtherOutcomeTimeFrame": [],
+      "OutcomeAnalysisCILowerLimit": [],
+      "OutcomeAnalysisCILowerLimitComment": [],
+      "OutcomeAnalysisCINumSides": [],
+      "OutcomeAnalysisCIPctValue": [],
+      "OutcomeAnalysisCIUpperLimit": [],
+      "OutcomeAnalysisCIUpperLimitComment": [],
+      "OutcomeAnalysisDispersionType": [],
+      "OutcomeAnalysisDispersionValue": [],
+      "OutcomeAnalysisEstimateComment": [],
+      "OutcomeAnalysisGroupDescription": [],
+      "OutcomeAnalysisGroupId": [],
+      "OutcomeAnalysisNonInferiorityComment": [],
+      "OutcomeAnalysisNonInferiorityType": [],
+      "OutcomeAnalysisOtherAnalysisDescription": [],
+      "OutcomeAnalysisPValue": [],
+      "OutcomeAnalysisPValueComment": [],
+      "OutcomeAnalysisParamType": [],
+      "OutcomeAnalysisParamValue": [],
+      "OutcomeAnalysisStatisticalComment": [],
+      "OutcomeAnalysisStatisticalMethod": [],
+      "OutcomeAnalysisTestedNonInferiority": [],
+      "OutcomeCategoryTitle": [],
+      "OutcomeClassDenomCountGroupId": [],
+      "OutcomeClassDenomCountValue": [],
+      "OutcomeClassDenomUnits": [],
+      "OutcomeClassTitle": [],
+      "OutcomeDenomCountGroupId": [],
+      "OutcomeDenomCountValue": [],
+      "OutcomeDenomUnits": [],
+      "OutcomeGroupDescription": [],
+      "OutcomeGroupId": [],
+      "OutcomeGroupTitle": [],
+      "OutcomeMeasureAnticipatedPostingDate": [],
+      "OutcomeMeasureCalculatePct": [],
+      "OutcomeMeasureDenomUnitsSelected": [],
+      "OutcomeMeasureDescription": [],
+      "OutcomeMeasureDispersionType": [],
+      "OutcomeMeasureParamType": [],
+      "OutcomeMeasurePopulationDescription": [],
+      "OutcomeMeasureReportingStatus": [],
+      "OutcomeMeasureTimeFrame": [],
+      "OutcomeMeasureTitle": [],
+      "OutcomeMeasureType": [],
+      "OutcomeMeasureTypeUnitsAnalyzed": [],
+      "OutcomeMeasureUnitOfMeasure": [],
+      "OutcomeMeasurementComment": [],
+      "OutcomeMeasurementGroupId": [],
+      "OutcomeMeasurementLowerLimit": [],
+      "OutcomeMeasurementSpread": [],
+      "OutcomeMeasurementUpperLimit": [],
+      "OutcomeMeasurementValue": [],
+      "OverallOfficialAffiliation": [
+            "Case Comprehensive Cancer Center"
+      ],
+      "OverallOfficialName": [
+            "Leland Metheny, MD"
+      ],
+      "OverallOfficialRole": [
+            "Principal Investigator"
+      ],
+      "OverallStatus": [
+            "Completed"
+      ],
+      "OversightHasDMC": [
+            "No"
+      ],
+      "PatientRegistry": [],
+      "Phase": [
+            "Early Phase 1"
+      ],
+      "PointOfContactEMail": [],
+      "PointOfContactOrganization": [],
+      "PointOfContactPhone": [],
+      "PointOfContactPhoneExt": [],
+      "PointOfContactTitle": [],
+      "PrimaryCompletionDate": [
+            "December 19, 2019"
+      ],
+      "PrimaryCompletionDateType": [
+            "Actual"
+      ],
+      "PrimaryOutcomeDescription": [
+            "Primary graft failure is defined by <10% BM cellularity in bone marrow biopsies. Failure in more than 30% of patients will indicate unfeasibility of treatment",
+            "Primary graft failure is defined by <500 ANC cell/ul in bone marrow biopsies. Failure in more than 30% of patients will indicate unfeasibility of treatment",
+            "Primary graft failure is defined by hematopoietic recovery with <10% donor cell chimerism. Failure in more than 30% of patients will indicate unfeasibility of treatment",
+            "Primary graft failure is defined by hematopoietic recovery with <40% donor cell chimerism. Failure in more than 30% of patients will indicate unfeasibility of treatment"
+      ],
+      "PrimaryOutcomeMeasure": [
+            "Number of patients with BM cellularity failure: Measure of feasibility",
+            "Number of patients with ANC failure without evidence of disease: Measure of feasibility",
+            "Number of patients with hematopoietic recovery without evidence of donor umbilical cord blood engraftment: Measure of feasibility",
+            "Number of patients with hematopoietic recovery without evidence of donor umbilical cord blood engraftment: Measure of feasibility"
+      ],
+      "PrimaryOutcomeTimeFrame": [
+            "42 days after transplant",
+            "42 days after transplant",
+            "42 days after transplant",
+            "100 days after transplant"
+      ],
+      "ReferenceCitation": [],
+      "ReferencePMID": [],
+      "ReferenceType": [],
+      "RemovedCountry": [],
+      "ResponsiblePartyInvestigatorAffiliation": [
+            "Case Comprehensive Cancer Center"
+      ],
+      "ResponsiblePartyInvestigatorFullName": [
+            "Marcos de Lima"
+      ],
+      "ResponsiblePartyInvestigatorTitle": [
+            "Principal Investigator"
+      ],
+      "ResponsiblePartyOldNameTitle": [],
+      "ResponsiblePartyOldOrganization": [],
+      "ResponsiblePartyType": [
+            "Principal Investigator"
+      ],
+      "ResultsFirstPostDate": [],
+      "ResultsFirstPostDateType": [],
+      "ResultsFirstPostedQCCommentsDate": [],
+      "ResultsFirstPostedQCCommentsDateType": [],
+      "ResultsFirstSubmitDate": [],
+      "ResultsFirstSubmitQCDate": [],
+      "RetractionPMID": [],
+      "RetractionSource": [],
+      "SamplingMethod": [],
+      "SecondaryId": [
+            "NCI-2014-01316",
+            "CASE1Z14",
+            "P30CA043703"
+      ],
+      "SecondaryIdDomain": [
+            "CTRP (Clinical Trial Reporting Program)",
+            "Case Comprehensive Cancer Center"
+      ],
+      "SecondaryIdLink": [
+            "https://reporter.nih.gov/quickSearch/P30CA043703"
+      ],
+      "SecondaryIdType": [
+            "Registry Identifier",
+            "Other Identifier",
+            "U.S. NIH Grant/Contract"
+      ],
+      "SecondaryOutcomeDescription": [
+            "Descriptive statistics will be used.",
+            "The rate of neutrophil recovery and median time of recovery will be estimated using the methods of Kaplan and Meier.",
+            "The rate of platelet recovery and median time of recovery will be estimated using the methods of Kaplan and Meier.",
+            "The median time of neutrophil recovery will be estimated using the methods of Kaplan and Meier.",
+            "The median time of platelet recovery will be estimated using the methods of Kaplan and Meier."
+      ],
+      "SecondaryOutcomeMeasure": [
+            "Incidence of toxicities assessed using National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0",
+            "Rate of neutrophil recovery",
+            "Rate of platelet recovery",
+            "Median time of neutrophil recovery",
+            "Median time of platelet recovery"
+      ],
+      "SecondaryOutcomeTimeFrame": [
+            "Up to 12 months",
+            "Up to 12 months",
+            "Up to 12 months",
+            "Up to 12 months",
+            "Up to 12 months"
+      ],
+      "SeeAlsoLinkLabel": [],
+      "SeeAlsoLinkURL": [],
+      "SeriousEventAssessmentType": [],
+      "SeriousEventNotes": [],
+      "SeriousEventOrganSystem": [],
+      "SeriousEventSourceVocabulary": [],
+      "SeriousEventStatsGroupId": [],
+      "SeriousEventStatsNumAffected": [],
+      "SeriousEventStatsNumAtRisk": [],
+      "SeriousEventStatsNumEvents": [],
+      "SeriousEventTerm": [],
+      "StartDate": [
+            "July 22, 2015"
+      ],
+      "StartDateType": [
+            "Actual"
+      ],
+      "StatusVerifiedDate": [
+            "December 2020"
+      ],
+      "StdAge": [
+            "Adult",
+            "Older Adult"
+      ],
+      "StudyFirstPostDate": [
+            "July 4, 2014"
+      ],
+      "StudyFirstPostDateType": [
+            "Estimate"
+      ],
+      "StudyFirstSubmitDate": [
+            "July 2, 2014"
+      ],
+      "StudyFirstSubmitQCDate": [
+            "July 3, 2014"
+      ],
+      "StudyPopulation": [],
+      "StudyType": [
+            "Interventional"
+      ],
+      "SubmissionMCPReleaseN": [],
+      "SubmissionReleaseDate": [],
+      "SubmissionResetDate": [],
+      "SubmissionUnreleaseDate": [],
+      "TargetDuration": [],
+      "UnpostedEventDate": [],
+      "UnpostedEventType": [],
+      "UnpostedResponsibleParty": [],
+      "VersionHolder": [
+            "October 10, 2022"
+      ],
+      "WhyStopped": []
+}

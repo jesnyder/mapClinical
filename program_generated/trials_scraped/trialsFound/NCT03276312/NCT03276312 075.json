@@ -1,0 +1,116 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03276312",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "Skin and Connective Tissue Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Nutritional and Metabolic Diseases",
+                              "Nervous System Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Diabetic Foot"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M19085",
+                              "M6272",
+                              "M16552",
+                              "M18071",
+                              "M16358",
+                              "M10035",
+                              "M14838",
+                              "M14826",
+                              "M6267",
+                              "M25157",
+                              "M7014",
+                              "M6276"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetic Foot",
+                              "Diabetic Angiopathies",
+                              "Vascular Diseases",
+                              "Foot Ulcer",
+                              "Ulcer",
+                              "Leg Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases",
+                              "Diabetes Mellitus",
+                              "Diabetes Complications",
+                              "Endocrine System Diseases",
+                              "Diabetic Neuropathies"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000017719"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Diabetic Foot"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Randomized controlled study"
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03276312"
+                        ]
+                  }
+            ]
+      }
+}

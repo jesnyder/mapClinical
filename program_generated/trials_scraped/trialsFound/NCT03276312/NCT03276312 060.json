@@ -1,0 +1,95 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03276312",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This is a randomized controlled monocentric study on 114 diabetic patients with the aim of evaluating the efficacy of the lipofilling with Lipogems\u00ae system in diabetic patients that are candidates for a minor amputation in the foot. In particular, it will be evaluated whether the lipofilling will be able to shorten the healing times and to reduce the number of major amputations, with consequent positive impact on the quality of life. Patients will be randomized to the treatment group with Lipogems\u00ae (local injection of autologous micro-fractured adipose tissue) or to the control group, thus, treatment according to standard clinical practice."
+                        ],
+                        "BriefTitle": [
+                              "Autologous Micro-fragmented Adipose Tissue in the Treatment of Minor Amputations of Diabetic Foot"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "March 2018"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Diabetic Foot"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000003925",
+                              "D000014652",
+                              "D000002318",
+                              "D000016523",
+                              "D000007871",
+                              "D000012883",
+                              "D000012871",
+                              "D000048909",
+                              "D000003920",
+                              "D000004700",
+                              "D000003929"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Diabetic Angiopathies",
+                              "Vascular Diseases",
+                              "Cardiovascular Diseases",
+                              "Foot Ulcer",
+                              "Leg Ulcer",
+                              "Skin Ulcer",
+                              "Skin Diseases",
+                              "Diabetes Complications",
+                              "Diabetes Mellitus",
+                              "Endocrine System Diseases",
+                              "Diabetic Neuropathies"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC14",
+                              "BC17",
+                              "BC19",
+                              "All",
+                              "BC23",
+                              "BC18",
+                              "BC10"
+                        ],
+                        "NCTId": [
+                              "NCT03276312"
+                        ]
+                  }
+            ]
+      }
+}

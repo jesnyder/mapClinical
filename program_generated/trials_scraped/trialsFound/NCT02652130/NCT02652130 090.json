@@ -1,0 +1,71 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02652130",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "This is a safety follow-up study through 180 days of remestemcel-L treatment in participants who took part in MSB-GVHD001. This study will also explore duration of response over time. Participants who took part in in MSB-GVHD001 and received at least one dose of remestemcel-L as outlined in that protocol will be evaluated at baseline (Day 100) and at Days 120, 140, 160 and 180 for safety endpoints. Participants who took part in Protocol MSB-GVHD001 and received the first 8 doses of remestemcel-L as outlined in that protocol will be evaluated at baseline (Day 100) and at Days 120, 140, 160 and 180 after initial remestemcel-L infusion for evidence of duration of response over time."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nParticipants must have participated in MSB-GVHD001 and have received at least one infusion of remestemcel-L.\nParticipant or participant's authorized representative must be capable of providing written informed consent. Assent, if applicable, must also be collected when required by the Institutional Review Board (IRB)/Ethics Committee (EC).\nFemale participants of childbearing potential (\u2265 10 years of age) must use a medically accepted method of contraception and must agree to continue use of this method for the duration of the study and for the follow-up time period. Acceptable methods of contraception include abstinence, barrier method with spermicide, intrauterine device (IUD), or steroidal contraceptive (oral, transdermal, implanted, and injected) in conjunction with a barrier method.\nThe participant must be willing and able to comply with study procedures, remain at the clinic as required during the study period, and return to the clinic for the follow-up evaluation as specified in this protocol.\n\nExclusion Criteria:\n\nThe investigator believes it to be in the best interest of the participant not to participate in the safety follow-up study.\nParticipant has participated or is currently participating in any autologous or allogeneic stem cell or gene therapy study for the treatment of aGVHD. Participants participating in investigative protocols aimed at modification of the transplant graft (such as T cell depletion) or aimed at modification of the conditioning regimen will be allowed in the study."
+                        ],
+                        "EnrollmentCount": [
+                              "32"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [
+                              "1"
+                        ],
+                        "EventGroupDeathsNumAtRisk": [
+                              "32"
+                        ],
+                        "EventGroupDescription": [
+                              "All participants who were enrolled and had received at least 1 dose of remestemcel-L in Study MSB-GVHD001."
+                        ],
+                        "EventGroupId": [
+                              "EG000"
+                        ],
+                        "EventGroupOtherNumAffected": [
+                              "0"
+                        ],
+                        "NCTId": [
+                              "NCT02652130"
+                        ]
+                  }
+            ]
+      }
+}

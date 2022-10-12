@@ -1,0 +1,63 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01071577",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "PrimaryOutcomeTimeFrame",
+                  "ReferenceCitation",
+                  "ReferencePMID",
+                  "ReferenceType",
+                  "RemovedCountry",
+                  "ResponsiblePartyInvestigatorAffiliation",
+                  "ResponsiblePartyInvestigatorFullName",
+                  "ResponsiblePartyInvestigatorTitle",
+                  "ResponsiblePartyOldNameTitle",
+                  "ResponsiblePartyOldOrganization",
+                  "ResponsiblePartyType",
+                  "ResultsFirstPostDate",
+                  "ResultsFirstPostDateType",
+                  "ResultsFirstPostedQCCommentsDate",
+                  "ResultsFirstPostedQCCommentsDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "PrimaryOutcomeTimeFrame": [
+                              "At study visit"
+                        ],
+                        "ReferenceCitation": [
+                              "Jin P, Zhao Y, Liu H, Chen J, Ren J, Jin J, Bedognetti D, Liu S, Wang E, Marincola F, Stroncek D. Interferon-\u03b3 and Tumor Necrosis Factor-\u03b1 Polarize Bone Marrow Stromal Cells Uniformly to a Th1 Phenotype. Sci Rep. 2016 May 23;6:26345. doi: 10.1038/srep26345."
+                        ],
+                        "ReferencePMID": [
+                              "27211104"
+                        ],
+                        "ReferenceType": [
+                              "derived"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT01071577"
+                        ]
+                  }
+            ]
+      }
+}

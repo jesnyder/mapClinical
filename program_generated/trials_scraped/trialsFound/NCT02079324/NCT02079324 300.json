@@ -1,0 +1,73 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02079324",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Response Evaluation Criteria in Solid Tumors (RECIST) are used to determine objective clinical response. Complete Rresponse (CR) is the disappearance of all target lesions, partial response (PR) is at least a 30% decrease in the target lesions, progressive disease (PD) is at least a 20% increase in the target lesions or appearance of one or more new lesions, and stable disease (SD) is neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD.",
+                              "unit: pg/ml",
+                              "We will analyze immune cells such as CD4+ T cell, CD8+ T cell, NK cell by FACS analysis on day 1(baseline), day 29(end of treatment) and day 57(follow up)",
+                              "We will analyze anti-IL-12 antibody in blood by ELISA on the screening visit and the follw up visit. Result will report as existence or absence of the anti-body .",
+                              "Safety profile would be examined by vital sign, physical examination, clinical laboratory tests, CT etc"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Adverse events after GX-051 intratumoral injection",
+                              "Anti-tumor response by RECIST 1.1 on computed tomography",
+                              "Changes of INF-\u03b3 and IL-12 levels in blood comparing to the baseline after GX-051 intratumoral injection",
+                              "Changes of immune cell distribution in tumor tissue after GX-051 intratumoral injection",
+                              "Evaluation of antibody generation against IL-12 which is active ingredient of GX-051",
+                              "Evaluation of long term safety examined by vital sign, physical examination, clinical laboratory tests, CT etc"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "2 months",
+                              "2 months",
+                              "2 months",
+                              "2 months",
+                              "2 months",
+                              "17 monthes"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02079324"
+                        ]
+                  }
+            ]
+      }
+}

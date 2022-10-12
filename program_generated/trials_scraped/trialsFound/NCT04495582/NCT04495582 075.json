@@ -1,0 +1,134 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04495582",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Nervous System Diseases",
+                              "Heart and Blood Diseases",
+                              "Neoplasms",
+                              "Skin and Connective Tissue Diseases",
+                              "Nutritional and Metabolic Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Atrophy",
+                              "Multiple System Atrophy",
+                              "Multiple System Atrophy",
+                              "Multiple System Atrophy"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3741",
+                              "M20667",
+                              "M14749",
+                              "M15507",
+                              "M21672",
+                              "M27132",
+                              "M3795",
+                              "M24756",
+                              "M3926",
+                              "M15510",
+                              "M4356",
+                              "M4894",
+                              "M11181",
+                              "M2217",
+                              "M20711",
+                              "M9224",
+                              "M16552",
+                              "T3956"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Atrophy",
+                              "Multiple System Atrophy",
+                              "Shy-Drager Syndrome",
+                              "Syndrome",
+                              "Pathological Conditions, Anatomical",
+                              "Primary Dysautonomias",
+                              "Autonomic Nervous System Diseases",
+                              "Ganglion Cysts",
+                              "Basal Ganglia Diseases",
+                              "Synovial Cyst",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Movement Disorders",
+                              "Synucleinopathies",
+                              "Neurodegenerative Diseases",
+                              "Hypotension",
+                              "Vascular Diseases",
+                              "Multiple System Atrophy"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000019578",
+                              "D000012791",
+                              "D000001284"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Multiple System Atrophy",
+                              "Shy-Drager Syndrome",
+                              "Atrophy"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Other"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT04495582"
+                        ]
+                  }
+            ]
+      }
+}

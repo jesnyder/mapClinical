@@ -1,0 +1,137 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal darvadstrocel",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "January 13, 2022"
+                        ],
+                        "LeadSponsorClass": [
+                              "OTHER"
+                        ],
+                        "LeadSponsorName": [
+                              "Universidad de Zaragoza"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Elche",
+                              "Vigo",
+                              "Barcelona",
+                              "Valencia"
+                        ],
+                        "LocationContactEMail": [
+                              "drsanchezguillen@gmail.com",
+                              "sanilde@yahoo.com",
+                              "mmgallostra@vhebron.net",
+                              "monicamillan72@gmail.com"
+                        ],
+                        "LocationContactName": [
+                              "Luis Sanchez, Dr",
+                              "Alberto Sanildefonso, Dr",
+                              "Marc Marti",
+                              "Monica Millan, Dr"
+                        ],
+                        "LocationContactPhone": [
+                              "+34695051395",
+                              "+34651952364",
+                              "+34639353535",
+                              "+346624453"
+                        ],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [
+                              "Contact",
+                              "Contact",
+                              "Contact",
+                              "Contact"
+                        ],
+                        "LocationCountry": [
+                              "Spain",
+                              "Spain",
+                              "Spain",
+                              "Spain"
+                        ],
+                        "LocationFacility": [
+                              "Hospital de Elche",
+                              "HOSPITAL Meixoeiro Vigo",
+                              "Hospital Vall D\u00b4Hebron",
+                              "Hospital La Fe"
+                        ],
+                        "LocationState": [
+                              "Alicante",
+                              "Pontevedra"
+                        ],
+                        "LocationStatus": [
+                              "Recruiting",
+                              "Recruiting",
+                              "Recruiting",
+                              "Recruiting"
+                        ],
+                        "LocationZip": [],
+                        "NCTId": [
+                              "NCT05210309"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "LastUpdateSubmitDate": [
+                              "April 3, 2022"
+                        ],
+                        "LeadSponsorClass": [
+                              "OTHER"
+                        ],
+                        "LeadSponsorName": [
+                              "Medical University of Vienna"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Vienna"
+                        ],
+                        "LocationContactEMail": [],
+                        "LocationContactName": [],
+                        "LocationContactPhone": [],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [],
+                        "LocationCountry": [
+                              "Austria"
+                        ],
+                        "LocationFacility": [
+                              "Medical University of Vienna"
+                        ],
+                        "LocationState": [],
+                        "LocationStatus": [],
+                        "LocationZip": [
+                              "1090"
+                        ],
+                        "NCTId": [
+                              "NCT05322057"
+                        ]
+                  }
+            ]
+      }
+}

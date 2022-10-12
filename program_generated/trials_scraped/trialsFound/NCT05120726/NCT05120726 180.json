@@ -1,0 +1,111 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT05120726",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "November 9, 2021"
+                        ],
+                        "LeadSponsorClass": [
+                              "OTHER"
+                        ],
+                        "LeadSponsorName": [
+                              "Louisiana State University Health Sciences Center in New Orleans"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Metairie",
+                              "New Orleans",
+                              "New Orleans"
+                        ],
+                        "LocationContactEMail": [
+                              "flau@lsuhsc.edu",
+                              "asmi60@lsuhsc.edu",
+                              "asmi60@lsuhsc.edu",
+                              "flau@lsuhsc.edu"
+                        ],
+                        "LocationContactName": [
+                              "Frank Lau, MD",
+                              "Alison Smith, MD, PhD",
+                              "Alison Smith, MD, PhD",
+                              "Frank Lau, MD",
+                              "Alison Smith, MD, PhD",
+                              "Frank Lau, MD",
+                              "Alison Smith, MD, PhD",
+                              "Frank Lau, MD"
+                        ],
+                        "LocationContactPhone": [
+                              "504-412-1240",
+                              "504-903-9009",
+                              "504-903-9009",
+                              "504-412-1240"
+                        ],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [
+                              "Contact",
+                              "Contact",
+                              "Principal Investigator",
+                              "Sub-Investigator",
+                              "Contact",
+                              "Contact",
+                              "Principal Investigator",
+                              "Sub-Investigator"
+                        ],
+                        "LocationCountry": [
+                              "United States",
+                              "United States",
+                              "United States"
+                        ],
+                        "LocationFacility": [
+                              "LSU Healthcare Network Clinic",
+                              "University Medical Center",
+                              "Ochsner Baptist Medical Center"
+                        ],
+                        "LocationState": [
+                              "Louisiana",
+                              "Louisiana",
+                              "Louisiana"
+                        ],
+                        "LocationStatus": [
+                              "Recruiting",
+                              "Recruiting",
+                              "Enrolling by invitation"
+                        ],
+                        "LocationZip": [
+                              "70006",
+                              "70112",
+                              "70115"
+                        ],
+                        "NCTId": [
+                              "NCT05120726"
+                        ]
+                  }
+            ]
+      }
+}

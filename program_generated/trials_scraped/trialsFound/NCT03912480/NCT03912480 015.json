@@ -1,0 +1,61 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03912480",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Basic treatment:\n\nThe original treatment regimen was maintained. During the study period, insulin dose could be adjusted with the change of blood glucose, while the type and dose of oral hypoglycemic drugs remained unchanged (except when side effects of drugs or insulin preparations were stopped or patients still had frequent hypoglycemia).\n\nStem cell therapy:\n\nDosage: Stem cells from human exfoliated teeth were calculated at 0.11IU/kg body weight .\n\nCourse of treatment: 3 times, Injections were administered at enrollment, 2 weeks after enrollment, and 6 weeks after enrollment.\n\nNote: at 1 month follow-up (V5) after the last transplantation of several cells, the subjects were still unable to discontinue insulin, and then began the second course of stem cell therapy.After the second course of treatment, the follow-up plan was resumed."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Stem cells from human exfoliated teeth"
+                        ],
+                        "ArmGroupLabel": [
+                              "Stem cells from human exfoliated teeth"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03912480"
+                        ]
+                  }
+            ]
+      }
+}

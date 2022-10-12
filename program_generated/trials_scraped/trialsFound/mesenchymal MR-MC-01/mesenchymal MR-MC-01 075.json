@@ -1,0 +1,88 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal MR-MC-01",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cystitis",
+                              "Interstitial Cystitis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M5913",
+                              "M20056",
+                              "M4178",
+                              "M16471"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Cystitis",
+                              "Cystitis, Interstitial",
+                              "Urinary Bladder Diseases",
+                              "Urologic Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003556",
+                              "D000018856"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Cystitis",
+                              "Cystitis, Interstitial"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04610359"
+                        ]
+                  }
+            ]
+      }
+}

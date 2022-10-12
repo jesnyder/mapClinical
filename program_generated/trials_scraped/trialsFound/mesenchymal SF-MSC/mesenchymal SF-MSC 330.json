@@ -1,0 +1,80 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal SF-MSC",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "StudyFirstSubmitQCDate",
+                  "StudyPopulation",
+                  "StudyType",
+                  "SubmissionMCPReleaseN",
+                  "SubmissionReleaseDate",
+                  "SubmissionResetDate",
+                  "SubmissionUnreleaseDate",
+                  "TargetDuration",
+                  "UnpostedEventDate",
+                  "UnpostedEventType",
+                  "UnpostedResponsibleParty",
+                  "VersionHolder",
+                  "WhyStopped",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "StudyFirstSubmitQCDate": [
+                              "February 25, 2022"
+                        ],
+                        "StudyPopulation": [],
+                        "StudyType": [
+                              "Interventional"
+                        ],
+                        "SubmissionMCPReleaseN": [],
+                        "SubmissionReleaseDate": [],
+                        "SubmissionResetDate": [],
+                        "SubmissionUnreleaseDate": [],
+                        "TargetDuration": [],
+                        "UnpostedEventDate": [],
+                        "UnpostedEventType": [],
+                        "UnpostedResponsibleParty": [],
+                        "VersionHolder": [
+                              "October 07, 2022"
+                        ],
+                        "WhyStopped": [],
+                        "NCTId": [
+                              "NCT05261360"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "StudyFirstSubmitQCDate": [
+                              "March 1, 2016"
+                        ],
+                        "StudyPopulation": [],
+                        "StudyType": [
+                              "Interventional"
+                        ],
+                        "SubmissionMCPReleaseN": [],
+                        "SubmissionReleaseDate": [],
+                        "SubmissionResetDate": [],
+                        "SubmissionUnreleaseDate": [],
+                        "TargetDuration": [],
+                        "UnpostedEventDate": [],
+                        "UnpostedEventType": [],
+                        "UnpostedResponsibleParty": [],
+                        "VersionHolder": [
+                              "October 07, 2022"
+                        ],
+                        "WhyStopped": [],
+                        "NCTId": [
+                              "NCT02696876"
+                        ]
+                  }
+            ]
+      }
+}

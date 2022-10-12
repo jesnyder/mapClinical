@@ -1,0 +1,73 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03913910",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "All types of adverse events intra-, peri-, or post-operative will be collected",
+                              "Pain will be assessed using the Visual Analogue Scale for pain (VAS 0-10), where 0 is no pain and 10 is the maximum pain.",
+                              "Continence will be assessed with the Wexner Continence Grading Scale. The score takes into account the type and frequency of incontinence and the extent to which it alters the patient's life.\n\nThis scoring system cross-tabulates frequencies and different anal incontinence presentations (Gas/Liquid/Solid/Pad use/Need for lifestyle alterations) and sums the returned score to a total of 0-20 (where 0 = perfect continence and 20 = complete incontinence).",
+                              "Patient's satisfaction will be evaluated using a visual analogue scale 0-5, where 0 is no satisfaction and 5 is maximum satisfaction.",
+                              "Non-inferiority will be determined comparing healing rate of Lipogems with retrospective data on the advancement flap."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Safety collecting all types of adverse events",
+                              "Pain assessed using the Visual Analogue Scale (VAS) for pain",
+                              "Continence",
+                              "Patient's satisfaction",
+                              "Non inferiority compared with the Advancement flap technique"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03913910"
+                        ]
+                  }
+            ]
+      }
+}

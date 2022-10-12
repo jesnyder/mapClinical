@@ -12,8 +12,8 @@ const config_Status = {
             "Terminated",
             "Withdrawn",
             "Suspended",
-            "No longer available",
             "Enrolling by invitation",
+            "No longer available",
             "Available",
             "Temporarily not available"
         ],
@@ -21,16 +21,16 @@ const config_Status = {
             {
                 "label": "all",
                 "data": [
-                    17191,
-                    19936,
-                    19185,
-                    4606,
-                    2792,
+                    18209,
+                    20523,
+                    19854,
+                    4689,
+                    3006,
                     993,
                     0,
-                    749,
+                    855,
+                    552,
                     0,
-                    537,
                     0,
                     0
                 ],

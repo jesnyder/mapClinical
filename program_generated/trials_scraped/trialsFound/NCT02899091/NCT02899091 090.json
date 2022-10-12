@@ -1,0 +1,63 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02899091",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Care Provider",
+                              "Investigator"
+                        ],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nKorean male or female at 50+ years of age at the time of screening visit\nDiagnosis of Probable Alzheimer disease (probable AD) according to NINCDS-ADRDA criteria at Screening visit\nPositive for Amyloid on amyloid-ligand PET\n\nA subject with the imaging findings of Alzheimer's disease as confirmed by MRI or PET\n\nPresence of brain atrophy on brain MRI by visual assessment\nPresence of reduced brain glucose metabolism in bilateral temporal-parietal lobe on FDG-PET\nKorea Mini-Mental State Examination (KMMSE) score of 10-26 at time of screening visit\nPresence of caregiver who can provide information on the subject's condition\nSubject who has been taking stable dose of Alzheimer medication for last 2 months or more\nSubject who is informed of the clinical trial and signs a consent form (if unable to sign, a consent from a legally acceptable representative is required)\n\nExclusion Criteria:\n\nConcurrent Dementia as a result of other disorders [i.e. infectious disease of the central nervous system such as HIV, syphilis, head injury, Creutzfeld-Jacob disease, Picks disease, Huntington's disease, Parkinson's disease, other subdural hematoma, hydrocephalus and structural brain lesions, drug addiction, alcoholism, substance abuse, thyroid disease, parathyroid disease, vitamins and other nutritional deficiencies and vascular etc.]\nSubject with vascular dementia as determined by the clinical criteria of DSM-IV and the imaging criteria of Erkinkuntii\nSubject with severe white matter hyperintensities (i.e. \u2265 25mm of the deep white matter and \u2265 10mm of the periventricular capping/banding in lengths)\n\nAbnormal laboratory findings at screening visit:\n\nA. ALT or AST \u2265 2.5 times the upper limit of normal value\n\nB. Serum creatinine \u2265 1.5 times the upper limit of normal value\n\nC. Total bilirubin \u2265 2 times the upper limit of normal value\n\nD. Total WBC counts < 3,000/\u33a3\n\nE. Hemoglobin <9.5g/dL in men or <9.0g/dL in women\n\nF. Platelet count < 150,000/\u33a3 at screening visit\n\nG. PT (INR) \u2265 1.5 or aPTT \u2265 1.5 times the upper limit of normal value\n\nSubjects who are positive for HIV, syphilis or active HBV, HCV infection\nSubjects in poor medical condition or subjects with severe cardiovascular, gastrointestinal, pulmonary or endocrinologic disease A. Suspected active active lung disease on chest X-ray at screening visit B. Diagnosis of cancer (except for the subjects who remains in complete remission for 5 years or more )\nSubject with concurrent unstable psychiatric disorder (i.e. severe depression, or schizophrenia, or bipolar disorder, etc)\nPregnant or lactating women\n\nWomen of childbearing age who reject to practice contraception with one of the following methods\n\nUse a condom\nUse of contraceptive (oral, dermal, or injectable)\nUse an intra-uterine contraceptive device\nSubjects with a history of alcohol abuse (>30g/day) or drug abuse\nSubjects who cannot undergo any of the tests performed in this clinical trial (for example, MRI, CT, PET, CSF study)\nSubjects with known allergies to protein products (Bovine serum), antibiotics (gentamycin) or DMSO\nSubjects whom the principal investigator considers inappropriate for participation in theis study"
+                        ],
+                        "EnrollmentCount": [
+                              "24"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT02899091"
+                        ]
+                  }
+            ]
+      }
+}

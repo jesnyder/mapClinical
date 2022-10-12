@@ -1,0 +1,68 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03264573",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "SeriousEventNotes",
+                  "SeriousEventOrganSystem",
+                  "SeriousEventSourceVocabulary",
+                  "SeriousEventStatsGroupId",
+                  "SeriousEventStatsNumAffected",
+                  "SeriousEventStatsNumAtRisk",
+                  "SeriousEventStatsNumEvents",
+                  "SeriousEventTerm",
+                  "StartDate",
+                  "StartDateType",
+                  "StatusVerifiedDate",
+                  "StdAge",
+                  "StudyFirstPostDate",
+                  "StudyFirstPostDateType",
+                  "StudyFirstSubmitDate",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "SeriousEventNotes": [],
+                        "SeriousEventOrganSystem": [],
+                        "SeriousEventSourceVocabulary": [],
+                        "SeriousEventStatsGroupId": [],
+                        "SeriousEventStatsNumAffected": [],
+                        "SeriousEventStatsNumAtRisk": [],
+                        "SeriousEventStatsNumEvents": [],
+                        "SeriousEventTerm": [],
+                        "StartDate": [
+                              "July 2016"
+                        ],
+                        "StartDateType": [
+                              "Actual"
+                        ],
+                        "StatusVerifiedDate": [
+                              "August 2017"
+                        ],
+                        "StdAge": [
+                              "Child",
+                              "Adult"
+                        ],
+                        "StudyFirstPostDate": [
+                              "August 29, 2017"
+                        ],
+                        "StudyFirstPostDateType": [
+                              "Actual"
+                        ],
+                        "StudyFirstSubmitDate": [
+                              "August 23, 2017"
+                        ],
+                        "NCTId": [
+                              "NCT03264573"
+                        ]
+                  }
+            ]
+      }
+}

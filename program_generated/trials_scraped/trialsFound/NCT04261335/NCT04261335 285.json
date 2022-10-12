@@ -1,0 +1,69 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04261335",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "PrimaryOutcomeTimeFrame",
+                  "ReferenceCitation",
+                  "ReferencePMID",
+                  "ReferenceType",
+                  "RemovedCountry",
+                  "ResponsiblePartyInvestigatorAffiliation",
+                  "ResponsiblePartyInvestigatorFullName",
+                  "ResponsiblePartyInvestigatorTitle",
+                  "ResponsiblePartyOldNameTitle",
+                  "ResponsiblePartyOldOrganization",
+                  "ResponsiblePartyType",
+                  "ResultsFirstPostDate",
+                  "ResultsFirstPostDateType",
+                  "ResultsFirstPostedQCCommentsDate",
+                  "ResultsFirstPostedQCCommentsDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "PrimaryOutcomeTimeFrame": [
+                              "until 12 weeks after the administration"
+                        ],
+                        "ReferenceCitation": [
+                              "Matsuyama N, Shimizu S, Ueda K, Suzuki T, Suzuki S, Miura R, Katayama A, Ando M, Mizuno M, Hirakawa A, Hayakawa M, Sato Y. Safety and tolerability of a multilineage-differentiating stress-enduring cell-based product in neonatal hypoxic-ischaemic encephalopathy with therapeutic hypothermia (SHIELD trial): a clinical trial protocol open-label, non-randomised, dose-escalation trial. BMJ Open. 2022 Apr 26;12(4):e057073. doi: 10.1136/bmjopen-2021-057073."
+                        ],
+                        "ReferencePMID": [
+                              "35473726"
+                        ],
+                        "ReferenceType": [
+                              "derived"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "Nagoya University"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Yoshiaki Sato"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "MD, PhD, Associate Professor at Department of Center for Maternal Neonatal Care, Nagoya University Hospital"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT04261335"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,181 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01920867",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Eye Diseases",
+                              "Nervous System Diseases",
+                              "Immune System Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Heart and Blood Diseases",
+                              "Wounds and Injuries",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Macular Degeneration",
+                              "Retinal Disease",
+                              "Optic Nerve Diseases",
+                              "Retinal Dystrophy"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M15507",
+                              "M10412",
+                              "M9695",
+                              "M27888",
+                              "M11566",
+                              "M14151",
+                              "M7423",
+                              "M8165",
+                              "M11320",
+                              "M3741",
+                              "M11984",
+                              "M14160",
+                              "M14161",
+                              "M27865",
+                              "M2147",
+                              "M1898",
+                              "M851",
+                              "M20106",
+                              "M21200",
+                              "M28260",
+                              "M11979",
+                              "M14149",
+                              "M5757",
+                              "T4103",
+                              "T4945",
+                              "T5470",
+                              "T1444",
+                              "T1446",
+                              "T1448",
+                              "T429"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Syndrome",
+                              "Macular Degeneration",
+                              "Ischemia",
+                              "Wet Macular Degeneration",
+                              "Neuromyelitis Optica",
+                              "Retinal Diseases",
+                              "Eye Diseases",
+                              "Glaucoma",
+                              "Myopia",
+                              "Atrophy",
+                              "Optic Nerve Diseases",
+                              "Retinitis",
+                              "Retinitis Pigmentosa",
+                              "Geographic Atrophy",
+                              "Stargardt Disease",
+                              "Cone Dystrophy",
+                              "Cone-Rod Dystrophies",
+                              "Optic Neuropathy, Ischemic",
+                              "Optic Nerve Injuries",
+                              "Retinal Dystrophies",
+                              "Optic Atrophy",
+                              "Retinal Degeneration",
+                              "Cranial Nerve Diseases",
+                              "Neuromyelitis Optica Spectrum Disorder",
+                              "Retinitis Pigmentosa",
+                              "Stargardt Disease",
+                              "Cone Dystrophy",
+                              "Cone-rod Dystrophy",
+                              "Cone-rod Dystrophy 2",
+                              "Anterior Ischemic Optic Neuropathy"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009422",
+                              "D000009901",
+                              "D000008268",
+                              "D000012164",
+                              "D000058499"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Nervous System Diseases",
+                              "Optic Nerve Diseases",
+                              "Macular Degeneration",
+                              "Retinal Diseases",
+                              "Retinal Dystrophies"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01920867"
+                        ]
+                  }
+            ]
+      }
+}

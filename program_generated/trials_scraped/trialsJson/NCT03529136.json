@@ -1,0 +1,546 @@
+{
+      "Rank": 160,
+      "Acronym": [],
+      "AgreementOtherDetails": [],
+      "AgreementPISponsorEmployee": [],
+      "AgreementRestrictionType": [],
+      "AgreementRestrictiveAgreement": [],
+      "ArmGroupDescription": [
+            "Procedure:UC-MSC infusion via peripheral vein. Four times of MSC infusion (1.5x10E6 cells/kg body weight) via peripheral vein will be given to the group 1(once every 4 days).",
+            "Procedure:UC-MSC infusion via peripheral vein. Two times of MSC infusion (1.5x10E6 cells/kg body weight) via peripheral vein will be given to the group 2(once every 7 days).",
+            "Control group with standard medical care. UC-MSC infusion could be considering in this group after 24 weeks' followed-up."
+      ],
+      "ArmGroupInterventionName": [
+            "Biological: UC-MSC",
+            "Biological: UC-MSC",
+            "Biological: UC-MSC"
+      ],
+      "ArmGroupLabel": [
+            "MSC group 1",
+            "MSC group 2",
+            "Control group"
+      ],
+      "ArmGroupType": [
+            "Experimental",
+            "Experimental",
+            "Experimental"
+      ],
+      "AvailIPDComment": [],
+      "AvailIPDId": [],
+      "AvailIPDType": [],
+      "AvailIPDURL": [],
+      "BaselineCategoryTitle": [],
+      "BaselineClassDenomCountGroupId": [],
+      "NCTId": [
+            "NCT03529136"
+      ],
+      "BaselineClassDenomCountValue": [],
+      "BaselineClassDenomUnits": [],
+      "BaselineClassTitle": [],
+      "BaselineDenomCountGroupId": [],
+      "BaselineDenomCountValue": [],
+      "BaselineDenomUnits": [],
+      "BaselineGroupDescription": [],
+      "BaselineGroupId": [],
+      "BaselineGroupTitle": [],
+      "BaselineMeasureCalculatePct": [],
+      "BaselineMeasureDenomCountGroupId": [],
+      "BaselineMeasureDenomCountValue": [],
+      "BaselineMeasureDenomUnits": [],
+      "BaselineMeasureDenomUnitsSelected": [],
+      "BaselineMeasureDescription": [],
+      "BaselineMeasureDispersionType": [],
+      "BaselineMeasureParamType": [],
+      "BaselineMeasurePopulationDescription": [],
+      "BaselineMeasureTitle": [],
+      "BaselineMeasureUnitOfMeasure": [],
+      "BaselineMeasurementComment": [],
+      "BaselineMeasurementGroupId": [],
+      "BaselineMeasurementLowerLimit": [],
+      "BaselineMeasurementSpread": [],
+      "BaselineMeasurementUpperLimit": [],
+      "BaselineMeasurementValue": [],
+      "BaselinePopulationDescription": [],
+      "BaselineTypeUnitsAnalyzed": [],
+      "BioSpecDescription": [],
+      "BioSpecRetention": [],
+      "BriefSummary": [
+            "Decompensated liver cirrhosis is one of the life-threatening complication of chronic liver disease. Liver transplantation currently is the only effective method that can improve the survival of these patients. However, the severe shortage of donor livers, high cost, and potential serious complications have restricted the availability of liver transplantation.Umbilical cord mesenchymal stem cells (UC-MSC) has been generally shown to be safe and effective for liver diseases in some pre-clinical and clinical studies. This study aim to evaluate the safety and efficiency of human umbilical cord mesenchymal stem cell transfusion in patients with decompensated liver cirrhosis, and explore the best protocol of MSC transfusion."
+      ],
+      "BriefTitle": [
+            "Clinical Trial of Umbilical Cord Mesenchymal Stem Cell Transfusion in Decompensated Liver Cirrhosis"
+      ],
+      "CentralContactEMail": [
+            "mm-xie@hotmail.com"
+      ],
+      "CentralContactName": [
+            "Xie"
+      ],
+      "CentralContactPhone": [
+            "+86 13256735916"
+      ],
+      "CentralContactPhoneExt": [],
+      "CentralContactRole": [
+            "Contact"
+      ],
+      "CollaboratorClass": [
+            "OTHER_GOV",
+            "OTHER",
+            "UNKNOWN",
+            "OTHER",
+            "UNKNOWN"
+      ],
+      "CollaboratorName": [
+            "Shanghai Public Health Clinical Center",
+            "First Affiliated Hospital of Fujian Medical University",
+            "Yantai Hospital for Infectious Diseases",
+            "The Second Affiliated Hospital of Chongqing Medical University",
+            "Jinan Hospital for Infectious Diseases"
+      ],
+      "CompletionDate": [
+            "April 30, 2020"
+      ],
+      "CompletionDateType": [
+            "Anticipated"
+      ],
+      "Condition": [
+            "Decompensated Liver Cirrhosis"
+      ],
+      "ConditionAncestorId": [
+            "D000010335",
+            "D000008107",
+            "D000004066"
+      ],
+      "ConditionAncestorTerm": [
+            "Pathologic Processes",
+            "Liver Diseases",
+            "Digestive System Diseases"
+      ],
+      "ConditionBrowseBranchAbbrev": [
+            "BC06",
+            "BC23",
+            "All"
+      ],
+      "ConditionBrowseBranchName": [
+            "Digestive System Diseases",
+            "Symptoms and General Pathology",
+            "All Conditions"
+      ],
+      "ConditionBrowseLeafAsFound": [
+            "Liver Cirrhosis",
+            "Cirrhosis"
+      ],
+      "ConditionBrowseLeafId": [
+            "M10255",
+            "M7637",
+            "M10259",
+            "M8035",
+            "M6407"
+      ],
+      "ConditionBrowseLeafName": [
+            "Liver Cirrhosis",
+            "Fibrosis",
+            "Liver Diseases",
+            "Gastrointestinal Diseases",
+            "Digestive System Diseases"
+      ],
+      "ConditionBrowseLeafRelevance": [
+            "high",
+            "high",
+            "low",
+            "low",
+            "low"
+      ],
+      "ConditionMeshId": [
+            "D000008103",
+            "D000005355"
+      ],
+      "ConditionMeshTerm": [
+            "Liver Cirrhosis",
+            "Fibrosis"
+      ],
+      "DelayedPosting": [],
+      "DesignAllocation": [
+            "Non-Randomized"
+      ],
+      "DesignInterventionModel": [
+            "Parallel Assignment"
+      ],
+      "DesignInterventionModelDescription": [
+            "Patients with decompensated liver cirrhosis are going to be assigned to receive standard medical care plus UC-MSC treatment with two different protocol (group 1 and group 2) or standard medical care (control). Four times of MSC infusion (1.5x10E6 cells/kg body weight) via peripheral vein will be given to the group 1\uff08once every 4 days), and two times of MSC infusion once every 7 days to group 2."
+      ],
+      "DesignMasking": [
+            "None (Open Label)"
+      ],
+      "DesignMaskingDescription": [],
+      "DesignObservationalModel": [],
+      "DesignPrimaryPurpose": [
+            "Treatment"
+      ],
+      "DesignTimePerspective": [],
+      "DesignWhoMasked": [],
+      "DetailedDescription": [
+            "This study is a multicenter non randomized control study. Patients with decompensated liver cirrhosis are going to be assigned to receive standard medical care plus UC-MSC treatment with two different protocol (group 1 and group 2) or standard medical care (control). Four times of MSC infusion (1.5x10E6 cells/kg body weight) via peripheral vein will be given to the group 1\uff08once every 4 days), and two times of MSC infusion once every 7 days to the group 2. The primary outcome is survival rates in one year. Secondary outcomes are liver function, liver ascites and MELD score."
+      ],
+      "DispFirstPostDate": [],
+      "DispFirstPostDateType": [],
+      "DispFirstSubmitDate": [],
+      "DispFirstSubmitQCDate": [],
+      "EligibilityCriteria": [
+            "Inclusion Criteria:\n\nClinically diagnosed as decompensated liver cirrhosis.\nHepatitis B/C Liver Cirrhosis After Viral Treatment, HBV/HCV Viral Loads Below Detection Level over six mouths, and the liver function remained below Child-pugh A grade or MELD score >10.\nOther causes of cirrhosis, liver function compensatory incomplete.\nIn the past year, despite active medical treatment taken, the condition has continued to increase, at least because of cirrhosis complications such as ascites, spontaneous peritonitis, gastrointestinal bleeding, and hepatic encephalopathy in hospital over one time.\nNeed to intermittently supplement albumin and apply diuretic therapy.\nAlbumin <35 g/L, total bilirubin <170 umol/L, prothrombin activity> 30%; (Prothrombin time <20 s, moderate or lower mass ascites, spontaneous peritonitis and hepatic encephalopathy (grade II or lower), Child-pugh score> 5 points).\nThere was no history of gastrointestinal hemorrhage within the last month and population with no high-risk portal hypertension and gastrointestinal bleeding was evaluated recently.\nUnconditional acceptance of orthotopic liver transplantation.\nAged from 18 to 65 years.\nVoluntarily signed informed consent form.\n\nExclusion Criteria:\n\nA malignant tumor with liver or other organs or a history of previous cancer.\nComplications include gastrointestinal bleeding, spontaneous peritonitis, hepatic encephalopathy, hepatorenal syndrome, and Acute infection episodes.\nPatients with severe heart, lung, kidney or blood system diseases and failure status.\nPregnant or lactating women.\nAllergic constitution.\nThere is a history of alcohol abuse, drug abuse, and failure to effectively quit. 7. Patients did not participate in other clinical trials within 4 weeks.\n\n8. Any condition, investigator believe that patients should not participate in this study."
+      ],
+      "EnrollmentCount": [
+            "252"
+      ],
+      "EnrollmentType": [
+            "Anticipated"
+      ],
+      "EventGroupDeathsNumAffected": [],
+      "EventGroupDeathsNumAtRisk": [],
+      "EventGroupDescription": [],
+      "EventGroupId": [],
+      "EventGroupOtherNumAffected": [],
+      "EventGroupOtherNumAtRisk": [],
+      "EventGroupSeriousNumAffected": [],
+      "EventGroupSeriousNumAtRisk": [],
+      "EventGroupTitle": [],
+      "EventsDescription": [],
+      "EventsFrequencyThreshold": [],
+      "EventsTimeFrame": [],
+      "ExpAccTypeIndividual": [],
+      "ExpAccTypeIntermediate": [],
+      "ExpAccTypeTreatment": [],
+      "ExpandedAccessNCTId": [],
+      "ExpandedAccessStatusForNCTId": [],
+      "FDAAA801Violation": [],
+      "FlowAchievementComment": [],
+      "FlowAchievementGroupId": [],
+      "FlowAchievementNumSubjects": [],
+      "FlowAchievementNumUnits": [],
+      "FlowDropWithdrawComment": [],
+      "FlowDropWithdrawType": [],
+      "FlowGroupDescription": [],
+      "FlowGroupId": [],
+      "FlowGroupTitle": [],
+      "FlowMilestoneComment": [],
+      "FlowMilestoneType": [],
+      "FlowPeriodTitle": [],
+      "FlowPreAssignmentDetails": [],
+      "FlowReasonComment": [],
+      "FlowReasonGroupId": [],
+      "FlowReasonNumSubjects": [],
+      "FlowReasonNumUnits": [],
+      "FlowRecruitmentDetails": [],
+      "FlowTypeUnitsAnalyzed": [],
+      "Gender": [
+            "All"
+      ],
+      "GenderBased": [],
+      "GenderDescription": [],
+      "HasExpandedAccess": [
+            "No"
+      ],
+      "HealthyVolunteers": [
+            "No"
+      ],
+      "IPDSharing": [],
+      "IPDSharingAccessCriteria": [],
+      "IPDSharingDescription": [],
+      "IPDSharingInfoType": [],
+      "IPDSharingTimeFrame": [],
+      "IPDSharingURL": [],
+      "InterventionAncestorId": [],
+      "InterventionAncestorTerm": [],
+      "InterventionArmGroupLabel": [
+            "Control group",
+            "MSC group 1",
+            "MSC group 2"
+      ],
+      "InterventionBrowseBranchAbbrev": [
+            "Hemat",
+            "All"
+      ],
+      "InterventionBrowseBranchName": [
+            "Hematinics",
+            "All Drugs and Chemicals"
+      ],
+      "InterventionBrowseLeafAsFound": [],
+      "InterventionBrowseLeafId": [
+            "M10262"
+      ],
+      "InterventionBrowseLeafName": [
+            "Liver Extracts"
+      ],
+      "InterventionBrowseLeafRelevance": [
+            "low"
+      ],
+      "InterventionDescription": [
+            "Human umbilical cord mesenchymal stem cells have driven from Wharton's jelly and cultured with serum-free medium in Shandong Cell and tissue bank. All of the cells in this study within three passages. Before transfusion, the mesenchymal stem cells were subjected to quality control. The UC-MSC were stained with anti-CD90-FITC, Anti-CD44-FITC, Anti-CD34-FITC and anti-45-FITC."
+      ],
+      "InterventionMeshId": [],
+      "InterventionMeshTerm": [],
+      "InterventionName": [
+            "UC-MSC"
+      ],
+      "InterventionOtherName": [
+            "Human umbilical cord mesenchymal stem cells"
+      ],
+      "InterventionType": [
+            "Biological"
+      ],
+      "IsFDARegulatedDevice": [
+            "No"
+      ],
+      "IsFDARegulatedDrug": [
+            "No"
+      ],
+      "IsPPSD": [],
+      "IsUSExport": [],
+      "IsUnapprovedDevice": [],
+      "Keyword": [
+            "Mesenchymal Stem Cell",
+            "MSC"
+      ],
+      "LargeDocDate": [],
+      "LargeDocFilename": [],
+      "LargeDocHasICF": [],
+      "LargeDocHasProtocol": [],
+      "LargeDocHasSAP": [],
+      "LargeDocLabel": [],
+      "LargeDocTypeAbbrev": [],
+      "LargeDocUploadDate": [],
+      "LastKnownStatus": [
+            "Not yet recruiting"
+      ],
+      "LastUpdatePostDate": [
+            "May 18, 2018"
+      ],
+      "LastUpdatePostDateType": [
+            "Actual"
+      ],
+      "LastUpdateSubmitDate": [
+            "May 7, 2018"
+      ],
+      "LeadSponsorClass": [
+            "INDUSTRY"
+      ],
+      "LeadSponsorName": [
+            "Shandong Qilu Stem Cells Engineering Co., Ltd."
+      ],
+      "LimitationsAndCaveatsDescription": [],
+      "LocationCity": [],
+      "LocationContactEMail": [],
+      "LocationContactName": [],
+      "LocationContactPhone": [],
+      "LocationContactPhoneExt": [],
+      "LocationContactRole": [],
+      "LocationCountry": [],
+      "LocationFacility": [],
+      "LocationState": [],
+      "LocationStatus": [],
+      "LocationZip": [],
+      "MaximumAge": [
+            "65 Years"
+      ],
+      "MinimumAge": [
+            "18 Years"
+      ],
+      "NCTIdAlias": [],
+      "OfficialTitle": [
+            "A Prospective Multicenter Clinical Study to Evaluate The Safety and Efficiency of Human Umbilical Cord Mesenchymal Stem Cell Transfusion in Patients With Decompensated Liver Cirrhosis."
+      ],
+      "OrgClass": [
+            "INDUSTRY"
+      ],
+      "OrgFullName": [
+            "Shandong Qilu Stem Cells Engineering Co., Ltd."
+      ],
+      "OrgStudyId": [
+            "CTR1800015304"
+      ],
+      "OrgStudyIdDomain": [],
+      "OrgStudyIdLink": [],
+      "OrgStudyIdType": [],
+      "OtherEventAssessmentType": [],
+      "OtherEventNotes": [],
+      "OtherEventOrganSystem": [],
+      "OtherEventSourceVocabulary": [],
+      "OtherEventStatsGroupId": [],
+      "OtherEventStatsNumAffected": [],
+      "OtherEventStatsNumAtRisk": [],
+      "OtherEventStatsNumEvents": [],
+      "OtherEventTerm": [],
+      "OtherOutcomeDescription": [],
+      "OtherOutcomeMeasure": [],
+      "OtherOutcomeTimeFrame": [],
+      "OutcomeAnalysisCILowerLimit": [],
+      "OutcomeAnalysisCILowerLimitComment": [],
+      "OutcomeAnalysisCINumSides": [],
+      "OutcomeAnalysisCIPctValue": [],
+      "OutcomeAnalysisCIUpperLimit": [],
+      "OutcomeAnalysisCIUpperLimitComment": [],
+      "OutcomeAnalysisDispersionType": [],
+      "OutcomeAnalysisDispersionValue": [],
+      "OutcomeAnalysisEstimateComment": [],
+      "OutcomeAnalysisGroupDescription": [],
+      "OutcomeAnalysisGroupId": [],
+      "OutcomeAnalysisNonInferiorityComment": [],
+      "OutcomeAnalysisNonInferiorityType": [],
+      "OutcomeAnalysisOtherAnalysisDescription": [],
+      "OutcomeAnalysisPValue": [],
+      "OutcomeAnalysisPValueComment": [],
+      "OutcomeAnalysisParamType": [],
+      "OutcomeAnalysisParamValue": [],
+      "OutcomeAnalysisStatisticalComment": [],
+      "OutcomeAnalysisStatisticalMethod": [],
+      "OutcomeAnalysisTestedNonInferiority": [],
+      "OutcomeCategoryTitle": [],
+      "OutcomeClassDenomCountGroupId": [],
+      "OutcomeClassDenomCountValue": [],
+      "OutcomeClassDenomUnits": [],
+      "OutcomeClassTitle": [],
+      "OutcomeDenomCountGroupId": [],
+      "OutcomeDenomCountValue": [],
+      "OutcomeDenomUnits": [],
+      "OutcomeGroupDescription": [],
+      "OutcomeGroupId": [],
+      "OutcomeGroupTitle": [],
+      "OutcomeMeasureAnticipatedPostingDate": [],
+      "OutcomeMeasureCalculatePct": [],
+      "OutcomeMeasureDenomUnitsSelected": [],
+      "OutcomeMeasureDescription": [],
+      "OutcomeMeasureDispersionType": [],
+      "OutcomeMeasureParamType": [],
+      "OutcomeMeasurePopulationDescription": [],
+      "OutcomeMeasureReportingStatus": [],
+      "OutcomeMeasureTimeFrame": [],
+      "OutcomeMeasureTitle": [],
+      "OutcomeMeasureType": [],
+      "OutcomeMeasureTypeUnitsAnalyzed": [],
+      "OutcomeMeasureUnitOfMeasure": [],
+      "OutcomeMeasurementComment": [],
+      "OutcomeMeasurementGroupId": [],
+      "OutcomeMeasurementLowerLimit": [],
+      "OutcomeMeasurementSpread": [],
+      "OutcomeMeasurementUpperLimit": [],
+      "OutcomeMeasurementValue": [],
+      "OverallOfficialAffiliation": [
+            "Jinan Hospital for Infectious Diseases"
+      ],
+      "OverallOfficialName": [
+            "Jingbo Wang"
+      ],
+      "OverallOfficialRole": [
+            "Principal Investigator"
+      ],
+      "OverallStatus": [
+            "Unknown status"
+      ],
+      "OversightHasDMC": [
+            "Yes"
+      ],
+      "PatientRegistry": [],
+      "Phase": [
+            "Phase 2"
+      ],
+      "PointOfContactEMail": [],
+      "PointOfContactOrganization": [],
+      "PointOfContactPhone": [],
+      "PointOfContactPhoneExt": [],
+      "PointOfContactTitle": [],
+      "PrimaryCompletionDate": [
+            "December 31, 2019"
+      ],
+      "PrimaryCompletionDateType": [
+            "Anticipated"
+      ],
+      "PrimaryOutcomeDescription": [
+            "The overall survival ratio of three groups will be detection after infusion in one year."
+      ],
+      "PrimaryOutcomeMeasure": [
+            "overall survival"
+      ],
+      "PrimaryOutcomeTimeFrame": [
+            "one year"
+      ],
+      "ReferenceCitation": [],
+      "ReferencePMID": [],
+      "ReferenceType": [],
+      "RemovedCountry": [],
+      "ResponsiblePartyInvestigatorAffiliation": [],
+      "ResponsiblePartyInvestigatorFullName": [],
+      "ResponsiblePartyInvestigatorTitle": [],
+      "ResponsiblePartyOldNameTitle": [],
+      "ResponsiblePartyOldOrganization": [],
+      "ResponsiblePartyType": [
+            "Sponsor"
+      ],
+      "ResultsFirstPostDate": [],
+      "ResultsFirstPostDateType": [],
+      "ResultsFirstPostedQCCommentsDate": [],
+      "ResultsFirstPostedQCCommentsDateType": [],
+      "ResultsFirstSubmitDate": [],
+      "ResultsFirstSubmitQCDate": [],
+      "RetractionPMID": [],
+      "RetractionSource": [],
+      "SamplingMethod": [],
+      "SecondaryId": [],
+      "SecondaryIdDomain": [],
+      "SecondaryIdLink": [],
+      "SecondaryIdType": [],
+      "SecondaryOutcomeDescription": [],
+      "SecondaryOutcomeMeasure": [],
+      "SecondaryOutcomeTimeFrame": [],
+      "SeeAlsoLinkLabel": [],
+      "SeeAlsoLinkURL": [],
+      "SeriousEventAssessmentType": [],
+      "SeriousEventNotes": [],
+      "SeriousEventOrganSystem": [],
+      "SeriousEventSourceVocabulary": [],
+      "SeriousEventStatsGroupId": [],
+      "SeriousEventStatsNumAffected": [],
+      "SeriousEventStatsNumAtRisk": [],
+      "SeriousEventStatsNumEvents": [],
+      "SeriousEventTerm": [],
+      "StartDate": [
+            "June 1, 2018"
+      ],
+      "StartDateType": [
+            "Anticipated"
+      ],
+      "StatusVerifiedDate": [
+            "March 2018"
+      ],
+      "StdAge": [
+            "Adult",
+            "Older Adult"
+      ],
+      "StudyFirstPostDate": [
+            "May 18, 2018"
+      ],
+      "StudyFirstPostDateType": [
+            "Actual"
+      ],
+      "StudyFirstSubmitDate": [
+            "May 6, 2018"
+      ],
+      "StudyFirstSubmitQCDate": [
+            "May 7, 2018"
+      ],
+      "StudyPopulation": [],
+      "StudyType": [
+            "Interventional"
+      ],
+      "SubmissionMCPReleaseN": [],
+      "SubmissionReleaseDate": [],
+      "SubmissionResetDate": [],
+      "SubmissionUnreleaseDate": [],
+      "TargetDuration": [],
+      "UnpostedEventDate": [],
+      "UnpostedEventType": [],
+      "UnpostedResponsibleParty": [],
+      "VersionHolder": [
+            "October 10, 2022"
+      ],
+      "WhyStopped": []
+}

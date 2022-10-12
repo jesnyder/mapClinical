@@ -1,0 +1,89 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04695522",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "Ischemic cardiomyopathy undergoing coronary artery bypass surgery"
+                        ],
+                        "BriefTitle": [
+                              "ADR-002K for Patients With Ischemic Cardiomyopathy Who Undergo Coronary Artery Bypass Surgery"
+                        ],
+                        "CentralContactEMail": [
+                              "daimolion@gmail.com",
+                              "sasai-masao@tissue.med.osaka-u.ac.jp"
+                        ],
+                        "CentralContactName": [
+                              "Daisuke Mori, Ph.D",
+                              "Masao Sasai, Ph.D"
+                        ],
+                        "CentralContactPhone": [
+                              "+81-6-6879-3154",
+                              "+81-6-6879-3154"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "INDUSTRY"
+                        ],
+                        "CollaboratorName": [
+                              "Rohto Pharmaceutical Co., Ltd."
+                        ],
+                        "CompletionDate": [
+                              "October 31, 2021"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "D017202"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000006331",
+                              "D000002318"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Heart Diseases",
+                              "Cardiovascular Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC14",
+                              "All",
+                              "BC23"
+                        ],
+                        "NCTId": [
+                              "NCT04695522"
+                        ]
+                  }
+            ]
+      }
+}

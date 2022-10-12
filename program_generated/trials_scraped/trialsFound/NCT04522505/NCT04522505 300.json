@@ -1,0 +1,70 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04522505",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluate disease activity of 9 organ systems and display it as a score. The score is weighted from 1 to 8 at each system, if descriptor is present at the time of visit or in the proceeding 10 days.\n\nChange in SLEDAI>3 points means mild or moderate flare\nChange in SLEDAI>12 points means severe flare",
+                              "The change in disease activity in the last 4 weeks compared to the previous 4 weeks is evaluated as score.",
+                              "Only if the damage due to the disease lasted for at least 6 months is evaluated on a scale 0-47.",
+                              "Investigator evaluated disease activity in mm using 0 to 100mm visual analogue scale (VAS). High score indicates worsening of the disease."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "SLEDAI-2K (Systemic Lupus Erythematosus Disease Activity Index-2000)",
+                              "BILAG 2004 (British Isles Lupus Assessment Group 2004)",
+                              "SDI (Systemic Lupus International Collaborating Clinics/Americans College of Rheumatology (SLICC/ACR) Damage Index",
+                              "Disease activity assessed by PGA (Physician Global Assessment)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "up to 57 months after enrollment",
+                              "up to 57 months after enrollment",
+                              "up to 57 months after enrollment",
+                              "up to 57 months after enrollment"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04522505"
+                        ]
+                  }
+            ]
+      }
+}

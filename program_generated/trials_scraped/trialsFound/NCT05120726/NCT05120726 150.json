@@ -1,0 +1,86 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT05120726",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Treatment Arm"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3369",
+                              "M11052",
+                              "M17833"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anti-Inflammatory Agents",
+                              "Mitogens",
+                              "Endothelial Growth Factors"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Dehydrated human amnion/chorion membrane (dHACM) has been commercially available for nearly 15 years. dHACM has been shown to elute growth factors including platelet-derived growth factors, fibroblast growth factors (PDGF), fibroblast growth factors (FGF), transforming growth factor beta 1 (TGF-\u03b21), epidermal growth factor (EGF), vascular endothelial growth factor (VEGF), and placental growth factor (PlGF). Additionally, dHACM exerts immunomodulatory effects by releasing anti-inflammatory interleukins and factors which help regulate the matrix metalloproteinase (MMP) activity. Furthermore, dHACM has also been shown to stimulate mesenchymal stem cell migration and recruitment. dHACM is routinely utilized in the management of chronic wounds including diabetic ulcer and venous ulcers."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Dehydrated human amnion/chorion membrane"
+                        ],
+                        "InterventionOtherName": [
+                              "EpiFix",
+                              "dHACM"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05120726"
+                        ]
+                  }
+            ]
+      }
+}

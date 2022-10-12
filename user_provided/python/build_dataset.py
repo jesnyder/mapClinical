@@ -50,57 +50,149 @@ def query_trials():
     time_begin = datetime.datetime.today()
     print('begin query_trials ' + str(time_begin))
 
+    for term in list(retrieve_df('search_terms')['terms']):
+        search_term = str(term)
+        clinicaltrials_query(search_term)
+
+    for term in list(retrieve_df('allo_terms')['term']):
+        search_term = str('mesenchymal ' + str(term))
+        clinicaltrials_query(search_term)
+
+    for term in list(retrieve_df('auto_terms')['term']):
+        search_term = str('mesenchymal ' + str(term))
+        clinicaltrials_query(search_term)
+
+
+def clinicaltrials_query(term):
+    """
+    provide search term
+    return query results
+    """
 
     field_terms = list(retrieve_json('search_fields')['StudyFields']['Fields'])
     fields =  field_terms
 
-    for term in list(retrieve_df('search_terms')['terms']):
+    print('term = ' + term)
 
-        print('term = ' + term)
-
-        max_len = 15
-        i = max_len
-        while i < len(fields):
+    max_len = 15
+    i = max_len
+    while i < len(fields) + max_len:
 
 
-            filename =  term  + ' ' + str(i).zfill(3) + '.json'
-            fol_dst = os.path.join(retrieve_path('trials_found'), term)
-            # create the folder, if it doesnt exist
-            if os.path.exists(fol_dst) == False: os.mkdir(fol_dst)
-            if filename in os.listdir(fol_dst):
-                i = i + max_len
-                continue
-
-            field_trun = fields[i-max_len:i]
-
-            if 'NCTId' not in field_trun:
-                field_trun.append('NCTId')
-
-            ct = ClinicalTrials()
-
-            search_expression = term.replace(' ', '+')
-
-            #results = ct.get_full_studies(search_expr=search_expression)
-
-            # Get the NCTId, Condition and Brief title fields from 500 studies related to Coronavirus and Covid, in csv format.
-            results = ct.get_study_fields(
-                search_expr=search_expression,
-                fields=field_trun,
-                max_studies=1000,
-                fmt="json",
-            )
-
-            count = results['StudyFieldsResponse']['NStudiesReturned']
-            print('count = ' + str(count))
-
-            filename =  term  + ' ' + str(i).zfill(3) + '.json'
-            fol_dst = os.path.join(retrieve_path('trials_found'), term)
-            # create the folder, if it doesnt exist
-            if os.path.exists(fol_dst) == False: os.mkdir(fol_dst)
-            fil_dst = os.path.join(fol_dst, filename)
-            save_json(results, fil_dst )
-
+        filename =  term  + ' ' + str(i).zfill(3) + '.json'
+        fol_dst = os.path.join(retrieve_path('trials_found'), term)
+        # create the folder, if it doesnt exist
+        if os.path.exists(fol_dst) == False: os.mkdir(fol_dst)
+        if filename in os.listdir(fol_dst):
             i = i + max_len
+            continue
+
+        try:
+            field_trun = fields[i-max_len:i]
+        except:
+            continue
+
+        if 'NCTId' not in field_trun:
+            field_trun.append('NCTId')
+
+        ct = ClinicalTrials()
+
+        search_expression = term.replace(' ', '+')
+
+        #results = ct.get_full_studies(search_expr=search_expression)
+        # Get the NCTId, Condition and Brief title fields from 500 studies related to Coronavirus and Covid, in csv format.
+        results = ct.get_study_fields(
+            search_expr=search_expression,
+            fields=field_trun,
+            max_studies=1000,
+            fmt="json",
+        )
+
+        count = results['StudyFieldsResponse']['NStudiesReturned']
+        print('count = ' + str(count))
+
+        filename =  term  + ' ' + str(i).zfill(3) + '.json'
+        fol_dst = os.path.join(retrieve_path('trials_found'), term)
+        # create the folder, if it doesnt exist
+        if os.path.exists(fol_dst) == False: os.mkdir(fol_dst)
+        fil_dst = os.path.join(fol_dst, filename)
+        #print('fil_dst = ' + str(fil_dst))
+        save_json(results, fil_dst )
+
+        i = i + max_len
+
+
+def clinicaltrials_nctid_query(term):
+    """
+    provide search term
+    return query results
+    """
+
+    print('term = ' + term)
+
+    # create the folder, if it doesnt exist
+    fol_dst = os.path.join(retrieve_path('trials_json_id'))
+    if os.path.exists(fol_dst) == False: os.mkdir(fol_dst)
+    filename =  term  + '.json'
+    fil_dst = os.path.join(fol_dst, filename)
+
+    fields = list(retrieve_json('search_fields')['StudyFields']['Fields'])
+
+    try:
+        json = retrieve_json(fil_dst)
+        if 'WhyStopped' in json.keys():
+            return()
+    except:
+        trial_dict = {}
+
+    trial_dict = {}
+
+    max_len = 15
+    i = max_len
+    while i < len(fields) + max_len:
+
+        field_trun = fields[i-max_len:i]
+
+        if 'NCTId' not in field_trun:
+            field_trun.append('NCTId')
+
+        search_expression = term.replace(' ', '+')
+
+        #results = ct.get_full_studies(search_expr=search_expression)
+        # Get the NCTId, Condition and Brief title fields from 500 studies related to Coronavirus and Covid, in csv format.
+        ct = ClinicalTrials()
+        results = ct.get_study_fields(
+            search_expr=search_expression,
+            fields=field_trun,
+            max_studies=1000,
+            fmt="json",
+        )
+
+        count = results['StudyFieldsResponse']['NStudiesReturned']
+        print('count = ' + str(count))
+
+        #print(results)
+        #assert count == 1
+
+        for trial in results['StudyFieldsResponse']['StudyFields'][:1]:
+
+            assert 'NCTId' in trial.keys()
+
+            trialID = str(trial['NCTId'][0])
+            filename =  trialID  + '.json'
+            fil_dst = os.path.join(fol_dst, filename)
+
+            for key in trial.keys():
+
+                if key in trial_dict.keys():
+                    continue
+
+                trial_dict[key] = trial[key]
+
+            print('fil_dst = ' + str(fil_dst))
+            save_json(trial_dict, fil_dst )
+
+        i = i + max_len
 
 
 def list_NCTId():
@@ -148,54 +240,89 @@ def list_NCTId():
 
 def coregister_fields():
     """
-
+    combine all json scraped in query
     """
-
-    trials = []
 
     nctids = list(retrieve_df('nctids')['nctids'])
 
     for nctid in nctids:
 
+        try:
+            aggregate_scraped_nctid(nctid)
+        except:
+            clinicaltrials_nctid_query(nctid)
+
+        jsons = []
+
+    for fil in os.listdir(retrieve_path('trials_json_id')):
+
+        fil_src = os.path.join(retrieve_path('trials_json_id'), fil)
+
+        jsons.append(retrieve_json(fil_src))
+        json_dict = {}
+        json_dict['trial count'] = len(jsons)
+        json_dict['trials'] = jsons
+        print('len(jsons) = ' + str(len(jsons)))
+        save_json(json_dict, 'scraped_trials')
+
+
+def aggregate_scraped_nctid(nctid):
+    """
+    search scraped clinicaltrials info to build json for the trial
+    """
+
+    fol_dst = os.path.join(retrieve_path('trials_json_id'))
+    filename =  nctid  + '.json'
+    fil_dst = os.path.join(fol_dst, filename)
+    try:
+        test = retrieve_json(fil_dst)
+        if 'WhyStopped' in test.keys(): return()
+    except:
+        print(fil_dst)
+
+
+    # list folders found in search
+    for fol in os.listdir(retrieve_path('trials_found')):
+
+        fol_src = os.path.join(retrieve_path('trials_found'), fol)
+        fil = os.listdir(fol_src)[0]
+        fil_src = os.path.join(fol_src, fil)
+        if fil_search(nctid, fil_src) == {}: continue
+
         trial_dict = {}
-        trial_dict['nctid'] = nctid
-        print(nctid)
+        for fil in os.listdir(fol_src):
 
-        src = retrieve_path('trials_found')
-        for fol in os.listdir(src):
+            fil_src = os.path.join(fol_src, fil)
+            trial = fil_search(nctid, fil_src)
 
-            fol_src = os.path.join(src, fol)
-            #print(fol_src)
+            if fil_search(nctid, fil_src) == {}: continue
 
-            for fil in os.listdir(fol_src):
-                fil_src = os.path.join(fol_src, fil)
-                #print(fil_src)
+            for key in trial.keys():
+                trial_dict[key] = trial[key]
 
-                results = retrieve_json(fil_src)
+        # save json
+        save_json(trial_dict, fil_dst)
+        return()
 
-                if 'StudyFieldsResponse' not in results.keys():
-                    continue
 
-                if 'StudyFields' not in results['StudyFieldsResponse'].keys():
-                    continue
+def fil_search(nctid, fil_src):
+    """
+    return the contents of the file
+    """
 
-                for record in results['StudyFieldsResponse']['StudyFields']:
+    trials = retrieve_json(fil_src)
 
-                    num = str(record['NCTId'][0])
+    if 'StudyFieldsResponse' not in trials.keys():
+        return({})
 
-                    if num != nctid: continue
+    if 'StudyFields' not in trials['StudyFieldsResponse'].keys():
+        return({})
 
-                    for key in record.keys():
+    for trial in trials['StudyFieldsResponse']['StudyFields']:
 
-                        if key in trial_dict.keys(): continue
+        if nctid in trial['NCTId']: return(trial)
 
-                        trial_dict[key] = record[key]
-
-        trials.append(trial_dict)
-        trials_dict = {}
-        trials_dict['count'] = len(trials)
-        trials_dict['trials'] = trials
-        save_json(trials_dict, 'scraped_trials')
+    return({})
 
 
 def format_data():
@@ -210,14 +337,13 @@ def format_data():
     trials = retrieve_json('scraped_trials')
     for trial in trials['trials']:
 
-
         df = pd.DataFrame()
-        df['NCT Number'] = [str(trial['nctid'])]
+        df['NCT Number'] = [str(trial['NCTId'][0])]
 
-        if 'NCT03339973' in str(trial['nctid']): continue
-        if 'NCT05165628' in str(trial['nctid']): continue
+        if 'NCT03339973' in str(trial['NCTId'][0]): continue
+        if 'NCT05165628' in str(trial['NCTId'][0]): continue
 
-        url = str('https://ClinicalTrials.gov/show/') + str(trial['nctid'])
+        url = str('https://ClinicalTrials.gov/show/') + str(trial['NCTId'][0])
         #print(url)
 
         try:
@@ -227,7 +353,7 @@ def format_data():
                 df['Title'] = [str(trial['OfficialTitle'][0])]
         except:
 
-            if 'NCT03339973' in str(trial['nctid']):
+            if 'NCT03339973' in str(trial['NCTId'][0]):
                 df['Title'] = ['Allogeneic ABCB5-positive Stem Cells for Treatment of PAOD']
 
 
@@ -250,7 +376,7 @@ def format_data():
 
         df['Age'] = [build_age(trial)]
 
-        df['Phases'] = [' '.join(trial['Phase'])]
+        df['Phases'] = ['|'.join(trial['Phase'])]
 
         df['Enrollment'] = [' '.join(trial['EnrollmentCount'])]
 
@@ -279,7 +405,7 @@ def format_data():
 
         df['Study Documents'] = [str(trial['OrgClass'][0])]
 
-        df['URL'] = [str('https://ClinicalTrials.gov/show/') + str(trial['nctid'])]
+        df['URL'] = [str('https://ClinicalTrials.gov/show/') + str(trial['NCTId'][0])]
 
         df['desc'] = [ build_desc(trial)]
 
@@ -330,7 +456,7 @@ def build_desc(trial):
     desc = ''
     desc = desc + ' ' + ' '.join(trial['BriefTitle'])
     desc = desc + ' ' +  ' '.join(trial['OfficialTitle'])
-    #desc = desc + str(' '.join(trial['BriefSummary']))
+    desc = desc + str(' '.join(trial['BriefSummary']))
     desc = desc + ' ' +   list_intervention(trial)
     #desc = str(desc + ' ' +  build_outcome(trial))
     desc = desc.lower()

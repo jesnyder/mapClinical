@@ -1,0 +1,85 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT01920867",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [
+                              "SCOTS"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Injections of BMSC retrobulbar (RB), subtenon (ST) and intravenous (IV)",
+                              "Injections of BMSC retrobulbar, subtenon, intravenous and intravitreal ( IVIT )",
+                              "Injection of BMSC retrobulbar, subtenon, intravenous and intraocular (IO) with vitrectomy"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Procedure: RB (Retrobulbar)",
+                              "Procedure: ST (Subtenon)",
+                              "Procedure: IV (Intravenous)",
+                              "Procedure: RB (Retrobulbar)",
+                              "Procedure: ST (Subtenon)",
+                              "Procedure: IV (Intravenous)",
+                              "Procedure: IVIT (Intravitreal)",
+                              "Procedure: RB (Retrobulbar)",
+                              "Procedure: ST (Subtenon)",
+                              "Procedure: IV (Intravenous)",
+                              "Procedure: IO (Intraocular)"
+                        ],
+                        "ArmGroupLabel": [
+                              "RB, ST, IV",
+                              "RB, ST, IV, IVIT",
+                              "RB, ST, IV, IO"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Active Comparator",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [
+                              "http://mdstemcells.com/scots-ii/"
+                        ],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [
+                              "Clinical Study Report"
+                        ],
+                        "AvailIPDURL": [
+                              "http://mdstemcells.com/scots-ii/"
+                        ],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01920867"
+                        ]
+                  }
+            ]
+      }
+}

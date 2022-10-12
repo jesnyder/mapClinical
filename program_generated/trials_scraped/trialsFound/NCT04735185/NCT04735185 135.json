@@ -1,0 +1,82 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04735185",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "FlowRecruitmentDetails",
+                  "FlowTypeUnitsAnalyzed",
+                  "Gender",
+                  "GenderBased",
+                  "GenderDescription",
+                  "HasExpandedAccess",
+                  "HealthyVolunteers",
+                  "IPDSharing",
+                  "IPDSharingAccessCriteria",
+                  "IPDSharingDescription",
+                  "IPDSharingInfoType",
+                  "IPDSharingTimeFrame",
+                  "IPDSharingURL",
+                  "InterventionAncestorId",
+                  "InterventionAncestorTerm",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "FlowRecruitmentDetails": [],
+                        "FlowTypeUnitsAnalyzed": [],
+                        "Gender": [
+                              "All"
+                        ],
+                        "GenderBased": [],
+                        "GenderDescription": [],
+                        "HasExpandedAccess": [
+                              "No"
+                        ],
+                        "HealthyVolunteers": [
+                              "No"
+                        ],
+                        "IPDSharing": [
+                              "Yes"
+                        ],
+                        "IPDSharingAccessCriteria": [
+                              "Per approval by the funding organization (U.S. Department of Defense)"
+                        ],
+                        "IPDSharingDescription": [
+                              "Will be available upon request per approval of the U.S. Department of Defense (DoD)."
+                        ],
+                        "IPDSharingInfoType": [
+                              "Study Protocol",
+                              "Statistical Analysis Plan (SAP)",
+                              "Informed Consent Form (ICF)",
+                              "Analytic Code"
+                        ],
+                        "IPDSharingTimeFrame": [
+                              "For up to 3 years"
+                        ],
+                        "IPDSharingURL": [],
+                        "InterventionAncestorId": [
+                              "D000002492",
+                              "D000045505",
+                              "D000018689",
+                              "D000018373"
+                        ],
+                        "InterventionAncestorTerm": [
+                              "Central Nervous System Depressants",
+                              "Physiological Effects of Drugs",
+                              "Sensory System Agents",
+                              "Peripheral Nervous System Agents"
+                        ],
+                        "NCTId": [
+                              "NCT04735185"
+                        ]
+                  }
+            ]
+      }
+}

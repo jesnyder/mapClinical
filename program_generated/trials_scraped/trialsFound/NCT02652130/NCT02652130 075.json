@@ -1,0 +1,88 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02652130",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Immune System Diseases",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Graft Versus Host Disease",
+                              "Graft Versus Host Disease",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8341",
+                              "M9352",
+                              "T2832",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Graft vs Host Disease",
+                              "Immune System Diseases",
+                              "Homologous Wasting Disease",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006086"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Graft vs Host Disease"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Other"
+                        ],
+                        "NCTId": [
+                              "NCT02652130"
+                        ]
+                  }
+            ]
+      }
+}

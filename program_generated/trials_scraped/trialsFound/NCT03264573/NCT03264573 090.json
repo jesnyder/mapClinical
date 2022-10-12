@@ -1,0 +1,61 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03264573",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "Forty patients with atrophic scar since one to five years including 25 males and 15 females with ages ranging from ten to 35 years with main age of 22.68 will be divided into four groups each included ten patients. One group will be treated with scar revision only (control group or group I), 2nd group will be injected with PRP after scar revision, 3rd group will be injected with ADSCs after scar revision and the 4th group will be injected with a combination of PRP and ADSCs after scar revision. All groups were assisted pre-operative and six months post-operative. Complications, Scar width, Vancouver scar scale (VSS), surgeon assessment scar scale and patient assessment scar scale will be considered the outcome measurements."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nPatient with atrophic scar.\nAge group: 5 years up to 35 years.\nNo previous medications, surgeries or laser therapy.\n\nExclusion Criteria:\n\nPatient with hypertrophic or pigmented scar.\nPatient with any blood disease.\nPatients with lipodystrophy."
+                        ],
+                        "EnrollmentCount": [
+                              "40"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT03264573"
+                        ]
+                  }
+            ]
+      }
+}

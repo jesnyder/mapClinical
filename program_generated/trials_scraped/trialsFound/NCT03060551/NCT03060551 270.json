@@ -1,0 +1,99 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03060551",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Suk-Ho Moon, MD, PhD",
+                              "Seung-Ki Kwok"
+                        ],
+                        "OverallOfficialRole": [
+                              "Study Director",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Early Phase 1"
+                        ],
+                        "PointOfContactEMail": [
+                              "nasuko@catholic.ac.kr"
+                        ],
+                        "PointOfContactOrganization": [
+                              "Department of Plastic Surgery, Seoul St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Seoul, Republic of Korea"
+                        ],
+                        "PointOfContactPhone": [
+                              "821090803527"
+                        ],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [
+                              "Suk-Ho Moon"
+                        ],
+                        "PrimaryCompletionDate": [
+                              "December 30, 2019"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The severity of Raynaud's phenomenon was assessed using the Raynaud's condition scale (ranging 0 to 10, with higher scores representing more severe Raynaud's phenomenon)",
+                              "Hand pain was assessed using the Hand visual analogue scale (ranging 0 to 10, with higher scores representing more severe pain)",
+                              "The Colchin hand function scale (CHFS, ranging 0 to 90, with higher scores representing more deteriorated hand function) scores",
+                              "Kapandji score (ranging 0 to 10) is validated measures in past studies as outcomes for hand disability. The Kapandji score is a tool useful for assessing the opposition of the thumb, based on where on their hand the patient is able to touch with the tip of their thumb. A score of 0 indicates no opposition, a score of 10 indicates maximal opposition.",
+                              "Kapandji score (ranging 0 to 10) is validated measures in past studies as outcomes for hand disability. The Kapandji score is a tool useful for assessing the opposition of the thumb, based on where on their hand the patient is able to touch with the tip of their thumb. A score of 0 indicates no opposition, a score of 10 indicates maximal opposition.",
+                              "Disease-related QOL (quality of life) was measured by EuroQol-5 dimensions time trade-off (EQ-5D TTO, ranging 0 to 1, with higher values representing better QOL) values",
+                              "Disease-related QOL (quality of life) : EuroQol visual analog scale (EQ VAS, ranging 0 to 100, with higher scores representing better QOL)",
+                              "Disease-related QOL (quality of life) : health assessment questionnaire (HAQ, ranging 0 to 3, with higher scores meaning lower QOL)",
+                              "The finger circumferences of the second to the fifth fingers measured in the middle portion of each proximal phalanx were used to assess the degree of hand edema",
+                              "The finger circumferences of the second to the fifth fingers measured in the middle portion of each proximal phalanx were used to assess the degree of hand edema"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Raynaud's Condition Scale",
+                              "Hand Visual Analogue Scale",
+                              "Colchin Hand Function Scale",
+                              "Kapandji Score (Ranging 0 to 10) - Dominant Hand",
+                              "Kapandji Score (Non-dominant Hand)",
+                              "Disease-related QOL (Quality of Life) : EuroQol-5 Dimensions Time Trade-off (EQ-5D TTO)",
+                              "Disease-related QOL (Quality of Life) : EuroQol Visual Analog Scale (EQ VAS)",
+                              "Disease-related QOL (Quality of Life) : Health Assessment Questionnaire (HAQ)",
+                              "The Degree of Hand Edema (Right)",
+                              "The Degree of Hand Edema (Left)"
+                        ],
+                        "NCTId": [
+                              "NCT03060551"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,141 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal patient-derived",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "SeriousEventNotes",
+                  "SeriousEventOrganSystem",
+                  "SeriousEventSourceVocabulary",
+                  "SeriousEventStatsGroupId",
+                  "SeriousEventStatsNumAffected",
+                  "SeriousEventStatsNumAtRisk",
+                  "SeriousEventStatsNumEvents",
+                  "SeriousEventTerm",
+                  "StartDate",
+                  "StartDateType",
+                  "StatusVerifiedDate",
+                  "StdAge",
+                  "StudyFirstPostDate",
+                  "StudyFirstPostDateType",
+                  "StudyFirstSubmitDate",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "SeriousEventNotes": [],
+                        "SeriousEventOrganSystem": [],
+                        "SeriousEventSourceVocabulary": [],
+                        "SeriousEventStatsGroupId": [],
+                        "SeriousEventStatsNumAffected": [],
+                        "SeriousEventStatsNumAtRisk": [],
+                        "SeriousEventStatsNumEvents": [],
+                        "SeriousEventTerm": [],
+                        "StartDate": [
+                              "October 23, 2019"
+                        ],
+                        "StartDateType": [
+                              "Actual"
+                        ],
+                        "StatusVerifiedDate": [
+                              "March 2022"
+                        ],
+                        "StdAge": [
+                              "Adult",
+                              "Older Adult"
+                        ],
+                        "StudyFirstPostDate": [
+                              "February 15, 2019"
+                        ],
+                        "StudyFirstPostDateType": [
+                              "Actual"
+                        ],
+                        "StudyFirstSubmitDate": [
+                              "February 11, 2019"
+                        ],
+                        "NCTId": [
+                              "NCT03840343"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "SeriousEventNotes": [],
+                        "SeriousEventOrganSystem": [],
+                        "SeriousEventSourceVocabulary": [],
+                        "SeriousEventStatsGroupId": [],
+                        "SeriousEventStatsNumAffected": [],
+                        "SeriousEventStatsNumAtRisk": [],
+                        "SeriousEventStatsNumEvents": [],
+                        "SeriousEventTerm": [],
+                        "StartDate": [
+                              "September 28, 2020"
+                        ],
+                        "StartDateType": [
+                              "Actual"
+                        ],
+                        "StatusVerifiedDate": [
+                              "November 2020"
+                        ],
+                        "StdAge": [
+                              "Child",
+                              "Adult",
+                              "Older Adult"
+                        ],
+                        "StudyFirstPostDate": [
+                              "February 27, 2019"
+                        ],
+                        "StudyFirstPostDateType": [
+                              "Actual"
+                        ],
+                        "StudyFirstSubmitDate": [
+                              "February 22, 2019"
+                        ],
+                        "NCTId": [
+                              "NCT03855631"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "SeriousEventNotes": [],
+                        "SeriousEventOrganSystem": [],
+                        "SeriousEventSourceVocabulary": [],
+                        "SeriousEventStatsGroupId": [],
+                        "SeriousEventStatsNumAffected": [],
+                        "SeriousEventStatsNumAtRisk": [],
+                        "SeriousEventStatsNumEvents": [],
+                        "SeriousEventTerm": [],
+                        "StartDate": [
+                              "December 22, 2021"
+                        ],
+                        "StartDateType": [
+                              "Actual"
+                        ],
+                        "StatusVerifiedDate": [
+                              "January 2022"
+                        ],
+                        "StdAge": [
+                              "Adult",
+                              "Older Adult"
+                        ],
+                        "StudyFirstPostDate": [
+                              "January 13, 2022"
+                        ],
+                        "StudyFirstPostDateType": [
+                              "Actual"
+                        ],
+                        "StudyFirstSubmitDate": [
+                              "January 12, 2022"
+                        ],
+                        "NCTId": [
+                              "NCT05191381"
+                        ]
+                  }
+            ]
+      }
+}

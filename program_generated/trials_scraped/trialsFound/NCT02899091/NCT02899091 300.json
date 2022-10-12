@@ -1,0 +1,81 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02899091",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Changes from the baseline in ADAS-Cog (Azheimer's disease Assessment Scale - Congintive Subscale) Score",
+                              "Changes from the baseline in K-MMSE (Korean-Mini Mental Status Examination) Score",
+                              "Changes from the baseline in GDS (Global Deterioration Scale)",
+                              "Changes from the baseline in CDR (Clinical Dementia Rating) Score",
+                              "Changes from the baseline in K-IADL (Korean Instrumental Activities of Daily Living) Score",
+                              "Changes from the baseline in CGA-NPI (Caregiver Administered-Neuropsychiatric Inventory) Score",
+                              "Change in CIBIC (Clinician Interview Based Impression of Change)-plus",
+                              "Changes from the baseline in SF-36",
+                              "Changes in Amyloid Beta and Tau amount (pg/mL) in CSF (Cerebrospinal fluid)",
+                              "Change in Brain MRI (Magnetic Responance imaging)",
+                              "Change from the baseline of CMRglc (cerebral metabolic rate for glucose ) analyzed with SPM (statistical parametric mapping) with Brain FDG PET imaging",
+                              "Changes from the baseline of Amyloid amount analyzed with SPM (statistical parametric mapping) with amyloid PET imaging",
+                              "Changes of band power in qEEG (Quantitative electroencephalography)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "48 weeks",
+                              "48 weeks",
+                              "48 weeks",
+                              "48 weeks",
+                              "48 weeks",
+                              "48 weeks",
+                              "48 weeks",
+                              "48 weeks",
+                              "48 weeks",
+                              "48 weeks",
+                              "48 weeks",
+                              "48 weeks",
+                              "48 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02899091"
+                        ]
+                  }
+            ]
+      }
+}

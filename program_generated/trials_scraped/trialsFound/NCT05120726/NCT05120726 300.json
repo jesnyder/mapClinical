@@ -1,0 +1,66 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT05120726",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Yes/No",
+                              "Scale (0-10) (0 = no pain, 10 = worst pain ever experienced)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Infection",
+                              "Pain Level"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "~6 months (post-op weeks 1, 2, 3, 4, 5, 6, 10, 14, 18, 22; +/- 2 weeks each time in case conflicts arise)",
+                              "~6 months (post-op weeks 1, 2, 3, 4, 5, 6, 10, 14, 18, 22; +/- 2 weeks each time in case conflicts arise)"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "EpiFix Information"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.mimedx.com/products/epifix/"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05120726"
+                        ]
+                  }
+            ]
+      }
+}

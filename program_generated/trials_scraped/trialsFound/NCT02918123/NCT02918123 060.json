@@ -1,0 +1,80 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02918123",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "Phase I clinical trial to evaluate safety of FURESTEM-CD Inj. in patients with moderate to severe in plaque-type psoriasis injection for 4weeks."
+                        ],
+                        "BriefTitle": [
+                              "Safety of FURESTEM-CD Inj. in Patients With Moderate to Severe Plaque-type Psoriasis"
+                        ],
+                        "CentralContactEMail": [
+                              "ejkang@kangstem.com"
+                        ],
+                        "CentralContactName": [
+                              "Eunji Kang"
+                        ],
+                        "CentralContactPhone": [
+                              "82-2-2036-7533"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "December 2021"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Psoriasis"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000017444",
+                              "D000012871"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Skin Diseases, Papulosquamous",
+                              "Skin Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC17",
+                              "All"
+                        ],
+                        "NCTId": [
+                              "NCT02918123"
+                        ]
+                  }
+            ]
+      }
+}

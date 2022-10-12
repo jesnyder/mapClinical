@@ -1,0 +1,82 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01270139",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BaselineClassDenomCountValue",
+                  "BaselineClassDenomUnits",
+                  "BaselineClassTitle",
+                  "BaselineDenomCountGroupId",
+                  "BaselineDenomCountValue",
+                  "BaselineDenomUnits",
+                  "BaselineGroupDescription",
+                  "BaselineGroupId",
+                  "BaselineGroupTitle",
+                  "BaselineMeasureCalculatePct",
+                  "BaselineMeasureDenomCountGroupId",
+                  "BaselineMeasureDenomCountValue",
+                  "BaselineMeasureDenomUnits",
+                  "BaselineMeasureDenomUnitsSelected",
+                  "BaselineMeasureDescription",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BaselineClassDenomCountValue": [],
+                        "BaselineClassDenomUnits": [],
+                        "BaselineClassTitle": [
+                              "Russian Federation"
+                        ],
+                        "BaselineDenomCountGroupId": [
+                              "BG000",
+                              "BG001",
+                              "BG002",
+                              "BG003"
+                        ],
+                        "BaselineDenomCountValue": [
+                              "60",
+                              "60",
+                              "60",
+                              "180"
+                        ],
+                        "BaselineDenomUnits": [
+                              "Participants"
+                        ],
+                        "BaselineGroupDescription": [
+                              "60 patients in Nano group were treated with bioengineered patch that was grown with allogeneic stem cells pre-cultivated in the medium with NP. After the admission, patients were examined with QCA, and allocated to the trial. The implantation of the patch onto the artery was undergone by the minimally invasive cardiac surgery (MICS CABG) with fixation of the graft to the epicardial myocardium. MICS CABG implies a beating-heart multi-vessel heart surgery performed through several small incisions under direct vision through an anterolateral mini-thoracotomy in the 4th-6th intercostal spaces. The approach considered as an alternative to PCI allowing quick recover without major complications. The patients can expect high quality of life resuming all everyday activities within a few weeks of their operation. NP were activated with NIR laser at 7 days after the intervention. Patients were treated with bolus of bivalirudin on the day of NP detonation.",
+                              "60 patients in Ferro group were managed with intracoronary infusion of allogeneic stem cells or CD68 targeted micro-bubbles pre-cultivated in the medium with iron-bearing NP. Cells and/ or micro-bubbles were infused with QCA- and IVUS-guidance to the target coronary artery via micro-catheter on the day of admission at the Acute Care Unit. The destruction of CD68 targeted micro-bubbles was obtained by using a Sonos 5500 machine with an S3 transducer operating in ultraharmonic mode (transmit, 1.3MHz/ receive, 3.6 MHz) with a mechanical index of 1.5 and a depth of 4 cm. The AXIOM Artis dBC (Siemens) magnetic navigation system was used for precise delivery of NP to the atheroma through two permanent computer-controlled external magnets generating a navigational magnetic field of 0.08 Tesla in any direction with opportunity to produce a spot at the area of target artery and lesion. NP were detonated with NIR laser at the end of the procedure under the protection of anti-platelet therapy.",
+                              "In case of control group, XIENCE V stent was implanted to 60 patients. Patients with a single de novo native coronary stenosis of less than 12 mm lesion length, more than 50% stenosis and reference diameter of 3.0 mm as assessed by online QCA were stented by a single stent of 3.0 x 18 mm. The procedure of implantation had to be performed according to common interventional practices including the administration of intracoronary nitroglycerine 0.2 mg of glycerol trinitrate or isosorbide dinitrate and intra-arterial heparin (50-100 U/kg body weight). Predilation with a conventional balloon catheter was recommended before DES deployment according to the manufacturer's recommendation. The protocol recommended the study stent should cover 2 mm of non-diseased tissue on either side of the target lesion. Postdilatation was allowed with a balloon that was shorter than was the study device.",
+                              "Total of all reporting groups"
+                        ],
+                        "BaselineGroupId": [
+                              "BG000",
+                              "BG001",
+                              "BG002",
+                              "BG003"
+                        ],
+                        "BaselineGroupTitle": [
+                              "Nano Group",
+                              "Ferro Group",
+                              "Stenting Control",
+                              "Total"
+                        ],
+                        "BaselineMeasureCalculatePct": [],
+                        "BaselineMeasureDenomCountGroupId": [],
+                        "BaselineMeasureDenomCountValue": [],
+                        "BaselineMeasureDenomUnits": [],
+                        "BaselineMeasureDenomUnitsSelected": [],
+                        "BaselineMeasureDescription": [],
+                        "NCTId": [
+                              "NCT01270139"
+                        ]
+                  }
+            ]
+      }
+}

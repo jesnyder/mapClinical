@@ -1,0 +1,80 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT05019287",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Mina Fathi Kazerooni, MD, PhD",
+                              "Ali Dehghan-Manshadi, MD",
+                              "Samrand Fattah-Ghazi, MD",
+                              "Somaieh Kazemnejad, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Study Chair",
+                              "Study Director",
+                              "Study Chair"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "May 21, 2021"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The proportion of participants with treatment-related Adverse Event as assessed by CTCAE v5.0.",
+                              "Days from administration of the Investigational Product for improvement"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Adverse reactions incidence",
+                              "Time to clinical improvement"
+                        ],
+                        "NCTId": [
+                              "NCT05019287"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,68 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01771913",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The purpose of this study is to investigate if there is a relationship between the take of fat grafts with and without ADSCs and the presence of specific surface markers on the cells of the stromal vascular fraction."
+                        ],
+                        "BriefTitle": [
+                              "Immunophenotyping of Fresh Stromal Vascular Fraction From Adipose Derived Stem Cells (ADSC) Enriched Fat Grafts"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "May 2015"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Breast Reconstruction",
+                              "Contour Irregularities",
+                              "Volume Insufficiency"
+                        ],
+                        "ConditionAncestorId": [],
+                        "ConditionAncestorTerm": [],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All"
+                        ],
+                        "NCTId": [
+                              "NCT01771913"
+                        ]
+                  }
+            ]
+      }
+}

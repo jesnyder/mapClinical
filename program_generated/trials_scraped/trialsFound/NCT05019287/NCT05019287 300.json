@@ -1,0 +1,86 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT05019287",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "99/3436"
+                        ],
+                        "SecondaryIdDomain": [
+                              "Avicenna Research Institute"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Other Grant/Funding Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "To evaluate the anti-inflammatory effect of the proposed treatment an assessment of the inflammatory markers",
+                              "To evaluate the anti-inflammatory effect of the proposed treatment an assessment of the inflammatory markers",
+                              "To evaluate the anti-inflammatory effect of the proposed treatment an assessment of the inflammatory markers",
+                              "To evaluate the anti-inflammatory effect of the proposed treatment an assessment of the inflammatory markers",
+                              "Evaluate immune system improvement with flow cytometry to analyze patients' immune cells",
+                              "Side effects measured by Chest Readiograph Side effects measured by Chest Readiograph",
+                              "To assess the anti-inflammatory effect of the proposed treatment an assessment of the levels of IL6 in plasma.",
+                              "To assess the anti-inflammatory effect of the proposed treatment an assessment of the levels of IL10 in plasma."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Assessment of serum CRP (mg/L) levels",
+                              "Assessment of serum LDH (U/L) levels",
+                              "Assessment of serum Ferritin (ng/ml) levels",
+                              "Assessment of serum D-dimer (microgr/ml) levels",
+                              "Immunological changes on CD4+ T and CD8+ T",
+                              "Lung Involvement",
+                              "Changes in Inflammatory cytokine IL 6",
+                              "Changes in anti-Inflammatory cytokine IL10"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Days 0, 5, 10, 14, and 28",
+                              "Days 0, 5, 10, 14, and 28",
+                              "Days 0, 5, 10, 14, and 28",
+                              "Days 0, 5, 10, 14, and 28",
+                              "Days 0, 5, 10, 14, and 28",
+                              "Day 0 - 28",
+                              "Days 0, 5, 10, 14, and 28",
+                              "Days 0, 5, 10, 14, and 28"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05019287"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,68 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT00790413",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "High-dose MIBG followed by Fludarabine, Thiotepa and Melfalan as conditioning Before haploidentical transplantation of T-cell depleted graft"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: iodine I 131 metaiodobenzylguanidine",
+                              "Drug: Fludarabine",
+                              "Drug: Thiotepa",
+                              "Procedure: T-cell depletion",
+                              "Procedure: Haploidentical stem cell transplantation",
+                              "Procedure: Donor Lymphocyte Infusion",
+                              "Drug: Rituximab",
+                              "Procedure: Co-transplantation of mesenchymal stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "High-dose MIBG with haploidentical stem cell transplantation"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT00790413"
+                        ]
+                  }
+            ]
+      }
+}

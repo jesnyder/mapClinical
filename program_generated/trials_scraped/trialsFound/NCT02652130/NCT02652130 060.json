@@ -1,0 +1,77 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02652130",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "Ongoing safety assessment follow-up to Protocol MSB-GVHD001 (NCT02336230) of remestemcel-L treatment in pediatric participants with acute graft versus host disease (aGVHD), following allogeneic hematopoietic stem cell transplant (HSCT), that have failed to respond to treatment with systemic corticosteroid therapy."
+                        ],
+                        "BriefTitle": [
+                              "Safety Follow-up of Treatment With Remestemcel-L in Pediatric Participants Who Have Failed to Respond to Steroid Treatment for Acute GVHD"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "INDUSTRY"
+                        ],
+                        "CollaboratorName": [
+                              "Quintiles, Inc."
+                        ],
+                        "CompletionDate": [
+                              "June 15, 2018"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Grade B Acute Graft Versus Host Disease",
+                              "Grade C Acute Graft Versus Host Disease",
+                              "Grade D Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000007154"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC20",
+                              "All",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT02652130"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,410 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal autogenous",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 8,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 8,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Mouth and Tooth Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cleft Lip"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M5358",
+                              "M11171",
+                              "M11169",
+                              "M12",
+                              "M11168",
+                              "M19880"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Cleft Lip",
+                              "Mouth Diseases",
+                              "Stomatognathic Diseases",
+                              "Congenital Abnormalities",
+                              "Mouth Abnormalities",
+                              "Stomatognathic System Abnormalities"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000002971"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Cleft Lip"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03766217"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Musculoskeletal Diseases",
+                              "Mouth and Tooth Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Alveolar Bone Loss",
+                              "Bone Loss, Osteoclastic"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3741",
+                              "M17899",
+                              "M4293",
+                              "M4278",
+                              "M11249",
+                              "M27178",
+                              "M12571",
+                              "M11171",
+                              "M11169"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Atrophy",
+                              "Alveolar Bone Loss",
+                              "Bone Resorption",
+                              "Bone Diseases",
+                              "Musculoskeletal Diseases",
+                              "Periodontal Atrophy",
+                              "Periodontal Diseases",
+                              "Mouth Diseases",
+                              "Stomatognathic Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000016301",
+                              "D000001862"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Alveolar Bone Loss",
+                              "Bone Resorption"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Double-blind, randomized controlled clinical trial, intra-individual (split-mouth design)."
+                        ],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [
+                              "Bone tissue samples and image data allocation identified only by sequential numbers, not by name, for the outcome assessor."
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04998058"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ConditionBrowseBranchName": [
+                              "Mouth and Tooth Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cleft Lip"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M5358",
+                              "M11171",
+                              "M11169",
+                              "M12",
+                              "M11168",
+                              "M19880"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Cleft Lip",
+                              "Mouth Diseases",
+                              "Stomatognathic Diseases",
+                              "Congenital Abnormalities",
+                              "Mouth Abnormalities",
+                              "Stomatognathic System Abnormalities"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000002971"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Cleft Lip"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01932164"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "ConditionBrowseBranchName": [],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [],
+                        "ConditionBrowseLeafName": [],
+                        "ConditionBrowseLeafRelevance": [],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [
+                              "a third party oral surgery specialist will be asked to assess the study participate according to a standardized assessment tool"
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03747822"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "ConditionBrowseBranchName": [
+                              "Neoplasms",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Mouth and Tooth Diseases",
+                              "Diseases and Abnormalities at or Before Birth"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Cleft Lip"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11459",
+                              "M5358",
+                              "M11171",
+                              "M11169",
+                              "M12",
+                              "M11168",
+                              "M19880"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Neoplasm Metastasis",
+                              "Cleft Lip",
+                              "Mouth Diseases",
+                              "Stomatognathic Diseases",
+                              "Congenital Abnormalities",
+                              "Mouth Abnormalities",
+                              "Stomatognathic System Abnormalities"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000002971"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Cleft Lip"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03563495"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "ConditionBrowseBranchName": [],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [],
+                        "ConditionBrowseLeafName": [],
+                        "ConditionBrowseLeafRelevance": [],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03797963"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "ConditionBrowseBranchName": [],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [],
+                        "ConditionBrowseLeafName": [],
+                        "ConditionBrowseLeafRelevance": [],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03682315"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "ConditionBrowseBranchName": [],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [],
+                        "ConditionBrowseLeafName": [],
+                        "ConditionBrowseLeafRelevance": [],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02859025"
+                        ]
+                  }
+            ]
+      }
+}

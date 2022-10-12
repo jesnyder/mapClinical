@@ -1,0 +1,77 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02161003",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "June 8, 2014"
+                        ],
+                        "LeadSponsorClass": [
+                              "OTHER"
+                        ],
+                        "LeadSponsorName": [
+                              "Al-Azhar University"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Nasr City"
+                        ],
+                        "LocationContactEMail": [],
+                        "LocationContactName": [
+                              "Contact: Abdel-Wahab El-Okby, MD",
+                              "Refaat Ibrahiem El-Badawy, MD"
+                        ],
+                        "LocationContactPhone": [
+                              "+201001478100"
+                        ],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [
+                              "Contact",
+                              "Sub-Investigator"
+                        ],
+                        "LocationCountry": [
+                              "Egypt"
+                        ],
+                        "LocationFacility": [
+                              "Pediatric Surgery Outpatients Clinics - Al Hussien Hospital"
+                        ],
+                        "LocationState": [
+                              "Cairo"
+                        ],
+                        "LocationStatus": [
+                              "Recruiting"
+                        ],
+                        "LocationZip": [],
+                        "NCTId": [
+                              "NCT02161003"
+                        ]
+                  }
+            ]
+      }
+}

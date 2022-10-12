@@ -1,0 +1,83 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT01771913",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "FlowAchievementNumSubjects",
+                  "FlowAchievementNumUnits",
+                  "FlowDropWithdrawComment",
+                  "FlowDropWithdrawType",
+                  "FlowGroupDescription",
+                  "FlowGroupId",
+                  "FlowGroupTitle",
+                  "FlowMilestoneComment",
+                  "FlowMilestoneType",
+                  "FlowPeriodTitle",
+                  "FlowPreAssignmentDetails",
+                  "FlowReasonComment",
+                  "FlowReasonGroupId",
+                  "FlowReasonNumSubjects",
+                  "FlowReasonNumUnits",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "FlowAchievementNumSubjects": [
+                              "9",
+                              "11",
+                              "8",
+                              "11",
+                              "1",
+                              "0"
+                        ],
+                        "FlowAchievementNumUnits": [],
+                        "FlowDropWithdrawComment": [],
+                        "FlowDropWithdrawType": [
+                              "Withdrawal by Subject"
+                        ],
+                        "FlowGroupDescription": [
+                              "female patients who underwent breast reconstruction and present with volume insufficiency will undergo centrifuged fat graft for contour and volume refinements.\n\ncentrifuged fat graft: fat from the abdominal subcutaneous tissue will be taken by vacuum assisted lipectomy and immediately prepared to be grafted in the reconstructed breast that presents contour irregularities and/or volume insufficiency. No adipose derived stem cells will enrich the fat grafts in this group.",
+                              "female patients who underwent breast reconstruction and present volume insufficiency will undergo ADSCs enriched fat grafting for volume and irregularity contour improvement\n\nADSCs enriched fat graft: fat from the abdominal subcutaneous tissue will be taken by suction assisted lipectomy and stromal vascular fraction will be isolated and immediately added to the fat graft that will be employed to improve contour irregularities and volume insufficiency of reconstructed breasts."
+                        ],
+                        "FlowGroupId": [
+                              "FG000",
+                              "FG001"
+                        ],
+                        "FlowGroupTitle": [
+                              "Centrifuged Fat Graft",
+                              "ADSCs Enriched Centrifuged Fat Graft"
+                        ],
+                        "FlowMilestoneComment": [],
+                        "FlowMilestoneType": [
+                              "STARTED",
+                              "COMPLETED",
+                              "NOT COMPLETED"
+                        ],
+                        "FlowPeriodTitle": [
+                              "Overall Study"
+                        ],
+                        "FlowPreAssignmentDetails": [],
+                        "FlowReasonComment": [],
+                        "FlowReasonGroupId": [
+                              "FG000",
+                              "FG001"
+                        ],
+                        "FlowReasonNumSubjects": [
+                              "1",
+                              "0"
+                        ],
+                        "FlowReasonNumUnits": [],
+                        "NCTId": [
+                              "NCT01771913"
+                        ]
+                  }
+            ]
+      }
+}

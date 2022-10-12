@@ -1,0 +1,69 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal OTI-010",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "December 3, 2014"
+                        ],
+                        "LeadSponsorClass": [
+                              "INDUSTRY"
+                        ],
+                        "LeadSponsorName": [
+                              "Mesoblast International S\u00e0rl"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Los Angeles"
+                        ],
+                        "LocationContactEMail": [],
+                        "LocationContactName": [],
+                        "LocationContactPhone": [],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [],
+                        "LocationCountry": [
+                              "United States"
+                        ],
+                        "LocationFacility": [
+                              "Jonsson Comprehensive Cancer Center, UCLA"
+                        ],
+                        "LocationState": [
+                              "California"
+                        ],
+                        "LocationStatus": [],
+                        "LocationZip": [
+                              "90095-1678"
+                        ],
+                        "NCTId": [
+                              "NCT00081055"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,88 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal darvadstrocel",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "FlowRecruitmentDetails",
+                  "FlowTypeUnitsAnalyzed",
+                  "Gender",
+                  "GenderBased",
+                  "GenderDescription",
+                  "HasExpandedAccess",
+                  "HealthyVolunteers",
+                  "IPDSharing",
+                  "IPDSharingAccessCriteria",
+                  "IPDSharingDescription",
+                  "IPDSharingInfoType",
+                  "IPDSharingTimeFrame",
+                  "IPDSharingURL",
+                  "InterventionAncestorId",
+                  "InterventionAncestorTerm",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "FlowRecruitmentDetails": [],
+                        "FlowTypeUnitsAnalyzed": [],
+                        "Gender": [
+                              "All"
+                        ],
+                        "GenderBased": [],
+                        "GenderDescription": [],
+                        "HasExpandedAccess": [
+                              "No"
+                        ],
+                        "HealthyVolunteers": [],
+                        "IPDSharing": [
+                              "No"
+                        ],
+                        "IPDSharingAccessCriteria": [],
+                        "IPDSharingDescription": [],
+                        "IPDSharingInfoType": [],
+                        "IPDSharingTimeFrame": [],
+                        "IPDSharingURL": [],
+                        "InterventionAncestorId": [],
+                        "InterventionAncestorTerm": [],
+                        "NCTId": [
+                              "NCT05210309"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "FlowRecruitmentDetails": [],
+                        "FlowTypeUnitsAnalyzed": [],
+                        "Gender": [
+                              "All"
+                        ],
+                        "GenderBased": [],
+                        "GenderDescription": [],
+                        "HasExpandedAccess": [
+                              "No"
+                        ],
+                        "HealthyVolunteers": [],
+                        "IPDSharing": [
+                              "No"
+                        ],
+                        "IPDSharingAccessCriteria": [],
+                        "IPDSharingDescription": [
+                              "IPD can be shared just in anonymised form in case of an ethical agreement with other researches."
+                        ],
+                        "IPDSharingInfoType": [],
+                        "IPDSharingTimeFrame": [],
+                        "IPDSharingURL": [],
+                        "InterventionAncestorId": [],
+                        "InterventionAncestorTerm": [],
+                        "NCTId": [
+                              "NCT05322057"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,66 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03011541",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Visual fields will be evaluated with automated perimetry during post- procedure visits as needed and specifically at 6 months and 12 months. Visual fields are a key measurement in patients with peripheral vision loss.",
+                              "OCT thickness of the retinal nerve fiber layer the optic nerve and/or macula during the post- procedure visits as needed and specifically at 6 and 12 months - if available."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Visual Fields",
+                              "Optical Coherence Tomography (OCT)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Change from pre-procedure to 12 months",
+                              "Change from pre-procedure to 12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Study Information"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.mdstemcells.com/scots-ii/"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03011541"
+                        ]
+                  }
+            ]
+      }
+}

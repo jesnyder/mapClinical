@@ -1,0 +1,59 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04400032",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAge of \u226518 years\nLaboratory-confirmed SARS-CoV-2 infection during the current admission\nOn invasive, non-invasive mechanical ventilation (NIV) (PEEP\u22655 cmH20) or high-flow nasal canula (HFNC) oxygen therapy (minimum total flow rate of 40 lpm)\nARDS (onset <96h) as per the international consensus definition (P/F) ratio < 300 on fraction of inspired oxygen (FiO2)\u22650.5, with PEEP \u22655cm H2O or on HFNC), not due to cardiac causes.\n\nExclusion Criteria:\n\nAn individual who meets any of the following criteria will be excluded from participation in this trial:\n\nNo consent/inability to obtain consent\nMoribund patient not expected to survive 24 hours\nAny other irreversible disease or condition for which 6-month mortality is estimated to be greater than 50%\nCurrently receiving extracorporeal life support\nPregnant or lactating\nPatients with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial\nModerate to severe chronic liver disease (Childs-Pugh Score > 12)\nSevere chronic respiratory disease with a baseline PaCO2 > 50 mm Hg or the use of home oxygen\nLung transplant patient\nDocumented deep venous thrombosis or pulmonary embolism within the past 3 months\nInability/contra-indications to receiving local standard of care thromboprophylaxis\nChronic immunosuppression (any chronic immunotherapy including daily oral steroid use >6months)\nKnown HIV, Hep B/C positive, or active Tuberculosis\nMultisystem shock (SOFA score of >2 in >2 systems)\nPatient, surrogate, or physician not committed to full support including intubation (exception: a patient will not be excluded if he/she would receive all supportive care except for attempts at resuscitation from cardiac arrest)"
+                        ],
+                        "EnrollmentCount": [
+                              "15"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04400032"
+                        ]
+                  }
+            ]
+      }
+}

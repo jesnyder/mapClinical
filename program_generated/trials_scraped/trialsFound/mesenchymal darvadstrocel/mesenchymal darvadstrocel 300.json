@@ -1,0 +1,99 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal darvadstrocel",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "QoL according to dedicated questionnaire (EuroQoL 5D-3L)",
+                              "A Dedicated self complementary questionnaire (PROMs)",
+                              "Cost-Effectiveness of the procedure"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Quality of Life (QoL)",
+                              "PATIENT REPORTED OUTCOMES (PROs)",
+                              "Efficiency"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 moths",
+                              "6 moths",
+                              "6 moths"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05210309"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "At every follow up visit the perianal disease was evaluated using the PDAI (Perianal disease activity index)",
+                              "Crohn's disease was evaluated by using the HBI (Harvey Bradshaw Index)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Evaluation of perianal disease",
+                              "Evaluation of Crohn's disease"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year",
+                              "1 year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05322057"
+                        ]
+                  }
+            ]
+      }
+}

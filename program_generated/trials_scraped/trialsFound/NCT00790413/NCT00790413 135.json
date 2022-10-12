@@ -1,0 +1,85 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT00790413",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "FlowRecruitmentDetails",
+                  "FlowTypeUnitsAnalyzed",
+                  "Gender",
+                  "GenderBased",
+                  "GenderDescription",
+                  "HasExpandedAccess",
+                  "HealthyVolunteers",
+                  "IPDSharing",
+                  "IPDSharingAccessCriteria",
+                  "IPDSharingDescription",
+                  "IPDSharingInfoType",
+                  "IPDSharingTimeFrame",
+                  "IPDSharingURL",
+                  "InterventionAncestorId",
+                  "InterventionAncestorTerm",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "FlowRecruitmentDetails": [],
+                        "FlowTypeUnitsAnalyzed": [],
+                        "Gender": [
+                              "All"
+                        ],
+                        "GenderBased": [],
+                        "GenderDescription": [],
+                        "HasExpandedAccess": [
+                              "No"
+                        ],
+                        "HealthyVolunteers": [
+                              "No"
+                        ],
+                        "IPDSharing": [],
+                        "IPDSharingAccessCriteria": [],
+                        "IPDSharingDescription": [],
+                        "IPDSharingInfoType": [],
+                        "IPDSharingTimeFrame": [],
+                        "IPDSharingURL": [],
+                        "InterventionAncestorId": [
+                              "D000074322",
+                              "D000000970",
+                              "D000007155",
+                              "D000045505",
+                              "D000018501",
+                              "D000045504",
+                              "D000007166",
+                              "D000018906",
+                              "D000000477",
+                              "D000019653",
+                              "D000004791",
+                              "D000019275"
+                        ],
+                        "InterventionAncestorTerm": [
+                              "Antineoplastic Agents, Immunological",
+                              "Antineoplastic Agents",
+                              "Immunologic Factors",
+                              "Physiological Effects of Drugs",
+                              "Antirheumatic Agents",
+                              "Molecular Mechanisms of Pharmacological Action",
+                              "Immunosuppressive Agents",
+                              "Antineoplastic Agents, Alkylating",
+                              "Alkylating Agents",
+                              "Myeloablative Agonists",
+                              "Enzyme Inhibitors",
+                              "Radiopharmaceuticals"
+                        ],
+                        "NCTId": [
+                              "NCT00790413"
+                        ]
+                  }
+            ]
+      }
+}

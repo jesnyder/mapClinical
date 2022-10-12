@@ -1,0 +1,91 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT00225095",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Chondrogen - dose 1",
+                              "Chondrogen - dose 2",
+                              "Vehicle Control"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Placebo administration"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M9030",
+                              "M2780",
+                              "M9353",
+                              "M27448",
+                              "M21022"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Hyaluronic Acid",
+                              "Adjuvants, Immunologic",
+                              "Immunologic Factors",
+                              "Viscosupplements",
+                              "Protective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [
+                              "D000006820"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Hyaluronic Acid"
+                        ],
+                        "InterventionName": [
+                              "Mesenchymal Stem Cells",
+                              "Hyaluronan"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00225095"
+                        ]
+                  }
+            ]
+      }
+}

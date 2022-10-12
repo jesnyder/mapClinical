@@ -1,0 +1,156 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01270139",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "SeriousEventNotes",
+                  "SeriousEventOrganSystem",
+                  "SeriousEventSourceVocabulary",
+                  "SeriousEventStatsGroupId",
+                  "SeriousEventStatsNumAffected",
+                  "SeriousEventStatsNumAtRisk",
+                  "SeriousEventStatsNumEvents",
+                  "SeriousEventTerm",
+                  "StartDate",
+                  "StartDateType",
+                  "StatusVerifiedDate",
+                  "StdAge",
+                  "StudyFirstPostDate",
+                  "StudyFirstPostDateType",
+                  "StudyFirstSubmitDate",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "SeriousEventNotes": [
+                              "Cardiac death which is related to the intervention at the site of target lesion",
+                              "Cardiac death which is not related to the intervention at the target lesion",
+                              "Death due to stroke, cancer, trauma and others",
+                              "Myocardial infarction which is related to the intervention at the target lesion",
+                              "Myocardial infarction which is not related to the intervention at the target lesion"
+                        ],
+                        "SeriousEventOrganSystem": [
+                              "Cardiac disorders",
+                              "Cardiac disorders",
+                              "Vascular disorders",
+                              "Cardiac disorders",
+                              "Cardiac disorders"
+                        ],
+                        "SeriousEventSourceVocabulary": [
+                              "Adverse event",
+                              "Adverse event",
+                              "Adverse event",
+                              "Adverse event",
+                              "Adverse event"
+                        ],
+                        "SeriousEventStatsGroupId": [
+                              "EG000",
+                              "EG001",
+                              "EG002",
+                              "EG000",
+                              "EG001",
+                              "EG002",
+                              "EG000",
+                              "EG001",
+                              "EG002",
+                              "EG000",
+                              "EG001",
+                              "EG002",
+                              "EG000",
+                              "EG001",
+                              "EG002"
+                        ],
+                        "SeriousEventStatsNumAffected": [
+                              "0",
+                              "0",
+                              "1",
+                              "0",
+                              "2",
+                              "1",
+                              "5",
+                              "9",
+                              "10",
+                              "0",
+                              "0",
+                              "2",
+                              "3",
+                              "6",
+                              "4"
+                        ],
+                        "SeriousEventStatsNumAtRisk": [
+                              "42",
+                              "34",
+                              "40",
+                              "42",
+                              "34",
+                              "40",
+                              "42",
+                              "34",
+                              "40",
+                              "42",
+                              "34",
+                              "40",
+                              "42",
+                              "34",
+                              "40"
+                        ],
+                        "SeriousEventStatsNumEvents": [
+                              "0",
+                              "0",
+                              "1",
+                              "0",
+                              "2",
+                              "1",
+                              "5",
+                              "9",
+                              "10",
+                              "0",
+                              "0",
+                              "2",
+                              "3",
+                              "6",
+                              "4"
+                        ],
+                        "SeriousEventTerm": [
+                              "Target lesion cardiac death",
+                              "Target vessel cardiac death",
+                              "Non-cardiac death",
+                              "Target lesion myocardial infarction",
+                              "Target vessel myocardial infarction"
+                        ],
+                        "StartDate": [
+                              "April 1, 2007"
+                        ],
+                        "StartDateType": [
+                              "Actual"
+                        ],
+                        "StatusVerifiedDate": [
+                              "February 2021"
+                        ],
+                        "StdAge": [
+                              "Adult",
+                              "Older Adult"
+                        ],
+                        "StudyFirstPostDate": [
+                              "January 5, 2011"
+                        ],
+                        "StudyFirstPostDateType": [
+                              "Estimate"
+                        ],
+                        "StudyFirstSubmitDate": [
+                              "December 30, 2010"
+                        ],
+                        "NCTId": [
+                              "NCT01270139"
+                        ]
+                  }
+            ]
+      }
+}

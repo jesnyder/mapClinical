@@ -1,0 +1,86 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT00815217",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "1 lipoaspirate",
+                              "2 control"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "AnArAg",
+                              "ChanBlk",
+                              "CNSDep",
+                              "All",
+                              "PhSol"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Arrhythmia Agents",
+                              "Channel Blockers",
+                              "Central Nervous System Depressants",
+                              "All Drugs and Chemicals",
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10166",
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Lidocaine",
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Small volume lipoaspiration will be performed. This technique involves harvesting small amounts of fat by making a small incision in the donor site (usually the abdomen) and infiltrating 25-75cc of tumescence solution (1 liter of LR, 30 cc of 1% lidocaine, 1 ampule of 1:1,000,000 epinepherine) into the adipose layer with a blunt infiltrator. The Coleman aspiration Cannulae, approximately 2-3 mm in diameter and 15 cm in length attached with a Luer-Lok suction syringe will be used to harvest up to 100 cc of fat. Gently pulling back on the syringe provides a small amount of negative pressure to allow for aspiration into the syringe.For the intervention wound, the adipose tissue will be implanted using the infiltration Cannulae (blunt end, 7 cm- COL-17) or the both approx. 1mm in diameter. The implantation will be in single tunnels radially around each wound spaced at 5-10 mm apart and approximately 3 - 5 cm in length.",
+                              "For the control wound, only the sterile injectable tumescence solution (1 liter of LR, 30 cc of 1% lidocaine, 1 ampule of 1:1,000,000 epinepherine) will be used. The solution will be injected in a similar fashion with single tunnels radially around the control wound spaced at 5-10 mm apart and approximately 3 - 5 cm in length."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "injection of lipoaspirate",
+                              "control"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00815217"
+                        ]
+                  }
+            ]
+      }
+}

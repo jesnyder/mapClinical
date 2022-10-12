@@ -1,0 +1,92 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02742844",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The aim of this clinical trial is to investigate the efficacy (by monitoring the wound size reduction) and safety (by monitoring occurring adverse events) of the investigational medicinal product APZ2 after one single application on chronic venous leg ulcer wounds."
+                        ],
+                        "BriefTitle": [
+                              "Clinical Trial to Investigate Efficacy and Safety of the IMP in Patients With Non Healing Wounds Originating From Ulcers"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "INDUSTRY",
+                              "INDUSTRY",
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "Ticeba GmbH",
+                              "FGK Clinical Research GmbH",
+                              "Granzer Regulatory Consulting & Services"
+                        ],
+                        "CompletionDate": [
+                              "January 15, 2019"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Skin Ulcer Venous Stasis Chronic"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010335",
+                              "D000014648",
+                              "D000014652",
+                              "D000002318",
+                              "D000007871",
+                              "D000012871"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathologic Processes",
+                              "Varicose Veins",
+                              "Vascular Diseases",
+                              "Cardiovascular Diseases",
+                              "Leg Ulcer",
+                              "Skin Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC26",
+                              "All",
+                              "BC14",
+                              "BC17",
+                              "BC23",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT02742844"
+                        ]
+                  }
+            ]
+      }
+}

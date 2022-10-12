@@ -1,0 +1,62 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02161003",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Stem cell isolation technique and Stem Cells Injection Technique The method of isolation of MSC from bone marrow will be carried out using the Ficoll-Paque technique for the isolation of mononucleated cells followed by the separation of MSC by adherence to plastic. Finally, the cells will be resuspended and counted using a hemocytometer.\n\nMononucleated cells will be cultured and incubated at 37\u00b0C in an atmosphere of 95% relative humidity and 5% CO2."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Procedure: Stem Cells Injection Technique",
+                              "Procedure: Stem Cell Isolation"
+                        ],
+                        "ArmGroupLabel": [
+                              "Stem Cells Isolation"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02161003"
+                        ]
+                  }
+            ]
+      }
+}

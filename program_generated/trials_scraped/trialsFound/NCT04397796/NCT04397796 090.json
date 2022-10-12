@@ -1,0 +1,64 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04397796",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Care Provider",
+                              "Investigator",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAge \u2265 18 years old.\nAble to understand and provide a signed informed consent that fulfills the relevant Institutional Review Board (IRB) or Independent Ethics Committee (IEC) guidelines. For subjects that are intubated and/or sedated, or otherwise unable to provide consent, prospective consent from a legally-authorized representative is required. The subject or his/her legally authorized representative must be able to provide consent.\nHas laboratory-confirmed positive novel coronavirus (SARS-CoV-2) test, as determined by polymerase chain reaction (PCR), or other commercial or public health assay in any specimen < 72 hours prior to enrollment, or meets the criteria to guide the evaluation and testing of patients under investigation (PUI) for COVID-19 (https://emergency.cdc.gov/han/2020/HAN00428.asp).\n\nRequiring mechanical ventilatory support with moderate to severe Acute Respiratory Distress Syndrome (ARDS) as determined by the Berlin criteria:\n\nBilateral opacities present on a chest radiograph or computed tomographic (CT) scan. These opacities are not fully explained by pleural effusions, lobar collapse, lung collapse, or pulmonary nodules.\nOrigin of Edema: Respiratory failure not fully explained by cardiac failure or fluid overload.\n\nOxygenation: Moderate to severe impairment of oxygenation must be present, as defined by the ratio of arterial oxygen tension to fraction of inspired oxygen (PaO2/FiO2). The severity of the hypoxemia defines the severity of the ARDS:\n\nModerate: PaO2/FiO2 >100 mmHg and \u2264 200 mmHg, on ventilator settings that include PEEP \u2265 5 cm H2O\nSevere: PaO2/FiO2 \u2264100 mmHg on ventilator settings that include PEEP \u22655 cm H2O Subjects receiving extracorporeal membrane oxygenation (ECMO) will not be enrolled in this study.\nHigh-sensitivity C-reactive Protein (hs-CRP) serum level > 4.0 mg/dL\nAcute Physiology and Chronic Health Evaluation (APACHE IV) score > 5\nAgrees to the collection of nasopharyngeal (NP) swabs and venous blood per protocol.\nAbility to attend required study visits and return for adequate follow-up, as required by this protocol.\nAgreement to practice effective contraception for female subjects of child-bearing potential and non-sterile males. Female subjects of child-bearing potential must agree to use effective contraception while on study and for at least 1 month after the last dose of BM-Allo.MSC. Non-sterile male subjects must agree to use a condom while on study and for up to 1 month after the dose of BM-Allo.MSC. Effective contraception includes surgical sterilization (eg, vasectomy, tubal ligation), two forms of barrier methods (eg, condom, diaphragm) used with spermicide, intrauterine devices (IUDs), oral contraceptives, and abstinence.\n\nExclusion Criteria:\n\nKnown hypersensitivity to any component of the study medication(s).\nSigns of multisystem organ failure. Liver function tests (LFTs) > 5x normal.\nIntubated > 72 continuous hours.\nAssessed by the Investigator to be unable or unwilling to comply with the requirements of the protocol.\nPregnant and nursing women. A negative serum pregnancy test during screening (within 72 hours prior to the first dose) must be documented before MSCs are administered to a female subject of child-bearing potential."
+                        ],
+                        "EnrollmentCount": [
+                              "45"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04397796"
+                        ]
+                  }
+            ]
+      }
+}

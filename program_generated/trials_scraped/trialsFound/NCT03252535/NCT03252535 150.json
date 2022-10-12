@@ -1,0 +1,89 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03252535",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Cellavita HD Lower Dose",
+                              "Cellavita HD Higher Dose",
+                              "Placebo Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "The participants will receive a total of 9 intravenous administrations of 1x10^6 cells/weight range divided into three administrations per cycle. Each administration will occur every 30 days and cycles every 120 days (total of 3 cycles).",
+                              "The participants will receive a total of 9 intravenous administrations of 2x10^6 cells/weight range divided into three administrations per cycle. Each administration will occur every 30 days and cycles every 120 days (total of 3 cycles).",
+                              "The participants will receive a total of 9 intravenous administrations of placebo divided into three administrations per cycle. Each administration will occur every 30 days and cycles every 120 days (total of 3 cycles)."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Cellavita HD lower dose",
+                              "Cellavita HD higher dose",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "cellular therapy, mesenchymal stem cells",
+                              "cellular therapy, mesenchymal stem cells",
+                              "physiological solution without cells"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03252535"
+                        ]
+                  }
+            ]
+      }
+}

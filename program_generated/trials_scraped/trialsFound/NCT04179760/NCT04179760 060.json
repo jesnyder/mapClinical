@@ -1,0 +1,144 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04179760",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This study consists of two phases (Phase I and Phase II). Phase II will be conducted sequentially after the safety of SCM-AGH is secured in Phase I.\n\nPhase I: Multicenter in Korea, Randomized, Open-label, Parallel arm Phase II: Multicenter in Korea, Double-blind, Placebo-controlled, Parallel arm"
+                        ],
+                        "BriefTitle": [
+                              "Safety and Efficacy of SCM-AGH in Subjects With Moderate to Severe Atopic Dermatitis"
+                        ],
+                        "CentralContactEMail": [
+                              "hher@scmlifescience.com"
+                        ],
+                        "CentralContactName": [
+                              "Howard Her"
+                        ],
+                        "CentralContactPhone": [
+                              "+8200000000"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "December 30, 2022"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Dermatitis, Atopic"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000012871",
+                              "D000012873",
+                              "D000030342",
+                              "D000017443",
+                              "D000006969",
+                              "D000006967",
+                              "D000007154"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Skin Diseases",
+                              "Skin Diseases, Genetic",
+                              "Genetic Diseases, Inborn",
+                              "Skin Diseases, Eczematous",
+                              "Hypersensitivity, Immediate",
+                              "Hypersensitivity",
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC16",
+                              "BC17",
+                              "BC20",
+                              "All"
+                        ],
+                        "NCTId": [
+                              "NCT04179760"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "BriefSummary": [
+                              "This is a long-term safety follow-up study of the Phase I/II multicenter study of SCM-AGH in subjects with moderate to severe atopic dermatitis. subjects will be followed up for a maximum period of 240 weeks after the first dose of investigational product. Only subjects previously enrolled in protocol ADT2002 (ClinicalTrials.gov ID: NCT04179760) will be eligible for this long-term follow-up protocol."
+                        ],
+                        "BriefTitle": [
+                              "Long-Term Safety Follow-Up Study of SCM-AGH in Subjects Who Participated and Administered SCM-AGH in to Severe Atopic Dermatitis Clinical Trials"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "March 31, 2025"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Dermatitis, Atopic"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000012871",
+                              "D000012873",
+                              "D000030342",
+                              "D000017443",
+                              "D000006969",
+                              "D000006967",
+                              "D000007154"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Skin Diseases",
+                              "Skin Diseases, Genetic",
+                              "Genetic Diseases, Inborn",
+                              "Skin Diseases, Eczematous",
+                              "Hypersensitivity, Immediate",
+                              "Hypersensitivity",
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC16",
+                              "BC17",
+                              "BC20",
+                              "All"
+                        ],
+                        "NCTId": [
+                              "NCT04185584"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,85 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01920867",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This study will evaluate the use of autologous bone marrow derived stem cells (BMSC) for the treatment of retinal and optic nerve damage or disease. http://mdstemcells.com/scots-ii/"
+                        ],
+                        "BriefTitle": [
+                              "Stem Cell Ophthalmology Treatment Study"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "July 2020"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Retinal Disease",
+                              "Macular Degeneration",
+                              "Hereditary Retinal Dystrophy",
+                              "Optic Nerve Disease",
+                              "Glaucoma"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000005128",
+                              "D000012162",
+                              "D000003389"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Eye Diseases",
+                              "Retinal Degeneration",
+                              "Cranial Nerve Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC11",
+                              "BC10",
+                              "BC20",
+                              "BC16",
+                              "BC14",
+                              "BC26",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT01920867"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,111 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT01221454",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Infections",
+                              "Digestive System Diseases",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Liver Failure",
+                              "Liver Failure"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8747",
+                              "M20762",
+                              "M8744",
+                              "M8743",
+                              "M18567",
+                              "M25123",
+                              "M8759",
+                              "M10259",
+                              "M8035",
+                              "M6407",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Hepatitis B",
+                              "Hepatitis B, Chronic",
+                              "Hepatitis A",
+                              "Hepatitis",
+                              "Liver Failure",
+                              "Hepatic Insufficiency",
+                              "Hepatitis, Chronic",
+                              "Liver Diseases",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000017093",
+                              "D000048550"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Liver Failure",
+                              "Hepatic Insufficiency"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01221454"
+                        ]
+                  }
+            ]
+      }
+}

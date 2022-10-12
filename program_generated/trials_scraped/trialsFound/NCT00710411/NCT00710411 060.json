@@ -1,0 +1,76 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT00710411",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The purpose of this study is to determine the inflammatory response after multiple trauma in humans."
+                        ],
+                        "BriefTitle": [
+                              "Inflammatory Response After Muscle and Skeleton Trauma"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "German Research Foundation"
+                        ],
+                        "CompletionDate": [
+                              "December 2015"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Multiple Trauma"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000014947"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Wounds and Injuries"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC26",
+                              "BC01"
+                        ],
+                        "NCTId": [
+                              "NCT00710411"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,71 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal MR-MC-01",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Assessed by VAS (Visual Analog Scale)",
+                              "Assessed by PUF questionnaire",
+                              "Assessed by ICQ questionnaire",
+                              "Assessed by voiding diary (frequency, nocturia, urgency, urge incontinence and mean voided volume)",
+                              "Assessed by cystoscopy (number, sized, location)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Changes of pain after stem cell injection",
+                              "Changes of PUF (Pelvic Pain and Urgency/Frequency) scores after stem cell injection",
+                              "Changes of ICQ (O'Leary-Sant interstitial cystitis symptom index/problem index) scores after stem cell injection",
+                              "Changes of voiding profiles after stem cell injection",
+                              "Changes of Hunner lesion after stem cell injection"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Changes of Pain from baseline, 1, 3, 6, and 12 months after stem cell injection",
+                              "Changes of PUF score from baseline, 1, 3, 6, 12 months after stem cell injection",
+                              "Changes of ICQ scores from baseline, 1, 3, 6, 12 months after stem cell injection",
+                              "Changes of voiding profiles from baseline, 1, 3, 6, 12 months after stem cell injection",
+                              "Changes of Hunner lesion from baseline, 1, 3, 6, 12 months after stem cell injection"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04610359"
+                        ]
+                  }
+            ]
+      }
+}

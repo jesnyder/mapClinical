@@ -1,0 +1,84 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT00225095",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Determination of Quality of Life will be measured by the KOOS instrument (Knee injury and Osteoarthritis Outcome Score).",
+                              "Patient perception of pain will be documented using a single VAS pain scale.",
+                              "Lysholm knee score will be determined according to the questionnaire",
+                              "Number of participants with Adverse Events.",
+                              "Number of participants with clinically significant abnormalities in immunological measures",
+                              "Number of participants with clinically significant abnormalities in laboratory assessments",
+                              "Number of participants with clinically significant abnormalities in physical examinations.",
+                              "Number of participants with clinically significant abnormalities in Magnetic Resonance Imaging (MRI)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Quality of Life Questionnaire",
+                              "Visual Analog Scale (VAS)",
+                              "Lysholm Knee Scale",
+                              "Safety Assessment Adverse Event",
+                              "Safety Assessment Immunological",
+                              "Safety Assessment Laboratory",
+                              "Safety Assessment Physical Exam",
+                              "Safety Assessment Magnetic Resonance Imaging (MRI)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "2 years",
+                              "Baseline to 2 years",
+                              "2 years",
+                              "2 years",
+                              "2 years",
+                              "2 years",
+                              "2 years",
+                              "2 years"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Osiris Therapeutics, Inc. Home Page"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "http://www.osiristx.com"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT00225095"
+                        ]
+                  }
+            ]
+      }
+}

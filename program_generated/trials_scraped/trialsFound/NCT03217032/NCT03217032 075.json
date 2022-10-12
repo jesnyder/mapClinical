@@ -1,0 +1,108 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03217032",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Blood and Lymph Conditions",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "All Conditions",
+                              "Heart and Blood Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Hemophilia A",
+                              "Hemophilia",
+                              "Hemophilia A"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8705",
+                              "M21130",
+                              "M4211",
+                              "M22248",
+                              "M8642",
+                              "M21135",
+                              "M8712",
+                              "M22839",
+                              "T2710",
+                              "T2711"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Hemophilia A",
+                              "Hemostatic Disorders",
+                              "Blood Coagulation Disorders",
+                              "Blood Coagulation Disorders, Inherited",
+                              "Hematologic Diseases",
+                              "Coagulation Protein Disorders",
+                              "Hemorrhagic Disorders",
+                              "Genetic Diseases, Inborn",
+                              "Hemophilia",
+                              "Hemophilia A"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006467"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Hemophilia A"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03217032"
+                        ]
+                  }
+            ]
+      }
+}

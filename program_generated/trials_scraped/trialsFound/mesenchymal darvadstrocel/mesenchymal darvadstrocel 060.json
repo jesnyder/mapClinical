@@ -1,0 +1,137 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal darvadstrocel",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "Darvadstrocel is an expanded allogeneic adipose-derived mesenchymal stem cell therapy for the treatment of complex perianal fistulas in patients with Crohn's disease. Safety and efficacy of the procedure has been sufficiently demonstrated and the Spanish Agency of Medication approved its application a few months ago. Being aware about the difficulties to a proper application and management of the stem cells the Spanish Stem Cell therapy group devised, in a joint activity with the Spanish Group GERM (Grupo Espa\u00f1ol de Rehabilitacion Multimodal) dedicated to expand the best surgical clinical practices, a national project for the application of the therapy. The objective is to get a homogeneous implementation in all hospitals in Spain that have being baked to use this biological therapy."
+                        ],
+                        "BriefTitle": [
+                              "National Project to Implement Mesenchymal Stem Cell for the Treatment of Perianal Crohn's Fistula (the PRIME Study)"
+                        ],
+                        "CentralContactEMail": [
+                              "jramirez@unizar.es",
+                              "damian.garcia@uam.es"
+                        ],
+                        "CentralContactName": [
+                              "Jose-M Ramirez, Prof",
+                              "Damian Garcia-Olmo, Prof"
+                        ],
+                        "CentralContactPhone": [
+                              "+34639776364",
+                              "+34608767988"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "Hospital Universitario Fundaci\u00f3n Jim\u00e9nez D\u00edaz"
+                        ],
+                        "CompletionDate": [
+                              "December 31, 2022"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Safety",
+                              "Efficacy, Self"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000020763"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathological Conditions, Anatomical"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All"
+                        ],
+                        "NCTId": [
+                              "NCT05210309"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "BriefSummary": [
+                              "The use of mesenchymal stem cells is considered a novel and promising therapeutic option for patients with perianal fistulizing Crohn's disease. However, due to limited clinical data, this multicentre, nationwide study aimed to assess its clinical efficacy in closing complex anal fistula."
+                        ],
+                        "BriefTitle": [
+                              "Efficacy of Cx601 (Darvadstrocel) for the Treatment of Perianal Fistulizing Crohn's Disease"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "December 1, 2021"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Crohn Disease",
+                              "Fistula Perianal"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000015212",
+                              "D000005759",
+                              "D000005767",
+                              "D000004066",
+                              "D000007410",
+                              "D000020763"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Inflammatory Bowel Diseases",
+                              "Gastroenteritis",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Intestinal Diseases",
+                              "Pathological Conditions, Anatomical"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC06"
+                        ],
+                        "NCTId": [
+                              "NCT05322057"
+                        ]
+                  }
+            ]
+      }
+}

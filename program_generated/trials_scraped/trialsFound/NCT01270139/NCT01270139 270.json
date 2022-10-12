@@ -1,0 +1,85 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01270139",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Jan Gabinsky, MD, PhD, DSc",
+                              "Olga Kovtun, MD, PhD",
+                              "Alexander Kharlamov, M.D., FESC, FACC, FEACVI"
+                        ],
+                        "OverallOfficialRole": [
+                              "Study Director",
+                              "Study Chair",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Not Applicable"
+                        ],
+                        "PointOfContactEMail": [
+                              "drskharlamov@gmail.com"
+                        ],
+                        "PointOfContactOrganization": [
+                              "Ural Institute of Cardiology"
+                        ],
+                        "PointOfContactPhone": [
+                              "0031627849118"
+                        ],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [
+                              "Dr. Alexander Kharlamov"
+                        ],
+                        "PrimaryCompletionDate": [
+                              "April 1, 2009"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Total atheroma volume (TAV, plaque-media volume, mm3) at 12 months. Quantitative coronary angiography (QCA) and Intravascular Ultrasound (IVUS) were performed pre-, post-procedure and at 12-month follow-up after a bolus infusion of i.c. nitrate. QCA was undergone with the CAAS II analysis system (Pie Medical B.V., Maastricht, The Netherlands) with analysis of different QCA parameters such as minimal lumen diameter, maximum lumen diameter, reference diameter, diameter stenosis, lesion length, percent atheroma volume (PAV), total atheroma volume (TAV), and lumen volume.",
+                              "MACE (major adverse cardiovascular events)-free survival reflects per cent of survived patients without MACE. An amendment to the protocol was approved on August 29th 2012 with a decision to extend a 1-year study for another 4 years with the assessment of the 5-year clinical outcomes both retro- and prospectively."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Total Atheroma Volume",
+                              "MACE (Major Adverse Cardiovascular Events)-Free Survival"
+                        ],
+                        "NCTId": [
+                              "NCT01270139"
+                        ]
+                  }
+            ]
+      }
+}

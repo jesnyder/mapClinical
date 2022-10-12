@@ -1,0 +1,107 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04522505",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Skin and Connective Tissue Diseases",
+                              "Immune System Diseases",
+                              "All Conditions",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Nephritis",
+                              "Lupus Nephritis",
+                              "Lupus Nephritis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10329",
+                              "M11490",
+                              "M10330",
+                              "M9850",
+                              "M16471",
+                              "M8183",
+                              "M5616",
+                              "M3781",
+                              "M9352",
+                              "T3523",
+                              "T2525"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Lupus Erythematosus, Systemic",
+                              "Nephritis",
+                              "Lupus Nephritis",
+                              "Kidney Diseases",
+                              "Urologic Diseases",
+                              "Glomerulonephritis",
+                              "Connective Tissue Diseases",
+                              "Autoimmune Diseases",
+                              "Immune System Diseases",
+                              "Lupus Nephritis",
+                              "Glomerulonephritis"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009393",
+                              "D000008181"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Nephritis",
+                              "Lupus Nephritis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Case-Only"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT04522505"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,106 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04219241",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "Cellavita-HD is a stem-cell therapy for Huntington's Disease. Open label, single treatment, extension study for long-term safety and efficacy evaluation of Cellavita-HD intravenous administration in Huntington's disease patients who participated of ADORE-DH trial."
+                        ],
+                        "BriefTitle": [
+                              "Clinical Extension Study for Safety and Efficacy Evaluation of Cellavita-HD Administration in Huntington's Patients."
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "Cellavita Pesquisa Cient\u00edfica Ltda"
+                        ],
+                        "CompletionDate": [
+                              "April 2022"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Huntington Disease"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000001480",
+                              "D000001927",
+                              "D000002493",
+                              "D000009422",
+                              "D000003704",
+                              "D000002819",
+                              "D000020820",
+                              "D000009069",
+                              "D000020271",
+                              "D000019636",
+                              "D000030342",
+                              "D000003072",
+                              "D000019965",
+                              "D000001523"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Basal Ganglia Diseases",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Nervous System Diseases",
+                              "Dementia",
+                              "Chorea",
+                              "Dyskinesias",
+                              "Movement Disorders",
+                              "Heredodegenerative Disorders, Nervous System",
+                              "Neurodegenerative Diseases",
+                              "Genetic Diseases, Inborn",
+                              "Cognition Disorders",
+                              "Neurocognitive Disorders",
+                              "Mental Disorders"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC10",
+                              "BC16",
+                              "BXM",
+                              "All",
+                              "BC04",
+                              "BC17",
+                              "BC23",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT04219241"
+                        ]
+                  }
+            ]
+      }
+}

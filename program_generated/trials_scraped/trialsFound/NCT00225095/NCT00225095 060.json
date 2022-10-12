@@ -1,0 +1,81 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT00225095",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The purpose of this study is to determine whether Chondrogen is a safe and effective post-operative treatment of the knee following menisectomy (the surgical removal of all or part of a torn meniscus)."
+                        ],
+                        "BriefTitle": [
+                              "A Phase I/II Study of Chondrogen Delivered by Intra-Articular Injection Following Meniscectomy"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "OTHER",
+                              "UNKNOWN",
+                              "UNKNOWN",
+                              "OTHER",
+                              "UNKNOWN",
+                              "OTHER",
+                              "OTHER",
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "University of Southern California",
+                              "Midwest Orthopedics at Rush - Chicago, IL",
+                              "Unlimited Research - San Antonio, TX",
+                              "Triangle Orthopaedic Associates, P.A.",
+                              "Orthopedic Center of Vero Beach - Vero Beach, FL",
+                              "OrthoIndy",
+                              "TRIA Orthopaedic Center",
+                              "Greater Chesapeake Orthopaedic Associates, LLC"
+                        ],
+                        "CompletionDate": [
+                              "April 2008"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Recovery Following Partial Medial Meniscectomy"
+                        ],
+                        "ConditionAncestorId": [],
+                        "ConditionAncestorTerm": [],
+                        "ConditionBrowseBranchAbbrev": [],
+                        "NCTId": [
+                              "NCT00225095"
+                        ]
+                  }
+            ]
+      }
+}

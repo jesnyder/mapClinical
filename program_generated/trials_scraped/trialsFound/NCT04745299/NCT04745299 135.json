@@ -1,0 +1,77 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04745299",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "FlowRecruitmentDetails",
+                  "FlowTypeUnitsAnalyzed",
+                  "Gender",
+                  "GenderBased",
+                  "GenderDescription",
+                  "HasExpandedAccess",
+                  "HealthyVolunteers",
+                  "IPDSharing",
+                  "IPDSharingAccessCriteria",
+                  "IPDSharingDescription",
+                  "IPDSharingInfoType",
+                  "IPDSharingTimeFrame",
+                  "IPDSharingURL",
+                  "InterventionAncestorId",
+                  "InterventionAncestorTerm",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "FlowRecruitmentDetails": [],
+                        "FlowTypeUnitsAnalyzed": [],
+                        "Gender": [
+                              "All"
+                        ],
+                        "GenderBased": [],
+                        "GenderDescription": [],
+                        "HasExpandedAccess": [
+                              "No"
+                        ],
+                        "HealthyVolunteers": [
+                              "No"
+                        ],
+                        "IPDSharing": [],
+                        "IPDSharingAccessCriteria": [],
+                        "IPDSharingDescription": [],
+                        "IPDSharingInfoType": [],
+                        "IPDSharingTimeFrame": [],
+                        "IPDSharingURL": [],
+                        "InterventionAncestorId": [
+                              "D000000927",
+                              "D000018691",
+                              "D000018683",
+                              "D000018377",
+                              "D000045504",
+                              "D000045505",
+                              "D000018696",
+                              "D000020011"
+                        ],
+                        "InterventionAncestorTerm": [
+                              "Anticonvulsants",
+                              "Excitatory Amino Acid Antagonists",
+                              "Excitatory Amino Acid Agents",
+                              "Neurotransmitter Agents",
+                              "Molecular Mechanisms of Pharmacological Action",
+                              "Physiological Effects of Drugs",
+                              "Neuroprotective Agents",
+                              "Protective Agents"
+                        ],
+                        "NCTId": [
+                              "NCT04745299"
+                        ]
+                  }
+            ]
+      }
+}

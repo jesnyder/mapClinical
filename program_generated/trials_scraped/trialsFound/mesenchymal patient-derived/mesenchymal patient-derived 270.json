@@ -1,0 +1,153 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal patient-derived",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "LaTonya J Hickson, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 2024"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The number of Adverse Events associated with MSC intervention per treatment arm",
+                              "The percentage of Adverse Events associated with MSC intervention per treatment arm"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Adverse Events",
+                              "Adverse Events"
+                        ],
+                        "NCTId": [
+                              "NCT03840343"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "OverallOfficialName": [
+                              "Alessio Zippo, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [
+                              "No"
+                        ],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "November 27, 2020"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The aim is to establish a model of KS disease from fibroblasts from patients"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "success rate of fibroblasts culture"
+                        ],
+                        "NCTId": [
+                              "NCT03855631"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "OverallOfficialName": [
+                              "Manfred Weiss, MD",
+                              "Marion Schneider, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [
+                              "Yes"
+                        ],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "July 31, 2022"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Quantification of pro- and anti-inflammatory biomarkers after 24 hours of whole blood culture"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Cytokine profile in supernatants"
+                        ],
+                        "NCTId": [
+                              "NCT05191381"
+                        ]
+                  }
+            ]
+      }
+}

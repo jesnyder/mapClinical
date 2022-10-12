@@ -1,0 +1,77 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01920867",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "PrimaryOutcomeTimeFrame",
+                  "ReferenceCitation",
+                  "ReferencePMID",
+                  "ReferenceType",
+                  "RemovedCountry",
+                  "ResponsiblePartyInvestigatorAffiliation",
+                  "ResponsiblePartyInvestigatorFullName",
+                  "ResponsiblePartyInvestigatorTitle",
+                  "ResponsiblePartyOldNameTitle",
+                  "ResponsiblePartyOldOrganization",
+                  "ResponsiblePartyType",
+                  "ResultsFirstPostDate",
+                  "ResultsFirstPostDateType",
+                  "ResultsFirstPostedQCCommentsDate",
+                  "ResultsFirstPostedQCCommentsDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "PrimaryOutcomeTimeFrame": [
+                              "1 day to 12 months"
+                        ],
+                        "ReferenceCitation": [
+                              "Weiss JN, Levy S, Malkin A. Stem Cell Ophthalmology Treatment Study (SCOTS) for retinal and optic nerve diseases: a preliminary report. Neural Regen Res. 2015 Jun;10(6):982-8. doi: 10.4103/1673-5374.158365.",
+                              "Weiss JN, Levy S, Benes SC. Stem Cell Ophthalmology Treatment Study (SCOTS) for retinal and optic nerve diseases: a case report of improvement in relapsing auto-immune optic neuropathy. Neural Regen Res. 2015 Sep;10(9):1507-15. doi: 10.4103/1673-5374.165525.",
+                              "Weiss JN, Benes SC, Levy S. Stem Cell Ophthalmology Treatment Study (SCOTS): improvement in serpiginous choroidopathy following autologous bone marrow derived stem cell treatment. Neural Regen Res. 2016 Sep;11(9):1512-1516.",
+                              "Kasetty MA, Hedges TR 3rd, Witkin AJ. BILATERAL EPIRETINAL MEMBRANE FORMATION AFTER INTRAVITREAL INJECTIONS OF AUTOLOGOUS MESENCHYMAL STEM CELLS. Retin Cases Brief Rep. 2022 Sep 1;16(5):561-564. doi: 10.1097/ICB.0000000000001032.",
+                              "Weiss JN, Levy S, Benes SC. Stem Cell Ophthalmology Treatment Study (SCOTS): bone marrow-derived stem cells in the treatment of Leber's hereditary optic neuropathy. Neural Regen Res. 2016 Oct;11(10):1685-1694."
+                        ],
+                        "ReferencePMID": [
+                              "26199618",
+                              "26604914",
+                              "27857759",
+                              "32568958",
+                              "27904503"
+                        ],
+                        "ReferenceType": [
+                              "result",
+                              "result",
+                              "result",
+                              "derived",
+                              "derived"
+                        ],
+                        "RemovedCountry": [
+                              "United Arab Emirates"
+                        ],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT01920867"
+                        ]
+                  }
+            ]
+      }
+}

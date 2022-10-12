@@ -1,0 +1,106 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02899091",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Nervous System Diseases",
+                              "Behaviors and Mental Disorders",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Alzheimer's Disease",
+                              "Alzheimer's Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3037",
+                              "M6056",
+                              "M4356",
+                              "M4894",
+                              "M22155",
+                              "M20711",
+                              "M20989",
+                              "M13625",
+                              "M3967",
+                              "T2192"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Alzheimer Disease",
+                              "Dementia",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Tauopathies",
+                              "Neurodegenerative Diseases",
+                              "Neurocognitive Disorders",
+                              "Psychotic Disorders",
+                              "Mental Disorders",
+                              "Familial Alzheimer Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000000544"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Alzheimer Disease"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02899091"
+                        ]
+                  }
+            ]
+      }
+}

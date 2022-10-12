@@ -1,0 +1,135 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Descartes-30",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Infections",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Wounds and Injuries",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Syndrome",
+                              "Respiratory Distress Syndrome",
+                              "Respiratory Distress Syndrome",
+                              "Acute Respiratory Distress Syndrome",
+                              "Respiratory Distress Syndrome",
+                              "Acute Respiratory Distress Syndrome"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M2562",
+                              "M15507",
+                              "M14117",
+                              "M14116",
+                              "M27297",
+                              "M27296",
+                              "M10320",
+                              "M14129",
+                              "M14109",
+                              "M25022",
+                              "M9431",
+                              "M9428",
+                              "T4927",
+                              "T192",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "COVID-19",
+                              "Syndrome",
+                              "Respiratory Distress Syndrome",
+                              "Respiratory Distress Syndrome, Newborn",
+                              "Acute Lung Injury",
+                              "Lung Injury",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Respiration Disorders",
+                              "Premature Birth",
+                              "Infant, Premature, Diseases",
+                              "Infant, Newborn, Diseases",
+                              "Respiratory Distress Syndrome, Infant",
+                              "Acute Respiratory Distress Syndrome",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000012128",
+                              "D000012127",
+                              "D000055371",
+                              "D000013577"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Respiratory Distress Syndrome",
+                              "Respiratory Distress Syndrome, Newborn",
+                              "Acute Lung Injury",
+                              "Syndrome"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04524962"
+                        ]
+                  }
+            ]
+      }
+}

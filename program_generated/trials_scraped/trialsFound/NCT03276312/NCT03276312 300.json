@@ -1,0 +1,74 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03276312",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "All types of adverse events will be collected",
+                              "Relapse is intended as revision of the amputation stump or amputation at a higher level",
+                              "Pain will be assessed using the VAS pain scale",
+                              "Hospitalization of the patient will be assessed counting the number of days in hospital",
+                              "Immobility of the patient will be assessed counting the number of bed rest days",
+                              "Assessment of the quality of life (QoL) before surgery and during all the subsequent follow up visits using the SF-36 questionnaire"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Safety: All types of adverse events will be collected",
+                              "Incidence of relapse",
+                              "Pain assessed using the Visual Analogue Scale (VAS) for pain",
+                              "Total time of hospitalization",
+                              "Total time of immobility",
+                              "Quality of Life using the Short Form 36 (SF-36) questionnaire"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months",
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03276312"
+                        ]
+                  }
+            ]
+      }
+}

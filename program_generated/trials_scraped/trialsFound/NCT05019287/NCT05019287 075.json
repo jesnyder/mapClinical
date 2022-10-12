@@ -1,0 +1,136 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT05019287",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Infections",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "COVID-19",
+                              "Cytokine Storm"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M2562",
+                              "M15507",
+                              "M2157",
+                              "M9435",
+                              "M5520",
+                              "M14130",
+                              "M13056",
+                              "M13066",
+                              "M16674",
+                              "M19643",
+                              "M5707",
+                              "M22838",
+                              "M14301",
+                              "M10320",
+                              "M14129",
+                              "M19971",
+                              "M9445",
+                              "M14729"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "COVID-19",
+                              "Syndrome",
+                              "Cytokine Release Syndrome",
+                              "Infections",
+                              "Communicable Diseases",
+                              "Respiratory Tract Infections",
+                              "Pneumonia",
+                              "Pneumonia, Viral",
+                              "Virus Diseases",
+                              "Coronavirus Infections",
+                              "Coronaviridae Infections",
+                              "Nidovirales Infections",
+                              "RNA Virus Infections",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Systemic Inflammatory Response Syndrome",
+                              "Inflammation",
+                              "Shock"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000086382",
+                              "D000080424"
+                        ],
+                        "ConditionMeshTerm": [
+                              "COVID-19",
+                              "Cytokine Release Syndrome"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Biological: allogeneic human menstrual blood stem cells secretome Intravenous injection of 5 ml menstrual blood stem cells secretome on day 1, day 2, day 3, day 4, and day 5, based on the routine treatment of COVID-19\nOther: Intravenous saline injection (Placebo) Intravenous injection of 5ml of 0.9% saline on day 1, day 2, day 3, day 4, and day 5, based on the routine treatment of COVID-19"
+                        ],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [
+                              "Assessments regarding clinical recovery will be conducted by the outcomes assessors blind to treatment allocation. Due to the nature of the intervention, staff cannot be blinded to allocation, but the participants are blind to the group to which they belong. An employee outside the research team will feed data into the computer in separate datasheets so that the outcomes assessors can analyses data without having access to information about the allocation."
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05019287"
+                        ]
+                  }
+            ]
+      }
+}

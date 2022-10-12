@@ -1,0 +1,73 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01270139",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "FlowRecruitmentDetails",
+                  "FlowTypeUnitsAnalyzed",
+                  "Gender",
+                  "GenderBased",
+                  "GenderDescription",
+                  "HasExpandedAccess",
+                  "HealthyVolunteers",
+                  "IPDSharing",
+                  "IPDSharingAccessCriteria",
+                  "IPDSharingDescription",
+                  "IPDSharingInfoType",
+                  "IPDSharingTimeFrame",
+                  "IPDSharingURL",
+                  "InterventionAncestorId",
+                  "InterventionAncestorTerm",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "FlowRecruitmentDetails": [
+                              "This trial was a multi-centre (two sites), observational, open-label, three arms study in 180 patients with CAD and angiographic SYNTAX score \u226422. The project started in April, 2007 and completed in June, 2012."
+                        ],
+                        "FlowTypeUnitsAnalyzed": [],
+                        "Gender": [
+                              "All"
+                        ],
+                        "GenderBased": [],
+                        "GenderDescription": [],
+                        "HasExpandedAccess": [
+                              "No"
+                        ],
+                        "HealthyVolunteers": [
+                              "No"
+                        ],
+                        "IPDSharing": [
+                              "Yes"
+                        ],
+                        "IPDSharingAccessCriteria": [
+                              "There are no specific criteria, but the access to the raw data is partly restricted by the Russian Federal Security Service for indefinite time."
+                        ],
+                        "IPDSharingDescription": [
+                              "The raw data will be partially shared (a Protocol for NANOM-FIM trial and related DREAM project; raw data with atomic force microscopy and scanning electron microscopy) in Mendeley Datasets and ResearchGate without any additional dissemination."
+                        ],
+                        "IPDSharingInfoType": [
+                              "Study Protocol"
+                        ],
+                        "IPDSharingTimeFrame": [
+                              "The data-sets will be provided in Mendeley and ResearchGate being accompanied to the published articles in 2013-2020."
+                        ],
+                        "IPDSharingURL": [
+                              "https://doi.org/10.13140/2.1.3109.5847"
+                        ],
+                        "InterventionAncestorId": [],
+                        "InterventionAncestorTerm": [],
+                        "NCTId": [
+                              "NCT01270139"
+                        ]
+                  }
+            ]
+      }
+}

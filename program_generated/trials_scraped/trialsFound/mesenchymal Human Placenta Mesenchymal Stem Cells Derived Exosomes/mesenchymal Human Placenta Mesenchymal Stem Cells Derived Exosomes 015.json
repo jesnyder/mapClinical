@@ -1,0 +1,98 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal Human Placenta Mesenchymal Stem Cells Derived Exosomes",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "The patients whose fistula is treated by exosome (40 patients).",
+                              "The patients whose fistula is treated with conventional treatment plan (40 patients)."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: placenta-MSCs derived exosomes",
+                              "Other: placenta-MSCs derived exosomes"
+                        ],
+                        "ArmGroupLabel": [
+                              "exosome cases",
+                              "Controls"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05402748"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "placenta-MSCs derived exosomes Exosomes are extracellular vesicles that are 30 to 150 nm in diameter. These vesicles are secreted from various cells. Mesenchymal stem cells exhibit immunomodulatory and anti-inflammatory properties by using paracrine effects. Exosomes, as a vehicle for signaling, are responsible for a significant part of cell-to-cell signaling. The preclinical animal studies manifested high safety and efficacy for MSC-derived exosome treatment on various fistulas and inflammatory bowel disease. In this study, we aimed to evaluate the safety and effectiveness of PlacentaMSCs derived exosomes in the treatment of patients with complex preanal fistula (Crohn's) in phases I and II of the clinical trial",
+                              "placebo"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: placenal MSC derived exosomes",
+                              "Other: placenal MSC derived exosomes"
+                        ],
+                        "ArmGroupLabel": [
+                              "exosome therapy",
+                              "placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT05499156"
+                        ]
+                  }
+            ]
+      }
+}

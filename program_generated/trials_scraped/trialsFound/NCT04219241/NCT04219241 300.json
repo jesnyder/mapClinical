@@ -1,0 +1,77 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04219241",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "23917319.0.0000.5412"
+                        ],
+                        "SecondaryIdDomain": [
+                              "CAAE"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Registry Identifier"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "The clinical neurological worsening over the treatment will be evaluated by specific Unified Huntington's Disease Rating Scale - UHDRS subscales (motor, behavior, functional capacity and cognitive domain). Each specific domain have 4 categories (from 0 to 4). For motor subscale, the score ranged from 0 to 124; Therefore,highest scores indicate more severe motor impairment. Cognitive operations are assessed by aplication of three tests: verbal fluency test, Symbol Digit modalities test and the Stroop Color Word test. For all cognitive tests, highest scores translate to better cognitive ability. Behavior assessment score is obtained by summing different items related to the severity of psychiatric symptoms. Highest scores indicate greater behavioral impairment. Functional assessment includes three scales: a functional checklist, an independence scale, and a total functional capacity assessment. The maximum score of 25 points represents greater functional capacity.",
+                              "The BMI (Body Mass Index) will be evaluated through the BMI profiles obtained during the treatment to evaluate the nutritional status.",
+                              "Will be evaluated by Columbia Suicide Severity Rating Scale (C-SSRS) registered throughout the study in relation to the baseline score. The total score ranges from 2 to 25, with a higher number indicating more intense ideation and greater risk. Greater lethality or potential lethality of the behavior (endorsed on the Behavior subscale) indicates increased risk.",
+                              "Will be evaluated through Suicidal Domain from HDS (Hamilton Depression Scale) registered throughout the study in relation to the baseline score. Scores above 25 points characterize severely ill patients depressed; scores between 18 and 24 points, moderately depressed patients; and scores between 7 and 17 points, patients with mild depression.",
+                              "Huntington's patients normally present MRI structural abnormalities, including cortical atrophy and structural white matter changes. Alterations after product administration will be evaluated througout statistical comparison of the CNS assessment through magnetic resonance imaging at cortical thickness measurements, volumes of different brain structures, especially the basal ganglia, with special attention to caudate and metabolic changes identified in proton spectroscopy."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Clinical neurological worsening over the treatment by UHDRS",
+                              "BMI assessment",
+                              "Risk of suicidal ideation and/or behavior by C-SSRS",
+                              "Risk of suicidal ideation and/or behavior by HDS",
+                              "CNS assessment by MRI (Magnetic Ressonance Imaging)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Two years",
+                              "Two years",
+                              "Two years",
+                              "Two years",
+                              "One year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04219241"
+                        ]
+                  }
+            ]
+      }
+}

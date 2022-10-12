@@ -1,0 +1,104 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT00225095",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "December 23, 2021"
+                        ],
+                        "LeadSponsorClass": [
+                              "INDUSTRY"
+                        ],
+                        "LeadSponsorName": [
+                              "Mesoblast International S\u00e0rl"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Los Angeles",
+                              "Vero Beach",
+                              "Chicago",
+                              "Indianapolis",
+                              "Baltimore",
+                              "Bloomington",
+                              "Durham",
+                              "San Antonio"
+                        ],
+                        "LocationContactEMail": [],
+                        "LocationContactName": [],
+                        "LocationContactPhone": [],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [],
+                        "LocationCountry": [
+                              "United States",
+                              "United States",
+                              "United States",
+                              "United States",
+                              "United States",
+                              "United States",
+                              "United States",
+                              "United States"
+                        ],
+                        "LocationFacility": [
+                              "University of Southern California",
+                              "Orthopedic Center of Vero Beach",
+                              "Midwest Orthopaedics at Rush",
+                              "Ortholndy",
+                              "Greater Chesapeake Associates",
+                              "TRIA Orthopaedic Center",
+                              "Triangle Orthopaedics Associates, P.A.",
+                              "Unlimited Research"
+                        ],
+                        "LocationState": [
+                              "California",
+                              "Florida",
+                              "Illinois",
+                              "Indiana",
+                              "Maryland",
+                              "Minnesota",
+                              "North Carolina",
+                              "Texas"
+                        ],
+                        "LocationStatus": [],
+                        "LocationZip": [
+                              "90033",
+                              "32960",
+                              "60612",
+                              "46237",
+                              "21218",
+                              "55431",
+                              "27704",
+                              "78233"
+                        ],
+                        "NCTId": [
+                              "NCT00225095"
+                        ]
+                  }
+            ]
+      }
+}

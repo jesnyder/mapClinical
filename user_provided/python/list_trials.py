@@ -10,6 +10,7 @@ import requests
 import time
 
 from pytrials.client import ClinicalTrials
+from build_dataset import clinicaltrials_query
 
 
 from admin import reset_df
@@ -70,6 +71,9 @@ def list_df():
 
             if url in known_urls: continue
 
+            nctid = str(url.split('/')[-1])
+            clinicaltrials_query(nctid)
+
             df_url = df[df['URL'] == url]
             df_all = df_all.append(df_url)
             df_all = df_all.drop_duplicates(subset = "URL", keep='first')
@@ -104,9 +108,6 @@ def list_included():
             append_list('trials_removed', url)
             continue
 
-        if 'NCT03963544' in url:
-            assert 1 == 2
-
         # do not append the trial, if keywords are not found in the title, summary, or intervention
         if keyword_found(desc) == False:
             append_list('trials_removed', url)
@@ -124,6 +125,7 @@ def keyword_found(desc):
 
     print(np.isnan(np.inf))
     if pd.isnull(desc) == True: return(False)
+    desc = str(desc).lower()
     #if np.isnan(desc) == True: return(False)
 
     mandatory_terms = ['mesenchymal', 'msc', 'prochymal']
@@ -136,6 +138,11 @@ def keyword_found(desc):
     mandatory_terms.append('FURESTEM-CD Inj.')
     mandatory_terms.append('Bone Marrow Stem Cells')
     mandatory_terms.append('AVB-114')
+    mandatory_terms.append('NeoFuse')
+    mandatory_terms.append('bone marrow derived mesenchymal stem cells')
+    mandatory_terms.append('adipose tissue derived stromal cells')
+    mandatory_terms.append('Ex Vivo Expansion of Umbilical Cord Blood')
+    mandatory_terms.append('AlloStem')
 
     for mandatory_term in mandatory_terms:
         #print('mandatory_term = ' + str(mandatory_term))

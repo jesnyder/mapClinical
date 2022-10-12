@@ -1,0 +1,53 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT05120726",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "EventGroupOtherNumAtRisk",
+                  "EventGroupSeriousNumAffected",
+                  "EventGroupSeriousNumAtRisk",
+                  "EventGroupTitle",
+                  "EventsDescription",
+                  "EventsFrequencyThreshold",
+                  "EventsTimeFrame",
+                  "ExpAccTypeIndividual",
+                  "ExpAccTypeIntermediate",
+                  "ExpAccTypeTreatment",
+                  "ExpandedAccessNCTId",
+                  "ExpandedAccessStatusForNCTId",
+                  "FDAAA801Violation",
+                  "FlowAchievementComment",
+                  "FlowAchievementGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "EventGroupOtherNumAtRisk": [],
+                        "EventGroupSeriousNumAffected": [],
+                        "EventGroupSeriousNumAtRisk": [],
+                        "EventGroupTitle": [],
+                        "EventsDescription": [],
+                        "EventsFrequencyThreshold": [],
+                        "EventsTimeFrame": [],
+                        "ExpAccTypeIndividual": [],
+                        "ExpAccTypeIntermediate": [],
+                        "ExpAccTypeTreatment": [],
+                        "ExpandedAccessNCTId": [],
+                        "ExpandedAccessStatusForNCTId": [],
+                        "FDAAA801Violation": [],
+                        "FlowAchievementComment": [],
+                        "FlowAchievementGroupId": [],
+                        "NCTId": [
+                              "NCT05120726"
+                        ]
+                  }
+            ]
+      }
+}

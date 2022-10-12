@@ -1,0 +1,85 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT00629096",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The main aim of the study is to determine whether intracoronary infusion of autologous bone marrow mononuclear cells can improve the ventricular function of patients with idiopathic dilated cardiomyopathy.Secondary end-points will be:\n\nTo evaluate possible changes in patient functional capacity and\nto identify the biological characteristics of the bone marrow graft that might influence on functional recovery."
+                        ],
+                        "BriefTitle": [
+                              "Intracoronary Infusion of Autologous Bone Marrow Cells for Treatment of Idiopathic Dilated Cardiomyopathy"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "Iniciativa Andaluza en Terapias Avanzadas"
+                        ],
+                        "CompletionDate": [
+                              "December 2010"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Dilated Cardiomyopathy"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000006331",
+                              "D000002318",
+                              "D000006332",
+                              "D000083083",
+                              "D000030342"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Heart Diseases",
+                              "Cardiovascular Diseases",
+                              "Cardiomegaly",
+                              "Laminopathies",
+                              "Genetic Diseases, Inborn"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC14",
+                              "All",
+                              "BC16",
+                              "BC23",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT00629096"
+                        ]
+                  }
+            ]
+      }
+}

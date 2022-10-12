@@ -1,0 +1,65 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03555357",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Platelet Rich Plasma (PRP) injections into one half of the scar will be preformed. PRP is already considered an effective treatment for scar therapy.This will be randomly assigned by the clinical research coordinator .",
+                              "Platelet Rich Fibrin (PRF) injections will be preformed the other half of the scar that is not treated with PRP. PRF has not been established as an effective scar treatment. The PRF will be considered experimental as this study seeks to evaluate if it is more effective than PRP."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Other: Platelet Rich Plasma",
+                              "Other: Platelet Rich Fibrin"
+                        ],
+                        "ArmGroupLabel": [
+                              "PRP",
+                              "PRF"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03555357"
+                        ]
+                  }
+            ]
+      }
+}

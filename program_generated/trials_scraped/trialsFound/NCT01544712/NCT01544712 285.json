@@ -1,0 +1,69 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01544712",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "PrimaryOutcomeTimeFrame",
+                  "ReferenceCitation",
+                  "ReferencePMID",
+                  "ReferenceType",
+                  "RemovedCountry",
+                  "ResponsiblePartyInvestigatorAffiliation",
+                  "ResponsiblePartyInvestigatorFullName",
+                  "ResponsiblePartyInvestigatorTitle",
+                  "ResponsiblePartyOldNameTitle",
+                  "ResponsiblePartyOldOrganization",
+                  "ResponsiblePartyType",
+                  "ResultsFirstPostDate",
+                  "ResultsFirstPostDateType",
+                  "ResultsFirstPostedQCCommentsDate",
+                  "ResultsFirstPostedQCCommentsDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "PrimaryOutcomeTimeFrame": [
+                              "24, 60 months"
+                        ],
+                        "ReferenceCitation": [
+                              "Hauzeur JP, De Maertelaer V, Baudoux E, Malaise M, Beguin Y, Gangji V. Inefficacy of autologous bone marrow concentrate in stage three osteonecrosis: a randomized controlled double-blind trial. Int Orthop. 2018 Jul;42(7):1429-1435. doi: 10.1007/s00264-017-3650-8. Epub 2017 Oct 7."
+                        ],
+                        "ReferencePMID": [
+                              "28988340"
+                        ],
+                        "ReferenceType": [
+                              "derived"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "University of Liege"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Jean-Philippe Hauzeur"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Principal investigator"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT01544712"
+                        ]
+                  }
+            ]
+      }
+}

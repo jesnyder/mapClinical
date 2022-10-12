@@ -1,0 +1,99 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02131077",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "Wounds and Injuries",
+                              "All Conditions",
+                              "Nervous System Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Lateral Epicondylitis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M15638",
+                              "M26166",
+                              "M627",
+                              "M11244",
+                              "M11249",
+                              "M3596",
+                              "M16837",
+                              "M15631"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Tennis Elbow",
+                              "Tendinopathy",
+                              "Elbow Tendinopathy",
+                              "Muscular Diseases",
+                              "Musculoskeletal Diseases",
+                              "Arm Injuries",
+                              "Wounds and Injuries",
+                              "Tendon Injuries"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000013716"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Tennis Elbow"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02131077"
+                        ]
+                  }
+            ]
+      }
+}

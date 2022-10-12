@@ -1,0 +1,108 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02728115",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "Cellavita HD is a stem-cell therapy for Huntington's Disease. This is a first-in-human, non-randomized, phase I study in which participants with Huntington's Disease will receive three intravenous injections and will be followed for 5 years to evaluate safety and tolearability of product and preliminary evidence of effectiveness."
+                        ],
+                        "BriefTitle": [
+                              "Safety Evaluation of Cellavita HD Administered Intravenously in Participants With Huntington's Disease"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "OTHER",
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "Cellavita Pesquisa Cient\u00edfica Ltda",
+                              "Azidus Brasil Scientific Research and Development Ltda"
+                        ],
+                        "CompletionDate": [
+                              "December 2023"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Huntington Disease"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000001480",
+                              "D000001927",
+                              "D000002493",
+                              "D000009422",
+                              "D000003704",
+                              "D000002819",
+                              "D000020820",
+                              "D000009069",
+                              "D000020271",
+                              "D000019636",
+                              "D000030342",
+                              "D000003072",
+                              "D000019965",
+                              "D000001523"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Basal Ganglia Diseases",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Nervous System Diseases",
+                              "Dementia",
+                              "Chorea",
+                              "Dyskinesias",
+                              "Movement Disorders",
+                              "Heredodegenerative Disorders, Nervous System",
+                              "Neurodegenerative Diseases",
+                              "Genetic Diseases, Inborn",
+                              "Cognition Disorders",
+                              "Neurocognitive Disorders",
+                              "Mental Disorders"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC10",
+                              "BC16",
+                              "BXM",
+                              "All",
+                              "BC04",
+                              "BC17",
+                              "BC23",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT02728115"
+                        ]
+                  }
+            ]
+      }
+}

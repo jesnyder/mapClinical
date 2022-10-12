@@ -1,0 +1,71 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT05162326",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This is an open-label, single-arm, dose-escalating study to evaluate the safety and tolerability of BC-101 administered via subcutaneous/intradermal injection in the treatment of moderate to severe nasolabial folds."
+                        ],
+                        "BriefTitle": [
+                              "BC-101 in Treatment of Nasolabial Fold Wrinkles"
+                        ],
+                        "CentralContactEMail": [
+                              "jenniferw@brightcellinc.com"
+                        ],
+                        "CentralContactName": [
+                              "Jennifer Wang"
+                        ],
+                        "CentralContactPhone": [
+                              "949-333-3636"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "June 30, 2023"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Moderate to Severe Nasolabial Fold Wrinkles"
+                        ],
+                        "ConditionAncestorId": [],
+                        "ConditionAncestorTerm": [],
+                        "ConditionBrowseBranchAbbrev": [],
+                        "NCTId": [
+                              "NCT05162326"
+                        ]
+                  }
+            ]
+      }
+}

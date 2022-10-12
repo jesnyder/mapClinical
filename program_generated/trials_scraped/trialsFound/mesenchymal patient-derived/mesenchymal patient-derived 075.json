@@ -1,0 +1,343 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal patient-derived",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Nutritional and Metabolic Diseases",
+                              "Gland and Hormone Related Diseases",
+                              "All Conditions",
+                              "Immune System Diseases",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Diabetes Mellitus",
+                              "Diabetes Mellitus, Type 1",
+                              "Diabetes Mellitus, Type 2",
+                              "Kidney Disease",
+                              "Kidney Insufficiency",
+                              "Diabetic Nephropathy",
+                              "Chronic Kidney Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M6267",
+                              "M6269",
+                              "M6271",
+                              "M9850",
+                              "M25871",
+                              "M6275",
+                              "M25870",
+                              "M10791",
+                              "M24556",
+                              "M7014",
+                              "M16471",
+                              "M3781",
+                              "M9352",
+                              "M25157",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Diabetes Mellitus",
+                              "Diabetes Mellitus, Type 1",
+                              "Diabetes Mellitus, Type 2",
+                              "Kidney Diseases",
+                              "Renal Insufficiency",
+                              "Diabetic Nephropathies",
+                              "Renal Insufficiency, Chronic",
+                              "Metabolic Diseases",
+                              "Glucose Metabolism Disorders",
+                              "Endocrine System Diseases",
+                              "Urologic Diseases",
+                              "Autoimmune Diseases",
+                              "Immune System Diseases",
+                              "Diabetes Complications",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000007674",
+                              "D000051436",
+                              "D000051437",
+                              "D000003928",
+                              "D000003920",
+                              "D000003924",
+                              "D000003922"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Kidney Diseases",
+                              "Renal Insufficiency, Chronic",
+                              "Renal Insufficiency",
+                              "Diabetic Nephropathies",
+                              "Diabetes Mellitus",
+                              "Diabetes Mellitus, Type 2",
+                              "Diabetes Mellitus, Type 1"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03840343"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Ear, Nose, and Throat Diseases",
+                              "Blood and Lymph Conditions",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Syndrome",
+                              "Kabuki Syndrome",
+                              "Kabuki Syndrome",
+                              "Genetic Disorders",
+                              "Kabuki Syndrome",
+                              "Kabuki Syndrome"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M15507",
+                              "M17539",
+                              "M8642",
+                              "M22839",
+                              "M12",
+                              "M14",
+                              "M9934",
+                              "M9931",
+                              "M6753",
+                              "M12113",
+                              "T3187"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Syndrome",
+                              "Vestibular Diseases",
+                              "Hematologic Diseases",
+                              "Genetic Diseases, Inborn",
+                              "Congenital Abnormalities",
+                              "Abnormalities, Multiple",
+                              "Labyrinthitis",
+                              "Labyrinth Diseases",
+                              "Ear Diseases",
+                              "Otorhinolaryngologic Diseases",
+                              "Kabuki Syndrome"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000015837",
+                              "D000006402",
+                              "D000030342",
+                              "D000000015",
+                              "D000013577"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Vestibular Diseases",
+                              "Hematologic Diseases",
+                              "Genetic Diseases, Inborn",
+                              "Abnormalities, Multiple",
+                              "Syndrome"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Cohort"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT03855631"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "Infections"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Critical Illness",
+                              "Lung Fibrosis",
+                              "COVID-19",
+                              "Hypercytokinemia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M18162",
+                              "M13664",
+                              "M2562",
+                              "M7637",
+                              "M20017",
+                              "M16021",
+                              "M2157",
+                              "M15507",
+                              "M9435",
+                              "M5520",
+                              "M14130",
+                              "M13056",
+                              "M13066",
+                              "M16674",
+                              "M19643",
+                              "M5707",
+                              "M22838",
+                              "M14301",
+                              "M10320",
+                              "M14129",
+                              "M21853",
+                              "M19971",
+                              "M9445",
+                              "M14729"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Critical Illness",
+                              "Pulmonary Fibrosis",
+                              "COVID-19",
+                              "Fibrosis",
+                              "Sepsis",
+                              "Toxemia",
+                              "Cytokine Release Syndrome",
+                              "Syndrome",
+                              "Infections",
+                              "Communicable Diseases",
+                              "Respiratory Tract Infections",
+                              "Pneumonia",
+                              "Pneumonia, Viral",
+                              "Virus Diseases",
+                              "Coronavirus Infections",
+                              "Coronaviridae Infections",
+                              "Nidovirales Infections",
+                              "RNA Virus Infections",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Disease Attributes",
+                              "Systemic Inflammatory Response Syndrome",
+                              "Inflammation",
+                              "Shock"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000086382",
+                              "D000011658",
+                              "D000016638",
+                              "D000080424"
+                        ],
+                        "ConditionMeshTerm": [
+                              "COVID-19",
+                              "Pulmonary Fibrosis",
+                              "Critical Illness",
+                              "Cytokine Release Syndrome"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Cohort"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT05191381"
+                        ]
+                  }
+            ]
+      }
+}

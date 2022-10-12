@@ -1,0 +1,59 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04261335",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAt least 36 weeks gestation, and either one of the following criteria (i.-iii.) i. Apgar score \u22645 at 10 minutes ii. Continued resuscitation for at least 10 minutes iii. pH <7.0 or base deficit \u226516 mmol/L in any blood sample obtained within 60 min of birth\nModerate or severe encephalopathy by a Sarnat criteria\nUndergone therapeutic hypothermia started before six hours of birth, and done for 72 hours continuously\nBirth weight \u22651,800 g\nHeart rate \u2265100/min, and SpO2 \u226590 %\nAble to provide voluntary written consent after receiving adequate information about the study (consent will be obtained from an acceptable representative)\n\nExclusion Criteria:\n\nSuspected or confirmed severe congenital abnormalities or chromosomal anomaly\nPlanned to undergo surgery or radiation therapy\nScheduled to take systemic corticosteroids treatment for over five days\nBlood glucose \u2265 200 mg/dL\nParticipation in another clinical study (not exclude patients in observational studies)\nSuspected or confirmed active and severe infection\nPositive for HBs antigen, HCV antibody, HIV antibody, HTLV-1 antibody or syphilis serum reaction\nHistory of severe hypersensitivity or anaphylactic reaction\nSevere complications"
+                        ],
+                        "EnrollmentCount": [
+                              "9"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04261335"
+                        ]
+                  }
+            ]
+      }
+}

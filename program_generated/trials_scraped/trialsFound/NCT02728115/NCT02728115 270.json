@@ -1,0 +1,71 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02728115",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Joyce Macedo da Silva, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Active, not recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "October 2022"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The safety of the investigational product will be evaluated in detail from periodic evaluations contemplating monitoring changes of:\n\nAdverse events including type, frequency, intensity, seriousness, severity, and action taken related to the investigational product study;\nVital signs (BP, HR, axillary temperature), physical and medical examination (BMI, weight, height, medical condition - cardiovascular, pulmonary, digestive, musculoskeletal and peripheral, with emphasis on the neurological assessment and others);\nLaboratory tests included hematologic, biochemical, urologic and serological analysis;\nElectrocardiogram (ECG) of 12 derivations;\nIncidence and classification of benign and malignant neoplasms in the following organs/systems: CNS, lung, liver, spleen, pancreas, prostate, testicle, urinary, hematological and skeletal system through the laboratory tests, magnetic resonance imaging, computerized tomography and ultrasonography."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Safety of Cellavita HD by periodic monitoring changes at adverse events, vital signs, laboratory tests, ECG and incidence of benign and malignant neoplasms"
+                        ],
+                        "NCTId": [
+                              "NCT02728115"
+                        ]
+                  }
+            ]
+      }
+}

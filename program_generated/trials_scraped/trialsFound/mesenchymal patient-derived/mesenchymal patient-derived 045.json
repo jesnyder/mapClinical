@@ -1,0 +1,103 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal patient-derived",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "BaselineMeasureDispersionType",
+                  "BaselineMeasureParamType",
+                  "BaselineMeasurePopulationDescription",
+                  "BaselineMeasureTitle",
+                  "BaselineMeasureUnitOfMeasure",
+                  "BaselineMeasurementComment",
+                  "BaselineMeasurementGroupId",
+                  "BaselineMeasurementLowerLimit",
+                  "BaselineMeasurementSpread",
+                  "BaselineMeasurementUpperLimit",
+                  "BaselineMeasurementValue",
+                  "BaselinePopulationDescription",
+                  "BaselineTypeUnitsAnalyzed",
+                  "BioSpecDescription",
+                  "BioSpecRetention",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT03840343"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [
+                              "Skin fibroblast from 4 KS patients with KMT2D mutation and sex matched parents"
+                        ],
+                        "BioSpecRetention": [
+                              "Samples Without DNA"
+                        ],
+                        "NCTId": [
+                              "NCT03855631"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "BaselineMeasureDispersionType": [],
+                        "BaselineMeasureParamType": [],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [],
+                        "BaselineMeasureUnitOfMeasure": [],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [
+                              "4 ml of heparin- and 2 ml of EDTA-anti-coagulated blood"
+                        ],
+                        "BioSpecRetention": [
+                              "Samples With DNA"
+                        ],
+                        "NCTId": [
+                              "NCT05191381"
+                        ]
+                  }
+            ]
+      }
+}

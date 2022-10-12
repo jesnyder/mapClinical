@@ -1,0 +1,59 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04219241",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OtherEventStatsGroupId",
+                  "OtherEventStatsNumAffected",
+                  "OtherEventStatsNumAtRisk",
+                  "OtherEventStatsNumEvents",
+                  "OtherEventTerm",
+                  "OtherOutcomeDescription",
+                  "OtherOutcomeMeasure",
+                  "OtherOutcomeTimeFrame",
+                  "OutcomeAnalysisCILowerLimit",
+                  "OutcomeAnalysisCILowerLimitComment",
+                  "OutcomeAnalysisCINumSides",
+                  "OutcomeAnalysisCIPctValue",
+                  "OutcomeAnalysisCIUpperLimit",
+                  "OutcomeAnalysisCIUpperLimitComment",
+                  "OutcomeAnalysisDispersionType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OtherEventStatsGroupId": [],
+                        "OtherEventStatsNumAffected": [],
+                        "OtherEventStatsNumAtRisk": [],
+                        "OtherEventStatsNumEvents": [],
+                        "OtherEventTerm": [],
+                        "OtherOutcomeDescription": [
+                              "Will be evaluated from the periodical assessments including clinical and imaging exams. Any clinical relevant change will be properly recorded and judged by Investigator according to expectation, causality, intesity and severity, as well as the continued treatment administration."
+                        ],
+                        "OtherOutcomeMeasure": [
+                              "Safety of Cellavita-HD administration"
+                        ],
+                        "OtherOutcomeTimeFrame": [
+                              "Two years"
+                        ],
+                        "OutcomeAnalysisCILowerLimit": [],
+                        "OutcomeAnalysisCILowerLimitComment": [],
+                        "OutcomeAnalysisCINumSides": [],
+                        "OutcomeAnalysisCIPctValue": [],
+                        "OutcomeAnalysisCIUpperLimit": [],
+                        "OutcomeAnalysisCIUpperLimitComment": [],
+                        "OutcomeAnalysisDispersionType": [],
+                        "NCTId": [
+                              "NCT04219241"
+                        ]
+                  }
+            ]
+      }
+}

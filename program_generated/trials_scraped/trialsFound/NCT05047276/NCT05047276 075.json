@@ -1,0 +1,137 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT05047276",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Neoplasms",
+                              "All Conditions",
+                              "Infections",
+                              "Eye Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Melanoma",
+                              "Uveal Melanoma",
+                              "Uveal Melanoma"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M10680",
+                              "M16674",
+                              "M16504",
+                              "M19648",
+                              "M18997",
+                              "M19540",
+                              "M11470",
+                              "M11467",
+                              "M11477",
+                              "M11598",
+                              "M11600",
+                              "M19623",
+                              "M7429",
+                              "M7423",
+                              "M16503",
+                              "T3099",
+                              "T4091",
+                              "T4092",
+                              "T5824"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Melanoma",
+                              "Virus Diseases",
+                              "Uveal Neoplasms",
+                              "Neuroendocrine Tumors",
+                              "Neuroectodermal Tumors",
+                              "Neuroectodermal Tumors, Primitive",
+                              "Neoplasms, Germ Cell and Embryonal",
+                              "Neoplasms by Histologic Type",
+                              "Neoplasms, Nerve Tissue",
+                              "Nevus",
+                              "Nevus, Pigmented",
+                              "Nevi and Melanomas",
+                              "Eye Neoplasms",
+                              "Eye Diseases",
+                              "Uveal Diseases",
+                              "Intraocular Melanoma",
+                              "Neuroendocrine Tumor",
+                              "Neuroepithelioma",
+                              "Uveal Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000008545",
+                              "D000014604"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Melanoma",
+                              "Uveal Neoplasms"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05047276"
+                        ]
+                  }
+            ]
+      }
+}

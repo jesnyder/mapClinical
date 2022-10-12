@@ -1,0 +1,85 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03252340",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This study aims to evaluate safety in subjects with over moderately subacute and chronic atopic dermatitis after an intravenous injection of ADSTEM Inj. Since this is an observational study of patients participated in Phase 1 clinical trials, no drug is administered in this study."
+                        ],
+                        "BriefTitle": [
+                              "Safety of ADSTEM Injection in Patients With Moderate to Severe Subacute and Chronic Atopic Dermatitis"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "August 16, 2022"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Atopic Dermatitis"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000012871",
+                              "D000012873",
+                              "D000030342",
+                              "D000017443",
+                              "D000006969",
+                              "D000006967",
+                              "D000007154"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Skin Diseases",
+                              "Skin Diseases, Genetic",
+                              "Genetic Diseases, Inborn",
+                              "Skin Diseases, Eczematous",
+                              "Hypersensitivity, Immediate",
+                              "Hypersensitivity",
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC16",
+                              "BC17",
+                              "BC20",
+                              "All",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT03252340"
+                        ]
+                  }
+            ]
+      }
+}

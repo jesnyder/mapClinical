@@ -1,0 +1,83 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT00629096",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Jose Suarez de Lezo, MD, PhD",
+                              "I. Concepci\u00f3n Herrera, MD, PhD",
+                              "Manuel Pan, MD, PhD",
+                              "Jose Maria Arizon, MD",
+                              "Miguel Angel Romero, MD, PhD",
+                              "Ramon Ribes, MD, PhD",
+                              "Joaquin Sanchez, MD, PhD",
+                              "Antonio Torrers, MD, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Study Chair",
+                              "Study Director",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator",
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "No"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "August 2010"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [],
+                        "PrimaryOutcomeMeasure": [
+                              "Improvement of left ventricular function"
+                        ],
+                        "NCTId": [
+                              "NCT00629096"
+                        ]
+                  }
+            ]
+      }
+}

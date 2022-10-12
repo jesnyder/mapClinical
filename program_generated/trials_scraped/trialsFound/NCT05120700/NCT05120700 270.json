@@ -1,0 +1,74 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT05120700",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Not yet recruiting"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "April 2025"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "3T magnetic resonance imaging to evalate quantity and quality of cartilage repair",
+                              "A patient is asked to indicate his/her perceived pain intensity (most commonly) along a 100 mm horizontal line, and this rating is then measured from the left edge.",
+                              "The questionnaire looks at 3 categories: symptoms, sports activity, and knee function. The symptoms subscale helps to evaluate things such as pain, stiffness, swelling and giving-way of the knee",
+                              "WOMAC evaluates the condition of patients with osteoarthritis of the knee, including pain, stiffness, and physical functioning of the join",
+                              "Assessment of wound infections, pneumonia, cardiovascular and cerebrovascular events, deep vein thrombosis and/or pulmonary embolisms, ICU-admission, hospital readmission and need for complication surgery"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Cartilage Repair",
+                              "Visual Analog Score for pain",
+                              "International Knee Documentation Committee Questionnaire",
+                              "Western Ontario and McMaster Universities Osteoarthritis Index",
+                              "Perioperative and post-operative complications"
+                        ],
+                        "NCTId": [
+                              "NCT05120700"
+                        ]
+                  }
+            ]
+      }
+}

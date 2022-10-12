@@ -1,0 +1,89 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03381326",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "Identification of biomarkers (Circulating Tumor Cells (CTC), free DNA, Stem Cells and EMT-related antigens) that may be predictive of outcome of activity of cabazitaxel treatment in castration-resistant prostate cancer."
+                        ],
+                        "BriefTitle": [
+                              "CTC, Free DNA, Stem Cells and EMT-related Antigens as Biomarkers of Activity of Cabazitaxel in CRPC."
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "June 2021"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Prostate Cancer",
+                              "Metastatic Cancer",
+                              "Castration-resistant Prostate Cancer",
+                              "Circulating Tumor Cells"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000005834",
+                              "D000014565",
+                              "D000009371",
+                              "D000009369",
+                              "D000011469",
+                              "D000009362",
+                              "D000009385",
+                              "D000010335"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Genital Neoplasms, Male",
+                              "Urogenital Neoplasms",
+                              "Neoplasms by Site",
+                              "Neoplasms",
+                              "Prostatic Diseases",
+                              "Neoplasm Metastasis",
+                              "Neoplastic Processes",
+                              "Pathologic Processes"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC04",
+                              "BXS",
+                              "All",
+                              "BC23"
+                        ],
+                        "NCTId": [
+                              "NCT03381326"
+                        ]
+                  }
+            ]
+      }
+}

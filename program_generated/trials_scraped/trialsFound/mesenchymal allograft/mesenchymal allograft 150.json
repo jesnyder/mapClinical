@@ -1,0 +1,1794 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal allograft",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 36,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 36,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "1"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M18102"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Tacrolimus"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "transplantation of mesenchymal stem cell"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "mesenchymal stem cell"
+                        ],
+                        "InterventionOtherName": [
+                              "MMF FK506"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00659620"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "Intra parenchymal injection",
+                              "Intra parenchymal injection & Intra-arterial infusion",
+                              "Intra-arterial infusion"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Injection of Allogeneic adipose derived mesenchymal stem cells into the Kidney allograft"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic adipose derived mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04388761"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "Bone-marrow derived MSCs",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Allogeneic ex vivo expanded, bone marrow-derived mesenchymal stromal cells",
+                              "Placebo product visually very similar to mesenchymal stromal cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Bone-marrow derived MSCs",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "MSC"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT02709343"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "InterventionArmGroupLabel": [
+                              "A",
+                              "B",
+                              "C"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All",
+                              "ANeo",
+                              "Analg"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals",
+                              "Antineoplastic Agents",
+                              "Analgesics"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M8199",
+                              "M9336",
+                              "M9563",
+                              "M3377",
+                              "M29605",
+                              "M9364",
+                              "M1830"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Glucocorticoids",
+                              "Immunoglobulins",
+                              "Interleukin-2",
+                              "Antibodies",
+                              "Calcineurin Inhibitors",
+                              "Immunosuppressive Agents",
+                              "Basiliximab"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Patients in Group A will receive the first MSCs infusion intravenously within 24 hours after kidney transplant operation , and the second infusion of MSCs will be performed two weeks later.",
+                              "kidney transplantation with standard immunosuppressive treatment regime"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Kidney transplantation with MSCs infusion",
+                              "kidney transplantation without MSC infusion"
+                        ],
+                        "InterventionOtherName": [
+                              "MSCs induction plus a standard or a lower dose of CNI",
+                              "Anti-IL2R induction therapy with standard dose of CNI"
+                        ],
+                        "InterventionType": [
+                              "Procedure",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00658073"
+                        ]
+                  },
+                  {
+                        "Rank": 5,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "MSC infusion: two doses of 1-2x106 MSCs per kilogram body weight, intravenously, 7 days apart."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal stem cell infusion"
+                        ],
+                        "InterventionOtherName": [
+                              "Bone marrow derived mesenchymal stem cells."
+                        ],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00734396"
+                        ]
+                  },
+                  {
+                        "Rank": 6,
+                        "InterventionArmGroupLabel": [
+                              "bone marrow concentrate"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "In forty cases, the PLF was done with spongious allograft chips alone (Group I). In another forty cases, spongious allograft chips were mixed with BMC (Group II), where the mesenchymal stem cell (MSCs) concentration was 1.74 x104/L at average (range, 1.06-1.98 x104/L). Patients were scheduled for anteroposterior and lateral radiographs at 12 and 24 months after the surgery and for CT scanning at 24 months after the surgery. Fusion status and the degree of mineralization of the fusion mass were evaluated separately by two radiologists blinded to patient group affiliation."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "bone allogaft with bone marrow concentrate"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01603836"
+                        ]
+                  },
+                  {
+                        "Rank": 7,
+                        "InterventionArmGroupLabel": [
+                              "Bone Marrow Aspiration Group",
+                              "Control"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Autologous bone marrow aspirate will be processed and concentrated to a bone marrow aspirate concentrate (BMAC) containing bone marrow derived mesenchymal stem cells and delivered to the site of operation in the treatment group",
+                              "0.5cm sham incision over the iliac crest"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous bone marrow aspirate will be harvested and concentrated to a bone marrow aspirate concentrate (BMAC) containing bone marrow derived mesenchymal stem cells and delivered to site of operation",
+                              "Control group incision"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04739930"
+                        ]
+                  },
+                  {
+                        "Rank": 8,
+                        "InterventionArmGroupLabel": [
+                              "MSCs 10^4 cells/kg+anti-rejection drugs",
+                              "MSCs 10^5 cells/kg+anti-rejection drugs",
+                              "MSCs 10^6 cells/kg+anti-rejection drugs",
+                              "MSCs 10^4 cells/kg+anti-rejection drugs",
+                              "MSCs 10^5 cells/kg+anti-rejection drugs",
+                              "MSCs 10^6 cells/kg+anti-rejection drugs",
+                              "MSCs 10^4 cells/kg+anti-rejection drugs",
+                              "MSCs 10^5 cells/kg+anti-rejection drugs",
+                              "MSCs 10^6 cells/kg+anti-rejection drugs",
+                              "MSCs 10^4 cells/kg+anti-rejection drugs",
+                              "MSCs 10^5 cells/kg+anti-rejection drugs",
+                              "MSCs 10^6 cells/kg+anti-rejection drugs",
+                              "MSCs 10^4 cells/kg+anti-rejection drugs",
+                              "MSCs 10^5 cells/kg+anti-rejection drugs",
+                              "MSCs 10^6 cells/kg+anti-rejection drugs",
+                              "MSCs 10^4 cells/kg+anti-rejection drugs",
+                              "MSCs 10^5 cells/kg+anti-rejection drugs",
+                              "MSCs 10^6 cells/kg+anti-rejection drugs",
+                              "MSCs 10^4 cells/kg+anti-rejection drugs",
+                              "MSCs 10^5 cells/kg+anti-rejection drugs",
+                              "MSCs 10^6 cells/kg+anti-rejection drugs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "ANeo",
+                              "All",
+                              "CNSDep",
+                              "ARhu",
+                              "Infl",
+                              "Ot"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Antineoplastic Agents",
+                              "All Drugs and Chemicals",
+                              "Central Nervous System Depressants",
+                              "Antirheumatic Agents",
+                              "Anti-Inflammatory Agents",
+                              "Other Dietary Supplements"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Laparoscopic",
+                              "Scan",
+                              "Fusion Protein",
+                              "Emission",
+                              "Until"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M21113",
+                              "M11280",
+                              "M4006",
+                              "M483",
+                              "M1347",
+                              "M13273",
+                              "M3369",
+                              "M8199",
+                              "M8941",
+                              "M8940",
+                              "M20119",
+                              "M3374",
+                              "M3376",
+                              "M3463",
+                              "M3366",
+                              "M3406",
+                              "M5404",
+                              "M10948",
+                              "M9364",
+                              "M9353",
+                              "M1346",
+                              "M2343",
+                              "M19757",
+                              "T433"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Sirolimus",
+                              "Mycophenolic Acid",
+                              "Benzocaine",
+                              "Abatacept",
+                              "Alemtuzumab",
+                              "Prednisone",
+                              "Anti-Inflammatory Agents",
+                              "Glucocorticoids",
+                              "Hormones",
+                              "Hormone Antagonists",
+                              "Antineoplastic Agents, Hormonal",
+                              "Anti-Bacterial Agents",
+                              "Antibiotics, Antitubercular",
+                              "Antitubercular Agents",
+                              "Anti-Infective Agents",
+                              "Antifungal Agents",
+                              "Clotrimazole",
+                              "Miconazole",
+                              "Immunosuppressive Agents",
+                              "Immunologic Factors",
+                              "Antineoplastic Agents, Immunological",
+                              "Immune Checkpoint Inhibitors",
+                              "Antirheumatic Agents",
+                              "Tannic Acid"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "These MSCs are a cellular product derived from bone marrow and propagated ex vivo using FDA-approved, clinically applicable methods. Their use in kidney transplantation has been associated with a good safety profile.",
+                              "Alemtuzumab, 30 mg, given once intravenously (IV) over three hours. The infusion of alemtuzumab shall begin within 24 hours of transplantation surgery and shall be given prior to the first dose of belatacept.",
+                              "Belatacept will be given as an intravenous (IV) infusion of 10mg /kg over 1 hour on transplantation postoperative Day 0, Days 5 and 14, then every 2 weeks (\u00b1 2 days) for 5 additional doses.Thereafter, belatacept will be given once every 4 weeks (\u00b1 5 days) at 10 mg/kg through 24 weeks post-transplant, then at 5 mg/kg every 4-weeks until the participant is evaluated for belatacept discontinuation.",
+                              "Rapamune\u00ae (sirolimus) (Wyeth Pharmaceuticals Inc., Philadelphia, PA) will be started on transplantation postoperative day 1 at a dose of 2 mg/day orally and adjusted to maintain goal 24-hour trough levels of 8-10 ng/ml. Participants who experience grade 3 sirolimus toxicity will undergo dose reduction.",
+                              "Per protocol, and, only permitted in cases of sirolimus intolerance.",
+                              "Per protocol, and, only permitted in cases of sirolimus intolerance.",
+                              "Per protocol, and, only permitted in cases of sirolimus intolerance."
+                        ],
+                        "InterventionMeshId": [
+                              "D000009173",
+                              "D000020123",
+                              "D000011241",
+                              "D000074323",
+                              "D000069594"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Mycophenolic Acid",
+                              "Sirolimus",
+                              "Prednisone",
+                              "Alemtuzumab",
+                              "Abatacept"
+                        ],
+                        "InterventionName": [
+                              "Donor-derived Mesenchymal Stromal Cells",
+                              "alemtuzumab",
+                              "belatacept",
+                              "sirolimus",
+                              "mycophenolate mofetil",
+                              "mycophenolate acid",
+                              "prednisone"
+                        ],
+                        "InterventionOtherName": [
+                              "Donor-derived MSCs",
+                              "human bone marrow derived MSCs",
+                              "hBM-MSC",
+                              "EPIC-MSC-ITN2015-IVF-0X",
+                              "Campath\u00ae",
+                              "Lemtrada\u00ae",
+                              "Nulojix\u00ae",
+                              "LEA29Y",
+                              "Rapamune\u00ae",
+                              "CellCept\u00ae",
+                              "Myfortic\u00ae",
+                              "corticosteroid"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Drug",
+                              "Drug",
+                              "Drug",
+                              "Drug",
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03504241"
+                        ]
+                  },
+                  {
+                        "Rank": 9,
+                        "InterventionArmGroupLabel": [
+                              "Hip avascular necrosis"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Core Decompression with Bone Chips Allograft adjuvanted by Fibrin Platelet Rich-plasma (PRP) and Concentrated Autologous Mesenchymal Stromal Cells (MSCS), isolated from Bone Marrow"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Core decompression procedure"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04210440"
+                        ]
+                  },
+                  {
+                        "Rank": 10,
+                        "InterventionArmGroupLabel": [
+                              "Conventional plus UC-MSC",
+                              "Conventional plus placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Granuloma"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M10262",
+                              "M9364",
+                              "M9353"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts",
+                              "Immunosuppressive Agents",
+                              "Immunologic Factors"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Received conventional treatment and taken i.v., once per 4 week, at a dose of 1\u00d7106 UC-MSC/kg body weight for 12 weeks.",
+                              "Received conventional treatment and taken i.v., once per 4 week, at 50 ml saline for 12 weeks."
+                        ],
+                        "InterventionMeshId": [
+                              "D000007166"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Immunosuppressive Agents"
+                        ],
+                        "InterventionName": [
+                              "Conventional plus UC-MSC",
+                              "Conventional plus placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "Immunosuppressive agents plus umbilical cord stem cells",
+                              "Immunosuppressive agents plus saline"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01690247"
+                        ]
+                  },
+                  {
+                        "Rank": 11,
+                        "InterventionArmGroupLabel": [
+                              "Mesenchymal Stem Cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Umbilical Cord Mesenchymal Stem Cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02235844"
+                        ]
+                  },
+                  {
+                        "Rank": 12,
+                        "InterventionArmGroupLabel": [
+                              "Low Dose Group",
+                              "High Dose Group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M9336",
+                              "M3377"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Immunoglobulins",
+                              "Antibodies"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Single intra-arterial infusion of 1 x 10^5 cells/kg",
+                              "Single intra-arterial infusion of 5 x 10^5 cells/kg infused over 5 minutes"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Low dose adipose tissue derived mesenchymal stromal cells (A-MSC)",
+                              "High dose adipose tissue derived mesenchymal stromal cells (A-MSC)"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05456243"
+                        ]
+                  },
+                  {
+                        "Rank": 13,
+                        "InterventionArmGroupLabel": [
+                              "Mesenchymal Stem Cell Recipient",
+                              "Control Sham Incision"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Autologous Bone Marrow Derived Mesenchymal Stem Cells injected into the ACL allograft prior to graft implantation.",
+                              "Small incision over the site where bone marrow aspirate would have been obtained"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Autologous Bone Marrow Derived Mesenchymal Stem Cells",
+                              "Sham incision"
+                        ],
+                        "InterventionOtherName": [
+                              "Sham Incision"
+                        ],
+                        "InterventionType": [
+                              "Device",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "Yes"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04650568"
+                        ]
+                  },
+                  {
+                        "Rank": 14,
+                        "InterventionArmGroupLabel": [
+                              "Allogeneic transplantation with WJMSCs",
+                              "Sham transplantation (placebo)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hypo",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hypoglycemic Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M9517",
+                              "M172956"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Insulin",
+                              "Insulin, Globin Zinc"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "The drug is a cell suspension with allogeneic mesenchymal stromal cells derived from umbilical cord tissue.",
+                              "Placebo treatment"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ProTrans: Allogeneic transplantation with WJMSCs",
+                              "Placebos"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03406585"
+                        ]
+                  },
+                  {
+                        "Rank": 15,
+                        "InterventionArmGroupLabel": [
+                              "No SAE attributable to IP in clinical investigational use to date."
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M9364"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Immunosuppressive Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Intravenous Infusion over 60 minutes"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles Infusion Treatment"
+                        ],
+                        "InterventionOtherName": [
+                              "ExoFlo"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05215288"
+                        ]
+                  },
+                  {
+                        "Rank": 16,
+                        "InterventionArmGroupLabel": [
+                              "Renal allograft nephropathy"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "investigate whether the levels of 21 mRNAs encoding genes involved in EMT/fibrogenesis and the alloimmune response are a sensitive and specific non-invasive diagnostic test for CAN in renal allografts"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "mRNAs encoding genes"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Genetic"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01380847"
+                        ]
+                  },
+                  {
+                        "Rank": 17,
+                        "InterventionArmGroupLabel": [
+                              "BFPSC+",
+                              "BFPSC-"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "BFPSCs+ DFDBA+ PRF",
+                              "DFDBA + PRF"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02745379"
+                        ]
+                  },
+                  {
+                        "Rank": 18,
+                        "InterventionArmGroupLabel": [
+                              "Treatment with Mesenchymal Stem Cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hemat",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hematinics",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M10262",
+                              "M18102",
+                              "M9364",
+                              "M1830"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Liver Extracts",
+                              "Tacrolimus",
+                              "Immunosuppressive Agents",
+                              "Basiliximab"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Donor-specific, bone marrow derived mesenchymal stem (stromal) cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal Stem Cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT02957552"
+                        ]
+                  },
+                  {
+                        "Rank": 19,
+                        "InterventionArmGroupLabel": [
+                              "1"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "islet of allograft and MSCs of autograft"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "cotransplantation of islet and mesenchymal stem cell"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00646724"
+                        ]
+                  },
+                  {
+                        "Rank": 20,
+                        "InterventionArmGroupLabel": [
+                              "Mesenchymal Stromal Cells + Everolimus"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "ANeo",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Antineoplastic Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M255",
+                              "M18102"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Everolimus",
+                              "Tacrolimus"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Two doses of autologous bone marrow (BM) derived MSCs IV, 7 days apart, 6 and 7 weeks after transplantation. Doses of MSCs will be 1-2x10^6 million MSCs per/kg body weight"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal Stromal Cells"
+                        ],
+                        "InterventionOtherName": [
+                              "Bone marrow derived mesenchymal stromal cells"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02057965"
+                        ]
+                  },
+                  {
+                        "Rank": 21,
+                        "InterventionArmGroupLabel": [
+                              "BFPSC+",
+                              "BFPSC-"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "BFPSC+FDBA+PRF",
+                              "FDBA+PRF"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02745366"
+                        ]
+                  },
+                  {
+                        "Rank": 22,
+                        "InterventionArmGroupLabel": [
+                              "Trinity Evolution"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Novel Allogeneic, Cancellous, Bone Matrix Containing Viable Stem and Osteoprogenitor Cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Trinity Evolution"
+                        ],
+                        "InterventionOtherName": [
+                              "Allograft",
+                              "Mesenchymal Stem Cells"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00988338"
+                        ]
+                  },
+                  {
+                        "Rank": 23,
+                        "InterventionArmGroupLabel": [
+                              "SVF(Stromal Vascular Fraction) derived MSC transprlantation",
+                              "Basiliximab"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Genotype 1"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M1830",
+                              "M9364",
+                              "M9353"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Basiliximab",
+                              "Immunosuppressive Agents",
+                              "Immunologic Factors"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "infusion of autologous SVF derived MSC to the recipients of DCD kidney transplant.\n\nSubjects with uremia in the intervention group will undergo puncture to collect SVF, then SVF will be cultured to abstain MSC, and the abstained MSC will be infused to the recipients during kidney transplant operation and on 7, 14, and 21 POD. And the induction therapy of control group will be Basiliximab.",
+                              "induction with Basiliximab before kidney transplantation and on POD 4"
+                        ],
+                        "InterventionMeshId": [
+                              "D000077552"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Basiliximab"
+                        ],
+                        "InterventionName": [
+                              "SVFderived MSC transplantations",
+                              "Basiliximab"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02492490"
+                        ]
+                  },
+                  {
+                        "Rank": 24,
+                        "InterventionArmGroupLabel": [
+                              "Sirolimus",
+                              "Sirolimus"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "ANeo",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Antineoplastic Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Laparoscopic",
+                              "Cardiac"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M21113",
+                              "M18102",
+                              "M9364",
+                              "M9353",
+                              "M29605",
+                              "M3374",
+                              "M3366",
+                              "M3376",
+                              "M3406",
+                              "M5404",
+                              "M10948"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Sirolimus",
+                              "Tacrolimus",
+                              "Immunosuppressive Agents",
+                              "Immunologic Factors",
+                              "Calcineurin Inhibitors",
+                              "Anti-Bacterial Agents",
+                              "Anti-Infective Agents",
+                              "Antibiotics, Antitubercular",
+                              "Antifungal Agents",
+                              "Clotrimazole",
+                              "Miconazole"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Tacrolimus to Sirolimus",
+                              "dosage per trough level"
+                        ],
+                        "InterventionMeshId": [
+                              "D000020123",
+                              "D000016559"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Sirolimus",
+                              "Tacrolimus"
+                        ],
+                        "InterventionName": [
+                              "Sirolimus",
+                              "Tacrolimus"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01166724"
+                        ]
+                  },
+                  {
+                        "Rank": 25,
+                        "InterventionArmGroupLabel": [
+                              "spironolactone"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "NaAg",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Natriuretic Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Incontinence"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M15095",
+                              "M11023",
+                              "M2949",
+                              "M8941",
+                              "M8940",
+                              "M6563",
+                              "M29178"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Spironolactone",
+                              "Mineralocorticoids",
+                              "Mineralocorticoid Receptor Antagonists",
+                              "Hormones",
+                              "Hormone Antagonists",
+                              "Diuretics",
+                              "Diuretics, Potassium Sparing"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Spironolactone initiated at 3 months posttransplant at 25 mg qd and up-titrated to 50 mg qd after 14 days. Spironolactone therapy will be maintained for 9 months."
+                        ],
+                        "InterventionMeshId": [
+                              "D000013148"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Spironolactone"
+                        ],
+                        "InterventionName": [
+                              "spironolactone"
+                        ],
+                        "InterventionOtherName": [
+                              "Aldactone"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01510795"
+                        ]
+                  },
+                  {
+                        "Rank": 26,
+                        "InterventionArmGroupLabel": [
+                              "HAM and HUMCWJ Injections (Group 1)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "SURGENEX SurForce\u00ae (1cc) allograft placental based tissue matrix, will be injected using a 22 gauge, 2-inch needle. The injection site (medial, lateral, patellar) will be determined based on the side with the most joint space from the findings of the most recent x-rays. The Physician will insert the needle fully into the joint space and begin to expel the fluid. He will achieve a continuous injection flow as he withdraws the needle back out of joint space. Immediately following the SURGENEX SurForce\u00ae injection, an injection of Predictive Biotech CORECYTE(TM) (1 cc) allograft umbilical cord-derived Warton's Jelly tissue matrix will be administered. This will be done using the exact same protocol as the SURGENEX SurForce\u00ae injection."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "HAM and HUMCWJ Injections"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03337243"
+                        ]
+                  },
+                  {
+                        "Rank": 27,
+                        "InterventionArmGroupLabel": [
+                              "MSCs group",
+                              "Control group",
+                              "Control group",
+                              "MSCs group",
+                              "Control group",
+                              "MSCs group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "ANeo",
+                              "All",
+                              "Infl"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Antineoplastic Agents",
+                              "All Drugs and Chemicals",
+                              "Anti-Inflammatory Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "POC",
+                              "Cardiac",
+                              "Genotype 1"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M11280",
+                              "M9336",
+                              "M3377",
+                              "M18102",
+                              "M13273",
+                              "M9364",
+                              "M3431",
+                              "M1830",
+                              "M9353",
+                              "M29605",
+                              "M3374",
+                              "M3376",
+                              "M3463",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Mycophenolic Acid",
+                              "Immunoglobulins",
+                              "Antibodies",
+                              "Tacrolimus",
+                              "Prednisone",
+                              "Immunosuppressive Agents",
+                              "Antilymphocyte Serum",
+                              "Basiliximab",
+                              "Immunologic Factors",
+                              "Calcineurin Inhibitors",
+                              "Anti-Bacterial Agents",
+                              "Antibiotics, Antitubercular",
+                              "Antitubercular Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "BM-MSCs is harvested from third-party health volunteer donors.",
+                              "Saline as placebo of MSCs",
+                              "ATG, antithymocyte globulin; Basiliximab, anti-CD25 mAb. Recipients receive ATG or Basiliximab as induction therapy in both MSCs group and control group.",
+                              "Maintenance immunosuppressive therapy consists of low-dose tacrolimus and mycophenolic acid and steroids. Recipients receive the same maintenance therapy in both MSCs group and control group."
+                        ],
+                        "InterventionMeshId": [
+                              "D000009173",
+                              "D000016559",
+                              "D000077552"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Mycophenolic Acid",
+                              "Tacrolimus",
+                              "Basiliximab"
+                        ],
+                        "InterventionName": [
+                              "bone marrow-derived mesenchymal stem cells",
+                              "Saline",
+                              "Induction therapy (ATG or Basiliximab)",
+                              "Maintenance therapy (Low-dose CNI + MPA + steroids)"
+                        ],
+                        "InterventionOtherName": [
+                              "BM-MSCs",
+                              "ATG or Basiliximab",
+                              "Low-dose tacrolimus + Mycophenolic acid (MPA) + steroids"
+                        ],
+                        "InterventionType": [
+                              "Other",
+                              "Other",
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02561767"
+                        ]
+                  },
+                  {
+                        "Rank": 28,
+                        "InterventionArmGroupLabel": [
+                              "Mesenchymal Stromal Stem Cells Infusion",
+                              "Placebo Infusion"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "CNSDep",
+                              "All",
+                              "Infe",
+                              "ANeo",
+                              "Ot"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Central Nervous System Depressants",
+                              "All Drugs and Chemicals",
+                              "Anti-Infective Agents",
+                              "Antineoplastic Agents",
+                              "Other Dietary Supplements"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3259",
+                              "M11280",
+                              "M4006",
+                              "M18102",
+                              "M1830",
+                              "T433"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anesthetics",
+                              "Mycophenolic Acid",
+                              "Benzocaine",
+                              "Tacrolimus",
+                              "Basiliximab",
+                              "Tannic Acid"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Investigational infusion bag containing autologous mesenchymal stromal cells wrapped to cover contents to maintain the blind.\n\nMesenchymal Stromal Stem Cells Infusion.",
+                              "Matching infusion containing normal saline wrapped to cover contents to maintain the blind.\n\nNormal Saline (Placebo) Infusion."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Mesenchymal Stromal Stem Cells (MSCs) Infusion",
+                              "Normal Saline (Placebo) Infusion"
+                        ],
+                        "InterventionOtherName": [
+                              "Investigational autologous biological product",
+                              "Matching placebo infusion bag"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03478215"
+                        ]
+                  },
+                  {
+                        "Rank": 29,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Human cartilage tissues were harvested from osteoarthritic patient during total knee arthroplasty surgery."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "total knee / hip replacement"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01301664"
+                        ]
+                  },
+                  {
+                        "Rank": 30,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "1.000.000(one million) cells/kg, IV (1/2 of dose in the Peripheral vein and 1/2 of dose into the right hepatic artery)"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "allogeneic mesenchymal stem cell transplantation"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Genetic"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01378182"
+                        ]
+                  },
+                  {
+                        "Rank": 31,
+                        "InterventionArmGroupLabel": [
+                              "MSCs group",
+                              "Control group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "BM-MSCs are from third-party healthy volunteer donors.",
+                              "Saline is the placebo of MSCs in this study."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "BM-MSCs",
+                              "Saline"
+                        ],
+                        "InterventionOtherName": [
+                              "allogeneic bone marrow-derived MSCs"
+                        ],
+                        "InterventionType": [
+                              "Other",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02563366"
+                        ]
+                  },
+                  {
+                        "Rank": 32,
+                        "InterventionArmGroupLabel": [
+                              "MSCs group",
+                              "Control group",
+                              "MSCs group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "ANeo",
+                              "All",
+                              "ARhu"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Antineoplastic Agents",
+                              "All Drugs and Chemicals",
+                              "Antirheumatic Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Peripheral",
+                              "Two"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M376",
+                              "M9336",
+                              "M3377",
+                              "M373",
+                              "M18269",
+                              "M7988",
+                              "M19343",
+                              "M1346",
+                              "M9353",
+                              "M19757"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Bortezomib",
+                              "Immunoglobulins",
+                              "Antibodies",
+                              "Rituximab",
+                              "Immunoglobulins, Intravenous",
+                              "gamma-Globulins",
+                              "Rho(D) Immune Globulin",
+                              "Antineoplastic Agents, Immunological",
+                              "Immunologic Factors",
+                              "Antirheumatic Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "BM-MSCs are from third-party healthy donors, and have no HLA alleles similar to renal allograft donors or reacting to positive anti-HLA antibodies in recipients.",
+                              "At least one drug or treatment is applied as desensitization therapy to decrease DSA, reduce B cells or inhibit plasma cells, depending on individual condition."
+                        ],
+                        "InterventionMeshId": [
+                              "D000069283",
+                              "D000069286"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Rituximab",
+                              "Bortezomib"
+                        ],
+                        "InterventionName": [
+                              "BM-MSCs",
+                              "Desensitization therapy (PP, IVIG, rituximab or Bortezomib)"
+                        ],
+                        "InterventionOtherName": [
+                              "allogeneic bone marrow-derived MSCs"
+                        ],
+                        "InterventionType": [
+                              "Other",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02563340"
+                        ]
+                  },
+                  {
+                        "Rank": 33,
+                        "InterventionArmGroupLabel": [
+                              "Occlusive Membrane (OM)",
+                              "Modified Perforated Membrane (MPM)"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M11052"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Mitogens"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Biomend Extend is a resorbable collagen membrane used for guided tissue and bone regeneration.",
+                              "Biomend Extend is a resorbable collagen membrane used for guided tissue and bone regeneration. This membrane will be perforated to allow the passage of cells and growth factors that can potentially enhanced bone augmentation."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "BioMend Extend",
+                              "Modified BioMend Extend"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02396056"
+                        ]
+                  },
+                  {
+                        "Rank": 34,
+                        "InterventionArmGroupLabel": [],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [],
+                        "InterventionOtherName": [],
+                        "InterventionType": [],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02529566"
+                        ]
+                  },
+                  {
+                        "Rank": 35,
+                        "InterventionArmGroupLabel": [
+                              "Allogeneic Mesenchymal Bone Marrow Cells"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Subjects in Part 1, Cohorts 1-3 will receive a 1550 nm Fraxel laser (6-8 mJ, Level 2) treatment on the face followed by a single intravenous infusion of 0.5, 1.0, or 1.5 million mesenchymal cells per kg of body weight, not to exceed 150 million cells. Subjects in Part 2 will receive a 1550 Fraxel laser (6-8 mJ, Level 2) treatment on the face followed by a single intravenous infusion of mesenchymal cells at the Maximum Tolerated Dose, as determined by the safety results of Part 1. The dose in Part 2 is 1.5 million cells per kg, not to exceed a total of 150 million cells."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic Mesenchymal Bone Marrow Cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01771679"
+                        ]
+                  },
+                  {
+                        "Rank": 36,
+                        "InterventionArmGroupLabel": [
+                              "1",
+                              "2"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "1x1,000,000 hMSC/kg, IV after unrelated HSCT",
+                              "5x1,000,000 hMSC/kg, IV after unrelated HSCT"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Human umbilical cord blood-derived mesenchymal stem cells",
+                              "Human umbilical cord blood-derived mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "PROMOSTEM",
+                              "PROMOSTEM"
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00823316"
+                        ]
+                  }
+            ]
+      }
+}

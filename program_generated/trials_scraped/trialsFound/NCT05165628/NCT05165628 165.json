@@ -1,0 +1,59 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT05165628",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "IsPPSD",
+                  "IsUSExport",
+                  "IsUnapprovedDevice",
+                  "Keyword",
+                  "LargeDocDate",
+                  "LargeDocFilename",
+                  "LargeDocHasICF",
+                  "LargeDocHasProtocol",
+                  "LargeDocHasSAP",
+                  "LargeDocLabel",
+                  "LargeDocTypeAbbrev",
+                  "LargeDocUploadDate",
+                  "LastKnownStatus",
+                  "LastUpdatePostDate",
+                  "LastUpdatePostDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "IsPPSD": [],
+                        "IsUSExport": [
+                              "No"
+                        ],
+                        "IsUnapprovedDevice": [],
+                        "Keyword": [],
+                        "LargeDocDate": [],
+                        "LargeDocFilename": [],
+                        "LargeDocHasICF": [],
+                        "LargeDocHasProtocol": [],
+                        "LargeDocHasSAP": [],
+                        "LargeDocLabel": [],
+                        "LargeDocTypeAbbrev": [],
+                        "LargeDocUploadDate": [],
+                        "LastKnownStatus": [],
+                        "LastUpdatePostDate": [
+                              "March 22, 2022"
+                        ],
+                        "LastUpdatePostDateType": [
+                              "Actual"
+                        ],
+                        "NCTId": [
+                              "NCT05165628"
+                        ]
+                  }
+            ]
+      }
+}

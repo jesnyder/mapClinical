@@ -1,0 +1,67 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04557514",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "prp in subgroup allocation 1:1 Obtain WB by venipuncture in acid citrate dextrose (ACD) tubes\n\nDo not chill the blood at any time before or during platelet separation.\n\nCentrifuge the blood using a 'soft' spin.\n\nTransfer the supernatant plasma containing platelets into another sterile tube (without anticoagulant).\n\nCentrifuge tube at a higher speed (a hard spin) to obtain a platelet concentrate.\n\nThe lower 1/3rd is PRP and upper 2/3rd is platelet-poor plasma (PPP). At the bottom of the tube, platelet pellets are formed.\n\nRemove PPP and suspend the platelet pellets in a minimum quantity of plasma (2-4 mL) by gently shaking the tube.",
+                              "After aspiration of the fatty tissue, it is important that nonviable components of the aspirate, such as oil, blood, and local anesthetics are removed and, at the same time, the quality, integrity, and viability of the adipocytes and the inherent mesenchymal stem cells in the aspirate be maintained. Processing techniques are sedimentation , filtering and washing There is no consensus as to the optimal method of fat graft preparation."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Procedure: platelet rich plasma injection in post burn facial scar",
+                              "Procedure: fat injection in post burn facial scar",
+                              "Procedure: platelet rich plasma injection in post burn facial scar",
+                              "Procedure: fat injection in post burn facial scar"
+                        ],
+                        "ArmGroupLabel": [
+                              "platelet rich plasma injection in post burn facial scar",
+                              "fat injection in post burn facial scar"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04557514"
+                        ]
+                  }
+            ]
+      }
+}

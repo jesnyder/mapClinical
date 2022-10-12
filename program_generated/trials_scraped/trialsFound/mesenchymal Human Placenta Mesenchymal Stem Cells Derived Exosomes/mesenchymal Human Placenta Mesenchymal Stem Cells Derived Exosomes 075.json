@@ -1,0 +1,192 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal Human Placenta Mesenchymal Stem Cells Derived Exosomes",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Fistula",
+                              "Anal Fistula"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M7684",
+                              "M13997",
+                              "M21672",
+                              "M9598",
+                              "M17768",
+                              "M8035",
+                              "M6407",
+                              "M9596",
+                              "M13996"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Fistula",
+                              "Rectal Fistula",
+                              "Pathological Conditions, Anatomical",
+                              "Intestinal Fistula",
+                              "Digestive System Fistula",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Intestinal Diseases",
+                              "Rectal Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000012003",
+                              "D000005402"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Rectal Fistula",
+                              "Fistula"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Basic Science"
+                        ],
+                        "NCTId": [
+                              "NCT05402748"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Fistula",
+                              "Crohn's Disease",
+                              "Perianal Fistula"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M7684",
+                              "M5790",
+                              "M13997",
+                              "M17069",
+                              "M9596",
+                              "M8027",
+                              "M8035",
+                              "M6407",
+                              "M21672",
+                              "M9598",
+                              "M17768",
+                              "M13996"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Fistula",
+                              "Crohn Disease",
+                              "Rectal Fistula",
+                              "Inflammatory Bowel Diseases",
+                              "Intestinal Diseases",
+                              "Gastroenteritis",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Pathological Conditions, Anatomical",
+                              "Intestinal Fistula",
+                              "Digestive System Fistula",
+                              "Rectal Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003424",
+                              "D000012003",
+                              "D000005402"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Crohn Disease",
+                              "Rectal Fistula",
+                              "Fistula"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "This study includes two arms. The first one is the cases that are treated with MSC-derived exosomes and the controls do not receive exosomes and are treated with placebo"
+                        ],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [
+                              "both the patient and the assessor are blind to the contents of injectibles"
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05499156"
+                        ]
+                  }
+            ]
+      }
+}

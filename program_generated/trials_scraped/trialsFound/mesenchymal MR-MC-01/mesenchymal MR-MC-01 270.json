@@ -1,0 +1,77 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal MR-MC-01",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Myung-Soo Choo, M.D, Ph.D"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "October 2022"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Any TEAEs reported by patients or assessed by laboratory and image work up",
+                              "Any TEAEs reported by patients or assessed by laboratory and image work up",
+                              "Any TEAEs reported by patients or assessed by laboratory and image work up",
+                              "Any TEAEs reported by patients or assessed by laboratory and image work up",
+                              "Any TEAEs reported by patients or assessed by laboratory and image work up"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Incidence of Treatment-Emergent Adverse Events (TEAEs)",
+                              "Incidence of Treatment-Emergent Adverse Events",
+                              "Incidence of Treatment-Emergent Adverse Events",
+                              "Incidence of Treatment-Emergent Adverse Events",
+                              "Incidence of Treatment-Emergent Adverse Events"
+                        ],
+                        "NCTId": [
+                              "NCT04610359"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,102 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02745379",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "Mouth and Tooth Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Alveolar Bone Loss"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M17899",
+                              "M4293",
+                              "M4278",
+                              "M11249",
+                              "M3741",
+                              "M27178",
+                              "M12571",
+                              "M11171",
+                              "M11169"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Alveolar Bone Loss",
+                              "Bone Resorption",
+                              "Bone Diseases",
+                              "Musculoskeletal Diseases",
+                              "Atrophy",
+                              "Periodontal Atrophy",
+                              "Periodontal Diseases",
+                              "Mouth Diseases",
+                              "Stomatognathic Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000016301"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Alveolar Bone Loss"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02745379"
+                        ]
+                  }
+            ]
+      }
+}

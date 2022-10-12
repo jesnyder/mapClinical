@@ -1,0 +1,68 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04713436",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The purpose of this study was to evaluate the indirect effects of antibiotic combinations. SCAP viability, proliferation and apoptosis of the cells were evaluated. Osteocalcin (BGLAP), dentin sialo phosphoprotein (DSPP) and alkaline phosphatase (ALPP) gene expression levels were also evaluated."
+                        ],
+                        "BriefTitle": [
+                              "The Effects of Antibiotic Combinations on Stem Cells"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "TC Erciyes University"
+                        ],
+                        "CompletionDate": [
+                              "February 1, 2017"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Stem Cells",
+                              "Anti-Bacterial Agents"
+                        ],
+                        "ConditionAncestorId": [],
+                        "ConditionAncestorTerm": [],
+                        "ConditionBrowseBranchAbbrev": [],
+                        "NCTId": [
+                              "NCT04713436"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,61 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04132076",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [
+                              "Retrospective"
+                        ],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nPatients with OLT treated operatively in Department of Orthopaedic Surgery, UMC Ljubljana.\nPatients with ankle joint osteoarthritis treated operatively in Department of Orthopaedic Surgery, UMC Ljubljana.\nPatients with ankle instability syndrome treated operatively in Department of Orthopaedic Surgery, UMC Ljubljana.\nPatients with ankle impingement syndrome treated operatively in Department of Orthopaedic Surgery, UMC Ljubljana.\n\nExclusion Criteria:\n\npatient refuse to participate in study\nno respond of patient after invitation to answer a standardized questionnaire (EQ-5D, FAOS, Tegner activity score)\nno respond of patient after invitation to control examination after operation"
+                        ],
+                        "EnrollmentCount": [
+                              "200"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04132076"
+                        ]
+                  }
+            ]
+      }
+}

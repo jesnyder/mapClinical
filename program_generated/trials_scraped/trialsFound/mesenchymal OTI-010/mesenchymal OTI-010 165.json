@@ -1,0 +1,76 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal OTI-010",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "IsPPSD",
+                  "IsUSExport",
+                  "IsUnapprovedDevice",
+                  "Keyword",
+                  "LargeDocDate",
+                  "LargeDocFilename",
+                  "LargeDocHasICF",
+                  "LargeDocHasProtocol",
+                  "LargeDocHasSAP",
+                  "LargeDocLabel",
+                  "LargeDocTypeAbbrev",
+                  "LargeDocUploadDate",
+                  "LastKnownStatus",
+                  "LastUpdatePostDate",
+                  "LastUpdatePostDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "IsPPSD": [],
+                        "IsUSExport": [],
+                        "IsUnapprovedDevice": [],
+                        "Keyword": [
+                              "graft versus host disease",
+                              "adult acute lymphoblastic leukemia in remission",
+                              "recurrent adult acute lymphoblastic leukemia",
+                              "adult acute myeloid leukemia in remission",
+                              "recurrent adult acute myeloid leukemia",
+                              "accelerated phase chronic myelogenous leukemia",
+                              "chronic phase chronic myelogenous leukemia",
+                              "refractory anemia",
+                              "refractory anemia with excess blasts",
+                              "refractory anemia with ringed sideroblasts",
+                              "de novo myelodysplastic syndromes",
+                              "previously treated myelodysplastic syndromes",
+                              "secondary myelodysplastic syndromes",
+                              "adult acute myeloid leukemia with t(8;21)(q22;q22)",
+                              "adult acute myeloid leukemia with t(16;16)(p13;q22)",
+                              "adult acute myeloid leukemia with inv(16)(p13;q22)",
+                              "adult acute myeloid leukemia with 11q23 (MLL) abnormalities",
+                              "adult acute myeloid leukemia with t(15;17)(q22;q12)"
+                        ],
+                        "LargeDocDate": [],
+                        "LargeDocFilename": [],
+                        "LargeDocHasICF": [],
+                        "LargeDocHasProtocol": [],
+                        "LargeDocHasSAP": [],
+                        "LargeDocLabel": [],
+                        "LargeDocTypeAbbrev": [],
+                        "LargeDocUploadDate": [],
+                        "LastKnownStatus": [],
+                        "LastUpdatePostDate": [
+                              "December 4, 2014"
+                        ],
+                        "LastUpdatePostDateType": [
+                              "Estimate"
+                        ],
+                        "NCTId": [
+                              "NCT00081055"
+                        ]
+                  }
+            ]
+      }
+}

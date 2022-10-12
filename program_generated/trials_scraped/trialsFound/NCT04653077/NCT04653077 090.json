@@ -1,0 +1,61 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04653077",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "This disruption can result in spasticity, dystonia, muscle contractures, weakness and difficulty in coordination that ultimately affects the ability to control movements. Resultant activity limitations may affect gross motor movements, fine motor movements, speech and communication, as well as eating and drinking."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\n\u2022 Must be more than 2 year of age and less than 12 years of age at the time of screening for inclusion in the study.\n\nClinical evidence of a non-progressive motor disability due to brain dysfunction.\n\nExclusion Criteria:\n\n\u2022 Intractable seizures\n\nTraumatic brain injury\nGenetic disorder\nCurrent Infection\nRenal insufficiency\nHepatic disease\nHIV+ (as demonstrated by positive blood test)\nImmunosuppression"
+                        ],
+                        "EnrollmentCount": [
+                              "50"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04653077"
+                        ]
+                  }
+            ]
+      }
+}

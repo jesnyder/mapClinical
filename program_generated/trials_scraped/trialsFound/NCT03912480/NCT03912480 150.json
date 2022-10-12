@@ -1,0 +1,83 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03912480",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Stem cells from human exfoliated teeth"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Hypo",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Hypoglycemic Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M9206",
+                              "M9517",
+                              "M172956"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Hypoglycemic Agents",
+                              "Insulin",
+                              "Insulin, Globin Zinc"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Intravenous infusion of pulp mesenchymal stem cells"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Stem cells from human exfoliated teeth"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03912480"
+                        ]
+                  }
+            ]
+      }
+}

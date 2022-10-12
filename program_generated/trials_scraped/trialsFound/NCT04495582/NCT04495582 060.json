@@ -1,0 +1,100 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04495582",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The study purpose is conducting follow-up surveillance for the incidence of adverse events and efficacy of subjects participated in phase 1 trial to evaluate the safety and tolerability of autologous bone marrow-derived mesenchymal stem cells (CS10BR05) in subjects with Multiple System Atrophy until 60 months from administering investigational product (IP)."
+                        ],
+                        "BriefTitle": [
+                              "Long-term Follow-up of Phase 1 Clinical Trial of CS10BR05(CS10BR05-MSA101)"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "November 2024"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Multiple System Atrophy"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000020763",
+                              "D000054969",
+                              "D000001342",
+                              "D000009422",
+                              "D000001480",
+                              "D000001927",
+                              "D000002493",
+                              "D000009069",
+                              "D000080874",
+                              "D000019636",
+                              "D000007022",
+                              "D000014652",
+                              "D000002318"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathological Conditions, Anatomical",
+                              "Primary Dysautonomias",
+                              "Autonomic Nervous System Diseases",
+                              "Nervous System Diseases",
+                              "Basal Ganglia Diseases",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Movement Disorders",
+                              "Synucleinopathies",
+                              "Neurodegenerative Diseases",
+                              "Hypotension",
+                              "Vascular Diseases",
+                              "Cardiovascular Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC10",
+                              "BC14",
+                              "BC04",
+                              "BC17",
+                              "BC18",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT04495582"
+                        ]
+                  }
+            ]
+      }
+}

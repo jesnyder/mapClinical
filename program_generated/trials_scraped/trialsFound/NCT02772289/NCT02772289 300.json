@@ -1,0 +1,80 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02772289",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Wound healing status was assessed using REEDA scale which is based on the amount of redness, edema, ecchymosis, discharge and the approximation of wound edges (each one scored between 0-3); the final score was the sum of the items scores. Lower score indicated better healing.",
+                              "measured by reflectance",
+                              "measured by reflectance",
+                              "A High Definition Ultrasound (US) device will be used to generate a high resolution image of the skin layers of the treated and non-treated scar in order to measure and compare changes in scar thickness and uniformity.",
+                              "A High Definition Ultrasound (US) device will be used to generate a high resolution image of the skin layers of the treated and non-treated scar in order to measure and compare changes in scar area.",
+                              "Breast milk immunoglobulin (IgG, IgA, IgM) and the complement (C3, C4) were detected by transmission immune turbidity method using automatic biochemical analyzer.",
+                              "Subject's satisfaction of the treatment using a Satisfaction Scale as follows: None; Slight; Moderate; Good; Very Good.",
+                              "Adverse events will be evaluated since the baseline visit until 6 months after the end of the treatment."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Wound healing status",
+                              "Erythema measured by reflectance",
+                              "Pigmentation measured by reflectance",
+                              "Scar Thickness and Uniformity",
+                              "Change of scar area",
+                              "Immunoglobulin concentrations in breast milk",
+                              "Subject's satisfaction",
+                              "Adverse events occurrence"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "14 days post surgery",
+                              "1st, 3rd, 6th month post treatment",
+                              "1st, 3rd, 6th months post treatment",
+                              "1st, 3rd, 6th month post treatment",
+                              "1st, 3rd, 6th month post treatment",
+                              "1st, 3rd, 6th month post treatment",
+                              "6th month post treatment",
+                              "6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02772289"
+                        ]
+                  }
+            ]
+      }
+}

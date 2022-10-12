@@ -1,0 +1,81 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02652130",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Christopher James"
+                        ],
+                        "OverallOfficialRole": [
+                              "Study Director"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 3"
+                        ],
+                        "PointOfContactEMail": [
+                              "Christopher.James@Mesoblast.com"
+                        ],
+                        "PointOfContactOrganization": [
+                              "Mesoblast, Inc."
+                        ],
+                        "PointOfContactPhone": [
+                              "212-880-2060"
+                        ],
+                        "PointOfContactPhoneExt": [
+                              "7925"
+                        ],
+                        "PointOfContactTitle": [
+                              "Christopher James, VP, Head of Clinical Operations"
+                        ],
+                        "PrimaryCompletionDate": [
+                              "June 15, 2018"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The overall survival rate is defined as the percentage of participants alive at the given time point. OS is defined as the time to death from the start of drug therapy."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Overall Survival Rate Through Day 180"
+                        ],
+                        "NCTId": [
+                              "NCT02652130"
+                        ]
+                  }
+            ]
+      }
+}

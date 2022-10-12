@@ -1,0 +1,66 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02849613",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Care Provider",
+                              "Investigator",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [
+                              "RESSTORE European multicentre randomised phase IIb will explore the efficacy (functional recovery) and safety of intravenous infusion of allogenic adipose tissue derived mesenchymal stem cells (ADSC) in 400 stroke patients. Therapeutic effects of ADSCs will be assessed and monitored in patients using clinical rating scales, multimodal MRI and blood biomarkers.\n\nThe European regenerative therapy capacities (France, Spain, Finland, United Kingdom and Czech Republic), developed in RESSTORE will cover the full value chain in the field (large scale GMP cell production, clinical testing, biomarkers discovery, understanding of the restoring mechanisms, biobanking...)."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nHemispheric ischemic stroke (>1.5cm)\nInclusion from 1 to 4 days post-stroke\nNIHSS > or = 7\nNo craniectomy\nAble to follow a rehabilitation program\nModified Rankin scale = 0 before stroke onset\n\nExclusion Criteria:\n\nComa\nSevere leucoariosis\nPrevious stroke\nActive endocarditis, pneumonia, AIDS, active hepatic disease due to HBV or HCV\nHistory of cancer\nPregnancy, breast feeding"
+                        ],
+                        "EnrollmentCount": [
+                              "0"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT02849613"
+                        ]
+                  }
+            ]
+      }
+}

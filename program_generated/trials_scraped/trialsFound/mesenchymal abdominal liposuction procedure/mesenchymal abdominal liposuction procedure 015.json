@@ -1,0 +1,159 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal abdominal liposuction procedure",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 4,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 4,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [],
+                        "ArmGroupInterventionName": [
+                              "Biological: Stem cells"
+                        ],
+                        "ArmGroupLabel": [
+                              "Stem cells therapy"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03308006"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Patients receiving intra-articular injection of autologous adipose-derived mesenchymal stem cells"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: Autologous adipose-derived mesenchymal stem cells",
+                              "Procedure: abdominal liposuction"
+                        ],
+                        "ArmGroupLabel": [
+                              "Autologous adipose-derived mesenchymal stem cells"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03956719"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Three intra-articular injections in total and autologous adipose-derived mesenchymal stem cells (AMSCs) suspended in 3 ml autologous platelet rich plasma (PRP) for each injection. Time-points for intervention: 1) initial injection; 2) 3 months following initial injection; 3) 6 months following initial injection.",
+                              "Three intra-articular injections in total and 3 ml autologous platelet rich plasma (PRP) for each injection. Time-points for intervention: 1) initial injection; 2) 3 months following initial injection; 3) 6 months following initial injection."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Auotologous AMSCs plus autologous PRP",
+                              "Biological: Auotologous PRP"
+                        ],
+                        "ArmGroupLabel": [
+                              "AMSCs plus PRP group",
+                              "PRP group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04212728"
+                        ]
+                  },
+                  {
+                        "Rank": 4,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "autogenous fat augmentation in deficient chin will be harvested from lower abdomen,inner or outer thigh",
+                              "Will use onlay PEEK augmentation in deficient chin.Virtual planning will be done using mimics software. A virtual osteotomy of the chin will be performed at the inferior border of the mandible same alignments as sliding genioplasty, then segmentation of the chin area will be done and according to the soft tissue analysis adjustment will be performed.",
+                              "Under general anesthesia, the preparation and the incision line will be performed same as PEEK augmentation .After complete exposure of the bone repositioning of the chin will be performed. Finally fixation will be obtained using x shape titanium plate."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Procedure: fat filler,PEEK,sliding genioplasty",
+                              "Procedure: fat filler,PEEK,sliding genioplasty",
+                              "Procedure: fat filler,PEEK,sliding genioplasty"
+                        ],
+                        "ArmGroupLabel": [
+                              "autogenous fat",
+                              "PEEK",
+                              "Osseous sliding genioplasty"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Active Comparator",
+                              "Other"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03747822"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,65 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04034615",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Care Provider",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [
+                              "This trial is a continuation of the investigators' previous clinical trial (NCT02772289). In the previous three-arm randomized clinical trial involving women with primiparous singleton pregnancies, the investigators found umbilical cord mesenchymal stem cells was not significantly different from placebo for the reduction of cesarean section skin scar and did not increase recognition of participants'satisfaction at the sixth month follow-up. Although there was no statistical difference, the trial study found that the total vancouver scar scale rating was lower with the dose increased.\n\nSome studies have suggested that it usually took 18-24 months for a typical scar matures. In this trial, the investigators want to continue to investigate the efficacy of perinatal tissue mesenchyme stem cells treatment on the appearance of a caesarean scar as compared to a similar untreated scar at the three years follow-up."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nPrimiparous women receiving cesarean delivery\nAges between 21-35 years\nGestation ages \u2265 37 weeks and < 42 weeks\nWilling to give and sign an informed consent form and a photographic release form\nWilling to comply with study dosing and complete the entire course of the study\n\nExclusion Criteria:\n\nAny systemic uncontrolled disease\nRecent or current cancer\nHistory or presenting with a keloid formation\nWounds or local disease in treatment area\nPlanning any other cosmetic procedure to the study area during the study period\nSmoking"
+                        ],
+                        "EnrollmentCount": [
+                              "90"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04034615"
+                        ]
+                  }
+            ]
+      }
+}

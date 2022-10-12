@@ -1,0 +1,110 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal Human Placenta Mesenchymal Stem Cells Derived Exosomes",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "July 22, 2022"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "assessing the adverse outcomes after injection such as acute allergic reactions",
+                              "assessing the clinical response to therapy which might demonstrate itself as closure of refractory fistulas",
+                              "assessing inflammatory markers through laboratory workup including CRP, IL-6, TNF-a, calprotectin."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Safety of injected exosomes",
+                              "clinical Efficacy of injected exosomes",
+                              "inflammatory markers"
+                        ],
+                        "NCTId": [
+                              "NCT05402748"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Active, not recruiting"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "August 2022"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "assessing the adverse outcomes after an injection such as acute allergic reactions, systemic effects such as fever, tachycardia, nausea and vomiting, diarrhea, cardinal manifestations, neutropenia, leukopenia, hemolysis, and local reactions such as cellulitis, abscess, skin rash, bleeding, necrosis",
+                              "They are assessing the clinical response to therapy which might demonstrate the closure of refractory fistulas. These results include a full fistula closure in clinical observation and radiological assessments by MRI. Clinical improvement can be described as improvements in clinical manifestations such as pain, discharge, and bloody discharges. The fistulae are also assessed with MRI scans.",
+                              "assessing inflammatory markers through laboratory workup, including CRP, IL-6, TNF-a, calprotectin"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Safety of injected exosomes",
+                              "clinical Efficacy of injected exosomes",
+                              "inflammatory markers"
+                        ],
+                        "NCTId": [
+                              "NCT05499156"
+                        ]
+                  }
+            ]
+      }
+}

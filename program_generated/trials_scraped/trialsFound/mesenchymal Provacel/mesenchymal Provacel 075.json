@@ -1,0 +1,108 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Provacel",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M11307",
+                              "M9434",
+                              "M9695",
+                              "M11436",
+                              "M5698",
+                              "M18658",
+                              "M8571",
+                              "M16552",
+                              "T170"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Myocardial Infarction",
+                              "Infarction",
+                              "Ischemia",
+                              "Necrosis",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Vascular Diseases",
+                              "Acute Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009203",
+                              "D000007238"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Myocardial Infarction",
+                              "Infarction"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00114452"
+                        ]
+                  }
+            ]
+      }
+}

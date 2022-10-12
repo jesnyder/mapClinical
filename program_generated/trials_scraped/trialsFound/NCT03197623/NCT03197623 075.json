@@ -1,0 +1,108 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03197623",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Neoplasms",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Musculoskeletal Diseases",
+                              "Nutritional and Metabolic Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Osteoporosis",
+                              "Osteonecrosis",
+                              "Osteopenia"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11459",
+                              "M12099",
+                              "M12095",
+                              "M4278",
+                              "M4282",
+                              "M11249",
+                              "M10791",
+                              "M11436"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Neoplasm Metastasis",
+                              "Osteoporosis",
+                              "Osteonecrosis",
+                              "Bone Diseases",
+                              "Bone Diseases, Metabolic",
+                              "Musculoskeletal Diseases",
+                              "Metabolic Diseases",
+                              "Necrosis"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000010024",
+                              "D000001851",
+                              "D000010020"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Osteoporosis",
+                              "Bone Diseases, Metabolic",
+                              "Osteonecrosis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Sequential Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Randomized, Double-Blind, Placebo-Controlled Single and Multiple Ascending Dose Study"
+                        ],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03197623"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,93 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal OTI-010",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "RATIONALE: OTI-010 may be effective for graft-versus-host disease prophylaxis (prevention) in patients who are undergoing donor peripheral stem cell transplantation for hematologic malignancies (cancer of the blood or bone marrow).\n\nPURPOSE: This randomized phase II trial is studying how well OTI-010 works in preventing graft-versus-host disease in patients who are undergoing donor peripheral stem cell transplantation for hematologic cancer."
+                        ],
+                        "BriefTitle": [
+                              "OTI-010 for Graft-Versus-Host Disease Prophylaxis in Treating Patients Who Are Undergoing Donor Peripheral Stem Cell Transplantation for Hematologic Malignancies"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "NIH"
+                        ],
+                        "CollaboratorName": [
+                              "National Cancer Institute (NCI)"
+                        ],
+                        "CompletionDate": [],
+                        "CompletionDateType": [],
+                        "Condition": [
+                              "Graft Versus Host Disease",
+                              "Leukemia",
+                              "Myelodysplastic Syndromes"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000004194",
+                              "D000010335",
+                              "D000009370",
+                              "D000009369",
+                              "D000001855",
+                              "D000006402",
+                              "D000011230",
+                              "D000007154",
+                              "D000009371"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Disease",
+                              "Pathologic Processes",
+                              "Neoplasms by Histologic Type",
+                              "Neoplasms",
+                              "Bone Marrow Diseases",
+                              "Hematologic Diseases",
+                              "Precancerous Conditions",
+                              "Immune System Diseases",
+                              "Neoplasms by Site"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC04",
+                              "All",
+                              "BC15",
+                              "BC20",
+                              "BC23",
+                              "BC16",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT00081055"
+                        ]
+                  }
+            ]
+      }
+}

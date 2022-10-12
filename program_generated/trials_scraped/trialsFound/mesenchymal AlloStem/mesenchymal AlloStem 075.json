@@ -1,0 +1,111 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:11 17:12:16.352",
+            "Expression": "mesenchymal AlloStem",
+            "NStudiesAvail": 430425,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases",
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Arthritis",
+                              "Rheumatoid Arthritis",
+                              "Degenerative Osteoarthritis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M3628",
+                              "M3632",
+                              "M9773",
+                              "M12078",
+                              "M11249",
+                              "M14197",
+                              "M5475",
+                              "M5616",
+                              "M3781",
+                              "M9352"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Arthritis",
+                              "Arthritis, Rheumatoid",
+                              "Joint Diseases",
+                              "Osteoarthritis",
+                              "Musculoskeletal Diseases",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases",
+                              "Connective Tissue Diseases",
+                              "Autoimmune Diseases",
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001168",
+                              "D000010003",
+                              "D000001172"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Arthritis",
+                              "Osteoarthritis",
+                              "Arthritis, Rheumatoid"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01413061"
+                        ]
+                  }
+            ]
+      }
+}

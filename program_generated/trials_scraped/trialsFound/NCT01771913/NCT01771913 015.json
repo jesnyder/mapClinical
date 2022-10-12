@@ -1,0 +1,75 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01771913",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [
+                              "No"
+                        ],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [
+                              "No"
+                        ],
+                        "ArmGroupDescription": [
+                              "female patients who underwent breast reconstruction and present with volume insufficiency will undergo centrifuged fat graft for contour and volume refinements.",
+                              "female patients who underwent breast reconstruction and present volume insufficiency will undergo ADSCs enriched fat grafting for volume and irregularity contour improvement"
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Genetic: centrifuged fat graft",
+                              "Genetic: ADSCs enriched fat graft"
+                        ],
+                        "ArmGroupLabel": [
+                              "centrifuged fat graft",
+                              "ADSCs enriched centrifuged fat graft"
+                        ],
+                        "ArmGroupType": [
+                              "Sham Comparator",
+                              "Active Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [
+                              "<=18 years",
+                              "Between 18 and 65 years",
+                              ">=65 years",
+                              "Female",
+                              "Male"
+                        ],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT01771913"
+                        ]
+                  }
+            ]
+      }
+}

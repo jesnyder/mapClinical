@@ -1,0 +1,77 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03252535",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "52375916.1.0000.5412"
+                        ],
+                        "SecondaryIdDomain": [
+                              "CAAE"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Other Identifier"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "The clinical neurological worsening over the treatment will be evaluated by specific UHDRS domain.",
+                              "The BMI (Body Mass Index) will be assessed through the BMI profiles obtained during the treatment.",
+                              "Will be evaluated by suicidal domain from Hamilton Depression Scale (HAM-D). The classificatory punctuation may correspond to mild depression (score: 8 to 13), moderate depression (score: 19 - 22) and severe depression (score: > 23).",
+                              "Will be evaluated by statistical comparison of the CNS assessment through magnetic resonance image at cortical thickness measurements, volumes of different brain structures, especially the basal ganglia, with special attention to caudate and metabolic changes identified in proton spectroscopy.",
+                              "A general global assessment tool for disease severity that associates the impression of a medical interviewer with a patient / caregiver opinion. After observing the data obtained during the clinical interview, the interviewer records the appropriate score."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Clinical neurological worsening over the treatment",
+                              "BMI assessment",
+                              "Risk of suicidal ideation",
+                              "CNS assessment",
+                              "Clinical Interview Based impression of Severity (CIBIS)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "monthly for fourteen months",
+                              "monthly for fourteen months",
+                              "monthly for fourteen months",
+                              "baseline and one year later",
+                              "monthly for fourteen months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03252535"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,71 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02652130",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "EventGroupOtherNumAtRisk",
+                  "EventGroupSeriousNumAffected",
+                  "EventGroupSeriousNumAtRisk",
+                  "EventGroupTitle",
+                  "EventsDescription",
+                  "EventsFrequencyThreshold",
+                  "EventsTimeFrame",
+                  "ExpAccTypeIndividual",
+                  "ExpAccTypeIntermediate",
+                  "ExpAccTypeTreatment",
+                  "ExpandedAccessNCTId",
+                  "ExpandedAccessStatusForNCTId",
+                  "FDAAA801Violation",
+                  "FlowAchievementComment",
+                  "FlowAchievementGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "EventGroupOtherNumAtRisk": [
+                              "32"
+                        ],
+                        "EventGroupSeriousNumAffected": [
+                              "15"
+                        ],
+                        "EventGroupSeriousNumAtRisk": [
+                              "32"
+                        ],
+                        "EventGroupTitle": [
+                              "Remestemcel-L"
+                        ],
+                        "EventsDescription": [
+                              "Safety population included all participants who signed the informed consent form and received at least one dose of study treatment (complete or partial) in Study MSB-GVHD001 and who signed the informed consent form for Study MSB-GVHD002. As no treatment was administered in this study, only serious adverse events are reported. Any non-serious treatment-emergent adverse events that occurred within 30 days of last treatment at the 5% threshold will be reported in Study MSB-GVHD001 [NCT02336230]."
+                        ],
+                        "EventsFrequencyThreshold": [
+                              "5"
+                        ],
+                        "EventsTimeFrame": [
+                              "Baseline (Day 100) up to Day 180 in Study MSB-GVHD002"
+                        ],
+                        "ExpAccTypeIndividual": [],
+                        "ExpAccTypeIntermediate": [],
+                        "ExpAccTypeTreatment": [],
+                        "ExpandedAccessNCTId": [],
+                        "ExpandedAccessStatusForNCTId": [],
+                        "FDAAA801Violation": [],
+                        "FlowAchievementComment": [],
+                        "FlowAchievementGroupId": [
+                              "FG000",
+                              "FG000",
+                              "FG000"
+                        ],
+                        "NCTId": [
+                              "NCT02652130"
+                        ]
+                  }
+            ]
+      }
+}

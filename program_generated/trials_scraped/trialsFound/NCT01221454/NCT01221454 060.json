@@ -1,0 +1,74 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT01221454",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The purpose of this study is to evaluate the therapeutic efficacy of allogenic bone marrow stem cells (BMSCs) transplantation in patients with liver failure caused by hepatitis B infection. The evaluation of the efficacy includes the level of serum alanine aminotransferase (ALT), aspartate aminotransferase(AST), total bilirubin (TB),prothrombin time (PT), albumin (ALB), prealbumin(PA), liver histological improvement before and 1 week to 1 year after transplantation. Child-Pugh scores, MELD scores and clinical symptoms were also observed simultaneously."
+                        ],
+                        "BriefTitle": [
+                              "Allogenic Bone Marrow Stem Cell Transplantation in Liver Failure"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "November 2011"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Liver Failure"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000008107",
+                              "D000004066"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Liver Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC01",
+                              "BC06",
+                              "All",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT01221454"
+                        ]
+                  }
+            ]
+      }
+}

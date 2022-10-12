@@ -1,0 +1,99 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT01771913",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OutcomeClassDenomCountGroupId",
+                  "OutcomeClassDenomCountValue",
+                  "OutcomeClassDenomUnits",
+                  "OutcomeClassTitle",
+                  "OutcomeDenomCountGroupId",
+                  "OutcomeDenomCountValue",
+                  "OutcomeDenomUnits",
+                  "OutcomeGroupDescription",
+                  "OutcomeGroupId",
+                  "OutcomeGroupTitle",
+                  "OutcomeMeasureAnticipatedPostingDate",
+                  "OutcomeMeasureCalculatePct",
+                  "OutcomeMeasureDenomUnitsSelected",
+                  "OutcomeMeasureDescription",
+                  "OutcomeMeasureDispersionType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OutcomeClassDenomCountGroupId": [],
+                        "OutcomeClassDenomCountValue": [],
+                        "OutcomeClassDenomUnits": [],
+                        "OutcomeClassTitle": [],
+                        "OutcomeDenomCountGroupId": [
+                              "OG000",
+                              "OG001",
+                              "OG000",
+                              "OG001",
+                              "OG000",
+                              "OG001"
+                        ],
+                        "OutcomeDenomCountValue": [
+                              "8",
+                              "11",
+                              "4",
+                              "7",
+                              "8",
+                              "11"
+                        ],
+                        "OutcomeDenomUnits": [
+                              "Participants",
+                              "Participants",
+                              "Participants"
+                        ],
+                        "OutcomeGroupDescription": [
+                              "female patients who underwent breast reconstruction and present with volume insufficiency will undergo centrifuged fat graft for contour and volume refinements.\n\ncentrifuged fat graft: fat from the abdominal subcutaneous tissue will be taken by vacuum assisted lipectomy and immediately prepared to be grafted in the reconstructed breast that presents contour irregularities and/or volume insufficiency. No adipose derived stem cells will enrich the fat grafts in this group.",
+                              "female patients who underwent breast reconstruction and present volume insufficiency will undergo ADSCs enriched fat grafting for volume and irregularity contour improvement\n\nADSCs enriched fat graft: fat from the abdominal subcutaneous tissue will be taken by suction assisted lipectomy and stromal vascular fraction will be isolated and immediately added to the fat graft that will be employed to improve contour irregularities and volume insufficiency of reconstructed breasts.",
+                              "female patients who underwent breast reconstruction and present with volume insufficiency will undergo centrifuged fat graft for contour and volume refinements.\n\ncentrifuged fat graft: fat from the abdominal subcutaneous tissue will be taken by vacuum assisted lipectomy and immediately prepared to be grafted in the reconstructed breast that presents contour irregularities and/or volume insufficiency. No adipose derived stem cells will enrich the fat grafts in this group.",
+                              "female patients who underwent breast reconstruction and present volume insufficiency will undergo ADSCs enriched fat grafting for volume and irregularity contour improvement\n\nADSCs enriched fat graft: fat from the abdominal subcutaneous tissue will be taken by suction assisted lipectomy and stromal vascular fraction will be isolated and immediately added to the fat graft that will be employed to improve contour irregularities and volume insufficiency of reconstructed breasts.",
+                              "female patients who underwent breast reconstruction and present with volume insufficiency will undergo centrifuged fat graft for contour and volume refinements.\n\ncentrifuged fat graft: fat from the abdominal subcutaneous tissue will be taken by vacuum assisted lipectomy and immediately prepared to be grafted in the reconstructed breast that presents contour irregularities and/or volume insufficiency. No adipose derived stem cells will enrich the fat grafts in this group.",
+                              "female patients who underwent breast reconstruction and present volume insufficiency will undergo ADSCs enriched fat grafting for volume and irregularity contour improvement\n\nADSCs enriched fat graft: fat from the abdominal subcutaneous tissue will be taken by suction assisted lipectomy and stromal vascular fraction will be isolated and immediately added to the fat graft that will be employed to improve contour irregularities and volume insufficiency of reconstructed breasts."
+                        ],
+                        "OutcomeGroupId": [
+                              "OG000",
+                              "OG001",
+                              "OG000",
+                              "OG001",
+                              "OG000",
+                              "OG001"
+                        ],
+                        "OutcomeGroupTitle": [
+                              "Centrifuged Fat Graft",
+                              "ADSCs Enriched Centrifuged Fat Graft",
+                              "Centrifuged Fat Graft",
+                              "ADSCs Enriched Centrifuged Fat Graft",
+                              "Centrifuged Fat Graft",
+                              "ADSCs Enriched Centrifuged Fat Graft"
+                        ],
+                        "OutcomeMeasureAnticipatedPostingDate": [],
+                        "OutcomeMeasureCalculatePct": [],
+                        "OutcomeMeasureDenomUnitsSelected": [],
+                        "OutcomeMeasureDescription": [
+                              "Volumetry of the reconstructed breasts will be accomplished through MRI and OsiriX software. Osirix software allows breast volume calculation through the determination of regions of interest (ROIs) on an MRI sequence. Once the pre (V1) and postoperative (V2) volumes were determined the following formula was applied: (V2 - V1) X 100/graft volume. The result, expressed in percentage, expresses graft volume persistence.",
+                              "Immunophenotyping of the fresh stromal vascular fraction of both groups. Immunophenotyping or flow cytometry measures how many cells, in a sample, express a specific surface marker. A surface marker or a group of markers may characterize a specific cell type. The software that accompanies the flow cytometer determines the number of cells (in percentage) that express the tested surface marker.",
+                              "Fat necrosis may occur whenever a fat graft is performed and it has clinical relevance. It can emerge as oil cysts or small nodules a little bit painful. In mammograms of normal breasts, fat necrosis present as cysts or micro calcifications that present a benign appearance. In breast reconstruction patients, fat necrosis, despite its benign characteristics, can suggest cancer recurrence."
+                        ],
+                        "OutcomeMeasureDispersionType": [
+                              "Standard Deviation",
+                              "Standard Deviation"
+                        ],
+                        "NCTId": [
+                              "NCT01771913"
+                        ]
+                  }
+            ]
+      }
+}

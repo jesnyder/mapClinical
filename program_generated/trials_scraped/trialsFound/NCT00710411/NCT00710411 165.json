@@ -1,0 +1,89 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT00710411",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "IsPPSD",
+                  "IsUSExport",
+                  "IsUnapprovedDevice",
+                  "Keyword",
+                  "LargeDocDate",
+                  "LargeDocFilename",
+                  "LargeDocHasICF",
+                  "LargeDocHasProtocol",
+                  "LargeDocHasSAP",
+                  "LargeDocLabel",
+                  "LargeDocTypeAbbrev",
+                  "LargeDocUploadDate",
+                  "LastKnownStatus",
+                  "LastUpdatePostDate",
+                  "LastUpdatePostDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "IsPPSD": [],
+                        "IsUSExport": [],
+                        "IsUnapprovedDevice": [],
+                        "Keyword": [
+                              "humans",
+                              "patients",
+                              "polytrauma",
+                              "complement",
+                              "inflammation",
+                              "inflammatory response",
+                              "biomarkers",
+                              "cytokines",
+                              "cell surface markers",
+                              "apoptosis",
+                              "NF-kappaB",
+                              "functional polymorphisms",
+                              "mesenchymal stem cell",
+                              "severity of injury",
+                              "ISS",
+                              "infections",
+                              "systemic inflammatory response syndrome",
+                              "SIRS",
+                              "sepsis",
+                              "severe sepsis",
+                              "shock",
+                              "organ dysfunctions",
+                              "SOFA",
+                              "severity of disease",
+                              "APACHEII",
+                              "SAPSII",
+                              "SPAPS3",
+                              "length of stay",
+                              "wound healing",
+                              "outcome",
+                              "mortality"
+                        ],
+                        "LargeDocDate": [],
+                        "LargeDocFilename": [],
+                        "LargeDocHasICF": [],
+                        "LargeDocHasProtocol": [],
+                        "LargeDocHasSAP": [],
+                        "LargeDocLabel": [],
+                        "LargeDocTypeAbbrev": [],
+                        "LargeDocUploadDate": [],
+                        "LastKnownStatus": [],
+                        "LastUpdatePostDate": [
+                              "December 17, 2015"
+                        ],
+                        "LastUpdatePostDateType": [
+                              "Estimate"
+                        ],
+                        "NCTId": [
+                              "NCT00710411"
+                        ]
+                  }
+            ]
+      }
+}

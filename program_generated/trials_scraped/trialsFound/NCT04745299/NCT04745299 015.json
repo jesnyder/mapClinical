@@ -1,0 +1,75 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04745299",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [
+                              "ALSummit"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Study drug injections twice in a 26-day interval followed by three times comparator injections every three months.",
+                              "Study drug injections twice in a 26-day interval followed by repeated three times study drug injections every three months.",
+                              "Comparator injections twice in a 26-day interval followed by three times comparator injections every three months."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Lenzumestrocel",
+                              "Drug: Riluzole",
+                              "Drug: Placebo Comparator",
+                              "Biological: Lenzumestrocel",
+                              "Drug: Riluzole",
+                              "Drug: Riluzole",
+                              "Drug: Placebo Comparator"
+                        ],
+                        "ArmGroupLabel": [
+                              "Single cycle administration group",
+                              "Multiple administation group",
+                              "Control group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04745299"
+                        ]
+                  }
+            ]
+      }
+}

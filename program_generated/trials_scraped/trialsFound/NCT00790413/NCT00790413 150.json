@@ -1,0 +1,155 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT00790413",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "High-dose MIBG with haploidentical stem cell transplantation",
+                              "High-dose MIBG with haploidentical stem cell transplantation",
+                              "High-dose MIBG with haploidentical stem cell transplantation",
+                              "High-dose MIBG with haploidentical stem cell transplantation",
+                              "High-dose MIBG with haploidentical stem cell transplantation",
+                              "High-dose MIBG with haploidentical stem cell transplantation",
+                              "High-dose MIBG with haploidentical stem cell transplantation",
+                              "High-dose MIBG with haploidentical stem cell transplantation"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "ANeo",
+                              "All",
+                              "ARhu",
+                              "Micro",
+                              "Infe"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Antineoplastic Agents",
+                              "All Drugs and Chemicals",
+                              "Antirheumatic Agents",
+                              "Micronutrients",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Under",
+                              "Allow",
+                              "Two",
+                              "Alternative Medicine"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M283219",
+                              "M10693",
+                              "M15767",
+                              "M373",
+                              "M9640",
+                              "M225481",
+                              "M20845",
+                              "M229687",
+                              "M1346",
+                              "M9353",
+                              "M19757",
+                              "M9364",
+                              "M20095",
+                              "M2972",
+                              "M20411"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Fludarabine",
+                              "Melphalan",
+                              "Thiotepa",
+                              "Rituximab",
+                              "Iodine",
+                              "Fludarabine phosphate",
+                              "3-Iodobenzylguanidine",
+                              "Cadexomer iodine",
+                              "Antineoplastic Agents, Immunological",
+                              "Immunologic Factors",
+                              "Antirheumatic Agents",
+                              "Immunosuppressive Agents",
+                              "Antineoplastic Agents, Alkylating",
+                              "Alkylating Agents",
+                              "Radiopharmaceuticals"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [],
+                        "InterventionMeshId": [
+                              "D000069283",
+                              "C000024352",
+                              "D000013852",
+                              "D000019797"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Rituximab",
+                              "Fludarabine",
+                              "Thiotepa",
+                              "3-Iodobenzylguanidine"
+                        ],
+                        "InterventionName": [
+                              "iodine I 131 metaiodobenzylguanidine",
+                              "Fludarabine",
+                              "Thiotepa",
+                              "T-cell depletion",
+                              "Haploidentical stem cell transplantation",
+                              "Donor Lymphocyte Infusion",
+                              "Rituximab",
+                              "Co-transplantation of mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug",
+                              "Drug",
+                              "Procedure",
+                              "Procedure",
+                              "Procedure",
+                              "Drug",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT00790413"
+                        ]
+                  }
+            ]
+      }
+}

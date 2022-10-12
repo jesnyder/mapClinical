@@ -1,0 +1,61 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal TERCELOI",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "The principal aim of this trial is to assess the safety of non-mutated HLA-identical Mesenchymal stem cell (MSC) transplantation for OI pediatric patients irrespective of treatment with biphosphonates. Since MSC are inherently non-immunogenic and do not elicit proliferation of allogeneic lymphocytes (in co-culture experiments), a cell therapy based on HLA-identical or histocompatible (at least 5 shared out of 6 HLA antigens) allogenic MSC may be accomplished without subjecting the patients to immunosuppressor treatment. Adverse secondary effects due to immunosuppressor treatment will be avoided using this strategy thus patients may benefit from two cellular infusions. The patients will be followed for 2 years post their fifth and last MSC infusion."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nPatient age: older than 6 months and younger than 12 years old.\nPatients with molecular confirmation of mutation in either COL1A1 or COL1A2 genes associated with OI (type III).\nPatients with HLA identical (that shared at least 5/6 antigens) siblings willing to donate bone marrow-MSCs.\nAll patients that fulfil the inclusion criteria regardless of whether or not they are undergoing biphosphonate treatment.\nPatients whose parents or the legal guardians are willing to sign the consent forms to participate in this clinical trial.\n\nExclusion Criteria:\n\nPatient age: older than 12 years old\nPatients lacking confirmation of mutation in either COL1A1 or COL1A2 genes associated with severe deforming OI (type III).\nOther pathological subtypes of OI.\nPatients lacking of HLA identical (that shared at least 5/6 antigens) siblings willing to donate bone marrow-MSCs.\nImmunodeficiencies and any other malignancies.\nParticipation in other clinical trial.\nAny medical or psychiatric condition that in the researcher\u00b4s opinion could affect the patient\u00b4s ability to complete the trial or hamper the participation in the trial.\nPatients whose parents or the legal guardians do not sign the consent forms"
+                        ],
+                        "EnrollmentCount": [
+                              "2"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT02172885"
+                        ]
+                  }
+            ]
+      }
+}

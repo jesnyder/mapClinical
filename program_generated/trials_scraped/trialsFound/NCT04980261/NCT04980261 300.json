@@ -1,0 +1,65 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04980261",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The functional evaluation will be assessed by using a scoring system named LEFS (Lower Extremity Functional Scale). LEFS is a widely known and validated patient-reported outcome measures (PROM) comprising 20 questions that is used to assess lower extremity functions. The patients will be asked to rate the activity listed from 0 to 4 (0 refers to an extreme difficulty/unable to perform activity, while 4 refers to having no difficulty at all). A higher score (maximum 80 points) indicates a very high function (i.e., a more favorable outcome).",
+                              "The functional evaluation will be assessed by using a scoring system named LEFS (Lower Extremity Functional Scale). LEFS is a widely known and validated patient-reported outcome measures (PROM) comprising 20 questions that is used to assess lower extremity functions. The patients will be asked to rate the activity listed from 0 to 4 (0 refers to an extreme difficulty/unable to perform activity, while 4 refers to having no difficulty at all). A higher score (maximum 80 points) indicates a very high function (i.e., a more favorable outcome).",
+                              "The functional evaluation will be assessed by using a scoring system named LEFS (Lower Extremity Functional Scale). LEFS is a widely known and validated patient-reported outcome measures (PROM) comprising 20 questions that is used to assess lower extremity functions. The patients will be asked to rate the activity listed from 0 to 4 (0 refers to an extreme difficulty/unable to perform activity, while 4 refers to having no difficulty at all). A higher score (maximum 80 points) indicates a very high function (i.e., a more favorable outcome)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Functional evaluation at 8 weeks following surgery.",
+                              "Functional evaluation at 12 weeks following surgery.",
+                              "Functional evaluation at 16 weeks following surgery."
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "8 weeks",
+                              "12 weeks",
+                              "16 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04980261"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,77 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT05047276",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "September 8, 2021"
+                        ],
+                        "LeadSponsorClass": [
+                              "OTHER"
+                        ],
+                        "LeadSponsorName": [
+                              "Jos\u00e9 Mar\u00eda Piulats Rodr\u00edguez"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Hospitalet de Llobregat"
+                        ],
+                        "LocationContactEMail": [
+                              "jmpiulats@iconcologia.net"
+                        ],
+                        "LocationContactName": [
+                              "Josep M Piulats, MD, PhD"
+                        ],
+                        "LocationContactPhone": [
+                              "+34 93 2607744"
+                        ],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [
+                              "Contact"
+                        ],
+                        "LocationCountry": [
+                              "Spain"
+                        ],
+                        "LocationFacility": [
+                              "ICO Hospitalet"
+                        ],
+                        "LocationState": [
+                              "Barcelona"
+                        ],
+                        "LocationStatus": [],
+                        "LocationZip": [
+                              "08908"
+                        ],
+                        "NCTId": [
+                              "NCT05047276"
+                        ]
+                  }
+            ]
+      }
+}

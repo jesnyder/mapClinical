@@ -1,0 +1,88 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04735185",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This is a randomized, comparative-effectiveness study comparing intradiscal autologous stem cells (from bone marrow aspirate) to intradiscal corticosteroid for the treatment of chronic discogenic low back pain (LBP). The primary objective of this study is to determine whether intradiscal autologous stem cells (from bone marrow aspirate) is more effective than intradiscal steroids for the treatment of chronic discogenic low back pain (LBP). Participants in this study will be randomized to receive up to intradiscal stem cell injections at 1 or 2 discs with cells harvested from a bone marrow aspirate drawn from participants' iliac crest, or an equal volume (2 mL) of intradiscal steroids and local anesthetic injected into the discs. In order to identify the painful disc(s), discography may be used at the discretion of the provider. Both treatments are frequently used as part of clinical care (i.e. there is no placebo group)."
+                        ],
+                        "BriefTitle": [
+                              "Stem Cells vs. Steroids for Discogenic Back Pain"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "OTHER",
+                              "FED"
+                        ],
+                        "CollaboratorName": [
+                              "The Geneva Foundation",
+                              "United States Department of Defense"
+                        ],
+                        "CompletionDate": [
+                              "November 30, 2027"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Chronic Low Back Pain",
+                              "Degenerative Disc Disease"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010146",
+                              "D000009461",
+                              "D000013122",
+                              "D000001847",
+                              "D000009140"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pain",
+                              "Neurologic Manifestations",
+                              "Spinal Diseases",
+                              "Bone Diseases",
+                              "Musculoskeletal Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC05",
+                              "BC10",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT04735185"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,109 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03252340",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Skin and Connective Tissue Diseases",
+                              "Immune System Diseases",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Atopic Dermatitis",
+                              "Dermatitis",
+                              "Atopic Dermatitis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M6223",
+                              "M6219",
+                              "M6807",
+                              "M14826",
+                              "M14828",
+                              "M22839",
+                              "M18864",
+                              "M9170",
+                              "M9172",
+                              "M9352",
+                              "T1303"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Dermatitis, Atopic",
+                              "Dermatitis",
+                              "Eczema",
+                              "Skin Diseases",
+                              "Skin Diseases, Genetic",
+                              "Genetic Diseases, Inborn",
+                              "Skin Diseases, Eczematous",
+                              "Hypersensitivity",
+                              "Hypersensitivity, Immediate",
+                              "Immune System Diseases",
+                              "Chronic Graft Versus Host Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003876",
+                              "D000003872",
+                              "D000004485"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Dermatitis, Atopic",
+                              "Dermatitis",
+                              "Eczema"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Case-Only"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT03252340"
+                        ]
+                  }
+            ]
+      }
+}

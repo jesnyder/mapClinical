@@ -1,0 +1,98 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02652130",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BaselineMeasureDispersionType",
+                  "BaselineMeasureParamType",
+                  "BaselineMeasurePopulationDescription",
+                  "BaselineMeasureTitle",
+                  "BaselineMeasureUnitOfMeasure",
+                  "BaselineMeasurementComment",
+                  "BaselineMeasurementGroupId",
+                  "BaselineMeasurementLowerLimit",
+                  "BaselineMeasurementSpread",
+                  "BaselineMeasurementUpperLimit",
+                  "BaselineMeasurementValue",
+                  "BaselinePopulationDescription",
+                  "BaselineTypeUnitsAnalyzed",
+                  "BioSpecDescription",
+                  "BioSpecRetention",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BaselineMeasureDispersionType": [
+                              "Standard Deviation"
+                        ],
+                        "BaselineMeasureParamType": [
+                              "Mean",
+                              "Count of Participants",
+                              "Count of Participants",
+                              "Count of Participants"
+                        ],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [
+                              "Age, Continuous",
+                              "Sex: Female, Male",
+                              "Ethnicity (NIH/OMB)",
+                              "Race/Ethnicity, Customized"
+                        ],
+                        "BaselineMeasureUnitOfMeasure": [
+                              "years",
+                              "Participants",
+                              "Participants",
+                              "Participants"
+                        ],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [
+                              "BG000",
+                              "BG000",
+                              "BG000",
+                              "BG000",
+                              "BG000",
+                              "BG000",
+                              "BG000",
+                              "BG000",
+                              "BG000",
+                              "BG000",
+                              "BG000"
+                        ],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [
+                              "5.24"
+                        ],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [
+                              "7.8",
+                              "11",
+                              "21",
+                              "12",
+                              "20",
+                              "0",
+                              "20",
+                              "3",
+                              "2",
+                              "1",
+                              "6"
+                        ],
+                        "BaselinePopulationDescription": [
+                              "Safety population included all participants who signed the informed consent form and received at least one dose of study treatment (complete or partial) in the study MSB-GVHD001 and who signed the informed consent form for the study MSB-GVHD002 were followed across both the studies MSB-GVHD001 and MSB-GVHD002."
+                        ],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT02652130"
+                        ]
+                  }
+            ]
+      }
+}

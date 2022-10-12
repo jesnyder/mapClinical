@@ -1,0 +1,93 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04137562",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "A Multicenter, Randomized, Single-Blind, Phase \u2161 Clinical Trial and Open Label Long-term Observation Study of ADSTEM Inj. to Evaluate the Safety and Efficacy in Patients with Moderate to Severe Subacute and Chronic Atopic Dermatitis.\n\nThe aim of this study is to evaluate the safety and efficacy of ADSTEM Inj. against Placebo in the treatment of atopic dermatitis in patients with moderate to severe acute and chronic atopic."
+                        ],
+                        "BriefTitle": [
+                              "Safety and Efficacy in Patients With Moderate to Severe Subacute and Chronic Atopic Dermatitis"
+                        ],
+                        "CentralContactEMail": [
+                              "seokehl@ehlbio.com"
+                        ],
+                        "CentralContactName": [
+                              "junseok seo"
+                        ],
+                        "CentralContactPhone": [
+                              "+82.70.5038.1940"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "May 31, 2027"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Atopic Dermatitis"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000012871",
+                              "D000012873",
+                              "D000030342",
+                              "D000017443",
+                              "D000006969",
+                              "D000006967",
+                              "D000007154"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Skin Diseases",
+                              "Skin Diseases, Genetic",
+                              "Genetic Diseases, Inborn",
+                              "Skin Diseases, Eczematous",
+                              "Hypersensitivity, Immediate",
+                              "Hypersensitivity",
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC16",
+                              "BC17",
+                              "BC20",
+                              "All",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT04137562"
+                        ]
+                  }
+            ]
+      }
+}

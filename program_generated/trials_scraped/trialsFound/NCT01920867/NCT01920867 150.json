@@ -1,0 +1,89 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01920867",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "RB, ST, IV",
+                              "RB, ST, IV, IO",
+                              "RB, ST, IV, IVIT",
+                              "RB, ST, IV",
+                              "RB, ST, IV, IO",
+                              "RB, ST, IV, IVIT",
+                              "RB, ST, IV",
+                              "RB, ST, IV, IO",
+                              "RB, ST, IV, IVIT",
+                              "RB, ST, IV, IVIT",
+                              "RB, ST, IV, IO"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Retrobulbar injection of Bone Marrow Derived Stem Cells (BMSC)",
+                              "Subtenon injection of Bone Marrow Derived Stem Cells (BMSC)",
+                              "Intravenous injection of Bone Marrow Derived Stem Cells (BMSC)",
+                              "Intravitreal injection of Bone Marrow Derived Stem Cells (BMSC)",
+                              "Intraocular injection of Bone Marrow Derived Stem Cells (BMSC) with vitrectomy prior to intraocular injection. For example, may include larger amount of stem cells in the intravitreal cavity, intraneuronal injections or subretinal injections of stem cells."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "RB (Retrobulbar)",
+                              "ST (Subtenon)",
+                              "IV (Intravenous)",
+                              "IVIT (Intravitreal)",
+                              "IO (Intraocular)"
+                        ],
+                        "InterventionOtherName": [
+                              "Retrobulbar injection of stem cells",
+                              "Subtenon injection of stem cells",
+                              "Intravenous injection of stem cells",
+                              "Intravitreal injection of stem cells",
+                              "Intraocular injection of stem cells with vitrectomy"
+                        ],
+                        "InterventionType": [
+                              "Procedure",
+                              "Procedure",
+                              "Procedure",
+                              "Procedure",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01920867"
+                        ]
+                  }
+            ]
+      }
+}

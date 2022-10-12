@@ -1,0 +1,71 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03252535",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [
+                              "ADORE-DH"
+                        ],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "The participants randomized to this group will receive a total of 9 intravenous administrations of 1x10^6 cells/weight range divided into three administrations per cycle. Each administration will occur every 30 days and cycles every 120 days (total of 3 cycles).",
+                              "The participants randomized to this group will receive a total of 9 intravenous administrations of 2x10^6 cells/weight range divided into three administrations per cycle. Each administration will occur every 30 days and cycles every 120 days (total of 3 cycles).",
+                              "The participants randomized to this group will receive a total of 9 intravenous administrations divided into three administrations per cycle. Each administration will occur every 30 days and cycles every 120 days (total of 3 cycles)."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: Cellavita HD lower dose",
+                              "Biological: Cellavita HD higher dose",
+                              "Other: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "Cellavita HD Lower Dose",
+                              "Cellavita HD Higher Dose",
+                              "Placebo Group"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03252535"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,92 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT05348772",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This is a first-in-human (FIH), Phase 1b, open-label, dose-escalation, safety trial consisting of 3 dose levels. Subjects will always be treated in cohorts of size 3, with from 3 up to 6 cohorts i.e. 9-18 subjects."
+                        ],
+                        "BriefTitle": [
+                              "A First-In-Human Phase 1b Study of AmnioPul-02 in COVID-19"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "June 30, 2024"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "COVID-19"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000012141",
+                              "D000007239",
+                              "D000011024",
+                              "D000011014",
+                              "D000014777",
+                              "D000018352",
+                              "D000003333",
+                              "D000030341",
+                              "D000012327",
+                              "D000008171",
+                              "D000012140"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Respiratory Tract Infections",
+                              "Infections",
+                              "Pneumonia, Viral",
+                              "Pneumonia",
+                              "Virus Diseases",
+                              "Coronavirus Infections",
+                              "Coronaviridae Infections",
+                              "Nidovirales Infections",
+                              "RNA Virus Infections",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC01",
+                              "BC08",
+                              "All",
+                              "BC23"
+                        ],
+                        "NCTId": [
+                              "NCT05348772"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,82 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT01221454",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Group B (BMSC Transplantion)",
+                              "Group A(conserved therapy )"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "All",
+                              "Hemat"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "All Drugs and Chemicals",
+                              "Hematinics"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3466",
+                              "M10262"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Antiviral Agents",
+                              "Liver Extracts"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "30ml allogenic bone marrow stem cells were infused to patients using interventional method via portal vein or hepatic artery as well as conserved therapy",
+                              "Oral or intravenous administration"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogenic bone marrow stem cells transplantation",
+                              "Conserved therapy"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Procedure",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01221454"
+                        ]
+                  }
+            ]
+      }
+}

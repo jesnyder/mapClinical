@@ -1,0 +1,77 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal MR-MC-01",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "October 26, 2020"
+                        ],
+                        "LeadSponsorClass": [
+                              "OTHER"
+                        ],
+                        "LeadSponsorName": [
+                              "Asan Medical Center"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Seoul"
+                        ],
+                        "LocationContactEMail": [
+                              "mschoo@amc.seoul.kr"
+                        ],
+                        "LocationContactName": [
+                              "Myung-Soo Choo, professor"
+                        ],
+                        "LocationContactPhone": [
+                              "82-2-3010-3735"
+                        ],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [
+                              "Contact"
+                        ],
+                        "LocationCountry": [
+                              "Korea, Republic of"
+                        ],
+                        "LocationFacility": [
+                              "Department of Urology, Asan Medical Center"
+                        ],
+                        "LocationState": [],
+                        "LocationStatus": [
+                              "Recruiting"
+                        ],
+                        "LocationZip": [
+                              "138-736"
+                        ],
+                        "NCTId": [
+                              "NCT04610359"
+                        ]
+                  }
+            ]
+      }
+}

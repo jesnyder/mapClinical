@@ -1,0 +1,84 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02131077",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The objective of this study is to evaluate the safety and efficacy of allogeneic adipose-derived stem cells (ALLO-ASC) in patients with lateral epicondylitis."
+                        ],
+                        "BriefTitle": [
+                              "Safety and Efficacy Study of Allogeneic Adipose-derived Stem Cells for Treatment of Lateral Epicondylitis"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "August 2015"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Tennis Elbow"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000070639",
+                              "D000052256",
+                              "D000009135",
+                              "D000009140",
+                              "D000001134",
+                              "D000014947",
+                              "D000013708"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Elbow Tendinopathy",
+                              "Tendinopathy",
+                              "Muscular Diseases",
+                              "Musculoskeletal Diseases",
+                              "Arm Injuries",
+                              "Wounds and Injuries",
+                              "Tendon Injuries"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC05",
+                              "BC26",
+                              "All",
+                              "BC10"
+                        ],
+                        "NCTId": [
+                              "NCT02131077"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,103 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04392778",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This study aims to use the regenerative and repair abilities of stem cells to fight against the harmful effects of the novel coronavirus Covid-19 and therefore develop a treatment strategy. It is known that fatalities from this virus is largely caused by its damage to lungs and other organs. As the disease progresses, these organs fail and lead to mortality. Our hope is that the stem cell transplantation from healthy donors will repair the damage caused by the virus and result in a healthy recovery."
+                        ],
+                        "BriefTitle": [
+                              "Clinical Use of Stem Cells for the Treatment of Covid-19"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "OTHER",
+                              "UNKNOWN",
+                              "UNKNOWN"
+                        ],
+                        "CollaboratorName": [
+                              "Istinye University",
+                              "Regenerative Medicine and Stem Cell Production Center Liv MedCell",
+                              "Liv Hospital (Ulus)"
+                        ],
+                        "CompletionDate": [
+                              "November 30, 2020"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Covid19",
+                              "Pneumonia",
+                              "Multiple Organ Failure",
+                              "Corona Virus Infection"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000012141",
+                              "D000007239",
+                              "D000011024",
+                              "D000014777",
+                              "D000003333",
+                              "D000030341",
+                              "D000012327",
+                              "D000008171",
+                              "D000012140",
+                              "D000012769",
+                              "D000010335"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Respiratory Tract Infections",
+                              "Infections",
+                              "Pneumonia, Viral",
+                              "Virus Diseases",
+                              "Coronaviridae Infections",
+                              "Nidovirales Infections",
+                              "RNA Virus Infections",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Shock",
+                              "Pathologic Processes"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC01",
+                              "BC08",
+                              "All",
+                              "BC23"
+                        ],
+                        "NCTId": [
+                              "NCT04392778"
+                        ]
+                  }
+            ]
+      }
+}

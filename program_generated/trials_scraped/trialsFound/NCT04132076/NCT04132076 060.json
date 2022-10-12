@@ -1,0 +1,76 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04132076",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "Osteochondral lesion of talus (OLT), osteoarthrosis and impingement/instability syndrome are most common ankle joint pathologies. This study analyses outcome after various different operative treatment of aforementioned pathologies. Investigators hypothesis is that patient characteristics, type of lesion and surgical technique affect the result of treatment. The investigators will compare subjective (questionnaire) and objective (clinical examination) status of patient before and after operation."
+                        ],
+                        "BriefTitle": [
+                              "Treatment Outcome After Ankle Joint Surgeries"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "January 2021"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Osteochondral Lesion of Talus",
+                              "Ankle Arthritis",
+                              "Instability; Ankle (Ligaments) (Old Injury)",
+                              "Impingement Syndrome of Ankle"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000007592",
+                              "D000009140"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Joint Diseases",
+                              "Musculoskeletal Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC05"
+                        ],
+                        "NCTId": [
+                              "NCT04132076"
+                        ]
+                  }
+            ]
+      }
+}

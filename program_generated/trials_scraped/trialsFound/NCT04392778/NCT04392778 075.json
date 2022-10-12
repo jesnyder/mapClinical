@@ -1,0 +1,129 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04392778",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Infections",
+                              "Respiratory Tract (Lung and Bronchial) Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "COVID-19",
+                              "Pneumonia",
+                              "Corona Virus Infection",
+                              "Multiple Organ Failure"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M2562",
+                              "M9435",
+                              "M5520",
+                              "M16674",
+                              "M13056",
+                              "M19643",
+                              "M11211",
+                              "M14130",
+                              "M13066",
+                              "M5707",
+                              "M22838",
+                              "M14301",
+                              "M10320",
+                              "M14129",
+                              "M14729"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "COVID-19",
+                              "Infections",
+                              "Communicable Diseases",
+                              "Virus Diseases",
+                              "Pneumonia",
+                              "Coronavirus Infections",
+                              "Multiple Organ Failure",
+                              "Respiratory Tract Infections",
+                              "Pneumonia, Viral",
+                              "Coronaviridae Infections",
+                              "Nidovirales Infections",
+                              "RNA Virus Infections",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Shock"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000086382",
+                              "D000011014",
+                              "D000018352",
+                              "D000009102"
+                        ],
+                        "ConditionMeshTerm": [
+                              "COVID-19",
+                              "Pneumonia",
+                              "Coronavirus Infections",
+                              "Multiple Organ Failure"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04392778"
+                        ]
+                  }
+            ]
+      }
+}

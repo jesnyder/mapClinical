@@ -1,0 +1,77 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04138017",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Failure measured through clinical and radiographic evidence",
+                              "Patient reported outcome measurement that includes 29-item questionnaire divided into two subscales: 21-item activities of daily living subscale and 8-item sports subscale. Response options are given in 5 point Likert scales (range from 4-0)",
+                              "25-Hydroxyvitamin D2 and D3 Blood test",
+                              "Patient Foot pain reported on a 10 Centimeter line. Patient is asked to draw a vertical line where they believe their pain falls at rest and when active. This is on a scale of 0-10 with 0 being no pain and 10 being the most pain.",
+                              "Patient reported outcome for a standardized evaluation of clinical status of ankle- hindfoot. Patient reports their pain and the physician records physical assessment of alignment. Finally function is reported and the AOFAS score ranged from 0-100 with 100 being healthy ankles.",
+                              "Patient reported outcome for health related quality of life using a 12 item questionnaire. This is broken into two scores: Physical Health component scores, and Mental Health component scores.",
+                              "Patient self-reported capability for physical function using 8 questions to assess current function of an adult in the general population."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Failure of hardware or obvious non-union",
+                              "Foot and Ankle Ability Measure (FAAM)",
+                              "Vitamin D levels",
+                              "Visual Analog Pain Scale",
+                              "American Orthopaedic Foot and Ankle Society(AOFAS) hindfoot score",
+                              "VR-12 (Veterans RAND 12)",
+                              "Patient-Reported Outcomes Measurement Information System Physical Function-Short Form 8b (PROMIS Item Bank v2.0-Physical Function -Short Form 8b)"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "12 months",
+                              "12 months",
+                              "6 months",
+                              "12 months",
+                              "12 months",
+                              "12 months",
+                              "12 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04138017"
+                        ]
+                  }
+            ]
+      }
+}

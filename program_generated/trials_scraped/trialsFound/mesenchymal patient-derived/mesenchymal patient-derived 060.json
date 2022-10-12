@@ -1,0 +1,249 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal patient-derived",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The Researchers will assess the safety, tolerability, dosing effect, and early signals of efficacy of intra-arterially delivered autologous (from self) adipose (fat) tissue-derived mesenchymal stem/stromal cells (MSC) in patients with progressive diabetic kidney disease (DKD)."
+                        ],
+                        "BriefTitle": [
+                              "Patient-Derived Stem Cell Therapy for Diabetic Kidney Disease"
+                        ],
+                        "CentralContactEMail": [
+                              "Lawson.Donna3@mayo.edu"
+                        ],
+                        "CentralContactName": [
+                              "Donna Lawson"
+                        ],
+                        "CentralContactPhone": [
+                              "507-255-7975"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "UNKNOWN"
+                        ],
+                        "CollaboratorName": [
+                              "Regenerative Medicine Minnesota"
+                        ],
+                        "CompletionDate": [
+                              "December 2025"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Diabetic Kidney Disease",
+                              "Diabetic Nephropathies",
+                              "Diabetes Mellitus, Type 2",
+                              "Diabetes Mellitus, Type 1",
+                              "Chronic Kidney Disease",
+                              "Diabetic Nephropathy Type 2",
+                              "Kidney Failure",
+                              "Kidney Insufficiency"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000044882",
+                              "D000008659",
+                              "D000004700",
+                              "D000014570",
+                              "D000001327",
+                              "D000007154",
+                              "D000048909"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Glucose Metabolism Disorders",
+                              "Metabolic Diseases",
+                              "Endocrine System Diseases",
+                              "Urologic Diseases",
+                              "Autoimmune Diseases",
+                              "Immune System Diseases",
+                              "Diabetes Complications"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC18",
+                              "BC19",
+                              "All",
+                              "BXS",
+                              "BC20",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT03840343"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "BriefSummary": [
+                              "Starting from isolating primary cells from affected patients, an in vitro disease model system for KS will be developed. Using alternative strategies to obtain patient-derived mesenchymal stem cells, an integrative approach will be adopted for defining both the transcriptional and epigenetic regulatory networks perturbed upon the loss of function of KMT2D. Combining the self-renewal potential of mesenchymal stem cells (MSCs) with CRISPR/Cas9 technology, an epigenome editing approach as therapeutic strategy to rescue the activity of MLL4 will be developed.\n\nA step forward is expected towards the understanding of those the molecular mechanisms governing the aetiology of Kabuki Syndrome (KS) and that the proposed in vitro disease model will provide to the scientific community an experimental system to study the KS. Importantly, the aim is to define the molecular bases of KS and to develop a therapeutic strategy that could ameliorate some of the abnormalities associated with KS."
+                        ],
+                        "BriefTitle": [
+                              "Exploiting Epigenome Editing in Kabuki Syndrome: a New Route Towards Gene Therapy for Rare Genetic Disorders"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "UNKNOWN"
+                        ],
+                        "CollaboratorName": [
+                              "Association Fran\u00e7aise contre les Myopathies Telethon"
+                        ],
+                        "CompletionDate": [
+                              "November 27, 2020"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Kabuki Syndrome 1"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000004194",
+                              "D000010335",
+                              "D000000013",
+                              "D000007759",
+                              "D000004427",
+                              "D000010038"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Disease",
+                              "Pathologic Processes",
+                              "Congenital Abnormalities",
+                              "Labyrinth Diseases",
+                              "Ear Diseases",
+                              "Otorhinolaryngologic Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC09",
+                              "BC15",
+                              "BC16",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT03855631"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "BriefSummary": [
+                              "Following whole blood stimulation with mesenchymal stem cell derived exosomes, immune phenotype, cytokine release and mRNA expression patterns from critically ill patients with COVID-19 will be determined."
+                        ],
+                        "BriefTitle": [
+                              "Immune Modulation by Exosomes in COVID-19"
+                        ],
+                        "CentralContactEMail": [
+                              "manfred.weiss@uniklinik-ulm.de",
+                              "marion.schneider@uni-ulm.de"
+                        ],
+                        "CentralContactName": [
+                              "Manfred Weiss, MD",
+                              "Marion Schneider, PhD"
+                        ],
+                        "CentralContactPhone": [
+                              "+49(0)731500",
+                              "+49(0)731500"
+                        ],
+                        "CentralContactPhoneExt": [
+                              "60226",
+                              "60319"
+                        ],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "December 31, 2022"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "COVID-19",
+                              "Critical Illness",
+                              "Hypercytokinemia",
+                              "Lung Fibrosis"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000012141",
+                              "D000007239",
+                              "D000011024",
+                              "D000011014",
+                              "D000014777",
+                              "D000018352",
+                              "D000003333",
+                              "D000030341",
+                              "D000012327",
+                              "D000008171",
+                              "D000012140",
+                              "D000010335",
+                              "D000020969",
+                              "D000018746",
+                              "D000007249",
+                              "D000012769"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Respiratory Tract Infections",
+                              "Infections",
+                              "Pneumonia, Viral",
+                              "Pneumonia",
+                              "Virus Diseases",
+                              "Coronavirus Infections",
+                              "Coronaviridae Infections",
+                              "Nidovirales Infections",
+                              "RNA Virus Infections",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Pathologic Processes",
+                              "Disease Attributes",
+                              "Systemic Inflammatory Response Syndrome",
+                              "Inflammation",
+                              "Shock"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC08",
+                              "All",
+                              "BC23",
+                              "BC01"
+                        ],
+                        "NCTId": [
+                              "NCT05191381"
+                        ]
+                  }
+            ]
+      }
+}

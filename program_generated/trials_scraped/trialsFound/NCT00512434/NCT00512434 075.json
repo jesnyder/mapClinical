@@ -1,0 +1,94 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT00512434",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Wounds and Injuries",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Fracture",
+                              "Fractures, Open",
+                              "Tibial Fractures"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M25523",
+                              "M7870",
+                              "M15889",
+                              "M16837",
+                              "M10033"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Fractures, Bone",
+                              "Fractures, Open",
+                              "Tibial Fractures",
+                              "Wounds and Injuries",
+                              "Leg Injuries"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000050723",
+                              "D000013978",
+                              "D000005597"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Fractures, Bone",
+                              "Tibial Fractures",
+                              "Fractures, Open"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00512434"
+                        ]
+                  }
+            ]
+      }
+}

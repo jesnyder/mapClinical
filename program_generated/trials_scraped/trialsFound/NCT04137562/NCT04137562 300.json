@@ -1,0 +1,110 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04137562",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "30902"
+                        ],
+                        "SecondaryIdDomain": [
+                              "Republic of Korea Ministry of Food and Durg Safety"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Other Grant/Funding Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Percentage of subjects whose EASI score decreased by 50% or more at 4, 8 and 12 weeks compared to baseline",
+                              "Percentage of subjects whose EASI score decreased by 75% or more at 4, 8, 12 and 16 weeks compared to baseline",
+                              "EASI score change at 4, 8, 12 and 16 weeks compared to baseline",
+                              "Percentage of subjects whose SCORAD score decreased by 50% or more at 4, 8, 12 and 16 weeks compared to baseline",
+                              "Percentage of subjects whose SCORAD score decreased 75% or more at 4, 8, 12 and 16 weeks compared to baseline",
+                              "SCORAD score change at 4, 8, 12 and 16 weeks compared to baseline",
+                              "SCORAD evaluation items(Extent Criteria, erythema, edema/population, oozing/crusting, excoriation, lichenification, dryness, pruritus, insomnia) score change at 4, 8, 12 and 16 weeks compared to baseline",
+                              "Severity change of disease at 4, 8, 12 and 16 weeks compared to baseline",
+                              "Investigator's Global Assessment (IGA) score at 4, 8, 12 and 16 weeks compared to baseline",
+                              "Percentage of subjects who dropped one or more grades on the Investigator's Global Assessment (IGA) score at 4, 8, 12 and 16 weeks compared to baseline",
+                              "Percentage of subjects who dropped two or more grades on the Investigator's Global Assessment (IGA) score at 4, 8, 12 and 16 weeks compared to baseline",
+                              "Total IgE change at 4, 8, 12, 16 weeks compared to baseline",
+                              "Prostaglandin E2 (PGE2) and Eosinophil Cationic Protein (ECP) changes at 4, 8, 12 and 16 weeks compared to baseline",
+                              "TGF-1, interleukin (IL)-4, 5, 6, 8, 13, 31 and CCL17 at 4, 8, 12 and 16 weeks compared to baseline",
+                              "Days and frequency of used remedies at 4, 8, 12 and 16 weeks",
+                              "Percentage of subjects whom used remedies at 4, 8,12 and 16 weeks"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "EASI-50",
+                              "EASI-75",
+                              "EASI score",
+                              "SCORAD-50",
+                              "SCORAD-75",
+                              "SCORAD score",
+                              "SCORAD subgroup",
+                              "Severity",
+                              "IGA grade",
+                              "IGA -1 or more grade",
+                              "IGA -2 or more grade",
+                              "Total IgE",
+                              "PGE2 and ECP",
+                              "Immune cytokine",
+                              "Remedy used days and frequency",
+                              "Remedy used subjects"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "4, 8, 12 weeks",
+                              "4, 8, 12, 16 weeks",
+                              "4, 8, 12, 16 weeks",
+                              "4, 8, 12, 16 weeks",
+                              "4, 8, 12, 16 weeks",
+                              "4, 8, 12, 16 weeks",
+                              "4, 8, 12, 16 weeks",
+                              "4, 8, 12, 16 weeks",
+                              "4, 8, 12, 16 weeks",
+                              "4, 8, 12, 16 weeks",
+                              "4, 8, 12, 16 weeks",
+                              "4, 8, 12, 16 weeks",
+                              "4, 8, 12, 16 weeks",
+                              "4, 8, 12, 16 weeks",
+                              "4, 8, 12, 16 weeks",
+                              "4, 8, 12, 16 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04137562"
+                        ]
+                  }
+            ]
+      }
+}

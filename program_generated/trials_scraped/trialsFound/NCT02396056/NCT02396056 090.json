@@ -1,0 +1,61 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02396056",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant"
+                        ],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nat the augmentation site, the alveolar ridge must be deficient in a buccolingual dimension (< 5.5 mm): Class 1 Seibert defects.\nalveolar ridges to be augmented must have a minimum of 4 mm of keratinized gingiva extending the length of the planned augmentation.\n\nExclusion Criteria:\n\ngeneral contraindications to implant surgery\nsubjected to irradiation, chemotherapy or immunosuppressive therapy over the past 5 years\npoor oral hygiene and motivation\nuncontrolled diabetes\npregnant or lactating\nsubstance abusers\ncurrent smokers\npsychiatric problems or unrealistic expectations\nacute infection in the area intended for implant placement\npositive to HIV and hepatitis B and C\naffected by autoimmune diseases such as arthritis rheumatoid, systemic lupus erythematosus, sclerodermia, Sjo \u0308gren syndrome and dermatomyositis polymyositis\ntreated or under treatment with intravenous amino-bisphosphonates\nsubjected previously to reconstructive procedures of the posterior mandible and\nunder chronic treatment with steroids or non-steroidal anti-inflammatory drugs"
+                        ],
+                        "EnrollmentCount": [
+                              "10"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT02396056"
+                        ]
+                  }
+            ]
+      }
+}

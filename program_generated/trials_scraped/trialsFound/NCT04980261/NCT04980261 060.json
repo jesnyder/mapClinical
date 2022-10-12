@@ -1,0 +1,81 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04980261",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This clinical trial aims to investigate the efficacy of freeze-dried bovine hydroxyapatite/secretome composite application for the management of long bone defects and other bone healing disorders in the lower extremities."
+                        ],
+                        "BriefTitle": [
+                              "Freeze-dried Bovine Hydroxyapatite/Secretome Composite for Bone Defects"
+                        ],
+                        "CentralContactEMail": [
+                              "ferdyortho@yahoo.com"
+                        ],
+                        "CentralContactName": [
+                              "Ferdiansyah Mahyudin, MD, Ph.D"
+                        ],
+                        "CentralContactPhone": [
+                              "+62811320635"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "UNKNOWN",
+                              "UNKNOWN",
+                              "UNKNOWN",
+                              "UNKNOWN"
+                        ],
+                        "CollaboratorName": [
+                              "Dr. Ramelan Naval Hospital",
+                              "Airlangga University Hospital",
+                              "Sidoarjo General Hospital",
+                              "Cell & Tissue Bank, Dr. Soetomo General Hospital"
+                        ],
+                        "CompletionDate": [
+                              "December 31, 2022"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Bone Loss"
+                        ],
+                        "ConditionAncestorId": [],
+                        "ConditionAncestorTerm": [],
+                        "ConditionBrowseBranchAbbrev": [],
+                        "NCTId": [
+                              "NCT04980261"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,74 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT05348772",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Overall survival defined as time from ATIMP infusion to death for any cause",
+                              "Event-free survival (defined as time from ATIMP infusion to \"event\" or death)",
+                              "Ventilator-free days defined as days alive and free from mechanical ventilation",
+                              "Time to clinical response defined as time from ATIMP infusion to improvement of at least 1 point in the National Institute of Allergy and Infectious Diseases (NIAID) 8-point ordinal scale for COVID-19 severity",
+                              "Overall survival defined as time from ATIMP infusion to death for any cause",
+                              "Time to hospital discharge defined as time from ATIMP infusion to time to hospital discharge"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "OS",
+                              "Event-free survival",
+                              "Ventilator-free days",
+                              "Time to clinical response",
+                              "OS",
+                              "Time to hospital discharge"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Day 22",
+                              "Day 22",
+                              "Day 22",
+                              "Day 22",
+                              "1 year",
+                              "Day 22"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05348772"
+                        ]
+                  }
+            ]
+      }
+}

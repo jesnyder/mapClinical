@@ -46,6 +46,18 @@ def list_js():
 
         for file in os.listdir(retrieve_path('js')):
 
+
+            # define the script
+            line = '<script '
+            line = line + 'src="js/' + file + '">'
+            line = line + '</script>'
+            f.write(line)
+            f.write('\n')
+
+        f.write('\n')
+        f.write('\n')
+        for file in os.listdir(retrieve_path('js')):
+
             div_name = file.split('.')[0]
 
             # comment area

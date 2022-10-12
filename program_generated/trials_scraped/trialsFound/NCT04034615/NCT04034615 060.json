@@ -1,0 +1,84 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04034615",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The study is to investigate the long-term efficacy of perinatal tissue mesenchyme stem cells treatment on the appearance of a caesarean scar as compared to a similar untreated scar."
+                        ],
+                        "BriefTitle": [
+                              "The Long-term Effect of Perinatal Tissue Mesenchyme Stem Cells in the Treatment for Caesarean Section Scars"
+                        ],
+                        "CentralContactEMail": [
+                              "liuzphlk81@outlook.com",
+                              "fandazhigw@163.com"
+                        ],
+                        "CentralContactName": [
+                              "Zhengping Liu, MD",
+                              "Dazhi Fan, MD"
+                        ],
+                        "CentralContactPhone": [
+                              "+ 86 757 82969772",
+                              "+ 86 757 82969772"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "June 1, 2022"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Cicatrix"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000005355",
+                              "D000010335"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Fibrosis",
+                              "Pathologic Processes"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All"
+                        ],
+                        "NCTId": [
+                              "NCT04034615"
+                        ]
+                  }
+            ]
+      }
+}

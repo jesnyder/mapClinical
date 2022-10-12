@@ -1,0 +1,140 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal patient-derived",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "RMM 091718 CT 001"
+                        ],
+                        "SecondaryIdDomain": [
+                              "Regenerative Medicine Minnesota"
+                        ],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "Other Grant/Funding Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Change in measured glomerular filtration rate (mGFR). Measured as mL/min/BSA",
+                              "Change in estimated glomerular filtration rate (eGFR) slope. Measured as mL/min/1.73m^2/month"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Kidney Function",
+                              "Kidney Function"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "baseline, month 6",
+                              "pretreatment, month 12"
+                        ],
+                        "SeeAlsoLinkLabel": [
+                              "Diabetic Kidney Disease Stem Cell Trial - Mayo Clinic",
+                              "Stem Cells and Kidney Disease - Mayo Clinic",
+                              "Video of Stem Cell Trial in Diabetic Kidney Disease - Regenerative Medicine Minnesota"
+                        ],
+                        "SeeAlsoLinkURL": [
+                              "https://www.mayo.edu/research/clinical-trials/cls-20438442",
+                              "https://regenerativemedicineblog.mayoclinic.org/2018/10/26/stem-cells-and-chronic-kidney-disease/",
+                              "https://youtu.be/DQ7r3UFMDN8"
+                        ],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03840343"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "The aim is to determine the success rate of turning fibroblasts into mesenchymal stem cells",
+                              "The aim is to evaluate the ability to return to normal after CRISPR/Case9 gene therapy treatment on patients' cells"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "success rate of turning fibroblasts into mesenchymal stem cells",
+                              "success rate of CRISPR/Case9 gene therapy treatment on patients' cells"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "one year maximum after inclusion",
+                              "one year maximum after inclusion"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03855631"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Immune phenotypes related to type I interferon signaling",
+                              "Determination of functional single nucleotide polymorphisms of inflammatory genes and receptors"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Immune phenotyping",
+                              "Genetic predisposition to hyperinflammation"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year",
+                              "1 year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05191381"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,101 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04745299",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "ALSUMMIT is a double-blind, randomized, placebo-controlled, multi-center, parallel, phase III clinical trial to evaluate and confirm the efficacy and long-term safety of repeated Lenzumestrocel (Neuronata-R\u00ae inj.) treatment."
+                        ],
+                        "BriefTitle": [
+                              "Evaluation the Efficacy and Safety of Mutiple Lenzumestrocel (Neuronata-R\u00ae Inj.) Treatment in Patients With ALS"
+                        ],
+                        "CentralContactEMail": [
+                              "kwjkim@corestem.com",
+                              "yrjung@corestem.com"
+                        ],
+                        "CentralContactName": [
+                              "Kwijoo Kim",
+                              "Yerim Jung"
+                        ],
+                        "CentralContactPhone": [
+                              "+82-2-497-3711",
+                              "+82-70-4706-9612"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "May 3, 2026"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Amyotrophic Lateral Sclerosis"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010335",
+                              "D000019636",
+                              "D000009422",
+                              "D000009468",
+                              "D000013118",
+                              "D000002493",
+                              "D000057177",
+                              "D000057165",
+                              "D000008659"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathologic Processes",
+                              "Neurodegenerative Diseases",
+                              "Nervous System Diseases",
+                              "Neuromuscular Diseases",
+                              "Spinal Cord Diseases",
+                              "Central Nervous System Diseases",
+                              "TDP-43 Proteinopathies",
+                              "Proteostasis Deficiencies",
+                              "Metabolic Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC10",
+                              "BC18",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT04745299"
+                        ]
+                  }
+            ]
+      }
+}

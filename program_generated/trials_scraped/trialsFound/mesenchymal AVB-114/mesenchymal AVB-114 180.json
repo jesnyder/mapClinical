@@ -1,0 +1,119 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal AVB-114",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "October 3, 2022"
+                        ],
+                        "LeadSponsorClass": [
+                              "INDUSTRY"
+                        ],
+                        "LeadSponsorName": [
+                              "Avobis Bio, LLC"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Scottsdale",
+                              "Los Angeles",
+                              "Boston",
+                              "Rochester",
+                              "Nashville"
+                        ],
+                        "LocationContactEMail": [
+                              "Brady.justin@mayo.edu",
+                              "pfleshner@aol.com",
+                              "aananthakrishnan@mgh.harvard.edu",
+                              "Papadakis.Konstantinos@mayo.edu",
+                              "Baldeep.pabla@vumc.org"
+                        ],
+                        "LocationContactName": [
+                              "Justin T Brady, MD",
+                              "Phillip Fleshner, MD",
+                              "Ashwin Ananthakrishnan, MD, MPH",
+                              "Konstantinos Papadakis, MD",
+                              "Baldeep S Pabla, MD"
+                        ],
+                        "LocationContactPhone": [
+                              "480-301-8000",
+                              "310-289-9224",
+                              "617-724-9953",
+                              "507-266-0873",
+                              "615-322-0128"
+                        ],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [
+                              "Contact",
+                              "Contact",
+                              "Contact",
+                              "Contact",
+                              "Contact"
+                        ],
+                        "LocationCountry": [
+                              "United States",
+                              "United States",
+                              "United States",
+                              "United States",
+                              "United States"
+                        ],
+                        "LocationFacility": [
+                              "Mayo Clinic",
+                              "Office of Phillip Fleshner, MD",
+                              "Massachusetts General Hospital",
+                              "Mayo Clinic",
+                              "Vanderbuilt University Medical Center Diagnostic Laboratory"
+                        ],
+                        "LocationState": [
+                              "Arizona",
+                              "California",
+                              "Massachusetts",
+                              "Minnesota",
+                              "Tennessee"
+                        ],
+                        "LocationStatus": [
+                              "Recruiting",
+                              "Recruiting",
+                              "Recruiting",
+                              "Recruiting",
+                              "Recruiting"
+                        ],
+                        "LocationZip": [
+                              "85259",
+                              "90048",
+                              "02114",
+                              "55905",
+                              "37204"
+                        ],
+                        "NCTId": [
+                              "NCT04847739"
+                        ]
+                  }
+            ]
+      }
+}

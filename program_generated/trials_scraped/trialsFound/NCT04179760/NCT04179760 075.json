@@ -1,0 +1,180 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04179760",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Skin and Connective Tissue Diseases",
+                              "Immune System Diseases",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Dermatitis, Atopic",
+                              "Dermatitis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M6223",
+                              "M6219",
+                              "M6807",
+                              "M14826",
+                              "M14828",
+                              "M22839",
+                              "M18864",
+                              "M9170",
+                              "M9172",
+                              "M9352"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Dermatitis, Atopic",
+                              "Dermatitis",
+                              "Eczema",
+                              "Skin Diseases",
+                              "Skin Diseases, Genetic",
+                              "Genetic Diseases, Inborn",
+                              "Skin Diseases, Eczematous",
+                              "Hypersensitivity",
+                              "Hypersensitivity, Immediate",
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003876",
+                              "D000003872"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Dermatitis, Atopic",
+                              "Dermatitis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "Phase I: Multicenter in Korea, Randomized, Open-label, Parallel arm Phase II: Multicenter in Korea, Double-blind, Placebo-controlled, Parallel arm"
+                        ],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04179760"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Skin and Connective Tissue Diseases",
+                              "Immune System Diseases",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Dermatitis, Atopic",
+                              "Dermatitis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M6223",
+                              "M6219",
+                              "M6807",
+                              "M14826",
+                              "M14828",
+                              "M22839",
+                              "M18864",
+                              "M9170",
+                              "M9172",
+                              "M9352"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Dermatitis, Atopic",
+                              "Dermatitis",
+                              "Eczema",
+                              "Skin Diseases",
+                              "Skin Diseases, Genetic",
+                              "Genetic Diseases, Inborn",
+                              "Skin Diseases, Eczematous",
+                              "Hypersensitivity",
+                              "Hypersensitivity, Immediate",
+                              "Immune System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003876",
+                              "D000003872"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Dermatitis, Atopic",
+                              "Dermatitis"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Case-Only"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT04185584"
+                        ]
+                  }
+            ]
+      }
+}

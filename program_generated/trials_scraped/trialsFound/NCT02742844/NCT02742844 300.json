@@ -1,0 +1,85 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02742844",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Percentage of wound size reduction at Weeks 2, 3, 4, 6, 8, 10 and 12 (without LOCF)",
+                              "A priori specification not possible",
+                              "A priori specification not possible",
+                              "Amount of wound epithelialization in % of wound area will be assessed by the investigator based on image analysis of images taken from the wound.",
+                              "Formation of granulation tissue in % of wound area will be assessed by the investigator based on image analysis of images taken from the wound.\n\nWound exudation will be classified by the investigator using following scores:\n\nHigh: Small amounts of fluid or free fluids are visible when the dressing is removed; dressing is extensively marked or wet\nModerate: Small amounts of fluid are visible when dressing is removed; wound bed may appear glossy; Primary dressing may be lightly marked\nLow: Wound bed is dry; there is no visible moisture; Primary dressing is unmarked; dressing may be adherent to wound"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Percentage of wound size reduction",
+                              "Absolute wound size reduction",
+                              "Proportion of patients achieving complete wound closure",
+                              "Time to first complete wound closure",
+                              "Proportion of patients achieving 30% wound closure",
+                              "Time to first 30% wound closure",
+                              "Percentage of wound epithelialization",
+                              "Formation of granulation tissue and wound exudation",
+                              "Pain assessment as per numerical rating scale (NRS)",
+                              "Quality of life (QoL) assessment using the SF-36 questionnaire",
+                              "Dermatologic quality of life assessment using the DLQI questionnaire",
+                              "Physical examination and vital parameters"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Weeks 2, 3, 4, 6, 8, 10 and 12 post baseline",
+                              "Weeks 2, 3, 4, 6, 8, 10, and 12 post baseline",
+                              "Weeks 2, 3, 4, 6, 8, 10, and 12 post baseline and at any time point up to week 12",
+                              "Between baseline and week 12 post baseline",
+                              "Weeks 2, 3, 4, 6, 8, 10, 12 post baseline and at any time point up to week 12",
+                              "Between baseline and week 12 post baseline",
+                              "At baseline and days 3, 8 and weeks 2, 3, 4, 6, 8, 10, 12 post baseline",
+                              "At baseline and days 3, 8 and weeks 2, 3, 4, 6, 8, 10, 12 post baseline",
+                              "At baseline and days 1-3, 8 and weeks 2, 3, 4, 6, 8, 10, 12 post baseline",
+                              "At baseline and weeks 4, 8, 12 post baseline",
+                              "At baseline and weeks 4, 8, 12 post baseline",
+                              "At Screening, baseline, week 12, month 12"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT02742844"
+                        ]
+                  }
+            ]
+      }
+}

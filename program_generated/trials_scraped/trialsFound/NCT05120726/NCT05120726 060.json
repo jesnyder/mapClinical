@@ -1,0 +1,85 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT05120726",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "Pyoderma gangrenosum is a chronic debilitating ulcerative neutrophilic condition usually affecting the skin. The pathogenesis of pyoderma gangrenosum is poorly understood. Pyoderma gangrenosum has been estimated to have an incidence rate of 3-10 per million populations per year. Mortality estimates range up to 30%. The non-healing wounds present a significant social and economic burden on affected patients. We hypothesize that EpiFix (dehydrated human amnion/chorion membrane) will be beneficial in treating patients with pyoderma gangrenosum.\n\nPotentially eligible patients will be pre-screened in clinic. The pre-screening process will include a medical history, including review of co-morbid medical problems and home medications, and a physical exam of the wounds.\n\nThe first stage of the study will involve a surgery in which the pyoderma gangrenosum wounds are going to be treated with the EpiFix. About a week later, the patient will then undergo another surgery where skin grafts will be placed on the wounds that were treated in the first surgery. In each surgery, samples of the wound will be taken, and genetic information from these samples will be studied to identify the genes that are active before and after treating the wound with EpiFix.\n\nRoutine post-surgery clinic visits will then be used to monitor the healing of the wounds and make sure that no extra medical treatment is needed. Study staff will evaluate wounds twice a week for the first two weeks, then once a week until 6 weeks. Following this, you will then be followed every 4 weeks up to 22 weeks. These visits to the clinic will include taking wound measurements, taking digital photos, asking about level of pain and evaluating development of infection. Patient consent will be obtained to take any photos."
+                        ],
+                        "BriefTitle": [
+                              "A Novel Therapeutic Treatment of Pyoderma Gangrenosum"
+                        ],
+                        "CentralContactEMail": [
+                              "asmi60@lsuhsc.edu"
+                        ],
+                        "CentralContactName": [
+                              "Alison Smith, MD, PhD"
+                        ],
+                        "CentralContactPhone": [
+                              "504-903-9009"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "August 1, 2022"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Pyoderma Gangrenosum"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000012871",
+                              "D000017445",
+                              "D000012883"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Skin Diseases",
+                              "Skin Diseases, Vascular",
+                              "Skin Ulcer"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC17",
+                              "All",
+                              "BC18",
+                              "BC23",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT05120726"
+                        ]
+                  }
+            ]
+      }
+}

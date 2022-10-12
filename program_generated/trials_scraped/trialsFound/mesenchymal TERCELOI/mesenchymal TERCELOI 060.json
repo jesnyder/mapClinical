@@ -1,0 +1,92 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal TERCELOI",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The purpose of this study is to determine the safety and effectiveness of five infusions of characterized HLA-identical MSC in non immunosuppressed children with Osteogenesis Imperfecta (OI)."
+                        ],
+                        "BriefTitle": [
+                              "Mesenchymal Stem Cell Based Therapy for the Treatment of Osteogenesis Imperfecta"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "OTHER",
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "Hospital Universitario Getafe",
+                              "Hospital Infantil Universitario Ni\u00f1o Jes\u00fas, Madrid, Spain"
+                        ],
+                        "CompletionDate": [
+                              "December 2018"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Osteogenesis Imperfecta"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010009",
+                              "D000001848",
+                              "D000001847",
+                              "D000009140",
+                              "D000030342",
+                              "D000003095",
+                              "D000003240"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Osteochondrodysplasias",
+                              "Bone Diseases, Developmental",
+                              "Bone Diseases",
+                              "Musculoskeletal Diseases",
+                              "Genetic Diseases, Inborn",
+                              "Collagen Diseases",
+                              "Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC05",
+                              "BC16",
+                              "BC17",
+                              "All",
+                              "BC18",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT02172885"
+                        ]
+                  }
+            ]
+      }
+}

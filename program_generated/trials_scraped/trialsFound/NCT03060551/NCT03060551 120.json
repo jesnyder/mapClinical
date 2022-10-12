@@ -1,0 +1,80 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03060551",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "FlowAchievementNumSubjects",
+                  "FlowAchievementNumUnits",
+                  "FlowDropWithdrawComment",
+                  "FlowDropWithdrawType",
+                  "FlowGroupDescription",
+                  "FlowGroupId",
+                  "FlowGroupTitle",
+                  "FlowMilestoneComment",
+                  "FlowMilestoneType",
+                  "FlowPeriodTitle",
+                  "FlowPreAssignmentDetails",
+                  "FlowReasonComment",
+                  "FlowReasonGroupId",
+                  "FlowReasonNumSubjects",
+                  "FlowReasonNumUnits",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "FlowAchievementNumSubjects": [
+                              "20",
+                              "18",
+                              "2"
+                        ],
+                        "FlowAchievementNumUnits": [],
+                        "FlowDropWithdrawComment": [],
+                        "FlowDropWithdrawType": [
+                              "Withdrawal by Subject",
+                              "Adverse Event"
+                        ],
+                        "FlowGroupDescription": [
+                              "Participants received SVF treatment, and were fully followed-up for the whole scheduled period for clinical assessment. SVF extraction and injection were performed in outpatient setting within at least 1 month after baseline evaluation. All patients were regulary assessed for intervention-related adverse events and clinical efficacies at 2 weeks (2W), 6 weeks (6W), 12 weeks (12W) and 24 weeks (24W) after their procedure."
+                        ],
+                        "FlowGroupId": [
+                              "FG000"
+                        ],
+                        "FlowGroupTitle": [
+                              "SVF Injection Group"
+                        ],
+                        "FlowMilestoneComment": [],
+                        "FlowMilestoneType": [
+                              "STARTED",
+                              "COMPLETED",
+                              "NOT COMPLETED"
+                        ],
+                        "FlowPeriodTitle": [
+                              "Overall Study"
+                        ],
+                        "FlowPreAssignmentDetails": [
+                              "Among the initially enrolled patients, one patient refused further procedures after baseline evaluation, while another patient dropped out due to complications during local anesthesia right before SVF injection."
+                        ],
+                        "FlowReasonComment": [],
+                        "FlowReasonGroupId": [
+                              "FG000",
+                              "FG000"
+                        ],
+                        "FlowReasonNumSubjects": [
+                              "1",
+                              "1"
+                        ],
+                        "FlowReasonNumUnits": [],
+                        "NCTId": [
+                              "NCT03060551"
+                        ]
+                  }
+            ]
+      }
+}

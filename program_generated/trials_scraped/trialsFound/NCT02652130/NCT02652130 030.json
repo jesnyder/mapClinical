@@ -1,0 +1,67 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02652130",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BaselineClassDenomCountValue",
+                  "BaselineClassDenomUnits",
+                  "BaselineClassTitle",
+                  "BaselineDenomCountGroupId",
+                  "BaselineDenomCountValue",
+                  "BaselineDenomUnits",
+                  "BaselineGroupDescription",
+                  "BaselineGroupId",
+                  "BaselineGroupTitle",
+                  "BaselineMeasureCalculatePct",
+                  "BaselineMeasureDenomCountGroupId",
+                  "BaselineMeasureDenomCountValue",
+                  "BaselineMeasureDenomUnits",
+                  "BaselineMeasureDenomUnitsSelected",
+                  "BaselineMeasureDescription",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BaselineClassDenomCountValue": [],
+                        "BaselineClassDenomUnits": [],
+                        "BaselineClassTitle": [
+                              "Race"
+                        ],
+                        "BaselineDenomCountGroupId": [
+                              "BG000"
+                        ],
+                        "BaselineDenomCountValue": [
+                              "32"
+                        ],
+                        "BaselineDenomUnits": [
+                              "Participants"
+                        ],
+                        "BaselineGroupDescription": [
+                              "All participants who were enrolled and had received at least 1 dose of remestemcel-L in Study MSB-GVHD001."
+                        ],
+                        "BaselineGroupId": [
+                              "BG000"
+                        ],
+                        "BaselineGroupTitle": [
+                              "Remestemcel-L"
+                        ],
+                        "BaselineMeasureCalculatePct": [],
+                        "BaselineMeasureDenomCountGroupId": [],
+                        "BaselineMeasureDenomCountValue": [],
+                        "BaselineMeasureDenomUnits": [],
+                        "BaselineMeasureDenomUnitsSelected": [],
+                        "BaselineMeasureDescription": [],
+                        "NCTId": [
+                              "NCT02652130"
+                        ]
+                  }
+            ]
+      }
+}

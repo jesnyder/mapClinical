@@ -1,0 +1,80 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03060551",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "IsPPSD",
+                  "IsUSExport",
+                  "IsUnapprovedDevice",
+                  "Keyword",
+                  "LargeDocDate",
+                  "LargeDocFilename",
+                  "LargeDocHasICF",
+                  "LargeDocHasProtocol",
+                  "LargeDocHasSAP",
+                  "LargeDocLabel",
+                  "LargeDocTypeAbbrev",
+                  "LargeDocUploadDate",
+                  "LastKnownStatus",
+                  "LastUpdatePostDate",
+                  "LastUpdatePostDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "IsPPSD": [],
+                        "IsUSExport": [
+                              "No"
+                        ],
+                        "IsUnapprovedDevice": [],
+                        "Keyword": [
+                              "stromal vascular fraction",
+                              "hand disability",
+                              "mesenchymal stem cells",
+                              "phase I trial"
+                        ],
+                        "LargeDocDate": [
+                              "May 28, 2020"
+                        ],
+                        "LargeDocFilename": [
+                              "Prot_SAP_000.pdf"
+                        ],
+                        "LargeDocHasICF": [
+                              "No"
+                        ],
+                        "LargeDocHasProtocol": [
+                              "Yes"
+                        ],
+                        "LargeDocHasSAP": [
+                              "Yes"
+                        ],
+                        "LargeDocLabel": [
+                              "Study Protocol and Statistical Analysis Plan"
+                        ],
+                        "LargeDocTypeAbbrev": [
+                              "Prot_SAP"
+                        ],
+                        "LargeDocUploadDate": [
+                              "10/03/2020 23:37"
+                        ],
+                        "LastKnownStatus": [],
+                        "LastUpdatePostDate": [
+                              "October 8, 2020"
+                        ],
+                        "LastUpdatePostDateType": [
+                              "Actual"
+                        ],
+                        "NCTId": [
+                              "NCT03060551"
+                        ]
+                  }
+            ]
+      }
+}

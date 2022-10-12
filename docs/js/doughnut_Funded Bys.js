@@ -15,11 +15,11 @@ const config_Funded Bys = {
             {
                 "label": "all",
                 "data": [
-                    40950,
-                    21426,
+                    42169,
+                    22834,
                     3115,
                     385,
-                    31,
+                    96,
                     82
                 ],
                 "backgroundColor": [

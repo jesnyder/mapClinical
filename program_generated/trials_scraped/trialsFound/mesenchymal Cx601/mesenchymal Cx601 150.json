@@ -1,0 +1,160 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Cx601",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "allogeneic ASCs"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All",
+                              "HB"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals",
+                              "Herbal and Botanical"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013",
+                              "T120"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions",
+                              "Cola"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "The cells will be given in different sites within the affected colonic submucosa at a total dose of 60 million cells with the use of a colonoscope."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Allogeneic adipose tissue-derived mesenchymal stem cells"
+                        ],
+                        "InterventionOtherName": [
+                              "Cx-601 (company code)"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01914887"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "patients with Crohn's disease and complex perianal fistula"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Injection of 120 million allogeneic expanded adipose-derived mesenchymal stem cells around the fistula opening and around the fistula tract"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Darvadstrocel"
+                        ],
+                        "InterventionOtherName": [
+                              "Alofisel"
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT05322057"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "Treatment Arm",
+                              "Placebo-control group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "PhSol",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Pharmaceutical Solutions",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21013"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Pharmaceutical Solutions"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "120 million cells administered by intralesional injection.",
+                              "24 mL saline solution by intralesional injection"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Cx601",
+                              "Saline solution"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01541579"
+                        ]
+                  }
+            ]
+      }
+}

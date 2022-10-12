@@ -1,0 +1,92 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02745379",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "In this study the buccal fat pad derived stem cells (BFPSCs) will be harvested from buccal fat pad tissue of patients receiving maxillary sinus augmentation. In the test group the patients receive a combination of platelet rich fibrin (PRF) and freeze dried bone allograft (FDBA) (SureOss, Hansbiomed, Korea) loaded with BFPSCs. The results will be evaluated by cone beam computed tomography (CBCT)and hematoxylin and eosin staining in 6 months."
+                        ],
+                        "BriefTitle": [
+                              "Effect of Buccal Fat Pad Derived Stem Cells in Maxillary Sinus Augmentation"
+                        ],
+                        "CentralContactEMail": [
+                              "arashkhojasteh@yahoo.com"
+                        ],
+                        "CentralContactName": [
+                              "Arash Khojasteh, DMD, OMFS"
+                        ],
+                        "CentralContactPhone": [
+                              "00989121060032"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "December 2016"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Alveolar Bone Loss"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000001862",
+                              "D000001847",
+                              "D000009140",
+                              "D000055093",
+                              "D000010510",
+                              "D000009059",
+                              "D000009057"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Bone Resorption",
+                              "Bone Diseases",
+                              "Musculoskeletal Diseases",
+                              "Periodontal Atrophy",
+                              "Periodontal Diseases",
+                              "Mouth Diseases",
+                              "Stomatognathic Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC05",
+                              "BC07",
+                              "All",
+                              "BC23"
+                        ],
+                        "NCTId": [
+                              "NCT02745379"
+                        ]
+                  }
+            ]
+      }
+}

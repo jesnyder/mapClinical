@@ -1,0 +1,122 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04261335",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Nervous System Diseases",
+                              "Heart and Blood Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ischemia",
+                              "Ischemia, Brain",
+                              "Hypoxia-Ischemia, Brain",
+                              "Hypoxia",
+                              "Encephalopathy"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9695",
+                              "M4946",
+                              "M21813",
+                              "M3337",
+                              "M9237",
+                              "M4356",
+                              "M14775",
+                              "M4894",
+                              "M4962",
+                              "M16552",
+                              "M4935"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Ischemia",
+                              "Brain Ischemia",
+                              "Hypoxia-Ischemia, Brain",
+                              "Hypoxia",
+                              "Hypothermia",
+                              "Brain Diseases",
+                              "Signs and Symptoms, Respiratory",
+                              "Central Nervous System Diseases",
+                              "Cerebrovascular Disorders",
+                              "Vascular Diseases",
+                              "Hypoxia, Brain"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001927",
+                              "D000002545",
+                              "D000020925",
+                              "D000007511",
+                              "D000000860"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Brain Diseases",
+                              "Brain Ischemia",
+                              "Hypoxia-Ischemia, Brain",
+                              "Ischemia",
+                              "Hypoxia"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "3 + 3 dose escalation study design"
+                        ],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04261335"
+                        ]
+                  }
+            ]
+      }
+}

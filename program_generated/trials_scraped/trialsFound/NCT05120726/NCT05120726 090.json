@@ -1,0 +1,61 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT05120726",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "In part because of its efficacy, the number of clinical indications for dehydrated human amnion/chorion membrane (dHACM) has expanded, and a number of case reports now suggest pyoderma gangrenosum can be successfully treated with dHACM. However, the mechanisms underlying dHACM's beneficial effects is entirely unstudied. The overall goal of the proposed study is to characterize the transcriptome of a pyoderma gangrenosum wound before and after successful treatment with dHACM. We will identify certain genes or genetic pathways that are specifically targeted by treatment of a wound with dehydrated human amnion/chorion membrane (EpiFix). With this data, we hope to better understand the method by which EpiFix can specifically heal a wound. Ultimately, all this data will be used to identify specific findings that aid in the diagnosis and treatment of pyoderma gangrenosum. A previous IRB-approved study by Dr. Frank Lau at LSU and colleagues (unpublished data) investigated the use of EpiFix to treat wounds in 3 patients with pyoderma gangrenosum with success and minimal complications."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\npatients diagnosed with pyoderma gangrenosum\npatients over 18 years of age\n\nExclusion Criteria:\n\nmembers of vulnerable populations (pregnant women and prisoners)\npatients less than 18 years of age"
+                        ],
+                        "EnrollmentCount": [
+                              "20"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT05120726"
+                        ]
+                  }
+            ]
+      }
+}

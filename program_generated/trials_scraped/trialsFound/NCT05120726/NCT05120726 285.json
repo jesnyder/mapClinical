@@ -1,0 +1,73 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT05120726",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "PrimaryOutcomeTimeFrame",
+                  "ReferenceCitation",
+                  "ReferencePMID",
+                  "ReferenceType",
+                  "RemovedCountry",
+                  "ResponsiblePartyInvestigatorAffiliation",
+                  "ResponsiblePartyInvestigatorFullName",
+                  "ResponsiblePartyInvestigatorTitle",
+                  "ResponsiblePartyOldNameTitle",
+                  "ResponsiblePartyOldOrganization",
+                  "ResponsiblePartyType",
+                  "ResultsFirstPostDate",
+                  "ResultsFirstPostDateType",
+                  "ResultsFirstPostedQCCommentsDate",
+                  "ResultsFirstPostedQCCommentsDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "PrimaryOutcomeTimeFrame": [
+                              "Wound specimen are collected during each surgical intervention (over ~2 weeks)",
+                              "~6 months (post-op weeks 1, 2, 3, 4, 5, 6, 10, 14, 18, 22; +/- 2 weeks each time in case conflicts arise)"
+                        ],
+                        "ReferenceCitation": [
+                              "Maverakis E, Marzano AV, Le ST, Callen JP, Br\u00fcggen MC, Guenova E, Dissemond J, Shinkai K, Langan SM. Pyoderma gangrenosum. Nat Rev Dis Primers. 2020 Oct 8;6(1):81. doi: 10.1038/s41572-020-0213-x. Review.",
+                              "Koob TJ, Rennert R, Zabek N, Massee M, Lim JJ, Temenoff JS, Li WW, Gurtner G. Biological properties of dehydrated human amnion/chorion composite graft: implications for chronic wound healing. Int Wound J. 2013 Oct;10(5):493-500. doi: 10.1111/iwj.12140. Epub 2013 Aug 1."
+                        ],
+                        "ReferencePMID": [
+                              "33033263",
+                              "23902526"
+                        ],
+                        "ReferenceType": [
+                              "background",
+                              "background"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "Louisiana State University Health Sciences Center in New Orleans"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Alison A. Smith"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Assistant Clinical Professor of Surgery"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT05120726"
+                        ]
+                  }
+            ]
+      }
+}

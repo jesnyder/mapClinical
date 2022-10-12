@@ -1,0 +1,69 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02859025",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Treated with anterior iliac crest spongy bone to fill defects, followed by coverage with collagen membrane.",
+                              "Treated with lateral ramus cortical bone plate (LRCP) to create a protected healing space by fixing it to adjacent walls of the cleft defect. BFPScs were loaded on NBBM and delivered to the defect",
+                              "Treated with anterior iliac crest spongy bone as in Group 1, but BFP-derived mesenchymal stem cells (MSCs ) cultured over NBBM were put over the spongy bone and covered with a collagen membrane."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: anterior iliac crest graft",
+                              "Biological: lateral ramus cortical bone+BFPSC+NBBM",
+                              "Biological: anterior iliac crest graft+BFPSC+NBBM"
+                        ],
+                        "ArmGroupLabel": [
+                              "A:Iiac",
+                              "B:MSCs+LRCP",
+                              "C:MSCs+liac"
+                        ],
+                        "ArmGroupType": [
+                              "Active Comparator",
+                              "Experimental",
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02859025"
+                        ]
+                  }
+            ]
+      }
+}

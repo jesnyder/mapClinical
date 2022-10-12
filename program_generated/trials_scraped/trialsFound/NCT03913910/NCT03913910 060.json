@@ -1,0 +1,95 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03913910",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The study aims to evaluate the efficacy of the local injection of autologous micro-fragmented adipose tissue obtained with the Lipogems\u00aesystem in patients with trans-sphincteric fistulas untreatable with fistulotomy."
+                        ],
+                        "BriefTitle": [
+                              "Perianal Fistula Treatment With Autologous Adipose Tissue Injection"
+                        ],
+                        "CentralContactEMail": [
+                              "gabrielenaldini65@gmail.com",
+                              "alexstur@yahoo.it"
+                        ],
+                        "CentralContactName": [
+                              "Gabriele Naldini, MD",
+                              "Alessandro Sturiale, MD"
+                        ],
+                        "CentralContactPhone": [
+                              "+39050997802",
+                              "+39050997814"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "June 30, 2020"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Perianal Fistula"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000020763",
+                              "D000007412",
+                              "D000016154",
+                              "D000004066",
+                              "D000007410",
+                              "D000005767",
+                              "D000012002"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathological Conditions, Anatomical",
+                              "Intestinal Fistula",
+                              "Digestive System Fistula",
+                              "Digestive System Diseases",
+                              "Intestinal Diseases",
+                              "Gastrointestinal Diseases",
+                              "Rectal Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC06"
+                        ],
+                        "NCTId": [
+                              "NCT03913910"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,131 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04735185",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Intradiscal autologous stem cells",
+                              "Intradiscal corticosteroid and local anesthetic",
+                              "Intradiscal corticosteroid and local anesthetic"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "CNSDep",
+                              "All",
+                              "Infl",
+                              "ANeo",
+                              "AnEm",
+                              "NeuroAg",
+                              "Gast"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Central Nervous System Depressants",
+                              "All Drugs and Chemicals",
+                              "Anti-Inflammatory Agents",
+                              "Antineoplastic Agents",
+                              "Antiemetics",
+                              "Neuroprotective Agents",
+                              "Gastrointestinal Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Cream",
+                              "ACT"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M3259",
+                              "M13272",
+                              "M1833",
+                              "M10901",
+                              "M10902",
+                              "M229437",
+                              "M211896",
+                              "M248768",
+                              "M3261",
+                              "M4467"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anesthetics",
+                              "Prednisolone",
+                              "Methylprednisolone Acetate",
+                              "Methylprednisolone",
+                              "Methylprednisolone Hemisuccinate",
+                              "Prednisolone acetate",
+                              "Prednisolone hemisuccinate",
+                              "Prednisolone phosphate",
+                              "Anesthetics, Local",
+                              "Bupivacaine"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "In this intervention participants will receive a 2 mL intradiscal injection into each affected disc of autologous bone marrow-derived mesenchymal stem cells from bone marrow aspirate of the posterior ilium.",
+                              "In this intervention participants will receive a 1 mL intradiscal injection of the steroid methylprednisolone (40 mg/mL) into each affected disc.",
+                              "In this intervention participants will receive a 1 mL intradiscal injection of the local anesthetic bupivacaine 0.5% into each affected disc."
+                        ],
+                        "InterventionMeshId": [
+                              "D000000777",
+                              "D000000779"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Anesthetics",
+                              "Anesthetics, Local"
+                        ],
+                        "InterventionName": [
+                              "Autologous stem cells",
+                              "Corticosteroid",
+                              "Local anesthetic"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other",
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04735185"
+                        ]
+                  }
+            ]
+      }
+}

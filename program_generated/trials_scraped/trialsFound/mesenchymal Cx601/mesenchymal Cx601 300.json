@@ -1,0 +1,143 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Cx601",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [
+                              "2010-023798-20"
+                        ],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [
+                              "EudraCT Number"
+                        ],
+                        "SecondaryOutcomeDescription": [
+                              "Remission will be considered if it descends below 11, and response if it diminishes at least 30%. Modified Truelove-Witts score will be evaluated at 0, 4, 8, and 12 weeks.",
+                              "Response will be considered if it improves at least 30%. IBDQ-32 will be evaluated at 0, 4, 8, and 12 weeks.",
+                              "Remission will be considered if reaches 0 points and response if the score diminishes. Endoscopy will be performed at 0 and 8 weeks.",
+                              "C Reactive Protein will be evaluated at 0, 9-10 days, and 4, 8, 12 weeks.",
+                              "Fecal calprotectin will be evaluated at 0, 4, 8, and 12 weeks."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy: Change from Baseline in Modified Truelove-Witts score",
+                              "Efficacy: Change from Baseline in Quality of Life index, Inflammatory Bowel Disease Questionnaire (IBDQ-32)",
+                              "Efficacy: Change from baseline in Mayo endoscopic index.",
+                              "Change from Baseline in C Reactive Protein",
+                              "Change from Baseline in fecal calprotectin"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Up to 12 weeks",
+                              "Up to 12 weeks",
+                              "8 weeks",
+                              "Up to 12 weeks",
+                              "Up to 12 weeks"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01914887"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [
+                              "Non-Probability Sample"
+                        ],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "At every follow up visit the perianal disease was evaluated using the PDAI (Perianal disease activity index)",
+                              "Crohn's disease was evaluated by using the HBI (Harvey Bradshaw Index)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Evaluation of perianal disease",
+                              "Evaluation of Crohn's disease"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "1 year",
+                              "1 year"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05322057"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Clinical Remission (CR) defined as closure of all treated EO that were draining at baseline despite gentle finger compression, as clinically assessed\nResponse defined as closure of at least 50% of all treated EO that were draining at baseline, as clinically assessed\nTime to Clinical Remission (time from treatment start to 1st visit with closure of all treated EO as described above)\nTime to Response (time from treatment start to 1st visit with closure of at least 50% of all treated EO as described above)\nRelapse defined, in patients with CR at previous visit, as reopening of any of the treated EO with active drainage, or the development of a perianal collection > 2 cm of the treated perianal fistulas confirmed by centrally blinded MRI\nTime to Relapse in patients with CR (time from CR to 1st visit with reopening of any of the treated EO as described above)\nSeverity of the perianal CD, assessed with the PDAI\nQoL assessed by IBDQ\nCDAI score\nVan Assche",
+                              "Combined Remission of perianal fistulising Crohn's disease at week 52 (as defined for week 24)\nClinical Remission defined as the closure of all treated external openings that were draining at baseline despite gentle finger compression, as clinically assessed at week 52\nResponse defined as closure of at least 50% of all treated external openings that were draining at baseline, as clinically assessed at week 52\nTime to Combined Remission by week 52 (as defined for week 24)\nTime to Clinical Remission by week 52 (as defined for week 24)\nTime to Response by week 52 (as defined for week 24)\nRelapse by week 52 in patients with Combined Remission at week 24 (as defined for week 24)\nTime to Relapse by week 52 in patients with Combined Remission at week 24 (as defined for week 24)\nSeverity of the perianal Crohn's disease up to week 52 assessed PDAI\nQoL up to week 52 by the IBDQ\nCDAI score up to week 52\nVan Assche score up to week 52",
+                              "Clinical Remission of perianal fistulising Crohn's disease defined as the clinical assessment of closure of all treated external openings that were draining at baseline despite gentle finger compression at week 104\nRelapse by week 104 in patients with Combined Remission at week 52, defined as reopening of any of the treated external openings with active drainage as clinically assessed\nTime to Relapse by week 104 in patients with Combined Remission at week 52 (defined as time from Combined Remission to first visit with reopening of any of the treated external openings with active drainage as clinically assessed)\nSeverity of the perianal Crohn's disease, assessed with the Perianal Disease Activity Index (PDAI) up to week 104\nQuality of Life (QoL) assessed by the Inflammatory Bowel Disease Questionnaire (IBDQ) up to week 104\nCDAI score up to week 104",
+                              "Adverse events including: Treatment emergent Adverse Events (TEAEs), TEAEs related to study treatment, Treatment emergent Serious Adverse Events (TESAEs), TESAEs related to study treatment, TEAEs leading to study withdrawal, adverse events related to surgical procedure(s) to provide study treatment, deaths Only SAEs will be reported during the 2nd follow-up period between week 52 and week 104.\nPhysical examination\nVital signs\nLaboratory tests (biochemistry, haematology, urinalysis)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Efficacy Assessment by week 24",
+                              "Efficacy Assessment by week 52",
+                              "Efficacy Assessment by week 104",
+                              "Safety analysis throughout the study:"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "24 weeks",
+                              "52 weeks",
+                              "104 Weeks",
+                              "week 24, 52 and 104"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT01541579"
+                        ]
+                  }
+            ]
+      }
+}

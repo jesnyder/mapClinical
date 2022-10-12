@@ -1,0 +1,136 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02742857",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Nervous System Diseases",
+                              "Wounds and Injuries",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Behaviors and Mental Disorders"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Brain Injury",
+                              "Traumatic Brain Injury",
+                              "Death",
+                              "Brain Death",
+                              "Diffuse Axonal Injury"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M4359",
+                              "M628",
+                              "M5997",
+                              "M4355",
+                              "M21739",
+                              "M4356",
+                              "M4894",
+                              "M16837",
+                              "M8501",
+                              "M21176",
+                              "M5508",
+                              "M16376",
+                              "M5620",
+                              "M20979",
+                              "M11556",
+                              "M615"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Brain Injuries",
+                              "Brain Injuries, Traumatic",
+                              "Death",
+                              "Brain Death",
+                              "Diffuse Axonal Injury",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Wounds and Injuries",
+                              "Craniocerebral Trauma",
+                              "Trauma, Nervous System",
+                              "Coma",
+                              "Unconsciousness",
+                              "Consciousness Disorders",
+                              "Neurobehavioral Manifestations",
+                              "Neurologic Manifestations",
+                              "Brain Injuries, Diffuse"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000001930",
+                              "D000070642",
+                              "D000001926",
+                              "D000020833",
+                              "D000003643"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Brain Injuries",
+                              "Brain Injuries, Traumatic",
+                              "Brain Death",
+                              "Diffuse Axonal Injury",
+                              "Death"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Other"
+                        ],
+                        "NCTId": [
+                              "NCT02742857"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,71 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04034615",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Zhengping Liu, MD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 1, 2021"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "The investigators measured scar at three years post treatment using Vancouver Scar Scale (VSS). The VSS included vascularity (normal, pink, red, or purple), pigmentation (normal, hypopigmented, mixed, or hyperpigmented), height (flat, < 2 mm, 2-5 mm, or > 5 mm), and pliability (normal, supple, yielding, firm, ropes, or contracture). Each variable contained ranked subscales that could be summed to obtain a total score ranging from 0 to 14, with 0 representing normal skin and a higher score representing a more marked or abnormal scar. The Chinese version of the VSS has been shown to have good intraclass correlations and Cronbach's \u03b1 measures. All scars will be assessed independently by two observers on the same day when the participants are lying in a supine position with the scar exposed in bright light. If the data varies, another researcher will be required to assess the scar at the same day and the results with the highest frequency will be recorded."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Vancouver Scar Scale score"
+                        ],
+                        "NCTId": [
+                              "NCT04034615"
+                        ]
+                  }
+            ]
+      }
+}

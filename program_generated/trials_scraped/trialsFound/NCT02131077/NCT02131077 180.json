@@ -1,0 +1,80 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02131077",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "November 22, 2016"
+                        ],
+                        "LeadSponsorClass": [
+                              "INDUSTRY"
+                        ],
+                        "LeadSponsorName": [
+                              "Anterogen Co., Ltd."
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Seoul",
+                              "Seoul",
+                              "Seoul",
+                              "Seoul",
+                              "Seoul",
+                              "Seoul"
+                        ],
+                        "LocationContactEMail": [],
+                        "LocationContactName": [],
+                        "LocationContactPhone": [],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [],
+                        "LocationCountry": [
+                              "Korea, Republic of",
+                              "Korea, Republic of",
+                              "Korea, Republic of",
+                              "Korea, Republic of",
+                              "Korea, Republic of",
+                              "Korea, Republic of"
+                        ],
+                        "LocationFacility": [
+                              "Asan Medical Center",
+                              "Chung-Ang University Hosptal",
+                              "Gangnam Severance Hospital",
+                              "Nanoori hospital",
+                              "Samsung medical center",
+                              "Seoul National University Hospital"
+                        ],
+                        "LocationState": [],
+                        "LocationStatus": [],
+                        "LocationZip": [],
+                        "NCTId": [
+                              "NCT02131077"
+                        ]
+                  }
+            ]
+      }
+}

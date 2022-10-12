@@ -1,0 +1,65 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal Dental Implant with PRFM and PBMSCs",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [],
+                        "ConditionBrowseLeafName": [],
+                        "ConditionBrowseLeafRelevance": [],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "The selected sites would be randomly (coin toss method) assigned into an edentulous area allowing for the placement of a minimum of two adjacent dental implants being randomly assigned into (G1) - Dental implant with PRFM and (G2) - Dental implant with peripheral blood mesenchymal stem cells embedded in PRFM."
+                        ],
+                        "DesignMasking": [
+                              "Triple"
+                        ],
+                        "DesignMaskingDescription": [
+                              "The selected sites would be randomly (coin toss method) assigned into an edentulous area ."
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03044119"
+                        ]
+                  }
+            ]
+      }
+}

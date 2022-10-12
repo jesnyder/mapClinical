@@ -1,0 +1,109 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04179760",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Gwang Seong Choi, MD-Ph.D"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Recruiting"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "June 30, 2022"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "An EASI score is a tool used to measure the extent (area) and severity of atopic eczema (Eczema Area and Severity Index). The minimum EASI score is 0 and the maximum EASI score is 72. Higher scores mean worse outcome."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "over 50% reduction ratio of Eczema Area and Severity Index (EASI) as contrasted with baseline value (EASI-50)"
+                        ],
+                        "NCTId": [
+                              "NCT04179760"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "OverallOfficialName": [
+                              "Gwang Seong Choi, MD-Ph.D"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Enrolling by invitation"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [
+                              "No"
+                        ],
+                        "Phase": [],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "January 31, 2025"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Number of occurrence of treatment-related adverse events (\u2265 Grade 3 in severity (NCI-CTCAE, v5.0))",
+                              "Number of occurrence of use of medications related to adverse events"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Long-term safety assessment of SCM-AGH in subjects with moderate to severe Atopic Dermatitis(AD)",
+                              "Long-term concomitant medication assessment of SCM-AGH in subjects with moderate to severe Atopic Dermatitis(AD)"
+                        ],
+                        "NCTId": [
+                              "NCT04185584"
+                        ]
+                  }
+            ]
+      }
+}

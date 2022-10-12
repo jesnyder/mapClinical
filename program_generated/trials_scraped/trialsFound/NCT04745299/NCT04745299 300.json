@@ -1,0 +1,65 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04745299",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Joint rank score is derived from Combined Assessment of Function and Survival. Functional assessment is based on ALSFRS-R scores and survival assessment is based on the period from randomization to physical death. Joint rank score will be calculated with ALSFRS-R score data and survival. For each pairwise comparison, a study participant is assigned a score and then the summed scores are ranked for all participants.\n\nThe higher ranking, the higher score, and the lower ranking, the lower score. And the average rank score is then calculated for each treatment group. A higher mean rank score indicates that participants in that treatment group, on average, fared better.\n\nThe difference in joint rank scores between multiple administration group and control group at 6 months.",
+                              "ALSFRS-R is an instrument designed to evaluate functional status of subjects with amyotrophic lateral sclerosis (Lou Gehrig's disease), such as gross motor activity, fine motor activity, bulbar function and respiration function. It consists of 12 items; 3 items for mouth functions, 4 items for upper limb and overall fine motor functions, 2 items for lower limb functions and 3 items for respiration functions. Each item is evaluated in 5-point scale (0~4). A higher score means a better functional status.\n\nChange of ALSFRS-R score measured at baseline and 12 months (multiple administration group and control group)\nChange of ALSFRS-R score measured at baseline and 6 months (single cycle administration and control group)",
+                              "Time to Event is defined as physical death, tracheostomy recognized as the point where disease progression functionally stops or chronic use of ventilator, whichever comes earlier. Chronic use of ventilator means that ventilator is used for more than 20 hours in a day and such use is continued for more than 30 days and that a subject in vegetative state requires full supports from other persons to maintain living.\n\nTime to event for 12 months (multiple administration group and control group)\nTime to event for 6 months (single cycle administration group and control group)"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Joint rank scores (CAFS, Combined Assessment of Functional and Survival)",
+                              "Amyotrophic Lateral Sclerosis Functional Rating Scale-Revised (ALSFRS-R) score",
+                              "Time to event"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "at 6 months",
+                              "at 12 months, 6 months",
+                              "at 12 months, 6 months"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04745299"
+                        ]
+                  }
+            ]
+      }
+}

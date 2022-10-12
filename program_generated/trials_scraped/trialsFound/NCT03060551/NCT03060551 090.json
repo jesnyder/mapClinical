@@ -1,0 +1,71 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03060551",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "In patients with systemic sclerosis(scleroderma, SSc), impaired hand function greatly contributes to disability and reduced quality of life, and is insufficiently relived by currently available therapies. Adipose tissue-derived stromal vascular fraction (SVF) is increasingly recognized as an easily accessible source of regenerative cells with therapeutic potential in ischaemic or autoimmune disease. The investigators aimed to measure for the first time the safety, tolerability, and potential efficacy of autologous SVF cells local injections in patients with SSc with hand disability."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nage over 18 year old\nCochin Hand Function Scale (CHFS) > 20/90\n\nExclusion Criteria:\n\nnew vasodilators or immunosuppressive therapy for SSc in the 3 months prior to enrolment\nnew vasodilators or immunosuppressive therapy for SSc during the 6-month follow-up\nclinical or radiological signs of digital infection\npositive status for HIV\npositive status for hepatitis B or C\npositive status for human T-cell leukemia virus 1-2\npositive status for syphilis\npregnancy\nBMI less than 17kg/m2"
+                        ],
+                        "EnrollmentCount": [
+                              "20"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [
+                              "0"
+                        ],
+                        "EventGroupDeathsNumAtRisk": [
+                              "20"
+                        ],
+                        "EventGroupDescription": [
+                              "Participants received SVF treatment. All patients were regulary assessed at 2 weeks (2W), 6 weeks (6W), 12 weeks (12W) and 24 weeks (24W) after their procedure."
+                        ],
+                        "EventGroupId": [
+                              "EG000"
+                        ],
+                        "EventGroupOtherNumAffected": [
+                              "5"
+                        ],
+                        "NCTId": [
+                              "NCT03060551"
+                        ]
+                  }
+            ]
+      }
+}

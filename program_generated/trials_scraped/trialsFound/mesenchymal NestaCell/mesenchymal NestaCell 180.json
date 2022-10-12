@@ -1,0 +1,94 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal NestaCell",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "June 8, 2020"
+                        ],
+                        "LeadSponsorClass": [
+                              "INDUSTRY"
+                        ],
+                        "LeadSponsorName": [
+                              "Azidus Brasil"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Campinas",
+                              "S\u00e3o Paulo",
+                              "S\u00e3o Paulo",
+                              "S\u00e3o Paulo"
+                        ],
+                        "LocationContactEMail": [
+                              "florentino.cardoso@hospitalcare.com.br",
+                              "luciana.ferrara@azidusbrasil.com.br"
+                        ],
+                        "LocationContactName": [
+                              "Florentino de Araujo Cardoso Filho, MD, PhD",
+                              "Luciana Ferrara",
+                              "Paulo Fernando Tierno",
+                              "Alexandre Soeiro",
+                              "Ricardo Diaz"
+                        ],
+                        "LocationContactPhone": [
+                              "+55 19 991232882",
+                              "+55 19 981428814"
+                        ],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [
+                              "Contact",
+                              "Contact",
+                              "Contact",
+                              "Contact",
+                              "Contact"
+                        ],
+                        "LocationCountry": [
+                              "Brazil",
+                              "Brazil",
+                              "Brazil",
+                              "Brazil"
+                        ],
+                        "LocationFacility": [
+                              "Hospital Vera Cruz",
+                              "Hospital de Barueri",
+                              "IncCOR",
+                              "UNIFESP"
+                        ],
+                        "LocationState": [
+                              "S\u00e3o Paulo"
+                        ],
+                        "LocationStatus": [],
+                        "LocationZip": [],
+                        "NCTId": [
+                              "NCT04315987"
+                        ]
+                  }
+            ]
+      }
+}

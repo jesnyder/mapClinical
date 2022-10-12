@@ -1,5 +1,53 @@
 var tableProducts =
   [
+
+    {
+      'type': 'allogeneic MSC',
+      'name': 'Descartes 25',
+      'maker': 'Cartesian Therapeutics',
+      'allo': 'true',
+      'source': 'AD',
+      'desc': 'DESCARTES-25 is the first off-the-shelf RNA Cell Therapy for cancer. The lead indication is multiple myeloma. DESCARTES-25 is designed to deliver two complementary antitumor proteins directly to the tumor: a novel bispecific antibody that binds B-cell Maturation Antigen (BCMA) with femtomolar avidity and the potent antitumor cytokine interleukin-12 (IL-12). DESCARTES-25 cells are further engineered with a membrane-bound homing protein that directs the cells to the tumor microenvironment for local delivery of their antitumor cargo.',
+      'url': 'https://www.cartesiantherapeutics.com/clinical-trials/',
+      'CA_approved': 'true',
+      'condition': 'Oncology',
+    } ,
+
+    {
+      'type': 'allogeneic MSC',
+      'name': 'Descartes 30',
+      'maker': 'Cartesian Therapeutics',
+      'allo': 'true',
+      'source': 'AD',
+      'desc': 'DESCARTES-30 is the first engineered cell therapy for respiratory diseases. The lead indication is Acute Respiratory Distress Syndrome (ARDS; including COVID-19 ARDS). Descartes-30 contains allogeneic (off-the-shelf) human Mesenchymal Stem Cells (MSCs) engineered to secrete two human DNases that specifically degrade Neutrophil Extracellular Traps (NETs). NETs are a key, as yet unaddressed mediator of ARDS.',
+      'url': 'https://www.cartesiantherapeutics.com/clinical-trials/',
+      'CA_approved': 'true',
+      'condition': 'ARDS',
+    } ,
+
+    {
+      'type': 'allogeneic MSC',
+      'name': 'Cx601 / darvadstrocel',
+      'maker': 'Takeda and TiGenix',
+      'allo': 'true',
+      'source': 'AD',
+      'desc': ' ',
+      'url': 'https://www.takeda.com/newsroom/newsreleases/2017/takeda-and-tigenix-announce-that-cx601-darvadstrocel-has-received-a-positive-chmp-opinion-to-treat-complex-perianal-fistulas-in-crohns-disease/',
+      'CA_approved': 'true',
+      'condition': 'complex perianal fistulas in adult Crohn’s disease',
+    } ,
+
+    {
+      'type': 'allogeneic MSC',
+      'name': 'NestaCell',
+      'maker': 'Cellavita',
+      'allo': 'true',
+      'source': 'BM',
+      'desc': 'NestaCell is a third-party, off-the-shelf suspension of ex-vivo cultured adult human mesenchymal stem cells intended for intravenous infusion.',
+      'url': 'https://www.medicinesfaq.com/brand/nestacell',
+      'CA_approved': 'true',
+      'condition': 'acute Graft versus Host Disease (aGvHD)',
+    } ,
     {
       'type': 'allogeneic MSC',
       'name': 'AlloRx Stem Cell therapy',

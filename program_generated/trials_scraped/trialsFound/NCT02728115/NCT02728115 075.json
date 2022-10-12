@@ -1,0 +1,134 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02728115",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Nervous System Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Behaviors and Mental Disorders",
+                              "All Conditions",
+                              "Neoplasms",
+                              "Skin and Connective Tissue Diseases",
+                              "Symptoms and General Pathology",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Huntington's Disease",
+                              "Huntington's Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9027",
+                              "M24756",
+                              "M3926",
+                              "M15510",
+                              "M4356",
+                              "M4894",
+                              "M6056",
+                              "M5211",
+                              "M21727",
+                              "M11181",
+                              "M21245",
+                              "M20711",
+                              "M22839",
+                              "M5453",
+                              "M20989",
+                              "M13625",
+                              "M3967",
+                              "T2852"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Huntington Disease",
+                              "Ganglion Cysts",
+                              "Basal Ganglia Diseases",
+                              "Synovial Cyst",
+                              "Brain Diseases",
+                              "Central Nervous System Diseases",
+                              "Dementia",
+                              "Chorea",
+                              "Dyskinesias",
+                              "Movement Disorders",
+                              "Heredodegenerative Disorders, Nervous System",
+                              "Neurodegenerative Diseases",
+                              "Genetic Diseases, Inborn",
+                              "Cognition Disorders",
+                              "Neurocognitive Disorders",
+                              "Psychotic Disorders",
+                              "Mental Disorders",
+                              "Huntington Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000006816"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Huntington Disease"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Non-Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Other"
+                        ],
+                        "NCTId": [
+                              "NCT02728115"
+                        ]
+                  }
+            ]
+      }
+}

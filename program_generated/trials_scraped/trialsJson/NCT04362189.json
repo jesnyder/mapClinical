@@ -1,0 +1,753 @@
+{
+      "Rank": 286,
+      "Acronym": [],
+      "AgreementOtherDetails": [],
+      "AgreementPISponsorEmployee": [],
+      "AgreementRestrictionType": [],
+      "AgreementRestrictiveAgreement": [],
+      "ArmGroupDescription": [
+            "Subjects assigned to this arm will receive 4 intravenous infusions of HB-adMSCs at 100 million cells/dose. HB-adMSC infusions will occur at day 0, 3, 7, and 10.",
+            "Subjects assigned to this arm will receive 4 intravenous infusions of placebo (saline solution). Infusions will occur at day 0, 3, 7, and 10."
+      ],
+      "ArmGroupInterventionName": [
+            "Biological: HB-adMSC",
+            "Other: Placebo"
+      ],
+      "ArmGroupLabel": [
+            "HB-adMSCs",
+            "Placebo"
+      ],
+      "ArmGroupType": [
+            "Experimental",
+            "Placebo Comparator"
+      ],
+      "AvailIPDComment": [],
+      "AvailIPDId": [],
+      "AvailIPDType": [],
+      "AvailIPDURL": [],
+      "BaselineCategoryTitle": [],
+      "BaselineClassDenomCountGroupId": [],
+      "NCTId": [
+            "NCT04362189"
+      ],
+      "BaselineClassDenomCountValue": [],
+      "BaselineClassDenomUnits": [],
+      "BaselineClassTitle": [],
+      "BaselineDenomCountGroupId": [],
+      "BaselineDenomCountValue": [],
+      "BaselineDenomUnits": [],
+      "BaselineGroupDescription": [],
+      "BaselineGroupId": [],
+      "BaselineGroupTitle": [],
+      "BaselineMeasureCalculatePct": [],
+      "BaselineMeasureDenomCountGroupId": [],
+      "BaselineMeasureDenomCountValue": [],
+      "BaselineMeasureDenomUnits": [],
+      "BaselineMeasureDenomUnitsSelected": [],
+      "BaselineMeasureDescription": [],
+      "BaselineMeasureDispersionType": [],
+      "BaselineMeasureParamType": [],
+      "BaselineMeasurePopulationDescription": [],
+      "BaselineMeasureTitle": [],
+      "BaselineMeasureUnitOfMeasure": [],
+      "BaselineMeasurementComment": [],
+      "BaselineMeasurementGroupId": [],
+      "BaselineMeasurementLowerLimit": [],
+      "BaselineMeasurementSpread": [],
+      "BaselineMeasurementUpperLimit": [],
+      "BaselineMeasurementValue": [],
+      "BaselinePopulationDescription": [],
+      "BaselineTypeUnitsAnalyzed": [],
+      "BioSpecDescription": [],
+      "BioSpecRetention": [],
+      "BriefSummary": [
+            "Hope Biosciences is conducting a research study of an investigational product called allogeneic adipose-derived mesenchymal stem cells (abbreviated as HB-adMSCs) as treatment for patients suspected to have COVID-19. The study purpose is to evaluate the safety and efficacy of four IV infusions of either placebo or HB-adMSCs in subjects with COVID-19."
+      ],
+      "BriefTitle": [
+            "Efficacy and Safety Study of Allogeneic HB-adMSCs for the Treatment of COVID-19"
+      ],
+      "CentralContactEMail": [],
+      "CentralContactName": [],
+      "CentralContactPhone": [],
+      "CentralContactPhoneExt": [],
+      "CentralContactRole": [],
+      "CollaboratorClass": [
+            "UNKNOWN",
+            "INDUSTRY",
+            "OTHER"
+      ],
+      "CollaboratorName": [
+            "Advanced Diagnostics Healthcare",
+            "Hope Biosciences",
+            "United Memorial Medical Center"
+      ],
+      "CompletionDate": [
+            "September 30, 2021"
+      ],
+      "CompletionDateType": [
+            "Actual"
+      ],
+      "Condition": [
+            "COVID-19"
+      ],
+      "ConditionAncestorId": [
+            "D000012141",
+            "D000007239",
+            "D000011024",
+            "D000011014",
+            "D000014777",
+            "D000018352",
+            "D000003333",
+            "D000030341",
+            "D000012327",
+            "D000008171",
+            "D000012140"
+      ],
+      "ConditionAncestorTerm": [
+            "Respiratory Tract Infections",
+            "Infections",
+            "Pneumonia, Viral",
+            "Pneumonia",
+            "Virus Diseases",
+            "Coronavirus Infections",
+            "Coronaviridae Infections",
+            "Nidovirales Infections",
+            "RNA Virus Infections",
+            "Lung Diseases",
+            "Respiratory Tract Diseases"
+      ],
+      "ConditionBrowseBranchAbbrev": [
+            "BC01",
+            "BC08",
+            "All",
+            "BC23"
+      ],
+      "ConditionBrowseBranchName": [
+            "Infections",
+            "Respiratory Tract (Lung and Bronchial) Diseases",
+            "All Conditions",
+            "Symptoms and General Pathology"
+      ],
+      "ConditionBrowseLeafAsFound": [
+            "COVID-19"
+      ],
+      "ConditionBrowseLeafId": [
+            "M2562",
+            "M19643",
+            "M9435",
+            "M14130",
+            "M5520",
+            "M13056",
+            "M13066",
+            "M16674",
+            "M5707",
+            "M22838",
+            "M14301",
+            "M10320",
+            "M14129"
+      ],
+      "ConditionBrowseLeafName": [
+            "COVID-19",
+            "Coronavirus Infections",
+            "Infections",
+            "Respiratory Tract Infections",
+            "Communicable Diseases",
+            "Pneumonia",
+            "Pneumonia, Viral",
+            "Virus Diseases",
+            "Coronaviridae Infections",
+            "Nidovirales Infections",
+            "RNA Virus Infections",
+            "Lung Diseases",
+            "Respiratory Tract Diseases"
+      ],
+      "ConditionBrowseLeafRelevance": [
+            "high",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low",
+            "low"
+      ],
+      "ConditionMeshId": [
+            "D000086382"
+      ],
+      "ConditionMeshTerm": [
+            "COVID-19"
+      ],
+      "DelayedPosting": [],
+      "DesignAllocation": [
+            "Randomized"
+      ],
+      "DesignInterventionModel": [
+            "Parallel Assignment"
+      ],
+      "DesignInterventionModelDescription": [],
+      "DesignMasking": [
+            "Quadruple"
+      ],
+      "DesignMaskingDescription": [],
+      "DesignObservationalModel": [],
+      "DesignPrimaryPurpose": [
+            "Treatment"
+      ],
+      "DesignTimePerspective": [],
+      "DesignWhoMasked": [
+            "Participant",
+            "Care Provider",
+            "Investigator",
+            "Outcomes Assessor"
+      ],
+      "DetailedDescription": [
+            "This is a Phase II, Randomized, Placebo-Controlled, Double-Blinded, Clinical Trial to Assess Efficacy of HB-adMSCs to treat COVID-19 patients. 100 patients will be enrolled. Eligible participants are suspected to have COVID-19 and consent to participate. The primary endpoints of this study are to detect change from baseline in inflammatory markers (IL-6, IL-10, TNF-alpha, C Reactive protein), improving oxygenation, and decreasing time to return to room air (RTRA). In addition, participants will be monitored for overall clinical status by standard clinical laboratories, change from baseline in exploratory markers (D-dimer, myoglobin, troponin, creatinine kinase MB, serum ferritin, CD4:CD8 ratio, CD3-CD56+), time to negative PCR results and clinical improvement according to 7-point ordinal scale, as well as incidence of adverse events."
+      ],
+      "DispFirstPostDate": [],
+      "DispFirstPostDateType": [],
+      "DispFirstSubmitDate": [],
+      "DispFirstSubmitQCDate": [],
+      "EligibilityCriteria": [
+            "Inclusion Criteria:\n\nMen, and women, over 18 years of age inclusively\nPatient is hospitalized due to suspected COVID-19 infection\nAgrees to the collection of venous blood per protocol\n\nExclusion Criteria:\n\nPregnancy, lactation and those who are not pregnant but do not take effective contraceptive measures.\nPatients who are participating in other clinical trials or have intake of investigational drug within the previous 30 days.\nInability to provide informed consent or to comply with test requirements.\nAcute intercurrent infections such as Hepatitis C Virus (HCV), Hepatitis B Virus (HBV), Human Immunodeficiency Virus (HIV) or Syphilis.\nAny medical disease or condition that, in the opinion of the site Principal Investigator or sub-investigator, precludes study participation. Including acute, subacute, intermittent or chronic medical disease or condition that would place the subject at an unacceptable risk of injury, render the subject unable to meet the requirements of the protocol, or may interfere with the evaluation of responses or the subject's successful completion of this trial.\nReceipt of any other SARS-CoV-2 or other experimental coronavirus vaccine at any time prior to or during the study."
+      ],
+      "EnrollmentCount": [
+            "53"
+      ],
+      "EnrollmentType": [
+            "Actual"
+      ],
+      "EventGroupDeathsNumAffected": [],
+      "EventGroupDeathsNumAtRisk": [],
+      "EventGroupDescription": [],
+      "EventGroupId": [],
+      "EventGroupOtherNumAffected": [],
+      "EventGroupOtherNumAtRisk": [],
+      "EventGroupSeriousNumAffected": [],
+      "EventGroupSeriousNumAtRisk": [],
+      "EventGroupTitle": [],
+      "EventsDescription": [],
+      "EventsFrequencyThreshold": [],
+      "EventsTimeFrame": [],
+      "ExpAccTypeIndividual": [],
+      "ExpAccTypeIntermediate": [],
+      "ExpAccTypeTreatment": [],
+      "ExpandedAccessNCTId": [],
+      "ExpandedAccessStatusForNCTId": [],
+      "FDAAA801Violation": [],
+      "FlowAchievementComment": [],
+      "FlowAchievementGroupId": [],
+      "FlowAchievementNumSubjects": [],
+      "FlowAchievementNumUnits": [],
+      "FlowDropWithdrawComment": [],
+      "FlowDropWithdrawType": [],
+      "FlowGroupDescription": [],
+      "FlowGroupId": [],
+      "FlowGroupTitle": [],
+      "FlowMilestoneComment": [],
+      "FlowMilestoneType": [],
+      "FlowPeriodTitle": [],
+      "FlowPreAssignmentDetails": [],
+      "FlowReasonComment": [],
+      "FlowReasonGroupId": [],
+      "FlowReasonNumSubjects": [],
+      "FlowReasonNumUnits": [],
+      "FlowRecruitmentDetails": [],
+      "FlowTypeUnitsAnalyzed": [],
+      "Gender": [
+            "All"
+      ],
+      "GenderBased": [],
+      "GenderDescription": [],
+      "HasExpandedAccess": [
+            "No"
+      ],
+      "HealthyVolunteers": [
+            "No"
+      ],
+      "IPDSharing": [
+            "No"
+      ],
+      "IPDSharingAccessCriteria": [],
+      "IPDSharingDescription": [],
+      "IPDSharingInfoType": [],
+      "IPDSharingTimeFrame": [],
+      "IPDSharingURL": [],
+      "InterventionAncestorId": [],
+      "InterventionAncestorTerm": [],
+      "InterventionArmGroupLabel": [
+            "HB-adMSCs",
+            "Placebo"
+      ],
+      "InterventionBrowseBranchAbbrev": [
+            "PhSol",
+            "All"
+      ],
+      "InterventionBrowseBranchName": [
+            "Pharmaceutical Solutions",
+            "All Drugs and Chemicals"
+      ],
+      "InterventionBrowseLeafAsFound": [],
+      "InterventionBrowseLeafId": [
+            "M21013"
+      ],
+      "InterventionBrowseLeafName": [
+            "Pharmaceutical Solutions"
+      ],
+      "InterventionBrowseLeafRelevance": [
+            "low"
+      ],
+      "InterventionDescription": [
+            "Hope Biosciences allogeneic adipose-derived mesenchymal stem cells",
+            "Saline"
+      ],
+      "InterventionMeshId": [],
+      "InterventionMeshTerm": [],
+      "InterventionName": [
+            "HB-adMSC",
+            "Placebo"
+      ],
+      "InterventionOtherName": [],
+      "InterventionType": [
+            "Biological",
+            "Other"
+      ],
+      "IsFDARegulatedDevice": [
+            "No"
+      ],
+      "IsFDARegulatedDrug": [
+            "Yes"
+      ],
+      "IsPPSD": [],
+      "IsUSExport": [],
+      "IsUnapprovedDevice": [],
+      "Keyword": [
+            "Coronavirus",
+            "Stem cells",
+            "Mesenchymal stem cells",
+            "Adipose-derived mesenchymal stem cells"
+      ],
+      "LargeDocDate": [],
+      "LargeDocFilename": [],
+      "LargeDocHasICF": [],
+      "LargeDocHasProtocol": [],
+      "LargeDocHasSAP": [],
+      "LargeDocLabel": [],
+      "LargeDocTypeAbbrev": [],
+      "LargeDocUploadDate": [],
+      "LastKnownStatus": [],
+      "LastUpdatePostDate": [
+            "February 7, 2022"
+      ],
+      "LastUpdatePostDateType": [
+            "Actual"
+      ],
+      "LastUpdateSubmitDate": [
+            "January 24, 2022"
+      ],
+      "LeadSponsorClass": [
+            "OTHER"
+      ],
+      "LeadSponsorName": [
+            "Hope Biosciences Stem Cell Research Foundation"
+      ],
+      "LimitationsAndCaveatsDescription": [],
+      "LocationCity": [
+            "Houston",
+            "Houston"
+      ],
+      "LocationContactEMail": [],
+      "LocationContactName": [],
+      "LocationContactPhone": [],
+      "LocationContactPhoneExt": [],
+      "LocationContactRole": [],
+      "LocationCountry": [
+            "United States",
+            "United States"
+      ],
+      "LocationFacility": [
+            "River Oaks Hospital and Clinics",
+            "United Memorial Medical Center"
+      ],
+      "LocationState": [
+            "Texas",
+            "Texas"
+      ],
+      "LocationStatus": [],
+      "LocationZip": [
+            "77027",
+            "77091"
+      ],
+      "MaximumAge": [],
+      "MinimumAge": [],
+      "NCTIdAlias": [],
+      "OfficialTitle": [
+            "A Randomized, Placebo-Controlled, Double-Blind, Efficacy and Safety Study of Allogeneic HB-adMSCs for the Treatment of COVID-19"
+      ],
+      "OrgClass": [
+            "INDUSTRY"
+      ],
+      "OrgFullName": [
+            "Hope Biosciences"
+      ],
+      "OrgStudyId": [
+            "HBCOV03"
+      ],
+      "OrgStudyIdDomain": [],
+      "OrgStudyIdLink": [],
+      "OrgStudyIdType": [],
+      "OtherEventAssessmentType": [],
+      "OtherEventNotes": [],
+      "OtherEventOrganSystem": [],
+      "OtherEventSourceVocabulary": [],
+      "OtherEventStatsGroupId": [],
+      "OtherEventStatsNumAffected": [],
+      "OtherEventStatsNumAtRisk": [],
+      "OtherEventStatsNumEvents": [],
+      "OtherEventTerm": [],
+      "OtherOutcomeDescription": [],
+      "OtherOutcomeMeasure": [],
+      "OtherOutcomeTimeFrame": [],
+      "OutcomeAnalysisCILowerLimit": [],
+      "OutcomeAnalysisCILowerLimitComment": [],
+      "OutcomeAnalysisCINumSides": [],
+      "OutcomeAnalysisCIPctValue": [],
+      "OutcomeAnalysisCIUpperLimit": [],
+      "OutcomeAnalysisCIUpperLimitComment": [],
+      "OutcomeAnalysisDispersionType": [],
+      "OutcomeAnalysisDispersionValue": [],
+      "OutcomeAnalysisEstimateComment": [],
+      "OutcomeAnalysisGroupDescription": [],
+      "OutcomeAnalysisGroupId": [],
+      "OutcomeAnalysisNonInferiorityComment": [],
+      "OutcomeAnalysisNonInferiorityType": [],
+      "OutcomeAnalysisOtherAnalysisDescription": [],
+      "OutcomeAnalysisPValue": [],
+      "OutcomeAnalysisPValueComment": [],
+      "OutcomeAnalysisParamType": [],
+      "OutcomeAnalysisParamValue": [],
+      "OutcomeAnalysisStatisticalComment": [],
+      "OutcomeAnalysisStatisticalMethod": [],
+      "OutcomeAnalysisTestedNonInferiority": [],
+      "OutcomeCategoryTitle": [],
+      "OutcomeClassDenomCountGroupId": [],
+      "OutcomeClassDenomCountValue": [],
+      "OutcomeClassDenomUnits": [],
+      "OutcomeClassTitle": [],
+      "OutcomeDenomCountGroupId": [],
+      "OutcomeDenomCountValue": [],
+      "OutcomeDenomUnits": [],
+      "OutcomeGroupDescription": [],
+      "OutcomeGroupId": [],
+      "OutcomeGroupTitle": [],
+      "OutcomeMeasureAnticipatedPostingDate": [],
+      "OutcomeMeasureCalculatePct": [],
+      "OutcomeMeasureDenomUnitsSelected": [],
+      "OutcomeMeasureDescription": [],
+      "OutcomeMeasureDispersionType": [],
+      "OutcomeMeasureParamType": [],
+      "OutcomeMeasurePopulationDescription": [],
+      "OutcomeMeasureReportingStatus": [],
+      "OutcomeMeasureTimeFrame": [],
+      "OutcomeMeasureTitle": [],
+      "OutcomeMeasureType": [],
+      "OutcomeMeasureTypeUnitsAnalyzed": [],
+      "OutcomeMeasureUnitOfMeasure": [],
+      "OutcomeMeasurementComment": [],
+      "OutcomeMeasurementGroupId": [],
+      "OutcomeMeasurementLowerLimit": [],
+      "OutcomeMeasurementSpread": [],
+      "OutcomeMeasurementUpperLimit": [],
+      "OutcomeMeasurementValue": [],
+      "OverallOfficialAffiliation": [
+            "Advanced Diagnostics Healthcare"
+      ],
+      "OverallOfficialName": [
+            "Rajiv Thakur, MD"
+      ],
+      "OverallOfficialRole": [
+            "Principal Investigator"
+      ],
+      "OverallStatus": [
+            "Terminated"
+      ],
+      "OversightHasDMC": [
+            "Yes"
+      ],
+      "PatientRegistry": [],
+      "Phase": [
+            "Phase 2"
+      ],
+      "PointOfContactEMail": [],
+      "PointOfContactOrganization": [],
+      "PointOfContactPhone": [],
+      "PointOfContactPhoneExt": [],
+      "PointOfContactTitle": [],
+      "PrimaryCompletionDate": [
+            "September 30, 2021"
+      ],
+      "PrimaryCompletionDateType": [
+            "Actual"
+      ],
+      "PrimaryOutcomeDescription": [
+            "change from baseline in interleukin-6",
+            "Change from baseline in C Reactive protein",
+            "change from baseline oxygenation (%)",
+            "change from baseline in TNF alpha",
+            "change from baseline level of IL-10 in the blood (pg/mL)",
+            "Time to return to room air"
+      ],
+      "PrimaryOutcomeMeasure": [
+            "Interleukin-6",
+            "C Reactive protein",
+            "Oxygenation",
+            "TNF alpha",
+            "IL-10",
+            "Return to room air (RTRA)"
+      ],
+      "PrimaryOutcomeTimeFrame": [
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7. 10",
+            "Day 0, 3, 7, 10, 28"
+      ],
+      "ReferenceCitation": [],
+      "ReferencePMID": [],
+      "ReferenceType": [],
+      "RemovedCountry": [],
+      "ResponsiblePartyInvestigatorAffiliation": [],
+      "ResponsiblePartyInvestigatorFullName": [],
+      "ResponsiblePartyInvestigatorTitle": [],
+      "ResponsiblePartyOldNameTitle": [],
+      "ResponsiblePartyOldOrganization": [],
+      "ResponsiblePartyType": [
+            "Sponsor"
+      ],
+      "ResultsFirstPostDate": [],
+      "ResultsFirstPostDateType": [],
+      "ResultsFirstPostedQCCommentsDate": [],
+      "ResultsFirstPostedQCCommentsDateType": [],
+      "ResultsFirstSubmitDate": [],
+      "ResultsFirstSubmitQCDate": [],
+      "RetractionPMID": [],
+      "RetractionSource": [],
+      "SamplingMethod": [],
+      "SecondaryId": [],
+      "SecondaryIdDomain": [],
+      "SecondaryIdLink": [],
+      "SecondaryIdType": [],
+      "SecondaryOutcomeDescription": [
+            "Monitoring for changes in qt interval",
+            "change from baseline in leukocyte differential",
+            "clinical lab evaluation of level of glucose in the blood (mg/dL)",
+            "clinical lab evaluation of level of calcium in the blood (mg/dL)",
+            "clinical lab evaluation of level of albumin in the blood (g/dL)",
+            "clinical lab evaluation of level of total protein in the blood (g/dL)",
+            "clinical lab evaluation of level of sodium in the blood (mol/L)",
+            "clinical lab evaluation of level of total carbon dioxide in the blood (mmol/L)",
+            "clinical lab evaluation of level of potassium in the blood (mmol/L)",
+            "clinical lab evaluation of level of chloride in the blood (mmol/L)",
+            "clinical lab evaluation of level of BUN in the blood (mg/dL)",
+            "clinical lab evaluation of level of creatinine in the blood (mg/dL)",
+            "clinical lab evaluation of level of alkaline phosphatase in the blood (IU/L)",
+            "clinical lab evaluation of level of alanine aminotransferase in the blood (IU/L)",
+            "clinical lab evaluation of level of total bilirubin in the blood (mg/dL)",
+            "clinical lab evaluation of level of white blood cells in the blood (x10^3/uL)",
+            "clinical lab evaluation of level of red blood cells in the blood (x10^6/uL)",
+            "clinical lab evaluation of level of hemoglobin in the blood (g/dL)",
+            "clinical lab evaluation of level of hematocrit in the blood (%)",
+            "clinical lab evaluation of level of mean corpuscular volume in the blood (fL)",
+            "clinical lab evaluation of level of mean corpuscular hemoglobin in the blood (pg)",
+            "clinical lab evaluation of level of mean corpuscular hemoglobin concentration in the blood (g/dL)",
+            "clinical lab evaluation of level of red cell distribution width in the blood (%)",
+            "clinical lab evaluation of level of neutrophils in the blood (%)",
+            "clinical lab evaluation of level of lymphocytes in the blood (%)",
+            "clinical lab evaluation of level of monocytes in the blood (%)",
+            "clinical lab evaluation of level of eosinophils in the blood (%)",
+            "clinical lab evaluation of level of basophils in the blood (%)",
+            "clinical lab evaluation of level of absolute neutrophils in the blood (x10^3/uL)",
+            "clinical lab evaluation of level of absolute lymphocytes in the blood (x10^3/uL)",
+            "clinical lab evaluation of level of absolute monocytes in the blood (x10^3/uL)",
+            "clinical lab evaluation of level of absolute eosinophils in the blood (x10^3/uL)",
+            "clinical lab evaluation of level of absolute basophils in the blood (x10^3/uL)",
+            "clinical lab evaluation of level of immature granulocytes in the blood (x10^3/uL)",
+            "clinical lab evaluation of level of platelets in the blood (x10^3/uL)",
+            "clinical lab evaluation of time for blood to coagulate (seconds)",
+            "clinical lab evaluation of international normalized ratio of blood coagulation (no unit)",
+            "clinical lab evaluation of percentage of cells CD3- and CD54+ (%)",
+            "clinical lab evaluation of ratio of CD4+ cells to CD8+ cells (no unit)",
+            "clinical lab evaluation of level of myoglobin in the blood (ng/mL)",
+            "clinical lab evaluation of level of myoglobin in the blood (ng/mL)",
+            "clinical lab evaluation of level of creatinine kinase in the blood (U/L)",
+            "clinical lab evaluation of level of serum ferritin in the blood (ng/mL)",
+            "incidence of adverse events",
+            "change from baseline in ordinal scale score; scale of 1-7; a score of 1 indicates death and 7 indicates subject is not hospitalized and has no limitations on activities.",
+            "change from baseline in D-dimer",
+            "change from baseline chest x-ray result",
+            "change from baseline CT scan result",
+            "time to achieve negative PCR test results"
+      ],
+      "SecondaryOutcomeMeasure": [
+            "EKG qt interval",
+            "Leukocyte differential",
+            "Glucose",
+            "Calcium",
+            "Albumin",
+            "Total protein",
+            "Sodium",
+            "Total carbon dioxide",
+            "Potassium",
+            "Chloride",
+            "BUN",
+            "Creatinine",
+            "Alkaline phosphatase",
+            "Alanine aminotransferase",
+            "Total bilirubin",
+            "White blood cells",
+            "Red blood cells",
+            "Hemoglobin",
+            "Hematocrit",
+            "Mean corpuscular volume",
+            "Mean corpuscular hemoglobin",
+            "Mean corpuscular hemoglobin concentration",
+            "Red cell distribution width",
+            "Neutrophils",
+            "Lymphs",
+            "Monocytes",
+            "Eosinophils",
+            "Basophils",
+            "Absolute neutrophils",
+            "Absolute lymphs",
+            "Absolute monocytes",
+            "Absolute eosinophils",
+            "Absolute basophils",
+            "Immature granulocytes",
+            "Platelets",
+            "Prothrombin time",
+            "INR",
+            "NK cell surface antigen (CD3-CD54+)",
+            "CD4+/CD8+ ratio",
+            "Myoglobin",
+            "Troponin",
+            "Creatinine kinase MB",
+            "Serum ferritin",
+            "Adverse events",
+            "7-point ordinal scale",
+            "D-dimer",
+            "Chest X-ray",
+            "CT scan",
+            "PCR test for SARS-CoV-2"
+      ],
+      "SecondaryOutcomeTimeFrame": [
+            "screening, day 0, 3, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening, day 0, 7, 10",
+            "screening through day 28",
+            "screening, day 0, 3, 7, 10, 28",
+            "screening, day 0, 7, 10",
+            "Day 0, Day 28",
+            "Day 0, Day 28",
+            "day 0, 3, 7, 10"
+      ],
+      "SeeAlsoLinkLabel": [],
+      "SeeAlsoLinkURL": [],
+      "SeriousEventAssessmentType": [],
+      "SeriousEventNotes": [],
+      "SeriousEventOrganSystem": [],
+      "SeriousEventSourceVocabulary": [],
+      "SeriousEventStatsGroupId": [],
+      "SeriousEventStatsNumAffected": [],
+      "SeriousEventStatsNumAtRisk": [],
+      "SeriousEventStatsNumEvents": [],
+      "SeriousEventTerm": [],
+      "StartDate": [
+            "June 30, 2020"
+      ],
+      "StartDateType": [
+            "Actual"
+      ],
+      "StatusVerifiedDate": [
+            "October 2020"
+      ],
+      "StdAge": [
+            "Child",
+            "Adult",
+            "Older Adult"
+      ],
+      "StudyFirstPostDate": [
+            "April 24, 2020"
+      ],
+      "StudyFirstPostDateType": [
+            "Actual"
+      ],
+      "StudyFirstSubmitDate": [
+            "April 21, 2020"
+      ],
+      "StudyFirstSubmitQCDate": [
+            "April 23, 2020"
+      ],
+      "StudyPopulation": [],
+      "StudyType": [
+            "Interventional"
+      ],
+      "SubmissionMCPReleaseN": [],
+      "SubmissionReleaseDate": [],
+      "SubmissionResetDate": [],
+      "SubmissionUnreleaseDate": [],
+      "TargetDuration": [],
+      "UnpostedEventDate": [],
+      "UnpostedEventType": [],
+      "UnpostedResponsibleParty": [],
+      "VersionHolder": [
+            "October 10, 2022"
+      ],
+      "WhyStopped": [
+            "No need to continue with VACCINE available"
+      ]
+}

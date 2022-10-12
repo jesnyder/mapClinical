@@ -1,0 +1,105 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT05165628",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "Design: A randomised, controlled, prospective trial. Participants will be patients with non-healing diabetic foot ulcers.\n\nThe study will aim to recruit 15 participants per study group (30 participants in total). Participants will be randomly allocated to one of two treatment groups:\n\nGroup 1: CYP-006TK\nGroup 2: Standard care This will be an open label study with respect to treatment allocation. However, the person reviewing images of the study ulcers to assess healing will be blind to the participant's treatment allocation.\n\nParticipants assigned to Group 1 will be treated with CYP-0006TK dressings on 8 occasions over 4 weeks. The dressings will be changed every 3 or 4 days. After the first 4 weeks, participants in Group 1 will revert to standard care for the rest of the study. Participants assigned to Group 2 will have their ulcer treated with standard care throughout the study.\n\nParticipants will attend a total of 16 scheduled visits over 24 weeks. There will be a mixture of on-site (hospital/clinic) visits, and home visits. The study will end 24 weeks after the initiation of treatment, unless the study ulcer is completely headed before then."
+                        ],
+                        "BriefTitle": [
+                              "Safety, Tolerability and Efficacy of CYP-006TK in Adults With Diabetic Foot Ulcers"
+                        ],
+                        "CentralContactEMail": [
+                              "clinical@cynata.com"
+                        ],
+                        "CentralContactName": [
+                              "Project Manager"
+                        ],
+                        "CentralContactPhone": [
+                              "+61 3 7067 6940"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "December 2022"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Diabetic Foot Ulcer",
+                              "Cutaneous Ulcer"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010335",
+                              "D000003925",
+                              "D000014652",
+                              "D000002318",
+                              "D000007871",
+                              "D000012871",
+                              "D000048909",
+                              "D000003920",
+                              "D000004700",
+                              "D000003929",
+                              "D000005534"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathologic Processes",
+                              "Diabetic Angiopathies",
+                              "Vascular Diseases",
+                              "Cardiovascular Diseases",
+                              "Leg Ulcer",
+                              "Skin Diseases",
+                              "Diabetes Complications",
+                              "Diabetes Mellitus",
+                              "Endocrine System Diseases",
+                              "Diabetic Neuropathies",
+                              "Foot Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC14",
+                              "BC17",
+                              "BC19",
+                              "All",
+                              "BC23",
+                              "BC18",
+                              "BC10",
+                              "BC05"
+                        ],
+                        "NCTId": [
+                              "NCT05165628"
+                        ]
+                  }
+            ]
+      }
+}

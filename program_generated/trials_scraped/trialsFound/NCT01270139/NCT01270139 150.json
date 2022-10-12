@@ -1,0 +1,128 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01270139",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Nano group",
+                              "Ferro group",
+                              "Stenting control"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "ANeo",
+                              "All",
+                              "VaDiAg",
+                              "FiAg",
+                              "AnCoag",
+                              "Micro",
+                              "NaAg",
+                              "NiOxD"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Antineoplastic Agents",
+                              "All Drugs and Chemicals",
+                              "Vasodilator Agents",
+                              "Fibrinolytic Agents",
+                              "Anticoagulants",
+                              "Micronutrients",
+                              "Natriuretic Agents",
+                              "Nitric Oxide Donors"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M21113",
+                              "M8254",
+                              "M8731",
+                              "M45326",
+                              "M8248",
+                              "M9685",
+                              "M9730",
+                              "M9731",
+                              "M244342",
+                              "M272852"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Sirolimus",
+                              "Nitroglycerin",
+                              "Heparin",
+                              "Calcium heparin",
+                              "Glycerol",
+                              "Iron",
+                              "Isosorbide",
+                              "Isosorbide Dinitrate",
+                              "Isosorbide-5-mononitrate",
+                              "Bivalirudin"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "60 patients into nanogroup with the use of 60/15-70/40 nm silica-gold nanoparticles (NPs) transplanted by endoscopic cardiac surgery in the composition of bioengineered on-artery patch grown on the basis of biopolymeric scaffold and host circulating CD45-CD34-CD73+CD105+ progenitor cells",
+                              "60 - into ferro-magnetic group with 60/15-70/40 nm silica-gold iron-bearing NPs with delivery in hand of magnetic navigation system",
+                              "60 - in sirolimus-eluting stenting control"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "Transplantation of nanoparticles",
+                              "Transplantation of iron-bearing nanoparticles",
+                              "Stenting"
+                        ],
+                        "InterventionOtherName": [
+                              "XIENCE V"
+                        ],
+                        "InterventionType": [
+                              "Procedure",
+                              "Procedure",
+                              "Device"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT01270139"
+                        ]
+                  }
+            ]
+      }
+}

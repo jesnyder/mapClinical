@@ -1,0 +1,141 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03011541",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This study will evaluate the use of autologous bone marrow derived stem cells (BMSC) for the treatment of retinal and optic nerve damage or disease."
+                        ],
+                        "BriefTitle": [
+                              "Stem Cell Ophthalmology Treatment Study II"
+                        ],
+                        "CentralContactEMail": [
+                              "stevenlevy@mdstemcells.com"
+                        ],
+                        "CentralContactName": [
+                              "Steven Levy, MD",
+                              "Steven Levy, MD"
+                        ],
+                        "CentralContactPhone": [
+                              "203-423-9494",
+                              "203-423-9494"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "July 2024"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Retinal Disease",
+                              "Age-Related Macular Degeneration",
+                              "Retinitis Pigmentosa",
+                              "Stargardt Disease",
+                              "Optic Neuropathy",
+                              "Nonarteritic Ischemic Optic Neuropathy",
+                              "Optic Atrophy",
+                              "Optic Nerve Disease",
+                              "Glaucoma",
+                              "Leber Hereditary Optic Neuropathy",
+                              "Blindness",
+                              "Vision Loss Night",
+                              "Vision Loss Partial",
+                              "Vision, Low",
+                              "Retinopathy",
+                              "Maculopathy",
+                              "Macular Degeneration",
+                              "Retina Atrophy"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000005128",
+                              "D000009468",
+                              "D000012162",
+                              "D000020763",
+                              "D000015785",
+                              "D000058499",
+                              "D000030342",
+                              "D000003389",
+                              "D000014786",
+                              "D000012678",
+                              "D000009461",
+                              "D000014652",
+                              "D000002318",
+                              "D000015418",
+                              "D000020271",
+                              "D000019636",
+                              "D000028361",
+                              "D000008659"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Eye Diseases",
+                              "Neuromuscular Diseases",
+                              "Retinal Degeneration",
+                              "Pathological Conditions, Anatomical",
+                              "Eye Diseases, Hereditary",
+                              "Retinal Dystrophies",
+                              "Genetic Diseases, Inborn",
+                              "Cranial Nerve Diseases",
+                              "Vision Disorders",
+                              "Sensation Disorders",
+                              "Neurologic Manifestations",
+                              "Vascular Diseases",
+                              "Cardiovascular Diseases",
+                              "Optic Atrophies, Hereditary",
+                              "Heredodegenerative Disorders, Nervous System",
+                              "Neurodegenerative Diseases",
+                              "Mitochondrial Diseases",
+                              "Metabolic Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC11",
+                              "All",
+                              "BC16",
+                              "BC23",
+                              "BC10",
+                              "BC20",
+                              "BC18",
+                              "BC09",
+                              "BC14",
+                              "BC26",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT03011541"
+                        ]
+                  }
+            ]
+      }
+}

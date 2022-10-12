@@ -1,15 +1,15 @@
 var tableStatus = 
 [
-{'Status': 'Completed', 'count': 431, 'enrolled': 17191} , 
-{'Status': 'Unknown status', 'count': 397, 'enrolled': 19936} , 
-{'Status': 'Recruiting', 'count': 276, 'enrolled': 19185} , 
-{'Status': 'Not yet recruiting', 'count': 90, 'enrolled': 4606} , 
-{'Status': 'Active, not recruiting', 'count': 63, 'enrolled': 2792} , 
+{'Status': 'Completed', 'count': 449, 'enrolled': 18209} , 
+{'Status': 'Unknown status', 'count': 411, 'enrolled': 20523} , 
+{'Status': 'Recruiting', 'count': 278, 'enrolled': 19854} , 
+{'Status': 'Not yet recruiting', 'count': 93, 'enrolled': 4689} , 
+{'Status': 'Active, not recruiting', 'count': 70, 'enrolled': 3006} , 
 {'Status': 'Terminated', 'count': 51, 'enrolled': 993} , 
 {'Status': 'Withdrawn', 'count': 50, 'enrolled': 0} , 
-{'Status': 'Suspended', 'count': 18, 'enrolled': 749} , 
+{'Status': 'Suspended', 'count': 19, 'enrolled': 855} , 
+{'Status': 'Enrolling by invitation', 'count': 17, 'enrolled': 552} , 
 {'Status': 'No longer available', 'count': 17, 'enrolled': 0} , 
-{'Status': 'Enrolling by invitation', 'count': 16, 'enrolled': 537} , 
-{'Status': 'Available', 'count': 5, 'enrolled': 0} , 
+{'Status': 'Available', 'count': 4, 'enrolled': 0} , 
 {'Status': 'Temporarily not available', 'count': 3, 'enrolled': 0} , 
 ]

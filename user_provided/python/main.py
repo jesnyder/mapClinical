@@ -16,7 +16,7 @@ def main():
     Map clinical trials
     """
 
-    tasks = [2, 3, 4, 5, 6]
+    tasks = []
     #tasks = np.arange(1,6,1)
     #tasks.append('openmaps')
 

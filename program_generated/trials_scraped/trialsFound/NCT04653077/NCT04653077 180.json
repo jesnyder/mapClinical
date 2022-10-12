@@ -1,0 +1,75 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04653077",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "November 27, 2020"
+                        ],
+                        "LeadSponsorClass": [
+                              "OTHER"
+                        ],
+                        "LeadSponsorName": [
+                              "Aljazeera Hospital"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Giza"
+                        ],
+                        "LocationContactEMail": [
+                              "mahmoudalalfy@ymail.com"
+                        ],
+                        "LocationContactName": [
+                              "Mahmoud Alalfy, PhD"
+                        ],
+                        "LocationContactPhone": [
+                              "+201002611058"
+                        ],
+                        "LocationContactPhoneExt": [
+                              "+2"
+                        ],
+                        "LocationContactRole": [
+                              "Contact"
+                        ],
+                        "LocationCountry": [
+                              "Egypt"
+                        ],
+                        "LocationFacility": [
+                              "Aljazeera( Al Gazeera) hospital"
+                        ],
+                        "LocationState": [],
+                        "LocationStatus": [],
+                        "LocationZip": [],
+                        "NCTId": [
+                              "NCT04653077"
+                        ]
+                  }
+            ]
+      }
+}

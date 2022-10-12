@@ -1,0 +1,105 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT05019287",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "In this randomized controlled trial (RCT), severe cases of COVID-19 infection will be treated with secretome of menstrual blood stem cells. The improvement in the clinical, laboratory and radiological manifestations will be evaluated in treated patients compared with the control group."
+                        ],
+                        "BriefTitle": [
+                              "Menstrual Blood Stem Cells in Severe Covid-19"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "Tehran University of Medical Sciences"
+                        ],
+                        "CompletionDate": [
+                              "June 9, 2021"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Covid19",
+                              "Cytokine Storm"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000012141",
+                              "D000007239",
+                              "D000011024",
+                              "D000011014",
+                              "D000014777",
+                              "D000018352",
+                              "D000003333",
+                              "D000030341",
+                              "D000012327",
+                              "D000008171",
+                              "D000012140",
+                              "D000018746",
+                              "D000007249",
+                              "D000010335",
+                              "D000012769"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Respiratory Tract Infections",
+                              "Infections",
+                              "Pneumonia, Viral",
+                              "Pneumonia",
+                              "Virus Diseases",
+                              "Coronavirus Infections",
+                              "Coronaviridae Infections",
+                              "Nidovirales Infections",
+                              "RNA Virus Infections",
+                              "Lung Diseases",
+                              "Respiratory Tract Diseases",
+                              "Systemic Inflammatory Response Syndrome",
+                              "Inflammation",
+                              "Pathologic Processes",
+                              "Shock"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC01",
+                              "BC08",
+                              "All",
+                              "BC23"
+                        ],
+                        "NCTId": [
+                              "NCT05019287"
+                        ]
+                  }
+            ]
+      }
+}

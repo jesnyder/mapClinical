@@ -1,0 +1,78 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT01860495",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "perforated membrane group",
+                              "occlusive membrane group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M11052"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Mitogens"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "perforated membrane that could give a chance for posetive contributionn of periosteal and gingival mesenchymal stem cells in periodontal regeneration",
+                              "tradetional occlusive collagen membrane"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "perforated membrane",
+                              "G2"
+                        ],
+                        "InterventionOtherName": [
+                              "collagen membranes",
+                              "guided tissue membranes"
+                        ],
+                        "InterventionType": [
+                              "Procedure",
+                              "Procedure"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT01860495"
+                        ]
+                  }
+            ]
+      }
+}

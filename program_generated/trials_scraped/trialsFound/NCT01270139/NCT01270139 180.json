@@ -1,0 +1,86 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01270139",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "February 25, 2021"
+                        ],
+                        "LeadSponsorClass": [
+                              "OTHER"
+                        ],
+                        "LeadSponsorName": [
+                              "Ural State Medical University"
+                        ],
+                        "LimitationsAndCaveatsDescription": [
+                              "The study was launched as a PROBE trial. But randomization was broken because of the specific study design, where procedures differ significantly, and impossibility to calculate sample size due to absolute novelty of the technology."
+                        ],
+                        "LocationCity": [
+                              "Amsterdam",
+                              "Yekaterinburg",
+                              "Yekaterinburg",
+                              "Yekaterinburg"
+                        ],
+                        "LocationContactEMail": [],
+                        "LocationContactName": [],
+                        "LocationContactPhone": [],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [],
+                        "LocationCountry": [
+                              "Netherlands",
+                              "Russian Federation",
+                              "Russian Federation",
+                              "Russian Federation"
+                        ],
+                        "LocationFacility": [
+                              "De Haar Research Task Force",
+                              "Ural Center of Modern Nanotechnologies, Institute of Natural Sciences, Ural Federal University",
+                              "Transfiguration Clinic",
+                              "Ural Institute of Cardiology"
+                        ],
+                        "LocationState": [
+                              "North Holland",
+                              "Sverdlovsk Oblast",
+                              "Sverdlovsk Oblast",
+                              "Sverdlovsk Oblast"
+                        ],
+                        "LocationStatus": [],
+                        "LocationZip": [
+                              "1069CD",
+                              "620000",
+                              "620078",
+                              "620144"
+                        ],
+                        "NCTId": [
+                              "NCT01270139"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,62 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03252535",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OtherEventStatsGroupId",
+                  "OtherEventStatsNumAffected",
+                  "OtherEventStatsNumAtRisk",
+                  "OtherEventStatsNumEvents",
+                  "OtherEventTerm",
+                  "OtherOutcomeDescription",
+                  "OtherOutcomeMeasure",
+                  "OtherOutcomeTimeFrame",
+                  "OutcomeAnalysisCILowerLimit",
+                  "OutcomeAnalysisCILowerLimitComment",
+                  "OutcomeAnalysisCINumSides",
+                  "OutcomeAnalysisCIPctValue",
+                  "OutcomeAnalysisCIUpperLimit",
+                  "OutcomeAnalysisCIUpperLimitComment",
+                  "OutcomeAnalysisDispersionType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OtherEventStatsGroupId": [],
+                        "OtherEventStatsNumAffected": [],
+                        "OtherEventStatsNumAtRisk": [],
+                        "OtherEventStatsNumEvents": [],
+                        "OtherEventTerm": [],
+                        "OtherOutcomeDescription": [
+                              "Will be carefully evaluated from the periodical assessments including clinical, laboratory, and imaging exams, so that any change is properly recorded.",
+                              "This parameter will be evaluated by statistical comparison of NF-L (biological marker) results observed at baseline period and other analysed times. The results will be correlated to UHRDS scores."
+                        ],
+                        "OtherOutcomeMeasure": [
+                              "Safety administration of Cellavita HD product",
+                              "Prognosis of Huntington Disease"
+                        ],
+                        "OtherOutcomeTimeFrame": [
+                              "monthly for fourteen months",
+                              "baseline and one year later"
+                        ],
+                        "OutcomeAnalysisCILowerLimit": [],
+                        "OutcomeAnalysisCILowerLimitComment": [],
+                        "OutcomeAnalysisCINumSides": [],
+                        "OutcomeAnalysisCIPctValue": [],
+                        "OutcomeAnalysisCIUpperLimit": [],
+                        "OutcomeAnalysisCIUpperLimitComment": [],
+                        "OutcomeAnalysisDispersionType": [],
+                        "NCTId": [
+                              "NCT03252535"
+                        ]
+                  }
+            ]
+      }
+}

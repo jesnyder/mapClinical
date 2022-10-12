@@ -1,0 +1,124 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal Human Placenta Mesenchymal Stem Cells Derived Exosomes",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Controls",
+                              "exosome cases"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3369"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anti-Inflammatory Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Exosomes are extracellular vesicles that are 30 to 150 nm in diameter. these vesicles are secreted from various cells. Mesenchymal stem cells exhibit immunomodulatory and anti- inflammatory properties by the use of paracrine effects. Exosomes as a vehicle for signaling, are responsible for a major part of cell to cell signaling. The preclinical animal studies manifested high safety and efficacy for MSC derived exosome treatment on various fistulas and inflammatory bowel disease. In this study we aimed to evaluate the safety and efficacy of Placenta-MSCs derived exosomes in treatment of patients with complex preanal fistula (non-crohn's) in phase I and II of clinical trial."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "placenta-MSCs derived exosomes"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05402748"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "exosome therapy",
+                              "placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [
+                              "M3369"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Anti-Inflammatory Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "placenta-MSCs derived exosomes Exosomes are extracellular vesicles that are 30 to 150 nm in diameter. these vesicles are secreted from various cells. Mesenchymal stem cells exhibit immunomodulatory and anti- inflammatory properties by the use of paracrine effects. Exosomes as a vehicle for signaling, are responsible for a major part of cell to cell signaling. The preclinical animal studies manifested high safety and efficacy for MSC derived exosome treatment on various fistulas and inflammatory bowel disease. In this study we aimed to evaluate the safety and efficacy of PlacentaMSCs derived exosomes in treatment of patients with complex preanal fistula (non-crohn's) in phase I and II of clinical trial"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "placenal MSC derived exosomes"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05499156"
+                        ]
+                  }
+            ]
+      }
+}

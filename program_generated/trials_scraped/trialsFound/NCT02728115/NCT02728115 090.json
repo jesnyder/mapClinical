@@ -1,0 +1,61 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02728115",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "This is a first-in-human, non-randomized, phase I study in which participants with HD will receive three intravenous injections of one of two doses of the investigational product, one every month for three months. Safety evaluation data will be composed by the register of adverse events (including type, frequency, intensity, seriousness, severity, and action taken related to the investigational product), could be include changes in vital signs, physical and medical evaluations, laboratory or serology tests and electrocardiogram (ECG), and by the incidence of benign and malign neoplasms. Preliminary evidence of efficacy will be evaluated by global clinical improvement (CIBIS) and evolution of disease improvement (motor, cognitive and behavioral degradation) through Unified Huntington's Disease Rating Scale - UHDRS and inflammatory markers: IL-4, IL-6, IL-10 (interleukin IL) e TNF-alpha (tumoral necrosis factor alpha). CNS improvement will be assessed by magnetic resonance imaging (MRI). Fluctuation in suicide tendency grade will be evaluated by Hamilton Depression Rating Scale (HDRS).The immunological response of HD product over the administration period will be evaluated by CD4+ and CD8+ proliferation and inflammatory markers release.\n\nParticipants who show evidence of loss of clinical benefit achieved over the course of treatment verified through worsening greater or equal to that expected for the natural course of the disease on motor, cognitive, behavioral and functional capacity symptoms assessed by the UHDRS scale, will receive additional doses of the product as long as there is clinical benefit at the Investigator's discretion and/or until the product is marketed. The same dose used by the subject during the treatment period will be administered throughout the period of additional doses."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nSign and date ICF;\nAbility to follow instructions as well as ability to understand and fulfill the study requirements correctly;\nMale participant aged \u2265 21 and \u2264 65;\nParticipants who submit medical report (PCR) attesting Huntington's disease with a number of CAG repeats on chromosome 4, greater than or equal to 40 and less than or equal to 50 (if the participant has not performed the examination and/or if he does not have the report available, a new exam should be done);\nScore 5 points or more in motor assessment UHDRS scale (Unified Huntington's Disease Rating Scale) at the time of enrollment;\nScore between 8 and 11 points in the functional capacity of the UHDRS scale at the time of enrollment.\n\nExclusion Criteria:\n\nParticipation within 12 months in any clinical trial;\nAny medical observation data (clinical and physical) that medical research judge as a risk for subject if enrollment at the study;\nAny laboratory exam data that medical research judge as a risk for subject if enrollment at the study;\nJuvenile Huntington disease diagnosis;\nHistory of epilepsy;\nDiagnostic of major cognitive impairment;\nActive decompensated psychiatric disease;\nCurrent or prior history of neoplasia;\nCurrent history of gastrointestinal, hepatic, renal, endocrine, pulmonary, hematologic, immune, metabolic pathology or severe and uncontrolled cardiovascular disease;\nDiagnostic of any active infection, be it viral, bacterial, fungal, or caused by another pathogen;\nParticipants who have contraindication to undergo any of the tests performed in this study, for example, have pacemakers or surgical clip;\nHistory of alcohol or illegal drugs abusers;\nHistory of 1 or more episodes of suicide in the two years before Visit V-4;\nActive smoker or have stopped smoking less than six months prior to enrollment;\nTest positive in at least one of the serological tests: HIV 1 and 2 (Anti-HIV-1,2), HTLV I and II, HBV (HBsAg, anti-HBc), HCV (anti-HCV-Ab) and VDRL (Treponema pallidum);\nHistory of drug allergy, including contrasts for imaging, or bovine products;\nIn use or expected use of immunosuppressive drugs or prohibited medicines for the first three months after the first administration of the investigational product;\nAny clinical changes that is interpreted by the medical researcher as a risk to participant's enrollment."
+                        ],
+                        "EnrollmentCount": [
+                              "6"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT02728115"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,64 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT05019287",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [
+                              "The devastating effect of severe acute respiratory syndrome coronavirus-2 (SARS COV-2) infection is caused by a robust cytokine storm that leads to lung tissue damage. Several studies have found that the severity of the disease is correlated with the release of excessive proinflammatory cytokines, such as IL-1, IL-6, IL-12, IFN-\u03b3, and TNF-\u03b1, preferentially targeting lung tissue. This finding was confirmed by the high level of plasma cytokines found in the most severe COVID-19 patients associated with extensive lung damage. As a result, it is essential to find an effective treatment option to control the devastating cytokine storm of COVID-19 and regenerate the damaged lung. Although mesenchymal stem cells are a powerful tool for clinical applications, they have limits in terms of administration, safety, and variability of therapeutic response. It is interesting to note that the MSC secretome composed of cytokines, chemokines, growth factors, proteins, and extracellular vesicles could be a valid alternative to their use. It is not only easier to preserve, transfer and produce the secretome, but also safer to administer.\n\nPrevious studies reported that the hypoxic condition of MSCs could enhance the release of their active soluble molecules known as Secretome-MSCs (S-MSCs), such as IL-10 and TGF-\u03b2 that useful in alleviating inflammation. Moreover, they could also increase the expression of growth factors such as VEGF and PDGF that accelerate lung injury improvement. These active molecules could potentially serve as a biological therapeutic agent for treating the severe SARS-CoV-2 infection. According to recent studies, we successfully isolated the S-MSCs from their culture medium using tangential flow filtration (TFF) strategy with several molecular weight cut-off category. This study investigated the clinical outcomes of severe COVID-19 patients with several comorbidities treated with S-MSCs in Indonesia."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nPatients whose clinical and laboratory test results have a positive diagnosis of Covid-19.\nPatients who are willing to participate as subjects in the study by signing the informed content.\nDiagnosed with severe pneumonia of COVID: respiratory distress, RR >30 times/min; resting oxygen saturation of 90% or less; arterial partial pressure of oxygen / oxygen concentration \u2264300mmHg; Pulmonary infiltration more than 50% in 24 to 48 hours\nSARS-CoV-2 nucleic acid test was positive.\n\nExclusion Criteria:\n\nHistory of drug reactions or allergies\nPneumonia caused by bacteria, Mycoplasma, Chlamydia, Legionella, fungi, or other viruses\nAirway obstruction due to lung cancer or unknown factors\nCarcinoid syndrome\nHistory of epilepsy and long-term use of anticonvulsant drugs during the last 3 years\nHistory of long-term use of immunosuppressive drugs\nHistory of chronic respiratory illness that requires long-term oxygen therapy\nThe patient is on blood or peritoneal dialysis\nCreatinine clearance <15 ml / min\nModerate to severe liver disease (Child-Pugh score> 12)\nHistory of deep vein thrombosis (DVT) or pulmonary embolism over the past 3 years\nBeing under ECMO or high-frequency oscillatory ventilation support\nDiagnostic of HIV, hepatitis B, and syphilis\nPregnant or lactating women\nLack of consciousness and inability to provide informed consent by the patient"
+                        ],
+                        "EnrollmentCount": [
+                              "29"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT05019287"
+                        ]
+                  }
+            ]
+      }
+}

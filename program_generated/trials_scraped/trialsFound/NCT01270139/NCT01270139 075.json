@@ -1,0 +1,126 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01270139",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Heart and Blood Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology",
+                              "Nervous System Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Coronary Artery Disease",
+                              "Atherosclerosis",
+                              "Stable Angina"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M8573",
+                              "M5698",
+                              "M18658",
+                              "M25341",
+                              "M3269",
+                              "M5701",
+                              "M28728",
+                              "M8571",
+                              "M9695",
+                              "M3621",
+                              "M3617",
+                              "M16552",
+                              "M12218",
+                              "M5034",
+                              "M11556"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Heart Failure",
+                              "Coronary Artery Disease",
+                              "Myocardial Ischemia",
+                              "Atherosclerosis",
+                              "Angina Pectoris",
+                              "Coronary Disease",
+                              "Angina, Stable",
+                              "Heart Diseases",
+                              "Ischemia",
+                              "Arteriosclerosis",
+                              "Arterial Occlusive Diseases",
+                              "Vascular Diseases",
+                              "Pain",
+                              "Chest Pain",
+                              "Neurologic Manifestations"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003324",
+                              "D000050197",
+                              "D000060050"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Coronary Artery Disease",
+                              "Atherosclerosis",
+                              "Angina, Stable"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01270139"
+                        ]
+                  }
+            ]
+      }
+}

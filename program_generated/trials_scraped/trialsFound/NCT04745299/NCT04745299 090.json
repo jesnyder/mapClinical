@@ -1,0 +1,66 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT04745299",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Care Provider",
+                              "Investigator",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [
+                              "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder characterized by selective and progressive loss of motor neurons. Disease progression leads to death within 2-4 years, but there exists no definite treatment so far.\n\nBased on phase I/II clinical trial(NCT01363401), twice intrathecal autologous bone marrow-derived mesenchymal stem cells (Lenzumestrocel) injections showed significant therapeutic benefit lasting at least six months with safety in patients with ALS.\n\nAdditionally, the switch from pro- to anti-inflammatory conditions, which was indicated from the inverse correlation between TGF-\u03b21 and MCP-1 levels after Lenzumestrocel injections in the good responder, has been considered a plausible beneficial action mechanism.\n\nThis study is designed to investigate the following. First, to reconfirm and evaluate the long-term efficacy of twice injections (single cycle) of Lenzumestrocel, group 1 will receive a single cycle injection with a 26-day interval.\n\nSecond, to evaluate the long-term safety and efficacy of Lenzumestrocel repeated injections, group 2 will receive a single cycle injection a 26-day apart followed by three times injections every three-month interval.\n\nGroup 3 will receive comparator injections."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "[Inclusion Criteria]\n\nSubjects who show both upper motor neuron signs and lower motor neuron signs at the same time in neurological tests.\nAmong subjects diagnosed with familial or sporadic ALS, subjects falling into clinically definite ALS, probable ALS and probable ALS-lab supported according to The revised World Federation of Neurology El Escorial Criteria[Rix Brooks, 2000], during 17-weeks period prior to the administration and ALSFRS-R score (progression rate) of 1.03 \u00b1 50%/month (meaning mean value in that total period).\nFor subjects who are under Riluzole treatment, those who have received stable dose of Riluzole for more than 28 days before screening visit.\nSubjects with duration of disease of no more than 2 years from the first diagnosis date.\nSubjects whose ALSFRS-R scores are in the range of 31~46 at the time of screening (P-V0).\n\n[Exclusion Criteria]\n\nSubjects who received tracheostomy or use ventilators (including positive pressure ventilators; subjects who use non-invasive ventilation for sleep apnea may be allowed after review) at the time of screening (P-V0).\nSubjects who received gastrotomy at the time of screening (P-V0).\nSubjects for whom clinical efficacy evaluation is not possible because pulmonary functional tests cannot be conducted at the time of screening (P-V0) or subjects whose forced vital capacity is found to be not greater than 40%of the expected value.\nSubjects who fall into above Class II according to the New York Heart Association's functional classification, who have showed myocardial infarction, unstable arrhythmia and/or other significant cardiovascular diseases such as unstable angina in the past 3 months, or who show electrocardiographic signs of myocardial infarction or angina at the time of screening (P-V0) or who received stent insertion or coronary artery bypass grafting.\nSubjects who have received other investigational products or edaravone within 3 month or 5 half-lives at the time of screening (P-V0) and lead in period visit L-V1 (evaluated by whichever is longer).\nSubjects who have experienced epileptic seizure.\nSubjects with severe renal disorder (serum creatinine: not less than 2.0 mg/dL).\nSubjects with severe hepatic disorder (ALT, AST, or bilirubin: over 2.0 times of the normal upper limit).\nSubjects who show hemorrhagic tendency at the time of screening (PT and aPTT > 1.5 x ULN)\nSubjects who are found to have active viral infections (HBsAg, HCV Ab, HIV Ab, CMV IgM, EBV IgM, HSV IgM and Treponema pallidum) at the time of screening.\nSubjects with hypersensitivity to antibiotics (penicillin or streptomycin).\nSubjects who have ever received any cell therapy product for the same disease.\nSubjects with any malignant tumor in the past 5 years before screening, except malignant tumors with very low risk of metastasis or death."
+                        ],
+                        "EnrollmentCount": [
+                              "115"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04745299"
+                        ]
+                  }
+            ]
+      }
+}

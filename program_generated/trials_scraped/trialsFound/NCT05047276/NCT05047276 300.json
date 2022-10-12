@@ -1,0 +1,65 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT05047276",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Progression Free Survival (PFS) rate and Estimated PFS at 3, and 6-months according to RECIST 1.1 criteria For this protocol, PFS is defined as the time from enrollment until objective tumor progression or death according to section Primary Efficacy variable.Estimated PFS rate at 3 and 6-months are defined as the percentage of patients alive at 3 and 6-months from trial enrollment.",
+                              "Overall Survival (OS) rate and Estimated Survival rate at 1, and 2-years. Overall Survival is defined as the time from enrollment until death from any cause. Estimated survival rate at 1 and 2 years are defined as the percentage of patients alive at 1st and 2nd year from trial enrollment.",
+                              "Evaluate Safety of the combination with AloCelyvir using NCI-CTCAE version 5.0. The safety objective of this trial is to characterize the safety and tolerability of AloCelyvir in subjects with mUM. The safety analysis will be based on subjects who experienced toxicities as defined by CTCAE, v5.0, the attribution to drug, time-of-onset, duration of the event, its resolution, and any concomitant medications administered will be recorded. AEs will be analysed including but not limited to all AEs, SAEs, fatal AEs, and laboratory changes. Furthermore, specific immunerelated adverse events (iris) will be collected and designated as immune related events of clinical interest (ECIs)."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Progression Free Survival (PFS)",
+                              "Overall Survival (OS)",
+                              "Evaluate Safety"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "3 months / 6 months",
+                              "1 year / 2 years",
+                              "2 years"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT05047276"
+                        ]
+                  }
+            ]
+      }
+}

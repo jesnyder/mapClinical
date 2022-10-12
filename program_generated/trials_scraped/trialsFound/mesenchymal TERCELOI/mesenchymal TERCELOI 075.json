@@ -1,0 +1,114 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal TERCELOI",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Skin and Connective Tissue Diseases",
+                              "All Conditions",
+                              "Nutritional and Metabolic Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Osteogenesis Imperfecta",
+                              "Osteogenesis Imperfecta"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M12088",
+                              "M12084",
+                              "M11195",
+                              "M4278",
+                              "M4279",
+                              "M11249",
+                              "M22839",
+                              "M14197",
+                              "M5475",
+                              "M5616",
+                              "T4306",
+                              "T3909"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Osteogenesis Imperfecta",
+                              "Osteochondrodysplasias",
+                              "Mucopolysaccharidosis IV",
+                              "Bone Diseases",
+                              "Bone Diseases, Developmental",
+                              "Musculoskeletal Diseases",
+                              "Genetic Diseases, Inborn",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases",
+                              "Connective Tissue Diseases",
+                              "Osteogenesis Imperfecta",
+                              "Mucopolysaccharidosis Type IV"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000010013"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Osteogenesis Imperfecta"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT02172885"
+                        ]
+                  }
+            ]
+      }
+}

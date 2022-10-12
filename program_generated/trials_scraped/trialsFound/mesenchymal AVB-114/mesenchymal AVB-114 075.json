@@ -1,0 +1,119 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal AVB-114",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Crohn's Disease",
+                              "Fistula",
+                              "Perianal Fistula"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M5790",
+                              "M14002",
+                              "M7684",
+                              "M13997",
+                              "M9596",
+                              "M17069",
+                              "M8027",
+                              "M8035",
+                              "M6407",
+                              "M21672",
+                              "M9598",
+                              "M17768",
+                              "M13996"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Crohn Disease",
+                              "Recurrence",
+                              "Fistula",
+                              "Rectal Fistula",
+                              "Intestinal Diseases",
+                              "Inflammatory Bowel Diseases",
+                              "Gastroenteritis",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Pathological Conditions, Anatomical",
+                              "Intestinal Fistula",
+                              "Digestive System Fistula",
+                              "Rectal Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003424",
+                              "D000012003",
+                              "D000005402"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Crohn Disease",
+                              "Rectal Fistula",
+                              "Fistula"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Single"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT04847739"
+                        ]
+                  }
+            ]
+      }
+}

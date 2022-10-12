@@ -10,7 +10,7 @@ const config_Other IDs = {
             {
                 "label": "all",
                 "data": [
-                    65989
+                    68681
                 ],
                 "backgroundColor": [
                     "rgb(212,178,212)"

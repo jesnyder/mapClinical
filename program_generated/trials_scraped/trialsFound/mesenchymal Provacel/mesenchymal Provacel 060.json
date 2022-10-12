@@ -1,0 +1,84 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Provacel",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The purpose of the study is to determine whether adult stem cells [Provacel\u2122(PUMP1)] are safe and possibly effective in the treatment of acute myocardial infarction (heart attack)."
+                        ],
+                        "BriefTitle": [
+                              "Safety Study of Adult Mesenchymal Stem Cells (MSC) to Treat Acute Myocardial Infarction"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "April 24, 2008"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Myocardial Infarction"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000007511",
+                              "D000010335",
+                              "D000009336",
+                              "D000017202",
+                              "D000006331",
+                              "D000002318",
+                              "D000014652"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Ischemia",
+                              "Pathologic Processes",
+                              "Necrosis",
+                              "Myocardial Ischemia",
+                              "Heart Diseases",
+                              "Cardiovascular Diseases",
+                              "Vascular Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC14",
+                              "All",
+                              "BC23",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT00114452"
+                        ]
+                  }
+            ]
+      }
+}

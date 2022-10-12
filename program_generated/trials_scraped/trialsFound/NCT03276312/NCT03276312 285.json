@@ -1,0 +1,72 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03276312",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "PrimaryOutcomeTimeFrame",
+                  "ReferenceCitation",
+                  "ReferencePMID",
+                  "ReferenceType",
+                  "RemovedCountry",
+                  "ResponsiblePartyInvestigatorAffiliation",
+                  "ResponsiblePartyInvestigatorFullName",
+                  "ResponsiblePartyInvestigatorTitle",
+                  "ResponsiblePartyOldNameTitle",
+                  "ResponsiblePartyOldOrganization",
+                  "ResponsiblePartyType",
+                  "ResultsFirstPostDate",
+                  "ResultsFirstPostDateType",
+                  "ResultsFirstPostedQCCommentsDate",
+                  "ResultsFirstPostedQCCommentsDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "PrimaryOutcomeTimeFrame": [
+                              "6 months"
+                        ],
+                        "ReferenceCitation": [
+                              "Gennai S, Leone N, Covic T, Migliari M, Lonardi R, Silingardi R. Health-related quality of life outcomes and hospitalization length of stay after micro-fragmented autologous adipose tissue injection in minor amputations for diabetic foot ulceration (MiFrAADiF Trial): results from a randomized controlled single-center clinical trial. Int Angiol. 2021 Dec;40(6):512-519. doi: 10.23736/S0392-9590.21.04570-3. Epub 2021 Sep 13.",
+                              "Lonardi R, Leone N, Gennai S, Trevisi Borsari G, Covic T, Silingardi R. Autologous micro-fragmented adipose tissue for the treatment of diabetic foot minor amputations: a randomized controlled single-center clinical trial (MiFrAADiF). Stem Cell Res Ther. 2019 Jul 29;10(1):223. doi: 10.1186/s13287-019-1328-4."
+                        ],
+                        "ReferencePMID": [
+                              "34515448",
+                              "31358046"
+                        ],
+                        "ReferenceType": [
+                              "derived",
+                              "derived"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "University of Modena and Reggio Emilia"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Giulia Trevisi Borsari"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Dr"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT03276312"
+                        ]
+                  }
+            ]
+      }
+}

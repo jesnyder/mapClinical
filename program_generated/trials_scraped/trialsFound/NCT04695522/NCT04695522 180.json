@@ -1,0 +1,83 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04695522",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "January 2, 2021"
+                        ],
+                        "LeadSponsorClass": [
+                              "OTHER"
+                        ],
+                        "LeadSponsorName": [
+                              "Osaka University"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Suita"
+                        ],
+                        "LocationContactEMail": [
+                              "daimolion@gmail.com",
+                              "sasai-masao@tissue.med.osaka-u.ac.jp"
+                        ],
+                        "LocationContactName": [
+                              "Daisuke Mori, Ph.D",
+                              "Masao Sasai, Ph.D"
+                        ],
+                        "LocationContactPhone": [
+                              "+81-6-6879-3154",
+                              "+81-6-6105-5240"
+                        ],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "LocationCountry": [
+                              "Japan"
+                        ],
+                        "LocationFacility": [
+                              "Osaka University Hospital"
+                        ],
+                        "LocationState": [
+                              "Osaka"
+                        ],
+                        "LocationStatus": [
+                              "Recruiting"
+                        ],
+                        "LocationZip": [
+                              "5650871"
+                        ],
+                        "NCTId": [
+                              "NCT04695522"
+                        ]
+                  }
+            ]
+      }
+}

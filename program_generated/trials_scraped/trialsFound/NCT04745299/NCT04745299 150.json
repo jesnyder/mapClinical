@@ -1,0 +1,117 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04745299",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Multiple administation group",
+                              "Single cycle administration group",
+                              "Control group",
+                              "Multiple administation group",
+                              "Single cycle administration group",
+                              "Control group",
+                              "Single cycle administration group"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "AntiConv",
+                              "NeuroAg",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anticonvulsants",
+                              "Neuroprotective Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Immunologic"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M20833",
+                              "M3398",
+                              "M19924",
+                              "M19657",
+                              "M19926",
+                              "M21022"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Riluzole",
+                              "Anticonvulsants",
+                              "Excitatory Amino Acid Antagonists",
+                              "Neurotransmitter Agents",
+                              "Neuroprotective Agents",
+                              "Protective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "Single cycle administration group : injections twice in a 26-day interval Multiple administration group : injections twice in a 26-day interval followed by repeated three times injections every three months",
+                              "concomitant administration of Riluzole to all groups, except subjects to whom Riluzole administration is deemed impossible owing to adverse events as determined by medical experts",
+                              "Single cycle administration group: Placebo comparator is injected three times every three months after injection of Lenzumestrocel twice in a 26-day interval.\n\nControl group: Placebo comparator is injected twice in a 26-day interval followed by repeated three times injcections every three months"
+                        ],
+                        "InterventionMeshId": [
+                              "D000019782"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Riluzole"
+                        ],
+                        "InterventionName": [
+                              "Lenzumestrocel",
+                              "Riluzole",
+                              "Placebo Comparator"
+                        ],
+                        "InterventionOtherName": [
+                              "Neuronata-R inj",
+                              "Autologous Bone Marrow derived Mesenchymal Stem Cell",
+                              "Rilutek",
+                              "Normal Saline Inj."
+                        ],
+                        "InterventionType": [
+                              "Biological",
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT04745299"
+                        ]
+                  }
+            ]
+      }
+}

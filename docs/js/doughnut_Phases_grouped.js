@@ -4,27 +4,27 @@ const config_Phases_grouped = {
     "type": "doughnut",
     "data": {
         "labels": [
-            "Phase 1 Phase 2",
+            "Phase 1|Phase 2",
             "Phase 1",
             "Phase 2",
             "Not Applicable",
             "Phase 3",
             "Early Phase 1",
-            "Phase 2 Phase 3",
+            "Phase 2|Phase 3",
             "Phase 4"
         ],
         "datasets": [
             {
                 "label": "allo_count",
                 "data": [
-                    242,
-                    201,
-                    139,
-                    36,
+                    249,
+                    208,
+                    141,
+                    37,
                     26,
                     19,
                     17,
-                    1
+                    3
                 ],
                 "backgroundColor": [
                     "rgb(153,102,255)",
@@ -41,10 +41,10 @@ const config_Phases_grouped = {
                 "label": "auto_count",
                 "data": [
                     123,
-                    97,
-                    74,
-                    50,
-                    21,
+                    102,
+                    76,
+                    57,
+                    24,
                     9,
                     8,
                     2
@@ -63,10 +63,10 @@ const config_Phases_grouped = {
             {
                 "label": "both_count",
                 "data": [
-                    29,
+                    30,
                     9,
                     14,
-                    10,
+                    11,
                     4,
                     1,
                     1,
@@ -86,14 +86,14 @@ const config_Phases_grouped = {
             {
                 "label": "undeclared_count",
                 "data": [
-                    48,
-                    63,
-                    30,
-                    43,
-                    6,
-                    6,
-                    6,
-                    2
+                    45,
+                    65,
+                    31,
+                    41,
+                    5,
+                    8,
+                    7,
+                    3
                 ],
                 "backgroundColor": [
                     "rgb(153,102,255)",

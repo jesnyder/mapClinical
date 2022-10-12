@@ -1,0 +1,105 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT05047276",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This is a non-randomized, single arm, single center, phase I/II study of AloCelyvir in subjects with mUM to the liver, the main site for M1 in this disease. This study is divided into 3 phases: Screening, Treatment, and Follow-up. After informed consent is obtained, subjects will enter in the Screening phase to assess eligibility criteria and perform a mandatory tumor biopsy. Upon meeting criteria, eligible subjects will be entered into the Treatment phase. Patients will receive AloCelyvir in weekly intravenous infusions at doses of 0.5x106 cells/kg for 8 weeks. After 4 first treatment doses a new tumor biopsy will be mandatory. Treatment will be maintained for 2 months (8 weeks) but can be stopped earlier if disease progression, unacceptable toxicity, or patient withdrawal. Subjects that are no longer receiving AloCelyvir will enter the Follow-up phase. Subjects that are no longer receiving AloCelyvir because of unacceptable toxicity or due to investigator judgment will undergo radiological evaluations of the tumor every 8 weeks during the first 12 months (48 weeks), and then every 12 weeks until the progression of disease (progression follow-up). Subjects that are no longer receiving Alocelyvir because of progression will enter the long term OS follow-up until their death or until the end of the study, whatever happens before. Subjects who have switched to an alternative treatment without disease progression will receive a formal follow-up with images tests until progression, and after progression long term follow up to record the date of death."
+                        ],
+                        "BriefTitle": [
+                              "Phase I/II Study of AloCelyvir in Patients With Metastatic Uveal Melanoma"
+                        ],
+                        "CentralContactEMail": [
+                              "jmpiulats@iconcologia.net"
+                        ],
+                        "CentralContactName": [
+                              "Josep M Piulats, MD, Phd"
+                        ],
+                        "CentralContactPhone": [
+                              "+34 93 2607744"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "OTHER_GOV"
+                        ],
+                        "CollaboratorName": [
+                              "Instituto de Salud Carlos III"
+                        ],
+                        "CompletionDate": [
+                              "December 31, 2024"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Uveal Melanoma, Metastatic"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000018358",
+                              "D000017599",
+                              "D000009373",
+                              "D000009370",
+                              "D000009369",
+                              "D000009380",
+                              "D000018326",
+                              "D000005134",
+                              "D000009371",
+                              "D000005128",
+                              "D000014603"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Neuroendocrine Tumors",
+                              "Neuroectodermal Tumors",
+                              "Neoplasms, Germ Cell and Embryonal",
+                              "Neoplasms by Histologic Type",
+                              "Neoplasms",
+                              "Neoplasms, Nerve Tissue",
+                              "Nevi and Melanomas",
+                              "Eye Neoplasms",
+                              "Neoplasms by Site",
+                              "Eye Diseases",
+                              "Uveal Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC04",
+                              "All",
+                              "BC01",
+                              "BC11",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT05047276"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,108 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT00790413",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Neoplasms",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Neuroblastoma",
+                              "Neuroblastoma"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M11543",
+                              "M19539",
+                              "M18997",
+                              "M19540",
+                              "M19599",
+                              "M11470",
+                              "M11467",
+                              "M11472",
+                              "M11477",
+                              "T4085",
+                              "T4092"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Neuroblastoma",
+                              "Neuroectodermal Tumors, Primitive, Peripheral",
+                              "Neuroectodermal Tumors",
+                              "Neuroectodermal Tumors, Primitive",
+                              "Neoplasms, Neuroepithelial",
+                              "Neoplasms, Germ Cell and Embryonal",
+                              "Neoplasms by Histologic Type",
+                              "Neoplasms, Glandular and Epithelial",
+                              "Neoplasms, Nerve Tissue",
+                              "Neuroblastoma",
+                              "Neuroepithelioma"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000009447"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Neuroblastoma"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT00790413"
+                        ]
+                  }
+            ]
+      }
+}

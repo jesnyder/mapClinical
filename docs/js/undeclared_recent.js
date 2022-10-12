@@ -1,5 +1,5 @@
 var  groupundeclared_recent = {
-    "feature_count": 78,
+    "feature_count": 60,
     "type": [
         "FeatureCollection"
     ],
@@ -27,32 +27,6 @@ var  groupundeclared_recent = {
                 "coordinates": [
                     121.4452993,
                     31.4015684
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety of Human Embryonic Stem Cell (hESC)-Derived Mesenchymal Stem Cells in Interstitial Cystitis",
-                "aff": "Department of Urology, Asan Medical Center, Seoul, Korea, Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT04610359",
-                "status": "Recruiting",
-                "enrolled": 3,
-                "radius": 11,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10989,
-                "paneLabel": "pane10989",
-                "start": "2020-09-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.10332700284027,
-                    37.50771705
                 ]
             }
         },
@@ -111,58 +85,6 @@ var  groupundeclared_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Multiple Dosing of Mesenchymal Stromal Cells in Patients With ARDS (COVID-19)",
-                "aff": "University of Minnesota, Minneapolis, Minnesota, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT04466098",
-                "status": "Active, not recruiting",
-                "enrolled": 9,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2020-07-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.17945580218505,
-                    44.9863392
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Multiple Dosing of Mesenchymal Stromal Cells in Patients With ARDS (COVID-19)",
-                "aff": " University of Pittsburgh, Pittsburgh, Pennsylvania, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04466098",
-                "status": "Active, not recruiting",
-                "enrolled": 9,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2020-07-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.96246095144505,
-                    40.44415295
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "The Clinical Trial of ADR-001 for IgA Nephropathy",
                 "aff": "Kasugai Municipal Hospital, Kasugai, Aichi, Japan ",
                 "url": "https://ClinicalTrials.gov/show/NCT04342325",
@@ -215,63 +137,11 @@ var  groupundeclared_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "A Study to Collect Bone Marrow for Process Development and Production of BM-MSC to Treat Severe COVID19 Pneumonitis",
-                "aff": "Cambridge University Hospitals NHS Foundation Trust, Cambridge, Cambridgeshire, United Kingdom",
-                "url": "https://ClinicalTrials.gov/show/NCT04397471",
-                "status": "Unknown status",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2020-05-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.1379119791331526,
-                    52.17369755
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Evaluation of Maximum Tolerated Dose, Safety and Efficiency of MSC11FCD Therapy to Recurrent Glioblastoma Patients",
-                "aff": "Bundang CHA Medical Center, Seongnam, Kyunggido, Korea, Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT04657315",
-                "status": "Enrolling by invitation",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2020-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    49.132971,
-                    55.8215537
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Bone Marrow Aspirate Concentrate (BMAC)Treatment for Knee Osteoarthritis",
-                "aff": "University of California San Diego Koman Outpatient Pavilion, La Jolla, California, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04716803",
-                "status": "Recruiting",
-                "enrolled": 10,
+                "name": "Multiple Dosing of Mesenchymal Stromal Cells in Patients With ARDS (COVID-19)",
+                "aff": "University of Minnesota, Minneapolis, Minnesota, United States ",
+                "url": "https://ClinicalTrials.gov/show/NCT04466098",
+                "status": "Active, not recruiting",
+                "enrolled": 9,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
@@ -285,8 +155,34 @@ var  groupundeclared_recent = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -117.2740777,
-                    32.8401623
+                    -93.17945580218505,
+                    44.9863392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Multiple Dosing of Mesenchymal Stromal Cells in Patients With ARDS (COVID-19)",
+                "aff": " University of Pittsburgh, Pittsburgh, Pennsylvania, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04466098",
+                "status": "Active, not recruiting",
+                "enrolled": 9,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2020-07-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.96246095144505,
+                    40.44415295
                 ]
             }
         },
@@ -319,6 +215,32 @@ var  groupundeclared_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Evaluation of Maximum Tolerated Dose, Safety and Efficiency of MSC11FCD Therapy to Recurrent Glioblastoma Patients",
+                "aff": "Bundang CHA Medical Center, Seongnam, Kyunggido, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04657315",
+                "status": "Enrolling by invitation",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2020-06-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.132971,
+                    55.8215537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Safety and Tolerability Study of MSC Exosome Ointment",
                 "aff": "National University Hospital, Singapore, Singapore",
                 "url": "https://ClinicalTrials.gov/show/NCT05523011",
@@ -345,32 +267,6 @@ var  groupundeclared_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "CD49 in Optimization The Cologenicity of Mesenchymal Stem Cell Culture Passage",
-                "aff": "Sohag University Hospital, Sohag, Egypt",
-                "url": "https://ClinicalTrials.gov/show/NCT05093725",
-                "status": "Not yet recruiting",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10987,
-                "paneLabel": "pane10987",
-                "start": "2021-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    32.090993613434186,
-                    26.76246285
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "The Pilot Experimental Study of the Neuroprotective Effects of Exosomes in Extremely Low Birth Weight Infants",
                 "aff": "Federal State Budget Institution Research Center for Obstetrics, Gynecology and Perinatology Ministry of Healthcare, Moscow, Russian Federation",
                 "url": "https://ClinicalTrials.gov/show/NCT05490173",
@@ -391,6 +287,32 @@ var  groupundeclared_recent = {
                 "coordinates": [
                     37.6174943,
                     55.7504461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Study to Collect Bone Marrow for Process Development and Production of BM-MSC to Treat Severe COVID19 Pneumonitis",
+                "aff": "Cambridge University Hospitals NHS Foundation Trust, Cambridge, Cambridgeshire, United Kingdom",
+                "url": "https://ClinicalTrials.gov/show/NCT04397471",
+                "status": "Unknown status",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10987,
+                "paneLabel": "pane10987",
+                "start": "2020-05-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1379119791331526,
+                    52.17369755
                 ]
             }
         },
@@ -475,37 +397,11 @@ var  groupundeclared_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Mesenchymal Stromal Cell Therapy for Severe Covid-19 Infection",
-                "aff": "CHU de Li\u00e8ge, Li\u00e8ge, Belgium",
-                "url": "https://ClinicalTrials.gov/show/NCT04445454",
-                "status": "Recruiting",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2020-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.20776,
-                    53.6143224
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Treatment of Patients With Bone Tissue Defects Using Mesenchymal Stem Cells Enriched by Extracellular Vesicles",
-                "aff": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus, Minsk, Belarus",
-                "url": "https://ClinicalTrials.gov/show/NCT05520125",
+                "name": "Phase I/II Study of AloCelyvir in Patients With Metastatic Uveal Melanoma",
+                "aff": "ICO Hospitalet, Hospitalet de Llobregat, Barcelona, Spain",
+                "url": "https://ClinicalTrials.gov/show/NCT05047276",
                 "status": "Not yet recruiting",
-                "enrolled": 20,
+                "enrolled": 16,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
@@ -513,23 +409,23 @@ var  groupundeclared_recent = {
                 "fillOpacity": 0.4,
                 "zindex": 10986,
                 "paneLabel": "pane10986",
-                "start": "2022-10-01",
+                "start": "2021-09-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.5618225,
-                    53.9024716
+                    2.110545,
+                    41.345614
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Mesenchymal Stem Cell Infusion for COVID-19 Infection",
-                "aff": "NIBMT, Rawalpindi, Punjab, Pakistan",
-                "url": "https://ClinicalTrials.gov/show/NCT04444271",
+                "name": "Bone Marrow-Derived Mesenchymal Stem Cell Treatment for Severe Patients With Coronavirus Disease 2019 (COVID-19)",
+                "aff": "Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04346368",
                 "status": "Unknown status",
                 "enrolled": 20,
                 "radius": 14,
@@ -539,14 +435,14 @@ var  groupundeclared_recent = {
                 "fillOpacity": 0.4,
                 "zindex": 10986,
                 "paneLabel": "pane10986",
-                "start": "2020-05-01",
+                "start": "2020-04-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    73.048136,
-                    33.6038766
+                    113.2592945,
+                    23.1301964
                 ]
             }
         },
@@ -605,9 +501,9 @@ var  groupundeclared_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Bone Marrow-Derived Mesenchymal Stem Cell Treatment for Severe Patients With Coronavirus Disease 2019 (COVID-19)",
-                "aff": "Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China",
-                "url": "https://ClinicalTrials.gov/show/NCT04346368",
+                "name": "Mesenchymal Stem Cell Infusion for COVID-19 Infection",
+                "aff": "NIBMT, Rawalpindi, Punjab, Pakistan",
+                "url": "https://ClinicalTrials.gov/show/NCT04444271",
                 "status": "Unknown status",
                 "enrolled": 20,
                 "radius": 14,
@@ -617,14 +513,14 @@ var  groupundeclared_recent = {
                 "fillOpacity": 0.4,
                 "zindex": 10986,
                 "paneLabel": "pane10986",
-                "start": "2020-04-01",
+                "start": "2020-05-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    113.2592945,
-                    23.1301964
+                    73.048136,
+                    33.6038766
                 ]
             }
         },
@@ -657,6 +553,58 @@ var  groupundeclared_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Treatment of Patients With Bone Tissue Defects Using Mesenchymal Stem Cells Enriched by Extracellular Vesicles",
+                "aff": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus, Minsk, Belarus",
+                "url": "https://ClinicalTrials.gov/show/NCT05520125",
+                "status": "Not yet recruiting",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2022-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5618225,
+                    53.9024716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mesenchymal Stromal Cell Therapy for Severe Covid-19 Infection",
+                "aff": "CHU de Li\u00e8ge, Li\u00e8ge, Belgium",
+                "url": "https://ClinicalTrials.gov/show/NCT04445454",
+                "status": "Recruiting",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10986,
+                "paneLabel": "pane10986",
+                "start": "2020-06-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.20776,
+                    53.6143224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "A Study of ADR-001 in Patients With Severe Pneumonia Caused by SARS-CoV-2 Infection (COVID-19)",
                 "aff": "Osaka University Hospital, Suita, Osaka, Japan",
                 "url": "https://ClinicalTrials.gov/show/NCT04888949",
@@ -677,32 +625,6 @@ var  groupundeclared_recent = {
                 "coordinates": [
                     135.51735,
                     34.764884
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Autogenous Mesenchymal Stem Cell Culture-Derived Signalling Molecules as Enhancers of Bone Formation in Bone Grafting",
-                "aff": "Pontificia Universidade Cat\u00f3lica do Rio Grande do Sul, Porto Alegre, RS, Brazil",
-                "url": "https://ClinicalTrials.gov/show/NCT04998058",
-                "status": "Not yet recruiting",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10986,
-                "paneLabel": "pane10986",
-                "start": "2022-11-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -51.2303767,
-                    -30.0324999
                 ]
             }
         },
@@ -787,58 +709,6 @@ var  groupundeclared_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Effects of Muscle Energy Technique in Knee Osteoarthritis Patients",
-                "aff": "Institute of Regenerative medicine, Islamabad, Pakistan",
-                "url": "https://ClinicalTrials.gov/show/NCT05349565",
-                "status": "Recruiting",
-                "enrolled": 26,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2022-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    73.0651511,
-                    33.6938118
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Effect of UMSCs Derived Exosomes on Dry Eye in Patients With cGVHD",
-                "aff": "Zhongshan Ophthalmic Center, Guangzhou, Guangdong, China",
-                "url": "https://ClinicalTrials.gov/show/NCT04213248",
-                "status": "Recruiting",
-                "enrolled": 27,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2020-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    113.2592945,
-                    23.1301964
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "iExosomes in Treating Participants With Metastatic Pancreas Cancer With KrasG12D Mutation",
                 "aff": "M D Anderson Cancer Center, Houston, Texas, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT03608631",
@@ -865,165 +735,9 @@ var  groupundeclared_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Study of Descartes-30 in Acute Respiratory Distress Syndrome",
-                "aff": "University of Alabama at Birmingham, Birmingham, Alabama, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT04524962",
-                "status": "Recruiting",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2021-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.80604756076488,
-                    33.5016153
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study of Descartes-30 in Acute Respiratory Distress Syndrome",
-                "aff": " University of California-Irvine, Irvine, California, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT04524962",
-                "status": "Recruiting",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2021-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -117.84016493553044,
-                    33.6431901
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study of Descartes-30 in Acute Respiratory Distress Syndrome",
-                "aff": " University of Iowa Hospitals and Clinics, Iowa City, Iowa, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT04524962",
-                "status": "Recruiting",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2021-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -91.5299106,
-                    41.6612561
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study of Descartes-30 in Acute Respiratory Distress Syndrome",
-                "aff": " University of Maryland Medical Center Medical Center, Baltimore, Maryland, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT04524962",
-                "status": "Recruiting",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2021-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.62439437177966,
-                    39.28827365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study of Descartes-30 in Acute Respiratory Distress Syndrome",
-                "aff": " Brigham and Women's Hospital, Boston, Massachusetts, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT04524962",
-                "status": "Recruiting",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2021-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.1060436296658,
-                    42.33568
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study of Descartes-30 in Acute Respiratory Distress Syndrome",
-                "aff": " University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04524962",
-                "status": "Recruiting",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2021-02-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.49863299224828,
-                    35.48428685
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Efficacy Study of Co-transfering of Mesenchymal Stem Cell and Regulatory T Cells in Treating End-stage Liver Disease",
-                "aff": "Nanjing Medical University, Nanjing, Jiangsu, China",
-                "url": "https://ClinicalTrials.gov/show/NCT03460795",
+                "name": "Evaluation of Personalized Nutritional Intervention on Wound Healing of Cutaneous Ulcers in Diabetics",
+                "aff": "Hospital Universitario Reina Sof\u00eda de C\u00f3rdoba, C\u00f3rdoba, Andaluc\u00eda, Spain",
+                "url": "https://ClinicalTrials.gov/show/NCT05243368",
                 "status": "Not yet recruiting",
                 "enrolled": 30,
                 "radius": 15,
@@ -1033,66 +747,14 @@ var  groupundeclared_recent = {
                 "fillOpacity": 0.4,
                 "zindex": 10985,
                 "paneLabel": "pane10985",
-                "start": "2020-06-01",
+                "start": "2022-08-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    118.7915079,
-                    32.0615652
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Endoscopic Ultrasound Radiofrequency Ablation for GISTs",
-                "aff": "Instituto Ecuatoriano de Enfermedades Digestivas (IECED), Guayaquil, Guayas, Ecuador",
-                "url": "https://ClinicalTrials.gov/show/NCT05453292",
-                "status": "Recruiting",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2022-07-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.8868741,
-                    -2.1900563
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Evaluation of Safety and Efficiency of Method of Exosome Inhalation in SARS-CoV-2 Associated Pneumonia.",
-                "aff": "Medical Centre Dinasty, Samara, Russian Federation",
-                "url": "https://ClinicalTrials.gov/show/NCT04491240",
-                "status": "Completed",
-                "enrolled": 30,
-                "radius": 15,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10985,
-                "paneLabel": "pane10985",
-                "start": "2020-07-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    50.113987,
-                    53.198627
+                    -4.8379791,
+                    39.3260685
                 ]
             }
         },
@@ -1151,9 +813,9 @@ var  groupundeclared_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Evaluation of Personalized Nutritional Intervention on Wound Healing of Cutaneous Ulcers in Diabetics",
-                "aff": "Hospital Universitario Reina Sof\u00eda de C\u00f3rdoba, C\u00f3rdoba, Andaluc\u00eda, Spain",
-                "url": "https://ClinicalTrials.gov/show/NCT05243368",
+                "name": "Safety and Efficacy Study of Co-transfering of Mesenchymal Stem Cell and Regulatory T Cells in Treating End-stage Liver Disease",
+                "aff": "Nanjing Medical University, Nanjing, Jiangsu, China",
+                "url": "https://ClinicalTrials.gov/show/NCT03460795",
                 "status": "Not yet recruiting",
                 "enrolled": 30,
                 "radius": 15,
@@ -1163,14 +825,40 @@ var  groupundeclared_recent = {
                 "fillOpacity": 0.4,
                 "zindex": 10985,
                 "paneLabel": "pane10985",
-                "start": "2022-08-01",
+                "start": "2020-06-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -4.8379791,
-                    39.3260685
+                    118.7915079,
+                    32.0615652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Extension Study for Safety and Efficacy Evaluation of Cellavita-HD Administration in Huntington's Patients.",
+                "aff": "Azidus Brasil Pesquisa Cient\u00edfica e Desenvolvimento Ltda., Valinhos, S\u00e3o Paulo, Brazil",
+                "url": "https://ClinicalTrials.gov/show/NCT04219241",
+                "status": "Active, not recruiting",
+                "enrolled": 35,
+                "radius": 15,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10985,
+                "paneLabel": "pane10985",
+                "start": "2020-02-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.99583,
+                    -22.97056
                 ]
             }
         },
@@ -1333,6 +1021,32 @@ var  groupundeclared_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Study of the Safety of Therapeutic Tx With Immunomodulatory MSC in Adults With COVID-19 Infection Requiring Mechanical Ventilation",
+                "aff": "St. Francis Medical Center, Lynwood, California, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04397796",
+                "status": "Active, not recruiting",
+                "enrolled": 45,
+                "radius": 16,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 10984,
+                "paneLabel": "pane10984",
+                "start": "2020-05-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.20337215547708,
+                    33.92988945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Treatment of Severe COVID-19 Patients Using Secretome of Hypoxia-Mesenchymal Stem Cells in Indonesia",
                 "aff": "RSUD Bantul, Bantul, Central Java, Indonesia ",
                 "url": "https://ClinicalTrials.gov/show/NCT04753476",
@@ -1489,6 +1203,32 @@ var  groupundeclared_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "MSCs Therapy for Cerebral Palsy",
+                "aff": "Aljazeera( Al Gazeera) hospital, Giza, Egypt",
+                "url": "https://ClinicalTrials.gov/show/NCT04653077",
+                "status": "Not yet recruiting",
+                "enrolled": 50,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2020-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2118063,
+                    29.9870753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "The Use of Exosomes for the Treatment of Acute Respiratory Distress Syndrome or Novel Coronavirus Pneumonia Caused by COVID-19",
                 "aff": "Mission Community Hospital, Panorama City, California, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT04798716",
@@ -1515,32 +1255,6 @@ var  groupundeclared_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Mesenchymal Stem Cell Therapy for SARS-CoV-2-related Acute Respiratory Distress Syndrome",
-                "aff": "Royan Institute, Tehran, Iran, Islamic Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT04366063",
-                "status": "Unknown status",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2020-04-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    51.41666085836621,
-                    35.7447916
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Mesenchymal Stromal Cells for the Treatment of Patients With COVID-19.",
                 "aff": "Paulo Roberto Slud Brofman, Curitiba, Paran\u00e1, Brazil",
                 "url": "https://ClinicalTrials.gov/show/NCT05433298",
@@ -1561,32 +1275,6 @@ var  groupundeclared_recent = {
                 "coordinates": [
                     -40.3838557,
                     -20.2850505
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Impact of Obesity, Chronic Kidney Disease and Type 2 Diabetes on Human Urinary Stem Cells",
-                "aff": "Centre Hospitalier Lyon SUD, Pierre-B\u00e9nite, France",
-                "url": "https://ClinicalTrials.gov/show/NCT04998461",
-                "status": "Not yet recruiting",
-                "enrolled": 60,
-                "radius": 17,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10983,
-                "paneLabel": "pane10983",
-                "start": "2021-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8883335,
-                    46.603354
                 ]
             }
         },
@@ -1671,6 +1359,32 @@ var  groupundeclared_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Mesenchymal Stem Cell Therapy for SARS-CoV-2-related Acute Respiratory Distress Syndrome",
+                "aff": "Royan Institute, Tehran, Iran, Islamic Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04366063",
+                "status": "Unknown status",
+                "enrolled": 60,
+                "radius": 17,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(232, 224, 222)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 10983,
+                "paneLabel": "pane10983",
+                "start": "2020-04-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.41666085836621,
+                    35.7447916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Mesenchymal Stromal Cells for the Treatment of SARS-CoV-2 Induced Acute Respiratory Failure (COVID-19 Disease)",
                 "aff": "Houston Methodist Hospital, Houston, Texas, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT04345601",
@@ -1697,156 +1411,26 @@ var  groupundeclared_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Safety and Efficacy of Injection of Human Placenta Mesenchymal Stem Cells Derived Exosomes for Treatment of Complex Anal Fistula",
-                "aff": "Division of Colorectal Surgery, Department of Surgery, Tehran University of Medical Sciences, Tehran, Iran, Tehran, Iran, Islamic Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT05402748",
+                "name": "The Long-term Effect of Perinatal Tissue Mesenchyme Stem Cells in the Treatment for Caesarean Section Scars",
+                "aff": "Maternal and Child Health Hospital of Foshan, Foshan, Guangdong, China",
+                "url": "https://ClinicalTrials.gov/show/NCT04034615",
                 "status": "Recruiting",
-                "enrolled": 80,
-                "radius": 18,
+                "enrolled": 90,
+                "radius": 19,
                 "color": "rgb(100, 100, 100)",
                 "fillColor": "rgb(232, 224, 222)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
-                "zindex": 10982,
-                "paneLabel": "pane10982",
-                "start": "2021-11-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    51.41666085836621,
-                    35.7447916
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Safety and Efficiency of Method of Exosome Inhalation in COVID-19 Associated Pneumonia",
-                "aff": "Medical Centre Dinasty, Samara, Russian Federation",
-                "url": "https://ClinicalTrials.gov/show/NCT04602442",
-                "status": "Unknown status",
-                "enrolled": 90,
-                "radius": 19,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
                 "zindex": 10981,
                 "paneLabel": "pane10981",
-                "start": "2020-09-01",
+                "start": "2021-05-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    50.113987,
-                    53.198627
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "NestaCell\u00ae Mesenchymal Stem Cell to Treat Patients With Severe COVID-19 Pneumonia",
-                "aff": "Hospital Vera Cruz, Campinas, S\u00e3o Paulo, Brazil ",
-                "url": "https://ClinicalTrials.gov/show/NCT04315987",
-                "status": "Unknown status",
-                "enrolled": 90,
-                "radius": 19,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10981,
-                "paneLabel": "pane10981",
-                "start": "2020-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -47.06083,
-                    -22.90556
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "NestaCell\u00ae Mesenchymal Stem Cell to Treat Patients With Severe COVID-19 Pneumonia",
-                "aff": " Hospital de Barueri, S\u00e3o Paulo, Brazil ",
-                "url": "https://ClinicalTrials.gov/show/NCT04315987",
-                "status": "Unknown status",
-                "enrolled": 90,
-                "radius": 19,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10981,
-                "paneLabel": "pane10981",
-                "start": "2020-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -53.2,
-                    -10.3333333
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "NestaCell\u00ae Mesenchymal Stem Cell to Treat Patients With Severe COVID-19 Pneumonia",
-                "aff": " IncCOR, S\u00e3o Paulo, Brazil ",
-                "url": "https://ClinicalTrials.gov/show/NCT04315987",
-                "status": "Unknown status",
-                "enrolled": 90,
-                "radius": 19,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10981,
-                "paneLabel": "pane10981",
-                "start": "2020-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -53.2,
-                    -10.3333333
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "NestaCell\u00ae Mesenchymal Stem Cell to Treat Patients With Severe COVID-19 Pneumonia",
-                "aff": " UNIFESP, S\u00e3o Paulo, Brazil",
-                "url": "https://ClinicalTrials.gov/show/NCT04315987",
-                "status": "Unknown status",
-                "enrolled": 90,
-                "radius": 19,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10981,
-                "paneLabel": "pane10981",
-                "start": "2020-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -53.2,
-                    -10.3333333
+                    113.1159558,
+                    23.0239788
                 ]
             }
         },
@@ -1873,32 +1457,6 @@ var  groupundeclared_recent = {
                 "coordinates": [
                     103.6256260231276,
                     1.6070111
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Bone Marrow Aspirate Concentrate Versus Triamcinolone Injection For Hip Osteoarthritis",
-                "aff": "Cleveland Clinic Florida, Weston, Florida, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04990128",
-                "status": "Not yet recruiting",
-                "enrolled": 100,
-                "radius": 20,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 10980,
-                "paneLabel": "pane10980",
-                "start": "2022-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.3682587,
-                    26.0819153
                 ]
             }
         },
@@ -1977,32 +1535,6 @@ var  groupundeclared_recent = {
                 "coordinates": [
                     3.8767337,
                     43.6112422
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Prediction AlgoriThm for regeneraTive Medicine Approach in knEe OA: New Decision-making Process Based on Patient pRofiliNg",
-                "aff": "Humanitas Research Hospital, Rozzano, Milan, Italy",
-                "url": "https://ClinicalTrials.gov/show/NCT05447767",
-                "status": "Recruiting",
-                "enrolled": 240,
-                "radius": 25,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(232, 224, 222)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 10975,
-                "paneLabel": "pane10975",
-                "start": "2021-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.1541309,
-                    45.3832366
                 ]
             }
         },

@@ -1,0 +1,66 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Provacel",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Care Provider",
+                              "Investigator",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [
+                              "Cardiovascular disease is the single largest killer of males and females in the United States with an average of 335,000 deaths per year. This year an estimated 700,000 Americans will suffer an acute myocardial infarction. The standard of care treatment for acute myocardial infarction (MI) usually includes immediate perfusion, optimal pain relief, oxygen, aspirin or other anti-coagulants, Beta-Blockers, nitrates and Ace-inhibitors. Management of cardiac risk factors such as tobacco use, hypertension, lipid levels, diabetes, weight control and exercise all work to reduce further atherosclerotic events. Yet, many patients go on to develop Congestive Heart Failure (CHF). Medical management for CHF may improve symptoms and slow the progression to failure but does not restore a functioning myocardium. A therapy that could improve the myocardial remodeling process and reduce the incidence or severity of CHF following acute MI would provide a significant benefit in an area of unmet medical need.\n\nPatients will receive standard of care in addition to stem cells or placebo."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nMale or female between 21 and 85 years old\nFirst heart attack within 1 to 10 days\n\nExclusion Criteria:\n\nPositive for HIV 1 and 2\nPrevious heart attack\nPacemaker or other device\nPregnant or breastfeeding\nAllergic to cow or pig derived products\nPrevious bone marrow transplant\nInvolved in another clinical trial within the past 30 days\nAlcohol or recreational drug abuse within the past 6 months\nHepatitis Positive\nMajor surgical procedure or major trauma within the past 14 days\nBody weight greater than 300 pounds\nAutoimmune disease ( e.g. Lupus, Multiple Sclerosis)"
+                        ],
+                        "EnrollmentCount": [
+                              "60"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT00114452"
+                        ]
+                  }
+            ]
+      }
+}

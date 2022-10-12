@@ -1,0 +1,92 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT03197623",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "LLP2A-ALENDRONATE",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "All",
+                              "BDCA"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "All Drugs and Chemicals",
+                              "Bone Density Conservation Agents"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Global"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M8199",
+                              "M20506"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Glucocorticoids",
+                              "Alendronate"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "low",
+                              "high"
+                        ],
+                        "InterventionDescription": [
+                              "A small molecule, LLP2A-Ale that directs endogenous mesenchymal stem cells (MSCs), the cells that have the potential to grow bone tissue, to the bone surface to form new bone. Single administration of LLP2A-Ale given intravenously over 120 minutes.",
+                              "Placebo, one time single administration given intravenously over 120 minutes."
+                        ],
+                        "InterventionMeshId": [
+                              "D000019386"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Alendronate"
+                        ],
+                        "InterventionName": [
+                              "LLP2A-ALENDRONATE",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [
+                              "LLP2A-Ale"
+                        ],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03197623"
+                        ]
+                  }
+            ]
+      }
+}

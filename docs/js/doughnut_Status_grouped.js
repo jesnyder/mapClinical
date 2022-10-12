@@ -12,8 +12,8 @@ const config_Status_grouped = {
             "Terminated",
             "Withdrawn",
             "Suspended",
-            "No longer available",
             "Enrolling by invitation",
+            "No longer available",
             "Available",
             "Temporarily not available"
         ],
@@ -21,17 +21,17 @@ const config_Status_grouped = {
             {
                 "label": "allo_count",
                 "data": [
-                    177,
+                    182,
+                    195,
                     185,
-                    180,
-                    52,
+                    53,
                     41,
                     21,
                     27,
                     10,
-                    4,
                     7,
                     4,
+                    3,
                     1
                 ],
                 "backgroundColor": [
@@ -52,16 +52,16 @@ const config_Status_grouped = {
             {
                 "label": "auto_count",
                 "data": [
-                    165,
-                    110,
-                    46,
-                    13,
-                    15,
+                    174,
+                    115,
+                    48,
+                    14,
+                    16,
                     20,
                     14,
-                    7,
-                    12,
+                    8,
                     4,
+                    12,
                     1,
                     2
                 ],
@@ -83,7 +83,7 @@ const config_Status_grouped = {
             {
                 "label": "both_count",
                 "data": [
-                    24,
+                    26,
                     21,
                     12,
                     7,
@@ -114,16 +114,16 @@ const config_Status_grouped = {
             {
                 "label": "undeclared_count",
                 "data": [
-                    65,
-                    81,
-                    38,
-                    18,
-                    7,
+                    67,
+                    80,
+                    33,
+                    19,
+                    13,
                     7,
                     9,
                     0,
+                    5,
                     0,
-                    4,
                     0,
                     0
                 ],

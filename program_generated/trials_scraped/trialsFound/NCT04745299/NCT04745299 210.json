@@ -1,0 +1,77 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04745299",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OtherEventStatsGroupId",
+                  "OtherEventStatsNumAffected",
+                  "OtherEventStatsNumAtRisk",
+                  "OtherEventStatsNumEvents",
+                  "OtherEventTerm",
+                  "OtherOutcomeDescription",
+                  "OtherOutcomeMeasure",
+                  "OtherOutcomeTimeFrame",
+                  "OutcomeAnalysisCILowerLimit",
+                  "OutcomeAnalysisCILowerLimitComment",
+                  "OutcomeAnalysisCINumSides",
+                  "OutcomeAnalysisCIPctValue",
+                  "OutcomeAnalysisCIUpperLimit",
+                  "OutcomeAnalysisCIUpperLimitComment",
+                  "OutcomeAnalysisDispersionType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OtherEventStatsGroupId": [],
+                        "OtherEventStatsNumAffected": [],
+                        "OtherEventStatsNumAtRisk": [],
+                        "OtherEventStatsNumEvents": [],
+                        "OtherEventTerm": [],
+                        "OtherOutcomeDescription": [
+                              "Change to SVC measured at 6, 12 months and 36 months",
+                              "Change of Muscular strength which is measured by Hand Held Dynamometer (HHD)",
+                              "Time to event for 36 months",
+                              "Time to death means the period from randomization of a subject to physical death.\n\nThe comparison with the time to death between treatment groups and control group.",
+                              "EQ-5D-5L is designed to measure health conditions and it consists of 5 questions relating to mobility, self-care, usual activities, pain/discomfort and anxiety/depression. 1~5 points are given for each question and a higher score means worse condition.\n\nChange of EQ-5D-5L from baseline to 6 month, 12 months, and 36 months.",
+                              "ALSAQ-40 is designed to evaluate disease-specific health conditions of subjects with ALS/motor neural disease. It consists of 40 questions to evaluate 5 aspects of health conditions affected by the disease. Subjects are asked to think about the difficulties they may have experienced during the last 2 weeks. Subjects are asked to indicate the frequency of each event by selecting one of 5 options (0~4): never/rarely/sometimes/often/always or cannot do at all.",
+                              "Tests on blood samples and cerebrospinal fluid samples for exploratory investigation of biological markers in plasma, blood and CSF.\n\nComparison of change before and after treatment.\n\nMeasurement cytokines : TGF-\u03b21, IL-10, IL-6, TNF-\u03b1, MCP-1, IL-8, IL-1RA, MIP-1\u03b2, RANTES and IP-10 etc.\nUnits of Measure: pg/mL\nComparative Analysis of how much each cytokine increases or decreases after treatment compared to before treatment."
+                        ],
+                        "OtherOutcomeMeasure": [
+                              "Slow Vital Capacity (SVC)",
+                              "Muscular strength",
+                              "Time to event",
+                              "Time to death",
+                              "EuroQol Short Form (EQ-5D-5L)",
+                              "Amyotrophic Lateral Sclerosis Assessment Questionnaire (ALSAQ-40)",
+                              "Biological test"
+                        ],
+                        "OtherOutcomeTimeFrame": [
+                              "6 months, 12 months, 36 months",
+                              "6 months, 12 months, 36 months",
+                              "36 months",
+                              "6 months, 12 months, 36 months",
+                              "6 month, 12 months, 36 months",
+                              "6 month, 12 months, 36 months",
+                              "up to 12 months after administration"
+                        ],
+                        "OutcomeAnalysisCILowerLimit": [],
+                        "OutcomeAnalysisCILowerLimitComment": [],
+                        "OutcomeAnalysisCINumSides": [],
+                        "OutcomeAnalysisCIPctValue": [],
+                        "OutcomeAnalysisCIUpperLimit": [],
+                        "OutcomeAnalysisCIUpperLimitComment": [],
+                        "OutcomeAnalysisDispersionType": [],
+                        "NCTId": [
+                              "NCT04745299"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,125 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal patient-derived",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "MaximumAge",
+                  "MinimumAge",
+                  "NCTId",
+                  "NCTIdAlias",
+                  "OfficialTitle",
+                  "OrgClass",
+                  "OrgFullName",
+                  "OrgStudyId",
+                  "OrgStudyIdDomain",
+                  "OrgStudyIdLink",
+                  "OrgStudyIdType",
+                  "OtherEventAssessmentType",
+                  "OtherEventNotes",
+                  "OtherEventOrganSystem",
+                  "OtherEventSourceVocabulary"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "MaximumAge": [
+                              "75 Years"
+                        ],
+                        "MinimumAge": [
+                              "45 Years"
+                        ],
+                        "NCTId": [
+                              "NCT03840343"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Intra-arterially Delivered Autologous Mesenchymal Stem/Stromal Cell Therapy in Patients With Diabetic Kidney Disease: A Phase I Study"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "Mayo Clinic"
+                        ],
+                        "OrgStudyId": [
+                              "18-002423"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 2,
+                        "MaximumAge": [],
+                        "MinimumAge": [
+                              "6 Years"
+                        ],
+                        "NCTId": [
+                              "NCT03855631"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Exploiting Epigenome Editing in Kabuki Syndrome: a New Route Towards Gene Therapy for Rare Genetic Disorders"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "University Hospital, Montpellier"
+                        ],
+                        "OrgStudyId": [
+                              "RECHMPL18_0242"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 3,
+                        "MaximumAge": [
+                              "90 Years"
+                        ],
+                        "MinimumAge": [
+                              "18 Years"
+                        ],
+                        "NCTId": [
+                              "NCT05191381"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "Immune Modulation by Stem Cell Derived Exosomes in Critically Ill COVID-19"
+                        ],
+                        "OrgClass": [
+                              "OTHER"
+                        ],
+                        "OrgFullName": [
+                              "University of Ulm"
+                        ],
+                        "OrgStudyId": [
+                              "Lung fibrosis in COVID19"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  }
+            ]
+      }
+}

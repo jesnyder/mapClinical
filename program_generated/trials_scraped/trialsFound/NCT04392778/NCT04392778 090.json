@@ -1,0 +1,66 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT04392778",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [
+                              "Participant",
+                              "Care Provider",
+                              "Investigator",
+                              "Outcomes Assessor"
+                        ],
+                        "DetailedDescription": [
+                              "Introduction:\n\nThe COVID-19 corona virus epidemic has spread from Wuhan, China to the whole world, and has been declared a pandemic by WHO worldwide. In severe patients, ARDS and multiple organ failure can be seen. This condition is associated with cytokine storm in the body. When the virus invades the body, dentric cells can activate macrophages, lymphocytes and natural killer cells. Mesenchymal stem cells (MKH) not only inhibit the abnormal activation of T lymphocytes and macrophages, but also encourage them to differentiate into regulatory T cell subsets (Treg) clusters and anti-inflammatory macrophages. MSCs application proved therapeutic efficiency during influenza infection resulting in reduced impairment of alveolar fluid clearance and lung injury. This was attributed towards attenuation of pro-inflammatory cytokine secretion, inflammatory cell recruitment and increased alveolar macrophages content.\n\nAim of study:\n\nTo provide immune modulation to patients with COVID-19 who are taken to intensive care and resistant to treatment by performing MSCs transplantation and to reduce the damage caused by cytokin storm to tissues and organs,\nCorrecting immunosuppression in patients and increasing the fight against COVID-19 virus by CD4+T, CD+8T cellular cell arrangement,\nIt is to accelerate the recovery in organ damage by increasing growth factors by means of MSCs.\n\nMaterials and method:\n\nPatients diagnosed with COVID-19 infection as clinically, radiologically and laboratory-wise will be divided into three groups:\n\nGroup 1: patients that are not on a ventilator (n=10) Group 2: patients that are on a ventilator and will receive saline injections (n=10) Group 3: patients that are on a ventilator and will receive MSC transplantation injections (n=10)\n\nMesenchymal stem cells originating from allogenic umbilical cord produced under GMP conditions will be administered in 3 times, with doses indicated below, intravenously within 1 week.\n\nDose:\n\nApplication: 3 million cells / kg IV ---------------------------------------- --------- 1 day\nApplication: 3 million cells / kg IV ---------------------------------------- --------- 3. Day\nApplication: 3 million cells / kg IV ---------------------------------------- --------- 6. Day\n\nThe blood will be analyzed for the expression levels of growth factors, including vascular endothelial growth factor, fibroblast growth factor, platelet derived-growth factor, epidermal growth factor, transforming growth factor beta, hepatocyte growth factor, nerve growth factor, VEGF receptor (VEGFR), angiopoietin1 (Angpt-1), and Angpt-2, using sandwich enzyme-linked immune sorbent assays (ELISAs). Investigators also analyzed the caspase-3 system in the blood. immunoassay kits will be used for analyses in accordance with the manufacturer's instructions.\n\nBiochemical parameters of the liver, such as alanine transaminase (ALT), aspartate transaminase (AST), total protein, albumin, total bilirubin, direct bilirubin, and alkaline phosphatase (ALP) levels, will be measured in the venous blood samples.\n\nProinflammatory (IL1-\u03b2, IL-6, TNF\u03b1, INF-\u03b3) and anti-inflammatory (IL-2, IL-4, IL-10, IL-13) cytokines will be examined in venous blood in order to determine the immune modulatory effect of stem cells. CD4 + T, CD4 + T killer cells Granulocyte macrophage colony factor BLC-2 VEGF-R angiopoetin-1, angiopoetin-2 Total antioxidant capacity (TAC) Total oxidant capacity (TOC)."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\n40-60 years old male or female\nConfirmed 2019-nCoV infection with RT-PCR Laboratory test\nConfirmed Pneumonia with chest radiography and computer tomography\n\nand any of the following criteria:\n\nShortness of breath (RR \u226530/min)\nResting finger oxygen saturation 93%\nArterial oxygen partial pressure (PaO2)/oxygen absorption concentration (FiO2) \u2264 300MMHG\nAdvancing of focus in Pulmonary imaging to >50% in 24-48 hours\n\nExclusion Criteria:\n\nThose who are not pregnant, breastfeeding and pregnant but who do not take effective contraceptive measures;\nPatients with malignant tumors, other serious systemic diseases and psychosis;\nInformed consent is not given or does not comply with the test requirements.\nCo-infection of HIV, tuberculosis, influenza virus, adenovirus and other respiratory infection virus.\nPneumonia caused by bacteria, mycoplasma, chlamydia, legionella, fungi or co-infection of HIV, tuberculosis, influenza virus, adenovirus and other respiratory infection virus.\nObstructive HABP / VABP caused by lung cancer or other known causes; Long-term history of use of immunosuppressive agents;\nHistory of epilepsy and need for continuous anticonvulsant therapy or anticonvulsant therapy taken within 3 years;\nInvasive ventilation\nShock\nOther organ failures"
+                        ],
+                        "EnrollmentCount": [
+                              "30"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT04392778"
+                        ]
+                  }
+            ]
+      }
+}

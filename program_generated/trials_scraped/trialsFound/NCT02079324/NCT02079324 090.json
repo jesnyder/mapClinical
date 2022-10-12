@@ -1,0 +1,61 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02079324",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "The primary purpose of the study is to determine MTD(Maximum Tolerable Dose) of GX-051 administered in tumor. The second purpose is to evaluate safety and efficacy of GX-051."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAre capable of understanding and complying with the requirements of the study and have signed the informed consent from (ICF).\nVery advanced head and neck cancer aged more than 19.\nLongest distance of the tumor is bigger than 1 cm and capable of Intratumoral injection.\nBaseline ECOG Performance Status 0, 1 or 2.\nHave a life expectancy more than 6 months.\n\nExclusion Criteria:\n\nHave no history of prior anticancer treatment.\nFemale patients who are pregnant or breast feeding, or adults of reproductive potential who are not using effective birth control methods.Subject who have participated in a clinical trial of an treatment vaccine or immunotherapy in an year.\nHave a tumor which is near a main vessel that can be occured embolism after injection or which has hypervascularity.\nPatients currently receiving anticancer immuno-therapies Patients who have received prior treatment with an stem cell therapy.\nHave autoimmune disease (multiple sclerosis, systemic lupus erythromatosis, thyroiditis, psoriasis, inflammatory bowel diseases etc.).\nHave Graft rejection reaction such as GVHD.\nHave immunodeficiency disease.\nLeukocytes< 3.0 x109/L.\nAbsolute neutrophil count < 1.5x109/L.\nPlatelet count < 100 x 109/L.\nHave known positive test for hepatitis B surface antigen, hepatitis C antibody, and human immunodeficiency virus (HIV).\nAlanine Aminotransferase (ALT) > 2.5xUNL.\nAspartate Aminotransferase (AST)> 2.5xUNL.\nTotal Bilirubin> UNL.\nHave blood Creatinine> UNL.\nKnown allergy to IL-12 or the excipient(s) of the study medication including fetal bovine serum.\nSecond primary cancer Metastatic brain tumor or meningioma.\nHave a tumor near a main artery.\nUncontrolled hypertension.\nUncontrolled diabetes uncontrolled (arrhythmia).\nHeart failure (more than NYHA Functional Class II); unstable coronary artery disease; myocardial infarction within 6 months.\nChild-Pugh Class C hepatic impairment.\nSevere renal impairment (creatinine clearance < 30 ml/min) or on dialysis.\nHave active infection or history of recurrent infection.\nPatients who have any severe and/or uncontrolled medical conditions or other conditions that could affect their participation in the study.\nAre considered ineligible by the investigator due to a mental disease or CNS disease.\nAdministration of any other tumor therapy, including chemotherapy and radiotherapy within 4 weeks(6 weeks in case of nitrosoureas and mytomycin C) before the beginning of study treatment.\nPatients receiving chronic, systemic treatment with immunosuppressive agent(steroid) or immuno-modulator within 2 weeks prior to screening.\nHave participated in another clinical trial within 30 days prior to dosing."
+                        ],
+                        "EnrollmentCount": [
+                              "12"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT02079324"
+                        ]
+                  }
+            ]
+      }
+}

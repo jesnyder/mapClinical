@@ -12,9 +12,9 @@ const config_Gender = {
             {
                 "label": "all",
                 "data": [
-                    63073,
-                    2149,
-                    767
+                    65427,
+                    2337,
+                    917
                 ],
                 "backgroundColor": [
                     "rgb(212,178,212)",

@@ -1,0 +1,82 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02652130",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OutcomeMeasureParamType",
+                  "OutcomeMeasurePopulationDescription",
+                  "OutcomeMeasureReportingStatus",
+                  "OutcomeMeasureTimeFrame",
+                  "OutcomeMeasureTitle",
+                  "OutcomeMeasureType",
+                  "OutcomeMeasureTypeUnitsAnalyzed",
+                  "OutcomeMeasureUnitOfMeasure",
+                  "OutcomeMeasurementComment",
+                  "OutcomeMeasurementGroupId",
+                  "OutcomeMeasurementLowerLimit",
+                  "OutcomeMeasurementSpread",
+                  "OutcomeMeasurementUpperLimit",
+                  "OutcomeMeasurementValue",
+                  "OverallOfficialAffiliation",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OutcomeMeasureParamType": [
+                              "Number",
+                              "Number"
+                        ],
+                        "OutcomeMeasurePopulationDescription": [
+                              "Safety population included all participants who signed the informed consent form and received at least one dose of study treatment (complete or partial) in the study MSB-GVHD001 and who signed the informed consent form for the study MSB-GVHD002 were followed across both the studies MSB-GVHD001 and MSB-GVHD002.",
+                              "Duration of Response population included all participants who participated in Study MSB-GVHD001 and showed OR or very good partial response (VGPR) to remestemcel-L at Day 28 in Study MSB-GVHD001. The OS was evaluated across both Studies MSB-GVHD001 and MSB-GVHD002."
+                        ],
+                        "OutcomeMeasureReportingStatus": [
+                              "Posted",
+                              "Posted"
+                        ],
+                        "OutcomeMeasureTimeFrame": [
+                              "From Baseline Day 1 in the Study MSB-GVHD001 up to Day 180 in Study MSB-GVHD002 (180 days)",
+                              "From Baseline (Day 1) in the Study MSB-GVHD001 up to Day 180 in the Study MSB-GVHD002 (180 days)"
+                        ],
+                        "OutcomeMeasureTitle": [
+                              "Overall Survival Rate Through Day 180",
+                              "Overall Survival Rate at Day 180 for Participants Who Had Overall Response (OR) at Day 28 of Study MSB-GVHD001"
+                        ],
+                        "OutcomeMeasureType": [
+                              "Primary",
+                              "Secondary"
+                        ],
+                        "OutcomeMeasureTypeUnitsAnalyzed": [],
+                        "OutcomeMeasureUnitOfMeasure": [
+                              "percentage of participants",
+                              "percentage of participants"
+                        ],
+                        "OutcomeMeasurementComment": [],
+                        "OutcomeMeasurementGroupId": [
+                              "OG000",
+                              "OG000"
+                        ],
+                        "OutcomeMeasurementLowerLimit": [],
+                        "OutcomeMeasurementSpread": [],
+                        "OutcomeMeasurementUpperLimit": [],
+                        "OutcomeMeasurementValue": [
+                              "68.5",
+                              "78.9"
+                        ],
+                        "OverallOfficialAffiliation": [
+                              "Mesoblast, Inc."
+                        ],
+                        "NCTId": [
+                              "NCT02652130"
+                        ]
+                  }
+            ]
+      }
+}

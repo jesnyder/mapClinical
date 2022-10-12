@@ -1,0 +1,92 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal darvadstrocel",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "DesignTimePerspective",
+                  "DesignWhoMasked",
+                  "DetailedDescription",
+                  "DispFirstPostDate",
+                  "DispFirstPostDateType",
+                  "DispFirstSubmitDate",
+                  "DispFirstSubmitQCDate",
+                  "EligibilityCriteria",
+                  "EnrollmentCount",
+                  "EnrollmentType",
+                  "EventGroupDeathsNumAffected",
+                  "EventGroupDeathsNumAtRisk",
+                  "EventGroupDescription",
+                  "EventGroupId",
+                  "EventGroupOtherNumAffected",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "DesignTimePerspective": [
+                              "Prospective"
+                        ],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\nAdults aged 18 years or older who have complex perianal Crohn \ufb01stula\nnon-active or mildly active luminal Crohn's disease for at least 6 months.\nThe \ufb01stula had to have been draining for at least 6 weeks before inclusion.\n\nExclusion Criteria:\n\n\u2022 Patient with recto-vaginal \ufb01stula; rectal or anal stenosis; or active severe proctitis."
+                        ],
+                        "EnrollmentCount": [
+                              "150"
+                        ],
+                        "EnrollmentType": [
+                              "Anticipated"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT05210309"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "DesignTimePerspective": [
+                              "Prospective"
+                        ],
+                        "DesignWhoMasked": [],
+                        "DetailedDescription": [
+                              "Fifteen applications in 14 patients (3 male, 11 female) with complex anal fistulas treated in three tertiary hospitals in Austria were included between October 2018 and April 2021. Injection of 120 million allogeneic expanded adipose-derived mesenchymal stem cells (Cx601 - Darvadstrocel, Alofisel\u00ae) was performed in each patient. Closure of the external fistula opening without secretion by finger compression was defined as success."
+                        ],
+                        "DispFirstPostDate": [],
+                        "DispFirstPostDateType": [],
+                        "DispFirstSubmitDate": [],
+                        "DispFirstSubmitQCDate": [],
+                        "EligibilityCriteria": [
+                              "Inclusion Criteria:\n\npatients aged 18 and older who had a non-active or mildly active luminal CD with complex fistula with a maximum of two internal and three external fistulas\n\nExclusion Criteria:\n\nrectovaginal fistulas\nrectal and/or anal stenosis\nactive proctitis\ndiverting stomas\nan abscess (<2cm) that was not drained at the fistula preperation visit"
+                        ],
+                        "EnrollmentCount": [
+                              "14"
+                        ],
+                        "EnrollmentType": [
+                              "Actual"
+                        ],
+                        "EventGroupDeathsNumAffected": [],
+                        "EventGroupDeathsNumAtRisk": [],
+                        "EventGroupDescription": [],
+                        "EventGroupId": [],
+                        "EventGroupOtherNumAffected": [],
+                        "NCTId": [
+                              "NCT05322057"
+                        ]
+                  }
+            ]
+      }
+}

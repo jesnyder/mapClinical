@@ -1,0 +1,131 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01771913",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BaselineMeasureDispersionType",
+                  "BaselineMeasureParamType",
+                  "BaselineMeasurePopulationDescription",
+                  "BaselineMeasureTitle",
+                  "BaselineMeasureUnitOfMeasure",
+                  "BaselineMeasurementComment",
+                  "BaselineMeasurementGroupId",
+                  "BaselineMeasurementLowerLimit",
+                  "BaselineMeasurementSpread",
+                  "BaselineMeasurementUpperLimit",
+                  "BaselineMeasurementValue",
+                  "BaselinePopulationDescription",
+                  "BaselineTypeUnitsAnalyzed",
+                  "BioSpecDescription",
+                  "BioSpecRetention",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BaselineMeasureDispersionType": [
+                              "Standard Deviation",
+                              "Standard Deviation"
+                        ],
+                        "BaselineMeasureParamType": [
+                              "Count of Participants",
+                              "Mean",
+                              "Count of Participants",
+                              "Number",
+                              "Mean"
+                        ],
+                        "BaselineMeasurePopulationDescription": [],
+                        "BaselineMeasureTitle": [
+                              "Age, Categorical",
+                              "Age, Continuous",
+                              "Sex: Female, Male",
+                              "Region of Enrollment",
+                              "breast volume"
+                        ],
+                        "BaselineMeasureUnitOfMeasure": [
+                              "Participants",
+                              "years",
+                              "Participants",
+                              "participants",
+                              "mL"
+                        ],
+                        "BaselineMeasurementComment": [],
+                        "BaselineMeasurementGroupId": [
+                              "BG000",
+                              "BG001",
+                              "BG002",
+                              "BG000",
+                              "BG001",
+                              "BG002",
+                              "BG000",
+                              "BG001",
+                              "BG002",
+                              "BG000",
+                              "BG001",
+                              "BG002",
+                              "BG000",
+                              "BG001",
+                              "BG002",
+                              "BG000",
+                              "BG001",
+                              "BG002",
+                              "BG000",
+                              "BG001",
+                              "BG002",
+                              "BG000",
+                              "BG001",
+                              "BG002"
+                        ],
+                        "BaselineMeasurementLowerLimit": [],
+                        "BaselineMeasurementSpread": [
+                              "11.5",
+                              "5.7",
+                              "8.3",
+                              "187.7",
+                              "206.8",
+                              "198.5"
+                        ],
+                        "BaselineMeasurementUpperLimit": [],
+                        "BaselineMeasurementValue": [
+                              "0",
+                              "0",
+                              "0",
+                              "7",
+                              "11",
+                              "18",
+                              "1",
+                              "0",
+                              "1",
+                              "49.8",
+                              "49.6",
+                              "49.7",
+                              "8",
+                              "11",
+                              "19",
+                              "0",
+                              "0",
+                              "0",
+                              "8",
+                              "11",
+                              "19",
+                              "562.8",
+                              "650.1",
+                              "613.3"
+                        ],
+                        "BaselinePopulationDescription": [],
+                        "BaselineTypeUnitsAnalyzed": [],
+                        "BioSpecDescription": [],
+                        "BioSpecRetention": [],
+                        "NCTId": [
+                              "NCT01771913"
+                        ]
+                  }
+            ]
+      }
+}

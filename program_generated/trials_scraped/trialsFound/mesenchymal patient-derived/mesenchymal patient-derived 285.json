@@ -1,0 +1,172 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal patient-derived",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "PrimaryOutcomeTimeFrame",
+                  "ReferenceCitation",
+                  "ReferencePMID",
+                  "ReferenceType",
+                  "RemovedCountry",
+                  "ResponsiblePartyInvestigatorAffiliation",
+                  "ResponsiblePartyInvestigatorFullName",
+                  "ResponsiblePartyInvestigatorTitle",
+                  "ResponsiblePartyOldNameTitle",
+                  "ResponsiblePartyOldOrganization",
+                  "ResponsiblePartyType",
+                  "ResultsFirstPostDate",
+                  "ResultsFirstPostDateType",
+                  "ResultsFirstPostedQCCommentsDate",
+                  "ResultsFirstPostedQCCommentsDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "PrimaryOutcomeTimeFrame": [
+                              "Baseline through Month 15",
+                              "Baseline through Month 15"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "Mayo Clinic"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "LaTonya J. Hickson"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Principal Investigator"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT03840343"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "PrimaryOutcomeTimeFrame": [
+                              "one year maximum after inclusion"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT03855631"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "PrimaryOutcomeTimeFrame": [
+                              "24 hours, 1 year"
+                        ],
+                        "ReferenceCitation": [
+                              "Channappanavar R, Perlman S. Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology. Semin Immunopathol. 2017 Jul;39(5):529-539. doi: 10.1007/s00281-017-0629-x. Epub 2017 May 2. Review.",
+                              "Di Rocco G, Baldari S, Toietta G. Towards Therapeutic Delivery of Extracellular Vesicles: Strategies for In Vivo Tracking and Biodistribution Analysis. Stem Cells Int. 2016;2016:5029619. Epub 2016 Nov 23. Review.",
+                              "Geistlinger J, Du W, Groll J, Liu F, Hoegel J, Foehr KJ, Pasquarelli A, Schneider EM. P2RX7 genotype association in severe sepsis identified by a novel Multi-Individual Array for rapid screening and replication of risk SNPs. Clin Chim Acta. 2012 Jan 18;413(1-2):39-47. doi: 10.1016/j.cca.2011.05.023. Epub 2011 May 25.",
+                              "Giamarellos-Bourboulis EJ, Netea MG, Rovina N, Akinosoglou K, Antoniadou A, Antonakos N, Damoraki G, Gkavogianni T, Adami ME, Katsaounou P, Ntaganou M, Kyriakopoulou M, Dimopoulos G, Koutsodimitropoulos I, Velissaris D, Koufargyris P, Karageorgos A, Katrini K, Lekakis V, Lupse M, Kotsaki A, Renieris G, Theodoulou D, Panou V, Koukaki E, Koulouris N, Gogos C, Koutsoukou A. Complex Immune Dysregulation in COVID-19 Patients with Severe Respiratory Failure. Cell Host Microbe. 2020 Jun 10;27(6):992-1000.e3. doi: 10.1016/j.chom.2020.04.009. Epub 2020 Apr 21.",
+                              "Gotts JE, Matthay MA. Endogenous and exogenous cell-based pathways for recovery from acute respiratory distress syndrome. Clin Chest Med. 2014 Dec;35(4):797-809. doi: 10.1016/j.ccm.2014.08.015. Epub 2014 Sep 24. Review.",
+                              "H\u00e4berle H, Magunia H, Lang P, Gloeckner H, K\u00f6rner A, Koeppen M, Backchoul T, Malek N, Handgretinger R, Rosenberger P, Mirakaj V. Mesenchymal Stem Cell Therapy for Severe COVID-19 ARDS. J Intensive Care Med. 2021 Jun;36(6):681-688. doi: 10.1177/0885066621997365. Epub 2021 Mar 5.",
+                              "Lai RC, Arslan F, Lee MM, Sze NS, Choo A, Chen TS, Salto-Tellez M, Timmers L, Lee CN, El Oakley RM, Pasterkamp G, de Kleijn DP, Lim SK. Exosome secreted by MSC reduces myocardial ischemia/reperfusion injury. Stem Cell Res. 2010 May;4(3):214-22. doi: 10.1016/j.scr.2009.12.003. Epub 2010 Jan 4.",
+                              "Leng Z, Zhu R, Hou W, Feng Y, Yang Y, Han Q, Shan G, Meng F, Du D, Wang S, Fan J, Wang W, Deng L, Shi H, Li H, Hu Z, Zhang F, Gao J, Liu H, Li X, Zhao Y, Yin K, He X, Gao Z, Wang Y, Yang B, Jin R, Stambler I, Lim LW, Su H, Moskalev A, Cano A, Chakrabarti S, Min KJ, Ellison-Hughes G, Caruso C, Jin K, Zhao RC. Transplantation of ACE2(-) Mesenchymal Stem Cells Improves the Outcome of Patients with COVID-19 Pneumonia. Aging Dis. 2020 Mar 9;11(2):216-228. doi: 10.14336/AD.2020.0228. eCollection 2020 Apr.",
+                              "Mehta P, McAuley DF, Brown M, Sanchez E, Tattersall RS, Manson JJ; HLH Across Speciality Collaboration, UK. COVID-19: consider cytokine storm syndromes and immunosuppression. Lancet. 2020 Mar 28;395(10229):1033-1034. doi: 10.1016/S0140-6736(20)30628-0. Epub 2020 Mar 16.",
+                              "Monsel A, Zhu YG, Gudapati V, Lim H, Lee JW. Mesenchymal stem cell derived secretome and extracellular vesicles for acute lung injury and other inflammatory lung diseases. Expert Opin Biol Ther. 2016 Jul;16(7):859-71. doi: 10.1517/14712598.2016.1170804. Epub 2016 Apr 12. Review.",
+                              "Shah TG, Predescu D, Predescu S. Mesenchymal stem cells-derived extracellular vesicles in acute respiratory distress syndrome: a review of current literature and potential future treatment options. Clin Transl Med. 2019 Sep 12;8(1):25. doi: 10.1186/s40169-019-0242-9. Review.",
+                              "Shi Y, Wang Y, Shao C, Huang J, Gan J, Huang X, Bucci E, Piacentini M, Ippolito G, Melino G. COVID-19 infection: the perspectives on immune responses. Cell Death Differ. 2020 May;27(5):1451-1454. doi: 10.1038/s41418-020-0530-3. Epub 2020 Mar 23.",
+                              "Shi L, Huang H, Lu X, Yan X, Jiang X, Xu R, Wang S, Zhang C, Yuan X, Xu Z, Huang L, Fu JL, Li Y, Zhang Y, Yao WQ, Liu T, Song J, Sun L, Yang F, Zhang X, Zhang B, Shi M, Meng F, Song Y, Yu Y, Wen J, Li Q, Mao Q, Maeurer M, Zumla A, Yao C, Xie WF, Wang FS. Effect of human umbilical cord-derived mesenchymal stem cells on lung damage in severe COVID-19 patients: a randomized, double-blind, placebo-controlled phase 2 trial. Signal Transduct Target Ther. 2021 Feb 10;6(1):58. doi: 10.1038/s41392-021-00488-5.",
+                              "Shi L, Wang L, Xu R, Zhang C, Xie Y, Liu K, Li T, Hu W, Zhen C, Wang FS. Mesenchymal stem cell therapy for severe COVID-19. Signal Transduct Target Ther. 2021 Sep 8;6(1):339. doi: 10.1038/s41392-021-00754-6. Review.",
+                              "Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, Wu Y, Zhang L, Yu Z, Fang M, Yu T, Wang Y, Pan S, Zou X, Yuan S, Shang Y. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. Lancet Respir Med. 2020 May;8(5):475-481. doi: 10.1016/S2213-2600(20)30079-5. Epub 2020 Feb 24. Erratum in: Lancet Respir Med. 2020 Apr;8(4):e26.",
+                              "J. Bindja, M. E. Weiss, M. Schmolz, G. M. Stein, J. Mapes, N. Schneiderhan-Marra, T. O. Joos, E. M. Schneider. Synthetic ligands against TLR2-9 in TruCulture\u2122 - whole blood assays distinguish clinical stages of SIRS (trauma) and sepsis.Trauma, Shock, Inflammation and Sepsis.Trauma, Shock, Inflammation and Sepsis - TSIS 2010; 55 - 63",
+                              "Sanders J., Schneider E.M. How severe RNA virus infections such as SARS-CoV-2 disrupt tissue and organ barriers-Reconstitution by mesenchymal stem cell-derived exosomes. Tissue Barriers in Disease, Injury and Regeneration 2021:95-113. doi: 10.1016/B978-0-12-818561-2.00004-7. Epub 2021 Jun 25. PMCID: PMC8225928."
+                        ],
+                        "ReferencePMID": [
+                              "28466096",
+                              "27994623",
+                              "21640086",
+                              "32320677",
+                              "25453426",
+                              "33663244",
+                              "20138817",
+                              "32257537",
+                              "32192578",
+                              "27011289",
+                              "31512000",
+                              "32205856",
+                              "33568628",
+                              "34497264",
+                              "32105632"
+                        ],
+                        "ReferenceType": [
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "background",
+                              "result"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "University of Ulm"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Manfred Weiss"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Professor, MD, MBA, Clinical Professor"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT05191381"
+                        ]
+                  }
+            ]
+      }
+}

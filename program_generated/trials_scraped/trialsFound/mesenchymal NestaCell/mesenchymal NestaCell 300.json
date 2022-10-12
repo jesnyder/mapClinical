@@ -1,0 +1,80 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "mesenchymal NestaCell",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Evaluation of Pneumonia change",
+                              "Evaluation of Pneumonia change",
+                              "oxygen saturation",
+                              "oxygen saturation",
+                              "Marker of Immunological function",
+                              "PaO2 / FiO2 ratio",
+                              "Number of participants with treatment-related adverse events",
+                              "Complete blood count, ALT, AST, GGT, CK, CKmB and creatinine"
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Rate of mortality within 10-days",
+                              "Change of Clinical symptoms - respiratory rate",
+                              "Hypoxia",
+                              "PaO2 / FiO2 ratio",
+                              "CD4+ and CD8+ T cell count",
+                              "Changes of blood oxygen",
+                              "Side effects in the treatment group",
+                              "Complete blood count, cardiac, hepatic and renal profiles;"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "10 days",
+                              "10 days",
+                              "10 days",
+                              "10 days",
+                              "Days 1, 2, 4, 6 and 8.",
+                              "10 days",
+                              "10 days",
+                              "Days 1, 2, 4, 6 and 8."
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04315987"
+                        ]
+                  }
+            ]
+      }
+}

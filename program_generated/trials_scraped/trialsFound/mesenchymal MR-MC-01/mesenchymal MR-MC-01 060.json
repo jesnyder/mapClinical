@@ -1,0 +1,86 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal MR-MC-01",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "This study primarily aimed to evaluate the safety of human embryonic stem cell (hESC)-derived mesenchyma stem cells in interstitial cystitis."
+                        ],
+                        "BriefTitle": [
+                              "Safety of Human Embryonic Stem Cell (hESC)-Derived Mesenchymal Stem Cells in Interstitial Cystitis"
+                        ],
+                        "CentralContactEMail": [
+                              "mschoo@amc.seoul.kr"
+                        ],
+                        "CentralContactName": [
+                              "Myung-Soo Choo, M.D, Ph.D"
+                        ],
+                        "CentralContactPhone": [
+                              "+82230103735"
+                        ],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "UNKNOWN"
+                        ],
+                        "CollaboratorName": [
+                              "MIRAE CELL BIO"
+                        ],
+                        "CompletionDate": [
+                              "December 2022"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Interstitial Cystitis",
+                              "Stem Cell Transplant",
+                              "Mesenchymal Stem Cell"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000001745",
+                              "D000014570"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Urinary Bladder Diseases",
+                              "Urologic Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BXS",
+                              "All"
+                        ],
+                        "NCTId": [
+                              "NCT04610359"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,100 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT01544712",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Musculoskeletal Diseases",
+                              "Symptoms and General Pathology",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Osteonecrosis",
+                              "Osteonecrosis of the Femoral Head",
+                              "Osteonecrosis of the Femoral Head"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M12095",
+                              "M10037",
+                              "M4278",
+                              "M11249",
+                              "M11436",
+                              "M7561",
+                              "T3358"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Osteonecrosis",
+                              "Legg-Calve-Perthes Disease",
+                              "Bone Diseases",
+                              "Musculoskeletal Diseases",
+                              "Necrosis",
+                              "Femur Head Necrosis",
+                              "Legg-Calve-Perthes Disease"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000010020",
+                              "D000007873"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Osteonecrosis",
+                              "Legg-Calve-Perthes Disease"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01544712"
+                        ]
+                  }
+            ]
+      }
+}

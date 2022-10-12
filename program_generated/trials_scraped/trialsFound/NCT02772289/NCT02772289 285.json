@@ -1,0 +1,72 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT02772289",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "PrimaryOutcomeTimeFrame",
+                  "ReferenceCitation",
+                  "ReferencePMID",
+                  "ReferenceType",
+                  "RemovedCountry",
+                  "ResponsiblePartyInvestigatorAffiliation",
+                  "ResponsiblePartyInvestigatorFullName",
+                  "ResponsiblePartyInvestigatorTitle",
+                  "ResponsiblePartyOldNameTitle",
+                  "ResponsiblePartyOldOrganization",
+                  "ResponsiblePartyType",
+                  "ResultsFirstPostDate",
+                  "ResultsFirstPostDateType",
+                  "ResultsFirstPostedQCCommentsDate",
+                  "ResultsFirstPostedQCCommentsDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "PrimaryOutcomeTimeFrame": [
+                              "1st, 3rd, 6th month post treatment"
+                        ],
+                        "ReferenceCitation": [
+                              "Fan D, Zeng M, Xia Q, Wu S, Ye S, Rao J, Lin D, Zhang H, Ma H, Han Z, Guo X, Liu Z. Efficacy and safety of umbilical cord mesenchymal stem cells in treatment of cesarean section skin scars: a randomized clinical trial. Stem Cell Res Ther. 2020 Jun 25;11(1):244. doi: 10.1186/s13287-020-01695-7.",
+                              "Fan D, Xia Q, Wu S, Ye S, Liu L, Wang W, Guo X, Liu Z. Mesenchymal stem cells in the treatment of Cesarean section skin scars: study protocol for a randomized, controlled trial. Trials. 2018 Mar 2;19(1):155. doi: 10.1186/s13063-018-2478-x."
+                        ],
+                        "ReferencePMID": [
+                              "32586366",
+                              "29499740"
+                        ],
+                        "ReferenceType": [
+                              "derived",
+                              "derived"
+                        ],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "Maternal and Child Health Hospital of Foshan"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Zhengping Liu, MD"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Director"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT02772289"
+                        ]
+                  }
+            ]
+      }
+}

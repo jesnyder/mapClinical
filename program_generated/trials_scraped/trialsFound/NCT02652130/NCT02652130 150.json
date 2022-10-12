@@ -1,0 +1,94 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:09 23:24:50.411",
+            "Expression": "NCT02652130",
+            "NStudiesAvail": 430269,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "Safety population"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [
+                              "Infe",
+                              "Infl",
+                              "All"
+                        ],
+                        "InterventionBrowseBranchName": [
+                              "Anti-Infective Agents",
+                              "Anti-Inflammatory Agents",
+                              "All Drugs and Chemicals"
+                        ],
+                        "InterventionBrowseLeafAsFound": [
+                              "Rimegepant"
+                        ],
+                        "InterventionBrowseLeafId": [
+                              "M186752",
+                              "M3369",
+                              "M3466",
+                              "M3366"
+                        ],
+                        "InterventionBrowseLeafName": [
+                              "Remestemcel-l",
+                              "Anti-Inflammatory Agents",
+                              "Antiviral Agents",
+                              "Anti-Infective Agents"
+                        ],
+                        "InterventionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "InterventionDescription": [
+                              "No intervention was given in Study MSB-GVHD002 (NCT02652130). It was a safety follow-up trial of remestemcel-L-treated participants from Study MSB-GVHD001."
+                        ],
+                        "InterventionMeshId": [
+                              "C000711674"
+                        ],
+                        "InterventionMeshTerm": [
+                              "Remestemcel-l"
+                        ],
+                        "InterventionName": [
+                              "Remestemcel-L"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT02652130"
+                        ]
+                  }
+            ]
+      }
+}

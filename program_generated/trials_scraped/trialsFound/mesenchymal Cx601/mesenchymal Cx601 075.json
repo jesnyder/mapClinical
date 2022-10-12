@@ -1,0 +1,229 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "mesenchymal Cx601",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Ulcerative",
+                              "Colitis",
+                              "Ulcerative Colitis"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M9596",
+                              "M17069",
+                              "M16358",
+                              "M5472",
+                              "M5473",
+                              "M8027",
+                              "M8035",
+                              "M6407",
+                              "M5488"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Intestinal Diseases",
+                              "Inflammatory Bowel Diseases",
+                              "Ulcer",
+                              "Colitis",
+                              "Colitis, Ulcerative",
+                              "Gastroenteritis",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Colonic Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003092",
+                              "D000003093",
+                              "D000014456"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Colitis",
+                              "Colitis, Ulcerative",
+                              "Ulcer"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01914887"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Crohn's Disease",
+                              "Fistula"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M5790",
+                              "M7684",
+                              "M9596",
+                              "M17069",
+                              "M8027",
+                              "M8035",
+                              "M6407",
+                              "M21672"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Crohn Disease",
+                              "Fistula",
+                              "Intestinal Diseases",
+                              "Inflammatory Bowel Diseases",
+                              "Gastroenteritis",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases",
+                              "Pathological Conditions, Anatomical"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003424",
+                              "D000005402"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Crohn Disease",
+                              "Fistula"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Case-Only"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT05322057"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "ConditionBrowseBranchName": [
+                              "Digestive System Diseases",
+                              "All Conditions"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Crohn's Disease"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M5790",
+                              "M9596",
+                              "M17069",
+                              "M8027",
+                              "M8035",
+                              "M6407"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Crohn Disease",
+                              "Intestinal Diseases",
+                              "Inflammatory Bowel Diseases",
+                              "Gastroenteritis",
+                              "Gastrointestinal Diseases",
+                              "Digestive System Diseases"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000003424"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Crohn Disease"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT01541579"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,93 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:06 23:25:58.836",
+            "Expression": "NCT03381326",
+            "NStudiesAvail": 430108,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Neoplasms",
+                              "Urinary Tract, Sexual Organs, and Pregnancy Conditions",
+                              "All Conditions",
+                              "Symptoms and General Pathology"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Prostate Cancer",
+                              "Circulating Tumor Cells"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M13487",
+                              "M11459",
+                              "M11457",
+                              "M8098",
+                              "M16467",
+                              "M13485",
+                              "M11482"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Prostatic Neoplasms",
+                              "Neoplasm Metastasis",
+                              "Neoplastic Cells, Circulating",
+                              "Genital Neoplasms, Male",
+                              "Urogenital Neoplasms",
+                              "Prostatic Diseases",
+                              "Neoplastic Processes"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000011471",
+                              "D000009360"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Prostatic Neoplasms",
+                              "Neoplastic Cells, Circulating"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [],
+                        "DesignInterventionModel": [],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [
+                              "Case-Only"
+                        ],
+                        "DesignPrimaryPurpose": [],
+                        "NCTId": [
+                              "NCT03381326"
+                        ]
+                  }
+            ]
+      }
+}
