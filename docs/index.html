@@ -94,26 +94,27 @@
 
    <ol id="my-list">
 
-  <li><b>Build the database:</b> All clinical trial data comes from the NIH database maintained by the US National Library of Medicine - ClinicalTrials.gov (https://clinicaltrials.gov). We accessed the data using a combination of manual and automated searches conducted through the
-
+  <li><b>Build the database:</b> All clinical trial data comes from the NIH database maintained by the US National Library of Medicine -
+  <a href="https://clinicaltrials.gov"  target="_blank" rel="noopener">ClinicalTrials.gov</a>. We accessed the data using a combination of manual and automated searches conducted through the
   <a href="https://clinicaltrials.gov/api/"  target="_blank" rel="noopener">application programming interface (API)</a>
-
   and a
-
   <a href="https://pytrials.readthedocs.io/en/latest/readme.html"  target="_blank" rel="noopener">python wrapper - pytrials</a>.
+  <br><br>
+  Our focus was clinical trials that use a mesenchymal stromal cell therapy. The nomenclature of MSC has changed over the years - from mesenchymal stem cell to mesenchymal stromal cell. The term "mesenchymal" could be conflated with results for "mesenchyme" - the general term for connective tissue. To find trials with MSC therapies, we listed search terms that would lead to MSC cells - "mesenchymal stromal" and "mesenchymal stem", referenced MSC source tissue - "mesenchymal umbilical cord" or "mesenchymal placental", and tradenames for MSC therapies - "mesenchymal
+  <a href="https://en.wikipedia.org/wiki/Darvadstrocel"  target="_blank" rel="noopener">Darvadstrocel</a>"
+  and "mesenchymal
+  <a href="https://en.wikipedia.org/wiki/Prochymal"  target="_blank" rel="noopener">Prochymal</a>".
+  <br><br>There is a 1000 trial max download using the automated query, so if the results for an automated search term were more than the maximum allowable, we conducted a manual search, download, and save to capture the full record. This was only required for "mesenchymal stem". Once scraped or downloaded, all trials were coregistered using their URL on ClinicalTrials.gov (which includes their ID number) as a unique identifier to prevent duplicate entries.
 
-  Our focus was clinical trials that use a mesenchymal stromal cell therapy. The nomenclature of MSC has changed over the years - from mesenchymal stem cell to mesenchymal stromal cell. The term "mesenchymal" could be conflated with results for "mesenchyme" - the general term for connective tissue. To find trials with MSC therapies, we listed search terms that would lead to MSC cells - "mesenchymal stromal" and "mesenchymal stem", referenced MSC source tissue - "mesenchymal umbilical cord" or "mesenchymal placental", and tradenames for MSC therapies - "mesenchymal Alofisel" and "mesenchymal "CardioCell".
-  <a href="https://github.com/jesnyder/mapClinical/blob/main/user_provided/admin/search_terms.csv"  target="_blank" rel="noopener">Search terms</a> are listed in the repo. There is a 1000 trial max download using the automated query, so if the results for an automated search term were more than the maximum allowable, we conducted a manual search, download, and save to capture the full record. This was only required for "mesenchymal stem". Once scraped or downloaded, all trials were coregistered using their URL on ClinicalTrials.gov (which includes their ID number) as a unique identifier to prevent duplicate entries.
+  <li><b>Assign groups:</b> Search the description, title, and intervention fields of each trial in the database for terms indicative of either an allogeneic or autologous source. If one or more
 
-  <li><b>Assign groups:</b> Search the description, title, and intervention fields of each trial in the database for terms indicative of either an allogeneic or autologous source. If one or more allogeneic terms are found, then the trial is assigned to the allogeneic group. Terms included "allogeneic", as well as trade names for allogeneic MSC products, and sources of MSCs that must be allogeneic, like placenta and umbilical cord.
+  <a href="https://github.com/jesnyder/mapClinical/blob/main/user_provided/admin/allo_terms.csv"  target="_blank" rel="noopener">allogeneic terms</a>
+  are found, then the trial is assigned to the allogeneic group. Terms included "allogeneic", as well as trade names for allogeneic MSC products, and sources of MSCs that must be allogeneic, like placenta and umbilical cord.
 
-  <a href="https://github.com/jesnyder/mapClinical/blob/main/user_provided/admin/allo_terms.csv"  target="_blank" rel="noopener">Allogeneic terms</a>
+  Similarly, if one or more
+  <a href="https://github.com/jesnyder/mapClinical/blob/main/user_provided/admin/auto_terms.csv"  target="_blank" rel="noopener">autologous terms</a>
 
-  are listed in the code repo. A full list of allogeneic terms can be found and edited in the code repo or via this link (). Autologous trials were grouped using the same approach.
-
-  <a href="https://github.com/jesnyder/mapClinical/blob/main/user_provided/admin/auto_terms.csv"  target="_blank" rel="noopener">Autologous terms</a>
-
-  are listed in the code repo. If terms from both the allogeneic and autologous lists are found, then the trial is assigned to the "both" group. If no terms from either group are found, then the trial is assigned to the "undeclared" group. Each trial is assigned to only one group.
+  are found, then the trial is assigned to the autologous group. If terms from both the allogeneic and autologous lists are found, then the trial is assigned to the "both" group. If no terms from either group are found, then the trial is assigned to the "undeclared" group. Each trial is assigned to only one group.
 
   <li><b>Geolocate trials:</b> Search the "Locations" field of each trial to find all the locations of the trials. Some trials have multiple locations that are separated by the '|' character. A list of
     <a href="https://github.com/jesnyder/mapClinical/blob/main/program_generated/locations/locations.csv"  target="_blank" rel="noopener">unique trial locations</a>
