@@ -1,19 +1,21 @@
 body {
   background-color: #DFE1DF;
   color: #0099D8;
-  font: 14px Calibri;
+  font: 16px Calibri;
   }
 
+
+
 h1   {color: #171B60;
-      font: 18px Calibri;
+      font: 20px Calibri;
       font-weight: bold;
      }
 h2   {color: #0099D8;
-      font: 16px Calibri;
+      font: 18px Calibri;
       font-weight: bold;
      }
 p    {color: #565656;
-      font: 14px Calibri}
+      font: 16px Calibri}
 
 html,
 body {
@@ -92,11 +94,7 @@ color: lightcyan;
 
 * { box-sizing: inherit; }
 
-body {
-background: #F2F3F4;
-font: 1em/1.25 trebuchet ms, verdana, sans-serif;
-color: #222222;
-}
+
 
 table {
 box-sizing: border-box;
@@ -179,7 +177,7 @@ li {
   text-indent: 0em;
   margin-left: 2em;
   color: #565656;
-  font: 14px Calibri;
+  font: 16px Calibri;
 }
 
 
