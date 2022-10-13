@@ -109,16 +109,16 @@
 
   <li><b>Assign groups:</b> Search the description, title, and intervention fields of each trial in the database for terms indicative of either an allogeneic or autologous source. If one or more
 
-  <a href="https://github.com/jesnyder/mapClinical/blob/main/user_provided/admin/allo_terms.csv"  target="_blank" rel="noopener">allogeneic terms</a>
+  <a href="https://github.com/jesnyder/mapClinical/blob/rb-blog-post-2022-10/user_provided/admin/allo_terms.csv"  target="_blank" rel="noopener">allogeneic terms</a>
   are found, then the trial is assigned to the allogeneic group. Terms included "allogeneic", as well as trade names for allogeneic MSC products, and sources of MSCs that must be allogeneic, like placenta and umbilical cord.
 
   Similarly, if one or more
-  <a href="https://github.com/jesnyder/mapClinical/blob/main/user_provided/admin/auto_terms.csv"  target="_blank" rel="noopener">autologous terms</a>
+  <a href="https://github.com/jesnyder/mapClinical/blob/rb-blog-post-2022-10/user_provided/admin/auto_terms.csv"  target="_blank" rel="noopener">autologous terms</a>
 
   are found, then the trial is assigned to the autologous group. If terms from both the allogeneic and autologous lists are found, then the trial is assigned to the "both" group. If no terms from either group are found, then the trial is assigned to the "undeclared" group. Each trial is assigned to only one group.
 
   <li><b>Geolocate trials:</b> Search the "Locations" field of each trial to find all the locations of the trials. Some trials have multiple locations that are separated by the '|' character. A list of
-    <a href="https://github.com/jesnyder/mapClinical/blob/main/program_generated/locations/locations.csv"  target="_blank" rel="noopener">unique trial locations</a>
+    <a href="https://github.com/jesnyder/mapClinical/blob/rb-blog-post-2022-10/program_generated/locations/locations.csv"  target="_blank" rel="noopener">unique trial locations</a>
     can be found in the code repo.
   We found the latitude and longitude for each location using the
   <a href="https://www.openstreetmap.org"  target="_blank" rel="noopener"> OpenStreetMap API</a>.
