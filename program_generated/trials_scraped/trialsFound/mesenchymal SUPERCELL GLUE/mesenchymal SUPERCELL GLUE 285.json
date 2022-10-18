@@ -1,0 +1,66 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:17 23:32:42.784",
+            "Expression": "mesenchymal SUPERCELL GLUE",
+            "NStudiesAvail": 431098,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "PrimaryOutcomeTimeFrame",
+                  "ReferenceCitation",
+                  "ReferencePMID",
+                  "ReferenceType",
+                  "RemovedCountry",
+                  "ResponsiblePartyInvestigatorAffiliation",
+                  "ResponsiblePartyInvestigatorFullName",
+                  "ResponsiblePartyInvestigatorTitle",
+                  "ResponsiblePartyOldNameTitle",
+                  "ResponsiblePartyOldOrganization",
+                  "ResponsiblePartyType",
+                  "ResultsFirstPostDate",
+                  "ResultsFirstPostDateType",
+                  "ResultsFirstPostedQCCommentsDate",
+                  "ResultsFirstPostedQCCommentsDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "PrimaryOutcomeTimeFrame": [
+                              "1 week",
+                              "baseline,3 months,6 months",
+                              "baseline, 3 months,6 months",
+                              "baseline,3 months,6 months"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [
+                              "KLE Society's Institute of Dental Sciences"
+                        ],
+                        "ResponsiblePartyInvestigatorFullName": [
+                              "Dr Laveena Singhal"
+                        ],
+                        "ResponsiblePartyInvestigatorTitle": [
+                              "Principal investigator"
+                        ],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Principal Investigator"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT03766139"
+                        ]
+                  }
+            ]
+      }
+}

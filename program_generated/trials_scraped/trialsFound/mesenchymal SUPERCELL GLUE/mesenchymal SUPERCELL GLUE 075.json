@@ -1,0 +1,65 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:17 23:32:42.784",
+            "Expression": "mesenchymal SUPERCELL GLUE",
+            "NStudiesAvail": 431098,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [],
+                        "ConditionBrowseLeafAsFound": [],
+                        "ConditionBrowseLeafId": [],
+                        "ConditionBrowseLeafName": [],
+                        "ConditionBrowseLeafRelevance": [],
+                        "ConditionMeshId": [],
+                        "ConditionMeshTerm": [],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Parallel Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [
+                              "The study will be a Double Blinded Randomized controlled clinical trial with a split mouth design."
+                        ],
+                        "DesignMasking": [
+                              "Double"
+                        ],
+                        "DesignMaskingDescription": [
+                              "The sites will be randomly (computer generated tabulation method) assigned into control group (treated with PRFM alone) and test group (treated with Supercell Glue)."
+                        ],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03766139"
+                        ]
+                  }
+            ]
+      }
+}

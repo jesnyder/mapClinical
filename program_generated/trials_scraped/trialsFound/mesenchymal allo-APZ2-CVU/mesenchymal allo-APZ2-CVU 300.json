@@ -1,0 +1,136 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:12 23:20:22.323",
+            "Expression": "mesenchymal allo-APZ2-CVU",
+            "NStudiesAvail": 430639,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "ResultsFirstSubmitDate",
+                  "ResultsFirstSubmitQCDate",
+                  "RetractionPMID",
+                  "RetractionSource",
+                  "SamplingMethod",
+                  "SecondaryId",
+                  "SecondaryIdDomain",
+                  "SecondaryIdLink",
+                  "SecondaryIdType",
+                  "SecondaryOutcomeDescription",
+                  "SecondaryOutcomeMeasure",
+                  "SecondaryOutcomeTimeFrame",
+                  "SeeAlsoLinkLabel",
+                  "SeeAlsoLinkURL",
+                  "SeriousEventAssessmentType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [
+                              "Wound size change in percent at each post-baseline follow-up visit will be evaluated.",
+                              "Time to complete wound closure will be evaluated.",
+                              "Complete wound closures at each post-baseline follow-up visit will be evaluated.",
+                              "Duration of wound closure will be evaluated.",
+                              "Recurrence of the wound will be evaluated.",
+                              "The Quality of wound healing will be assessed at each post-baseline follow-up visit on the basis of the amount and type of wound exudate.",
+                              "The Quality of wound healing will be assessed at each post-baseline follow-up visit on the basis of the formation of granulation tissue together with epithelialization.",
+                              "The Quality of wound healing will be assessed at each post-baseline follow-up visit on the basis of the questions regarding scar formation.",
+                              "Quality of Life using the Wound-Quality of Life Questionnaire at V8, V11, V14 will be evaluated.",
+                              "Pain assessment as per numerical rating scale on each post-baseline efficacy follow-up visit will be evaluated.",
+                              "A physical body examination (e.g. general appearance, thyroid, head, lungs and thorax, ears, cardiovascular system, eyes, abdomen, nose-mouth-throat, musculoskeletal system, skin, extremities, lymph nodes, neurological system) will be performed and abnormal physical examination results will be evaluated and reported as AEs."
+                        ],
+                        "SecondaryOutcomeMeasure": [
+                              "Wound size change in percent at each post-baseline follow-up visit",
+                              "Time to complete wound closure",
+                              "Complete wound closures at each post-baseline follow-up visit",
+                              "Duration of wound closure",
+                              "Recurrence of the wound",
+                              "Quality of wound healing (wound exudate) at each post-baseline follow-up visit",
+                              "Quality of wound healing (granulation tissue together with epithelialization) at each post-baseline follow-up visit",
+                              "Quality of wound healing (scar formation) at each post-baseline follow-up visit",
+                              "Assessment of Quality of Life using the Wound-Quality of Life Questionnaire at V8, V11, V14",
+                              "Pain assessment as per numerical rating scale on each post-baseline efficacy follow-up visit",
+                              "Physical examination and vital signs at V14"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Day 1-2, Week 1, 2, 4, 6, 8, 10, 12, 14, 16, Month 6 and 10",
+                              "Day 1-2, Week 1, 2, 4, 6, 8, 10, 12, 14, 16, Month 6 and 10",
+                              "Day 1-2, Week 1, 2, 4, 6, 8, 10, 12, 14, 16, Month 6 and 10",
+                              "Day 1-2, Week 1, 2, 4, 6, 8, 10, 12, 14, 16, Month 6 and 10",
+                              "Day 1-2, Week 1, 2, 4, 6, 8, 10, 12, 14, 16, Month 6 and 10",
+                              "Day 1-2, Week 1, 2, 4, 6, 8, 10, 12, 14, 16, Month 6 and 10",
+                              "Day 1-2, Week 1, 2, 4, 6, 8, 10, 12, 14, 16, Month 6 and 10",
+                              "Day 1-2, Week 1, 2, 4, 6, 8, 10, 12, 14, 16, Month 6 and 10",
+                              "Week 6, 12, 18",
+                              "Day 1-2, Week 1, 2, 4, 6, 8, 10, 12, 14, 16, Month 6 and 10",
+                              "Week 18"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT04971161"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ResultsFirstSubmitDate": [],
+                        "ResultsFirstSubmitQCDate": [],
+                        "RetractionPMID": [],
+                        "RetractionSource": [],
+                        "SamplingMethod": [],
+                        "SecondaryId": [],
+                        "SecondaryIdDomain": [],
+                        "SecondaryIdLink": [],
+                        "SecondaryIdType": [],
+                        "SecondaryOutcomeDescription": [],
+                        "SecondaryOutcomeMeasure": [
+                              "Percentage of wound size reduction",
+                              "Absolute wound size reduction",
+                              "Proportion of patients achieving complete wound closure",
+                              "Time to first complete wound closure",
+                              "Proportion of patients achieving 30% wound closure",
+                              "Time to first 30% wound closure",
+                              "Epithelialization",
+                              "Assessment of further wound healing parameters: formation of granulation tissue and wound exudation",
+                              "Pain assessment as per numerical rating scale (NRS)",
+                              "Assessment of quality of life (QoL) using the short form 36 (SF-36) questionnaire",
+                              "Assessment of dermatology-specific quality of life based on the Dermatology Life Quality Index (DLQI) questionnaire",
+                              "Physical examination and vital signs at Week 6.1 and Week 12"
+                        ],
+                        "SecondaryOutcomeTimeFrame": [
+                              "Weeks 2, 3, 4, 6, 6.1, 6.2, 8, 10, and 12 (without LOCF);",
+                              "Weeks 2, 3, 4, 6, 6.1, 6.2, 8, 10, and 12",
+                              "Weeks 2, 3, 4, 6, 8, 10, 12, and at any time point",
+                              "A priori specification not possible; between baseline and week 12 post baseline",
+                              "Weeks 2, 3, 4, 6, 6.1, 6.2, 8, 10, 12, and at any time point",
+                              "A priori specification not possible; between baseline and week 12 post baseline",
+                              "Weeks 2, 3, 4, 6, 6.1, 6.2, 8, 10, and 12",
+                              "Visit 3 and Visit 10 before IMP application, Days 1 to 3 and 8, Weeks 2, 3, 4, 6, 6.2, 8, 10, and 12",
+                              "Days 0, 1 to 3 and 8, Weeks 2, 3, 4, 6, 6.1, 6.2, 8, 10, and 12",
+                              "Day 0 and Weeks 4, 8 and 12",
+                              "Day 0 and Weeks 4, 8 and 12",
+                              "Week 6.1 and Week 12"
+                        ],
+                        "SeeAlsoLinkLabel": [],
+                        "SeeAlsoLinkURL": [],
+                        "SeriousEventAssessmentType": [],
+                        "NCTId": [
+                              "NCT03257098"
+                        ]
+                  }
+            ]
+      }
+}

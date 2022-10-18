@@ -1,0 +1,91 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:12 23:20:22.323",
+            "Expression": "mesenchymal allo-APZ2-EB",
+            "NStudiesAvail": 430639,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "MaximumAge",
+                  "MinimumAge",
+                  "NCTId",
+                  "NCTIdAlias",
+                  "OfficialTitle",
+                  "OrgClass",
+                  "OrgFullName",
+                  "OrgStudyId",
+                  "OrgStudyIdDomain",
+                  "OrgStudyIdLink",
+                  "OrgStudyIdType",
+                  "OtherEventAssessmentType",
+                  "OtherEventNotes",
+                  "OtherEventOrganSystem",
+                  "OtherEventSourceVocabulary"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "MaximumAge": [
+                              "55 Years"
+                        ],
+                        "MinimumAge": [
+                              "0 Years"
+                        ],
+                        "NCTId": [
+                              "NCT03529877"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "An Interventional, Multicenter, Single Arm, Phase I/IIa Clinical Trial to Investigate the Efficacy and Safety of Allo-APZ2-EB on Epidermolysis Bullosa (EB)"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "RHEACELL GmbH & Co. KG"
+                        ],
+                        "OrgStudyId": [
+                              "allo-APZ2-EB-II-01"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  },
+                  {
+                        "Rank": 2,
+                        "MaximumAge": [],
+                        "MinimumAge": [],
+                        "NCTId": [
+                              "NCT05464381"
+                        ],
+                        "NCTIdAlias": [],
+                        "OfficialTitle": [
+                              "A Double-blind, Randomized, Placebo-controlled, Interventional, Multicenter, Phase III Clinical Trial to Investigate the Safety and Efficacy of ABCB5-positive Mesenchymal Stromal Cells (ABCB5+ MSCs) on Epidermolysis Bullosa (EB)"
+                        ],
+                        "OrgClass": [
+                              "INDUSTRY"
+                        ],
+                        "OrgFullName": [
+                              "RHEACELL GmbH & Co. KG"
+                        ],
+                        "OrgStudyId": [
+                              "allo-APZ2-EB-III"
+                        ],
+                        "OrgStudyIdDomain": [],
+                        "OrgStudyIdLink": [],
+                        "OrgStudyIdType": [],
+                        "OtherEventAssessmentType": [],
+                        "OtherEventNotes": [],
+                        "OtherEventOrganSystem": [],
+                        "OtherEventSourceVocabulary": []
+                  }
+            ]
+      }
+}

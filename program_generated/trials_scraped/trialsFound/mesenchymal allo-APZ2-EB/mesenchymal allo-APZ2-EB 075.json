@@ -1,0 +1,195 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:12 23:20:22.323",
+            "Expression": "mesenchymal allo-APZ2-EB",
+            "NStudiesAvail": 430639,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "ConditionBrowseBranchName",
+                  "ConditionBrowseLeafAsFound",
+                  "ConditionBrowseLeafId",
+                  "ConditionBrowseLeafName",
+                  "ConditionBrowseLeafRelevance",
+                  "ConditionMeshId",
+                  "ConditionMeshTerm",
+                  "DelayedPosting",
+                  "DesignAllocation",
+                  "DesignInterventionModel",
+                  "DesignInterventionModelDescription",
+                  "DesignMasking",
+                  "DesignMaskingDescription",
+                  "DesignObservationalModel",
+                  "DesignPrimaryPurpose",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "ConditionBrowseBranchName": [
+                              "Diseases and Abnormalities at or Before Birth",
+                              "All Conditions",
+                              "Skin and Connective Tissue Diseases",
+                              "Musculoskeletal Diseases",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Epidermolysis Bullosa",
+                              "Dystrophic Epidermolysis Bullosa",
+                              "Epidermolysis Bullosa",
+                              "Dystrophic Epidermolysis Bullosa",
+                              "Recessive Dystrophic Epidermolysis Bullosa"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M12",
+                              "M14826",
+                              "M14824",
+                              "M7128",
+                              "M17738",
+                              "M14828",
+                              "M22839",
+                              "M14827",
+                              "M14197",
+                              "M5475",
+                              "M5616",
+                              "T2098",
+                              "T1991",
+                              "T4889"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Congenital Abnormalities",
+                              "Skin Diseases",
+                              "Skin Abnormalities",
+                              "Epidermolysis Bullosa",
+                              "Epidermolysis Bullosa Dystrophica",
+                              "Skin Diseases, Genetic",
+                              "Genetic Diseases, Inborn",
+                              "Skin Diseases, Vesiculobullous",
+                              "Rheumatic Diseases",
+                              "Collagen Diseases",
+                              "Connective Tissue Diseases",
+                              "Epidermolysis Bullosa",
+                              "Dystrophic Epidermolysis Bullosa",
+                              "Recessive Dystrophic Epidermolysis Bullosa"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "high",
+                              "high"
+                        ],
+                        "ConditionMeshId": [
+                              "D000004820",
+                              "D000016108"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Epidermolysis Bullosa",
+                              "Epidermolysis Bullosa Dystrophica"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "N/A"
+                        ],
+                        "DesignInterventionModel": [
+                              "Single Group Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "None (Open Label)"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT03529877"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "ConditionBrowseBranchName": [
+                              "Diseases and Abnormalities at or Before Birth",
+                              "Skin and Connective Tissue Diseases",
+                              "All Conditions",
+                              "Rare Diseases"
+                        ],
+                        "ConditionBrowseLeafAsFound": [
+                              "Epidermolysis Bullosa",
+                              "Epidermolysis Bullosa"
+                        ],
+                        "ConditionBrowseLeafId": [
+                              "M7128",
+                              "M12",
+                              "M14824",
+                              "M14826",
+                              "M14828",
+                              "M22839",
+                              "M14827",
+                              "T2098",
+                              "T4202"
+                        ],
+                        "ConditionBrowseLeafName": [
+                              "Epidermolysis Bullosa",
+                              "Congenital Abnormalities",
+                              "Skin Abnormalities",
+                              "Skin Diseases",
+                              "Skin Diseases, Genetic",
+                              "Genetic Diseases, Inborn",
+                              "Skin Diseases, Vesiculobullous",
+                              "Epidermolysis Bullosa",
+                              "Oculocerebral Syndrome With Hypopigmentation"
+                        ],
+                        "ConditionBrowseLeafRelevance": [
+                              "high",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "low",
+                              "high",
+                              "low"
+                        ],
+                        "ConditionMeshId": [
+                              "D000004820"
+                        ],
+                        "ConditionMeshTerm": [
+                              "Epidermolysis Bullosa"
+                        ],
+                        "DelayedPosting": [],
+                        "DesignAllocation": [
+                              "Randomized"
+                        ],
+                        "DesignInterventionModel": [
+                              "Crossover Assignment"
+                        ],
+                        "DesignInterventionModelDescription": [],
+                        "DesignMasking": [
+                              "Quadruple"
+                        ],
+                        "DesignMaskingDescription": [],
+                        "DesignObservationalModel": [],
+                        "DesignPrimaryPurpose": [
+                              "Treatment"
+                        ],
+                        "NCTId": [
+                              "NCT05464381"
+                        ]
+                  }
+            ]
+      }
+}

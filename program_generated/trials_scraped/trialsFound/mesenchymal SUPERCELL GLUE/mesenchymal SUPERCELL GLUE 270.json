@@ -1,0 +1,73 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:17 23:32:42.784",
+            "Expression": "mesenchymal SUPERCELL GLUE",
+            "NStudiesAvail": 431098,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Unknown status"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Early Phase 1"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "June 2019"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "early wound healing index in intraosseous periodontal defects",
+                              "Change in probing pocket depth reduction and clinical attachment gain measured in millimetres in intraosseous defects",
+                              "change in the bone level will be assessed radiographically using Image J analysis software measured in millimeters",
+                              "change in the clinical parameters of gingival index and plaque index (no units as these are indices) in intraosseous periodontal defects"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Early wound healing index (Supercell in early wound healing index)",
+                              "Change in probing pocket depth and clinical attachment gain (Supercell as a regenerative novel material)",
+                              "Change in the bone level (Supercell as a biological material)",
+                              "Change in the clinical parameters of gingival index and plaque index (Supercell as a regenerative material using clinical indices)"
+                        ],
+                        "NCTId": [
+                              "NCT03766139"
+                        ]
+                  }
+            ]
+      }
+}

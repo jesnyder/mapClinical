@@ -15,8 +15,11 @@ var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 	});
 
 var map = L.map('map', {
-		center: [0, 0],
+		center: [10, 10],
 		zoom: 2,
+		minZoom: 2,
+		maxZoom: 18,
+		zoomSnap: 0.25,
 		layers: [osm]
 	});
 
@@ -32,9 +35,11 @@ var overlays = {
     'Undeclared MSC Source': layerUndeclared,
 	};
 
+
 var layerControl = L.control.layers(baseLayers, overlays).addTo(map);
 var satellite = L.tileLayer(mbUrl, {id: 'mapbox/satellite-v9', tileSize: 512, zoomOffset: -1, attribution: mbAttr});
 layerControl.addBaseLayer(satellite, 'Satellite');
+layerControl.addOverlay(layerAllo, "Allogeneic MSC Source");
 
 
 function onEachFeature(feature, layer) {

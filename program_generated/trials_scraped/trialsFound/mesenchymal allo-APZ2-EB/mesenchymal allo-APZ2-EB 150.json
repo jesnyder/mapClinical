@@ -1,0 +1,104 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:12 23:20:22.323",
+            "Expression": "mesenchymal allo-APZ2-EB",
+            "NStudiesAvail": 430639,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "allo-APZ2-EB"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "intravenous infusion of allo-APZ2-EB"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "allo-APZ2-EB"
+                        ],
+                        "InterventionOtherName": [
+                              "allogeneic ABCB5-positive mesenchymal stem cells"
+                        ],
+                        "InterventionType": [
+                              "Biological"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "Yes"
+                        ],
+                        "NCTId": [
+                              "NCT03529877"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "Verum",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Allogeneic dermal ABCB5-positive Mesenchymal Stromal Cells (ABCB5+ MSCs)",
+                              "Placebo"
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "allo-APZ2-OTS",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug",
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT05464381"
+                        ]
+                  }
+            ]
+      }
+}

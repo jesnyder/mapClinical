@@ -8,6 +8,7 @@ from write_geojson import write_geojson
 from year_counts import year_counts
 from summarize_fields import summarize_fields
 from prepare_html import prepare_html
+from sankey_count import sankey_count
 
 
 def main():
@@ -16,7 +17,7 @@ def main():
     Map clinical trials
     """
 
-    tasks = []
+    tasks = [4, 5, 6, 7]
     #tasks = np.arange(1,6,1)
     #tasks.append('openmaps')
 
@@ -40,9 +41,11 @@ def main():
     # summarize fields
     if 5 in tasks: summarize_fields()
 
+    # count for sankey
+    if 7 in tasks: sankey_count()
+
     # prepare html
     if 6 in tasks: prepare_html()
-
 
 if __name__ == "__main__":
     main()

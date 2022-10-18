@@ -1,0 +1,145 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:12 23:20:22.323",
+            "Expression": "mesenchymal allo-APZ2-EB",
+            "NStudiesAvail": 430639,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The aim of this clinical trial is to investigate the efficacy (by monitoring overall improvement of EB symptoms) and safety (by monitoring adverse events) of three doses of allo-APZ2-EB administered intravenously to patients with recessive dystrophic epidermolysis bullosa (RDEB)."
+                        ],
+                        "BriefTitle": [
+                              "Allogeneic ABCB5-positive Stem Cells for Treatment of Epidermolysis Bullosa"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "INDUSTRY",
+                              "OTHER",
+                              "INDUSTRY"
+                        ],
+                        "CollaboratorName": [
+                              "FGK Clinical Research GmbH",
+                              "Granzer Regulatory Consulting & Services",
+                              "Ticeba GmbH"
+                        ],
+                        "CompletionDate": [
+                              "November 26, 2021"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Recessive Dystrophic Epidermolysis Bullosa"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000012868",
+                              "D000000013",
+                              "D000012873",
+                              "D000030342",
+                              "D000012871",
+                              "D000012872",
+                              "D000003095",
+                              "D000003240"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Skin Abnormalities",
+                              "Congenital Abnormalities",
+                              "Skin Diseases, Genetic",
+                              "Genetic Diseases, Inborn",
+                              "Skin Diseases",
+                              "Skin Diseases, Vesiculobullous",
+                              "Collagen Diseases",
+                              "Connective Tissue Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC16",
+                              "All",
+                              "BC17",
+                              "BC05",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT03529877"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "BriefSummary": [
+                              "The aim of this clinical trial is to investigate the safety and efficacy of allo-APZ2-OTS administered intravenously to subjects with recessive dystrophic epidermolysis bullosa (RDEB) compared to placebo. An additional baseline-controlled open-label arm will be included to investigate the safety and efficacy of allo-APZ2-OTS administered intravenously to subjects with JEB and to RDEB subjects < 1 year."
+                        ],
+                        "BriefTitle": [
+                              "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of Epidermolysis Bullosa (Phase III, Cross-over)"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [],
+                        "CollaboratorName": [],
+                        "CompletionDate": [
+                              "December 2025"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Epidermolysis Bullosa"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000012868",
+                              "D000000013",
+                              "D000012873",
+                              "D000030342",
+                              "D000012871",
+                              "D000012872"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Skin Abnormalities",
+                              "Congenital Abnormalities",
+                              "Skin Diseases, Genetic",
+                              "Genetic Diseases, Inborn",
+                              "Skin Diseases",
+                              "Skin Diseases, Vesiculobullous"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC16",
+                              "BC17",
+                              "All",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT05464381"
+                        ]
+                  }
+            ]
+      }
+}

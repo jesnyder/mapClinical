@@ -41,12 +41,15 @@
 
 
     <!-- Animated map-->
-    <div id="map" style="margin-left: 3%; width:96% ;"></div>
+    <div id="map" style="margin-left: 3%; width:96% ; max-width:1000px;"></div>
     <script src="js/map.js"></script>
 
 
-    <div id="text" style="width:80% ; margin-left: 3%;">
+    <div id="text" style="width:80% ; margin-left: 3%; max-width:1000px;">
+
     <h1>The Sun Never Sets on a World Spinning with hMSC Advanced Therapeutics</h1>
+
+    <p>October 18, 2022 by Jessica Snyder and Jon Carson</p>
     <p  style="margin-left: 5%;"><i>You realize the sun doesn't go down, <br>It's just an illusion caused by the world spinning round.</i><a href="#section1">[1]</a></p>
 
     <h2>A Map Toward New Knowledge</h2>
@@ -69,7 +72,7 @@
   <p>
   Disillusionment is not an uncommon sentiment in technology, and new cellular therapies are no exception. However, one analyst's gloomy perspective is another's opportunity for transformation. One quote attributed to Mark Twain states </p>
 
-  <p  style="margin-left: 5%;"><i>
+  <p  style="margin-left: 5%; max-width:1000px;"><i>
   "The reports of my death are greatly exaggerated." </i></p>
 
   <p>
@@ -101,7 +104,7 @@
   and a
   <a href="https://pytrials.readthedocs.io/en/latest/readme.html"  target="_blank" rel="noopener">python wrapper - pytrials</a>.
   <br><br>
-  Our focus was clinical trials that use a mesenchymal stromal cell therapy. The nomenclature of MSC has changed over the years - from mesenchymal stem cell to mesenchymal stromal cell. The term "mesenchymal" could be conflated with results for "mesenchyme" - the general term for connective tissue. To find trials with MSC therapies, we listed search terms that would lead to MSC cells - "mesenchymal stromal" and "mesenchymal stem", referenced MSC source tissue - "mesenchymal umbilical cord" or "mesenchymal placental", and tradenames for MSC therapies - "mesenchymal
+  <a href="https://github.com/jesnyder/mapClinical/blob/rb-blog-post-2022-10/user_provided/admin/search_terms.csv"  target="_blank" rel="noopener">Search terms</a> describe mesenchymal stromal cells and therapeutic product names. The term "mesenchymal" could be conflated with results for "mesenchyme" - the general term for connective tissue. To find trials with MSC therapies, we listed search terms that would lead to MSC cells - "mesenchymal stromal" and "mesenchymal stem", referenced MSC source tissue - "mesenchymal umbilical cord" or "mesenchymal placental", and tradenames for MSC therapies - "mesenchymal
   <a href="https://en.wikipedia.org/wiki/Darvadstrocel"  target="_blank" rel="noopener">Darvadstrocel</a>"
   and "mesenchymal
   <a href="https://en.wikipedia.org/wiki/Prochymal"  target="_blank" rel="noopener">Prochymal</a>".
@@ -109,16 +112,16 @@
 
   <li><b>Assign groups:</b> Search the description, title, and intervention fields of each trial in the database for terms indicative of either an allogeneic or autologous source. If one or more
 
-  <a href="https://github.com/jesnyder/mapClinical/blob/main/user_provided/admin/allo_terms.csv"  target="_blank" rel="noopener">allogeneic terms</a>
+  <a href="https://github.com/jesnyder/mapClinical/blob/rb-blog-post-2022-10/user_provided/admin/allo_terms.csv"  target="_blank" rel="noopener">allogeneic terms</a>
   are found, then the trial is assigned to the allogeneic group. Terms included "allogeneic", as well as trade names for allogeneic MSC products, and sources of MSCs that must be allogeneic, like placenta and umbilical cord.
 
   Similarly, if one or more
-  <a href="https://github.com/jesnyder/mapClinical/blob/main/user_provided/admin/auto_terms.csv"  target="_blank" rel="noopener">autologous terms</a>
+  <a href="https://github.com/jesnyder/mapClinical/blob/rb-blog-post-2022-10/user_provided/admin/auto_terms.csv"  target="_blank" rel="noopener">autologous terms</a>
 
   are found, then the trial is assigned to the autologous group. If terms from both the allogeneic and autologous lists are found, then the trial is assigned to the "both" group. If no terms from either group are found, then the trial is assigned to the "undeclared" group. Each trial is assigned to only one group.
 
   <li><b>Geolocate trials:</b> Search the "Locations" field of each trial to find all the locations of the trials. Some trials have multiple locations that are separated by the '|' character. A list of
-    <a href="https://github.com/jesnyder/mapClinical/blob/main/program_generated/locations/locations.csv"  target="_blank" rel="noopener">unique trial locations</a>
+    <a href="https://github.com/jesnyder/mapClinical/blob/rb-blog-post-2022-10/program_generated/locations/locations.csv"  target="_blank" rel="noopener">unique trial locations</a>
     can be found in the code repo.
   We found the latitude and longitude for each location using the
   <a href="https://www.openstreetmap.org"  target="_blank" rel="noopener"> OpenStreetMap API</a>.
@@ -157,30 +160,52 @@
     <p>A map of recent trials, plot of trials and the enrollment each year are included below. Review and please reach out with further questions or comments for future visualizations. </p>
     </div>
 
-    <div id="map2"style="margin-left: 3%; width:96% ;"></div>
+    <div id="map2"style="margin-left: 3%; width:96%; max-width:1000px;"></div>
     <script src="js/map2.js"></script>
 
 
-    <div style="margin-left: 10%; width:60% ;">
+    <div style="margin-left: 10%; width:60%; max-width:1000px;">
     <br><h2 id="section2">
     Cumulative counts of trials each year and enrollment
     <p>Review the number of trials and total participants enrolled for all trials and each survey cell source. Totals presented as a Cumulative Distribution Function (CDF).</p>
     </h2></div>
 
-    <div id="container" style="text-align:center; width:80%; margin-left: 10%">
-    <canvas id="line-chart-cdf_count" height="125"  style="border:0px solid"></canvas>
+    <div id="container" style="text-align:center; width:80%; margin-left: 10%; max-width:800px;">
+    <canvas id="line-chart-cdf_count" height="150"  style="border:0px solid"></canvas>
     <script src="js/cdf_js_count.js"></script>
     </div>
 
     <div style="margin-left: 3%; width:96% ;">
     <br></div>
 
-    <div id="container" style="text-align:center; width:80%; margin-left: 10%">
-    <canvas id="line-chart-cdf_enroll"  height="125"  style="border:0px solid"></canvas>
+    <div id="container" style="text-align:center; width:80%; margin-left: 10%; max-width:800px;">
+    <canvas id="line-chart-cdf_enroll"  height="150"  style="border:0px solid"></canvas>
     <script src="js/cdf_js_enroll.js"></script>
     <br>
     <br>
+    </div>
 
+    <div id="tabularConditions" style="width:60% ; margin-left: 10%;  max-width:800px; font-family: Calibri;"></div>
+    <script src="js/tabularConditions.js"></script>
+    </div>
+
+    <br><br>
+
+    <div id="tabularPhases" style="width:60% ; margin-left: 10%;  max-width:800px; font-family: Calibri;"></div>
+    <script src="js/tabularPhases.js"></script>
+    </div>
+
+    <br><br>
+
+    <div id="tabularStatus" style="width:60% ; margin-left: 10%;  max-width:800px; font-family: Calibri;"></div>
+    <script src="js/Status.js"></script>
+    <script src="js/tabularStatus.js"></script>
+    </div>
+
+    <br>
+
+
+    <div style="margin-left: 10%; width:60%;  max-width:800px;">
     <p>
     The
     <a href="https://github.com/jesnyder/mapClinical/"  target="_blank" rel="noopener">code</a>

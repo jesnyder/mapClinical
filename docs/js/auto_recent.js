@@ -1,5 +1,5 @@
 var  groupauto_recent = {
-    "feature_count": 133,
+    "feature_count": 136,
     "type": [
         "FeatureCollection"
     ],
@@ -14,7 +14,7 @@ var  groupauto_recent = {
                 "enrolled": 0,
                 "radius": 10,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(26, 32, 93)",
+                "fillColor": "rgb(36, 24, 106)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11990,
@@ -40,7 +40,7 @@ var  groupauto_recent = {
                 "enrolled": 0,
                 "radius": 10,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 33, 86)",
+                "fillColor": "rgb(40, 39, 86)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11990,
@@ -66,7 +66,7 @@ var  groupauto_recent = {
                 "enrolled": 4,
                 "radius": 12,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(26, 29, 107)",
+                "fillColor": "rgb(42, 32, 103)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11988,
@@ -86,13 +86,39 @@ var  groupauto_recent = {
             "type": "Feature",
             "properties": {
                 "name": "Evaluation of EpiBone-CMF for Mandibular Ramus Reconstruction",
+                "aff": "VA Healthcare System, San Francisco, San Francisco, California, United States ",
+                "url": "https://ClinicalTrials.gov/show/NCT03678467",
+                "status": "Recruiting",
+                "enrolled": 6,
+                "radius": 12,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(40, 19, 86)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11988,
+                "paneLabel": "pane11988",
+                "start": "2021-03-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.45825681806237,
+                    37.7627257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Evaluation of EpiBone-CMF for Mandibular Ramus Reconstruction",
                 "aff": " Cleveland Clinic, Cleveland, Ohio, United States ",
                 "url": "https://ClinicalTrials.gov/show/NCT03678467",
                 "status": "Recruiting",
                 "enrolled": 6,
                 "radius": 12,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(43, 20, 96)",
+                "fillColor": "rgb(40, 19, 86)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11988,
@@ -111,26 +137,26 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Long-term Follow-up of Phase 1 Clinical Trial of CS10BR05(CS10BR05-MSA101)",
-                "aff": "Yonsei University College of Medicine, Seoul, Korea, Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT04495582",
-                "status": "Active, not recruiting",
-                "enrolled": 8,
+                "name": "Evaluation of EpiBone-CMF for Mandibular Ramus Reconstruction",
+                "aff": " UT Health San Antonio, San Antonio, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT03678467",
+                "status": "Recruiting",
+                "enrolled": 6,
                 "radius": 12,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(27, 26, 87)",
+                "fillColor": "rgb(40, 19, 86)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11988,
                 "paneLabel": "pane11988",
-                "start": "2020-07-01",
+                "start": "2021-03-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    127.10332700284027,
-                    37.50771705
+                    -98.57612786342676,
+                    29.5048654
                 ]
             }
         },
@@ -144,7 +170,7 @@ var  groupauto_recent = {
                 "enrolled": 8,
                 "radius": 12,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(43, 25, 100)",
+                "fillColor": "rgb(41, 22, 92)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11988,
@@ -163,26 +189,26 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "The Use of Expandeded Mesenchymal Stromal Cells (MSC) in Premature Ovarian Failure (POF) in Adult Humans",
-                "aff": "Cell Therapy Center, University of Jordan, Amman, Jordan",
-                "url": "https://ClinicalTrials.gov/show/NCT04815213",
-                "status": "Recruiting",
-                "enrolled": 10,
-                "radius": 13,
+                "name": "Long-term Follow-up of Phase 1 Clinical Trial of CS10BR05(CS10BR05-MSA101)",
+                "aff": "Yonsei University College of Medicine, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT04495582",
+                "status": "Active, not recruiting",
+                "enrolled": 8,
+                "radius": 12,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(45, 30, 106)",
+                "fillColor": "rgb(38, 24, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
-                "zindex": 11987,
-                "paneLabel": "pane11987",
-                "start": "2020-01-01",
+                "zindex": 11988,
+                "paneLabel": "pane11988",
+                "start": "2020-07-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    35.87338209486857,
-                    32.013409249999995
+                    127.10332700284027,
+                    37.50771705
                 ]
             }
         },
@@ -196,7 +222,7 @@ var  groupauto_recent = {
                 "enrolled": 10,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(44, 21, 86)",
+                "fillColor": "rgb(37, 36, 88)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11987,
@@ -215,32 +241,6 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "The Use of Autologous Mesenchymal Stem Cell Preparation for Treatment of Refractory Migraine",
-                "aff": "Neurological Associates of West Los Angeles, Santa Monica, California, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04064879",
-                "status": "Suspended",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(33, 38, 103)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 11987,
-                "paneLabel": "pane11987",
-                "start": "2022-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.491227,
-                    34.0194704
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Treatment of Urinary Incontinence in Men After Prostatectomy With Autologous Adipose-derived Mesenchymal Stem Cells",
                 "aff": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus, Minsk, Belarus",
                 "url": "https://ClinicalTrials.gov/show/NCT04426643",
@@ -248,7 +248,7 @@ var  groupauto_recent = {
                 "enrolled": 10,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(38, 37, 97)",
+                "fillColor": "rgb(24, 33, 98)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11987,
@@ -274,7 +274,7 @@ var  groupauto_recent = {
                 "enrolled": 10,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(43, 20, 84)",
+                "fillColor": "rgb(25, 15, 97)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11987,
@@ -293,6 +293,58 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "The Use of Autologous Mesenchymal Stem Cell Preparation for Treatment of Refractory Migraine",
+                "aff": "Neurological Associates of West Los Angeles, Santa Monica, California, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04064879",
+                "status": "Suspended",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(22, 19, 89)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 11987,
+                "paneLabel": "pane11987",
+                "start": "2022-08-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.491227,
+                    34.0194704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Use of Expandeded Mesenchymal Stromal Cells (MSC) in Premature Ovarian Failure (POF) in Adult Humans",
+                "aff": "Cell Therapy Center, University of Jordan, Amman, Jordan",
+                "url": "https://ClinicalTrials.gov/show/NCT04815213",
+                "status": "Recruiting",
+                "enrolled": 10,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(34, 32, 84)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11987,
+                "paneLabel": "pane11987",
+                "start": "2020-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.87338209486857,
+                    32.013409249999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Lentiviral FVIII Gene Therapy",
                 "aff": "Shenzhen Geno-immune Medical Institute, Shenzhen, Guangdong, China",
                 "url": "https://ClinicalTrials.gov/show/NCT03217032",
@@ -300,7 +352,7 @@ var  groupauto_recent = {
                 "enrolled": 10,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(31, 21, 107)",
+                "fillColor": "rgb(29, 22, 100)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11987,
@@ -326,7 +378,7 @@ var  groupauto_recent = {
                 "enrolled": 12,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(27, 28, 86)",
+                "fillColor": "rgb(27, 26, 85)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11987,
@@ -345,6 +397,32 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Safety of Cultured Autologous Adult Adipose Derived Mesenchymal Stem Cell Intrathecal Injection for SCI",
+                "aff": "Mitera Hospital Athens Greece, Marousi, Greece",
+                "url": "https://ClinicalTrials.gov/show/NCT05018793",
+                "status": "Suspended",
+                "enrolled": 15,
+                "radius": 13,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(32, 27, 88)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 11987,
+                "paneLabel": "pane11987",
+                "start": "2021-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8081533,
+                    38.0546653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Autologous Adipose-Derived Adult Stem Cell Implantation for Corneal Diseases (ADASCs-CT-CD)",
                 "aff": "Jorge L. Alio, Alicante, Spain",
                 "url": "https://ClinicalTrials.gov/show/NCT05279157",
@@ -352,7 +430,7 @@ var  groupauto_recent = {
                 "enrolled": 15,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(46, 17, 86)",
+                "fillColor": "rgb(30, 35, 100)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11987,
@@ -378,7 +456,7 @@ var  groupauto_recent = {
                 "enrolled": 15,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 31, 106)",
+                "fillColor": "rgb(33, 29, 85)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11987,
@@ -404,7 +482,7 @@ var  groupauto_recent = {
                 "enrolled": 15,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(39, 22, 86)",
+                "fillColor": "rgb(46, 23, 92)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11987,
@@ -423,32 +501,6 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Safety of Cultured Autologous Adult Adipose Derived Mesenchymal Stem Cell Intrathecal Injection for SCI",
-                "aff": "Mitera Hospital Athens Greece, Marousi, Greece",
-                "url": "https://ClinicalTrials.gov/show/NCT05018793",
-                "status": "Suspended",
-                "enrolled": 15,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(35, 32, 89)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 11987,
-                "paneLabel": "pane11987",
-                "start": "2021-11-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.8081533,
-                    38.0546653
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Study of Mesenchymal Autologous Stem Cells as Regenerative Treatment for Multiple Sclerosis",
                 "aff": "University hospital of North Norway, Troms\u00f8, Troms Og Finnmark, Norway ",
                 "url": "https://ClinicalTrials.gov/show/NCT04749667",
@@ -456,7 +508,7 @@ var  groupauto_recent = {
                 "enrolled": 18,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 39, 89)",
+                "fillColor": "rgb(34, 34, 102)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11986,
@@ -482,7 +534,7 @@ var  groupauto_recent = {
                 "enrolled": 18,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 39, 89)",
+                "fillColor": "rgb(34, 34, 102)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11986,
@@ -508,7 +560,7 @@ var  groupauto_recent = {
                 "enrolled": 18,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 39, 89)",
+                "fillColor": "rgb(34, 34, 102)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11986,
@@ -534,7 +586,7 @@ var  groupauto_recent = {
                 "enrolled": 18,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 39, 89)",
+                "fillColor": "rgb(34, 34, 102)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11986,
@@ -553,110 +605,6 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Safety and Efficacy of Autologous Mesenchymal Stem Cells in Chronic Spinal Cord Injury",
-                "aff": "Asan medical center, Seoul, Korea, Republic of",
-                "url": "https://ClinicalTrials.gov/show/NCT01676441",
-                "status": "Terminated",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(44, 27, 103)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 11986,
-                "paneLabel": "pane11986",
-                "start": "2021-03-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.10332700284027,
-                    37.50771705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Angiographic Delivery of AD-MSC for Ulcerative Colitis",
-                "aff": "Mayo Clinic in Rochester, Rochester, Minnesota, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04312113",
-                "status": "Recruiting",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(22, 34, 104)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 11986,
-                "paneLabel": "pane11986",
-                "start": "2020-10-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -92.466607460917,
-                    44.0225389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Autogenous Mesenchymal Stem Cell Culture-Derived Signalling Molecules as Enhancers of Bone Formation in Bone Grafting",
-                "aff": "Pontificia Universidade Cat\u00f3lica do Rio Grande do Sul, Porto Alegre, RS, Brazil",
-                "url": "https://ClinicalTrials.gov/show/NCT04998058",
-                "status": "Not yet recruiting",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(47, 23, 87)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 11986,
-                "paneLabel": "pane11986",
-                "start": "2022-11-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -51.2303767,
-                    -30.0324999
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Treatment of Laryngotracheal Stenosis Using Mesenchymal Stem Cells",
-                "aff": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus, Minsk, Belarus",
-                "url": "https://ClinicalTrials.gov/show/NCT05535803",
-                "status": "Enrolling by invitation",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(34, 17, 102)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 11986,
-                "paneLabel": "pane11986",
-                "start": "2021-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.5618225,
-                    53.9024716
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Treatment of Recurrent Pregnancy Loss Using Mesenchymal Stem Cells",
                 "aff": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus, Minsk, Belarus",
                 "url": "https://ClinicalTrials.gov/show/NCT05520112",
@@ -664,7 +612,7 @@ var  groupauto_recent = {
                 "enrolled": 20,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(27, 30, 84)",
+                "fillColor": "rgb(39, 19, 95)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11986,
@@ -683,6 +631,110 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Angiographic Delivery of AD-MSC for Ulcerative Colitis",
+                "aff": "Mayo Clinic in Rochester, Rochester, Minnesota, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04312113",
+                "status": "Recruiting",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(44, 20, 94)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11986,
+                "paneLabel": "pane11986",
+                "start": "2020-10-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.466607460917,
+                    44.0225389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clinical Study on Autologous Stromal Vascular Fraction(SVF) Treatment for Refractory Benign Airway Stenosis and Respiratory Tract Fistula",
+                "aff": "Guangzhou Institute of Respiratory Disease, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China",
+                "url": "https://ClinicalTrials.gov/show/NCT05270850",
+                "status": "Recruiting",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(30, 29, 90)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11986,
+                "paneLabel": "pane11986",
+                "start": "2022-03-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2592945,
+                    23.1301964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Autologous Fat Grafting in the Treatment of Critical Limb Ischaemia",
+                "aff": "Fondazione IRCCS Ca' Granda Ospedale Maggiore di Milano, Milan, Italy",
+                "url": "https://ClinicalTrials.gov/show/NCT04746599",
+                "status": "Recruiting",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(47, 25, 107)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11986,
+                "paneLabel": "pane11986",
+                "start": "2021-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1896346,
+                    45.4641943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Autogenous Mesenchymal Stem Cell Culture-Derived Signalling Molecules as Enhancers of Bone Formation in Bone Grafting",
+                "aff": "Pontificia Universidade Cat\u00f3lica do Rio Grande do Sul, Porto Alegre, RS, Brazil",
+                "url": "https://ClinicalTrials.gov/show/NCT04998058",
+                "status": "Not yet recruiting",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(32, 27, 104)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 11986,
+                "paneLabel": "pane11986",
+                "start": "2022-11-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.2303767,
+                    -30.0324999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "ATCell\u2122 Expanded Autologous, Adipose-Derived Mesenchymal Stem Cells Deployed Via Intravenous Infusion",
                 "aff": "BioSolutions Clinical Research Center, La Mesa, California, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT04744051",
@@ -690,7 +742,7 @@ var  groupauto_recent = {
                 "enrolled": 20,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(33, 21, 98)",
+                "fillColor": "rgb(35, 27, 106)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11986,
@@ -709,6 +761,58 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Treatment of Laryngotracheal Stenosis Using Mesenchymal Stem Cells",
+                "aff": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus, Minsk, Belarus",
+                "url": "https://ClinicalTrials.gov/show/NCT05535803",
+                "status": "Enrolling by invitation",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(23, 18, 91)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11986,
+                "paneLabel": "pane11986",
+                "start": "2021-06-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5618225,
+                    53.9024716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safety and Efficacy of Autologous Mesenchymal Stem Cells in Chronic Spinal Cord Injury",
+                "aff": "Asan medical center, Seoul, Korea, Republic of",
+                "url": "https://ClinicalTrials.gov/show/NCT01676441",
+                "status": "Terminated",
+                "enrolled": 20,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(25, 28, 105)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
+                "zindex": 11986,
+                "paneLabel": "pane11986",
+                "start": "2021-03-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.10332700284027,
+                    37.50771705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Investigator Initiated Trial to Evaluate Cartilage Regeneration by Arthroscopy After JOINTSTEM Administration",
                 "aff": "Bethesda Hospital, Yangsan, Korea, Republic of",
                 "url": "https://ClinicalTrials.gov/show/NCT04821102",
@@ -716,7 +820,7 @@ var  groupauto_recent = {
                 "enrolled": 21,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(29, 14, 90)",
+                "fillColor": "rgb(25, 32, 87)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11986,
@@ -735,58 +839,6 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "A Clinical Trial to Determine the Safety and Efficacy of Hope Biosciences Autologous Mesenchymal Stem Cell Therapy for the Treatment of Traumatic Brain Injury and Hypoxic-Ischemic Encephalopathy",
-                "aff": "Memorial Hermann Hospital-Clinical Research Unit (MMH-CRU), Houston, Texas, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04063215",
-                "status": "Active, not recruiting",
-                "enrolled": 24,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(41, 24, 88)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 11986,
-                "paneLabel": "pane11986",
-                "start": "2020-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.3676974,
-                    29.7589382
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Randomized, Double-Blind Clinical Trial for Parkinson's Disease (Early and Moderate)",
-                "aff": "Hope Biosciences Stem Cell Research Foundation, Sugar Land, Texas, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04928287",
-                "status": "Active, not recruiting",
-                "enrolled": 24,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(35, 20, 92)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 11986,
-                "paneLabel": "pane11986",
-                "start": "2021-06-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.6349463,
-                    29.6196787
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Randomized Double-Blind Phase 2 Efficacy and Safety of Autologous HB-MSCs vs Placebo for Treatment of Multiple Sclerosis",
                 "aff": "Hope Biosciences Stem Cell Research Foundation, Sugar Land, Texas, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT05116540",
@@ -794,7 +846,7 @@ var  groupauto_recent = {
                 "enrolled": 24,
                 "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(22, 23, 86)",
+                "fillColor": "rgb(23, 18, 100)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11986,
@@ -813,26 +865,52 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Treatment of Osteoarthritis of the Hip Joint With Intra-articular Injection of Microfractured Autologous Adipose Tissue Containing Mesenchymal Stromal Cells.",
-                "aff": "Istituto Ortopedico Rizzoli, Bologna, Italy",
-                "url": "https://ClinicalTrials.gov/show/NCT05465096",
-                "status": "Not yet recruiting",
-                "enrolled": 30,
-                "radius": 15,
+                "name": "Randomized, Double-Blind Clinical Trial for Parkinson's Disease (Early and Moderate)",
+                "aff": "Hope Biosciences Stem Cell Research Foundation, Sugar Land, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04928287",
+                "status": "Active, not recruiting",
+                "enrolled": 24,
+                "radius": 14,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(23, 35, 89)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 11985,
-                "paneLabel": "pane11985",
-                "start": "2022-08-01",
+                "fillColor": "rgb(25, 34, 95)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11986,
+                "paneLabel": "pane11986",
+                "start": "2021-06-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.34221004298334,
-                    44.4801908
+                    -95.6349463,
+                    29.6196787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Clinical Trial to Determine the Safety and Efficacy of Hope Biosciences Autologous Mesenchymal Stem Cell Therapy for the Treatment of Traumatic Brain Injury and Hypoxic-Ischemic Encephalopathy",
+                "aff": "Memorial Hermann Hospital-Clinical Research Unit (MMH-CRU), Houston, Texas, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04063215",
+                "status": "Active, not recruiting",
+                "enrolled": 24,
+                "radius": 14,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(47, 18, 106)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11986,
+                "paneLabel": "pane11986",
+                "start": "2020-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3676974,
+                    29.7589382
                 ]
             }
         },
@@ -846,7 +924,7 @@ var  groupauto_recent = {
                 "enrolled": 30,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(35, 20, 95)",
+                "fillColor": "rgb(41, 16, 94)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11985,
@@ -865,16 +943,16 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Microneedle Versus Fractional CO\u2082 Laser for Skin Aging Treatment With Stem Cell Secretome in Indonesian Adult Women",
-                "aff": "Faculty of Medicine, Universitas Indonesia, Jakarta Pusat, DKI Jakarta, Indonesia",
-                "url": "https://ClinicalTrials.gov/show/NCT05508191",
-                "status": "Active, not recruiting",
+                "name": "Treatment of Osteoarthritis of the Hip Joint With Intra-articular Injection of Microfractured Autologous Adipose Tissue Containing Mesenchymal Stromal Cells.",
+                "aff": "Istituto Ortopedico Rizzoli, Bologna, Italy",
+                "url": "https://ClinicalTrials.gov/show/NCT05465096",
+                "status": "Not yet recruiting",
                 "enrolled": 30,
                 "radius": 15,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(28, 16, 105)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
+                "fillColor": "rgb(22, 31, 96)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
                 "zindex": 11985,
                 "paneLabel": "pane11985",
                 "start": "2022-08-01",
@@ -883,8 +961,8 @@ var  groupauto_recent = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    106.84766448412446,
-                    -6.19404975
+                    11.34221004298334,
+                    44.4801908
                 ]
             }
         },
@@ -898,7 +976,7 @@ var  groupauto_recent = {
                 "enrolled": 36,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(22, 38, 91)",
+                "fillColor": "rgb(38, 28, 101)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11984,
@@ -924,7 +1002,7 @@ var  groupauto_recent = {
                 "enrolled": 36,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(22, 38, 91)",
+                "fillColor": "rgb(38, 28, 101)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11984,
@@ -950,7 +1028,7 @@ var  groupauto_recent = {
                 "enrolled": 36,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(22, 38, 91)",
+                "fillColor": "rgb(38, 28, 101)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11984,
@@ -969,26 +1047,26 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Autologous Adipose Derived Mesenchymal Stem Cells for Spinal Cord Injury Patients",
-                "aff": "Mayo Clinic in Rochester, Rochester, Minnesota, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04520373",
-                "status": "Recruiting",
-                "enrolled": 40,
+                "name": "INNOVATIVE TREATMENT OF SCARRED VOCAL FOLDS BY LOCAL INJECTION OF AUTOLOGOUS ADIPOSE-DERIVED STROMAL VASCULAR FRACTION: EFFICACY VERSUS PLACEBO",
+                "aff": "Assistance Publique Hopitaux de Marseille, Marseille, Paca, France",
+                "url": "https://ClinicalTrials.gov/show/NCT05385159",
+                "status": "Not yet recruiting",
+                "enrolled": 36,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(29, 34, 103)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
+                "fillColor": "rgb(39, 27, 91)",
+                "opacity": 0.4,
+                "fillOpacity": 0.4,
                 "zindex": 11984,
                 "paneLabel": "pane11984",
-                "start": "2020-06-01",
+                "start": "2022-08-01",
                 "end": "2023-09-30"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -92.466607460917,
-                    44.0225389
+                    5.366159439195688,
+                    43.23434295
                 ]
             }
         },
@@ -1002,7 +1080,7 @@ var  groupauto_recent = {
                 "enrolled": 40,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(44, 21, 107)",
+                "fillColor": "rgb(23, 27, 102)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11984,
@@ -1021,6 +1099,32 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Autologous Adipose Derived Mesenchymal Stem Cells for Spinal Cord Injury Patients",
+                "aff": "Mayo Clinic in Rochester, Rochester, Minnesota, United States",
+                "url": "https://ClinicalTrials.gov/show/NCT04520373",
+                "status": "Recruiting",
+                "enrolled": 40,
+                "radius": 16,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(40, 16, 88)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11984,
+                "paneLabel": "pane11984",
+                "start": "2020-06-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.466607460917,
+                    44.0225389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Autologous Mesenchymal Stromal Cells and Islet Co-transplantation in TP-IAT",
                 "aff": "Medical University of South Carolina, Charleston, South Carolina, United States",
                 "url": "https://ClinicalTrials.gov/show/NCT05095532",
@@ -1028,7 +1132,7 @@ var  groupauto_recent = {
                 "enrolled": 42,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(29, 22, 106)",
+                "fillColor": "rgb(36, 29, 97)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11984,
@@ -1054,7 +1158,7 @@ var  groupauto_recent = {
                 "enrolled": 43,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(22, 36, 104)",
+                "fillColor": "rgb(39, 21, 89)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11984,
@@ -1080,7 +1184,7 @@ var  groupauto_recent = {
                 "enrolled": 43,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(22, 36, 104)",
+                "fillColor": "rgb(39, 21, 89)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11984,
@@ -1106,7 +1210,7 @@ var  groupauto_recent = {
                 "enrolled": 43,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(22, 36, 104)",
+                "fillColor": "rgb(39, 21, 89)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11984,
@@ -1132,7 +1236,7 @@ var  groupauto_recent = {
                 "enrolled": 52,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(22, 32, 101)",
+                "fillColor": "rgb(30, 24, 94)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -1158,7 +1262,7 @@ var  groupauto_recent = {
                 "enrolled": 52,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(32, 18, 107)",
+                "fillColor": "rgb(39, 31, 102)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -1184,7 +1288,7 @@ var  groupauto_recent = {
                 "enrolled": 54,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(40, 24, 96)",
+                "fillColor": "rgb(36, 37, 95)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -1210,7 +1314,7 @@ var  groupauto_recent = {
                 "enrolled": 54,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(40, 24, 96)",
+                "fillColor": "rgb(36, 37, 95)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -1236,7 +1340,7 @@ var  groupauto_recent = {
                 "enrolled": 54,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(40, 24, 96)",
+                "fillColor": "rgb(36, 37, 95)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -1262,7 +1366,7 @@ var  groupauto_recent = {
                 "enrolled": 56,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(38, 21, 92)",
+                "fillColor": "rgb(34, 33, 95)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -1288,7 +1392,7 @@ var  groupauto_recent = {
                 "enrolled": 60,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(43, 29, 107)",
+                "fillColor": "rgb(34, 35, 98)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -1314,7 +1418,7 @@ var  groupauto_recent = {
                 "enrolled": 60,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(30, 17, 105)",
+                "fillColor": "rgb(34, 32, 88)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -1340,7 +1444,7 @@ var  groupauto_recent = {
                 "enrolled": 60,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(30, 17, 105)",
+                "fillColor": "rgb(34, 32, 88)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -1366,7 +1470,7 @@ var  groupauto_recent = {
                 "enrolled": 60,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(30, 17, 105)",
+                "fillColor": "rgb(34, 32, 88)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -1392,7 +1496,7 @@ var  groupauto_recent = {
                 "enrolled": 60,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(30, 17, 105)",
+                "fillColor": "rgb(34, 32, 88)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -1418,7 +1522,7 @@ var  groupauto_recent = {
                 "enrolled": 60,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(30, 17, 105)",
+                "fillColor": "rgb(34, 32, 88)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11983,
@@ -1444,7 +1548,7 @@ var  groupauto_recent = {
                 "enrolled": 76,
                 "radius": 18,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(47, 35, 108)",
+                "fillColor": "rgb(27, 32, 95)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11982,
@@ -1470,38 +1574,12 @@ var  groupauto_recent = {
                 "enrolled": 86,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(45, 17, 96)",
+                "fillColor": "rgb(23, 32, 90)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11981,
                 "paneLabel": "pane11981",
                 "start": "2020-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    36.2310146,
-                    49.9923181
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Longterm Follow-up of Subjects With Diabetes 2 Type Treatment With ex Vivo Gene Therapy",
-                "aff": "Institute of Bio-Stem Cell Rehabilitation, Kharkov, Ukraine",
-                "url": "https://ClinicalTrials.gov/show/NCT04642911",
-                "status": "Active, not recruiting",
-                "enrolled": 91,
-                "radius": 19,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(39, 23, 92)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 11981,
-                "paneLabel": "pane11981",
-                "start": "2020-09-01",
                 "end": "2023-09-30"
             },
             "geometry": {
@@ -1522,7 +1600,7 @@ var  groupauto_recent = {
                 "enrolled": 99,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 31, 100)",
+                "fillColor": "rgb(36, 27, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11981,
@@ -1548,7 +1626,7 @@ var  groupauto_recent = {
                 "enrolled": 99,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 31, 100)",
+                "fillColor": "rgb(36, 27, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11981,
@@ -1574,7 +1652,7 @@ var  groupauto_recent = {
                 "enrolled": 99,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 31, 100)",
+                "fillColor": "rgb(36, 27, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11981,
@@ -1600,7 +1678,7 @@ var  groupauto_recent = {
                 "enrolled": 99,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 31, 100)",
+                "fillColor": "rgb(36, 27, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11981,
@@ -1626,7 +1704,7 @@ var  groupauto_recent = {
                 "enrolled": 99,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 31, 100)",
+                "fillColor": "rgb(36, 27, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11981,
@@ -1652,7 +1730,7 @@ var  groupauto_recent = {
                 "enrolled": 99,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 31, 100)",
+                "fillColor": "rgb(36, 27, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11981,
@@ -1678,7 +1756,7 @@ var  groupauto_recent = {
                 "enrolled": 99,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 31, 100)",
+                "fillColor": "rgb(36, 27, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11981,
@@ -1704,7 +1782,7 @@ var  groupauto_recent = {
                 "enrolled": 99,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 31, 100)",
+                "fillColor": "rgb(36, 27, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11981,
@@ -1730,7 +1808,7 @@ var  groupauto_recent = {
                 "enrolled": 99,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 31, 100)",
+                "fillColor": "rgb(36, 27, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11981,
@@ -1756,7 +1834,7 @@ var  groupauto_recent = {
                 "enrolled": 99,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 31, 100)",
+                "fillColor": "rgb(36, 27, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11981,
@@ -1782,7 +1860,7 @@ var  groupauto_recent = {
                 "enrolled": 99,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 31, 100)",
+                "fillColor": "rgb(36, 27, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11981,
@@ -1808,7 +1886,7 @@ var  groupauto_recent = {
                 "enrolled": 99,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 31, 100)",
+                "fillColor": "rgb(36, 27, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11981,
@@ -1834,7 +1912,7 @@ var  groupauto_recent = {
                 "enrolled": 99,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 31, 100)",
+                "fillColor": "rgb(36, 27, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11981,
@@ -1860,7 +1938,7 @@ var  groupauto_recent = {
                 "enrolled": 99,
                 "radius": 19,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 31, 100)",
+                "fillColor": "rgb(36, 27, 96)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11981,
@@ -1886,7 +1964,7 @@ var  groupauto_recent = {
                 "enrolled": 106,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(27, 26, 83)",
+                "fillColor": "rgb(41, 34, 86)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11980,
@@ -1912,7 +1990,7 @@ var  groupauto_recent = {
                 "enrolled": 115,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(46, 34, 98)",
+                "fillColor": "rgb(46, 24, 92)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11980,
@@ -1938,7 +2016,7 @@ var  groupauto_recent = {
                 "enrolled": 115,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(46, 34, 98)",
+                "fillColor": "rgb(46, 24, 92)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11980,
@@ -1964,7 +2042,7 @@ var  groupauto_recent = {
                 "enrolled": 115,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(46, 34, 98)",
+                "fillColor": "rgb(46, 24, 92)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11980,
@@ -1990,7 +2068,7 @@ var  groupauto_recent = {
                 "enrolled": 115,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(46, 34, 98)",
+                "fillColor": "rgb(46, 24, 92)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11980,
@@ -2016,7 +2094,7 @@ var  groupauto_recent = {
                 "enrolled": 115,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(46, 34, 98)",
+                "fillColor": "rgb(46, 24, 92)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11980,
@@ -2042,7 +2120,7 @@ var  groupauto_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(41, 35, 105)",
+                "fillColor": "rgb(40, 37, 97)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11980,
@@ -2068,7 +2146,7 @@ var  groupauto_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(41, 35, 105)",
+                "fillColor": "rgb(40, 37, 97)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11980,
@@ -2094,7 +2172,7 @@ var  groupauto_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(41, 35, 105)",
+                "fillColor": "rgb(40, 37, 97)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11980,
@@ -2120,7 +2198,7 @@ var  groupauto_recent = {
                 "enrolled": 129,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(37, 24, 91)",
+                "fillColor": "rgb(36, 28, 86)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -2146,7 +2224,7 @@ var  groupauto_recent = {
                 "enrolled": 129,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(37, 24, 91)",
+                "fillColor": "rgb(36, 28, 86)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -2172,7 +2250,7 @@ var  groupauto_recent = {
                 "enrolled": 129,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(37, 24, 91)",
+                "fillColor": "rgb(36, 28, 86)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -2198,7 +2276,7 @@ var  groupauto_recent = {
                 "enrolled": 129,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(37, 24, 91)",
+                "fillColor": "rgb(36, 28, 86)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -2224,7 +2302,7 @@ var  groupauto_recent = {
                 "enrolled": 140,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(33, 31, 95)",
+                "fillColor": "rgb(22, 24, 103)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -2250,7 +2328,7 @@ var  groupauto_recent = {
                 "enrolled": 140,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(33, 31, 95)",
+                "fillColor": "rgb(22, 24, 103)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -2276,7 +2354,7 @@ var  groupauto_recent = {
                 "enrolled": 140,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(33, 31, 95)",
+                "fillColor": "rgb(22, 24, 103)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -2302,7 +2380,7 @@ var  groupauto_recent = {
                 "enrolled": 140,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(33, 31, 95)",
+                "fillColor": "rgb(22, 24, 103)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -2328,7 +2406,7 @@ var  groupauto_recent = {
                 "enrolled": 140,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(33, 31, 95)",
+                "fillColor": "rgb(22, 24, 103)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -2354,7 +2432,7 @@ var  groupauto_recent = {
                 "enrolled": 140,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(33, 31, 95)",
+                "fillColor": "rgb(22, 24, 103)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -2380,7 +2458,7 @@ var  groupauto_recent = {
                 "enrolled": 140,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(33, 31, 95)",
+                "fillColor": "rgb(22, 24, 103)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11979,
@@ -2406,7 +2484,7 @@ var  groupauto_recent = {
                 "enrolled": 150,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(30, 30, 87)",
+                "fillColor": "rgb(26, 33, 89)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11978,
@@ -2432,7 +2510,7 @@ var  groupauto_recent = {
                 "enrolled": 150,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(30, 30, 87)",
+                "fillColor": "rgb(26, 33, 89)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11978,
@@ -2458,7 +2536,7 @@ var  groupauto_recent = {
                 "enrolled": 150,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(30, 30, 87)",
+                "fillColor": "rgb(26, 33, 89)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11978,
@@ -2484,7 +2562,7 @@ var  groupauto_recent = {
                 "enrolled": 150,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(30, 30, 87)",
+                "fillColor": "rgb(26, 33, 89)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11978,
@@ -2510,7 +2588,7 @@ var  groupauto_recent = {
                 "enrolled": 150,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(30, 30, 87)",
+                "fillColor": "rgb(26, 33, 89)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11978,
@@ -2536,7 +2614,7 @@ var  groupauto_recent = {
                 "enrolled": 150,
                 "radius": 22,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(30, 30, 87)",
+                "fillColor": "rgb(26, 33, 89)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11978,
@@ -2555,6 +2633,32 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
+                "name": "Clinical Trial to Evaluate Safety and Efficacy of MesoCellA-Ortho Tissue-Engineered Advanced Therapy Product in Patients With Osteoarthrosis and Civilisation Diseases",
+                "aff": "Galen - Ortopedia Sp. Z O.O., Bieru\u0144, Silesia, Poland",
+                "url": "https://ClinicalTrials.gov/show/NCT05081921",
+                "status": "Recruiting",
+                "enrolled": 200,
+                "radius": 24,
+                "color": "rgb(100, 100, 100)",
+                "fillColor": "rgb(26, 15, 101)",
+                "opacity": 0.8,
+                "fillOpacity": 0.8,
+                "zindex": 11976,
+                "paneLabel": "pane11976",
+                "start": "2022-01-01",
+                "end": "2023-09-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2343995,
+                    50.5687422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Clinical Trial to Evaluate the Efficacy and Safety of Cellgram-LC Administration in Patients With Alcoholic Cirrhosis",
                 "aff": "Soonchunhyang University Hospital, Bucheon, Korea, Republic of ",
                 "url": "https://ClinicalTrials.gov/show/NCT04689152",
@@ -2562,7 +2666,7 @@ var  groupauto_recent = {
                 "enrolled": 200,
                 "radius": 24,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(41, 36, 92)",
+                "fillColor": "rgb(34, 19, 98)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11976,
@@ -2588,7 +2692,7 @@ var  groupauto_recent = {
                 "enrolled": 200,
                 "radius": 24,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(41, 36, 92)",
+                "fillColor": "rgb(34, 19, 98)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11976,
@@ -2614,7 +2718,7 @@ var  groupauto_recent = {
                 "enrolled": 200,
                 "radius": 24,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(41, 36, 92)",
+                "fillColor": "rgb(34, 19, 98)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11976,
@@ -2640,7 +2744,7 @@ var  groupauto_recent = {
                 "enrolled": 200,
                 "radius": 24,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(41, 36, 92)",
+                "fillColor": "rgb(34, 19, 98)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11976,
@@ -2666,7 +2770,7 @@ var  groupauto_recent = {
                 "enrolled": 200,
                 "radius": 24,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(41, 36, 92)",
+                "fillColor": "rgb(34, 19, 98)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11976,
@@ -2692,7 +2796,7 @@ var  groupauto_recent = {
                 "enrolled": 200,
                 "radius": 24,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(41, 36, 92)",
+                "fillColor": "rgb(34, 19, 98)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11976,
@@ -2718,7 +2822,7 @@ var  groupauto_recent = {
                 "enrolled": 200,
                 "radius": 24,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(41, 36, 92)",
+                "fillColor": "rgb(34, 19, 98)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11976,
@@ -2744,7 +2848,7 @@ var  groupauto_recent = {
                 "enrolled": 200,
                 "radius": 24,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(41, 36, 92)",
+                "fillColor": "rgb(34, 19, 98)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11976,
@@ -2770,7 +2874,7 @@ var  groupauto_recent = {
                 "enrolled": 200,
                 "radius": 24,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(41, 36, 92)",
+                "fillColor": "rgb(34, 19, 98)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11976,
@@ -2796,7 +2900,7 @@ var  groupauto_recent = {
                 "enrolled": 200,
                 "radius": 24,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(41, 36, 92)",
+                "fillColor": "rgb(34, 19, 98)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11976,
@@ -2822,7 +2926,7 @@ var  groupauto_recent = {
                 "enrolled": 200,
                 "radius": 24,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(41, 36, 92)",
+                "fillColor": "rgb(34, 19, 98)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11976,
@@ -2841,32 +2945,6 @@ var  groupauto_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Clinical Trial to Evaluate Safety and Efficacy of MesoCellA-Ortho Tissue-Engineered Advanced Therapy Product in Patients With Osteoarthrosis and Civilisation Diseases",
-                "aff": "Galen - Ortopedia Sp. Z O.O., Bieru\u0144, Silesia, Poland",
-                "url": "https://ClinicalTrials.gov/show/NCT05081921",
-                "status": "Recruiting",
-                "enrolled": 200,
-                "radius": 24,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(30, 37, 90)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 11976,
-                "paneLabel": "pane11976",
-                "start": "2022-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.2343995,
-                    50.5687422
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Treatment of Cartilage Defects With Peripheral Blood Stem Cells",
                 "aff": "Institute of Sports Medicine, Peking University Third Hospital, Beijing, Beijing, China",
                 "url": "https://ClinicalTrials.gov/show/NCT04953572",
@@ -2874,7 +2952,7 @@ var  groupauto_recent = {
                 "enrolled": 252,
                 "radius": 25,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(47, 33, 83)",
+                "fillColor": "rgb(42, 26, 96)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11975,
@@ -2900,7 +2978,7 @@ var  groupauto_recent = {
                 "enrolled": 263,
                 "radius": 26,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(35, 23, 85)",
+                "fillColor": "rgb(46, 20, 100)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11974,
@@ -2926,7 +3004,7 @@ var  groupauto_recent = {
                 "enrolled": 263,
                 "radius": 26,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(35, 23, 85)",
+                "fillColor": "rgb(46, 20, 100)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11974,
@@ -2952,7 +3030,7 @@ var  groupauto_recent = {
                 "enrolled": 263,
                 "radius": 26,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(35, 23, 85)",
+                "fillColor": "rgb(46, 20, 100)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11974,
@@ -2978,7 +3056,7 @@ var  groupauto_recent = {
                 "enrolled": 263,
                 "radius": 26,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(35, 23, 85)",
+                "fillColor": "rgb(46, 20, 100)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11974,
@@ -3004,7 +3082,7 @@ var  groupauto_recent = {
                 "enrolled": 263,
                 "radius": 26,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(35, 23, 85)",
+                "fillColor": "rgb(46, 20, 100)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11974,
@@ -3030,7 +3108,7 @@ var  groupauto_recent = {
                 "enrolled": 263,
                 "radius": 26,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(35, 23, 85)",
+                "fillColor": "rgb(46, 20, 100)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11974,
@@ -3056,7 +3134,7 @@ var  groupauto_recent = {
                 "enrolled": 300,
                 "radius": 27,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(30, 31, 87)",
+                "fillColor": "rgb(41, 38, 92)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11973,
@@ -3082,7 +3160,7 @@ var  groupauto_recent = {
                 "enrolled": 0,
                 "radius": 10,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(40, 37, 105)",
+                "fillColor": "rgb(41, 21, 88)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11990,
@@ -3108,7 +3186,7 @@ var  groupauto_recent = {
                 "enrolled": 0,
                 "radius": 10,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(37, 30, 99)",
+                "fillColor": "rgb(42, 32, 90)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11990,
@@ -3134,7 +3212,7 @@ var  groupauto_recent = {
                 "enrolled": 0,
                 "radius": 10,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(40, 22, 108)",
+                "fillColor": "rgb(33, 36, 85)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11990,
@@ -3160,7 +3238,7 @@ var  groupauto_recent = {
                 "enrolled": 0,
                 "radius": 10,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(26, 36, 96)",
+                "fillColor": "rgb(23, 29, 108)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11990,
@@ -3186,7 +3264,7 @@ var  groupauto_recent = {
                 "enrolled": 0,
                 "radius": 10,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(36, 35, 90)",
+                "fillColor": "rgb(37, 30, 88)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11990,
@@ -3212,7 +3290,7 @@ var  groupauto_recent = {
                 "enrolled": 0,
                 "radius": 10,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(36, 35, 90)",
+                "fillColor": "rgb(37, 30, 88)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11990,
@@ -3238,7 +3316,7 @@ var  groupauto_recent = {
                 "enrolled": 0,
                 "radius": 10,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(36, 35, 90)",
+                "fillColor": "rgb(37, 30, 88)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11990,
@@ -3264,7 +3342,7 @@ var  groupauto_recent = {
                 "enrolled": 0,
                 "radius": 10,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(36, 35, 90)",
+                "fillColor": "rgb(37, 30, 88)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11990,
@@ -3290,7 +3368,7 @@ var  groupauto_recent = {
                 "enrolled": 0,
                 "radius": 10,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(36, 35, 90)",
+                "fillColor": "rgb(37, 30, 88)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11990,
@@ -3316,7 +3394,7 @@ var  groupauto_recent = {
                 "enrolled": 0,
                 "radius": 10,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(45, 25, 86)",
+                "fillColor": "rgb(35, 19, 87)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11990,
@@ -3342,7 +3420,7 @@ var  groupauto_recent = {
                 "enrolled": 0,
                 "radius": 10,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(37, 26, 99)",
+                "fillColor": "rgb(32, 30, 101)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 11990,
@@ -3368,7 +3446,7 @@ var  groupauto_recent = {
                 "enrolled": 0,
                 "radius": 10,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(35, 17, 87)",
+                "fillColor": "rgb(30, 22, 108)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11990,
@@ -3394,7 +3472,7 @@ var  groupauto_recent = {
                 "enrolled": 0,
                 "radius": 10,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(39, 36, 100)",
+                "fillColor": "rgb(28, 16, 104)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11990,
@@ -3420,7 +3498,7 @@ var  groupauto_recent = {
                 "enrolled": 0,
                 "radius": 10,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(31, 19, 105)",
+                "fillColor": "rgb(35, 15, 90)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11990,
@@ -3446,7 +3524,7 @@ var  groupauto_recent = {
                 "enrolled": 0,
                 "radius": 10,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(42, 19, 91)",
+                "fillColor": "rgb(38, 38, 94)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 11990,

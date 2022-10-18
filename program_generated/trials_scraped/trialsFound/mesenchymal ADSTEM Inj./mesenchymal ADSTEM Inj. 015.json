@@ -1,0 +1,121 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:12 23:20:22.323",
+            "Expression": "mesenchymal ADSTEM Inj.",
+            "NStudiesAvail": 430639,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "Acronym",
+                  "AgreementOtherDetails",
+                  "AgreementPISponsorEmployee",
+                  "AgreementRestrictionType",
+                  "AgreementRestrictiveAgreement",
+                  "ArmGroupDescription",
+                  "ArmGroupInterventionName",
+                  "ArmGroupLabel",
+                  "ArmGroupType",
+                  "AvailIPDComment",
+                  "AvailIPDId",
+                  "AvailIPDType",
+                  "AvailIPDURL",
+                  "BaselineCategoryTitle",
+                  "BaselineClassDenomCountGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "ADSTEM Inj. 1.0x10^8 mesenchymal stem cells as an intravenous infusion once for the duration of the study.\nADSTEM Inj. 3.0x10^8 mesenchymal stem cells as an intravenous infusion once for the duration of the study."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: ADSTEM Inj. (Adult human mesenchymal stem cells)"
+                        ],
+                        "ArmGroupLabel": [
+                              "intervention: Biological: ADSTEM Inj."
+                        ],
+                        "ArmGroupType": [
+                              "Experimental"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT02888704"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "Participants in Phase I clinical trials treated with ADSTEM Inj."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Drug: ADSTEM Inj."
+                        ],
+                        "ArmGroupLabel": [
+                              "Drug: ADSTEM Inj."
+                        ],
+                        "ArmGroupType": [],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT03252340"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "Acronym": [],
+                        "AgreementOtherDetails": [],
+                        "AgreementPISponsorEmployee": [],
+                        "AgreementRestrictionType": [],
+                        "AgreementRestrictiveAgreement": [],
+                        "ArmGroupDescription": [
+                              "ADSTEM Inj. hAD-MSC 1.0x10^8 cells",
+                              "0.9% Normal Saline Inj."
+                        ],
+                        "ArmGroupInterventionName": [
+                              "Biological: ADSTEM Inj.",
+                              "Other: Placebo"
+                        ],
+                        "ArmGroupLabel": [
+                              "ADSTEM Inj.",
+                              "Placebo"
+                        ],
+                        "ArmGroupType": [
+                              "Experimental",
+                              "Placebo Comparator"
+                        ],
+                        "AvailIPDComment": [],
+                        "AvailIPDId": [],
+                        "AvailIPDType": [],
+                        "AvailIPDURL": [],
+                        "BaselineCategoryTitle": [],
+                        "BaselineClassDenomCountGroupId": [],
+                        "NCTId": [
+                              "NCT04137562"
+                        ]
+                  }
+            ]
+      }
+}

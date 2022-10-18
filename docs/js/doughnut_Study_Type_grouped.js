@@ -72,11 +72,11 @@ const config_Study_Type_grouped = {
             {
                 "label": "undeclared_count",
                 "data": [
-                    187,
+                    186,
                     24,
                     0,
-                    12,
-                    10,
+                    11,
+                    9,
                     0
                 ],
                 "backgroundColor": [

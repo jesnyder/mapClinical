@@ -1,0 +1,94 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:12 23:20:22.323",
+            "Expression": "mesenchymal allo-APZ2-EB",
+            "NStudiesAvail": 430639,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "PrimaryOutcomeTimeFrame",
+                  "ReferenceCitation",
+                  "ReferencePMID",
+                  "ReferenceType",
+                  "RemovedCountry",
+                  "ResponsiblePartyInvestigatorAffiliation",
+                  "ResponsiblePartyInvestigatorFullName",
+                  "ResponsiblePartyInvestigatorTitle",
+                  "ResponsiblePartyOldNameTitle",
+                  "ResponsiblePartyOldOrganization",
+                  "ResponsiblePartyType",
+                  "ResultsFirstPostDate",
+                  "ResultsFirstPostDateType",
+                  "ResultsFirstPostedQCCommentsDate",
+                  "ResultsFirstPostedQCCommentsDateType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "PrimaryOutcomeTimeFrame": [
+                              "Week 12 post baseline, or last available post-baseline measurement if the Week 12 measurement is missing (last observation carried forward [LOCF])",
+                              "Up to 24 months"
+                        ],
+                        "ReferenceCitation": [
+                              "Kiritsi D, Dieter K, Niebergall-Roth E, Fluhr S, Daniele C, Esterlechner J, Sadeghi S, Ballikaya S, Erdinger L, Schauer F, Gewert S, Laimer M, Bauer JW, Hovnanian A, Zambruno G, El Hachem M, Bourrat E, Papanikolaou M, Petrof G, Kitzm\u00fcller S, Ebens CL, Frank MH, Frank NY, Ganss C, Martinez AE, McGrath JA, Tolar J, Kluth MA. Clinical trial of ABCB5+ mesenchymal stem cells for recessive dystrophic epidermolysis bullosa. JCI Insight. 2021 Nov 22;6(22). pii: e151922. doi: 10.1172/jci.insight.151922.",
+                              "Kerstan A, Niebergall-Roth E, Esterlechner J, Schr\u00f6der HM, Gasser M, Waaga-Gasser AM, Goebeler M, Rak K, Schr\u00fcfer P, Endres S, Hagenbusch P, Kraft K, Dieter K, Ballikaya S, Stemler N, Sadeghi S, Tappenbeck N, Murphy GF, Orgill DP, Frank NY, Ganss C, Scharffetter-Kochanek K, Frank MH, Kluth MA. Ex vivo-expanded highly pure ABCB5(+) mesenchymal stromal cells as Good Manufacturing Practice-compliant autologous advanced therapy medicinal product for clinical use: process validation and first in-human data. Cytotherapy. 2021 Feb;23(2):165-175. doi: 10.1016/j.jcyt.2020.08.012. Epub 2020 Oct 1."
+                        ],
+                        "ReferencePMID": [
+                              "34665781",
+                              "33011075"
+                        ],
+                        "ReferenceType": [
+                              "derived",
+                              "derived"
+                        ],
+                        "RemovedCountry": [
+                              "Italy"
+                        ],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT03529877"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "PrimaryOutcomeTimeFrame": [
+                              "6 months"
+                        ],
+                        "ReferenceCitation": [],
+                        "ReferencePMID": [],
+                        "ReferenceType": [],
+                        "RemovedCountry": [],
+                        "ResponsiblePartyInvestigatorAffiliation": [],
+                        "ResponsiblePartyInvestigatorFullName": [],
+                        "ResponsiblePartyInvestigatorTitle": [],
+                        "ResponsiblePartyOldNameTitle": [],
+                        "ResponsiblePartyOldOrganization": [],
+                        "ResponsiblePartyType": [
+                              "Sponsor"
+                        ],
+                        "ResultsFirstPostDate": [],
+                        "ResultsFirstPostDateType": [],
+                        "ResultsFirstPostedQCCommentsDate": [],
+                        "ResultsFirstPostedQCCommentsDateType": [],
+                        "NCTId": [
+                              "NCT05464381"
+                        ]
+                  }
+            ]
+      }
+}

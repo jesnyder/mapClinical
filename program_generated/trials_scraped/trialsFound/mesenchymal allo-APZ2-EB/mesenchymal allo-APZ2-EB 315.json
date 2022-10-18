@@ -1,0 +1,105 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:12 23:20:22.323",
+            "Expression": "mesenchymal allo-APZ2-EB",
+            "NStudiesAvail": 430639,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "SeriousEventNotes",
+                  "SeriousEventOrganSystem",
+                  "SeriousEventSourceVocabulary",
+                  "SeriousEventStatsGroupId",
+                  "SeriousEventStatsNumAffected",
+                  "SeriousEventStatsNumAtRisk",
+                  "SeriousEventStatsNumEvents",
+                  "SeriousEventTerm",
+                  "StartDate",
+                  "StartDateType",
+                  "StatusVerifiedDate",
+                  "StdAge",
+                  "StudyFirstPostDate",
+                  "StudyFirstPostDateType",
+                  "StudyFirstSubmitDate",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "SeriousEventNotes": [],
+                        "SeriousEventOrganSystem": [],
+                        "SeriousEventSourceVocabulary": [],
+                        "SeriousEventStatsGroupId": [],
+                        "SeriousEventStatsNumAffected": [],
+                        "SeriousEventStatsNumAtRisk": [],
+                        "SeriousEventStatsNumEvents": [],
+                        "SeriousEventTerm": [],
+                        "StartDate": [
+                              "February 16, 2019"
+                        ],
+                        "StartDateType": [
+                              "Actual"
+                        ],
+                        "StatusVerifiedDate": [
+                              "March 2022"
+                        ],
+                        "StdAge": [
+                              "Child",
+                              "Adult"
+                        ],
+                        "StudyFirstPostDate": [
+                              "May 18, 2018"
+                        ],
+                        "StudyFirstPostDateType": [
+                              "Actual"
+                        ],
+                        "StudyFirstSubmitDate": [
+                              "April 24, 2018"
+                        ],
+                        "NCTId": [
+                              "NCT03529877"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "SeriousEventNotes": [],
+                        "SeriousEventOrganSystem": [],
+                        "SeriousEventSourceVocabulary": [],
+                        "SeriousEventStatsGroupId": [],
+                        "SeriousEventStatsNumAffected": [],
+                        "SeriousEventStatsNumAtRisk": [],
+                        "SeriousEventStatsNumEvents": [],
+                        "SeriousEventTerm": [],
+                        "StartDate": [
+                              "December 2022"
+                        ],
+                        "StartDateType": [
+                              "Anticipated"
+                        ],
+                        "StatusVerifiedDate": [
+                              "July 2022"
+                        ],
+                        "StdAge": [
+                              "Child",
+                              "Adult",
+                              "Older Adult"
+                        ],
+                        "StudyFirstPostDate": [
+                              "July 19, 2022"
+                        ],
+                        "StudyFirstPostDateType": [
+                              "Actual"
+                        ],
+                        "StudyFirstSubmitDate": [
+                              "July 5, 2022"
+                        ],
+                        "NCTId": [
+                              "NCT05464381"
+                        ]
+                  }
+            ]
+      }
+}

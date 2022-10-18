@@ -1,0 +1,133 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:12 23:20:22.323",
+            "Expression": "mesenchymal ADSTEM Inj.",
+            "NStudiesAvail": 430639,
+            "NStudiesFound": 3,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 3,
+            "FieldList": [
+                  "InterventionArmGroupLabel",
+                  "InterventionBrowseBranchAbbrev",
+                  "InterventionBrowseBranchName",
+                  "InterventionBrowseLeafAsFound",
+                  "InterventionBrowseLeafId",
+                  "InterventionBrowseLeafName",
+                  "InterventionBrowseLeafRelevance",
+                  "InterventionDescription",
+                  "InterventionMeshId",
+                  "InterventionMeshTerm",
+                  "InterventionName",
+                  "InterventionOtherName",
+                  "InterventionType",
+                  "IsFDARegulatedDevice",
+                  "IsFDARegulatedDrug",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "InterventionArmGroupLabel": [
+                              "intervention: Biological: ADSTEM Inj."
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Comparison of different dosages of the drug in the aspect of safety and efficacy."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ADSTEM Inj. (Adult human mesenchymal stem cells)"
+                        ],
+                        "InterventionOtherName": [
+                              "ADSTEM Inj."
+                        ],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [],
+                        "IsFDARegulatedDrug": [],
+                        "NCTId": [
+                              "NCT02888704"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "InterventionArmGroupLabel": [
+                              "Drug: ADSTEM Inj."
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "ADSTEM Inj. 1.0x10^8 mesenchymal stem cells as an intravenous infusion once in Phase I clinical trial.\nADSTEM Inj. 3.0x10^8 mesenchymal stem cells as an intravenous infusion once in Phase I clinical trial."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ADSTEM Inj."
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Drug"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT03252340"
+                        ]
+                  },
+                  {
+                        "Rank": 3,
+                        "InterventionArmGroupLabel": [
+                              "ADSTEM Inj.",
+                              "Placebo"
+                        ],
+                        "InterventionBrowseBranchAbbrev": [],
+                        "InterventionBrowseBranchName": [],
+                        "InterventionBrowseLeafAsFound": [],
+                        "InterventionBrowseLeafId": [],
+                        "InterventionBrowseLeafName": [],
+                        "InterventionBrowseLeafRelevance": [],
+                        "InterventionDescription": [
+                              "Two 5mL of the following study drug is pre-mixed with 320mL of 0.9% normal saline is injected intravenously twice for the duration of the study. Treatment group: ADSTEM Inj. 0.5x10^8 cells/5mL",
+                              "330mL of 0.9% normal saline is injected intravenously twice for the duration of the study."
+                        ],
+                        "InterventionMeshId": [],
+                        "InterventionMeshTerm": [],
+                        "InterventionName": [
+                              "ADSTEM Inj.",
+                              "Placebo"
+                        ],
+                        "InterventionOtherName": [],
+                        "InterventionType": [
+                              "Biological",
+                              "Other"
+                        ],
+                        "IsFDARegulatedDevice": [
+                              "No"
+                        ],
+                        "IsFDARegulatedDrug": [
+                              "No"
+                        ],
+                        "NCTId": [
+                              "NCT04137562"
+                        ]
+                  }
+            ]
+      }
+}

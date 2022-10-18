@@ -1,0 +1,107 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:12 23:20:22.323",
+            "Expression": "mesenchymal allo-APZ2-EB",
+            "NStudiesAvail": 430639,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "OverallOfficialName",
+                  "OverallOfficialRole",
+                  "OverallStatus",
+                  "OversightHasDMC",
+                  "PatientRegistry",
+                  "Phase",
+                  "PointOfContactEMail",
+                  "PointOfContactOrganization",
+                  "PointOfContactPhone",
+                  "PointOfContactPhoneExt",
+                  "PointOfContactTitle",
+                  "PrimaryCompletionDate",
+                  "PrimaryCompletionDateType",
+                  "PrimaryOutcomeDescription",
+                  "PrimaryOutcomeMeasure",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OverallOfficialName": [
+                              "Jakub Tolar, MD, PhD"
+                        ],
+                        "OverallOfficialRole": [
+                              "Principal Investigator"
+                        ],
+                        "OverallStatus": [
+                              "Completed"
+                        ],
+                        "OversightHasDMC": [
+                              "Yes"
+                        ],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 1",
+                              "Phase 2"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "November 26, 2021"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Actual"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "EBDASI: epidermolysis bullosa disease activity and scarring index; measured in percentage change to baseline score",
+                              "All AEs occurring during the clinical trial will be registered, documented and evaluated."
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Overall improvement of EB symptoms after 12 weeks (measured by percentage change of a patient's EBDASI score), score), or last available post-baseline measurement if the Week 12 measurement is missing",
+                              "Assessment of adverse event (AE) occurrence"
+                        ],
+                        "NCTId": [
+                              "NCT03529877"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "OverallOfficialName": [],
+                        "OverallOfficialRole": [],
+                        "OverallStatus": [
+                              "Not yet recruiting"
+                        ],
+                        "OversightHasDMC": [],
+                        "PatientRegistry": [],
+                        "Phase": [
+                              "Phase 3"
+                        ],
+                        "PointOfContactEMail": [],
+                        "PointOfContactOrganization": [],
+                        "PointOfContactPhone": [],
+                        "PointOfContactPhoneExt": [],
+                        "PointOfContactTitle": [],
+                        "PrimaryCompletionDate": [
+                              "December 2024"
+                        ],
+                        "PrimaryCompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "PrimaryOutcomeDescription": [
+                              "Proportion of subjects with complete healing of target wound, determined by the investigator, as compared to baseline"
+                        ],
+                        "PrimaryOutcomeMeasure": [
+                              "Proportion of subjects with complete target wound closure"
+                        ],
+                        "NCTId": [
+                              "NCT05464381"
+                        ]
+                  }
+            ]
+      }
+}

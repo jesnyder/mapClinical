@@ -1,0 +1,53 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:17 23:32:42.784",
+            "Expression": "mesenchymal SUPERCELL GLUE",
+            "NStudiesAvail": 431098,
+            "NStudiesFound": 1,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 1,
+            "FieldList": [
+                  "OtherEventStatsGroupId",
+                  "OtherEventStatsNumAffected",
+                  "OtherEventStatsNumAtRisk",
+                  "OtherEventStatsNumEvents",
+                  "OtherEventTerm",
+                  "OtherOutcomeDescription",
+                  "OtherOutcomeMeasure",
+                  "OtherOutcomeTimeFrame",
+                  "OutcomeAnalysisCILowerLimit",
+                  "OutcomeAnalysisCILowerLimitComment",
+                  "OutcomeAnalysisCINumSides",
+                  "OutcomeAnalysisCIPctValue",
+                  "OutcomeAnalysisCIUpperLimit",
+                  "OutcomeAnalysisCIUpperLimitComment",
+                  "OutcomeAnalysisDispersionType",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "OtherEventStatsGroupId": [],
+                        "OtherEventStatsNumAffected": [],
+                        "OtherEventStatsNumAtRisk": [],
+                        "OtherEventStatsNumEvents": [],
+                        "OtherEventTerm": [],
+                        "OtherOutcomeDescription": [],
+                        "OtherOutcomeMeasure": [],
+                        "OtherOutcomeTimeFrame": [],
+                        "OutcomeAnalysisCILowerLimit": [],
+                        "OutcomeAnalysisCILowerLimitComment": [],
+                        "OutcomeAnalysisCINumSides": [],
+                        "OutcomeAnalysisCIPctValue": [],
+                        "OutcomeAnalysisCIUpperLimit": [],
+                        "OutcomeAnalysisCIUpperLimitComment": [],
+                        "OutcomeAnalysisDispersionType": [],
+                        "NCTId": [
+                              "NCT03766139"
+                        ]
+                  }
+            ]
+      }
+}

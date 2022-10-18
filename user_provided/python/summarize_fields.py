@@ -297,6 +297,7 @@ def count_fields():
 
     # retrieve json
     trials = retrieve_json('trials')['trials']
+    how_many_trials = len(trials)
     keys = trials[0].keys()
 
     for key in keys:
@@ -317,6 +318,8 @@ def count_fields():
         df_temp['term'] = values
         df_temp['enrollment'] = enrolled
 
+        how_many_enrolled = sum(enrolled)
+
 
         terms, counts, enrolled = [], [], []
         for value in list(df_temp['term']):
@@ -333,6 +336,9 @@ def count_fields():
             enroll = sum(list(df_value['enrollment']))
             enrolled.append(enroll)
 
+        terms.append('NaN')
+        counts.append(how_many_trials - sum(counts))
+        enrolled.append(how_many_enrolled - sum(enrolled))
 
         df = pd.DataFrame()
         df[key] = terms

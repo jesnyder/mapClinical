@@ -114,11 +114,11 @@ const config_Status_grouped = {
             {
                 "label": "undeclared_count",
                 "data": [
-                    67,
+                    66,
                     80,
                     33,
                     19,
-                    13,
+                    11,
                     7,
                     9,
                     0,
