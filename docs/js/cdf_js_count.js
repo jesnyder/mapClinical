@@ -66,7 +66,7 @@ new Chart(document.getElementById("line-chart-cdf_count"), {
                     1456
                 ],
                 "label": "all_count",
-                "borderColor": "rgb(236, 228, 226)",
+                "borderColor": "rgb(223, 230, 232)",
                 "fill": "false"
             },
             {
@@ -102,7 +102,7 @@ new Chart(document.getElementById("line-chart-cdf_count"), {
                     727
                 ],
                 "label": "allo_count",
-                "borderColor": "rgb(231, 94, 33)",
+                "borderColor": "rgb(246, 91, 33)",
                 "fill": "false"
             },
             {
@@ -138,7 +138,7 @@ new Chart(document.getElementById("line-chart-cdf_count"), {
                     434
                 ],
                 "label": "auto_count",
-                "borderColor": "rgb(22, 22, 103)",
+                "borderColor": "rgb(47, 20, 106)",
                 "fill": "false"
             },
             {
@@ -174,7 +174,7 @@ new Chart(document.getElementById("line-chart-cdf_count"), {
                     58
                 ],
                 "label": "both_count",
-                "borderColor": "rgb(0, 187, 230)",
+                "borderColor": "rgb(6, 190, 242)",
                 "fill": "false"
             },
             {

@@ -66,7 +66,7 @@ new Chart(document.getElementById("line-chart-enroll"), {
                     414
                 ],
                 "label": "all_enrolled",
-                "borderColor": "rgb(236, 216, 229)",
+                "borderColor": "rgb(234, 212, 232)",
                 "fill": "false"
             },
             {
@@ -102,7 +102,7 @@ new Chart(document.getElementById("line-chart-enroll"), {
                     224
                 ],
                 "label": "allo_enrolled",
-                "borderColor": "rgb(232, 79, 27)",
+                "borderColor": "rgb(234, 85, 40)",
                 "fill": "false"
             },
             {
@@ -138,7 +138,7 @@ new Chart(document.getElementById("line-chart-enroll"), {
                     21
                 ],
                 "label": "auto_enrolled",
-                "borderColor": "rgb(43, 22, 106)",
+                "borderColor": "rgb(43, 14, 87)",
                 "fill": "false"
             },
             {
@@ -174,7 +174,7 @@ new Chart(document.getElementById("line-chart-enroll"), {
                     114
                 ],
                 "label": "both_enrolled",
-                "borderColor": "rgb(0, 181, 234)",
+                "borderColor": "rgb(8, 191, 225)",
                 "fill": "false"
             },
             {
