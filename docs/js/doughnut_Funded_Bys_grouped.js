@@ -15,11 +15,11 @@ const config_Funded_Bys_grouped = {
             {
                 "label": "allo_count",
                 "data": [
-                    459,
-                    238,
-                    25,
+                    454,
+                    240,
+                    27,
                     4,
-                    2,
+                    1,
                     1
                 ],
                 "backgroundColor": [
@@ -34,7 +34,7 @@ const config_Funded_Bys_grouped = {
             {
                 "label": "auto_count",
                 "data": [
-                    298,
+                    305,
                     88,
                     38,
                     2,
@@ -53,9 +53,9 @@ const config_Funded_Bys_grouped = {
             {
                 "label": "both_count",
                 "data": [
-                    51,
-                    15,
-                    6,
+                    41,
+                    13,
+                    4,
                     0,
                     0,
                     0
@@ -72,11 +72,11 @@ const config_Funded_Bys_grouped = {
             {
                 "label": "undeclared_count",
                 "data": [
-                    177,
+                    183,
                     29,
                     21,
                     2,
-                    0,
+                    1,
                     1
                 ],
                 "backgroundColor": [

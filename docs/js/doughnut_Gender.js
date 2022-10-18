@@ -12,7 +12,7 @@ const config_Gender = {
             {
                 "label": "all",
                 "data": [
-                    65318,
+                    65250,
                     2337,
                     823
                 ],

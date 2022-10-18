@@ -15,7 +15,7 @@ const config_Study Documents = {
             {
                 "label": "all",
                 "data": [
-                    41612,
+                    41544,
                     23186,
                     3135,
                     385,

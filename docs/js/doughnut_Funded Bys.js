@@ -15,7 +15,7 @@ const config_Funded Bys = {
             {
                 "label": "all",
                 "data": [
-                    41984,
+                    41916,
                     22834,
                     3115,
                     385,

@@ -7,19 +7,19 @@ const config_Study_Type_grouped = {
             "Interventional",
             "Observational",
             "Expanded Access",
-            "OTHER",
             "INDUSTRY",
+            "OTHER",
             "NIH"
         ],
         "datasets": [
             {
                 "label": "allo_count",
                 "data": [
-                    697,
-                    21,
+                    696,
+                    20,
                     8,
-                    2,
                     1,
+                    2,
                     0
                 ],
                 "backgroundColor": [
@@ -34,11 +34,11 @@ const config_Study_Type_grouped = {
             {
                 "label": "auto_count",
                 "data": [
-                    397,
+                    404,
                     10,
                     15,
-                    1,
                     4,
+                    1,
                     1
                 ],
                 "backgroundColor": [
@@ -53,7 +53,7 @@ const config_Study_Type_grouped = {
             {
                 "label": "both_count",
                 "data": [
-                    70,
+                    56,
                     1,
                     1,
                     0,
@@ -72,11 +72,11 @@ const config_Study_Type_grouped = {
             {
                 "label": "undeclared_count",
                 "data": [
-                    186,
-                    24,
+                    193,
+                    25,
                     0,
-                    11,
                     9,
+                    10,
                     0
                 ],
                 "backgroundColor": [

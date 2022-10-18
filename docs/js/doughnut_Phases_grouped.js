@@ -17,14 +17,14 @@ const config_Phases_grouped = {
             {
                 "label": "allo_count",
                 "data": [
-                    249,
-                    208,
-                    141,
-                    37,
+                    250,
+                    204,
+                    142,
+                    38,
                     26,
-                    19,
+                    20,
                     17,
-                    3
+                    2
                 ],
                 "backgroundColor": [
                     "rgb(153,102,255)",
@@ -40,12 +40,12 @@ const config_Phases_grouped = {
             {
                 "label": "auto_count",
                 "data": [
-                    123,
+                    125,
                     102,
                     76,
-                    57,
+                    61,
                     24,
-                    9,
+                    10,
                     8,
                     2
                 ],
@@ -63,12 +63,12 @@ const config_Phases_grouped = {
             {
                 "label": "both_count",
                 "data": [
-                    30,
+                    25,
                     9,
-                    14,
-                    11,
+                    13,
                     4,
-                    1,
+                    4,
+                    0,
                     1,
                     0
                 ],
@@ -86,12 +86,12 @@ const config_Phases_grouped = {
             {
                 "label": "undeclared_count",
                 "data": [
-                    45,
-                    65,
+                    47,
+                    68,
                     31,
-                    41,
+                    43,
                     5,
-                    7,
+                    6,
                     7,
                     3
                 ],

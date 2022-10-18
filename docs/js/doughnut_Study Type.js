@@ -7,19 +7,19 @@ const config_Study Type = {
             "Interventional",
             "Observational",
             "Expanded Access",
-            "OTHER",
             "INDUSTRY",
+            "OTHER",
             "NIH"
         ],
         "datasets": [
             {
                 "label": "all",
                 "data": [
-                    63245,
+                    63235,
                     3495,
                     0,
-                    537,
                     1136,
+                    479,
                     65
                 ],
                 "backgroundColor": [

@@ -21,7 +21,7 @@ const config_Status = {
             {
                 "label": "all",
                 "data": [
-                    18191,
+                    18123,
                     20523,
                     19854,
                     4689,

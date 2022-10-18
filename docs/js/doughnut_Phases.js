@@ -18,13 +18,13 @@ const config_Phases = {
                 "label": "all",
                 "data": [
                     21464,
-                    8079,
+                    8021,
                     15694,
                     7462,
                     8677,
                     993,
                     2268,
-                    255
+                    245
                 ],
                 "backgroundColor": [
                     "rgb(212,178,212)",

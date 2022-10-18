@@ -1,6 +1,6 @@
 var tableStatus = 
 [
-{'Status': 'Completed', 'count': 448, 'enrolled': 18191} , 
+{'Status': 'Completed', 'count': 446, 'enrolled': 18123} , 
 {'Status': 'Unknown status', 'count': 411, 'enrolled': 20523} , 
 {'Status': 'Recruiting', 'count': 278, 'enrolled': 19854} , 
 {'Status': 'Not yet recruiting', 'count': 93, 'enrolled': 4689} , 

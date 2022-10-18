@@ -21,10 +21,10 @@ const config_Status_grouped = {
             {
                 "label": "allo_count",
                 "data": [
-                    182,
-                    195,
-                    185,
-                    53,
+                    181,
+                    189,
+                    187,
+                    56,
                     41,
                     21,
                     27,
@@ -52,15 +52,15 @@ const config_Status_grouped = {
             {
                 "label": "auto_count",
                 "data": [
-                    174,
-                    115,
-                    48,
+                    178,
+                    117,
+                    49,
                     14,
-                    16,
+                    15,
                     20,
                     14,
                     8,
-                    4,
+                    5,
                     12,
                     1,
                     2
@@ -83,15 +83,15 @@ const config_Status_grouped = {
             {
                 "label": "both_count",
                 "data": [
-                    26,
-                    21,
-                    12,
-                    7,
+                    22,
+                    19,
+                    8,
+                    4,
                     0,
                     3,
                     0,
                     1,
-                    1,
+                    0,
                     1,
                     0,
                     0
@@ -114,11 +114,11 @@ const config_Status_grouped = {
             {
                 "label": "undeclared_count",
                 "data": [
-                    66,
-                    80,
-                    33,
+                    65,
+                    86,
+                    34,
                     19,
-                    11,
+                    12,
                     7,
                     9,
                     0,

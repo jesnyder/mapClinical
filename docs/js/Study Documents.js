@@ -1,6 +1,6 @@
 var tableStudy Documents = 
 [
-{'Study Documents': 'OTHER', 'count': 965, 'enrolled': 41612} , 
+{'Study Documents': 'OTHER', 'count': 963, 'enrolled': 41544} , 
 {'Study Documents': 'INDUSTRY', 'count': 389, 'enrolled': 23186} , 
 {'Study Documents': 'OTHER_GOV', 'count': 91, 'enrolled': 3135} , 
 {'Study Documents': 'NETWORK', 'count': 8, 'enrolled': 385} , 

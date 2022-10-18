@@ -1,6 +1,6 @@
 var tableFunded Bys = 
 [
-{'Funded Bys': 'OTHER', 'count': 985, 'enrolled': 41984} , 
+{'Funded Bys': 'OTHER', 'count': 983, 'enrolled': 41916} , 
 {'Funded Bys': 'INDUSTRY', 'count': 370, 'enrolled': 22834} , 
 {'Funded Bys': 'OTHER_GOV', 'count': 90, 'enrolled': 3115} , 
 {'Funded Bys': 'NETWORK', 'count': 8, 'enrolled': 385} , 

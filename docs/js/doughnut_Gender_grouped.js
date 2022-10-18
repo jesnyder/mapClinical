@@ -12,9 +12,9 @@ const config_Gender_grouped = {
             {
                 "label": "allo_count",
                 "data": [
-                    691,
+                    688,
                     23,
-                    15
+                    16
                 ],
                 "backgroundColor": [
                     "rgb(153,102,255)",
@@ -25,8 +25,8 @@ const config_Gender_grouped = {
             {
                 "label": "auto_count",
                 "data": [
-                    394,
-                    19,
+                    402,
+                    18,
                     14
                 ],
                 "backgroundColor": [
@@ -38,9 +38,9 @@ const config_Gender_grouped = {
             {
                 "label": "both_count",
                 "data": [
-                    65,
+                    52,
                     2,
-                    5
+                    4
                 ],
                 "backgroundColor": [
                     "rgb(153,102,255)",
@@ -51,8 +51,8 @@ const config_Gender_grouped = {
             {
                 "label": "undeclared_count",
                 "data": [
-                    219,
-                    6,
+                    225,
+                    7,
                     5
                 ],
                 "backgroundColor": [
