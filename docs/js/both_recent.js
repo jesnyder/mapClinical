@@ -1,61 +1,9 @@
 var  groupboth_recent = {
-    "feature_count": 27,
+    "feature_count": 21,
     "type": [
         "FeatureCollection"
     ],
     "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study to Evaluate the Efficacy and Safety of AstroStem-V in Treatment of COVID-19 Pneumonia",
-                "aff": "Medical Advancement Center of Arizona, Phoenix, Arizona, United States ",
-                "url": "https://ClinicalTrials.gov/show/NCT04527224",
-                "status": "Not yet recruiting",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 191, 239)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 13987,
-                "paneLabel": "pane13987",
-                "start": "2022-09-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -112.074141,
-                    33.4484367
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Study to Evaluate the Efficacy and Safety of AstroStem-V in Treatment of COVID-19 Pneumonia",
-                "aff": " Epic Medical Research, Dallas, Texas, United States",
-                "url": "https://ClinicalTrials.gov/show/NCT04527224",
-                "status": "Not yet recruiting",
-                "enrolled": 10,
-                "radius": 13,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 191, 239)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 13987,
-                "paneLabel": "pane13987",
-                "start": "2022-09-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -96.7968559,
-                    32.7762719
-                ]
-            }
-        },
         {
             "type": "Feature",
             "properties": {
@@ -66,7 +14,7 @@ var  groupboth_recent = {
                 "enrolled": 15,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(5, 177, 239)",
+                "fillColor": "rgb(5, 181, 233)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13987,
@@ -92,7 +40,7 @@ var  groupboth_recent = {
                 "enrolled": 15,
                 "radius": 13,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 177, 225)",
+                "fillColor": "rgb(0, 194, 230)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13987,
@@ -111,110 +59,6 @@ var  groupboth_recent = {
         {
             "type": "Feature",
             "properties": {
-                "name": "Regeneration of Posterior Cruciate Ligament Injury Using Hypoxic Conditioned Allogenic Adipose Mesenchymal Stem Cell and Condition Medium",
-                "aff": "Sholahuddin Rhatomy, Sleman, Yogyakarta, Indonesia",
-                "url": "https://ClinicalTrials.gov/show/NCT04889963",
-                "status": "Recruiting",
-                "enrolled": 16,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(1, 175, 241)",
-                "opacity": 0.8,
-                "fillOpacity": 0.8,
-                "zindex": 13986,
-                "paneLabel": "pane13986",
-                "start": "2021-01-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    110.38129042693124,
-                    -7.6894175
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clinical Trial to Evaluate if the Laparoscopic Administration of Cells Derived From the Fatty Tissue Can Improve the Inflammatory Stenosis in Patient With Crohn's Disease",
-                "aff": "Hospital Universitario Valle de Hebr\u00f3n, Barcelona, Spain ",
-                "url": "https://ClinicalTrials.gov/show/NCT05521672",
-                "status": "Not yet recruiting",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 190, 221)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 13986,
-                "paneLabel": "pane13986",
-                "start": "2022-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.1774322,
-                    41.3828939
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clinical Trial to Evaluate if the Laparoscopic Administration of Cells Derived From the Fatty Tissue Can Improve the Inflammatory Stenosis in Patient With Crohn's Disease",
-                "aff": " Hospital Universitario Fundaci\u00f3n Jim\u00e9nez Diaz, Madrid, Spain ",
-                "url": "https://ClinicalTrials.gov/show/NCT05521672",
-                "status": "Not yet recruiting",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 190, 221)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 13986,
-                "paneLabel": "pane13986",
-                "start": "2022-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.7035825,
-                    40.4167047
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clinical Trial to Evaluate if the Laparoscopic Administration of Cells Derived From the Fatty Tissue Can Improve the Inflammatory Stenosis in Patient With Crohn's Disease",
-                "aff": " Hospital Universitario y Polit\u00e9cnico La Fe, Valencia, Spain",
-                "url": "https://ClinicalTrials.gov/show/NCT05521672",
-                "status": "Not yet recruiting",
-                "enrolled": 20,
-                "radius": 14,
-                "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 190, 221)",
-                "opacity": 0.4,
-                "fillOpacity": 0.4,
-                "zindex": 13986,
-                "paneLabel": "pane13986",
-                "start": "2022-08-01",
-                "end": "2023-09-30"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.3763353,
-                    39.4697065
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Treatment With Human Umbilical Cord Mesenchymal Stem Cells for Refractory Diabetic Peripheral Neuropathy",
                 "aff": "The Central Hospital of Wuhan, Wuhan, Hubei, China",
                 "url": "https://ClinicalTrials.gov/show/NCT05507697",
@@ -222,7 +66,7 @@ var  groupboth_recent = {
                 "enrolled": 42,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 182, 227)",
+                "fillColor": "rgb(0, 192, 235)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13984,
@@ -248,7 +92,7 @@ var  groupboth_recent = {
                 "enrolled": 45,
                 "radius": 16,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 184, 220)",
+                "fillColor": "rgb(12, 188, 234)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 13984,
@@ -274,7 +118,7 @@ var  groupboth_recent = {
                 "enrolled": 50,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(10, 192, 219)",
+                "fillColor": "rgb(0, 176, 243)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13983,
@@ -300,7 +144,7 @@ var  groupboth_recent = {
                 "enrolled": 53,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 176, 240)",
+                "fillColor": "rgb(11, 192, 223)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 13983,
@@ -326,7 +170,7 @@ var  groupboth_recent = {
                 "enrolled": 53,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 176, 240)",
+                "fillColor": "rgb(11, 192, 223)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 13983,
@@ -352,7 +196,7 @@ var  groupboth_recent = {
                 "enrolled": 54,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(4, 175, 232)",
+                "fillColor": "rgb(9, 184, 238)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 13983,
@@ -378,7 +222,7 @@ var  groupboth_recent = {
                 "enrolled": 55,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(4, 191, 226)",
+                "fillColor": "rgb(1, 176, 219)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13983,
@@ -404,7 +248,7 @@ var  groupboth_recent = {
                 "enrolled": 60,
                 "radius": 17,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 176, 228)",
+                "fillColor": "rgb(0, 175, 219)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13983,
@@ -430,7 +274,7 @@ var  groupboth_recent = {
                 "enrolled": 80,
                 "radius": 18,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(2, 194, 242)",
+                "fillColor": "rgb(1, 195, 239)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13982,
@@ -456,7 +300,7 @@ var  groupboth_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 189, 228)",
+                "fillColor": "rgb(2, 179, 218)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -482,7 +326,7 @@ var  groupboth_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 189, 228)",
+                "fillColor": "rgb(2, 179, 218)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -508,7 +352,7 @@ var  groupboth_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 189, 228)",
+                "fillColor": "rgb(2, 179, 218)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -534,7 +378,7 @@ var  groupboth_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 189, 228)",
+                "fillColor": "rgb(2, 179, 218)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -560,7 +404,7 @@ var  groupboth_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 189, 228)",
+                "fillColor": "rgb(2, 179, 218)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -586,7 +430,7 @@ var  groupboth_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 189, 228)",
+                "fillColor": "rgb(2, 179, 218)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -612,7 +456,7 @@ var  groupboth_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 189, 228)",
+                "fillColor": "rgb(2, 179, 218)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -638,7 +482,7 @@ var  groupboth_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 189, 228)",
+                "fillColor": "rgb(2, 179, 218)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -664,7 +508,7 @@ var  groupboth_recent = {
                 "enrolled": 120,
                 "radius": 20,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 189, 228)",
+                "fillColor": "rgb(2, 179, 218)",
                 "opacity": 0.8,
                 "fillOpacity": 0.8,
                 "zindex": 13980,
@@ -690,7 +534,7 @@ var  groupboth_recent = {
                 "enrolled": 130,
                 "radius": 21,
                 "color": "rgb(100, 100, 100)",
-                "fillColor": "rgb(0, 195, 241)",
+                "fillColor": "rgb(0, 198, 228)",
                 "opacity": 0.4,
                 "fillOpacity": 0.4,
                 "zindex": 13979,

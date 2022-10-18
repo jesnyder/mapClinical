@@ -51,9 +51,9 @@ const config_Gender_grouped = {
             {
                 "label": "undeclared_count",
                 "data": [
-                    221,
+                    219,
                     6,
-                    6
+                    5
                 ],
                 "backgroundColor": [
                     "rgb(153,102,255)",

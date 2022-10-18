@@ -287,6 +287,27 @@ def rgb_to_hexcolorcode(rgb):
     return(hex_str)
 
 
+def save_df(df, fil_dst, col_sort):
+    """
+    reset the dataframe and save
+    """
+
+    try:
+        df = df.sort_values(by = col_sort)
+    except:
+        col_sort = df.columns[0]
+        df = df.sort_values(by = col_sort)
+
+    df = reset_df(df)
+
+    if '.csv' in fil_dst:
+        df.to_csv(fil_dst)
+
+    else:
+        df.to_csv(retrieve_path(fil_dst))
+
+
+
 def save_json(file_json, path):
     """
     save json to path
@@ -329,8 +350,6 @@ def save_value(name, value):
     df = df.sort_values(by = 'name', ascending='true')
     df = reset_df(df)
     df.to_csv(retrieve_path('saved_values'))
-
-
 
 
 def send_to_df(list, name, file_dst):

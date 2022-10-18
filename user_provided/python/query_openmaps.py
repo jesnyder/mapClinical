@@ -43,8 +43,14 @@ def query_openmaps():
 
         lat, lon, response = lookup_openmaps(loc)
 
-        print('lat = ')
-        print(lat)
+        print('loc =')
+        print(loc)
+        if 'Innsbruck' in str(loc):
+            if 'Valencia'  in str(loc):
+                if 'Austria'  in str(loc):
+                    lat, lon = 47.26219885383057, 11.384784405887645
+
+
 
         found_locs.append(str(loc))
         lats.append(lat)

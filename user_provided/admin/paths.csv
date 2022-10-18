@@ -75,3 +75,12 @@ products_js,docs js products.js
 # prepare_html created
 index,docs index.html
 script_list,docs script_list.html
+
+
+# sankey count referenced
+tissue_type_terms,user_provided admin tissue_type
+
+# sankey count created
+tissue_source_count,program_generated sankey tissue_source_count.csv
+sankey_data_count,docs js sankey_data_count.js
+sankey_data_enroll,docs js sankey_data_enroll.js

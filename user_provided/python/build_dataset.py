@@ -518,9 +518,15 @@ def build_address(trial):
         locations = locations + str(cities[i]) + ', '
 
         try:
-            locations = locations + str(states[i]) + ', '
+            if 'Austria' in countries[i]:
+                locations = locations
+            if 'Moscow Region' in states[i]:
+                locations = locations
+            else:
+                locations = locations + str(states[i]) + ', '
         except:
             locations = locations
+
 
         locations = locations + str(countries[i])
 

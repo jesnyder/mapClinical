@@ -1,10 +1,10 @@
 var tableStatus = 
 [
-{'Status': 'Completed', 'count': 449, 'enrolled': 18209} , 
+{'Status': 'Completed', 'count': 448, 'enrolled': 18191} , 
 {'Status': 'Unknown status', 'count': 411, 'enrolled': 20523} , 
 {'Status': 'Recruiting', 'count': 278, 'enrolled': 19854} , 
 {'Status': 'Not yet recruiting', 'count': 93, 'enrolled': 4689} , 
-{'Status': 'Active, not recruiting', 'count': 70, 'enrolled': 3006} , 
+{'Status': 'Active, not recruiting', 'count': 68, 'enrolled': 2821} , 
 {'Status': 'Terminated', 'count': 51, 'enrolled': 993} , 
 {'Status': 'Withdrawn', 'count': 50, 'enrolled': 0} , 
 {'Status': 'Suspended', 'count': 19, 'enrolled': 855} , 

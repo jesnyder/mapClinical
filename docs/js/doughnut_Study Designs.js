@@ -10,7 +10,7 @@ const config_Study Designs = {
             {
                 "label": "all",
                 "data": [
-                    68681
+                    68478
                 ],
                 "backgroundColor": [
                     "rgb(212,178,212)"

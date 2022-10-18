@@ -1,0 +1,116 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:12 23:20:22.323",
+            "Expression": "mesenchymal allo-APZ2-EB",
+            "NStudiesAvail": 430639,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "LastUpdateSubmitDate",
+                  "LeadSponsorClass",
+                  "LeadSponsorName",
+                  "LimitationsAndCaveatsDescription",
+                  "LocationCity",
+                  "LocationContactEMail",
+                  "LocationContactName",
+                  "LocationContactPhone",
+                  "LocationContactPhoneExt",
+                  "LocationContactRole",
+                  "LocationCountry",
+                  "LocationFacility",
+                  "LocationState",
+                  "LocationStatus",
+                  "LocationZip",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "LastUpdateSubmitDate": [
+                              "October 6, 2022"
+                        ],
+                        "LeadSponsorClass": [
+                              "INDUSTRY"
+                        ],
+                        "LeadSponsorName": [
+                              "RHEACELL GmbH & Co. KG"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [
+                              "Minneapolis",
+                              "Salzburg",
+                              "Paris",
+                              "Freiburg",
+                              "London",
+                              "London"
+                        ],
+                        "LocationContactEMail": [],
+                        "LocationContactName": [],
+                        "LocationContactPhone": [],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [],
+                        "LocationCountry": [
+                              "United States",
+                              "Austria",
+                              "France",
+                              "Germany",
+                              "United Kingdom",
+                              "United Kingdom"
+                        ],
+                        "LocationFacility": [
+                              "University of Minnesota, Masonic Cancer Center and Medical Center",
+                              "EB-Haus Austria; Salzburger Landeskliniken (SALK); Paracelsus Medizinische Privatuniversit\u00e4t Salzburg (PMU)",
+                              "H\u00f4pital Saint-Louis; D\u00e9partement de dermatologie",
+                              "Department of Dermatology, Medical Center-University of Freiburg",
+                              "King's College London; St John's Institute of Dermatology;",
+                              "Great Ormond Street Hospital; Dermatology Department"
+                        ],
+                        "LocationState": [
+                              "Minnesota"
+                        ],
+                        "LocationStatus": [],
+                        "LocationZip": [
+                              "55455",
+                              "5020",
+                              "75010",
+                              "79104",
+                              "SE1 9RT",
+                              "WC1N 3JH"
+                        ],
+                        "NCTId": [
+                              "NCT03529877"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "LastUpdateSubmitDate": [
+                              "July 18, 2022"
+                        ],
+                        "LeadSponsorClass": [
+                              "INDUSTRY"
+                        ],
+                        "LeadSponsorName": [
+                              "RHEACELL GmbH & Co. KG"
+                        ],
+                        "LimitationsAndCaveatsDescription": [],
+                        "LocationCity": [],
+                        "LocationContactEMail": [],
+                        "LocationContactName": [],
+                        "LocationContactPhone": [],
+                        "LocationContactPhoneExt": [],
+                        "LocationContactRole": [],
+                        "LocationCountry": [],
+                        "LocationFacility": [],
+                        "LocationState": [],
+                        "LocationStatus": [],
+                        "LocationZip": [],
+                        "NCTId": [
+                              "NCT05464381"
+                        ]
+                  }
+            ]
+      }
+}

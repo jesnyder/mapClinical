@@ -17,9 +17,13 @@ var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 	});
 
 var map = L.map("map2", {
-		center: [10, 0],
-		zoom: 2,
-		layers: [osm]
+		center: [10, 10],
+	zoom: 2,
+	minZoom: 2,
+	maxZoom: 18,
+	zoomSnap: 0.1,
+	zoomDelta: 0.1,
+	layers: [osm]
 	});
 
 var baseLayers = {

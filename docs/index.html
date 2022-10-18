@@ -41,15 +41,23 @@
 
 
     <!-- Animated map-->
-    <div id="map" style="margin-left: 3%; width:96% ;"></div>
+    <div id="map" style="margin-left: 3%; width:96% ; max-width:1000px;"></div>
     <script src="js/map.js"></script>
 
 
+<<<<<<< HEAD
     <div id="text" style="width:80% ; margin-left: 3%;">
 
     <h1>The Sun Never Sets on a World Spinning with hMSC Advanced Therapeutics</h1>
 
     <p>October 13, 2022 by Jessica Snyder and Jon Carson</p><br>
+=======
+    <div id="text" style="width:80% ; margin-left: 3%; max-width:1000px;">
+
+    <h1>The Sun Never Sets on a World Spinning with hMSC Advanced Therapeutics</h1>
+
+    <p>October 18, 2022 by Jessica Snyder and Jon Carson</p>
+>>>>>>> 9be4b64... bounded box and editted incorrect locations
     <p  style="margin-left: 5%;"><i>You realize the sun doesn't go down, <br>It's just an illusion caused by the world spinning round.</i><a href="#section1">[1]</a></p>
 
     <h2>A Map Toward New Knowledge</h2>
@@ -72,7 +80,7 @@
   <p>
   Disillusionment is not an uncommon sentiment in technology, and new cellular therapies are no exception. However, one analyst's gloomy perspective is another's opportunity for transformation. One quote attributed to Mark Twain states </p>
 
-  <p  style="margin-left: 5%;"><i>
+  <p  style="margin-left: 5%; max-width:1000px;"><i>
   "The reports of my death are greatly exaggerated." </i></p>
 
   <p>
@@ -160,30 +168,52 @@
     <p>A map of recent trials, plot of trials and the enrollment each year are included below. Review and please reach out with further questions or comments for future visualizations. </p>
     </div>
 
-    <div id="map2"style="margin-left: 3%; width:96% ;"></div>
+    <div id="map2"style="margin-left: 3%; width:96%; max-width:1000px;"></div>
     <script src="js/map2.js"></script>
 
 
-    <div style="margin-left: 10%; width:60% ;">
+    <div style="margin-left: 10%; width:60%; max-width:1000px;">
     <br><h2 id="section2">
     Cumulative counts of trials each year and enrollment
     <p>Review the number of trials and total participants enrolled for all trials and each survey cell source. Totals presented as a Cumulative Distribution Function (CDF).</p>
     </h2></div>
 
-    <div id="container" style="text-align:center; width:80%; margin-left: 10%">
-    <canvas id="line-chart-cdf_count" height="125"  style="border:0px solid"></canvas>
+    <div id="container" style="text-align:center; width:80%; margin-left: 10%; max-width:800px;">
+    <canvas id="line-chart-cdf_count" height="150"  style="border:0px solid"></canvas>
     <script src="js/cdf_js_count.js"></script>
     </div>
 
     <div style="margin-left: 3%; width:96% ;">
     <br></div>
 
-    <div id="container" style="text-align:center; width:80%; margin-left: 10%">
-    <canvas id="line-chart-cdf_enroll"  height="125"  style="border:0px solid"></canvas>
+    <div id="container" style="text-align:center; width:80%; margin-left: 10%; max-width:800px;">
+    <canvas id="line-chart-cdf_enroll"  height="150"  style="border:0px solid"></canvas>
     <script src="js/cdf_js_enroll.js"></script>
     <br>
     <br>
+    </div>
 
+    <div id="tabularConditions" style="width:60% ; margin-left: 10%;  max-width:800px; font-family: Calibri;"></div>
+    <script src="js/tabularConditions.js"></script>
+    </div>
+
+    <br><br>
+
+    <div id="tabularPhases" style="width:60% ; margin-left: 10%;  max-width:800px; font-family: Calibri;"></div>
+    <script src="js/tabularPhases.js"></script>
+    </div>
+
+    <br><br>
+
+    <div id="tabularStatus" style="width:60% ; margin-left: 10%;  max-width:800px; font-family: Calibri;"></div>
+    <script src="js/Status.js"></script>
+    <script src="js/tabularStatus.js"></script>
+    </div>
+
+    <br>
+
+
+    <div style="margin-left: 10%; width:60%;  max-width:800px;">
     <p>
     The
     <a href="https://github.com/jesnyder/mapClinical/"  target="_blank" rel="noopener">code</a>

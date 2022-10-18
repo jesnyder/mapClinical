@@ -1,0 +1,74 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:12 23:20:22.323",
+            "Expression": "mesenchymal allo-APZ2-CVU",
+            "NStudiesAvail": 430639,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "EventGroupOtherNumAtRisk",
+                  "EventGroupSeriousNumAffected",
+                  "EventGroupSeriousNumAtRisk",
+                  "EventGroupTitle",
+                  "EventsDescription",
+                  "EventsFrequencyThreshold",
+                  "EventsTimeFrame",
+                  "ExpAccTypeIndividual",
+                  "ExpAccTypeIntermediate",
+                  "ExpAccTypeTreatment",
+                  "ExpandedAccessNCTId",
+                  "ExpandedAccessStatusForNCTId",
+                  "FDAAA801Violation",
+                  "FlowAchievementComment",
+                  "FlowAchievementGroupId",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "EventGroupOtherNumAtRisk": [],
+                        "EventGroupSeriousNumAffected": [],
+                        "EventGroupSeriousNumAtRisk": [],
+                        "EventGroupTitle": [],
+                        "EventsDescription": [],
+                        "EventsFrequencyThreshold": [],
+                        "EventsTimeFrame": [],
+                        "ExpAccTypeIndividual": [],
+                        "ExpAccTypeIntermediate": [],
+                        "ExpAccTypeTreatment": [],
+                        "ExpandedAccessNCTId": [],
+                        "ExpandedAccessStatusForNCTId": [],
+                        "FDAAA801Violation": [],
+                        "FlowAchievementComment": [],
+                        "FlowAchievementGroupId": [],
+                        "NCTId": [
+                              "NCT04971161"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "EventGroupOtherNumAtRisk": [],
+                        "EventGroupSeriousNumAffected": [],
+                        "EventGroupSeriousNumAtRisk": [],
+                        "EventGroupTitle": [],
+                        "EventsDescription": [],
+                        "EventsFrequencyThreshold": [],
+                        "EventsTimeFrame": [],
+                        "ExpAccTypeIndividual": [],
+                        "ExpAccTypeIntermediate": [],
+                        "ExpAccTypeTreatment": [],
+                        "ExpandedAccessNCTId": [],
+                        "ExpandedAccessStatusForNCTId": [],
+                        "FDAAA801Violation": [],
+                        "FlowAchievementComment": [],
+                        "FlowAchievementGroupId": [],
+                        "NCTId": [
+                              "NCT03257098"
+                        ]
+                  }
+            ]
+      }
+}

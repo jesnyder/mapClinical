@@ -15,12 +15,12 @@ const config_Study Documents = {
             {
                 "label": "all",
                 "data": [
-                    41797,
+                    41612,
                     23186,
                     3135,
                     385,
                     96,
-                    82
+                    64
                 ],
                 "backgroundColor": [
                     "rgb(212,178,212)",

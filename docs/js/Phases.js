@@ -5,7 +5,7 @@ var tablePhases =
 {'Phases': 'Phase 2', 'count': 262, 'enrolled': 15694} , 
 {'Phases': 'Not Applicable', 'count': 146, 'enrolled': 7462} , 
 {'Phases': 'Phase 3', 'count': 59, 'enrolled': 8677} , 
-{'Phases': 'Early Phase 1', 'count': 37, 'enrolled': 1011} , 
+{'Phases': 'Early Phase 1', 'count': 36, 'enrolled': 993} , 
 {'Phases': 'Phase 2|Phase 3', 'count': 33, 'enrolled': 2268} , 
 {'Phases': 'Phase 4', 'count': 8, 'enrolled': 255} , 
 ]

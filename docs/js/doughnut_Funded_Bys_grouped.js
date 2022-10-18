@@ -34,8 +34,8 @@ const config_Funded_Bys_grouped = {
             {
                 "label": "auto_count",
                 "data": [
-                    299,
-                    87,
+                    298,
+                    88,
                     38,
                     2,
                     2,
@@ -72,12 +72,12 @@ const config_Funded_Bys_grouped = {
             {
                 "label": "undeclared_count",
                 "data": [
-                    178,
-                    30,
+                    177,
+                    29,
                     21,
                     2,
                     0,
-                    2
+                    1
                 ],
                 "backgroundColor": [
                     "rgb(153,102,255)",

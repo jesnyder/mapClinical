@@ -91,7 +91,7 @@ const config_Phases_grouped = {
                     31,
                     41,
                     5,
-                    8,
+                    7,
                     7,
                     3
                 ],

@@ -1,4 +1,4 @@
 var tableStudy Designs = 
 [
-{'Study Designs': ' ', 'count': 1462, 'enrolled': 68681} , 
+{'Study Designs': ' ', 'count': 1459, 'enrolled': 68478} , 
 ]

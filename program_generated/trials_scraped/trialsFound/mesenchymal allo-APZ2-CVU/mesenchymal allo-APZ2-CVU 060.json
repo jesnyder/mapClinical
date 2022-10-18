@@ -1,0 +1,165 @@
+{
+      "StudyFieldsResponse": {
+            "APIVrs": "1.01.05",
+            "DataVrs": "2022:10:12 23:20:22.323",
+            "Expression": "mesenchymal allo-APZ2-CVU",
+            "NStudiesAvail": 430639,
+            "NStudiesFound": 2,
+            "MinRank": 1,
+            "MaxRank": 1000,
+            "NStudiesReturned": 2,
+            "FieldList": [
+                  "BriefSummary",
+                  "BriefTitle",
+                  "CentralContactEMail",
+                  "CentralContactName",
+                  "CentralContactPhone",
+                  "CentralContactPhoneExt",
+                  "CentralContactRole",
+                  "CollaboratorClass",
+                  "CollaboratorName",
+                  "CompletionDate",
+                  "CompletionDateType",
+                  "Condition",
+                  "ConditionAncestorId",
+                  "ConditionAncestorTerm",
+                  "ConditionBrowseBranchAbbrev",
+                  "NCTId"
+            ],
+            "StudyFields": [
+                  {
+                        "Rank": 1,
+                        "BriefSummary": [
+                              "The aim of this clinical trial is to investigate the efficacy (by monitoring the wound size reduction of CVUs) and safety (by monitoring adverse events [AEs]) of three dose groups of the investigational medicinal product (IMP) allo-APZ2-CVU, topically administered on target wounds of patients with CVU compared to placebo."
+                        ],
+                        "BriefTitle": [
+                              "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)"
+                        ],
+                        "CentralContactEMail": [
+                              "office@rheacell.com",
+                              "anna.moessmer@rheacell.com"
+                        ],
+                        "CentralContactName": [
+                              "Christoph Ganss, Dr.",
+                              "Anna M\u00f6\u00dfmer"
+                        ],
+                        "CentralContactPhone": [
+                              "+49 6221 71833",
+                              "+49 6221 71833"
+                        ],
+                        "CentralContactPhoneExt": [
+                              "0",
+                              "0"
+                        ],
+                        "CentralContactRole": [
+                              "Contact",
+                              "Contact"
+                        ],
+                        "CollaboratorClass": [
+                              "INDUSTRY",
+                              "INDUSTRY"
+                        ],
+                        "CollaboratorName": [
+                              "FGK Clinical Research GmbH",
+                              "Ticeba GmbH"
+                        ],
+                        "CompletionDate": [
+                              "August 2023"
+                        ],
+                        "CompletionDateType": [
+                              "Anticipated"
+                        ],
+                        "Condition": [
+                              "Skin Ulcer Venous Stasis Chronic"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010335",
+                              "D000014648",
+                              "D000014652",
+                              "D000002318",
+                              "D000007871",
+                              "D000012871"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathologic Processes",
+                              "Varicose Veins",
+                              "Vascular Diseases",
+                              "Cardiovascular Diseases",
+                              "Leg Ulcer",
+                              "Skin Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC26",
+                              "BC14",
+                              "BC17",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT04971161"
+                        ]
+                  },
+                  {
+                        "Rank": 2,
+                        "BriefSummary": [
+                              "The aim of this clinical trial is to investigate the efficacy (by monitoring the wound size reduction of Chronic Venous Ulcers) and safety (by monitoring adverse events) of the medicinal product to be studied after two applications on the wound surface in patients with Chronic Venous Ulcers."
+                        ],
+                        "BriefTitle": [
+                              "Allogeneic ABCB5-positive Stem Cells for Treatment of CVU"
+                        ],
+                        "CentralContactEMail": [],
+                        "CentralContactName": [],
+                        "CentralContactPhone": [],
+                        "CentralContactPhoneExt": [],
+                        "CentralContactRole": [],
+                        "CollaboratorClass": [
+                              "INDUSTRY",
+                              "INDUSTRY",
+                              "OTHER"
+                        ],
+                        "CollaboratorName": [
+                              "FGK Clinical Research GmbH",
+                              "Ticeba GmbH",
+                              "Granzer Regulatory Consulting & Services"
+                        ],
+                        "CompletionDate": [
+                              "June 25, 2020"
+                        ],
+                        "CompletionDateType": [
+                              "Actual"
+                        ],
+                        "Condition": [
+                              "Skin Ulcer Venous Stasis Chronic"
+                        ],
+                        "ConditionAncestorId": [
+                              "D000010335",
+                              "D000014648",
+                              "D000014652",
+                              "D000002318",
+                              "D000007871",
+                              "D000012871"
+                        ],
+                        "ConditionAncestorTerm": [
+                              "Pathologic Processes",
+                              "Varicose Veins",
+                              "Vascular Diseases",
+                              "Cardiovascular Diseases",
+                              "Leg Ulcer",
+                              "Skin Diseases"
+                        ],
+                        "ConditionBrowseBranchAbbrev": [
+                              "BC23",
+                              "All",
+                              "BC26",
+                              "BC14",
+                              "BC17",
+                              "Rare"
+                        ],
+                        "NCTId": [
+                              "NCT03257098"
+                        ]
+                  }
+            ]
+      }
+}
