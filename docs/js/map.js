@@ -39,7 +39,7 @@ var overlays = {
 var layerControl = L.control.layers(baseLayers, overlays).addTo(map);
 var satellite = L.tileLayer(mbUrl, {id: 'mapbox/satellite-v9', tileSize: 512, zoomOffset: -1, attribution: mbAttr});
 layerControl.addBaseLayer(satellite, 'Satellite');
-layerControl.addOverlay(layerAllo, "Allogeneic MSC Source");
+
 
 
 function onEachFeature(feature, layer) {
